@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ tanacemeti, na ⟨את⟩ kaati, na ⟨את⟩ rahama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "tanacemeti"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "tanacemeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kaati"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "kaati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "rahama"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "rahama"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:44.333952023Z",
+  "model": "glm-5.3"
+}

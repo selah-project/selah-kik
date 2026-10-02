@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ndĩarĩ mũtheru hamwe na We, na ndĩngĩingĩrata nĩ ũthingũrũki wakwa.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ndĩarĩ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na We"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ndĩngĩingĩrata nĩ"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ũthingũrũki wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:26.084895323Z",
+  "model": "glm-5.3"
+}

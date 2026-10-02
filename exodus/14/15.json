@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩrĩa Yahwe oigĩte na Moce: Nĩ kĩĩ gĩtũmĩte ũkĩigua mũgambo nakwa? Ũrire andũ a Yiceraeri ũmwe magĩe mbere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩ kĩĩ"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "gĩtũmĩte ũkĩigua mũgambo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "magĩe mbere"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:37.723632991Z",
+  "model": "glm-5.3"
+}

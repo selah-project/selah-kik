@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Yahwe, inamithia igũrũ rĩaku na ũcoke thĩ; kũrũka irima, nĩcihũre thũni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "inamithia"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "na ũcoke thĩ"
+    },
+    {
+      "surface": "גע",
+      "gloss": "kũrũka"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "irima"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "nĩcihũre thũni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.136378300Z",
+  "model": "glm-5.3"
+}

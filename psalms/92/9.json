@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Na we, Yahwe, nĩwe ũrĩ igũrũ kuuma thautha mathinĩ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuuma thautha mathinĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.285550362Z",
+  "model": "glm-5.3"
+}

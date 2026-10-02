@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Oguo mwathi woigĩte: Hizikiyahu atakũmeenithia inyũi, nĩndũ ti o hota kũreha ⟨את⟩ inyũi kuuma moko make.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Oguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ata-"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "-kũmeenithia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyũi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "hota"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "kũreha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyũi"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "kuuma moko make"
+    }
+  ],
+  "timestamp": "2026-10-02T00:19:36.859531848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ĩndĩ rĩrĩa, ũcoora kwa gĩtereri, na kwa ũmenyo ũũrire mũgambo waku;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ĩndĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "kwa gĩtereri"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ũcoora"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "kwa ũmenyo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ũũrire"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "mũgambo waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:10.230016397Z",
+  "model": "glm-5.3"
+}

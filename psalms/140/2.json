@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Yahwe, nĩũnjokore kuuma mũndũ wa mwoyo; kuuma mũndũ wa mburũ nĩũngĩirĩre.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "nĩũnjokore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuuma mũndũ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wa mwoyo"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuuma mũndũ"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wa mburũ"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "nĩũngĩirĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:28.491946420Z",
+  "model": "glm-5.3"
+}

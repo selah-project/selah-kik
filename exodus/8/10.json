@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na magĩkũrania ⟨את⟩ mĩrũ yacio hahĩmwe na hahĩmwe-inĩ, na thĩ nĩĩambĩrĩirie kũnũha.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "magĩkũrania"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mĩrũ yacio"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hahĩmwe"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hahĩmwe-inĩ"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "nĩĩambĩrĩirie kũnũha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:38.335076494Z",
+  "model": "glm-5.3"
+}

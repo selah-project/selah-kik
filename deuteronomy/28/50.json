@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Ndũrĩ ĩrĩa ngoro yaayo nĩ ya hinya, ĩrĩa ĩtigĩheetanjĩra kwa mũkũrũ, na mwanake nĩamũtigĩhe ⟨tha⟩.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ndũrĩ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ĩrĩa hinya"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ngoro yaayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩti"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "gĩheetanjĩra"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "kwa mũkũrũ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "na mwanake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩti"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "gĩhe ⟨tha⟩"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:54.993166210Z",
+  "model": "glm-5.3"
+}

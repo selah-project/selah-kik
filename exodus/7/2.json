@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "We wũge ⟨את⟩ indo ciothe ndĩakwĩhoteire, na Aharoni mũrũ wa nyina waku agaũrire kwa Farao, nĩgo athikĩrie ⟨את⟩ aana a Yiceraeri kuuma thĩ-inĩ yake.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "wũge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ndĩakwĩhoteire"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wa nyina waku"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "agaũrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "nĩgo athikĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kuuma thĩ-inĩ yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:45.610933918Z",
+  "model": "glm-5.3"
+}

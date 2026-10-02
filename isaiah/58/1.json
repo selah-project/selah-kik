@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Karĩra nĩ gĩcoro, ndũkĩhũthagia; ta cegũ rĩngi mũgambo waku, ũrore andũ akwa mbũrarũ wao, na nyũmba ya Yaakobu mahĩtia mao.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Karĩra"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "nĩ gĩcoro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "kũhũthagia"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "ta cegũ"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "rĩngi"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "mũgambo waku"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "ũrore"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "mbũrarũ wao"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "na nyũmba ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "mahĩtia mao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:55:53.950072744Z",
+  "model": "glm-5.3"
+}

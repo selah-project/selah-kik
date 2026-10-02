@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Kĩĩini kĩa kũigana-inĩ. Nĩngaatĩra ⟨את⟩ macĩrĩ makwa ùkĩrĩra mĩgũnda-mĩrĩngĩ ya milima; kuuma handũ he kĩngũtũkĩra ũteithio wakwa?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩini"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "kĩa kũigana-inĩ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nĩngaatĩra"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macĩrĩ makwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ùkĩrĩra"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mĩgũnda-mĩrĩngĩ ya milima"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kuuma handũ he"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kĩngũtũkĩra"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ũteithio wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:59.999034483Z",
+  "model": "glm-5.3"
+}

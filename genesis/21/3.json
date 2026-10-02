@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Abarahamu aitĩkĩra ⟨את⟩ rĩĩtwa rĩa mũrũ wake ũrĩa aciarirwo, ũrĩa Cara amwethire, Yicaki.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "aitĩkĩra rĩĩtwa rĩa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa mũrũ wake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "ũrĩa aciarirwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "amwethire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Cara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:53.631883350Z",
+  "model": "glm-5.3"
+}

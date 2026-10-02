@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nake aikire ⟨את⟩ aciari na ⟨את⟩ aana cio mbere, na ⟨את⟩ Lecia na aana make thutha, na ⟨את⟩ Rakeri na ⟨את⟩ Yocifu mwena wa mũthia.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "aikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aciari"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "aciari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana cio"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "aana cio"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lecia"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lecia"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "na aana make"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rakeri"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yocifu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocifu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "mwena wa mũthia"
+    }
+  ],
+  "timestamp": "2026-10-01T20:48:18.456258744Z",
+  "model": "glm-5.3"
+}

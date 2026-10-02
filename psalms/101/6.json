@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Maitho makwa makorere arĩa maatĩĩtie thĩ, magĩkũikara hamwe nakwa; ũrĩa egetagĩra mutheenyo-inĩ wa ũthingu, niwe anatungatagĩra.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Maitho makwa"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "arĩa maatĩĩtie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "magĩkũikara"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hamwe nakwa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ũrĩa egetagĩra"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mutheenyo-inĩ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wa ũthingu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niwe"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "anatungatagĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:16.127619482Z",
+  "model": "glm-5.3"
+}

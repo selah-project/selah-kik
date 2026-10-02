@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Na hecedi ya Yahwe ĩrĩ kuuma tene na tene kinya tene na tene, igũrũ rĩa aría mamũigua woho wake, na cedeki yake ĩkĩrĩra kana ciana a ciana.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Na hecedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kuuma tene na tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "aría mamũigua woho wake"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na cedeki yake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ĩkĩrĩra kana"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana a ciana"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:13.323789051Z",
+  "model": "glm-5.3"
+}

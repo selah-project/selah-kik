@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Nĩngũikarĩra ngĩthikĩrĩria ũrĩa Ere Yahwe agĩiciookia; nĩgũkorwo agĩioiga thayu kana andũake, na kana arĩa me na hesedi, na matiũkĩte magĩcooka kana ũcio.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Nĩngũikarĩra ngĩthikĩrĩria"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "agĩiciookia"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "agĩioiga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kana"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "arĩa me na hesedi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "gĩcoka"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "kana ũcio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:03.970564732Z",
+  "model": "glm-5.3"
+}

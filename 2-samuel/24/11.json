@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Dawidi akĩmũthĩĩra kĩroko, na kĩugo kĩa Yahwe kĩrĩkĩire kĩũrĩre Gadi mũrathi, mũrora-mabuku wa Dawidi, na kĩuga:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akĩmũthĩĩra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩroko"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na kĩugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kĩrĩkĩire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩũrĩre"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "mũrora-mabuku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kĩuga"
+    }
+  ],
+  "timestamp": "2026-10-01T23:45:31.838816307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩaũrire atĩĩ Eri: Rĩkĩrĩ nĩgũkũnyua cowa? Erũkara ⟨את⟩ cowa gwaku mbee yaku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩaũrire"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "atĩĩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Rĩkĩrĩ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kana rĩrĩkĩ"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "nĩgũkũnyua cowa"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Erũkara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cowa gwaku"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "cowa gwaku"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "mbee yaku"
+    }
+  ],
+  "timestamp": "2026-10-01T23:09:28.474453120Z",
+  "model": "glm-5.3"
+}

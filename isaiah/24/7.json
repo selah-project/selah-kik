@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Njohi nĩ yĩrĩra ĩhahĩra, mũrũ wa mbembe nĩ wamũrĩre, arĩa mahee ngoricanio ciothe mehũrũraga.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Njohi nĩ yĩrĩra ĩhahĩra"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "njohi nĩ ya mbembe"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nĩ wamũrĩre"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mũrũ wa mbembe"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "mehũrũraga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "arĩa mahee ngoricanio"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoricanio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:35:13.798077057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩendete mũtw'ĩko, na nĩĩkamũkĩra; ndakenete thagĩ, na thagĩ nĩĩkahũrwo kũrĩ we.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "mũtw'ĩko"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "nĩĩkamũkĩra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kenete"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "thagĩ"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "nĩĩkahũrwo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kũrĩ we"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:16.582054258Z",
+  "model": "glm-5.3"
+}

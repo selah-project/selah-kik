@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Mbeũ nĩgũtumĩkĩra Adonai; nĩgũciara Adonai kwa mĩri ĩrĩa ĩkũya.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "mbeũ"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "nĩgũtumĩkĩra"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "nĩgũciara"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kwa mĩri ĩrĩa ĩkũya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:35.058414049Z",
+  "model": "glm-5.3"
+}

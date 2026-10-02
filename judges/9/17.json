@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Ũrĩa ithe wanyũ nĩarwanĩtie ainĩ yanyũ, na nĩagwetire ⟨את⟩ mwoyo wake megũrũ-inĩ, na nĩamũheanire yanyũ kuuma moko-inĩ ma Midiyani.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nĩarwanĩtie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wanyũ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ainĩ yanyũ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "nĩagwetire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwoyo wake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mwoyo wake"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "megũrũ-inĩ"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "nĩamũheanire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "yanyũ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    }
+  ],
+  "timestamp": "2026-10-01T23:00:55.880687456Z",
+  "model": "glm-5.3"
+}

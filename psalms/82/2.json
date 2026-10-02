@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 82,
+  "translation": "Nginya rĩkĩ mũciirie ũthemẽ, na mũrorete mũthenya ũrĩa mũhota? Cerahĩ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Nginya"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rĩkĩ"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "mũciirie"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ũthemẽ"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na mũrorete mũthenya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa arĩa memenete"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "ũrĩa mũhota"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerahĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:27.002094898Z",
+  "model": "glm-5.3"
+}

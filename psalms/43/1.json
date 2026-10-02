@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Erohimu, ndũthiithe macira, ũhohanĩrie ciĩra ĩgwa mahinda na ndũrĩrĩ ĩtarĩ theru; kuuma mũndũ wa mbĩri na wa kũhũra watho, nĩũnithĩrũkĩre.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "ndũthiithe macira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ũhohanĩrie"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ciĩra ĩgwa"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "mahinda na ndũrĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩtarĩ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "theru"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuuma mũndũ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wa mbĩri"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "na wa kũhũra watho"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "nĩũnithĩrũkĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:22.969043344Z",
+  "model": "glm-5.3"
+}

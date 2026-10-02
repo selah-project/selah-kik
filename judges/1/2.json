@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Yahwe oigĩte: Yehuda acooke; ona rĩrĩ, nĩndahete ⟨את⟩ thĩ magũrũ-inĩ make.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "acooke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona rĩrĩ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndahete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "magũrũ-inĩ make"
+    }
+  ],
+  "timestamp": "2026-10-01T22:55:09.772131533Z",
+  "model": "glm-5.3"
+}

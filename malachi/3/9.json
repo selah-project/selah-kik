@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na mũrahi nĩmũrahio, na inwe nĩmũnyahania ⟨את⟩ nĩĩndwa — ndũĩ yothe yĩyo.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "na mũrahi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inwe"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "nĩmũrahio"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "nĩĩndwa (Yahwe)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inwe"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "mũnyahania"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ndũĩ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:35.722174095Z",
+  "model": "glm-5.3"
+}

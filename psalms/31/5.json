@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩũngĩtũma ng'etwo thĩinĩ wa mbarathi ĩrĩa maahunĩirie kwa ndũre; nĩwe hinya wakwa.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "nĩũngĩtũma ng'etwo"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "mbarathi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "maahunĩirie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ndũre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "hinya wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:01.143913467Z",
+  "model": "glm-5.3"
+}

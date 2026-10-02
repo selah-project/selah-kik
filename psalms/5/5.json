@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩgũkũra ndũwe Ere ũrĩa ũrĩ enda kĩhĩtũka; ũru ndũgĩa kũikara aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkũra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "enda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kĩhĩtũka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "gĩa kũikara aku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:21.415908946Z",
+  "model": "glm-5.3"
+}

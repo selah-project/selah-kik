@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Ciheoni mwathi wa Aemori, na Ogi mwathi wa Bacani, na ithĩĩro ciothe cia Kenaani.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Ciheoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Aemori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "wa Bacani"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na aothe"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ithĩĩro"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "cia Kenaani"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.412758696Z",
+  "model": "glm-5.3"
+}

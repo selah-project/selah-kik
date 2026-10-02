@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Kũrĩara nĩakuŋĩire kũrĩ wawe, nĩũmũheire; mĩthenya mĩnene, tene na tene.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "kũrĩara"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nĩakuŋĩire"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kũrĩ wawe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "nĩũmũheire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩmũhe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mĩnene"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:37.471750284Z",
+  "model": "glm-5.3"
+}

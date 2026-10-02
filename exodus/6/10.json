@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩ ũndũ wa kĩrĩa, Yahwe akaria kũrĩ Moce, akĩmũũria atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akaria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩmũũria atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:05.371653527Z",
+  "model": "glm-5.3"
+}

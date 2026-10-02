@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na aana a Yiceraeri maingĩra gĩthereroinĩ kĩa kĩanja, thĩ yaonjekũ-inĩ; na maa macĩtuĩkĩra kĩhingo, kuanĩte kwanja-rĩ wao na motho-rĩ wao.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "maingĩra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gĩthereroinĩ kĩa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "thĩ yaonjekũ-inĩ"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "na maa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "macĩtuĩkĩra"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kĩhingo"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "kuanĩte kwanja-rĩ wao"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "na motho-rĩ wao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:07.105623081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 8:18",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Benayahu mũrũ wa Yehoyada, na aCerethi na aFelethi; na aana a Dawidi maarĩ athĩnjĩri a Ngai.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Na Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na aCerethi"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "na aFelethi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "athĩnjĩri a Ngai"
+    },
+    {
+      "surface": "היו",
+      "gloss": "maarĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:31:27.663478356Z",
+  "model": "glm-5.3"
+}

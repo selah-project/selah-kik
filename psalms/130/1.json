@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Kĩĩro kĩa mahiga-inĩ. Kuuma mĩena mĩnene ya thĩ nĩng'etire We, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩro"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "kĩa mahiga-inĩ"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "kuuma mĩena mĩnene ya thĩ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nĩng'etire We"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:43.864744365Z",
+  "model": "glm-5.3"
+}

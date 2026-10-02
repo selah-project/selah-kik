@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ũkaĩkahora macunci cia njathi makumi ithano, ũcooka ũnyitithia ⟨את⟩ macunci thĩinĩ wa matũũto, na ũkahũranĩte ⟨את⟩ hema, nĩtuĩke ĩmwe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ũkaĩkahora"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "macunci"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cia njathi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi ithano"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ũcooka ũnyitithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macunci"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "macunci"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "thĩinĩ wa matũũto"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "na ũkahũranĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nĩtuĩke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:41.017993716Z",
+  "model": "glm-5.3"
+}

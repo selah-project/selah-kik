@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Cedeki nĩ ya ndungata, mahoya maku mathikĩrire ma ũtheru; nĩngĩheuo kĩĩmenyo, nĩngĩkorwo mũhothi.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mahoya maku mathikĩrire"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya ndungata"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "nĩngĩheuo kĩĩmenyo"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "nĩngĩkorwo mũhothi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:52.069734154Z",
+  "model": "glm-5.3"
+}

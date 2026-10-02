@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kĩrigo kĩa kiugo kĩa Yahwe kĩrĩ Yiceraeri, mwoko-inĩ wa Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "kĩrigo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mwoko-inĩ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "wa Malaki"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:13.937621772Z",
+  "model": "glm-5.3"
+}

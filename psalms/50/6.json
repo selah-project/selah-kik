@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Na igũrũ nĩciarangĩra cedeki wayo; nĩgũkorwo Erohimu we mũene nĩrĩ mũruti wa ciira. Ceraha.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "nĩciarangĩra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "cedeki wayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "mũruti wa ciira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mũene"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ceraha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:19.926127836Z",
+  "model": "glm-5.3"
+}

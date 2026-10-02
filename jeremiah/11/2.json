@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Ĩĩthĩranĩ ⟨את⟩ ciugo cia kĩrĩkanĩro kĩu, nĩmũũga na andũ a Yuda na arĩa maikarĩte Yerucarayimu;",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ĩĩthĩranĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia kĩrĩkanĩro kĩu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "nĩmũũga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa maikarĩte"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T01:08:14.508546252Z",
+  "model": "glm-5.3"
+}

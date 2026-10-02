@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na ũikare ⟨את⟩ mizibahi wa kũratura mbere ya mũrango wa Micikani, wa Otii ya Kũtikĩranĩra.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "na ũikare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizibahi wa kũratura"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizibahi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wa kũratura"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Otii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kũtikĩranĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:22.372480517Z",
+  "model": "glm-5.3"
+}

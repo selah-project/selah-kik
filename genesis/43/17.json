@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Na mũndũ ũcio nĩekĩte ta ũrĩa Yocɛfu aigana, na mũndũ ũcio nĩatwarĩte ⟨את⟩ andũ moiga nyũmba-inĩ ya Yocɛfu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩekĩte"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aigana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocɛfu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nĩatwarĩte"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yocɛfu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:20.822564214Z",
+  "model": "glm-5.3"
+}

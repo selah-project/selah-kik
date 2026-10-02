@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Icoco ciake ciikaragĩra mũno-inĩ; Erohimu nĩwe ahotite wega wake ũcio ũrĩa ene-mbeva nĩmakĩhootwo.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "icoco ciake"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ciikaragĩra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mũno-inĩ"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "nĩwe ahotite"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "wega wake ũcio"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ũrĩa ene-mbeva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu nĩmakĩhootwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:28.069487978Z",
+  "model": "glm-5.3"
+}

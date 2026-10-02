@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na ĩno nĩcio mũtikarĩokaga kũria kwa inyuĩ: Neceri, na Pereci, na Aziniya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na ĩno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩcio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mũtika"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "rĩoke kũria"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kwa inyuĩ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "Neceri"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "na Pereci"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "na Aziniya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:24:14.249728445Z",
+  "model": "glm-5.3"
+}

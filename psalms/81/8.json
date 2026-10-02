@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Rĩrĩa wĩ thĩna-inĩ wĩkaithĩra, nakwa ndakũhonokia; ngakũcookia thĩinĩ wa kĩũmbũ kĩa thũrama; ngakwĩrarĩria harĩa maji wa Mariiba. Cera.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "thĩna-inĩ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wĩkaithĩra"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "nakwa ndakũhonokia"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ngakũcookia"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "thĩinĩ wa kĩũmbũ kĩa"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "thũrama"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ngakwĩrarĩria"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maji"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "wa Mariiba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:36.489531621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Rĩrĩa o ũguo — ndĩngĩithamie kũrĩa kũnene, ndĩngĩgũthii nakũ, ngĩikara thĩinĩ wa gĩthaka. Cera.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "rĩrĩa o ũguo"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ndĩngĩithamie kũrĩa kũnene"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ndĩngĩgũthii nakũ"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ngĩikara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩinĩ wa gĩthaka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:29.626693651Z",
+  "model": "glm-5.3"
+}

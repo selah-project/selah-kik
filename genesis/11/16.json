@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Ereri nĩaire mĩaka mĩrongo ithatũ na inya, akĩciarĩra ⟨את⟩ Peregi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nĩaire"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ereri"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mĩrongo ithatũ na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peregi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peregi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:11.321986455Z",
+  "model": "glm-5.3"
+}

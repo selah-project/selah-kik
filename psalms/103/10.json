@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Ti ta mahĩtia maitũ agĩkĩre ithũ, na ti ta mĩthiaro yaitũ agĩthĩrire ithũ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "ta mahĩtia maitũ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agĩkĩre"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "ta mĩthiaro yaitũ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "agĩthĩrire"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ithũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:19.127427827Z",
+  "model": "glm-5.3"
+}

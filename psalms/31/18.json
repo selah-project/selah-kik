@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Yahwe, ndĩngĩhonanwo, nĩgũ nĩngũkũĩita; andũ marũ mahonanwo, mage thĩ kũrĩ Ceori.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ngĩhonanwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nĩngũkũĩita"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahonanwo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "andũ marũ"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "mage thĩ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kũrĩ Ceori"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:46.068354572Z",
+  "model": "glm-5.3"
+}

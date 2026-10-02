@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 149,
+  "translation": "Kũmanithania athamaki aco nyũngũ-inĩ, na anene aco minyũrũ-inĩ ya caturubũ.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kũmanithania"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "athamaki aco"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "nyũngũ-inĩ"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "na anene aco"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "minyũrũ-inĩ ya"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "caturubũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:43.178537969Z",
+  "model": "glm-5.3"
+}

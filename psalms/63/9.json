@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Ndũrĩrie-inĩ wakwa nĩnyitĩire iyo nakĩrĩkũrire; nginya kwakwa guoko gwaku kwa oria ithenya nĩguo kũoranĩre.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "nĩnyitĩire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ndũrĩrie-inĩ wakwa"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "iyo nakĩrĩkũrire"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nginya kwakwa"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "nĩguo kũoranĩre"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "guoko gwaku kwa oria ithenya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:36.355645141Z",
+  "model": "glm-5.3"
+}

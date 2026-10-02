@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Ũrĩa watungatĩra ⟨את⟩ andũ ake gĩthaka-inĩ, nĩgũkorwo hecedi wake ũikaraga na tene na tene.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Ũrĩa watungatĩra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthaka-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na tene na tene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake ũikaraga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:48.858698985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Nĩrĩa Yahwe akĩwoora kwa Moce na kwa Aharoni, akiuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩwoora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga:"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:40.549345301Z",
+  "model": "glm-5.3"
+}

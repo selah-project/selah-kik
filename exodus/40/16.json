@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Moce akĩĩra ũguo: o hamwe na ⟨the⟩ o ũrĩa Yahwe aamũteithĩtie ⟨את⟩, nĩguo agĩkĩra.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "o hamwe na o ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aamũteithĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-yake",
+      "marks": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agĩkĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:05.335704808Z",
+  "model": "glm-5.3"
+}

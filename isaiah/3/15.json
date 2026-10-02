@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩkĩ mũcũngĩrĩra andũ akwa, na irigithi cia arĩa makenyete mũraya? Nĩ Yahwe oigĩte — Adonai Yahwe Cebaoti.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "nĩkĩ mũgĩĩte"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "mũcũngĩrĩra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na irigithi cia"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "arĩa makenyete"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "mũraya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:34.758886841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 128,
+  "translation": "Rorangĩ! Nĩguo mũndũ ũrĩ mũgothe Yahwe ahoragĩrũo na ũgeni.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rorangĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "guo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ahoragĩrũo na ũgeni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ũrĩ mũgothe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:50.041457707Z",
+  "model": "glm-5.3"
+}

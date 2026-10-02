@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Aathũma kiugo gĩake hathiari, ciararikana gũcunjũkĩra; agĩcoka agathĩra ruaki wake, mai mothe magĩcoora marathĩkũra.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "aathũma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kiugo gĩake"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "magĩcunjũkĩra"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agathĩra"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaki wake"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "magĩcoora marathĩkũra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:40.249757735Z",
+  "model": "glm-5.3"
+}

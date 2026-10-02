@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nao mwana wa mũcũĩrũ nĩngamũthia agĩtũũra ũndũmũrũ, nĩgũkorwo nĩ mwana waku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa mũcũĩrũ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "agĩtũũra ũndũmũrũ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "nĩngamũthia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mwana waku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:57.218367290Z",
+  "model": "glm-5.3"
+}

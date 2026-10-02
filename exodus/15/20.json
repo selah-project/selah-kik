@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Miriami mũrathi mũka, mũrũ wa nyina wa Aharoni, aamũtitie ⟨את⟩ ng'oma mwoko wake; atumia aothe maathii thutha wake, harĩ ng'oma na ngwatio.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "aamũtitie"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriami"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "mũrathi mũka"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mũrũ wa nyina"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'oma"
+    },
+    {
+      "surface": "התף",
+      "gloss": "ng'oma"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "mwoko wake"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "maathii thutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "harĩ ng'oma"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "na ngwatio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:29.566053266Z",
+  "model": "glm-5.3"
+}

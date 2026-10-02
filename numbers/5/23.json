@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na mũthahũwe nĩgũandĩka ⟨את⟩ ciambio icio mũcũanjũrũ-inĩ, na magũcokanĩrithia thĩinĩ wa mairũ manaũ.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "nĩgũandĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciambio icio"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "ciambio"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "icio"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthahũwe"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mũcũanjũrũ-inĩ"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "na magũcokanĩrithia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mairũ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "manaũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:53:24.976197241Z",
+  "model": "glm-5.3"
+}

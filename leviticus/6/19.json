@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Mũthiji ũrĩa ũheaga kĩheo kĩa ihĩtia nĩarĩa arĩkũrĩa ⟨את⟩ kĩo; harĩa mũtheru nĩkũo kĩkahĩa, kĩaroinĩ kĩa hema ya gũcokanĩra.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "mũthiji"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "ũrĩa ũheaga kĩheo kĩa ihĩtia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo kĩa ihĩtia (kĩo)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "nĩarĩa arĩkũrĩa kĩo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kĩkahĩa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kĩaroinĩ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya gũcokanĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:30:40.648379745Z",
+  "model": "glm-5.3"
+}

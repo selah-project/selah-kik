@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 79,
+  "translation": "Nĩmahe ⟨את⟩ matũmbĩ ma atumia aku kĩrĩa gĩa cianjũ cia igũrũ; nyama ya arĩa ũendete, nyamu cia thĩ.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "nĩmahe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matũmbĩ ma atumia aku"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "matũmbĩ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "atumia aku"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kĩrĩa gĩa"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "cianjũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cia igũrũ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "arĩa ũendete"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "nyamu cia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:39.849693097Z",
+  "model": "glm-5.3"
+}

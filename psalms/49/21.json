@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Mũndũ ũrĩ ũthingu-inĩ, na ndamenye, nĩehanagwo ta nyamũ iria ciahithĩte.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Mũndũ"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ũthingu-inĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndamenye"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "kũmenya"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "nĩehanagwo"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ta nyamũ"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ciahithĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:37.095791688Z",
+  "model": "glm-5.3"
+}

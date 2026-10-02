@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Ngoro yakwa nĩyakuanĩte mũno thĩinĩ wakwa; rĩrĩa ndĩrĩkĩraga, mwaki nĩũranyuaga; ndakĩra na rũimi rwa nyina rwa kana rũimi rwa nyina rwa rũimi rwakwa.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "nĩyakuanĩte mũno"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Ngoro yakwa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "rĩrĩa ndĩrĩkĩraga"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "nĩũranyuaga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mwaki"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndakĩra"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "na rũimi rwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:23.606394897Z",
+  "model": "glm-5.3"
+}

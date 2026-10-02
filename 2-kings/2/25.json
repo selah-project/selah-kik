@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩndiathĩire kuo, agĩthii kilima kĩa Karameri; na kuuma kuo agĩcookia, agĩthii Comoroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nĩndiathĩire"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agĩthii"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "kĩa Karameri"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "na kuuma kuo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "agĩcookia"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comoroni"
+    }
+  ],
+  "timestamp": "2026-10-02T00:04:56.855843672Z",
+  "model": "glm-5.3"
+}

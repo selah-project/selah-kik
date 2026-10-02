@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mwathi wa Micirayimu akĩhĩanĩra na acĩhĩa, akĩmeeteria atĩrĩ: Nĩgĩtũ kĩndũ kĩu mwĩkĩte, na gũcoka mwerehithia ⟨את⟩ aciana arũme?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩhĩanĩra na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "acĩhĩa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeeteria"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nĩgĩtũ"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "mwĩkĩte"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩndũ kĩu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "mwerehithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aciana arũme"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "aciana arũme"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:04.515883862Z",
+  "model": "glm-5.3"
+}

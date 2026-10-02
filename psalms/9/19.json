@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩgũkoruo mũkenũo ndangĩhiitĩkĩrio wa tene na tene; gĩterẽ kĩa arĩa me hinya-inĩ kĩdatingĩhĩra ho tene na tene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wa tene na tene"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "kũhiitĩkĩrio"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mũkenũo"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "gĩterẽ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "arĩa me hinya-inĩ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "kũhĩra"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:18.229439194Z",
+  "model": "glm-5.3"
+}

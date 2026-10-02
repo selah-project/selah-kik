@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mũtumia wake wa ihinda, rĩĩtwa rĩake Reuma, naye akaciara ⟨את⟩ Tebahi, na ⟨את⟩ Gahamu, na ⟨את⟩ Tacahi, na ⟨את⟩ Maaka.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "na mũtumia wake wa ihinda"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akaciara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebahi"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gahamu"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gahamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tacahi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tacahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:45.365967719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "O we tu ndĩwe ibere rĩakwa na ũhokeri wakwa; kĩrĩma gĩa kwĩũngĩrĩra kwakwa; ndĩngĩhinyũrũka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ibere rĩakwa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na ũhokeri wakwa"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kĩrĩma gĩa kwĩũngĩrĩra kwakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ngĩhinyũrũka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:25.282300555Z",
+  "model": "glm-5.3"
+}

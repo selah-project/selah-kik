@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mũenda ciutura nĩ mũenda kimenyi; na mũmena kũtua nĩ mwĩhũ.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mũenda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ciutura"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mũenda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kimenyi"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "na mũmena"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "kũtua"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mwĩhũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:51:58.247830732Z",
+  "model": "glm-5.3"
+}

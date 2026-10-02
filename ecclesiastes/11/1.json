@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Thuma mugati waku igũrũ, rũera rĩa maĩ, nĩgũkorwo thĩinĩ wa mĩthenya mĩingĩ nĩũkuona ũguo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Thuma"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "mugati waku"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rũera rĩa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "thĩinĩ wa mĩngi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "nĩũkuona ũguo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:43:35.651830398Z",
+  "model": "glm-5.3"
+}

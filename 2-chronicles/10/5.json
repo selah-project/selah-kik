@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Akĩmegetera atĩrĩ: Inda mĩthenya ĩtatu, rĩkamarara kũinĩ; nao andũ acio magĩthĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmegetera"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "inda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ĩtatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "rĩkamarara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũinĩ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "magĩthĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ acio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:48:27.546596877Z",
+  "model": "glm-5.3"
+}

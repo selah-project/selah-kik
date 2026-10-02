@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Ahazi akĩgĩkwa ⟨את⟩ rea na ⟨את⟩ wahĩa iria cionekanĩirie nyũmba-inĩ ya Yahwe na matũmbĩ-inĩ ma nyũmba ya mwathi, akĩrũmbũnya kũrĩ mwathi wa Acuri — kĩheo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩgĩkwa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rea"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "rea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wahĩa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wahĩa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "iria cionekanĩirie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "na matũmbĩ-inĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ma nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akĩrũmbũnya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kũrĩ mwathi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Acuri"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kĩheo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:18:42.609064532Z",
+  "model": "glm-5.3"
+}

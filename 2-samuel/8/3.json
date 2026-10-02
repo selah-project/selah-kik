@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Dawidi akĩhahũra ⟨את⟩ Haradezeri mũrũ wa Rehobu, mwathi wa Coba, rĩrĩa we ahorire gũcookeretha moko wake rũĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akĩhahũra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haradezeri"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Haradezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Coba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "rĩrĩa we ahorire"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "gũcookeretha"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko wake"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "rũĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:29:17.975153134Z",
+  "model": "glm-5.3"
+}

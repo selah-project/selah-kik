@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Benyaminu akibarire ⟨את⟩ Bera, mũcene wake wa mbere; Aciberi ũrĩa wa kerĩ, na Aharahi ũrĩa wa gatatũ.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Na Benyaminu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akibarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mũcene wake wa mbere"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Aciberi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ũrĩa wa kerĩ"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "na Aharahi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ũrĩa wa gatatũ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:28.578332598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Ũikare ⟨את⟩ mizibahi wa zahabu wa kũretwo vatũrũ, mbere ya Aroni ya Ciira, na ũikare ⟨את⟩ kĩgũrũgũnjũ kĩa mũrango wa Micikani.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ũikare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizibahi wa zahabu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizibahi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wa zahabu"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "wa kũretwo vatũrũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya Ciira"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "na ũikare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgũrũgũnjũ kĩa mũrango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kĩgũrũgũnjũ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "kĩa mũrango"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "wa Micikani"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:22.372078618Z",
+  "model": "glm-5.3"
+}

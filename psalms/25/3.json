@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "O ngĩingĩhĩtwo andũ othe ahĩũrĩtie kwawe; maciohĩtwo athũnjũrũku hatarĩ gĩtũmi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "O"
+    },
+    {
+      "surface": "כל",
+      "gloss": "andũ othe"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ahĩũrĩtie kwawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matangĩ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ehĩtwo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "maciohĩtwo"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "athũnjũrũku"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "hatarĩ gĩtũmi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:51.754958223Z",
+  "model": "glm-5.3"
+}

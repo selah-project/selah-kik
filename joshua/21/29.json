@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmuti na ⟨את⟩ migirasha yayo, ⟨את⟩ En-Gani na ⟨את⟩ migirasha yayo — mĩciĩ inya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmuti"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migirasha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migirasha yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "En-Gani"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Gani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migirasha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migirasha yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:54.533131137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ndũhũnjie ũru kũrĩ mũrĩwe waku, na ⟨arĩ⟩ arĩtũĩte cuma-inĩ nawe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "kũhũnjia"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mũrĩwe waku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na arĩ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "arĩtũĩte"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "cuma-inĩ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:03.754812137Z",
+  "model": "glm-5.3"
+}

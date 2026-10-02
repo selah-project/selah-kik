@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Thayai hakima, thayai ũi; ĩndĩ wĩregire, na ĩndĩ wĩtherere kuuma ciugo cia kanwa gwakwa.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "thayai"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakima"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "thayai"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ũi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩndĩ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wĩregire"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ĩndĩ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "wĩtherere"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "kuuma ciugo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cia kanwa gwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:45:44.255687687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩakĩrĩria kwakwa atĩrĩ: Mwana wa mũndũ, thĩĩ, ũingĩre andũ a nyũmba ya Yiceraeri, ũkabarĩre ciugo cĩakwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩakĩrĩria atĩrĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "thĩĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ũingĩre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "andũ a nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ũkabarĩre"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ciugo cĩakwa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:44:22.868182223Z",
+  "model": "glm-5.3"
+}

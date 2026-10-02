@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 4:16",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Amũkĩra, we rũhuho rwa rũraya, na we rũa rwa ũthiĩro, ũhuhie karũa gakwa, nĩgũo vacami iake ciũrahithanie. Mwendwa wakwa agĩcoka, na makĩa kũma karũa gake, na arĩe mboco cia thamũ ciao.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "amũkĩra"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "rũhuho rwa rũraya (kũtheri)"
+    },
+    {
+      "surface": "ובואי",
+      "gloss": "na ũgĩcoka"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "rũa rwa ũthiĩro"
+    },
+    {
+      "surface": "הפיחי",
+      "gloss": "ũhuhie"
+    },
+    {
+      "surface": "גני",
+      "gloss": "karũa gakwa"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "nĩgũo ... ciũrahithanie"
+    },
+    {
+      "surface": "בשמיו",
+      "gloss": "vacami iake"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "agĩcoka"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mwendwa wakwa"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "kũma karũa gake"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na arĩe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "מגדיו",
+      "gloss": "iria ciingĩ thĩ ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T04:27:58.570618156Z",
+  "model": "glm-5.3"
+}

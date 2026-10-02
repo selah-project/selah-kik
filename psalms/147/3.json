@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Nĩũhoreragia arĩa mamarwo ngoro, na nĩũcokerithagia kwararĩ cia mwoyo mao.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "nĩũhoreragia"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "arĩa mamarwo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "na nĩũcokerithagia"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "kwararĩ cia mwoyo mao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:46.444531566Z",
+  "model": "glm-5.3"
+}

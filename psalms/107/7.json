@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Na akĩmathondekera harĩ thoni ĩrĩa ĩtheri, gũcĩũra kũhĩra mũcĩĩ ũrĩa woome.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "akĩmathondekera"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "harĩ thoni"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ĩrĩa ĩtheri"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gũcĩũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũhĩra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũcĩĩ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ũrĩa woome"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.823485136Z",
+  "model": "glm-5.3"
+}

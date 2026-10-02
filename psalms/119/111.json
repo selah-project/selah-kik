@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Ndũmĩrĩri yaku nĩyamũrĩte hooya; nĩcio gĩkeno kya ngoro yakwa ⟨ndĩcio⟩.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "nĩyamũrĩte"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ndũmĩrĩri yaku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hooya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgetha"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gĩkeno"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nĩcio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:13.442951950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 79,
+  "translation": "Ũtikamenye maũndũ ma tene macio kana mahĩtia macio mathĩinĩ witu; harĩkĩra thĩ njcirĩ ciaku cĩtũgerage; nĩgũkorwo nĩtwĩhũrĩtwo mũno.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ũtika"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "menye"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "thĩinĩ witu"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ma tene"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "harĩkĩra"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "cĩtũgerage"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "njcirĩ ciaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "nĩtwĩhũrĩtwo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:09.109704181Z",
+  "model": "glm-5.3"
+}

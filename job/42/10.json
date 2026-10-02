@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Na Yahwe nĩagĩrĩirie ⟨hinya⟩ ⟨את⟩ ibere rĩa Iyobu rĩrĩa ahooyaga ũhoro wa andũ arĩa amenetaga nĩguo; na Yahwe nĩmĩcirĩirie Iyobu indo ciake ⟨את⟩ ciothe igĩtuĩka ⟨mbũrũ⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nĩagĩrĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibere rĩa Iyobu"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ibere rĩa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "rĩrĩa ahooyaga"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ũhoro wa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "andũ arĩa amenetaga nĩguo"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "nĩmĩcirĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciake ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cia"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "cia Iyobu"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "mbũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:27:26.627422054Z",
+  "model": "glm-5.3"
+}

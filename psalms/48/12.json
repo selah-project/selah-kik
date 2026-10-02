@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Kĩrĩma kĩa Ciyoni kĩgĩkorũo kĩhenio, na cianĩ cia Yuda cĩgĩkorũo cĩrĩkagia ioima, nĩ cira ciaku.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "kĩgĩkorũo kĩhenio"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "cĩgĩkorũo cĩrĩkagia ioima"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "cianĩ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ cira ciaku"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "cira ciaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:17.898242507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na kuuma kĩrĩ-inĩ kĩa Gadi, ⟨את⟩ Raamothi thĩinĩ wa Giricadi, na ⟨את⟩ ndawa ciayo, na ⟨את⟩ Mahanayimu, na ⟨את⟩ ndawa ciayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Na kuuma kĩrĩ-inĩ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kĩa Gadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamothi"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamothi"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "thĩinĩ wa Giricadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndawa ciayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ndawa ciayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mahanayimu"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndawa ciayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ndawa ciayo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:30.634454663Z",
+  "model": "glm-5.3"
+}

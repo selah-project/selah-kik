@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "na gũrutithia ⟨את⟩ ana a Yiceraeri ⟨את⟩ miwatho yothe arĩa Yahwe akoire maku, mkonoini mwa Moce.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "na gũrutithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miwatho yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "miwatho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akoire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "maku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkonoini mwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:08.388453489Z",
+  "model": "glm-5.3"
+}

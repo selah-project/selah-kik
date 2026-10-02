@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Magĩthĩnja maũndũ ma ũru; makĩuga nĩmahekĩte ũthĩnja wa kĩeha; na meciria wa mũndũ o wothe, na ngoro yake, nĩ irĩ kĩigana kĩnene.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "magĩthĩnja"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "maũndũ ma ũru"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "nĩmahekĩte"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ũthĩnja"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "wa kĩeha"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "na meciria"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na ngoro"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "kĩigana kĩnene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:14.753994808Z",
+  "model": "glm-5.3"
+}

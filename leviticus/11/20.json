@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "O hothe kĩa kũinũrania kĩrĩa kĩngĩrũrũka, kĩrĩa gĩhĩtĩkaga thĩ kana kũgũtha mecirĩ inya, nĩ kĩeni kwa nyinyi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "O hothe"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "kĩa kũinũrania"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "kĩrĩa kĩngĩrũrũka"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kĩrĩa gĩhĩtĩkaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kĩeni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa nyinyi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:44.335483Z",
+  "model": "glm-5.3"
+}

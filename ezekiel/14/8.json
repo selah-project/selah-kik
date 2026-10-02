@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 14:8",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩngĩhĩtĩka ndũcirĩ-inĩ yakwa mũndũ ũcio, na nĩngĩmũtua cĩanja na mĩrugamwo ya andũ, na nĩngĩmũtherera kuma hagati ya andũ aku, na mũmenye atĩ nĩĩrĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩngĩhĩtĩka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ndũcirĩ-inĩ yakwa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "והשמתיהו",
+      "gloss": "nĩngĩmũtua"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "cĩanja"
+    },
+    {
+      "surface": "ולמשלים",
+      "gloss": "na mĩrugamwo ya andũ"
+    },
+    {
+      "surface": "והכרתיו",
+      "gloss": "nĩngĩmũtherera"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kuma hagati"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya andũ aku"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mũmenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:51:27.057530263Z",
+  "model": "glm-5.3"
+}

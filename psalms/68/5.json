@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Iimbai Erohimu, iimbai-rĩngĩ rĩitwa rĩake; mũnyiitanĩrie ũrĩa ũthambagĩra irĩngarĩ; rĩitwa rĩake nĩro Yah; na ikai gũkena mbere yake.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Iimbai"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "iimbai-rĩngĩ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩitwa rĩake"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "mũnyiitanĩrie"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "ũrĩa ũthambagĩra"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "irĩngarĩ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩitwa rĩake"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "na ikai gũkena"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:12.719732983Z",
+  "model": "glm-5.3"
+}

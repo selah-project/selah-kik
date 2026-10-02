@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 2:14",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Akĩtora ⟨את⟩ adereti ya Eriyahu ĩrĩa yaakũrire kũrĩ we, akĩruta ⟨את⟩ mai, na akĩuga: Yahwe, Erohimu wa Eriyahu, arĩ kũ? Nakũ we mwene akĩruta ⟨את⟩ mai, magĩcokanĩrĩrwo kũo na kũo, na Elicha agĩcũrania.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩtora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adereti"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "adereti"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "yaakũrire"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "akĩruta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "איה",
+      "gloss": "arĩ kũ?"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "não"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we mwene"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "akĩruta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "magĩcokanĩrĩrwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na kũo"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "agĩcũrania"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicha"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:50.312719469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na nyũmba ya Yiceraeri ĩĩhootethe ⟨את⟩ rĩĩtwa rayo Mani; na yakorwo ta mbegu ya gadi, ĩrerũ; na metho make makorwo ta irũga rĩa ũthũ.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ĩĩhootethe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rayo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Mani"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na yakorwo"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ta mbegu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gadi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ĩrerũ"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "na metho make"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "ta irũga"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "rĩa ũthũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:13.596648178Z",
+  "model": "glm-5.3"
+}

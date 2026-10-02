@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩnĩgĩcokia ⟨את⟩ cianĩ cyakwa kũrĩ Adonai, Erohimu, nĩgũcoora thiithi na mahoya manini, na gũciara nda, na nguo ya thũ, na mavumbi.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Nĩnĩgĩcokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cianĩ cyakwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "cianĩ cyakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "nĩgũcoora"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thiithi"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "na mahoya manini"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "na gũciara nda"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "na nguo ya thũ"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "na mavumbi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:58:25.970116344Z",
+  "model": "glm-5.3"
+}

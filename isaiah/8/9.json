@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 8:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Rwarukanĩ, ndũrĩrĩ, na mũhinywo; ithikĩrani, arĩa mothe mĩena ya thĩ ya kũrĩ hare; ĩratani mĩena, na mũhinywo; ĩratani mĩena, na mũhinywo.",
+  "tokens": [
+    {
+      "surface": "רעו",
+      "gloss": "rwarukanĩ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "na mũhinywo"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "na ithikĩrani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מרחקי",
+      "gloss": "arĩa mĩena ya kũrĩ hare"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ĩratani mĩena"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "na mũhinywo"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ĩratani mĩena"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "na mũhinywo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:49.354602567Z",
+  "model": "glm-5.3"
+}

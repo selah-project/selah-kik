@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũndũ akĩuga: Mũka ũrĩa wĩngenethere njeri-inĩ yakwa, niĩ ndananĩrire kũria mũtĩ ũcio, nĩrĩo nĩndĩrirĩtie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wĩngenethere"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "njeri-inĩ yakwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niĩ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ndananĩrire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kũrĩ-inĩ iyũ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kũria"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nĩndĩrirĩtie"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:17.471392592Z",
+  "model": "glm-5.3"
+}

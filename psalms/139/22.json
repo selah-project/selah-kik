@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Na ũmenethĩ wa mũthia nĩo nĩnĩmenete nao; nĩmaatuĩte thũ cia kwa nĩ.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "wa mũthia"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ũmenethĩ"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "nĩnĩmenete nao"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nĩmaatuĩte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa nĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:26.609063048Z",
+  "model": "glm-5.3"
+}

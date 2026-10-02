@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Aaguure ciira arĩa maharĩirie andũ-inĩ, ahonĩrie ciana cia arĩa mari ihote, na amĩhũrĩte mũhooci.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "aaguure ciira"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "arĩa maharĩirie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ-inĩ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ahonĩrie"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "arĩa mari ihote"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "na amĩhũrĩte"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "mũhooci"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:44.372784737Z",
+  "model": "glm-5.3"
+}

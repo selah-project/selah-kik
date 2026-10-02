@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na nĩ mwendũ mũnyiinganithia, na nĩ mwendũ ngĩhaana nayo? Mũtheru oigĩte.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na nĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mwendũ"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mũnyiinganithia"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "ngĩhaana nayo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:24.151792307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Mũthĩki agĩthiĩ, agĩcooya, na agĩũrĩra Dawidi ⟨את⟩ macio yothe Yoabu kũmũhoreria.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mũthĩki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩcooya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "agĩũrĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "macio"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kũmũhoreria"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:34:35.452479109Z",
+  "model": "glm-5.3"
+}

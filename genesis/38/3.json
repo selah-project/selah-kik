@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na akĩyũrwo, akĩciarĩra mũriũ, na akĩhoota ⟨את⟩ riĩtwa rĩake Eri.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akĩyũrwo"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũriũ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riĩtwa rĩake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "riĩtwa rĩake"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Eri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:44.864702192Z",
+  "model": "glm-5.3"
+}

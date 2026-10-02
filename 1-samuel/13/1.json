@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Cauru aarĩ wa mwaka ũmwe thutha wa kũthamakio, na mwaka ĩrĩ nĩathamakire igũrũ rĩa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "wa mwaka ũmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauru"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "thutha wa kũthamakio"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na mwaka ĩrĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nĩathamakire"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:15:29.157516496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Ndiatũire ũgu kũrĩ ndũrĩrĩ ciarĩ ingĩ, na ciira ciake ndĩimanyĩte. Thanjai Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "atũire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũgu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ ndũrĩrĩ ciarĩ ingĩ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kũrĩ ndũrĩrĩ ciarĩ ingĩ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "na ciira ciake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ndĩ-"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "imanyĩte"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Thanjai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:40.253083214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Na acathĩkwo rĩĩtwa rĩa ũgima wake tene na tene; na thĩ yothe ĩnothe ⟨את⟩ ũgima wake. Ameni, na Ameni.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Na acathĩkwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ria ũgima wake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "na ĩnothe"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ũgima wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Ameni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:44.350060308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Nĩgũkenda akamenyerera ⟨את⟩ kiugo gĩake gĩa ũtheru, ⟨את⟩ Abarahamu mũtumia wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkenda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akamenyerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo gĩake gĩa ũtheru"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "gĩa ũtheru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mũtumia wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:47.339807554Z",
+  "model": "glm-5.3"
+}

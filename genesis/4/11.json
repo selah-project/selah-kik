@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na rĩu ũrĩkũrĩwo, ũgĩcoka thĩ ĩrĩa yarĩrĩirie ⟨את⟩ mũromo waya ĩhote kũnyita ⟨את⟩ thakame cia mũrũ wa nyina waku kuuma moko makwa-inĩ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na-rĩu"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ũrĩkũrĩwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ũgĩcoka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "yarĩrĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũromo waya"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mũromo-waya"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ĩhote-kũnyita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame cia mũrũ wa nyina waku"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "thakame-cia"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ-wa-nyina-waku"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kuuma-moko-makwa-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:52.569074172Z",
+  "model": "glm-5.3"
+}

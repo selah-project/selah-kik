@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩ ũndũ ũcio mũndũ arathĩkĩraga ⟨את⟩ ithamĩrĩri wake na ⟨את⟩ mathe, na agacokanagĩra na mũka wake, namo mahĩtũkaga nyama ĩmwe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "arathĩkĩraga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithamĩrĩri wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithamĩrĩri wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mathe"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "agacokanagĩra na"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "mũka wake"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mahĩtũkaga"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:34.428992349Z",
+  "model": "glm-5.3"
+}

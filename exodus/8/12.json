@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Yahwe akĩũgĩra Moce atĩrĩ: Ũgĩre Aharoni atĩrĩ: Ngorota ⟨את⟩ mũtĩ waku, ũrore ⟨את⟩ ũthũngũ wa thĩ, na ũthũngũ ũtuĩke ithũ igũrũ thĩ yothe ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩũgĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ũgĩre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ngorota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtĩ waku"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "mũtĩ waku"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ũrore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthũngũ wa thĩ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ũthũngũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa thĩ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ũtuĩke"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ithũ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "igũrũ thĩ yothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:38.338689261Z",
+  "model": "glm-5.3"
+}

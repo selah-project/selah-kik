@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na nĩmoĩire ⟨את⟩ yeye ruaki wa Erohimu, na ũgeni, na ũmenyo, na kũmenya, na mĩhang'o yothe ya wĩra.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "Na nĩmoĩire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye",
+      "marks": "yeye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "na ũgeni"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "na kũmenya"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mĩhang'o ya wĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:44.051865001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 34:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Moce akiuga: Nĩrĩ nĩndĩnyonĩtie wonji maitho-inĩ maku, Adonai — Adonai, ndakwĩra, ũthiĩ tugĩyũĩte, nĩgũkorũo andũ nĩ mahũthagĩrĩrĩte mũgongo-inĩ, na ũhetere wĩra wĩtu na mahũra maitu, na ũtũtuĩkĩra ithũro rwĩtu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nĩrĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakwĩra"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nĩndĩnyonĩtie"
+    },
+    {
+      "surface": "חן",
+      "gloss": "wonji"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "maitho-inĩ maku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ũthiĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakwĩra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "tugĩyũĩte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mahũthagĩrĩrĩte"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "mũgongo-inĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩo"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "na ũhetere"
+    },
+    {
+      "surface": "לעוננו",
+      "gloss": "wĩra wĩtu"
+    },
+    {
+      "surface": "ולחטאתנו",
+      "gloss": "na mahũra maitu"
+    },
+    {
+      "surface": "ונחלתנו",
+      "gloss": "na ũtũtuĩkĩra ithũro rwĩtu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:28.948087374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩndĩonire ⟨את⟩ gweterera kwothe na ⟨את⟩ kwothe ũgitarĩ wa mawĩra: nĩgũkorũo nĩkĩo kĩrĩkanio kĩa mũndũ na mũrĩũ wake. O na ũndũ ũyũ nĩ ũtheri na kũhũrũka hinya kwa ruaki.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Nĩndĩonire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gweterera kwothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwothe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "gweterera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ũgitarĩ wa mawĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwothe"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ũgitarĩ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "wa mawĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩkĩo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kĩrĩkanio"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kĩa mũndũ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "na mũrĩũ wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "O na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũndũ ũyũ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na kũhũrũka hinya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwa ruaki"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:16.216774335Z",
+  "model": "glm-5.3"
+}

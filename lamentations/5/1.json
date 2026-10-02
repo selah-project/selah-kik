@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ĩrĩkia, Yahwe, ũrĩa twaikarĩte nĩguo; ithieka na ũone ⟨את⟩ kuninwa kwĩtu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ĩrĩkia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nĩithuĩ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ithieka"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na ũone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninwa kwĩtu"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "kuninwa kwĩtu"
+    }
+  ],
+  "timestamp": "2026-10-02T04:37:38.235626593Z",
+  "model": "glm-5.3"
+}

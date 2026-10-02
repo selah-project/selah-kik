@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 4:15",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩmũkingĩke mũno nĩ mĩoyo yanyu; nĩgũkorwo ndĩmoonire mũhianĩre o na ũmwe, mũthenya ũrĩa Yahwe aakuugire kanyu Cheribi, gatagatĩ-inĩ ka mũaki.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "nĩmũkingĩke"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "nĩ mĩoyo yanyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "mũmoonire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o na ũmwe"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "mũhianĩre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aakuugire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kanyu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Cheribi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "gatagatĩ-inĩ ka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mũaki"
+    }
+  ],
+  "timestamp": "2026-10-02T06:22:31.258632035Z",
+  "model": "glm-5.3"
+}

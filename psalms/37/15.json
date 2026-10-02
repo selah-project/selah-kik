@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Mahũa macio magĩkĩra ngoro-inĩ ciacio, na icũa ciacio mathirikũra.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Mahũa macio"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "magĩkĩra"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ngoro-inĩ ciacio"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "na icũa ciacio"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "mathirikũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:20.576455964Z",
+  "model": "glm-5.3"
+}

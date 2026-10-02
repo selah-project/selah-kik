@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ndũkenere andũ aria macio; ekĩrũme ekĩrũka ⟨את⟩ iria Yahwe Erohimu waku ainĩka kwa Parahe na kwa ndũrĩrĩ ciothe cia Micirayimu;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kenere"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "andũ aria macio"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ekĩrũme"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ekĩrũka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iria Yahwe Erohimu waku ainĩka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ainĩka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Parahe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa ciothe cia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:21:24.699640556Z",
+  "model": "glm-5.3"
+}

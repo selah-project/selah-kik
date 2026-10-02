@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ari'a Yiceraeri magĩkĩra Yahwe magĩuga: Twahĩtie kwanywe, nĩtwarekire ⟨את⟩ Erohimu witũ na twarĩcokolera ⟨את⟩ Habeari.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "magĩkĩra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari'a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "magĩuga"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "twahĩtie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwanywe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "twarekire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu witũ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "twarĩcokolera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Habeari"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Habeari"
+    }
+  ],
+  "timestamp": "2026-10-01T22:58:50.629448304Z",
+  "model": "glm-5.3"
+}

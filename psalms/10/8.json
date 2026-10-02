@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ekũrũmũte kũng'ũrũkanĩ-inĩ kwa icagi; harĩ acio mahũnjĩte nĩakũritũnga mũtheru; maitho make nĩmahũnjĩte kũrora andũ a mboooka.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ekũrũmũte"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "kũng'ũrũkanĩ-inĩ kwa"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "icagi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "harĩ acio mahũnjĩte"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "nĩakũritũnga"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maitho make"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "andũ a mboooka"
+    },
+    {
+      "surface": "יצצפנו",
+      "gloss": "mahũnjĩte kũrora"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:10.299626318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩmagĩrũmia njata cia mĩrimũ thĩinĩ wao, nĩ kũingĩha wĩra nĩ ũndũ wa wĩra wa kwambararithia; agĩambia mĩtara ya kũhĩra irĩa cia Farao, ⟨את⟩ Pithomi na ⟨את⟩ Raamesesi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Nĩmagĩrũmia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "thĩinĩ wao"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "njata"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "cia mĩrimũ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ kũingĩha wĩra"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "nĩgetha ũũ maatũnĩkwo"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "na wĩra wa kwambararithia"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "agĩambia"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mĩtara"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ya kũhĩra irĩa"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "cia Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pithomi"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pithomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Raamesesi"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamesesi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:03.786102167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Thĩinĩ wa kũingĩka kwa mũhiki, mũkene aramwarũkio; niwathe kũcũngĩtwo thĩinĩ wa mĩhangore iria macookire na mbere.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "thĩinĩ wa kũingĩka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũhiki"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "aramwarũkio"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkene"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "niwathe kũcũngĩtwo"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "thĩinĩ wa mĩhangore"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iria"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "macookire na mbere"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:15.555107902Z",
+  "model": "glm-5.3"
+}

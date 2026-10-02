@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ndacakinya o na rĩngĩ nyũmba yake; na harĩ kĩgwa kayake ndũmũthĩkĩragia o na rĩngĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "cakinya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "o na rĩngĩ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ-"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mũthĩkĩragia"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "o na rĩngĩ"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "kĩgwa kayake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:05:49.302369145Z",
+  "model": "glm-5.3"
+}

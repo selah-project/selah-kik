@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Na-inĩ nĩngĩtuĩkĩte ithieko kwao; rĩrĩa mamũona, mamatũŋgũra mĩtwe ciacio.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na-inĩ nĩngĩtuĩkĩte"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩngĩtuĩkĩte"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ithieko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mamũona"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "mamatũŋgũra"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "mĩtwe ciacio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:50.941896259Z",
+  "model": "glm-5.3"
+}

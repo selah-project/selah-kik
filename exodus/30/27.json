@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ meza na ⟨את⟩ icio iake yothe, na ⟨את⟩ mwenjemwege na ⟨את⟩ icio ciayo, na ⟨את⟩ gĩcwa kĩa kũunũria minaha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icio iake yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icio iake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwenjemwege"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "mwenjemwege"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icio ciayo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "icio ciayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcwa kĩa kũunũria minaha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gĩcwa"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kĩa kũunũria minaha"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:27.971936229Z",
+  "model": "glm-5.3"
+}

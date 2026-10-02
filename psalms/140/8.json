@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Yahwe Adonai, ũhinya wanjũ wa gũhonokia, nĩwarĩkĩirie mwĩrĩ wanjũ thĩinĩ wa mũthenya wa mbaara.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ũhinya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "wanjũ wa gũhonokia"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "nĩwarĩkĩirie"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mwĩrĩ wanjũ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "thĩinĩ wa mũthenya"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "wa mbaara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:01.787857436Z",
+  "model": "glm-5.3"
+}

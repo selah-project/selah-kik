@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Kuma thĩ ĩyo nĩatonyire Acuri, na akomwo ⟨את⟩ Ninoe, na ⟨את⟩ Recobothi-mũciĩ, na ⟨את⟩ Karahi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩatonyire"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acuri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akomwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninoe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninoe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Recobothi-mũciĩ"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Recobothi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Karahi"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Karahi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:01.471149585Z",
+  "model": "glm-5.3"
+}

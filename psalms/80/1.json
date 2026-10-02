@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Kwa mũnene wa ndĩci, ciũmbe-inĩ cia Cocani, ngarũro ya Akafi. Nĩgĩcunjĩ kĩa kwĩĩmba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũnene wa ndĩci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ciũmbe-inĩ cia"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Cocani"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ngarũro"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Akafi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nĩgĩcunjĩ kĩa kwĩĩmba"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:04.071737246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Kũrĩ gĩtĩnĩ kũrĩra, gĩtĩnĩ kũrĩranĩra, gĩtĩnĩ kũringana makĩa gwaku kũrĩra.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "gĩtĩnĩ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "kũrĩra"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gĩtĩnĩ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "kũrĩranĩra"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gĩtĩnĩ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "kũringana"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "makĩa"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "gwaku kũrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:53.507547366Z",
+  "model": "glm-5.3"
+}

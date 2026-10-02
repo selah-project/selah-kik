@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 18:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na makorũo maranyũkĩte ithũinĩ waku, na magacĩkĩrĩra ⟨את⟩ ũiraani wa tendi ya mũkorwa, wa ũiraani wa tendi wothe; na mũndũ wa kũrĩa ndatangĩnyĩtaũka kũrĩ nyũmwe.",
+  "tokens": [
+    {
+      "surface": "ונלוו",
+      "gloss": "na makorũo maranyũkĩte"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ithũinĩ waku"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "na magacĩkĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũiraani"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ũiraani wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendi ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mũkorwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa ũiraani wa"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ũiraani wothe"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wa tendi"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "na mũndũ wa kũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndata"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "gĩnyĩtaũka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kũrĩ nyũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:03:01.929519136Z",
+  "model": "glm-5.3"
+}

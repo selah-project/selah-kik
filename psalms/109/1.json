@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Kũrĩ mũcũranĩri-inĩ, kwa Dawidi, kĩimbo kĩa kũinĩra. Erohimu wa kũgooca kwakwa, ndũkaranie.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcũranĩri-inĩ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbo kĩa kũinĩra"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "kũgooca kwakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "karanie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:47.517105161Z",
+  "model": "glm-5.3"
+}

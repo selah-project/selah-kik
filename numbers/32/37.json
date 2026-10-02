@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na aana a Reubeni mahora ⟨את⟩ Ceciboni na ⟨את⟩ Ereale na ⟨את⟩ Kiriyathayimu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na aana a"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mahora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ceciboni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Ceciboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ereale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Ereale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kiriyathayimu"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiriyathayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:10:56.171212316Z",
+  "model": "glm-5.3"
+}

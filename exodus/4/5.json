@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩgeetha makĩhoka atĩ Yahwe, Erohimu wa maithori ao, Erohimu wa Abarahamu, Erohimu wa Yicaki, na Erohimu wa Yaakobu, ainukire kũrĩ we.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "יַאֲמִינוּ",
+      "gloss": "makĩhoka"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "נִרְאָה",
+      "gloss": "ainukire"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אֲבֹתָם",
+      "gloss": "maithori ao"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אַבְרָהָם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יִצְחָק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "וֵאלֹהֵי",
+      "gloss": "na Erohimu wa"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:27.947570382Z",
+  "model": "glm-5.3"
+}

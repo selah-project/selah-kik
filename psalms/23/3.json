@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ngoro yakwa anayoongererĩa hinya; anatonganĩria mĩthiyonĩ ya cedeki, nĩ ũndũ wa rĩĩtwa rĩake.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "anayoongererĩa hinya"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "anatonganĩria"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "mĩthiyonĩ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ya cedeki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:24.121679892Z",
+  "model": "glm-5.3"
+}

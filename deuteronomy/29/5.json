@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Mũgate morute, na mvindu(rũ)? — Mbũratũ morute kũría, na mvũnyũ na cekũ(rũ) morute kũnywa, yĩkĩra mũmene atĩ nĩ nĩĩ Yahwe Erohimu yanyu. Nginya mũmene atĩ nĩ nĩĩ Yahwe Erohimu yanyu.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "mbũratũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "morute"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "kũría"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mvindu"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "cekũ(rũ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "morute"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "kũnywa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "mũmene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:00.162735785Z",
+  "model": "glm-5.3"
+}

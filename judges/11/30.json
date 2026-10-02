@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Yifutahi akĩhĩtĩkĩra kĩrĩkanĩro kĩa Yahwe, na akiuga: Atĩrĩ, nĩũgaũhe ⟨את⟩ ciana cia Amoni moko makwa.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "akĩhĩtĩkĩra"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifutahi"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "kũhe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nĩũgaũhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Amoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "moko makwa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:03:04.933178975Z",
+  "model": "glm-5.3"
+}

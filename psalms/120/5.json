@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 120,
+  "translation": "Tha ciakwa nĩ njihotanie! Nĩndĩtũũrire ihinda rĩnene mbumbari ya Meciki, ndĩikarĩte hamwe na hema cia Kedari.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Tha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ciakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ndĩtũũrire"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meciki"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ndĩikarĩte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "hema"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedari"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:31.768466265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na mũtumia wothe wa mũndũ, wĩtwo na cekeri, na mwarũwo ⟨את⟩ we, ũmũthĩ nĩwe warĩra kĩayo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "wĩtwo na"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cekeri"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "na mwarũwo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "warĩra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kĩayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:13.410514693Z",
+  "model": "glm-5.3"
+}

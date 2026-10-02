@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mũgambo nĩwambatire mbũtũ-inĩ rĩrĩa jua rĩahũthagĩa, ndĩrĩ: Mũndũ o mũndũ ũthiĩ mũciĩ wake, na mũndũ o mũndũ ũthiĩ bũrũri wake.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "nĩwambatire"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "mbũtũ-inĩ"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "rĩrĩa rĩahũthagĩa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndĩrĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mũndũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũthiĩ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "mũciĩ wake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ o mũndũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũthiĩ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "bũrũri wake"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:17.319971484Z",
+  "model": "glm-5.3"
+}

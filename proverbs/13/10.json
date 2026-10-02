@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Kĩharo gĩtikũumaga o tu kũuma kũigaũka; no arĩa magaananĩtie ⟨na⟩ ⟨את⟩ arĩa mangĩ, nao me na ⟨the⟩ ũgo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "kũuma kũigaũka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gĩtigithagia"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "kĩharo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa magaanania"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "arĩa magaanania"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:52:17.675600611Z",
+  "model": "glm-5.3"
+}

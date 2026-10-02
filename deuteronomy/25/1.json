@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Rĩrĩa mĩrĩrito ĩgĩtuĩka ũhoro-inĩ wa andũ, na makĩhĩrĩra ciira-inĩ, na maciira ⟨ndeto⟩, mathondekithagia ⟨את⟩ mũndũ ũrĩa wĩ cedeki, na mahĩtithagia ⟨את⟩ mũndũ ũrĩa wĩ ũru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ĩgĩtuĩka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "mĩrĩrito"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ũhoro-inĩ wa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "na makĩhĩrĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ciira-inĩ"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "na maciira"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "mathondekithagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũrĩa wĩ cedeki"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "mũndũ ũrĩa wĩ cedeki"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "na mahĩtithagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũrĩa wĩ ũru"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mũndũ ũrĩa wĩ ũru"
+    }
+  ],
+  "timestamp": "2026-10-01T22:32:08.209773299Z",
+  "model": "glm-5.3"
+}

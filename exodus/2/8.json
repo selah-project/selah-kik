@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũirũ wa Farao amũigencia: Thĩĩ. Nacio mũirũ wa mĩaka mũtũkũ agĩthĩĩ, akĩhĩra ⟨את⟩ nyina wa mũana ũcio.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "amũigencia"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũirũ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Thĩĩ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "agĩthĩĩ"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "mũirũ wa mĩaka mũtũkũ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akĩhĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyina wa mũana ũcio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wa mũana ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:33.967655502Z",
+  "model": "glm-5.3"
+}

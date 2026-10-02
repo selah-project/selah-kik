@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Mũthamaki nĩatumire, akĩmũhekũra; mũtũngata andũ nĩamũgaterera.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nĩatumire"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "akĩmũhekũra"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mũtũngata"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "nĩamũgaterera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:47.027947069Z",
+  "model": "glm-5.3"
+}

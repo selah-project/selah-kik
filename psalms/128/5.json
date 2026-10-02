@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 128,
+  "translation": "Yahwe akuhe mĩgũthi kuuma Cioni, na ũone wega wa Yerucarayimu, mĩthenya yothe ya miaka yaku.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "akuhe mĩgũthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuuma Cioni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na ũone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wega wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ya miaka yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:12.747616346Z",
+  "model": "glm-5.3"
+}

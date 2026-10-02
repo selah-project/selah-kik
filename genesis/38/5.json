@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩacookirie, nĩaciarire mũrũ, akĩĩita rĩĩtwa rĩake ⟨את⟩ Ceraha; na Yehuda aarĩ Kecibi rĩrĩa amuciarire ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "nĩacookirie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nĩaciarire mũrũ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akĩĩita rĩĩtwa rĩake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩake Ceraha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Ceraha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Kecibi"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "rĩrĩa amuciarire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yewe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:10.961563780Z",
+  "model": "glm-5.3"
+}

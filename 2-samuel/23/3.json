@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Erohimu wa Yiceraeri oigĩte, Thiga yĩa Yiceraeri okoruo oigĩte kwa ndakwa: Mũthamaki ũrĩa ũthamagĩra andũ no mũthingu, athamagĩra na gwĩtinya Erohimu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ndakwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okoruo oigĩte"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Thiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "Mũthamaki"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "athamagĩra"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "na gwĩtinya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:45:31.271070699Z",
+  "model": "glm-5.3"
+}

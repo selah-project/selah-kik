@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Nyũmba ya Aharoni, ithĩrie thayũ Yahwe; ũteithio wao na ng'aci yao nĩwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Nyũmba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharoni"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ithĩrie"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "thayũ Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ũteithio wao"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "na ng'aci yao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:23.165377749Z",
+  "model": "glm-5.3"
+}

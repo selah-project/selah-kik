@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na mũthamaki wa Yiceraeri akiuga kwa Erica, rĩrĩa aonire ⟨את⟩ macũngĩ macio: Nĩndũkurata, nĩndũkurata, ithuô wakwa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Erica"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "rĩrĩa aonire"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "macũngĩ macio"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "Nĩndũkurata"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "nĩndũkurata"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithuô wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:09:33.418299422Z",
+  "model": "glm-5.3"
+}

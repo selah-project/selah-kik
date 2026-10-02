@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 128,
+  "translation": "Na ũone ciana cia ciana ciaku. Thayũ ĩrĩ ko Yiceraeri!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Na ũone"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "cia ciana ciaku"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Thayũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩ ko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:12.749894400Z",
+  "model": "glm-5.3"
+}

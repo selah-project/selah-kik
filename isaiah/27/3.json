@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Nĩ ngĩ Yahwe ndĩũrĩra; hĩndĩ ciothe ndĩmũheetera; mwĩthagũ gũciwo kana yo, ũtukũ na mũthenya ndĩhingagĩra.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nĩ ngĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ndĩũrĩra"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "ndĩmũheetera"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mwĩthagũ"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "gũciwo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kana yo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ũtukũ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "na mũthenya"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "ndĩhingagĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:41.502020273Z",
+  "model": "glm-5.3"
+}

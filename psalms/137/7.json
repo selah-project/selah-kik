@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "Ũririe, Yahwe, andũ a Edomu, ⟨את⟩ mũthenya wa Yerucarayimu; arĩa maiugaga: 'Tharai, tharai, kinya thĩinĩ wayo.'",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ũririe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "wa Yerucarayimu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "arĩa maiugaga"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Tharai"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "tharai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "macini"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:25.925888916Z",
+  "model": "glm-5.3"
+}

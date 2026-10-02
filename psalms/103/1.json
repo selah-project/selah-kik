@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Wa Dawidi. Yambĩra, ngoro yakwa, ⟨את⟩ Yahwe; na iria irĩ ng'ania yakwa rĩothe, yambĩra ⟨את⟩ rĩĩtwa rĩake rĩa ũtheru.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Wa Dawidi"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "yambĩra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... rĩothe"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "iria irĩ ng'ania yakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩake rĩa ũtheru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rĩa ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:09.808116988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Ũgũrure kũng'ĩra kwanjĩ kũonereria na kũgooya, nĩgũkorwo nĩndĩrũmagĩrire ndũmĩrĩri cĩaku.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "ũgũrure"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kũng'ĩra kwanjĩ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kũonereria"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "na kũgooya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ndũmĩrĩri cĩaku"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "nĩndĩrũmagĩrire"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:32.247866446Z",
+  "model": "glm-5.3"
+}

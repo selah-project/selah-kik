@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Kuuma kwa ⟨את⟩ Yahwe ũndũ ũcio wothe ũkozire; nĩkĩgima maitho-inĩ maitũ.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Kuuma kwa ⟨את⟩",
+      "marks": "ũndũ ũcio wothe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ũkozire"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũndũ ũcio wothe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "kĩgima"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "maitho-inĩ maitũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:34.031305156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Ũyu nĩmũgenda wao, mwendia wao; na arĩa moimĩte thutha wao nĩmeonerera ciugo ciao. Cera.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ũyu"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "mũgenda wao"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "mwendia"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wao"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "na arĩa moimĩte thutha wao"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ciugo ciao"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "nĩmeonerera"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:26.682815303Z",
+  "model": "glm-5.3"
+}

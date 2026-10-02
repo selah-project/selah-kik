@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Thayai Yahwe, maũndũ make mothe, harĩ mabara mothe ma ũthamaki wake; thatha, mũoyo wakwa, ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "thayai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "maũndũ make"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "harĩ mabara mothe"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ũthamaki wake"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:57.948524017Z",
+  "model": "glm-5.3"
+}

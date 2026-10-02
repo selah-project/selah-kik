@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Cema nĩmore ⟨את⟩ Rahamu, atheru wa Yorikoamu; na Rekemu nĩmore ⟨את⟩ Camayi.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Na Cema"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩmore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahamu"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Rahamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atheru wa"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "Yorikoamu"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "na Rekemu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩmore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Camayi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Camayi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:19:58.166275141Z",
+  "model": "glm-5.3"
+}

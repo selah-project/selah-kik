@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Ĩhũrũrire magũrũ gwaku nginya mabataro ma njamba irĩa ihindĩ ciothe; maũndũ mothe marĩa thũ ũrĩkĩire gũkorerera thĩinĩ wa ũtheru.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "ĩhũrũrire"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "magũrũ gwaku"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ngiya mabataro"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ma njamba irĩa ihindĩ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maũndũ mothe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "marĩa ũrĩkĩire gũkorerera"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "thĩinĩ wa ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:05.538599667Z",
+  "model": "glm-5.3"
+}

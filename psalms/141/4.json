@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 141,
+  "translation": "Ndũkaingĩhĩtia ngoro yanjũ kĩndũ kĩoo, gwĩka maũndũ ma ũthũ hamwe na ⟨את⟩ andũ arĩa marĩkĩta ũira; na ndindiire ibyarĩ cia kooni mao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ndũkai"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ngĩhĩtia"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yanjũ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kĩoo"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ma ũthũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ arĩa marĩkĩta ũira"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "arĩa marĩkĩta"
+    },
+    {
+      "surface": "און",
+      "gloss": "ũira"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "na ndindiire"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ndiire"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ibyarĩ cia kooni mao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:02.405909271Z",
+  "model": "glm-5.3"
+}

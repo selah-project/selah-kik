@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Na Erohimu witũ nĩrĩa matu-inĩ; o kĩrĩa aendete nĩarutĩte.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Na Erohimu witũ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "matu-inĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "aendete"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩarutĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:58.134776144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩ kwamba maitho manyu nĩmonire ⟨את⟩ ciĩgĩrwa ciothe cia Yahwe ikĩnene, iria akihaanja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ kwamba"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maitho manyu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "nĩmonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩgĩrwa ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ciĩgĩrwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ikĩnene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akihaanja"
+    }
+  ],
+  "timestamp": "2026-10-01T22:23:00.055372447Z",
+  "model": "glm-5.3"
+}

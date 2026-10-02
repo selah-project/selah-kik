@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Erohimu anayoigire thĩinĩ wa ũtheru wake; nĩngĩmacooka kũina kwa gũkeno, nĩngĩgaterera Cekemu, na mũcingĩ wa Cukoth nĩngĩmengereria.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anayoigire"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "thĩinĩ wa ũtheru wake"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "nĩngĩmacooka kũina kwa gũkeno"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "nĩngĩgaterera"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "na mũcingĩ wa"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Cukoth"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "nĩngĩmengereria"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:24.888267547Z",
+  "model": "glm-5.3"
+}

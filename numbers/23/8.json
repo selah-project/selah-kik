@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mwĩgwa ndĩngĩninihĩra arĩa Ere ndaninihĩtĩtie? Na mwĩgwa ndĩngĩhoota arĩa Yahwe ndakahootetie?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mwĩgwa"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ndĩngĩninihĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ninihĩtĩtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na mwĩgwa"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ndĩngĩhoota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "hootetie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:06:23.081475706Z",
+  "model": "glm-5.3"
+}

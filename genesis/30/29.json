@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩramũũria: Nĩwe wamenyaga ⟨את⟩ ũrĩa nĩnakũteerera tondũ ũcio, na ⟨את⟩ ũrĩa ihigo rĩaku riari irĩ ⟨את⟩ ine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩramũũria"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wamenyaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa nĩnakũteerera tondũ ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "nĩnakũteerera tondũ ũcio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa ihigo rĩaku riari irĩ ine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "riari"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "ihigo rĩaku"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ine"
+    }
+  ],
+  "timestamp": "2026-10-01T20:46:39.494174478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Kana aría mahĩtigĩra kĩrĩkanĩro yake, na arĩa makĩrĩkĩra mawatho make, mwĩhoko wa gũkora icio.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "Kana aría mahĩtigĩra"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kĩrĩkanĩro yake"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "na arĩa makĩrĩkĩra"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "mawatho make"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "mwĩhoko wa gũkora icio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:13.325410618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Ndũkahithia thioni cĩaku kwenda ndakwa mũthenya wa thĩna wakwa; hurũra gũtũĩ gwaku kũrĩ ndakwa; mũthenya ũrĩa ndĩhũũra, harĩra, cookia ndakwa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "hithia"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thioni cĩaku"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwenda ndakwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "thĩna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "hurũra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gũtũĩ gwaku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndĩhũũra"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "harĩra"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "cookia ndakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:24.374950797Z",
+  "model": "glm-5.3"
+}

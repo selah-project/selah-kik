@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na thutha ũcio, ⟨את⟩ ciroaha nĩakũruta Yahwe Erohimu waku harĩ mo, ũgĩkinya arĩa matigĩte arĩa mahingĩte kũuma mbere yaku marĩkane.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na thutha ũcio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciroaha"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ciroaha"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "nĩakũruta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "בם",
+      "gloss": "harĩ mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ũgĩkinya"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "marĩkane"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "aría matigĩte"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "na arĩa mahingĩte"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kũuma mbere yaku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:21:24.699992656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 129,
+  "translation": "Na arĩa mahũra njĩra matiugĩte: Thĩga ya Yahwe ĩigũrũ wanyu; nĩgũkũthĩgithĩtie ⟨את⟩ inywe riĩtwa-inĩ rĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na mati-"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "tiugĩte"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "arĩa mahũra njĩra"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "thĩga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ĩigũrũ wanyu"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "nĩgũkũthĩgithĩtie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "riĩtwa-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rĩa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.497897219Z",
+  "model": "glm-5.3"
+}

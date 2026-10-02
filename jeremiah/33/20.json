@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩgũko Yahwe oigĩte: Kana nĩmũhoka kũhetha ⟨את⟩ kĩrĩkanĩro kwakwa kĩa mũthenya na ⟨את⟩ kĩrĩkanĩro kwakwa kĩa ũgĩcũnjĩ, na gũtirĩ mũthenya na ũgĩcũnjĩ makĩhota gũkũra hĩndĩ ciao.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "gũko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "nĩmũhoka kũhetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kwakwa kĩa mũthenya"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kĩa mũthenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kwakwa kĩa ũgĩcũnjĩ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "kĩa ũgĩcũnjĩ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "gũkorwo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na ũgĩcũnjĩ"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "hĩndĩ ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:24:08.326283989Z",
+  "model": "glm-5.3"
+}

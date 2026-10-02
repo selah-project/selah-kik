@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩ ũndũ ũcio, Yahwe nĩacookire ndĩ ta cedeki yakwa, ta ũtheru wakwa mbere ya macho make.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nĩacookire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "ta cedeki yakwa"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "ta ũtheru wakwa"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "macho make"
+    }
+  ],
+  "timestamp": "2026-10-01T23:44:49.985480852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Kocu aombire ⟨את⟩ Anubu na ⟨את⟩ Hacobeba, na mĩhĩrĩga ya Aharaheri, mũrũ wa Harumu.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Na Kocu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "aombire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anubu"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anubu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hacobeba"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hacobeba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "na mĩhĩrĩga ya"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharaheri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harumu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:00.277266166Z",
+  "model": "glm-5.3"
+}

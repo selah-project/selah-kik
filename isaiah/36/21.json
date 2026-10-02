@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Nĩmaciigĩrĩirie kũhũrũka, mati guũrĩria ⟨את⟩ kiugo nakĩo, nĩgũkorwo watho wa mwathi nĩguo: Mũtarĩrie.",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "maciigĩrĩirie kũhũrũka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "guũrĩria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo nakĩo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "watho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mwathi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kũugĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "mũtarĩrie"
+    }
+  ],
+  "timestamp": "2026-10-02T00:41:21.977990115Z",
+  "model": "glm-5.3"
+}

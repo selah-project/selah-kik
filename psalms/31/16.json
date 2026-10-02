@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Mĩkora yakwa ĩrĩ moko-inĩ Makwa; ũngĩhonyoka kuuma moko-inĩ mwathyũngũri akwa na arĩa maĩndĩkana.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "moko-inĩ Makwa"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "mĩkora yakwa"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ũngĩhonyoke"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mwathyũngũri akwa"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "na arĩa maĩndĩkana"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:32.021032495Z",
+  "model": "glm-5.3"
+}

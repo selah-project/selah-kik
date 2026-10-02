@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũka akĩria nyoka: Va mĩrũ ya miti ya mũgũnda tũkũrirĩa;",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akĩria"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Mũka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Va mĩrũ ya"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ya mũgũnda"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tũkũrirĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:07:39.705365185Z",
+  "model": "glm-5.3"
+}

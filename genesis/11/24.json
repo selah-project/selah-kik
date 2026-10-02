@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Nahori aatũũra mĩaka kenda na mĩrongo igĩrĩ, na akaciarithia ⟨את⟩ Teraci.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "aatũũra"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "kenda"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mĩrongo igĩrĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akaciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teraci"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraci"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:57.787761097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩngĩikara thĩinĩ wa ciana cia Yiceraeri, na ndĩngataahia ⟨את⟩ andũ akwa a Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "nĩngĩikara"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩnga"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "taahia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa a Yiceraeri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:26.680039104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Moce akĩcokia ethambo, na akĩitoa rĩitwa rwaco: Yahwe-Nici.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akĩcokia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ethambo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩitoa rĩitwa rwaco"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩitwa rwaco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nici"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:59.589764836Z",
+  "model": "glm-5.3"
+}

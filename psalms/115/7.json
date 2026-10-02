@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Moko mao matihota kũigua kĩndũ; magũrũ mao matihota gwendiha; na matihota gũtua na kĩrĩgo kiao.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matihota"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "kũigua kĩndũ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "magũrũ mao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matihota"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "gwendiha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matihota"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "gũtua"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "na kĩrĩgo kiao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:15.331401544Z",
+  "model": "glm-5.3"
+}

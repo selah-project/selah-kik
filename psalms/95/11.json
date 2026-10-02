@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 95,
+  "translation": "Nĩrĩkũ nĩndĩhĩririe mũtimo-inĩ wakwa ngĩĩra: Ti makĩinyiira kũhũrũka kwakwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nĩrĩkũ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nĩndĩhĩririe"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "mũtimo-inĩ wakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngĩĩra"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ti makĩinyiira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "kũhũrũka kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:26.846871384Z",
+  "model": "glm-5.3"
+}

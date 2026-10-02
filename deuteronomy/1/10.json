@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Yahwe Erohimu wanyu nĩakũongerete ⟨את⟩ inywi, na nĩmwe ũmũ-inĩ ũyũ ta nyenderera cia igũrũ mũno.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nĩakũongerete"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "na nĩmwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũ-inĩ ũyũ"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ta nyenderera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cia igũrũ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:20.908247621Z",
+  "model": "glm-5.3"
+}

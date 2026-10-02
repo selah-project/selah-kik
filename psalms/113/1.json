@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 113,
+  "translation": "Goocani Yah, goocani atumĩ a Yahwe, goocani ⟨את⟩ rĩĩtwa rĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "goocani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "goocani"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "atumĩ a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "goocani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:51.447479159Z",
+  "model": "glm-5.3"
+}

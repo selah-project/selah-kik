@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na amwothokire ũhoro ũyũ ũrĩa wake, atĩ ndahahotie kũyũra thutha wa ngai ingĩ; no ndaarĩkĩirie ũrĩa Yahwe aamwothokire.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "amwothokire"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ o"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "we"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "atĩ ndahahotie"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "kũyũra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no ndaarĩkĩirie"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ndaarĩkĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aamwothokire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:08.585714126Z",
+  "model": "glm-5.3"
+}

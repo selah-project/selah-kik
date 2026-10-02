@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ũtheri wake ũkahana ta ũtheri; yũya cia mmĩgiĩ magũrũ make, na kuo nĩkuhĩtwo kwa hinya wake.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "Na ũtheri wake"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "ta ũtheri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ũkahana"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "yũya"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "kuuma magũrũ make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ĩrĩa ĩmwe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na kuo"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "nĩkuhĩtwo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "kwa hinya wake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:39:13.781143515Z",
+  "model": "glm-5.3"
+}

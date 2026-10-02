@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Macioo nĩ mathiimi njĩra-inĩ, arĩa mahotaga kuuma thĩinĩ wa Tora ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Macioo"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "mathiimi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njĩra-inĩ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "arĩa mahotaga kuuma"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "thĩinĩ wa Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:30.564818678Z",
+  "model": "glm-5.3"
+}

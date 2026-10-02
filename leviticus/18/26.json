@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩnywe mũtĩrĩre ⟨את⟩ mĩtĩrĩre yanjĩ na ⟨את⟩ ciira cinjĩ, mũtikore na o imwe ya ithagu ici, o mũndũ waciarĩtwo thĩ ĩno na mũũcambe ũrĩa acambĩtwo murĩ-inĩ wanyu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mũtĩrĩre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nĩnywe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtĩrĩre yanjĩ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mĩtĩrĩre yanjĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciira cinjĩ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira cinjĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mũtikore"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kũgĩa nĩ kũkora"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na o imwe ya"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ithagu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "mũndũ waciarĩtwo thĩ ĩno"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "na mũũcambe"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ũrĩa acambĩtwo"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "murĩ-inĩ wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:51.836994746Z",
+  "model": "glm-5.3"
+}

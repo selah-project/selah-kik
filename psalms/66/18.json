@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Mohoro mũru, rĩrĩa nĩndĩonire ngoro-inĩ yakwa, Adonai ndangĩigua.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "mohoro mũru"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩndĩonire"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ngoro-inĩ yakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "agĩigua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:52.381889609Z",
+  "model": "glm-5.3"
+}

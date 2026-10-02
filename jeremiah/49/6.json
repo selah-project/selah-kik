@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Na thutha wa macio nĩngĩcookeritha ⟨את⟩ cihunja cia ciana cia Amoni, Yahwe oigĩte.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Na thutha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wa macio"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nĩngĩcookeritha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihunja"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "cihunja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:35:31.951927554Z",
+  "model": "glm-5.3"
+}

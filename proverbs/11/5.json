@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Cedeki ya mũtheru nĩiyoimĩririe ũrahu wake; na mũndũ mũũru nĩagũa na ũru wake.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "iyoimĩririe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ũrahu wake"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "na ũru wake"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "nĩagũa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũndũ mũũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:51:08.150085388Z",
+  "model": "glm-5.3"
+}

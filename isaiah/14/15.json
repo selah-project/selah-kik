@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Ĩno nĩ ũhoro ũrĩa ũgĩa kũhĩthĩka: nĩũcookerithio Ceori, gĩkĩ mĩena ya mũri.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ĩno nĩ ũhoro ũrĩa ũgĩa kũhĩthĩka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "nĩũcookerithio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "mĩena ya"
+    },
+    {
+      "surface": "בור",
+      "gloss": "mũri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:30:41.034594781Z",
+  "model": "glm-5.3"
+}

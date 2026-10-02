@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ĩgĩrĩirie wega mwene-wĩhokia-waku thĩinĩ wa ⟨את⟩ Cioni; ũmũcake matũũra ma Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Ĩgĩrĩirie wega"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "mwene-wĩhokia-waku thĩinĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cioni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioni"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ũmũcake"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "matũũra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:01.684929857Z",
+  "model": "glm-5.3"
+}

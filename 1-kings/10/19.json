@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 10:19",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Mboco ithathatũ ndĩ ⟨kwa⟩ gĩtikĩrĩro kĩu, na mutwe mũirũ kwa gĩtikĩrĩro kĩu thutha wake, na mikono ⟨kũrĩ⟩ kũya na kũya harĩa handũ ha kũikara, na simba ieerĩ kĩmeerete hakuhĩ na mikono ĩyo.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ithathatũ"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "לכסה",
+      "gloss": "gĩtikĩrĩro kĩu"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "na mutwe"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mũirũ"
+    },
+    {
+      "surface": "לכסה",
+      "gloss": "gĩtikĩrĩro kĩu"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "וידת",
+      "gloss": "na mikono"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kũya"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "na kũya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨harĩa⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "handũ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ha kũikara"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na ieerĩ"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "simba"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "kĩmeerete"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "mikono ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:26.189401653Z",
+  "model": "glm-5.3"
+}

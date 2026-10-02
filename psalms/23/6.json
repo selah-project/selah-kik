@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Kweli, wega na hecedi nĩmagĩcĩĩra hĩndĩ ciothe ya muoyo wakwa; na ngĩikaraga mũciĩ-inĩ wa Yahwe kwa mĩthenya mĩnene.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kweli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "יִרְדְּפוּנִי",
+      "gloss": "nĩmagĩcĩĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "mĩthenya ya"
+    },
+    {
+      "surface": "חַיָּי",
+      "gloss": "muoyo wakwa"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ngĩikaraga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mũciĩ-inĩ wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "kwa mĩnene"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:15.321535242Z",
+  "model": "glm-5.3"
+}

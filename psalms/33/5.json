@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Oendi cedeki na ciira; hecedi ya Yahwe nĩyo ĩĩjũrĩte thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "oendi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ciira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ĩĩjũrĩte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:19.342579400Z",
+  "model": "glm-5.3"
+}

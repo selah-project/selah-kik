@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na rĩrĩa Baaca agĩigua, ahôtire kũmagĩra ⟨את⟩ Rama, agĩtuma ⟨את⟩ wĩra wake ũhote.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikĩrĩka rĩrĩa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "agĩigua"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaca"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ahôtire"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kũmagĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "agĩtuma ũhote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wĩra wake"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "wĩra wake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:52:26.463469367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na Ere Cadai akuhkĩrie, na akũnyĩre mbea, na akũmĩrĩngĩrĩre, nĩũkahũra kĩa ndũrĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na Ere"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Cadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "akuhkĩrie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "akũnyĩre mbea"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "akũmĩrĩngĩrĩre"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "nĩũkahũra"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "kahũra kĩa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:10:56.666527950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na onge nĩonete thĩinĩ wa rĩua: harĩa wa ciira, kuo kũrĩ mũgũrũ, na harĩa wa cedeki, kuo nĩkuo kũrĩ mũgũrũ.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Na onge"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩonete"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "wa rĩua"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "wa ciira"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mũgũrũ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "na harĩa"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "wa cedeki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo nĩkuo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mũgũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:54.392861399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Erohimu agĩũria Noe, na aana ake ⟨את⟩ hamwe nake, na agĩuga:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩũria"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na agĩuga:"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:55.910015001Z",
+  "model": "glm-5.3"
+}

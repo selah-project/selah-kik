@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 97,
+  "translation": "Nĩwewe, Yahwe, ⟨Mũhingo⟩ igũrũ rĩa thĩ yothe; mũno nĩwe wanyitĩtwo igũrũ kũrĩa ngai ciothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Mũhingo"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "wanyitĩtwo igũrũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:18.041003134Z",
+  "model": "glm-5.3"
+}

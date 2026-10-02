@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Rĩrĩa mũgĩthiĩ mĩtĩrĩre-inĩ yakwa, na ⟨את⟩ mathagio makwa nĩmũrĩkagĩra, na nĩmũmacĩkaria:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "mĩtĩrĩre-inĩ yakwa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mũgĩthiĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathagio makwa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mathagio makwa"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nĩmũrĩkagĩra"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na nĩmũmacĩkaria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ cio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:45.338032679Z",
+  "model": "glm-5.3"
+}

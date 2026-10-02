@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Kiugo kĩrĩa gĩkĩrire Yeremiayahu, kuuma ⟨kwa⟩ ⟨את⟩ Yahwe, ngĩuga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gĩkĩrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiayahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kuuma kwa Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:14:36.899605575Z",
+  "model": "glm-5.3"
+}

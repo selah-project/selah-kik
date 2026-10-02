@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "O tu na menyo mabũrũri-inĩ waku nĩkuona, na ngwatiro cia arĩa mahĩtia nĩkuona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na menyo mabũrũri-inĩ waku"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "nĩkuona"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "na ngwatiro cia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa mahĩtia"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "nĩkuona"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:22.777549845Z",
+  "model": "glm-5.3"
+}

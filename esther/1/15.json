@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kũringana na dathi, gĩtukũgeria iki na mũka-wa-mwathi Vaciti, nĩgũkorwo ndaakenjĩte ⟨את⟩ mũgambi wa mwathi Ahacweroci, moko-inĩ ma acũranĩri ake?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "kũringana na dathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gĩtukũgeria iki"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": ""
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "na mũka-wa-mwathi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaciti"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aakenjĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambi"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "mũgambi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mwathi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahacweroci"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ ma"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "acũranĩri ake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:45:43.606895861Z",
+  "model": "glm-5.3"
+}

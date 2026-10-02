@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Kanyma kwa mũcedeki nĩgũkũhĩraga ũgĩ, na rurimi rwake runarĩra ciira.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "kanima kwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "nĩgũkũhĩraga"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "na rurimi rwake"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "runarĩra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:45.754442327Z",
+  "model": "glm-5.3"
+}

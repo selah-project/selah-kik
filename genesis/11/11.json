@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Cemu akiorokia thutha wa kũmenya ⟨את⟩ Arupakacadi mĩaka mĩano mĩrongo ĩrĩ kana mĩngĩ, na akamenya aana ake arume na aakwa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akiorokia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cemu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũmenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arupakacadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arupakacadi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mĩano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mĩrongo ĩrĩ kana mĩngĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akamenya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "aana arume"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na aakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:08.058335388Z",
+  "model": "glm-5.3"
+}

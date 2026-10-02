@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 143,
+  "translation": "Kĩngeranio kĩa Dawidi. Yahwe, thĩinĩ wa ũiguithia ũrĩa kwagu ingĩrĩkĩra ⟨את⟩ mahoya makwa; rora mahoyani makwa; thĩinĩ wa guo yaku nĩndũkonanie, na thĩinĩ wa cedeki yaku.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩngeranio"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "thĩinĩ wa ũiguithia ũrĩa kwagu ingĩrĩkĩra"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mahoya makwa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "rora"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mahoyani makwa"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "thĩinĩ wa guo yaku"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nĩndũkonanie"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "thĩinĩ wa cedeki yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:18.605898751Z",
+  "model": "glm-5.3"
+}

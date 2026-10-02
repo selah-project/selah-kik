@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na ndingarĩrĩirie gwĩtegete kwa Bireamu; nĩrarathimithania arathima ⟨את⟩ inyui, nakĩnyithithania inyui kuuma moko make.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ndinga-"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "rĩrĩirie"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "gwĩtegete"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "kwa Bireamu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "arathima"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "arathimithania"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyui",
+      "marks": "inyui"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "nakĩnyithithania"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyui",
+      "marks": "inyui"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "kuuma moko make"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:48.335502593Z",
+  "model": "glm-5.3"
+}

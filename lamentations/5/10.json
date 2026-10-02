@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ngogi yaitũ ĩnyitwo na mwaki ta itũũra rĩa kũringa, nĩ ũndũ wa kwarĩrĩria ya ndenge.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ngogi yaitũ"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ta itũũra rĩa kũringa"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ĩnyitwo na mwaki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "kwarĩrĩria"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ya ndenge"
+    }
+  ],
+  "timestamp": "2026-10-02T04:37:51.779868041Z",
+  "model": "glm-5.3"
+}

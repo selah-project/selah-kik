@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Cauri nĩaakuire, na aana arĩa athatũ, na mũweenjage wa meciria make, na andũ arĩa othe, mũthenya ũcio mũthemwe-inĩ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nĩaakuire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "aana arĩa athatũ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "na mũweenjage wa meciria"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meciria make"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "andũ arĩa make"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mũthemwe-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:14.147575600Z",
+  "model": "glm-5.3"
+}

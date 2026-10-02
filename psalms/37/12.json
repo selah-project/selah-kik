@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Mũhiũ ahuũragĩra mũthingu maũndũ mũru, na akĩnyita mbaca ya meno make mwanya wake.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "ahuũragĩra maũndũ mũru"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũhiũ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "na akĩnyita mbaca ya meno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "make wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:49.717023557Z",
+  "model": "glm-5.3"
+}

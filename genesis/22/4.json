@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Mũthenya wa gatatũ, Abarahamu agĩinũra ⟨את⟩ machendarĩ make, akĩona ⟨את⟩ kũndũ kũu kũrĩ kweera.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "gatatũ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "agĩinũra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machendarĩ make"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "machendarĩ make"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũndũ kũu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kũndũ kũu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kũrĩ kweera"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:34.842275633Z",
+  "model": "glm-5.3"
+}

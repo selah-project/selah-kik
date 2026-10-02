@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Yahwe ahotithagia arĩa mamenete-ciũgĩ, na akooreria andũ arũa makinya-thĩ nginya thĩ-inĩ mĩena yothe.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "ahotithagia"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "arĩa mamenete-ciũgĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "akooreria"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "andũ arũa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ-inĩ mĩena yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:00.447315243Z",
+  "model": "glm-5.3"
+}

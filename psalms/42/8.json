@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Maaĩ manjĩ makĩrĩta maaĩ manjĩ mangĩ, na mũgambo wa mirĩto yaku; mahiga maku othe na mabũrũri maku nĩmanjĩrire igũrũ rĩkwa.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "maaĩ manjĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "maaĩ manjĩ"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "makĩrĩta"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na mũgambo wa"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "mirĩto yaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mahiga maku"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "na mabũrũri maku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rĩkwa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nĩmanjĩrire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:23.818775382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Ĩgooce Yah; ĩgooce ⟨את⟩ Yahwe kuuma igũrũ-inĩ; mĩgooce kũrĩ kũigũrũ kũnene.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ĩgooce"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ĩgooce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ-inĩ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mĩgooce"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "kũrĩ kũigũrũ kũnene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.777725234Z",
+  "model": "glm-5.3"
+}

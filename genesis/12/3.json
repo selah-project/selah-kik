@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na nĩngũhe irathimo arĩa makũheha irathimo, na mũkũmena nĩngũmena, na mĩcũngĩ yothe ya thĩ nĩĩgũcooka ĩrathimĩtwo mawe.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "nĩngũhe irathimo"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "arĩa makũheha irathimo"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "mũkũmena"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "nĩngũmena"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "nĩĩgũcooka ĩrathimĩtwo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mĩcũngĩ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:25.067615012Z",
+  "model": "glm-5.3"
+}

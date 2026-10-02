@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "na iharo ĩrĩa mahĩtie kũyĩmenyeka, kĩama kĩnengereere mũirũ wa ng'ombe, mũrũ wa ng'ombe, ta kahĩtia, na magĩthiinga ⟨את⟩ mbere ya yũmba ya kũhiranwo.",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "kũyĩmenyeka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "iharo ĩrĩa mahĩtie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mahĩtie"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "yayo"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "kĩnengereere"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kĩama"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mũirũ wa ng'ombe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ta kahĩtia"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "magĩthiinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũirũ wa ng'ombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yũmba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiranwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:20.410649743Z",
+  "model": "glm-5.3"
+}

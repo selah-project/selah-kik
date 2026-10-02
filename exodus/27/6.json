@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na ũthondeke mĩcangari ya cahania — mĩcangari ya mitĩ ya caciya; ũmhũrĩrie ⟨את⟩ icũma.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na ũthondeke"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "mĩcangari"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ya cahania"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mĩcangari"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitĩ ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "caciya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ũmhũrĩrie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "icũma"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "icũma"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:32.287802930Z",
+  "model": "glm-5.3"
+}

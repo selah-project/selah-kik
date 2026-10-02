@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na Yahwe akĩaria na Moce, na kũuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩaria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:17.887181654Z",
+  "model": "glm-5.3"
+}

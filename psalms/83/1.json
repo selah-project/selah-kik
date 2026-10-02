@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Kĩĩga gĩa kũimbĩra, kĩandĩkĩtwo nĩ Acaphi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩga gĩa kũimbĩra"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩandĩkĩtwo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nĩ Acaphi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:14.364855962Z",
+  "model": "glm-5.3"
+}

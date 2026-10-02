@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Yahwe nao akĩmeera Moce: Rora, nĩngĩkũrũmbũnyithia mũgati kuuma igũrũ, nao andũ nĩmakaaga na makombe kĩao kĩa mũthenya ũmwe mũthenya-inĩ ũmwe, nĩgeetha ndĩmũgeithie arĩa arĩkũambata Tora yakwa kana ti ũguo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Rora, nĩngĩ"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "kũrũmbũnyithia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kũnyuĩ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mũgati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nĩmakaaga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "nĩmakombe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩao kĩa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya ũmwe"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "mũthenya-inĩ ũmwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "ndĩmũgeithie"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "arĩa arĩkũambata"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "Tora yakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti ũguo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:36.856277400Z",
+  "model": "glm-5.3"
+}

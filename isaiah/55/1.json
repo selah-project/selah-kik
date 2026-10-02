@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Hooi, o wothe arĩa macote, ithĩrai ya maji; na ũrĩa tarĩ na cegeri, ithĩrai, gũrai, riari; na ithĩrai, gũrai ĩtarĩ na cegeri na ĩtarĩ na thigithi, waini na iria.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hooi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "arĩa macote"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ithĩrai"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ya maji"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ũrĩa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tarĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cegeri"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ithĩrai"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "gũrai"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "na riari"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "na ithĩrai"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "gũrai"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ĩtarĩ na"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cegeri"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "na ĩtarĩ na"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "thigithi"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "na iria"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:18.320724609Z",
+  "model": "glm-5.3"
+}

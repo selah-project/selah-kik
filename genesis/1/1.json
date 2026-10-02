@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kĩambĩrĩria-inĩ Erohimu nĩombire ⟨את⟩ igũrũ na ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igũrũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:43.971598109Z",
+  "model": "glm-5.3"
+}

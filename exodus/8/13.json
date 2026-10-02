@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na magĩkũra ũguo; Aharoni agĩkembũra ⟨את⟩ moko wake na gwato rĩake, akagĩtũngũkĩra ⟨את⟩ mvũ ya ⟨the⟩ thĩ, na kininĩ gĩkaamĩrĩra harĩ mũndũ na harĩ ng'ombe; mvũ ya ⟨the⟩ thĩ yothe ĩkaamĩrĩra kininĩ thĩinĩ wa thĩ yothe ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "agĩkembũra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko wake"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "na gwato rĩake"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akagĩtũngũkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvũ ya thĩ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mvũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "gĩkaamĩrĩra"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kininĩ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "harĩ mũndũ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na harĩ ng'ombe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mvũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ĩkaamĩrĩra"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kininĩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:06:18.359360625Z",
+  "model": "glm-5.3"
+}

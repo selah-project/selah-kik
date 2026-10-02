@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Akĩheana kĩunju kĩa mbura ciacio kĩa baradi, na mũrito wa mwaki thĩinĩ wa thĩ yao.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "akĩheana"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "mbura ciacio"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "kĩa baradi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mwaki"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "mũrito wa"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "thĩinĩ wa thĩ yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:37.245047535Z",
+  "model": "glm-5.3"
+}

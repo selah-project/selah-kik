@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "⟨את⟩ ruaki wa mbocore akĩmeera, macani magana ithano, na mũcani wa kũmeera.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaki wa mbocore"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "wa mbocore"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "macani"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "na mũcani"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "wa kũmeera"
+    }
+  ],
+  "timestamp": "2026-10-02T02:10:45.025169631Z",
+  "model": "glm-5.3"
+}

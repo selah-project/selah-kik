@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Yahwe arĩ mũkũĩku kuuma andũ arĩa othe, na ihumiro igũrũ ciake irĩ thĩinĩ wa ngwĩ iria ciothe ciake.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "arĩ mũkũĩgu kuuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "andũ arĩa othe"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "na ihumiro igũrũ ciake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩ thĩinĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cia othe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ngwĩ iria ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:28.839415536Z",
+  "model": "glm-5.3"
+}

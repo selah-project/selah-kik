@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na rĩrĩ nginya ũrirũ kanua, rĩraya ndĩnĩũra njega thĩinĩ wa mĩciĩ yakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Na rĩrĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ũrirũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kanua"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kũtũmĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ acio"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ acio"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Rora nĩne"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ndĩnĩũra"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rĩraya"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "njega"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "thĩinĩ wa mĩciĩ yakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:50.647726203Z",
+  "model": "glm-5.3"
+}

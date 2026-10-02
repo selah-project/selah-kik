@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Kĩtheri na mũciĩ na mũthenya ũrĩa riũa rĩrĩ igũrũ, nĩngĩcũrania na kũgamba mũgambo, nakĩigua mũgambo wakwa.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "kĩtheri"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na mũciĩ"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "na mũthenya ũrĩa riũa rĩrĩ igũrũ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nĩngĩcũrania"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "na kũgamba mũgambo"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "nakĩigua"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:38.658457444Z",
+  "model": "glm-5.3"
+}

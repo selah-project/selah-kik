@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩngacokanithia ⟨את⟩ kĩĩrĩ kĩa Dawidi nĩ ũndũ wa ũyũ, no ti mĩthenya yothe.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "nĩngacokanithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩĩrĩ kĩa Dawidi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kĩĩrĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:52.039749566Z",
+  "model": "glm-5.3"
+}

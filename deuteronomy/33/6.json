@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Reubeni akuuenge, ndĩakuage, na arũme ake makoruo na mũgwanja.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "akuuenge"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndĩa-"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "kuage"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "makoruo"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "arũme ake"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "na mũgwanja"
+    }
+  ],
+  "timestamp": "2026-10-01T22:37:19.220361146Z",
+  "model": "glm-5.3"
+}

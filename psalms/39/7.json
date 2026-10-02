@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Ĩndĩ o na kĩhianĩre mũndũ arĩgũcendera; o na heheri agĩhũngĩrĩra; agĩhĩnya maciaro, na ndamenyaga mũndũ ũrĩa wakũmacungũrĩra-rĩ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ĩndĩ o"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "na kĩhianĩre"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "arĩgũcendera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "o"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heheri"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "agĩhũngĩrĩra"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "agĩhĩnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndamenyaga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ndamenyaga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mũndũ ũrĩa"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "wakũmacungũrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:26.038990731Z",
+  "model": "glm-5.3"
+}

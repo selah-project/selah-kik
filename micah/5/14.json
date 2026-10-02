@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩngĩgĩa na kũhoota, ira-inĩ na hinya-inĩ w'ũgũa, igũrũ rĩa ⟨את⟩ ndũrĩrĩ iria ti zakwa kũiguũra.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "nĩngĩgĩa"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ira-inĩ"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "na hinya-inĩ w'ũgũa"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kũhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũrĩrĩ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kũiguũra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:30:10.210598423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na ciana cia Ariwi arĩa mathuthĩte: ya ciana cia Amuramu, Cubaeri; ya ciana cia Cubaeri, Yehediyahu.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Na ya ciana cia"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Ariwi"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "arĩa mathuthĩte"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya ciana cia"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amuramu"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Cubaeri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya ciana cia"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Cubaeri"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Yehediyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:34:25.264004484Z",
+  "model": "glm-5.3"
+}

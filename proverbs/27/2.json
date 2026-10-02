@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Mũndũ ũngĩ ndakuhorereria, ti kanua gĩaku; mũũci, ti moro maku.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ndakuhorereria"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mũndũ ũngĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kanua gĩaku"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "mũũci"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "moro maku"
+    }
+  ],
+  "timestamp": "2026-10-02T04:00:50.851012020Z",
+  "model": "glm-5.3"
+}

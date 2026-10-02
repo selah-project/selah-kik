@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 95,
+  "translation": "Ũrĩa moko make mokoretie kĩgwa-inĩ kĩa thĩ, na matu ma mirĩma nĩ make.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko make mokoretie"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "kĩgwa-inĩ kĩa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "na matu ma"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mirĩma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩ make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:54.799011056Z",
+  "model": "glm-5.3"
+}

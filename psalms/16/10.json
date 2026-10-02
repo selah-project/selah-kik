@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩgũkorwo ndũkarega mũoyo wakwa Ceori, na ndũkahotora mũtheru wakwa kũrora gĩthumbĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "rega"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na ndũka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hota"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "mũtheru wakwa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũrora"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gĩthumbĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:54:06.118850299Z",
+  "model": "glm-5.3"
+}

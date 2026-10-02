@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Cipora akĩga ciũru kĩgua kĩegeru, akĩtemba ⟨את⟩ thũcia ya mũrũ wake, na akĩgũĩrĩra magũrũ-inĩ make, akoiga: Nĩwe mũthoni wa ithakame yakwa.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "akĩga"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ciũru kĩgua kĩegeru"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "akĩtemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thũcia ya mũrũ wake"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "thũcia"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya mũrũ wake"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "akĩgũĩrĩra"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "magũrũ-inĩ make"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akoiga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mũthoni"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "wa ithakame"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:11.471534757Z",
+  "model": "glm-5.3"
+}

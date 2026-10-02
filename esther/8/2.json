@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Mũthamaki arehĩtie ithanjia rĩake rĩa kũinĩra, rĩrĩa aahĩtirĩte kuuma kwa Hamani, na akihe Morodokane; na Eceteri ikarĩtie Morodokane igũrũ ya nyũmba ya Hamani.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "arehĩtie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithanjia rĩake rĩa kũinĩra"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ithanjia rĩake rĩa kũinĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "aahĩtirĩte"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "kuuma kwa Hamani"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "akihe"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Morodokane"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ikarĩtie"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eceteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Morodokane"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodokane"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ya Hamani"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:20.083450794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Akĩndĩhekĩra mĩrĩgo-inĩ gwakwa kĩimbo kĩerũ, kĩa kũigingira Erohimu witũ; aingĩ nĩmakĩona, makĩtinya, magĩcokia thĩinĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Akĩndĩhekĩra"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mĩrĩgo-inĩ gwakwa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kĩimbo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kĩerũ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kĩa kũigingira"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nĩmakĩona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aingĩ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "makĩtinya"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "magĩcokia thĩinĩ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:49.783079552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ici nĩcio ciari cia Teraci: Teraci aciarire ⟨את⟩ Abaramu, ⟨את⟩ Nahori, na ⟨את⟩ Harani; na Harani aciarire ⟨את⟩ Loti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ici"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nĩcio ciari cia"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraci"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraci"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "aciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abaramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abaramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "na Harani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "aciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:05.086247268Z",
+  "model": "glm-5.3"
+}

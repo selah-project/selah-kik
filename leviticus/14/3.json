@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Mũthanjari nĩathĩĩte ithũĩra ya kambeni, na mũthanjari nĩaarorete, na rũciaru nĩgũkũona atĩ kĩrembo kĩa ceraati kĩaherũkĩte kũrĩ mũceraati.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nĩathĩĩte"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ithũĩra"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kambeni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "nĩaarorete"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjari"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũciaru"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "kĩaherũkĩte"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "kĩrembo"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "kĩa ceraati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "mũceraati"
+    }
+  ],
+  "timestamp": "2026-10-01T21:37:16.454458067Z",
+  "model": "glm-5.3"
+}

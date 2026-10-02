@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Makiri nĩnette ⟨את⟩ Gireadi.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Na Makiri"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩnette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gireadi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gireadi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:20.299694931Z",
+  "model": "glm-5.3"
+}

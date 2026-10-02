@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Na arĩa athekenĩ magakuoona, magatinya, magakĩcheekera ⟨we⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "magakuoona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa athekenĩ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "magatinya"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "kũrĩ ⟨we⟩"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "magakĩcheekera"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:20.810874719Z",
+  "model": "glm-5.3"
+}

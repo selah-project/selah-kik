@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Kwĩteithia uruma, kũhoithia mbarathi, nĩndĩĩhĩte ⟨את⟩ thakame wayo igũrũ rĩa riigua rĩa thaa, kana iethĩtwo.",
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "Kwĩteithia"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "uruma"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "kũhoithia"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "mbarathi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩĩhĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame wayo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "thakame wayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "rĩa thaa"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "riigua"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "iethĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T01:58:35.392182136Z",
+  "model": "glm-5.3"
+}

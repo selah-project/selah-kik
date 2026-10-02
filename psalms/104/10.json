@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Nĩũthaagĩra macũonjo mĩhoro-inĩ; mahiagakĩra hagati ya mirĩma.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "nĩũthaagĩra"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "macũonjo"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "mĩhoro-inĩ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mirĩma"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "mahiagakĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:49.959000073Z",
+  "model": "glm-5.3"
+}

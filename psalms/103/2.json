@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Yambĩra, ngoro yakwa, ⟨את⟩ Yahwe; ũndũ kana mwĩhokie maũndũ macro mose makwa.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "yambĩra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ũndũ kana"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "mwĩhokie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mose"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "macro mose makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:09.810183341Z",
+  "model": "glm-5.3"
+}

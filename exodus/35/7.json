@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na magithweri ma nthogũ mahonwo mũcũthi, na magithweri ma tahaci, na mĩtĩ ya cithaa.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "magithweri"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ma nthogũ"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "mahonwo mũcũthi"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "magithweri"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ma tahaci"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya cithaa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:20.340253879Z",
+  "model": "glm-5.3"
+}

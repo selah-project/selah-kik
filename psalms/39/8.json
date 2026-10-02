@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na rĩu, Adonai, nĩngĩeterere kĩĩ? Kũeterera kwakwa-rĩ, nĩ kwaku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩĩ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nĩngĩeterere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Kũeterera kwakwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩ kwaku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yo⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:26.039428881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Nĩgũkorua ruaki ĩĩgũa rĩake, na agĩtuĩka atirĩ; na harĩa ahĩtũkire ndagĩkũmenya naguo rĩngĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorua"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ĩĩgũa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rĩake"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "na agĩtuĩka atirĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndagĩ"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kũmenya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "harĩa ahĩtũkire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:23.196966582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Cemueri anyitikirie ⟨את⟩ ciugo ciothe cia andũ, akimarutithia matu-inĩ ma Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "anyitikirie"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe cia andũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "cia andũ"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "akimarutithia"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "matu-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:40.171889618Z",
+  "model": "glm-5.3"
+}

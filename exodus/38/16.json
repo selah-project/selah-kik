@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Marĩa gũkũngũĩra ma gĩcege guothe kũrĩa kũgĩrĩirĩ, nĩ ma cogo ciahonjekio mwena wa thĩ, wa mũgũnda mũthemahonjekio.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "guothe"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "marĩa gũkũngũĩra ma"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "gĩcege"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kũrĩa kũgĩrĩirĩ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "cogo ciahonjekio mwena wa thĩ, wa mũgũnda"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mũthemahonjekio"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:34.319891584Z",
+  "model": "glm-5.3"
+}

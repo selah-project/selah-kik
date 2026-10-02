@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ere wakwa, Ere wakwa, kwarĩ ũrĩkũ ũnirete? Ũrĩ kwarĩ hatĩ na kũhoniania kwakwa, na ciugo cia kũgamba kwakwa.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Ere wakwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ere wakwa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kwarĩ ũrĩkũ"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ũnirete"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Ũrĩ kwarĩ hatĩ"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "na kũhoniania kwakwa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "kũgamba kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:33.579991639Z",
+  "model": "glm-5.3"
+}

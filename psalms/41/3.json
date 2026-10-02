@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Yahwe amũrũngĩrĩra, akĩmũhĩtũkia; agĩtua mũrĩ ũmenyo-manĩrũ thĩ-inĩ; na ndũkahora ũmũhe kũrĩ mweri wa thũ ciake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "amũrũngĩrĩra"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "akĩmũhĩtũkia"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "agĩtua mũrĩ ũmenyo-manĩrũ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndũkahora"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ũmũhe"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kũrĩ mweri wa"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "thũ ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:59.113795271Z",
+  "model": "glm-5.3"
+}

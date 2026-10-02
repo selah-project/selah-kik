@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩgũkorwo akũuga atĩrĩ: Ti atĩ andũ-a-inya akwa, hamwe, nĩ athamaki?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akũuga atĩrĩ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ti atĩ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "andũ-a-inya akwa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:34.497927657Z",
+  "model": "glm-5.3"
+}

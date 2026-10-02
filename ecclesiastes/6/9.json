@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Kiega nĩ kuona kwa maitho kũrĩ kũendaria ngoro; ũcio nawo nĩ hebiri na kũnyamaruka kwa ruaki.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kiega"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "kwa maitho"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "kũendaria"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebiri"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "kũnyamaruka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwa ruaki"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:33.851455516Z",
+  "model": "glm-5.3"
+}

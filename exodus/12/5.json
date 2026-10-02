@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Ndarĩme ĩmwe ĩtheru, ya nthonde, ĩrĩa ĩmwe ya mwaka, nĩiyakwa nyuinĩ yanyu; kuuma kĩrĩnda-inĩ kĩa ndarĩme kana kuuma kĩrĩnda-inĩ kĩa mbũri mũgwe.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "ndarĩme"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ĩtheru"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ya nthonde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ĩrĩa ĩmwe ya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩiyakwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nyuinĩ yanyu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "kĩrĩnda kĩa ndarĩme"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kana kuuma"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kĩrĩnda kĩa mbũri"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mũgwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:54.419879786Z",
+  "model": "glm-5.3"
+}

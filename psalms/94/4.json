@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Mahũrĩra magambo, makuuga maũndũ manjamba-njamba; arĩa othe mekaga maũndũ maũru makuuranĩra ⟨arĩmwe⟩.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Mahũrĩra magambo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "makuuga"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "maũndũ manjamba-njamba"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "makuuranĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mekaga"
+    },
+    {
+      "surface": "און",
+      "gloss": "maũndũ maũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:40.929136478Z",
+  "model": "glm-5.3"
+}

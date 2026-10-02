@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Mũgũri nĩmũtũmĩtie mũcedeki, na nĩetee kũmũrĩa.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "nĩmũtũmĩtie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũgũri"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "na nĩetee"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kũmũrĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:45.755647465Z",
+  "model": "glm-5.3"
+}

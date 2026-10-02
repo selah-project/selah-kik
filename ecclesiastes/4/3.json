@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na kĩega kũri ũrĩa tarĩku ũmwe kũringana nao matu: ⟨את⟩ ũrĩa taonire ⟨את⟩ ciĩra mũru iria ciakorũo thĩiniĩ wa riũa.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Na kĩega"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "kũringana nao matu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa tarĩku ũmwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "tarĩku ũmwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "rĩku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "onire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩra mũru"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ciĩra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mũru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ciakorũo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩiniĩ wa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:16.216607051Z",
+  "model": "glm-5.3"
+}

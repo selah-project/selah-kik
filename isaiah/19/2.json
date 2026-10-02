@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na nĩngĩcokanithia Micirayimu na Micirayimu, na magwetanĩra: mũndũ na mũndũ na mũrũ wake wa nyina, na mũndũ na mũndũ na mũratĩri wake; itũra na itũra, ũthamaki na ũthamaki.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "nĩngĩcokanithia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Micirayimu"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "magwetanĩra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ na mũndũ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "na mũrũ wake wa nyina"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ na mũndũ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "na mũratĩri wake"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "itũra"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na itũra"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "na ũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:34:08.864489447Z",
+  "model": "glm-5.3"
+}

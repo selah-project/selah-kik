@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Nĩaguure andũ aku na cedeki, na arĩa maharĩirie aku na ciira.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "nĩaguure ciira"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ aku"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "na arĩa maharĩirie aku"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:44.369066085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Yahwe ndangamũtiga moko-inĩ wake mwĩhĩte, na ndangamũhĩndũra rĩrĩa acokĩtwo ciira-inĩ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndanga"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "amũtiga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko-inĩ wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndanga"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "amũhĩndũra"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "rĩrĩa acokĩtwo ciira-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:47.417108362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Ĩka mũthabani wa mũtumia waku ithĩinĩ wa kĩega; arĩa makwĩhinya matimaikũrĩha.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ĩka mũthabani"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ithĩinĩ wa kĩega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "matima"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "kũrĩha"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "arĩa makwĩhinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:07.740090499Z",
+  "model": "glm-5.3"
+}

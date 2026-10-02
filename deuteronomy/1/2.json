@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mĩthenya ikũmi na ũmwe ya mũthiĩ kuma Corebi, thĩinĩ wa nthĩ ya kirima kĩa Ceiri, nginya Cedeci-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kuma Corebi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "thĩinĩ wa nthĩ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kirima"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Ceiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Cedeci-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-10-01T22:17:03.079558948Z",
+  "model": "glm-5.3"
+}

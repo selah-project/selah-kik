@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩngĩthiĩ ta kĩũrũ kĩrĩa gĩaikaraga gĩkuũ; nĩngĩrirũtwo ta cĩũ.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "ta kĩũrũ"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "kĩrĩa gĩaikaraga gĩkuũ"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "nĩngĩthiĩ"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "nĩngĩrirũtwo"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "ta cĩũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:59.469902438Z",
+  "model": "glm-5.3"
+}

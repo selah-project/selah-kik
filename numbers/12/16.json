@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na thutha ũcio andũ ma rũngĩrĩkĩtie kuuma Hazeroth, mageethĩkĩtie thĩinĩ wa gĩthaka wa Parani.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "na thutha ũcio"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "rũngĩrĩkĩtie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ ma"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "Hazeroth"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mageethĩkĩtie"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩinĩ wa gĩthaka"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parani"
+    }
+  ],
+  "timestamp": "2026-10-01T21:57:43.251230870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Arĩa maugĩte: Na rũrĩmi rwitũ nĩtũnyitĩre hinya; millari yitũ nĩ ⟨את⟩ na ithuĩ; nĩ ũũ nĩ mwathi mũrĩ wĩra witũ?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "maugĩte"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "rũrĩmi rwitũ"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "nĩtũnyitĩre hinya"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "millari yitũ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ na ithuĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wĩra witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:02.339812166Z",
+  "model": "glm-5.3"
+}

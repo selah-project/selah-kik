@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Mũthenya-inĩ wa thandu yakwa nĩngĩkũhoyagĩra, nĩgũkorwo nĩwe ũngĩcookeria.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ wa"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "thandu yakwa"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "nĩngĩkũhoyagĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ũngĩcookeria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:53.579157084Z",
+  "model": "glm-5.3"
+}

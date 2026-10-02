@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Rĩmwe ndimarire, na ndĩngĩhoora; ijarĩ, na ndĩngĩongera.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "rĩmwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndimarire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "kũhoora"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ijarĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "kũongera"
+    }
+  ],
+  "timestamp": "2026-10-02T04:23:44.830378947Z",
+  "model": "glm-5.3"
+}

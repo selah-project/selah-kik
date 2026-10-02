@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Yahwe akiuga na Moce, na kũuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kũuga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:44.051296726Z",
+  "model": "glm-5.3"
+}

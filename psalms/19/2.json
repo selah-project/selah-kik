@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ĩgũrũ nĩcirutanaga ⟨את⟩ kĩeeko kĩa Ere, na rakingia nĩonanaga ⟨את⟩ gĩkorwa kĩa moko make.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Ĩgũrũ"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "nĩcirutanaga"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kĩeeko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na gĩkorwa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kĩa moko make"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "nĩonanaga"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakingia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:47.346776269Z",
+  "model": "glm-5.3"
+}

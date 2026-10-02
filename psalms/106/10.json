@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Akĩhonorithia ao kuuma moko-inĩ ma ũrĩa amamenete, nao akamakuura kuuma moko-inĩ ma thũ.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "akĩhonorithia ao"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ũrĩa amamenete"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "akamakuura"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "thũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:42.938284521Z",
+  "model": "glm-5.3"
+}

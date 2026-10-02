@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩ ũrĩa Cekemu agĩtũra Hamori ithe wa kĩmwe, na kuuga: Nĩndatore ⟨את⟩ mũirĩtu ũyũ ng'acĩrire mwĩrĩka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩtũra"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamori"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kuuga"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nĩndatore"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ng'acĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũirĩtu ũyũ"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "mũirĩtu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mwĩrĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T06:08:56.748770763Z",
+  "model": "glm-5.3"
+}

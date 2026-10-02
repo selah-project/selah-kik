@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mũmbaari nĩ ũhoro w'ũrega gwĩtaũrwo-inĩ, na mũingĩ-inĩ wa hinya wayo ti gwĩtaũrwo.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ũhoro w'ũrega"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "mũmbaari"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "gwĩtaũrwo"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "na mũingĩ-inĩ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hinya wayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "gwĩtaũrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:48.351833485Z",
+  "model": "glm-5.3"
+}

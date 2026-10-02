@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Nĩwũyĩtie thĩ na kũnyingĩrĩria maaĩ; nĩwũhoingĩrĩirie mũno; kamura kwa Erohimu nĩgĩjĩte maaĩ; nĩwateithirie mbembe yao, nĩ getha o ũguo nĩwateithirie yayo.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "nĩwũyĩtie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "kũnyingĩrĩria maaĩ"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "nĩwũhoingĩrĩirie"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "kamura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nĩgĩjĩte"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "nĩwateithirie"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "mbembe yao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ getha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "nĩwateithirie yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:45.246753296Z",
+  "model": "glm-5.3"
+}

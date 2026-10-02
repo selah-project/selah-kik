@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Akĩrĩha kuura, nĩkĩĩmũra mbũya; na matakaaria ⟨את⟩ ciugo ciake.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "akĩrĩha"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kuura"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "nĩkĩĩmũra mbũya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "makoretie matakaaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciake"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ciugo ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:34.017306667Z",
+  "model": "glm-5.3"
+}

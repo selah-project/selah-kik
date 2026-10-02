@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩgoro Yahwe acokire kũingĩra mũthenya ũrĩa athiĩtie atĩrĩ, na akauga atĩrĩ: Kuma ũciĩ, Yahwe nĩagĩkora ũhoro ũyũ thĩinĩ wa bũrũri ũyũ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "acokire kũingĩra mũthenya ũrĩa athiĩtie atĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mũthenya ũrĩa athiĩtie atĩrĩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akauga atĩrĩ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Kuma ũciĩ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nĩagĩkora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa bũrũri ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:58.859808281Z",
+  "model": "glm-5.3"
+}

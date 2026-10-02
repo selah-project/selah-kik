@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Rora, Yahwe Erohimu waku nĩahĩre mbere yaku ⟨את⟩ ⟨thĩ⟩; rũũra ũtake, ta ũrĩa Yahwe Erohimu wa atherũ akuukire kũrĩ wewe: ndũkaerwo, na ndũtĩkanwo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Rora"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩahĩre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rũũra"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ũtake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akuukire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "wa atherũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũrĩ wewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kaerwo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndũ-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tĩkanwo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:49.237318426Z",
+  "model": "glm-5.3"
+}

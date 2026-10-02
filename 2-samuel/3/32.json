@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na magĩbiara ⟨את⟩ Abineri Hebroni-inĩ; na Mwathi agĩinũra ⟨את⟩ mũgambo wake, agĩeira kũrĩa kuura kwa Abineri; na andũ aothe magĩira.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "magĩbiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abineri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebroni-inĩ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "agĩinũra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo wake"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "agĩeira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kuura"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "magĩira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:31:35.113425303Z",
+  "model": "glm-5.3"
+}

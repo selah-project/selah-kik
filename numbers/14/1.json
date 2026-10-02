@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na mwĩhĩa wothe ũrĩhotha ⟨את⟩ mĩario yao, na andũ maarerire mũthenya ũcio.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "na ũrĩhotha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mwĩhĩa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "maarũa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩario yao"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mĩario yao"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "na maarerire"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:58:39.115002078Z",
+  "model": "glm-5.3"
+}

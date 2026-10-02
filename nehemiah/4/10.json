@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 4:10",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩgekũgembwo kuuma mũthenya ũcio, gatagatĩ ka ciana cĩakwa kaakaga wĩra-inĩ, na gatagatĩ kabo koigithaga njora, ngari, mbũta na nguo cia kũrindĩra; na atongoria magĩrĩkuire thutha wa nyũmba ya Yuda ciothe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgekũgembwo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ciana cĩakwa"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "kaakaga"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "wĩra-inĩ"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "gatagatĩ kabo"
+    },
+    {
+      "surface": "מחזיקים",
+      "gloss": "koigithaga"
+    },
+    {
+      "surface": "והרמחים",
+      "gloss": "njora"
+    },
+    {
+      "surface": "המגנים",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "והקשתות",
+      "gloss": "mbũta"
+    },
+    {
+      "surface": "והשרינים",
+      "gloss": "nguo cia kũrindĩra"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-02T05:11:27.461505536Z",
+  "model": "glm-5.3"
+}

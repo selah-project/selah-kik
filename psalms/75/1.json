@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Kwa mũcũji — ũratahe; kĩimbo kĩa Acafu, ngombo ya kũimbira.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũcũji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ratahe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩa Acafu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ngombo ya kũimbira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:18.333788215Z",
+  "model": "glm-5.3"
+}

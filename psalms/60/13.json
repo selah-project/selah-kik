@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Tũhee ithũĩ ũteithĩrũ mbere ya mũthĩnĩ, na ⟨nĩ⟩ ũtherũ cokete ya mũndũ.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Tũhee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ũteithĩrũ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mũthĩnĩ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "na ũtherũ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "cokete"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:01.291472401Z",
+  "model": "glm-5.3"
+}

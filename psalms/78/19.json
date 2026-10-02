@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩmaugĩte maũndũ ũtheri wa Erohimu, makĩuga: Ere ndangwĩkuga kũmeera meza gĩthaka-inĩ?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "nĩmaugĩte maũndũ ũtheri"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "ndangwĩkuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "kũmeera"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthaka-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:53.183570466Z",
+  "model": "glm-5.3"
+}

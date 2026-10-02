@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩgĩkuo makĩikarara thayũ wa meza, kĩugo kĩa Yahwe kĩgĩthĩra kũrĩ mũrathi ũrĩa wamũcookia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgĩkuo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "makĩikarara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kĩgĩthĩra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ūrĩa"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "wamũcookia"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:39.938157772Z",
+  "model": "glm-5.3"
+}

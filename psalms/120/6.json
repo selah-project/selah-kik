@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 120,
+  "translation": "Mũoyo wakwa ũkĩũranĩra hĩndĩ nene mũno kũikara hamwe na mũmenetani wa theri.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "hĩndĩ nene mũno"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "kũikara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ũkĩũranĩra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "mũmenetani"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa theri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:31.770509423Z",
+  "model": "glm-5.3"
+}

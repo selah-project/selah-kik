@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ Baarati, na ⟨את⟩ Tamari, harĩa gĩthaka-inĩ, thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Baarati"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baarati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tamari"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthaka-inĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:53.978754266Z",
+  "model": "glm-5.3"
+}

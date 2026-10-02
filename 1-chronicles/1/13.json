@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Kenani nĩamũcie ⟨את⟩ Caidoni mũcerũ wake wa mbere, na ⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Na Kenani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩamũcie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Caidoni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Caidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mũcerũ wake wa mbere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:26.083790115Z",
+  "model": "glm-5.3"
+}

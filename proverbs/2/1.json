@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũrũ wakwa, rĩrĩa ũĩnyitagĩra mario cianĩ, na mawatho makwa ũkahũũra ⟨את⟩ nawe;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mũrũ wakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ũĩnyitagĩra"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mario cianĩ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na mawatho makwa"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ũkahũũra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "mawatho makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:10.229405516Z",
+  "model": "glm-5.3"
+}

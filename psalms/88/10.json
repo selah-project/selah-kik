@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Irĩ cia makwa nĩciũrĩte kwa mahĩtia makwa; nĩngũkũhũrire, Yahwe, mũthenya wothe, nĩngwatĩra kũraku moko yakwa ĩrĩ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "irĩ cia makwa"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "nĩciũrĩte"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mahĩtia makwa"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nĩngũkũhũrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "nĩngwatĩra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũraku"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "moko yakwa ĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:10.225732313Z",
+  "model": "glm-5.3"
+}

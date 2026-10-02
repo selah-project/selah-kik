@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Ũndũ ũcio nĩwamũrire thĩinĩ wa maitho ma Erohimu, nĩko Erohimu akũrire ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "nĩwamũrire"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T07:11:12.530084047Z",
+  "model": "glm-5.3"
+}

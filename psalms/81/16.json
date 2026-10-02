@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Arĩa mamena Yahwe mairĩragĩrĩra kũiguithia, na hĩndĩ yao ĩkoragwo kwa tene na tene.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "arĩa mamena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "mairĩragĩrĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũiguithia"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ĩkoragwo"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "hĩndĩ yao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:48.907619902Z",
+  "model": "glm-5.3"
+}

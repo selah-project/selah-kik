@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na nĩngĩte ⟨את⟩ kĩrĩma gia Ceiri kĩtuĩ kĩhonokia na kĩa gũthererũo, na nĩngĩcina kuma hakuhĩ wake ũrĩa ũthiĩ na ũrĩa ũcooka;",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩngĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩma gia Ceiri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Ceiri"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "kĩtuĩ kĩhonokia"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "kĩa gũthererũo"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "nĩngĩcina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuma hakuhĩ wake"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ũrĩa ũthiĩ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ũrĩa ũcooka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:06:18.326971572Z",
+  "model": "glm-5.3"
+}

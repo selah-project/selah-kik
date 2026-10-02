@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na arĩa maciigĩrĩ magũrũ-inĩ makĩũga, makĩbarũra ithuĩ; Moce akĩĩmba, akĩmũhokenya, na akĩnywethia ⟨את⟩ ng'ombe ciacio.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "makĩũga"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "arĩa maciigĩrĩ magũrũ-inĩ"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "makĩbarũra ithuĩ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akĩĩmba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "akĩmũhokenya"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akĩnywethia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe ciacio"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ng'ombe ciacio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:03.690579334Z",
+  "model": "glm-5.3"
+}

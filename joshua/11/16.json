@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩ ũndũ wa kũrĩa Yocehua anyitie ⟨את⟩ thĩ ĩno yothe: kĩrĩma, na ⟨את⟩ Negerevu yothe, na ⟨את⟩ thĩ ya Goceni yothe, na ⟨את⟩ thĩ ya hasi, na ⟨את⟩ mbarara, na ⟨את⟩ kĩrĩma kĩa Yiceraeri na hasi yacio.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nĩ anyitie"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yocehua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩno yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Negerevu yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negerevu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thĩ ya Goceni yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goceni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thĩ ya hasi"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "thĩ ya hasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbarara"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "mbarara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩrĩma kĩa Yiceraeri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "na hasi yacio"
+    }
+  ],
+  "timestamp": "2026-10-01T22:46:54.961393008Z",
+  "model": "glm-5.3"
+}

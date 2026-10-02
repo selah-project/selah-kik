@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Nĩgũkorwo thũ cia makwĩ magĩkũuga nginya; arĩa mahota ⟨moyo⟩ wakwa maarathania hamwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "magĩkũuga"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "thũ cia makwĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "arĩa mahota"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wakwa"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "maarathania"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:53.098087718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ arĩa mahũrĩte thutha wa Yahwe, na arĩa matatheire ⟨את⟩ Yahwe, na mataneng'anjire ũndũ wake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mahũrĩte"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "arĩa mahũrĩte"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na arĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tatheire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ta"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "neng'anjire ũndũ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:39:55.039055097Z",
+  "model": "glm-5.3"
+}

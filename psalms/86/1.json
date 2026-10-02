@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Thayo ya Dawidi. Yahwe, tĩkũra matwĩ maku, njigĩte, nĩ nĩ mũkenye na mũthingu nĩrĩ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "thayo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tĩkũra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "matwĩ maku"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "njigĩte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũthingu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:26.075279967Z",
+  "model": "glm-5.3"
+}

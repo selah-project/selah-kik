@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Nĩhaaga nyamu irio ciayo, na ciana cia nyoni ndune arĩa magamba.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "nĩhaaga"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "irio ciayo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nyoni ndune"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יקראאו",
+      "gloss": "magamba"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:57.218839003Z",
+  "model": "glm-5.3"
+}

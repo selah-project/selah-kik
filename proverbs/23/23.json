@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ma gũgũra, ũndũ ũgũte ũgĩcuũra; na ũgĩ, na gũcunjĩrwa, na ũmenyo mani.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "gũgũra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ũndũ ũgũte"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ũgĩcuũra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "na gũcunjĩrwa"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "na ũmenyo mani"
+    }
+  ],
+  "timestamp": "2026-10-02T03:59:03.384335816Z",
+  "model": "glm-5.3"
+}

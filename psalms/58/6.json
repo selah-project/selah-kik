@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Ĩrĩa ĩtigũigua mũgambo wa arĩa mahuhĩranaga, o mũrogi wa mahũrũranĩ ũrĩa wĩ bũgĩ mũno.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ĩigua"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "arĩa mahuhĩranaga"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "mũrogi wa"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "mahũrũranĩ"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "wĩ bũgĩ mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:13.037101224Z",
+  "model": "glm-5.3"
+}

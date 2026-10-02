@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Nĩkĩ nĩngĩtethe mĩthenya ya ũru, ũthĩ ũrĩa hĩhĩ na magũrũ makwa nĩũringĩrĩirie?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nĩngĩtethe"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mĩthenya ya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ũthĩ"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "magũrũ makwa"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "nĩũringĩrĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:19.861174092Z",
+  "model": "glm-5.3"
+}

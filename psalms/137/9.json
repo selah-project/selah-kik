@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "Ũgima nĩwao ũrĩa ũgĩtemba na gũtukia ⟨את⟩ ciana ciaku icio rũciĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ũgima nĩwao"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "ũrĩa ũgĩtemba"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "na gũtukia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciaku icio"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ciana ciaku icio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rũciĩ-inĩ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "rũciĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:33.262789610Z",
+  "model": "glm-5.3"
+}

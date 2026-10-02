@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na rĩrĩa mũndũ agĩthĩra ⟨את⟩ mwana wake wa mũirũ akĩtuĩka mũtikamakia, nĩtakwĩgũa aguoko ta acũranji arĩa maingĩ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "agĩthĩra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wake wa mũirũ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana wake wa mũirũ"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "mũtikamakia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kwĩgũa aguoko"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "acũranji"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:33.116484571Z",
+  "model": "glm-5.3"
+}

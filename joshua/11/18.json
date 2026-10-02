@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Mĩthenya mĩnene Yocea nĩagwetire mũthingo na ⟨את⟩ mĩthamaki yothe ĩrĩa.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mĩnene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩagwetire"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yocea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthamaki yothe ĩrĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mĩthamaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mũthingo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:46:56.918364119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ikinya rĩrĩa aathani maũraga kuuma ũtheru-inĩ, kĩanda kĩnĩnjũkĩirie ⟨את⟩ nyũmba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikinya"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "rĩrĩa maũraga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aathani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru-inĩ"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "na kĩanda"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kĩnĩnjũkĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:01.185948546Z",
+  "model": "glm-5.3"
+}

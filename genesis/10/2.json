@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Aana a Yafethi: Gomeri, na Magogi, na Madai, na Yavani, na Tubari, na Meceki, na Tiraci.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafethi"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeri"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "na Magogi"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "na Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "na Yavani"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "na Tubari"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "na Meceki"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "na Tiraci"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:52.626075426Z",
+  "model": "glm-5.3"
+}

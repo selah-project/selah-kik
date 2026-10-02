@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Yohucua agĩcooka, na Yiceraeri yothe hamwe nake, agĩthiĩ nginya kĩama kĩa Girigara.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "agĩcooka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yohucua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri yothe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kĩama"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "kĩa Girigara"
+    }
+  ],
+  "timestamp": "2026-10-01T22:43:57.651214931Z",
+  "model": "glm-5.3"
+}

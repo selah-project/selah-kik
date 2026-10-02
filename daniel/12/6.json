@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 12:6",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na ũmwe akiuga kũrĩ mũndũ ũrĩa woĩre badi, ũrĩa aarĩ igũrũ ya mãĩ ma mũrũ: Thutha wa rire rĩngĩ mĩthia wa ithua icio?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kũrĩ mũndũ"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "woĩre"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "badi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "igũrũ ya"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "mãĩ ma"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rire rĩngĩ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "mĩthia"
+    },
+    {
+      "surface": "הפלאות",
+      "gloss": "ithua icio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:03:38.892683894Z",
+  "model": "glm-5.3"
+}

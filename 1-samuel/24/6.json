@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩgũkorũo thutha wa ũcio, ngoro ya Dawidi nĩĩkũrire ⟨את⟩ yĩ, nĩ ũndũ wa kũnũra ⟨את⟩ kamba ĩrĩa ya Caori.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩgũkorũo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nĩĩkũrire"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi mũmwĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kũnũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamba"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ya Caori"
+    }
+  ],
+  "timestamp": "2026-10-01T23:23:23.680453891Z",
+  "model": "glm-5.3"
+}

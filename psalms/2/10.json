@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na rĩu, ee athamaki, moige mcirĩre; mothĩkĩre, ee acociara ⟨thĩ⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "moige mcirĩre"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "mothĩkĩre"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "acociara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:25.918593828Z",
+  "model": "glm-5.3"
+}

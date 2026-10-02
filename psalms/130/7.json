@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Yiceraeri, ithĩreere Yahwe; nĩ ũndũ hamwe na Yahwe kũrĩ hecedi, na hamwe nake kũrĩ kũgukunwo kũingĩ.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ithĩreere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "kũrĩ hecedi"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "na kũingĩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "kũgukunwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.413303082Z",
+  "model": "glm-5.3"
+}

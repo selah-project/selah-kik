@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ũhe ⟨את⟩ arĩa a Cevi kwa Aharoni na ciana ciake; nĩmahetwo, mahetwo kũrirĩ kwa ⟨את⟩ andũ a Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Na ũhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa a Cevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "arĩa a Cevi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kwa Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na ciana ciake"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "nĩmahetwo"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "mahetwo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrirĩ kwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:13.308844243Z",
+  "model": "glm-5.3"
+}

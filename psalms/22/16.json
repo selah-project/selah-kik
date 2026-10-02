@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Hinya wakwa nĩwũmĩte ta kĩongo gĩa ndũku; rũimi rwakwa rwarũmĩrĩirie minywa yakwa; na thĩ ya Ceori nĩwe ũrĩkĩte ũnĩtikĩra.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "nĩwũmĩte"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ta kĩongo gĩa ndũku"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "rũimi rwakwa"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "rwarũmĩrĩirie"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "minywa yakwa"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "na thĩ ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ũnĩtikĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:25.356553194Z",
+  "model": "glm-5.3"
+}

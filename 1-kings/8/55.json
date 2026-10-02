@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na akĩyagĩra, akĩrathimithia ⟨את⟩ mũthingi wothe wa Yiceraeri, na mũgambo mũnene, ndĩauga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "akĩyagĩra"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akĩrathimithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingi wothe wa Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mũthingi wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndĩauga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:59.625508939Z",
+  "model": "glm-5.3"
+}

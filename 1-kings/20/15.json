@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Akĩkaaria ciana cia athamaki a matũũra, nĩcikorote igana ĩgĩrĩ na mirongo ĩrĩ na ĩgĩrĩ; na thutha wacio akaaria ⟨את⟩ andũ aothe, aana aothe a Yiceraeri, ngiri mũgwanja.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Akĩkaaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia athamaki a matũũra"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "cana cia"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "matũũra"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nĩcikorote"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "igana ĩgĩrĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mirongo ĩrĩ na ĩgĩrĩ"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "na thutha wacio"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akaaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ aothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngiri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:03:38.413362347Z",
+  "model": "glm-5.3"
+}

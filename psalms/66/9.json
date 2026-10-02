@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Ũrĩa wootĩte mũoyo witũ thĩinĩ wa bũrũri wa maũndũ ma mũoyo, na wandũkĩte magũrũ maitũ kũgũingĩra.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "wotĩte"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mũoyo witũ"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "thĩinĩ wa maũndũ ma mũoyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wandũkĩte"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wandũkĩte"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kũgũingĩra"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "magũrũ maitũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:25.077396738Z",
+  "model": "glm-5.3"
+}

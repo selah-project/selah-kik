@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Gĩthambarĩ na thĩ ĩkengeru nĩgĩkũinĩra mũno, na mĩrĩwa ĩgakũinĩra, ĩrahana ta ⟨את⟩ mbũa.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "nĩgĩkũinĩra"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gĩthambarĩ"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "na thĩ ĩkengeru"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ĩgakũinĩra"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "mĩrĩwa"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ĩrahana"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "ta mbũa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:38:20.246262810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Yardeni nĩyo mĩhaka yakĩo mwena wa theri. Ĩyĩ nĩyo gai kwa aana a Binjami, mĩhaka yakĩo mwena wothe, kwa mĩhĩrĩga yacio.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "nĩyo mĩhaka yakĩo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mwena wa theri"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "mwena wa"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "theri"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ĩyĩ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "gai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjami"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "mĩhaka yakĩo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mwena wothe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kwa mĩhĩrĩga yacio"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:18.665675832Z",
+  "model": "glm-5.3"
+}

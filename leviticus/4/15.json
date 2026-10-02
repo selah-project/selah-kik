@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na athakame a kĩama makĩgonya ⟨את⟩ moko mao igũrũ rwa mutwi wa mũirũ ũcio mbere ya Yahwe, na mũirũ ũcio nthĩnjwo mbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "makĩgonya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "athakame"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a kĩama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko mao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "rwa mutwi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wa mũirũ ũcio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "nthĩnjwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũirũ ũcio"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mũirũ ũcio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:20.410819122Z",
+  "model": "glm-5.3"
+}

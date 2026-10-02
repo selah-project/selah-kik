@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na arĩa ekũũra na kĩndũ kĩa cuchi, nake akĩkua — ũcio nĩ mũkuu; mũkuu ũcio nĩakuwo gũkuwo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na arĩa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "na kĩndũ kĩa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "cuchi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ekũũra"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nake akĩkua"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mũkuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nĩakuwo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "gũkuwo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mũkuu ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T22:14:29.651227112Z",
+  "model": "glm-5.3"
+}

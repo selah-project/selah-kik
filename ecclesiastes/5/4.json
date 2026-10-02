@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩ kĩega kũgĩa ũthĩhĩhĩra kĩndũ kĩa Erohimu, kũrĩa kũhĩhĩra na gũtikũũra.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kĩega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kũgĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ũthĩhĩhĩra"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "kĩndũ kĩa Erohimu"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kũrĩa kũhĩhĩra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na gũtikũ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "kũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:05.452878354Z",
+  "model": "glm-5.3"
+}

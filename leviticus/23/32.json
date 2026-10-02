@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩ Cabati ya kũhora gwanyu, na mũcihonye ⟨את⟩ mĩri yacu; mweri ũrĩa wa kenda, kĩtheri-inĩ, kuma kĩtheri gĩkĩra kĩtheri mũcirũkĩre Cabati yanyu.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya kũhora"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gwanyu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "na mũcihonye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩri yacu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mĩri yacu"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ũrĩa wa kenda"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kĩtheri-inĩ"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "kuma kĩtheri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩra"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kĩtheri"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "mũcirũkĩre"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Cabati yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:22.015765488Z",
+  "model": "glm-5.3"
+}

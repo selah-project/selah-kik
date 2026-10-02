@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩngĩ, rĩrĩ, mĩthenya ĩyo na hĩndĩ ĩyo, rĩrĩa ndĩcookerithia ⟨את⟩ abata a Yahuda na Yerucarayimu,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩngĩ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mĩthenya-inĩ"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "na hĩndĩ-inĩ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ndĩcookerithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abata"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "abata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yahuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:25:14.056659084Z",
+  "model": "glm-5.3"
+}

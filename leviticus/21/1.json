@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Yahwe akĩuga kũrĩ Moce: Ũgorote kũrĩ athikani, ari a Aharoni, na ũme ũmũme ũma: Nĩũndũ wa mũndũ wakuithia nĩtake thaka atũkwo mũithĩrũ harĩ andũ ake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ũgorote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "athikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ũme ũmũme"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ũma"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nĩũndũ wa mũndũ wakuithia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩtake"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "atũkwo mũithĩrũ"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "harĩ andũ ake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:59.520834125Z",
+  "model": "glm-5.3"
+}

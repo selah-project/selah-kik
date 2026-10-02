@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Rĩũri ihaŋgara, ũhĩte ⟨את⟩ Amaleki, mũtine ⟨את⟩ o kĩndũ kĩa kĩa wona wake, ũrendĩ kĩhota hĩndĩ ĩcio; ũhaane kuuma mũndũ nginya mũka, kuuma mwana mũcece nginya mũcii wa mabuku, kuuma ng'ombe nginya ng'ondu, kuuma ngamĩra nginya ndiga.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "rĩũri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ihaŋgara"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "ũhĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleki"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "mũtine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o kĩndũ kĩa kĩa wona wake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wona wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ũrendĩ"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "kĩhota"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yewa"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "ũhaane"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuuma mũndũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "mwana mũcece"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "mũcii wa mabuku"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "ngamĩra"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ndiga"
+    }
+  ],
+  "timestamp": "2026-10-01T23:18:19.736081904Z",
+  "model": "glm-5.3"
+}

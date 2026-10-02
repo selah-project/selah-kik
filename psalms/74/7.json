@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Nĩmatumire mwaki thĩinĩ wa mũthero waku; thĩ yothe nĩmahĩĩrĩirie Micikani ya Rĩĩtwa rĩaku.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "nĩmatumire"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mwaki"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "thĩinĩ wa mũthero waku"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "nĩmahĩĩrĩirie"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ya Rĩĩtwa rĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:55.246457738Z",
+  "model": "glm-5.3"
+}

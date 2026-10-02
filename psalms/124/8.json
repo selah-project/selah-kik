@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 124,
+  "translation": "Ũteithio witũ nĩ Rĩĩtwa-inĩ rĩa Yahwe, ũrĩa wothomokire igũrũ na thĩ.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Ũteithio witũ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Rĩĩtwa-inĩ rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũrĩa wothomokire"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:16.884157106Z",
+  "model": "glm-5.3"
+}

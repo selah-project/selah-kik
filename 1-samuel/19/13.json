@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Mikaru ainĩkire ⟨את⟩ therapimu, na aikĩrirehandũ harĩa gĩcandĩ kĩa gwara, na ⟨את⟩ gĩciko kĩa nda cia mbũri aikĩirie thũtha-inĩ wa mutwe wake, na aikambĩirie na nguo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ainĩkire"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "therapimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "therapimu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "na aikĩrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "handũ harĩa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gĩcandĩ kĩa gwara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩciko kĩa nda cia mbũri"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "gĩciko"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "cia nda cia mbũri"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "aikĩirie"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "thũtha-inĩ wa mutwe wake"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "na aikambĩirie"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "na nguo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:19.103481297Z",
+  "model": "glm-5.3"
+}

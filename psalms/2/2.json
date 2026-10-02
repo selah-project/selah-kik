@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Aathamaki a thĩ maĩnyĩtie mĩtĩrĩre, na andũ anene mahotanĩtie ciira hamwe, harĩa Yahwe arĩ na Maciaki wake.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "maĩnyĩtie mĩtĩrĩre"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "aathamaki a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "na andũ anene"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "mahotanĩtie ciira"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na harĩa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Maciaki wake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:38.891799288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩgũkoruo Aharoni na aana make maorota kuuma kũo ⟨את⟩ mikono yao na ⟨את⟩ magũrũ mao.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "maorota"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana make"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma kũo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magũrũ mao"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "magũrũ mao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:30.426239146Z",
+  "model": "glm-5.3"
+}

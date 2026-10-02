@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mwathi wa Yiceraeri akiuga: Hota ⟨את⟩ Mikaiahu, mũcookĩre kwa Amoni mũrũita wa ⟨thĩnĩ⟩ gĩkũndĩ, na kwa Yoaci mũrũwa mwathi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Hota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikaiahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaiahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "mũcookĩre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũrũita"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa gĩkũndĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoaci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:05:21.192796776Z",
+  "model": "glm-5.3"
+}

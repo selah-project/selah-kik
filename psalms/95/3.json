@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 95,
+  "translation": "Nĩgũkorua Ere mũnene nĩ Yahwe, na mũthamaki mũnene igũrũ rĩa ngai ciothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mũthamaki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:54.797363995Z",
+  "model": "glm-5.3"
+}

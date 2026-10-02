@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Kũ mũrũngĩri wa kĩama, kũ aana a Korahi, kĩandĩko gĩa gũcirithia.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũ mũrũngĩri wa kĩama"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kũ aana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kĩandĩko gĩa gũcirithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:39.987820605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na mwathi Ceromoni aarĩ mwathi wa Yiceraeri yothe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:48:31.878545185Z",
+  "model": "glm-5.3"
+}

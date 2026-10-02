@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Arĩa nĩ nakwa enda na arĩa nĩronwo nakwa magĩkĩra thutha wa wũreru wakwa; na andũ a nyũmba yakwa magĩkĩra kũrĩ haũ mũno.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "arĩa nĩ nakwa enda"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "na arĩa nĩronwo nakwa"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "thutha wa wũreru wakwa"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "wũreru wakwa"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "magĩkĩra"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "na andũ a nyũmba yakwa"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kũrĩ haũ mũno"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "magĩkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:03.046870383Z",
+  "model": "glm-5.3"
+}

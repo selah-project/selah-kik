@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Kwa Yahwe nĩkuo kũhũrwo gwaku kwiĩra; harĩ andũ aku rifũhi rĩaku rĩkahota. Celah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Kwa Yahwe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "kũhũrwo gwaku kwiĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ aku"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "rifũhi rĩaku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Celah"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:22.779674076Z",
+  "model": "glm-5.3"
+}

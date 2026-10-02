@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Akĩhĩtũkithia marũngũrũ ma maaĩ kuuma mwĩhwa, akĩmũthũkithia maaĩ ta mĩrĩĩra ya maaĩ.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "akĩhĩtũkithia"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "marũngũrũ ma maaĩ"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "kuuma mwĩhwa"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "akĩmũthũkithia"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ta mĩrĩĩra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:51.553906468Z",
+  "model": "glm-5.3"
+}

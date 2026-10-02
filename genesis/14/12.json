@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Magĩĩte ⟨את⟩ Roti na ⟨את⟩ ithemba wĩake, mũrũ wa mũrũ wa Abarahamu, na magĩthiĩ; na ⟨we⟩ aarĩ akarĩ Cedemu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "magĩĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Roti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Roti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ithemba wĩake"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ithemba wĩake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wa mũrũ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "wa Abarahamu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na magĩthiĩ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ⟨we⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "aarĩ akarĩ"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Cedemu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:41.507695340Z",
+  "model": "glm-5.3"
+}

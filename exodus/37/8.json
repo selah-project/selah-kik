@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Kĩrubi kĩmwe kuuma mũthia ũyũ, na kĩrubi kĩmwe kuuma mũthia ũyũ ũngĩ; kuuma caporeti akĩtha ⟨את⟩ ĩrubi, harĩ mĩthia ĩrĩ yayo.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kĩrubi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuuma mũthia"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "na kĩrubi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuuma mũthia"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ũyũ ũngĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "caporeti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akĩtha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ĩrubi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ĩrubi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "harĩ mĩthia"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ĩrĩ yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:32.939768920Z",
+  "model": "glm-5.3"
+}

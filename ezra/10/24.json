@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ya aciani: Eriyacibu. Na ya arĩa maithomaga mb Coco: Carumu, na Teremu, na Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "aciani"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eriyacibu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "arĩa maithomaga mb Coco"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Carumu"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "na Teremu"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "na Uri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:07:23.228129355Z",
+  "model": "glm-5.3"
+}

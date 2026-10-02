@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Kwa mũthamaki. Nĩgũtherethio. Cianũmbere ya Dawidi, Micakamu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũthamaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nĩgũ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "therethio"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cianũmbere ya Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Micakamu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:52.559882491Z",
+  "model": "glm-5.3"
+}

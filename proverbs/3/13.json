@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mwĩhoko mũndũ ũrĩa acokire ⟨את⟩ ũgĩ, na mũndũ ũrĩa ũhootete ⟨את⟩ ũmenyo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mwĩhoko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "acokire"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ũhootete"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ũmenyo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:45:57.620381991Z",
+  "model": "glm-5.3"
+}

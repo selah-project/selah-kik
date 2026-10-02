@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na ũkahinga ⟨את⟩ mĩkwa ĩrĩ ya thahĩ harĩ mĩthingi ĩrĩ, mĩena-inĩ ya hosĩ.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ũkahinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩkwa ĩrĩ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "mĩkwa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya thahĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mĩthingi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mĩena-inĩ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ya hosĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:43.716203071Z",
+  "model": "glm-5.3"
+}

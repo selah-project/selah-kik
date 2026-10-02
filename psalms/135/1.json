@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Inneri Yah, inneri ⟨את⟩ rĩĩtwa rĩa Yahwe, inneri, arĩa athũkũmagĩra Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "inneri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "inneri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "inneri"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "arĩa athũkũmagĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:48.931654360Z",
+  "model": "glm-5.3"
+}

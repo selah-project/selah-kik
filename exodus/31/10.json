@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na ⟨את⟩ nguo cia ũteithio, na ⟨את⟩ nguo cia ũtheru cia Aharoni mũinĩki, na ⟨את⟩ nguo cia aana ake athiini a kũinĩkia —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nguo cia ũteithio"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo cia"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ũteithio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nguo cia ũtheru"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo cia"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cia Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũinĩki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nguo cia aana ake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo cia"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "atha kũinĩkia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:51.704647282Z",
+  "model": "glm-5.3"
+}

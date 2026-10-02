@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 78:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩokire kunyũrũria nyama igũrũ ha arĩa ta mũnungo, na ta mũcanga wa mĩyũũrũ, nyoni cia mahũa.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "nĩokire kunyũrũria"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ ha arĩa"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ta mũnungo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "na ta mũcanga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wa mĩyũũrũ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "nyoni"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "cia mahũa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:20.404439813Z",
+  "model": "glm-5.3"
+}

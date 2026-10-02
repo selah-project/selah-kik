@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na me macocete mũcigoro-inĩ wakwa-wa-thiini, na mahotie gũteithia ⟨את⟩ andũ akwa mahinda makwa, mahotie kũmacrookia kuuma mũcigoro wao mũtheru, na kuuma mũtheru wa mahinya mao.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na me angĩkorwo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "macocete"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "mũcigoro-inĩ wakwa-wa-thiini"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "na mahotie gũteithia… o"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mahinda makwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "kũmacrookia"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "kuuma mũcigoro wao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "na kuuma mũtheru wa"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "mahinya mao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:16:27.299513441Z",
+  "model": "glm-5.3"
+}

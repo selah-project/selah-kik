@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Mĩrongo ĩtandatũ nĩ ngari, na mĩrongo inyanya akenania, na cairĩtũ — gũtirĩ na mũrongo wacio.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "Mĩrongo ĩtandatũ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nĩmacio"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na mĩrongo inyanya"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "akenania"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "na cairĩtũ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mũrongo wacio"
+    }
+  ],
+  "timestamp": "2026-10-02T04:28:27.974214021Z",
+  "model": "glm-5.3"
+}

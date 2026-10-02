@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Nĩakahotha mbaara kinya mũthingo wa ⟨thĩ⟩; ũta nĩacanjithie, njora nĩacethetie, ngari nĩakarĩithie mwaki-inĩ.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "nĩakahotha"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "mbaara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mũthingo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨thĩ⟩"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ũta"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "nĩacanjithie"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "nĩacethetie"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "njora"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "nĩakarĩithie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mwaki-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:38.188260602Z",
+  "model": "glm-5.3"
+}

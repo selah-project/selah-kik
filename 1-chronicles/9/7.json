@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na kuuma aana a Binyaminu: Caru mwana wa Meshuramu, mwana wa Hodavaya, mwana wa Hacenua.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminu"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Caru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshuramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hacenua"
+    }
+  ],
+  "timestamp": "2026-10-02T05:26:06.036557715Z",
+  "model": "glm-5.3"
+}

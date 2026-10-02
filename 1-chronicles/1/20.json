@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Yokutani nĩaitire ⟨את⟩ Arimodadi, na ⟨את⟩ Cereri, na ⟨את⟩ Haceramaveti, na ⟨את⟩ Yerahi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Na Yokutani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩaitire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arimodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Arimodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cereri"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Cereri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haceramaveti"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Haceramaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yerahi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerahi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:44.802733046Z",
+  "model": "glm-5.3"
+}

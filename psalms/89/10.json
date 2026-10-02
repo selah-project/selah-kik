@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Nĩwe ũthiagĩrĩra ⟨the⟩ kĩng'eetheo kĩa ⟨the⟩ iria; rĩrĩa magũrũ make marahũkaga, nĩwe ũmaciĩthĩragia.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ũthiagĩrĩra"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kĩng'eetheo kĩa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "rĩrĩa marahũkaga"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ũmaciĩthĩragia"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:03.951216115Z",
+  "model": "glm-5.3"
+}

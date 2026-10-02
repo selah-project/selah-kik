@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na nĩgeicire kũingĩ mthenya mũgwanja angĩ, na nĩongĩre kũtuma ⟨את⟩ ciũmi kuuma Teba-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "na nĩgeicire"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kũingĩ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mthenya"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "angĩ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "na nĩongĩre"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kũtuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciũmi"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ciũmi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "Teba-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:53.765326830Z",
+  "model": "glm-5.3"
+}

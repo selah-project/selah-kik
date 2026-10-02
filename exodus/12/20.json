@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Iria njohere ndĩmũriẽ; mahĩa-inĩ manu mothe nĩmũria maciatũ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "iria njohere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũriẽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "mahĩa-inĩ manu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũria"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maciatũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:00.886178833Z",
+  "model": "glm-5.3"
+}

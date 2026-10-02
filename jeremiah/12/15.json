@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na thutha wa kũkaragura ⟨את⟩ ao, ndacooka ndakaninũrĩria, ndakacookeria mũndũ o na mũende kĩrĩkanĩro-inĩ kaye, na mũndũ o na mũthĩĩ bũrayũ wayo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ithũkĩra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "kũkaragura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ao",
+      "marks": "ao (arĩa makena)"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ndacooka"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "ndakaninũrĩria"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ndakacookeria"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mũende"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kĩrĩkanĩro-inĩ kaye"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ o mũthĩĩ"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "bũrayũ wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T01:10:04.320564650Z",
+  "model": "glm-5.3"
+}

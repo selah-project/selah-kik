@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Ihĩthagĩrie mũndũ mũũru hau igũrũ wake, na mũrungamambo aanamie hau ya wĩra wake.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "ihĩthagĩrie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hau igũrũ wake"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũndũ mũũru"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "na mũrungamambo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "aanamie"
+    },
+    {
+      "surface": "על",
+      "gloss": "hau"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ya wĩra wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:33.924620219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 7:12",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Rĩrĩa mĩthenya yaku ĩgĩkũranĩra, na ũgĩikaraga rĩngĩ na ⟨את⟩ acĩa aku, nĩngũũria ⟨את⟩ ciana ciaku thutha waku, arĩa ũgĩcoka kuuma nda yaku, na nĩngĩmatũũrĩrĩa ⟨את⟩ ũthamaki wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ĩgĩkũranĩra"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mĩthenya yaku"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ũgĩikaraga rĩngĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "acĩa aku"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "nĩngũũria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciaku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ciana ciaku"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "thutha waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ũgĩcoka"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "kuuma nda yaku"
+    },
+    {
+      "surface": "והכינתי",
+      "gloss": "nĩngĩmatũũrĩrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthamaki wake"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ũthamaki wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:21.054469686Z",
+  "model": "glm-5.3"
+}

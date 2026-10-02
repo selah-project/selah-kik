@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ũrĩa gwatũkĩte atĩ arĩ nayo ⟨את⟩ mahiga, nĩmaheire icũrĩro-inĩ rĩa nyũmba ya Yahwe, bũ-inĩ wa moko wa Yehiayeri Mũgericuni.",
+  "tokens": [
+    {
+      "surface": "ויתנו והנמצא",
+      "gloss": "na ũrĩa gwatũkĩte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mahiga"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nĩmaheire"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "icũrĩro-inĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rĩa nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "bũ-inĩ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "wa moko"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yehiayeri"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Mũgericuni"
+    }
+  ],
+  "timestamp": "2026-10-02T05:38:39.178484520Z",
+  "model": "glm-5.3"
+}

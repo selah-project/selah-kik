@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mũrũ wakwa, arĩa mamĩhĩtũku makwĩhootoha rĩrĩa, ndũkaende nakĩo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mũrũ wakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "makwĩhootoha"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "arĩa mamĩhĩtũku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩka"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ndũkaende nakĩo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:19.506674952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩũngĩkũranangwo ⟨hamwe nao⟩ kĩrĩra-inĩ, nĩgũkorwo nĩwonjorie bũrũri waku, nĩwathĩnjĩkĩire andũ ako; ũcuare wa arĩa mekĩga maũndũ ma ũru tiwetagwo maita ma tene.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nĩũngĩ"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "kũranangwo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mamenete"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "kĩrĩra-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "bũrũri waku"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "nĩwonjorie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ ako"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "nĩwathĩnjĩkĩire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wetagwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "maita ma tene"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ũcuare"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wa arĩa mekĩga maũndũ ma ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:06.972320434Z",
+  "model": "glm-5.3"
+}

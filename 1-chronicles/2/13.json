@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yicai akageta ⟨את⟩ mũceti wake ⟨את⟩ Eriabu, na Abinadabu ⟨nĩ⟩ keerĩ, na Cimea ⟨nĩ⟩ gatatũ.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Na Yicai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akageta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũceti wake"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mũceti wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eriabu"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eriabu"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "na Abinadabu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "keerĩ"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "na Cimea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "gatatũ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:46.606983061Z",
+  "model": "glm-5.3"
+}

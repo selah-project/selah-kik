@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na rĩrĩa ĩrirĩtwo o ithenya rĩatũ, nĩ kĩndũ kĩoneku makĩria; ndĩkaigĩrũo kuoya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "rĩrĩa ĩrirĩtwo o"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ĩrirĩtwo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ithenya"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "rĩatũ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "kĩndũ kĩoneku makĩria"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kaigĩrũo kuoya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:21.158483063Z",
+  "model": "glm-5.3"
+}

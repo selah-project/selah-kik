@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na nĩndĩatumĩre mũthumwo mbere yaku, na nĩndĩniĩte ⟨את⟩ Mũcanani, Mũamori, Mũhiti, na Mũperizi, Mũhivi na Mũyebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "nĩndĩatumĩre"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mũthumwo"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "nĩndĩniĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mũcanani, Mũamori, Mũhiti, Mũperizi, Mũhivi na Mũyebusi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mũcanani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Mũamori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Mũhiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Mũperizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mũhivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Mũyebusi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:49.420408340Z",
+  "model": "glm-5.3"
+}

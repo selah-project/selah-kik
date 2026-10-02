@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Aratũmagĩrĩra andũ thĩ ya ithuĩ, na mĩndĩ ya andũ thĩinĩ wa magũrũ maitũ.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Aratũmagĩrĩra"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "thĩ ya ithuĩ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na mĩndĩ ya andũ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "magũrũ maitũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:20.643032494Z",
+  "model": "glm-5.3"
+}

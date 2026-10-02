@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Thĩinĩ mĩtheru ya mĩtheru ndũkĩrĩra ⟨את⟩; mũndũ wothe wathuri nĩakĩrĩra ⟨את⟩; mĩtheru nĩgũkoruo iwanda.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "thĩinĩ mĩtheru"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ya mĩtheru"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ndũkĩrĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wathuri"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nĩakĩrĩra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ kĩu (mĩtheru ya mĩtheru)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mĩtheru"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwanda"
+    }
+  ],
+  "timestamp": "2026-10-01T22:02:06.507945588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Yahwe ahingagĩra awothe arĩa magũa, na anyamũragĩra awothe arĩa me mahũkĩte.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "ahingagĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "awothe arĩa"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "magũa"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "na anyamũragĩra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "awothe arĩa"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "me mahũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:28.566305438Z",
+  "model": "glm-5.3"
+}

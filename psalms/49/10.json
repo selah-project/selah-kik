@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Na makĩikara hĩndĩ ciothe, ndamonerera gĩthima.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "makĩikara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nacũ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "monerera"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "gĩthima"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:59.675691619Z",
+  "model": "glm-5.3"
+}

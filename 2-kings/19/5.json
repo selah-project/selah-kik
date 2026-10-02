@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Acoci a mwathi Hizikiayu magĩthĩ kũrĩ Yicayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "magĩthĩ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "acoci a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiayu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yicayahu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:18:47.490267693Z",
+  "model": "glm-5.3"
+}

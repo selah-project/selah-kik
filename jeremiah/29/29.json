@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na Cefania mũthanjiri akĩomerera ⟨את⟩ ibuku rĩu matuinĩ ga Yeremiyahu mũrathi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩomerera"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Cefania"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibuku rĩu"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "matuinĩ ga"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    }
+  ],
+  "timestamp": "2026-10-02T01:22:08.362087158Z",
+  "model": "glm-5.3"
+}

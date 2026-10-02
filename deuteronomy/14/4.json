@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Ĩno nĩcinyamũ cia mĩri ĩrĩa mũkahĩra: ng'ombe, rũrigi rwa ng'ondu, na rũrigi rwa mbũri.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ĩno"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "cinyamũ cia mĩri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũkahĩra"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שה",
+      "gloss": "rũrigi"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "rwa ng'ondu"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "na rũrigi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "rwa mbũri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:24:02.215864884Z",
+  "model": "glm-5.3"
+}

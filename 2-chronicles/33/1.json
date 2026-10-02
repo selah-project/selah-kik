@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 33:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mwana wa mirongo ĩrĩ na ũmwe wa mĩaka, Menache, akĩthamakinia; na mĩaka mĩrongo ĩtano na ithano aathamakĩirie Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mirongo ĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wa mĩaka"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "akĩthamakinia"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mĩrongo ĩtano"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "aathamakĩirie"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:01:39.309880822Z",
+  "model": "glm-5.3"
+}

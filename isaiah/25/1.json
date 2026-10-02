@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Yahwe, Erohimu wakwa, nĩwewe; nĩngũkũrugĩrĩra, nĩngũgooca rĩtwa rĩaku; nĩwĩte ⟨ũndũ⟩ wa kũgĩa — magegania ma tene, na kwĩhoka, Ee Mwĩhoki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwewe"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "nĩngũkũrugĩrĩra"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "nĩngũgooca"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩtwa rĩaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wĩte"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ũndũ wa kũgĩa"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "magegania"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ma tene"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kwĩhoka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Mwĩhoki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:29.098817545Z",
+  "model": "glm-5.3"
+}

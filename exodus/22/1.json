@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ngamba mũgeni agĩtuĩkwo arĩ kũtambũra kĩhingo, na ahũtwo akĩua, gũtirĩ kĩhooto kĩa thakame yake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngamba"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "arĩ kũtambũra kĩhingo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "agĩtuĩkwo"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "mũgeni"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ahũtwo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "akĩua"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "thakame"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:23.642780655Z",
+  "model": "glm-5.3"
+}

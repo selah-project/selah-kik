@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Tora ya Erohimu wake ĩrĩ mooyo wake; maguru make ndomakũnyihĩrĩra.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora ya"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ĩrĩ mooyo wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "makũnyihĩrĩra"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "maguru make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:45.755031695Z",
+  "model": "glm-5.3"
+}

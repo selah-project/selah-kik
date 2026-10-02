@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Na akanatũhotorea kuma moko ma ithũenĩ witũ: nĩgũkorwo hecedi wake kũrĩ o mbere.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "akanatũhotorea"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "kuma moko ma ithũenĩ witũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kũrĩ o mbere"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:04.420295370Z",
+  "model": "glm-5.3"
+}

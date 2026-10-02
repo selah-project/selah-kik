@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Cedeki wakwa nĩ ĩhoteere, ihooto wakwa nĩ igĩte thutha, na mikono yakwa nĩ yo ciira andũ a mĩena; iria-inĩ andũ nĩ me gemereria kwanyendera, na thiiri ha mũkono wakwa nĩ me tarĩkĩra.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nĩ ĩhoteere"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "cedeki wakwa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩ igĩte thutha"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ihooto wakwa"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "na mikono yakwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ a mĩena"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "nĩ ciira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwanyendera"
+    },
+    {
+      "surface": "איים",
+      "gloss": "andũ a iria"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "nĩ me gemereria"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mũkono wakwa"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "nĩ me tarĩkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:24.999836550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Kwa Dawidi, kĩa kũinĩra. Hecedi na ciira nĩngĩinĩra; kwawe, Yahwe, nĩngĩcũmbĩrĩra.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kwa Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩa kũinĩra"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hecedi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ciira"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nĩngĩinĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nĩngĩcũmbĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:49.080162085Z",
+  "model": "glm-5.3"
+}

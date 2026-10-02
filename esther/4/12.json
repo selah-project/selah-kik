@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩmakecirie Morodekai ⟨את⟩ ciugo cia Eceteri.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "makecirie"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Morodekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia Eceteri"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eceteri"
+    }
+  ],
+  "timestamp": "2026-10-02T04:44:39.535890787Z",
+  "model": "glm-5.3"
+}

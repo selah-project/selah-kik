@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "Tiga nĩndamũkũrĩre kũndũ kũa Yahwe, Micikani kũa Mwene-Hinya wa Yaakobu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tiga"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nĩndamũkũrĩre"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũa Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "kũa Mwene-Hinya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:41.284777873Z",
+  "model": "glm-5.3"
+}

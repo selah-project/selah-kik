@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Nĩgũkorwo anĩhĩga ⟨את⟩ inywe sukahu-inĩ ya hĩndĩ ya kĩndũ kĩuru; anĩhĩga thĩinĩ wa mũhĩga gĩa hema yake; thĩinĩ wa rũũru nĩanenyũkĩrĩra igũrũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "anĩhĩga"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sukahu-inĩ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "hĩndĩ ya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kĩndũ kĩuru"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "anĩhĩga"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mũhĩga-inĩ"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wa hema yake"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "thĩinĩ wa rũũru"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "nĩanenyũkĩrĩra igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:29.725580586Z",
+  "model": "glm-5.3"
+}

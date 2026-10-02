@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ mbavu na ⟨את⟩ thogo ya kwenda ya ũmenyo Aharoni nĩaratũũrire tũũro-inĩ mbere ya Yahwe, ta agĩrĩirie Moce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbavu"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "mbavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thogo ya kwenda ya ũmenyo"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "thogo"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ya kwenda ya ũmenyo"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "nĩaratũũrire"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tũũro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "agĩrĩirie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:11.479152297Z",
+  "model": "glm-5.3"
+}

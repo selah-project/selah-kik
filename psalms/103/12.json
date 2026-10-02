@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Ta kũrĩ wa mwena wa riũa kuuma mwena wa ũthĩ, nĩatũringithithie kũrĩ ⟨את⟩ mĩhuruto yaitũ kuuma ithũĩrĩ.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "ta kũrĩ wa"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "mwena wa riũa"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "kuuma mwena wa ũthĩ"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "nĩatũringithithie kũrĩ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma ithũĩrĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩhuruto yaitũ"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mĩhuruto yaitũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:19.131337512Z",
+  "model": "glm-5.3"
+}

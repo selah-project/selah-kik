@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Nĩgũkoruo nĩatũũnyanĩririe matĩĩrĩ ma kepera, na mĩtĩĩrĩ ya itũũru aigwanĩtie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nĩatũũnyanĩririe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "matĩĩrĩ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ma kepera"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "na mĩtĩĩrĩ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya itũũru"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "aigwanĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:10.454753954Z",
+  "model": "glm-5.3"
+}

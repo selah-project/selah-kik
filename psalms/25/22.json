@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Erohimu eemĩrie ⟨את⟩ Yiceraeri kuuma mĩhĩa yake yothe.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "eemĩrie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma yothe"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "mĩhĩa yake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:00.723562226Z",
+  "model": "glm-5.3"
+}

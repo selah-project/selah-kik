@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩ mũsetha kwa mũndũ gũciarania kiugo kĩa ũtheru, na thutha ya mĩhumbũ gũcookerwo gũciria.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "mũsetha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "gũciarania"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na thutha"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "mĩhumbũ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "gũcookerwo gũciria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:57:13.427496183Z",
+  "model": "glm-5.3"
+}

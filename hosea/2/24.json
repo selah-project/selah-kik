@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na thĩ ĩcooka ⟨את⟩ mbembe, na ⟨את⟩ mvindi njerũ, na ⟨את⟩ maguta; na icio cĩcooka ⟨את⟩ Yicereeri.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ĩcooka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbembe"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mvindi njerũ"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "mvindi njerũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maguta"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na icio"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "cĩcooka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicereeri"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yicereeri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:16:45.916821239Z",
+  "model": "glm-5.3"
+}

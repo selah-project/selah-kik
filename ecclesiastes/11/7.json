@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ũtheri nĩ mũrũmbũya, na nĩ kĩega metho-inĩ kũona ⟨את⟩ riũa.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "Na mũrũmbũya"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "na nĩ kĩega"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "metho-inĩ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riũa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:43:33.481523032Z",
+  "model": "glm-5.3"
+}

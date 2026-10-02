@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na makũũria ũhoro wa thayũ, makuhe mikake ĩrĩ, nao we ũkahota kuuma moko mao.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "makũũria ũhoro wa thayũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "makuhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikake"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ũkahota"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kuuma moko mao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:55.334618148Z",
+  "model": "glm-5.3"
+}

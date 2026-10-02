@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 134,
+  "translation": "Yahwe akũrathĩra kuuma Cioni, ũrĩa wothire ⟨את⟩ igũrũ na ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "akũrathĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuuma Cioni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũrĩa wothire"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:31.845457996Z",
+  "model": "glm-5.3"
+}

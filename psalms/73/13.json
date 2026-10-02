@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Kweli, nĩ thutha nĩnthekire ngoro yanjĩ, na ndĩkaraba makono majĩ ũtheru-inĩ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kweli"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "nĩnthekire"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ngoro yanjĩ"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "na ndĩkaraba"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ũtheru-inĩ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "makono majĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:55.842627125Z",
+  "model": "glm-5.3"
+}

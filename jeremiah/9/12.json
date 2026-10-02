@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yahwe oigĩte: Nĩ ũndũ wothe ũcio wa kũrega ⟨את⟩ Tora yakwa, irĩa ndĩrehe mbere ya macio, na hatarĩ gũigua mũgambo wakwa, na hatarĩ kũiyambĩra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "ũndũ wothe ũcio wa kũrega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora yakwa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndĩrehe"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbere ya macio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hatarĩ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "gũigua"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hatarĩ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "kũiyambĩra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kũiyambĩra-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:06:49.192861747Z",
+  "model": "glm-5.3"
+}

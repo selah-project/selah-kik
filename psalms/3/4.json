@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "No We, Yahwe, nĩwĩ mũcengo wanjĩ, ũthingu wanjĩ, na mũinũri wa mũtwe wanjĩ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "No We"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mũcengo"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "wanjĩ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ũthingu wanjĩ"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "mũinũri"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wa mũtwe wanjĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:26.031859197Z",
+  "model": "glm-5.3"
+}

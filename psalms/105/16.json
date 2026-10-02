@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Akĩgeta njaa thĩ-inĩ ⟨ĩyo⟩, nĩacenjirie mũtĩ wothe wa mũgati.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩgeta"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "njaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ĩyo⟩ thĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wa mũgati"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nĩacenjirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:08.067542553Z",
+  "model": "glm-5.3"
+}

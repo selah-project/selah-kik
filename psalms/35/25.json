@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Matiuge thĩinĩ wa ngoro yao, Aha, mũoyo witu; matiuge, Tũmurĩarie ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "matiuge"
+    },
+    {
+      "surface": "יֹאמְר֣וּ",
+      "gloss": "tiuge"
+    },
+    {
+      "surface": "בְ֭לִבָּם",
+      "gloss": "thĩinĩ wa ngoro yao"
+    },
+    {
+      "surface": "הֶאָ֣ח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נַפְשֵׁ֑נוּ",
+      "gloss": "mũoyo witu"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "matiuge"
+    },
+    {
+      "surface": "יֹ֝אמְר֗וּ",
+      "gloss": "tiuge"
+    },
+    {
+      "surface": "בִּלֲעָנֻֽהוּ",
+      "gloss": "tũmurĩarie ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:11.770421808Z",
+  "model": "glm-5.3"
+}

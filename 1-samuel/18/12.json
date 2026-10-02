@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Caori nĩgetĩkuua mbere ya Dawidi, nĩgũkorwa Yahwe aarĩ hamwe nake, na akuuma kwa Caori agĩtũra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nĩgetĩkuua"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "akuuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kwa Caori"
+    },
+    {
+      "surface": "סר",
+      "gloss": "agĩtũra"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:18.825296932Z",
+  "model": "glm-5.3"
+}

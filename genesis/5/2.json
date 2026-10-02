@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Mũthuri na mũka nĩamationjirie, akĩmĩbarũkia ⟨את⟩, akĩĩhoota ⟨את⟩ rĩĩtwa rwao Adamu, mũthenya ũrĩa maombirwo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mũthuri"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "na mũka"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "nĩamationjirie"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akĩmĩbarũkia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rwao"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "rĩĩtwa rwao"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ũrĩa maombirwo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:10.885857958Z",
+  "model": "glm-5.3"
+}

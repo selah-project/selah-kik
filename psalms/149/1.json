@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 149,
+  "translation": "Rangĩrai Yah; imbĩrai Yahwe ngweco ĩrĩa njerũ; rwambe rwake arĩ-inĩ wa kĩama kĩa arĩa ena hecedi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rangĩrai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imbĩrai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ngweco"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ĩrĩa njerũ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rwambe rwaake"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "arĩ-inĩ wa kĩama"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "kĩa arĩa ena hecedi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:34.742805812Z",
+  "model": "glm-5.3"
+}

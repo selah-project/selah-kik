@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 146,
+  "translation": "Yahwe nĩeaterera ⟨את⟩ arĩa mũikaragĩra ndũrĩrĩ-inĩ ĩngĩ; mũthoonjĩ na mũka-mũthoonjĩ nĩamĩrĩkĩra; na ũraia wa arĩa mahĩtia nĩacũranithia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nĩeaterera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mũikaragĩra ndũrĩrĩ-inĩ ĩngĩ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "arĩa mũikaragĩra ndũrĩrĩ-inĩ ĩngĩ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "mũthoonjĩ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na mũka-mũthoonjĩ"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "nĩamĩrĩkĩra"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na ũraia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa arĩa mahĩtia"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "nĩacũranithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:32.316421721Z",
+  "model": "glm-5.3"
+}

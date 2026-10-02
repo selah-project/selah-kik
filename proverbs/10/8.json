@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ngomo-inĩ wa mũhikania nĩamĩrĩra amirũ; na mwarĩrĩ wa matie nĩgathĩkaga.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "mũhikania"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngomo-inĩ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nĩamĩrĩra"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amirũ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "mwarĩrĩ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "wa matie"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "nĩgathĩkaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:49:32.153334740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Rĩrĩa aamũrire Aramu cia Mĩrũ ĩrirĩ, na ⟨את⟩ Aramu ya Cubahu, na Yoabu akoomire, akĩhũra ⟨את⟩ Edomu thĩinĩ wa mũcyĩ wa mũcũra, ngiri ikũmi na igĩrĩ.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "rĩrĩa aamũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu cia Mĩrũ ĩrirĩ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "cia Mĩrũ ĩrirĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aramu ya Cubahu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cubahu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na akoomire"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akĩhũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "thĩinĩ wa mũcyĩ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "wa mũcũra"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:45.816092378Z",
+  "model": "glm-5.3"
+}

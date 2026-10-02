@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Nĩgũkorwo nĩwe mwĩhoko wakwa, Adonai Yahwe, ũtigitĩrĩru wakwa kuuma mwendĩre wanjũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mwĩhoko wakwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ũtigitĩrĩru wakwa"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuuma mwendĩre wanjũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:11.943696894Z",
+  "model": "glm-5.3"
+}

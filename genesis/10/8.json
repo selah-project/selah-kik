@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Kuci nĩorire ⟨את⟩ Nimerodi; ũcio nĩwe atambĩrĩirie kuva mũnene wa hinya thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "na Kuci"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩorire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimerodi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimerodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio nĩwe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "atambĩrĩirie"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mũnene wa hinya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:44.775434131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Mũtaratara wao nĩũriĩire thĩ yothe, na ciugo ciao nĩciathiire mĩthia ya thĩ; harĩ macio nĩhoookire kĩhema kĩa riua.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩũriĩire"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mũtaratara"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "na mĩthia ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ciugo ciao"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "kĩa riua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nĩhoookire"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kĩhema"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "harĩ macio"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:24.112785821Z",
+  "model": "glm-5.3"
+}

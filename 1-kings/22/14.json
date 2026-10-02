@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na Micayahu akiuga: Yahwe akuumi, nĩgeetha ⟨את⟩ arĩa Yahwe agatuũga kwĩ, kĩo nĩngĩũga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akiuga"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Micayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "akuumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "agatuũga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩo kĩrĩa nĩngĩũga"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nĩngĩũga"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:20.389323072Z",
+  "model": "glm-5.3"
+}

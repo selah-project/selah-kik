@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Thikĩrira, Erohimu, mũgambo wakwa ihoko-inĩ rwakwa; kuma gũkũũthe kwa thũ, ⟨ũ⟩rũnge mũoyo wakwa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Thikĩrira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "ihoko-inĩ rwakwa"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kuma gũkũũthe"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "rũnge"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mũoyo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:40.185724575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na akĩmũnyiitĩrĩria ⟨את⟩ we ruaki wa Erohimu, mũthagũ, na ũmenyo, na gĩcunjĩ kĩa ũguni wothe.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "akĩmũnyiitĩrĩria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "mũthagũ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "na ũtee"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "gĩcunjĩ kĩa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ũguni wothe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:12.018164063Z",
+  "model": "glm-5.3"
+}

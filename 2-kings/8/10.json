@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Elisa akiuga kũrĩ we: Ũthiĩ, ũmũuge: Nĩũkuhoora atĩa; no Yahwe ananirie atĩ nĩakuaga atĩa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ũthiĩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ũmũuge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ũkuhoora"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ũkuhoora atĩa"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ananirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "akuaga"
+    },
+    {
+      "surface": "יומות",
+      "gloss": "atĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:13:19.203015108Z",
+  "model": "glm-5.3"
+}

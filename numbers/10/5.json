@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na mũrahũre teruwa, na ihooto iria ciigereere kerere nĩcĩigũthiĩ.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "mũrahũre"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teruwa"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "nĩcĩigũthiĩ"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ihooto"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "iria ciigereere"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kerere"
+    }
+  ],
+  "timestamp": "2026-10-01T21:56:16.909407823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩrĩo Yahwe Erohimuĩ kũmba mũndũ kwa mũcũri wa arũmi, akĩhuruta mũhũmũ wa mĩoyo mũnoothi mĩĩrĩ yaake, na mũndũ akĩtuĩka nĩgũtarũ rĩa mũoyo.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "akĩkũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mũcũri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "arũmi"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "akĩhuruta"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "mũnoothi mĩĩrĩ yaake"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "mũhũmũ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa mĩoyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akĩtuĩka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nĩgũtarũ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "rĩa mũoyo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:18.747984Z",
+  "model": "glm-5.3"
+}

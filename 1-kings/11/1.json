@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na mũthamaki Ceromo nĩendete atumia a kũrĩa aingĩ, hamwe na ⟨את⟩ mũritũ wa Para, a Mwabi, a Amoni, a Edomi, a Cidoni, na a Hiti.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Na mũthamaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "a kũrĩa"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "aingĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũritũ wa Para"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũritũ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "a Mwabi"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "a Amoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "a Edomi"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "a Cidoni"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "a Hiti"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:26.337636121Z",
+  "model": "glm-5.3"
+}

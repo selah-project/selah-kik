@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ciana cia Reubeni mũcere wa mbere wa Yiceraeri: Hanoki, na Paru, Heceroni, na Carmi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ciana cia"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mũcere wa mbere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoki"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "na Paru"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Heceroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "na Carmi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:41.122943710Z",
+  "model": "glm-5.3"
+}

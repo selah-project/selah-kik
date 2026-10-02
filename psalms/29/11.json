@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Yahwe nĩaheaga hinya andũ ake; Yahwe nĩarathimaga ⟨את⟩ andũ ake na thayũ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nĩaheaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nĩarathimaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na thayũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:50.703574293Z",
+  "model": "glm-5.3"
+}

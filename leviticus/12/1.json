@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Yahwe akĩraria na Moce, na aguaga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩraria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na aguaga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:35:28.074662273Z",
+  "model": "glm-5.3"
+}

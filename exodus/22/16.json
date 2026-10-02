@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Angĩkorũo ithee wake akanira akanira kũmũhe nĩwe, arĩhe mbeca ta mahari cia mĩoire.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Angĩkorũo"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "akanira"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "akanira"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ithee wake"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "kũmũhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbeca"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "arĩhe"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "ta mahari"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "cia mĩoire"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:56.119642948Z",
+  "model": "glm-5.3"
+}

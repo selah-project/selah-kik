@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Mĩcirĩre yaku ĩnanjĩtĩirie, na thutha ũnĩkũra na thogora.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Mĩcirĩre yaku"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ĩnanjĩtĩirie"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na thutha"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "na thogora"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "ũnĩkũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:54.192862107Z",
+  "model": "glm-5.3"
+}

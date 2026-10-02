@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Thayai rĩu ⟨את⟩ ĩrĩa Yahwe ekiugĩte: Ĩkũra, rũanĩra na ⟨את⟩ kilima, na magondu makũhũrĩrie mĩgambo waku.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "thayai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ĩrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ekiugĩte"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ĩkũra"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "rũanĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kilima"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "na makũhũrĩrie"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "magondu"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "mĩgambo waku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:37:00.011608388Z",
+  "model": "glm-5.3"
+}

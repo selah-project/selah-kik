@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Nĩndamenya mahũrũko makwa, na ihũtia rĩakwa rĩkũhota mbere yakwa hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mahũrũko makwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩkwa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndamenya"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "na ihũtia rĩakwa"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:23.771064165Z",
+  "model": "glm-5.3"
+}

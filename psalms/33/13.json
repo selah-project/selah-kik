@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Kuuma igũrũ Yahwe nĩaireire; akona ⟨את⟩ aana a mũndũ othe.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nĩaireire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "akona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana a mũndũ othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "a mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:42.237315735Z",
+  "model": "glm-5.3"
+}

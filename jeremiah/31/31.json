@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Rĩrĩ, mĩthenya nĩĩkũgĩa, Yahwe oigĩte, na nĩngĩrathima na ⟨את⟩ nyũmba ya Yiceraeri na ⟨את⟩ nyũmba ya Yehuda kĩrĩkanĩro kĩerũ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nĩĩkũgĩa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "na nĩngĩrathima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yiceraeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "kĩerũ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:22:17.840805563Z",
+  "model": "glm-5.3"
+}

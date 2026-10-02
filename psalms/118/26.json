@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Ũrĩa wothe ũkũrirwo nĩwe ũrĩa ũciara na rĩĩtwa rĩa Yahwe; nĩtũkũrirwo ithuĩ kuuma nyũmba-inĩ ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "wothe ũkũrirwo"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ũrĩa ũciara"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "nĩtũkũrirwo ithuĩ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma nyũmba-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:03.336491335Z",
+  "model": "glm-5.3"
+}

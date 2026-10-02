@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Ũrĩ mũbariki rĩa ũgĩcokerera, na ũrĩ mũbariki rĩa ũgĩthii.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "mũbariki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wĩ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "rĩa ũgĩcokerera"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "na mũbariki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wĩ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "rĩa ũgĩthii"
+    }
+  ],
+  "timestamp": "2026-10-01T22:33:39.239279016Z",
+  "model": "glm-5.3"
+}

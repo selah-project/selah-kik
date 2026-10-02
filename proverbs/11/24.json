@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Harĩ ũrĩa ũcerethaga, na onjokio na gĩonjekio; na ũrĩa ũiguithagia kĩndũ kĩa ũthingu, agĩkĩra kwa ũkenyu tu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "ũrĩa ũcerethaga"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "na onjokio"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na gĩonjekio"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "na ũrĩa ũiguithagia"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "kĩndũ kĩa ũthingu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "kwa ũkenyu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:50:51.343446573Z",
+  "model": "glm-5.3"
+}

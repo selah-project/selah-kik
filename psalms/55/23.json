@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Rũngĩra harĩ Yahwe kĩo gĩaku, na We nĩgũkũmeera; ndagatetemeka mũcedeki tene.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "rũngĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "kĩo gĩaku"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na We"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "nĩgũkũmeera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaga-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "tetemeka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "kũtetemeka"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mũcedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:26.055426941Z",
+  "model": "glm-5.3"
+}

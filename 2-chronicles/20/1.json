@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na thutha wa ũcio, aana a Moabu na aana a Amoni, na hamwe nao kuuma Amoni, nĩmagĩrĩrire Yahocafati kana kũrĩngana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na thutha wa ũcio"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩmagĩrĩrire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "na hamwe nao"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "kuuma Amoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yahocafati"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kana kũrĩngana"
+    }
+  ],
+  "timestamp": "2026-10-02T05:54:40.932584877Z",
+  "model": "glm-5.3"
+}

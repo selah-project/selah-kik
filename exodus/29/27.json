@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ũthetherie ⟨את⟩ kĩena kĩa kĩringanĩro na ⟨את⟩ kĩonje kĩa kĩhĩngĩro, kĩrĩa kĩringanĩtio na kĩrĩa kĩhĩngĩrio, kuuma rwĩmbe-inĩ rwa kũthingatia, kuuma kĩrĩa kĩa Aharoni na kuuma kĩrĩa kĩa ciana ciake.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ũthetherie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩena kĩa kĩringanĩro"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "kĩena"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "kĩa kĩringanĩro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩonje kĩa kĩhĩngĩro"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "kĩonje"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "kĩa kĩhĩngĩro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "kĩringanĩtio"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na kĩrĩa"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "kĩhĩngĩrio"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "kuuma rwĩmbe-inĩ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "rwa kũthingatia"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kuuma kĩrĩa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kĩa Aharoni"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "na kuuma kĩrĩa"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kĩa ciana ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:15:31.349998243Z",
+  "model": "glm-5.3"
+}

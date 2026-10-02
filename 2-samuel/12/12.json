@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩgũkorwo we nĩwakĩirie kũhĩtie, na o nĩngĩkĩra ⟨את⟩ kĩndũ gĩku mbere ya Yiceraeri yothe, na mbere ya riũa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nĩwakĩirie"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kũhĩtie"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na o"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nĩngĩkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ gĩku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩndũ gĩku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩku"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "na mbere ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:15.160063428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Ndarũa mbere yanyu ⟨את⟩ nthĩgĩni; ĩnamenithithia ⟨את⟩ mbere yanyu amathi erĩ a-Emori — ti na rũhiĩ rwanyu, na ti na ũta wanyu.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ndarũa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbere yanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nthĩgĩni"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nthĩgĩni"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "ĩnamenithithia"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ amathi",
+      "marks": "amathi erĩ a-Emori"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mbere yanyu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "erĩ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amathi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a-Emori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "na rũhiĩ rwanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "na ũta wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:48.335922164Z",
+  "model": "glm-5.3"
+}

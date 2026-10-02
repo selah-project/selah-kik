@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Rora ⟨את⟩ kĩngoothi kĩrĩa wagũrĩte, kĩrĩa kĩrĩ magũrũ-inĩ maku, ũcoke ũthiĩ Perathi, ũkathũkũre kuo mohoro-inĩ wa ibere.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "rora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩngoothi"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kĩngoothi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "wagũrĩte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "magũrũ-inĩ maku"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ũcoke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ũthiĩ"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "Perathi"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "ũkathũkũre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "mohoro-inĩ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "wa ibere"
+    }
+  ],
+  "timestamp": "2026-10-02T06:43:23.544303170Z",
+  "model": "glm-5.3"
+}

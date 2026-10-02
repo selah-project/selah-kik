@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Yahwe anena ⟨את⟩ Parao nĩgethia nene, na ⟨את⟩ nyũmba yake, nĩ ũndũ wa Carai, mũtumia wa Abiramu.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "anena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "nĩgethia"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Carai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũtumia wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abiramu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:42.551851646Z",
+  "model": "glm-5.3"
+}

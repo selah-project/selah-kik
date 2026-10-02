@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na ⟨את⟩ minora na mataramacro ma kũriaka ũrĩa watho weta, mbere ya Debiri — thahabu ya gũtherio.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minora"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "minora"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "matara macro"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ma kũriaka"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ũrĩa watho weta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debiri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ya gũtherio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:41:08.599671797Z",
+  "model": "glm-5.3"
+}

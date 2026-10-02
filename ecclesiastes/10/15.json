@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Gũtanya kwa akeni nĩkũmũhonokia; nĩgũkorwo ndamenya ũrĩa gũthiĩ kũrĩ mũciĩ mũnene.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "gũtanya"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "kwa akeni"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "nĩkũmũhonokia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akuamenya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ũrĩa gũthiĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũciĩ mũnene"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:50.607707439Z",
+  "model": "glm-5.3"
+}

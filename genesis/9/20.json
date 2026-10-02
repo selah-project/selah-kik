@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Nocaki, mũndũ wa gĩthĩka, nĩambĩrĩirie gũtima, na akĩrĩra ⟨את⟩ mĩrĩũ.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "nĩambĩrĩirie"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nocaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wa gĩthĩka"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "akĩrĩra"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "mĩrĩũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:08:27.407164464Z",
+  "model": "glm-5.3"
+}

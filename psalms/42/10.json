@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Nĩngĩuga kũrĩ Ere, kĩgima kwakwa: Nĩ kĩĩ gũtĩĩrĩkĩte ũkundu? Nĩ ũndũũ nĩthiĩ na mĩthĩĩkĩ ya kwenjera, thĩinĩ wa kũhenjekwa kwa thũ?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "nĩngĩuga"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kũrĩ Ere"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kĩgima kwakwa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩ kĩĩ"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "gũtĩĩrĩkĩte ũkundu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩ ũndũũ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nĩthiĩ na mĩthĩĩkĩ ya kwenjera"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nĩthiĩ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "thĩinĩ wa kũhenjekwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kwa thũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:32.219523681Z",
+  "model": "glm-5.3"
+}

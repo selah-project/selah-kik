@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Eseteri nĩetĩtwo kwa mũthamaki Ahaceroci, nyũmba yake ya ũthamaki, mweri wa ikũmi, ũrĩa wĩ mweri wa Tebeti, mwaka wa mũgwanja wa ũthamaki wake.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "nĩetĩtwo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eseteri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaceroci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "yake ya ũthamaki"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mweri wa"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũrĩa wĩ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mweri wa"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Tebeti"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "wa ũthamaki wake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:47:36.184522664Z",
+  "model": "glm-5.3"
+}

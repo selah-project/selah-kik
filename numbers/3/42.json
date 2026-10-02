@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ ũndũ Moce akarĩthĩria ⟨את⟩ bɛcocoa cia aana a Yiceraeri, o ũrĩa Yahwe amortĩire ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Nĩ ũndũ akarĩthĩria"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amortĩire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bɛcocoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bɛcocoa"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "bɛcocoa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "cia aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:56.142784015Z",
+  "model": "glm-5.3"
+}

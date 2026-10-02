@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Thingai Erohimu wa ngai, nĩgũkorwo ya riiko hecedi wake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Thingai"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya riiko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:57.939671036Z",
+  "model": "glm-5.3"
+}

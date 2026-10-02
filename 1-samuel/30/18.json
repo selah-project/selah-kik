@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Dawidi ahonokia ⟨את⟩ indo ciothe Amareki ainĩkũrire, na ⟨את⟩ atumia ake eerĩ Dawidi ahonokirie.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ahonokia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe Amareki ainĩkũrire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ainĩkũrire"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amareki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "atumia ake eerĩ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ahonokirie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:56.049706264Z",
+  "model": "glm-5.3"
+}

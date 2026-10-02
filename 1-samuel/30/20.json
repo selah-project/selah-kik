@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Dawidi atũngũkĩra ⟨את⟩ ng'ondu ciothe na ⟨את⟩ ng'ombe; cietĩkĩrire gũthĩ mbere ya nyamũ ĩyo, na makĩuga atĩrĩ: Ũyũ nĩguo mahĩa ma Dawidi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "atũngũkĩra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ondu ciothe na ng'ombe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "cietĩkĩrire gũthĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "nyamũ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ũyũ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "mahĩa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ma Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:56.050103065Z",
+  "model": "glm-5.3"
+}

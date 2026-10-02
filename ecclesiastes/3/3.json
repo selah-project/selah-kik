@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Hĩndĩ ya kũruta, na hĩndĩ ya kũhota; hĩndĩ ya kũhenithia, na hĩndĩ ya kũaka.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "kũruta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "kũhota"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "kũhenithia"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kũaka"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:43.800084383Z",
+  "model": "glm-5.3"
+}

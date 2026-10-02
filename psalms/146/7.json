@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 146,
+  "translation": "Ũrĩa oteithagĩria ciira arĩa maciamũkĩtwo, ũheaga mũgati arĩa mari na ndũrĩ; Yahwe ekomora arĩa marehĩtwo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "oteithagĩria"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "arĩa maciamũkĩtwo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ũheaga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mũgati"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "arĩa mari na ndũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "ekomora"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "arĩa marehĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:16.204632265Z",
+  "model": "glm-5.3"
+}

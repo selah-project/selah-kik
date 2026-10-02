@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Mũrũgũrũ waku nĩwoĩte ũru, na rũrĩmĩ rwaku nĩrũkaranagia na ũri.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "mũrũgũrũ waku"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "nĩwoĩte"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "rũrĩmĩ rwaku"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "nĩrũkaranagia"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ũri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:50.614618335Z",
+  "model": "glm-5.3"
+}

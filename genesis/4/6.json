@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Yahwe akĩũria Kaini: Nĩkĩ ũmeneteka, na nĩkĩ ũthiũ waku wathire hasi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩũria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ũmeneteka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩĩ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "na nĩkĩ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "wathire hasi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ũthiũ waku"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:14.003521137Z",
+  "model": "glm-5.3"
+}

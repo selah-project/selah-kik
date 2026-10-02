@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Kũrĩ We, We mwene-iwĩyũ, nĩndahũtie, na iwahũ nĩndakorire thĩinĩ wa maitho Maku; nĩgeetha ũkahota cedeki harĩ ciugo Cĩaku, na ũkahota ũtheri harĩ ciira Cĩaku.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kũrĩ We"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "We mwene-iwĩyũ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nĩndahũtie"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "na iwahũ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "thĩinĩ wa maitho Maku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nĩndakorire"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ũkahota cedeki"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "harĩ ciugo Cĩaku"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ũkahota ũtheri"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "harĩ ciira Cĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:23.772423526Z",
+  "model": "glm-5.3"
+}

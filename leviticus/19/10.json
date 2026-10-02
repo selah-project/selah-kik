@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na mũratũ waku ndũkahĩrĩria, na mbĩembe iciarĩ cia mũratũ waku ndũkacunga; ũciarie cia mũkenia na mũcerũ; nĩwe Yahwe Erohimu yanyu.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "Na mũratũ waku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "kahĩrĩria"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "na mbĩembe iciarĩ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kĩa mũratũ waku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kacunga"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "cia mũkenia"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "na mũcerũ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ũciarie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mbĩembe iciarĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:49.850891222Z",
+  "model": "glm-5.3"
+}

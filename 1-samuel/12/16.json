@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "O na rĩu, ũikarĩĩrũoi na moone ⟨את⟩ kĩndũ gĩkĩnene gĩkĩ, gĩa Yahwe ekĩte mbere ya maitho anyu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "na rĩu"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ũikarĩĩrũoi"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na moone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ gĩkĩnene gĩkĩ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "gĩkĩnene"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ekĩte"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "mbere ya maitho anyu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:55.305585416Z",
+  "model": "glm-5.3"
+}

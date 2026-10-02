@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩakenia mũthamaki, akiuga: Nĩ ma ũhoro ũrĩa nĩngĩĩte bũrũri-inĩ wakwa, harĩa ciugo caku na harĩa ũgĩ waku.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nĩ ma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nĩngĩĩte"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "bũrũri-inĩ wakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ciugo caku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na harĩa"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ũgĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:28.972620554Z",
+  "model": "glm-5.3"
+}

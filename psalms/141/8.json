@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 141,
+  "translation": "Nĩ kũrĩ We, Yahwe, Adonai, maitho makwa makĩrora; We nĩngũhokera; ndũrehĩre mũoyo wakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ We"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho makwa"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "We mwene"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nĩngũhokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ndũrehĩre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:02.896645502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Nĩrĩgũrĩra andũ ake makĩcooka hakũ, na mai ma kĩothe kĩnjũrũ nĩmahonjoka kĩao.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩrĩgũrĩra"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "makĩcooka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hakũ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kĩnjũrũ"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "nĩmahonjoka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kĩao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:25.674702275Z",
+  "model": "glm-5.3"
+}

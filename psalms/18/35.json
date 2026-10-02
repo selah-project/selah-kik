@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Anĩgeithia moko makwa ma gũturanĩria, kĩamba kĩa ncũa nĩkĩahetwo nĩ moko makwa makĩrũa.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Anĩgeithia"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moko makwa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ma gũturanĩria"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "nĩkĩahetwo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kĩa ncũa"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "moko makwa makĩrũa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:48.002911037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 1:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na keambĩri gĩa cahi, arĩa Becereeri mũrũ wa Uri, mũrũ wa Huri, ainire, nĩgĩtũũrĩre mbere ya Micikani ya Yahwe; Selomo na mũcemanio nĩmaakenerera.",
+  "tokens": [
+    {
+      "surface": "ומזבח",
+      "gloss": "Na keambĩri"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "gĩa cahi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ainire"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becereeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Huri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nĩgĩtũũrĩre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וידרשהו",
+      "gloss": "nĩmaakenerera"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "na mũcemanio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:39:23.987687152Z",
+  "model": "glm-5.3"
+}

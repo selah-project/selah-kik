@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Yahwe akĩrora kũria Moce, na kũria Aharoni, akĩuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩrora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũria"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũria"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩuga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:50:05.478315041Z",
+  "model": "glm-5.3"
+}

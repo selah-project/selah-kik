@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na makĩiguũrĩra ⟨את⟩ ithemba rĩa Yahwe, na ⟨את⟩ hema ya kũhĩrĩrania, na ⟨את⟩ indo ciothe cia ũtheru irĩa ciarĩ hema-inĩ; na athikoni na a-Leviyi nĩmaiguũrĩre ⟩arĩa⟨.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "makĩiguũrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithemba rĩa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ithemba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hema ya kũhĩrĩrania"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhĩrĩrania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe cia ũtheru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cia ũtheru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hema-inĩ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "maiguũrĩre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨arĩa⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "athikoni"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na a-Leviyi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:21.914624443Z",
+  "model": "glm-5.3"
+}

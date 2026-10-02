@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Magĩka ⟨את⟩ matuta igũrũ rĩa mabũrũrũ, nĩakĩcenjera matuta thĩinĩ wa alutari.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Magĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matuta"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "matuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "mabũrũrũ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nĩakĩcenjera"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "matuta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "thĩinĩ wa alutari"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:14.049335440Z",
+  "model": "glm-5.3"
+}

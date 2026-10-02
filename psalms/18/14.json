@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩagĩrwo mbura nene thĩinĩ wa igũrũ Yahwe, na Mwene-Igũrũ aheere mũgambo wake — ũruha na macoco ma mũki.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "Nĩagĩrwo mbura nene"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "thĩinĩ wa igũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "Mwene-Igũrũ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "aheere"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ũruha"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "na macoco"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ma mũki"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:38.720150086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Njĩra ya kũigĩrana nĩndagĩrĩire; ciira ciaku nĩndĩĩcerejĩte mbere yakwa.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ya kũigĩrana"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nĩndagĩrĩire"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ciira ciaku"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "nĩndĩĩcerejĩte mbere yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:54.142010595Z",
+  "model": "glm-5.3"
+}

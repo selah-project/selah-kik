@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Mũndũ o wothe nĩathĩrie ⟨את⟩ mũrata wake, na kũrĩ mwakehoyo nĩoigĩte: Iria hinya.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrata wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mũrata wake"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "nĩathĩrie"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na kũrĩ mwakehoyo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nĩoigĩte"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Iria hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:33.587212291Z",
+  "model": "glm-5.3"
+}

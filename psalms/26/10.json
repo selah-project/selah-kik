@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Arĩa moko mao mo na mĩera mĩnorũ, na ooki mwao nĩwo mũnjĩhĩte ciheo cia kũhoora ciira.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mĩera mĩnorũ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ooki mwao"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "nĩwo mũnjĩhĩte"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ciheo cia kũhoora ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.699030545Z",
+  "model": "glm-5.3"
+}

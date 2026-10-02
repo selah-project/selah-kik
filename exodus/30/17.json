@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Yahwe aratha na Moce, aguaga atĩa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "aratha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aguaga atĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:30.425672826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Kĩĩmbo kĩa Dawidi. Yahwe nĩ mũrote wakwa; nĩndĩkahotana kũgima.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩĩmbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mũrote wakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩti"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ndĩkahotana kũgima"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:24.117395076Z",
+  "model": "glm-5.3"
+}

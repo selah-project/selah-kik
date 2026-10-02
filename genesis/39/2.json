@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na Yahwe nĩaarĩ ⟨את⟩ Yucefu, nakwe akĩtuha mũndũ mũcirũngaru; agĩtua nyũmba-inĩ ya mwathi wake, Mũmicirayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na nĩakĩgĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yucefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yucefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na akĩtuha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "mũcirũngaru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "agĩtua"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ya mwathi wake"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mũmicirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:54.771291602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Atarayahu nyina wa Ahaziyahu arĩona atana mũrũ wake nĩarĩkũrite, akĩimũka, akĩhũra ⟨את⟩ mbũra ciothe cia ũthamaki.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atarayahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "arĩona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atana"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nĩarĩkũrite"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "akĩimũka"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "akĩhũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbũra ciothe cia ũthamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbũra"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "cia ũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T06:35:35.323101226Z",
+  "model": "glm-5.3"
+}

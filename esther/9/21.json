@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Gũthingikĩrĩria kwaro mĩena yao, magĩkũra mũthenya wa ikũmi na inya wa mweri wa Adari, na ⟨את⟩ mũthenya wa ikũmi na ithano wa ũcio, mwaka ⟨o wothe⟩ na mwaka,",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "gũthingikĩrĩria"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mĩena yao"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya wa ikũmi na inya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "inya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũthenya wa ikũmi na ithano"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wa ũcio"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mwaka o wothe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "na mwaka"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:50.001768660Z",
+  "model": "glm-5.3"
+}

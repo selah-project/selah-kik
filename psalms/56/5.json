@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Kĩa Erohimu nĩngĩhoyage kĩugo giake; kĩa Erohimu nĩnecokire ithaka; nĩtire kũgwata — mwĩrĩ ũngĩgũa kĩ ndĩ?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "kĩa Erohimu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "nĩngĩhoyage"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kĩugo giake"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kĩa Erohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nĩnecokire ithaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩtire"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kũgwata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ũngĩgũa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:18.016057639Z",
+  "model": "glm-5.3"
+}

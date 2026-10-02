@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Cara agĩthĩĩ kĩcianĩ-inĩ, na amwetha Abarahamu mũrũ harĩ kĩũru gĩake, thaa ĩrĩa Erohimu yoigĩte ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "agĩthĩĩ kĩcianĩ-inĩ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "amwetha"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Cara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "harĩ kĩũru gĩake"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "thaa ĩrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yoigĩte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:53.631640142Z",
+  "model": "glm-5.3"
+}

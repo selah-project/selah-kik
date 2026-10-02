@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Nĩgũkorwo maũndũ moigĩte ngoro-inĩ yakwa ti maũndũ moinĩ moigĩte ngoro-inĩ inyuũnyu, na mikũrikũ yanyu ti mikũrikũ yakwa, Yahwe oigĩte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "maũndũ moigĩte ngoro-inĩ yakwa"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "maũndũ moinĩ moigĩte ngoro-inĩ inyuũnyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mikũrikũ yanyu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mikũrikũ yakwa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:51:40.318730032Z",
+  "model": "glm-5.3"
+}

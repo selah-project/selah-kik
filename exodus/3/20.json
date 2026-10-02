@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩngĩrora moko yakwa ⟨את⟩, nĩngĩgate Micirayimu ⟨את⟩ na mĩhiano yakwa yothe ĩrĩa nĩngĩka thĩinĩ wao; na thutha wa macio, ndakũrũmĩrĩra.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "nĩngĩrora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko yakwa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moko yakwa"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "nĩngĩgate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micirayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "mĩhiano yakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nĩngĩka"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "thĩinĩ wao"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "macio"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ndakũrũmĩrĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:41.069629427Z",
+  "model": "glm-5.3"
+}

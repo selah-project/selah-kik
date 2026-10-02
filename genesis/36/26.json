@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na arĩa nĩ aana a Discani: Hemedani, na Ecibani, na Yiterani, na Cerani.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na arĩa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Discani"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemedani"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "na Ecibani"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "na Yiterani"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "na Cerani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:48:20.753618437Z",
+  "model": "glm-5.3"
+}

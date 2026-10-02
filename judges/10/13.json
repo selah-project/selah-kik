@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na nimwe matairekĩre ⟨את⟩ inĩ, na mĩtungatĩre ngai ingĩ; rĩrĩ, ti ngĩcooka kũhokia ⟨את⟩ inywe.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na nimwe"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "matairekĩre"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ inĩ",
+      "marks": "inĩ (Yahwe)"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "na mĩtungatĩre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ngĩcooka"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kũhokia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:59:07.532051747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Yahwe arathimĩtwo, nĩgũkoruo aiguĩte mũgambo wa mahũrũro makwa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "arathimĩtwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aiguĩte"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "wa mahũrũro makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:04.946597535Z",
+  "model": "glm-5.3"
+}

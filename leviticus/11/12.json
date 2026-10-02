@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Wona ũrĩa ũtarĩ na mapapari na makeke maaĩ-inĩ, nĩrĩ kĩmenanio kanyu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ũtarĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "mapapari"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "na makeke"
+    },
+    {
+      "surface": "במים",
+      "gloss": "maaĩ-inĩ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kĩmenanio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩrĩ ⟨wona ũcio⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:15.891986279Z",
+  "model": "glm-5.3"
+}

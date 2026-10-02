@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "No Rewi na Binyamini ndaakabarirwo kũigĩrĩra-inĩ kwao, nĩgũkorwo kiugo kĩa mwathi kĩamũheniere ⟨את⟩ Yoabu mũno.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "na Rewi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akabarirwo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kũigĩrĩra-inĩ kwao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "kĩamũheniere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kĩa mwathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    }
+  ],
+  "timestamp": "2026-10-02T07:11:31.960769395Z",
+  "model": "glm-5.3"
+}

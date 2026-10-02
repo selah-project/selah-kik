@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Nĩgũkorwo nĩndĩiguire kwoyo thĩinĩ wa arĩa mamenete mũno, ndona ⟨thayũ⟩ ya athũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "nĩndĩiguire kwoyo"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "thĩinĩ wa arĩa mamenete mũno"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "athũ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndona"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:52.813936878Z",
+  "model": "glm-5.3"
+}

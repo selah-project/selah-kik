@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Mũkahũthagia ⟨את⟩ we atĩa, na akaniguũra atĩa kũrĩ inĩ, nĩngigua nguu ya gucuũkwa kwake thiini.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "kũhũthagia"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mũkahũthagia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "kũniguũra"
+    },
+    {
+      "surface": "יצעעק אם",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ inĩ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngigua"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nĩngigua"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "nguu ya gucuũkwa kwake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:16.386990173Z",
+  "model": "glm-5.3"
+}

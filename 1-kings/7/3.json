@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na gũkembwo kwayo nĩ merera, kuuma igũrũ, igũrũ wa minyambĩ ĩrĩ igũrũ wa ng'ong'i icio — mirongo inya na ithano, ithano na ikũmi mĩthemba ĩmwe ĩmwe.",
+  "tokens": [
+    {
+      "surface": "וספון",
+      "gloss": "gũkembwo kwayo"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "nĩ merera"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "minyambĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ng'ong'i icio"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mirongo inya"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "mĩthemba ĩmwe ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:52.482425305Z",
+  "model": "glm-5.3"
+}

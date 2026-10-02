@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Nĩnĩmĩte, ndĩngavũra kanua gwakwa; nĩgũkũra nĩwe waakĩte ⟨את⟩ ⟨⟨ndũcio⟩⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nĩnĩmĩte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ngavũra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua gwakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waakĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:36.543794614Z",
+  "model": "glm-5.3"
+}

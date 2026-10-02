@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ũgũru wake nĩũgũcooka hĩndĩ-ya mutwe wake, na thĩinĩ wa kĩongo kĩake hinya wake nĩũgũkũrũka.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "nĩũgũcooka"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ũgũru wake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "hĩndĩ-ya mutwe wake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "kĩongo kĩake"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "hinya wake"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nĩũgũkũrũka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:27.209008906Z",
+  "model": "glm-5.3"
+}

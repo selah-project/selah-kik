@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Wĩ mũthomethi wa mahoya; iũngĩrĩ kwaku o mwĩrĩ wonje ũgĩkũũra.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mũthomethi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "wa mahoya"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "iũngĩrĩ kwaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwĩrĩ wonje"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ũgĩkũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:12.123522536Z",
+  "model": "glm-5.3"
+}

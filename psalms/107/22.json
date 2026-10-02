@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Na_mathĩnje mathĩnjĩ ma kũigua, na kwarĩria watho wake na kĩĩranĩro.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Na_mathĩnje"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mathĩnjĩ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ma kũigua"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "na kwarĩria"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "watho wake"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "na kĩĩranĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:34.969482686Z",
+  "model": "glm-5.3"
+}

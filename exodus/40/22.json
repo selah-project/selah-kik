@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na akĩgĩcokia ⟨את⟩ meza kĩambainĩ kĩa kũhĩrana, hĩũ ya Micikani rũraya, nja ya paroketi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akĩgĩcokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "kĩambainĩ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kĩa kũhĩrana"
+    },
+    {
+      "surface": "על",
+      "gloss": "hĩũ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "rũraya"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nja"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ya paroketi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:06.277784764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩĩ: inamithia mũgambo wa mũthamaki, na kũringana na kĩratio kĩa Erohimu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩĩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "inamithia"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kũringana na"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "harĩa kũrĩ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "kĩratio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:44.835654215Z",
+  "model": "glm-5.3"
+}

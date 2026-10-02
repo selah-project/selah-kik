@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 97,
+  "translation": "Yahwe athondeka arĩ mũthamaki; thĩ ĩgĩe kĩguni; icumba iraya nyingĩ ikone MACI? no — ikũranĩrie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "athondeka arĩ mũthamaki"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ĩgĩe kĩguni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ikũranĩrie"
+    },
+    {
+      "surface": "איים",
+      "gloss": "icumba iraya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:18.696783255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 129,
+  "translation": "Nĩmahĩtwo ihinya, na macokire thutha, arĩa mamenete Ciyoni othe.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "nĩmahĩtwo ihinya"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "na macokire thutha"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "arĩa mamenete"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.493906870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na We, Yahwe, ndũkare hĩndĩ-inĩ ya kũre; kĩgunĩ gĩakwa kĩhũthĩre ũteithio-inĩ wakwa ũrĩa ũrĩ mũhũ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na We"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kare hĩndĩ-inĩ ya kũre"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "kĩgunĩ gĩakwa"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ũteithio-inĩ wakwa"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ĩhũthĩre ũrĩa ũrĩ mũhũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:56.654489774Z",
+  "model": "glm-5.3"
+}

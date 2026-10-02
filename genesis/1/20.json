@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Erohimu akiuga: Mai mone mĩthemba ya maũndũ ma mooyo, na ndege irathime igũrũ wa thĩ, thĩinĩ wa ũtheri wa rĩkeera rĩa matũ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "mone"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Mai"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "mĩthemba"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "maũndũ ma mooyo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ma mooyo"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "na ndege"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "irathime"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "wa rĩkeera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "rĩa matũ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:47.506264889Z",
+  "model": "glm-5.3"
+}

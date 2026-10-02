@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Ŋũrĩa ũcirũkagĩra ⟨the⟩ ndũrĩrĩ, kana ndagĩheana ciira? Ũrĩa wĩrĩkagĩrĩra mũndũ ũmenyo, kana ndamenya?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "ũcirũkagĩra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ndagĩheana ciira"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "wĩrĩkagĩrĩra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ũmenyo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.446032670Z",
+  "model": "glm-5.3"
+}

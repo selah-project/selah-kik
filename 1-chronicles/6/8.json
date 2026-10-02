@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Erıkanahi mũrũ wake, na Ebyacafi mũrũ wake, na Aciri mũrũ wake.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Erıkanahi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "na Ebyacafi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "na Aciri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:36.920023350Z",
+  "model": "glm-5.3"
+}

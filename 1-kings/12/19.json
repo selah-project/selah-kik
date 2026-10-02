@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Yiceraeri nĩmahonjekire kũinĩ ngoro ya ũgothi wa kilima ya Dawidi, thutha ũyũ-inĩ wa mũthenya ũyũ.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "nĩmahonjekire"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kũinĩ ngoro ya ũgothi wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "thutha ũyũ-inĩ wa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:10.703050969Z",
+  "model": "glm-5.3"
+}

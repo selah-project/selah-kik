@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ĩhũrũkanĩri inyiũ, andũ akwa, na mabũrũri akwa, inyiũ ndĩkwarĩ; nĩgũkoruo Tora yaakuuma inyũ ⟨את⟩, na ciĩra akwa niigahota mũtheri andũ acio o hĩndĩ ĩmwe.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Ĩhũrũkanĩri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "inyiũ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "na mabũrũri akwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "inyiũ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ndĩkwarĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ kuuma inyũ",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "yaakuuma"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "na ciĩra akwa"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "mũtheri"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ acio"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "o hĩndĩ ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:53.716522282Z",
+  "model": "glm-5.3"
+}

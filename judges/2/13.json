@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Magĩikara mahũrĩte ⟨את⟩ Yahwe, magĩtungatĩte Baari na Acutaroti.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "mahũrĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "magĩtungatĩte"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baari"
+    },
+    {
+      "surface": "ו לעשתרות",
+      "gloss": "na Acutaroti"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:17.489708355Z",
+  "model": "glm-5.3"
+}

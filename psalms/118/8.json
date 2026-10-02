@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Nĩ mwega gũcũngũrĩra thĩinĩ wa Yahwe kũgĩa gũkĩĩgerethanĩria mũndũ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ mwega"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "gũcũngũrĩra"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "thĩinĩ wa Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kũgĩa gũkĩĩgerethanĩria"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:54.112793692Z",
+  "model": "glm-5.3"
+}

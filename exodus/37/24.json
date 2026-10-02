@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Kĩkara kĩa thahabu mũtheru akĩaya ⟨את⟩ yo, na ⟨את⟩ indo ciothe ciake.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kĩkara"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akĩaya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kĩnĩ gĩkĩ kĩu (yayo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe ciake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "indo ciake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:22.023164058Z",
+  "model": "glm-5.3"
+}

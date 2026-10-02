@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Mwathĩ akiuga kwa Amaca: Ũkahoye ⟨את⟩ andũ a Yuda mĩthenya ĩtatu, na wee ũikare ha kũu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amaca"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "ũkahoye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Yuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ĩtatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na wee"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ha kũu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ũikare"
+    }
+  ],
+  "timestamp": "2026-10-01T23:43:03.660621481Z",
+  "model": "glm-5.3"
+}

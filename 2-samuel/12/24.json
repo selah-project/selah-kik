@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 12:24",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Dawidi amũteithirie ⟨את⟩ Bati-Ceba mũtumia wake, akĩmũcyera, akĩgũcikara na aciarĩra mwana; akĩĩita ⟨את⟩ rĩĩtwa rĩake Ceromo; na Yahwe amĩendete.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "amũteithirie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bati-Ceba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bati"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ceba"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akĩmũcyera"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akĩgũcikara"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hamwe na we"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "aciarĩra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩĩita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "amĩendete"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:14.177982471Z",
+  "model": "glm-5.3"
+}

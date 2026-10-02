@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mĩceremo nĩyahotanio; mũthii-wathii aaregire gũthii; ⟨mũndũ⟩ aheanie kĩrĩkanĩro, arĩire ithũũra, ndanayenderete mũndũ wa kũfũra.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "nĩyahotanio"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "mĩceremo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "aaregire"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mũthii"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "mũceremo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "aheanie"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "arĩire"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ithũũra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nayendera"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ wa kũfũra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:38:25.800409199Z",
+  "model": "glm-5.3"
+}

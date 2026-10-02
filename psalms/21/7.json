@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩgũkorwo nĩũmũciĩrĩngĩirie ciĩrĩngĩ tene na tene; nĩũmũkenyeithia na gũkeno harĩ ⟨את⟩ angetho aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "nĩũmũciĩrĩngĩirie"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ciĩrĩngĩ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "nĩũmũkenyeithia"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na gũkeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "angetho aku"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "angetho aku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:37.475372533Z",
+  "model": "glm-5.3"
+}

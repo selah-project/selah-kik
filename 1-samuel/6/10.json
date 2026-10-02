@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Andũ arĩa nĩmaĩhĩte ũguo: makĩrata ng'ombe igĩrĩ iria cianyonya, makĩcokerera ndara-inĩ, na ⟨את⟩ ciana ciacio makĩithia nyũmba-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "maĩhĩte"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ arĩa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "makĩrata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "iria cianyonya"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "makĩcokerera"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ndara-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciacio"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ciana ciacio"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "makĩithia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:54.706593132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 67,
+  "translation": "Erohimu atũrĩkie, na ihoto cia thĩ othe ithiĩ ithũinye ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "atũrĩkie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "na...ithũinye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ihoto cia thĩ othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ihoto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "cia thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:21.554578533Z",
+  "model": "glm-5.3"
+}

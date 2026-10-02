@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Kĩrathi gĩake nĩ kĩnene mũno harĩ kũmũhũũra kwaku; ũtemi na kĩeheria nĩũmũthiimbĩtie thĩinĩ wake.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "kĩnene mũno"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kĩrathi gĩake"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "harĩ kũmũhũũra kwaku"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ũtemi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na kĩeheria"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "nĩũmũthiimbĩtie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "thĩinĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:37.473667016Z",
+  "model": "glm-5.3"
+}

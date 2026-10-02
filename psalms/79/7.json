@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 79,
+  "translation": "Nĩgũkorwo macĩri ⟨את⟩ Yaakobu, na ⟨את⟩ mũciĩ waku Wohothetie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "macĩri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũciĩ waku"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "mũciĩ waku"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "Wohothetie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:09.108238582Z",
+  "model": "glm-5.3"
+}

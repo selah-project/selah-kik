@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Mahĩa Micikani yaku yarĩ ⟨⟨endetu⟩⟩, Yahwe Cebaoti!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mahĩa"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "yarĩ endetu"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Micikani yaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:23.950467468Z",
+  "model": "glm-5.3"
+}

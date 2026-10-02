@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Igũrũ nĩrĩĩiyũranĩrĩra, na thĩ nĩĩigooka; irĩa nĩrĩĩhũrũkĩra hamwe na mooyo wayo wothe.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "nĩrĩĩiyũranĩrĩra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "na nĩĩigooka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "nĩrĩĩhũrũkĩra"
+    },
+    {
+      "surface": "הים",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na mooyo wayo wothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:53.377038349Z",
+  "model": "glm-5.3"
+}

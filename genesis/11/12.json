@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Arupakacadi akiorokia mĩaka mĩano na mĩrongo ithatũ, akamenya ⟨את⟩ Cerahi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arupakacadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "akiorokia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mĩano"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mĩrongo ithatũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cerahi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Cerahi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:08.058501204Z",
+  "model": "glm-5.3"
+}

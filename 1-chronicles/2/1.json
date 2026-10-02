@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Aci nĩ ciana cia Yiceraeri: Reubeni, Cimeoni, Revi, na Yehuda, Yicakari, na Zeburuni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yicakari"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "na Zeburuni"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:18.322984439Z",
+  "model": "glm-5.3"
+}

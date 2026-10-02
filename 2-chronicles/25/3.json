@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na rĩrĩa ũthamaki wũngĩtungatie kũrĩ we, akĩhonithia ⟨את⟩ athũngũ wake arĩa mahonithire ⟨את⟩ mũthamaki ithe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wũngĩtungatie"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "akĩhonithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athũngũ wake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "athũngũ wake"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "arĩa mahonithire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki ithe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:58:44.865766231Z",
+  "model": "glm-5.3"
+}

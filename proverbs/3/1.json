@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũrũ wakwa, Tora yakwa ndũkayeya, na miaro yakwa ngoro yaku ĩrũmagĩrĩre.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mũrũ wakwa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "yeya"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na miaro yakwa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ĩrũmagĩrĩre"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngoro yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:45:12.345473087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Cũranĩra mũoyo wakwa, ũmũhonokere; ndĩngĩcokia mamenyo ma ihĩtũko, nĩndĩcũngĩirire kũrĩ We.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "cũranĩra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ũmũhonokere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩngĩ-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "cokia mamenyo ma ihĩtũko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nĩndĩcũngĩirire"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kũrĩ We"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:58.657175074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na rurimi rwakwa rũtaũrĩre cedeki yaku, mũthenya wothe ng'weno yaku.",
+  "tokens": [
+    {
+      "surface": "וּ֭לְשֹׁנִי",
+      "gloss": "na rurimi rwakwa"
+    },
+    {
+      "surface": "תֶּהְגֶּ֣ה",
+      "gloss": "rũtaũrĩre"
+    },
+    {
+      "surface": "צִדְקֶ֑ךָ",
+      "gloss": "cedeki yaku"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הַיּ֝וֹם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "תְּהִלָּתֶֽךָ",
+      "gloss": "ng'weno yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:11.774021925Z",
+  "model": "glm-5.3"
+}

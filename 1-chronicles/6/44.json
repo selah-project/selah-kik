@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Acani na ⟨את⟩ mĩgirũci yayo, na ⟨את⟩ Bethi-cemeshi na ⟨את⟩ mĩgirũci yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Acani"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Acani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgirũci yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mĩgirũci yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bethi-cemeshi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "cemeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgirũci yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mĩgirũci yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:51.165026193Z",
+  "model": "glm-5.3"
+}

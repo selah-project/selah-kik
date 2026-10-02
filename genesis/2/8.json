@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yahwe Erohimu arĩme gathiga kĩa mbere ya rĩuhi thĩinĩ wa Edeni, nao akĩmũikara kuo ⟨את⟩ mũndũ ũrĩa ũakombire.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "akĩrĩma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "גן",
+      "gloss": "gathiga"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "thĩinĩ wa Edeni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kĩa mbere ya rĩuhi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akĩmũikara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ũakombire"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:18.748173495Z",
+  "model": "glm-5.3"
+}

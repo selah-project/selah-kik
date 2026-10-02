@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũthenya ũcio nĩkuugwo na Yerucarayimu: Ndaatia, Ciyoni; moko maku ndikahinge.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nĩkuugwo"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "na Yerucarayimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "atia"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndika-"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "-hinge"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "moko maku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:38:30.808785413Z",
+  "model": "glm-5.3"
+}

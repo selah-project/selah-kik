@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Ĩigua, Yahwe, ungie tha; Yahwe, ĩka mũteithĩri wakwa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ĩigua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ungie tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ĩka"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mũteithĩri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:27.403964857Z",
+  "model": "glm-5.3"
+}

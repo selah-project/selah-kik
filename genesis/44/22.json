@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Na nĩtũokire kwa mwathi wakwa atĩ: Mũriŋane ndangĩhota kũmana na ⟨את⟩ ithe wake; arĩa omanĩtie ⟨את⟩ ithe wake, nĩakuua.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "nĩtũokire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "hota"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mũriŋane"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kũmana na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "arĩa omanĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "nĩakuua"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:47.994421291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mihĩca yothe ya Yahwe nĩ hecedi na ma; harĩ arĩa magĩtikĩria kĩrĩkanĩro kĩake na ng'arĩro ciake.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "Mihĩca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ma"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "harĩ arĩa magĩtikĩria"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kĩrĩkanĩro kĩake"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "na ng'arĩro ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:13.437315059Z",
+  "model": "glm-5.3"
+}

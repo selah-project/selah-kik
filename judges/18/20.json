@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩ gũkorwo ngoro ya mũciiri yarĩ kĩega, na agotha ⟨את⟩ efodi, na ⟨את⟩ terafimu, na ⟨את⟩ paceri, agĩthiĩ hagati-inĩ wa ⟨the⟩ andũ.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yarĩ kĩega"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ya mũciiri"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "agotha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "terafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paceri"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "paceri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hagati-inĩ wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:27:35.816085564Z",
+  "model": "glm-5.3"
+}

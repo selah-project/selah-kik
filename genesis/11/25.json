@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Nahori araiguithia thutha wa kũciarithia ⟨את⟩ Teraci mĩaka ĩkenda na ikũmi na ĩmwe, na ngiri ĩmwe ya mĩaka; na aciarire matũma na airĩtũ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "araiguithia"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teraci"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraci"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ĩkenda"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na ikũmi na ĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na ngiri ĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "aciarire"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "matũma"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na airĩtũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:05.084623116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Rora thũ makwa, nĩ nĩcĩingĩ, na na kũmena kwa hinya nĩmanenete.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "rora"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "thũ makwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nĩcĩingĩ"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "na kũmena"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kwa hinya"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "nĩmanenete"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:58.655484573Z",
+  "model": "glm-5.3"
+}

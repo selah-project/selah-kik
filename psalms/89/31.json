@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Watho-inĩ wakwa ndĩkaebe kĩrĩkanĩro kĩu, na mathĩna macio ndĩngĩaturũora kuma harĩ ithuĩ na ihinda rĩrĩa Tora yakwa na ciira ciakwa ithiĩ itiganĩrĩire na andũ arĩa maarĩ igũrũ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ithiĩ itiganĩrĩire"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "andũ arĩa maarĩ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yakwa"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "na ciira ciakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "maarĩ ihĩndĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:09.802959778Z",
+  "model": "glm-5.3"
+}

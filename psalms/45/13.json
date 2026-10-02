@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Na mũirũ wa Tcori nĩguo ezĩrie minaha marĩa-inĩ; arĩa marĩ arĩmi a ndũrĩrĩ niĩrie erhahari yaku.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Na mũirũ wa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tcori"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "na minaha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "marĩa-inĩ maku"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "niĩrie"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "arĩa marĩ arĩmi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:14.211130022Z",
+  "model": "glm-5.3"
+}

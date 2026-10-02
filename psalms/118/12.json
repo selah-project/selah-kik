@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Nĩcinigĩte ⟨ndĩwe⟩ ta njuki; magima ta magokora ma mwariki; na rĩĩtwa rĩa Yahwe ndĩnĩheha.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "nĩcinigĩte ⟨ndĩwe⟩"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "ta njuki"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "magima"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ta mwariki"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "wa magokora"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ndĩnĩheha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:31.774543019Z",
+  "model": "glm-5.3"
+}

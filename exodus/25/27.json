@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Kũringana na mũgate nĩcio ngerethi nĩkuorĩ, ithaanĩro rĩa mĩratũ ya kũrugita ⟨את⟩ meza.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "kũringana na"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "mũgate"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "nĩcio kũorĩ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ngerethi"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ithaanĩro rĩa"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "mĩratũ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ya kũrugita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:04.525635455Z",
+  "model": "glm-5.3"
+}

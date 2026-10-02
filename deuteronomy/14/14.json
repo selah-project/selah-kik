@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ kooru kwa gũthe, kũrũgũrũ, kũmĩriĩ rĩu wayo.",
+  "tokens": [
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "kooru kwa gũthe kũrũgũrũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwa gũthe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kũrũgũrũ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "kũmĩriĩ rĩu wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:24:06.708802150Z",
+  "model": "glm-5.3"
+}

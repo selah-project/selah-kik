@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩciongererie iyo kũnina ⟨את⟩ ngoro yakwa, kuuma gĩtũmĩko gwose kwarĩ ngĩtũma thĩinĩ wa riũa.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "nĩciongererie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "kũnina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yakwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gwose"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "gĩtũmĩko gwose"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "kwarĩ ngĩtũma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:44.684954570Z",
+  "model": "glm-5.3"
+}

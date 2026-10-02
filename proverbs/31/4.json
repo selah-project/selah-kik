@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Ti ya athamaki, ee Lemueri, ti ya athamaki kũnyua macianĩ, no ti ya atongoria kũnyomeria kĩnywani kĩa kũgwetha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ya athamaki"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ee Lemueri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ya athamaki"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "kũnyua"
+    },
+    {
+      "surface": "יין",
+      "gloss": "macianĩ"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "no ti ya atongoria"
+    },
+    {
+      "surface": "או",
+      "gloss": "kũnyomeria"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kĩnywani kĩa kũgwetha"
+    }
+  ],
+  "timestamp": "2026-10-02T04:03:13.620801739Z",
+  "model": "glm-5.3"
+}

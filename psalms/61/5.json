@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 61,
+  "translation": "Nĩngĩkomorereria hema yaku-inĩ ngima yonthe; nĩngĨhokera mũhumbũ-inĩ wa mapanga maku. Cera.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "nĩngĨkomorereria"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "hema yaku-inĩ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ngima yonthe"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nĩngĨhokera"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mũhumbũ-inĩ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wa mapanga maku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:11.157596867Z",
+  "model": "glm-5.3"
+}

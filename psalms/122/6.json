@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 122,
+  "translation": "Rĩrĩanie thayũ wa Yerucarayimu; arĩa makwendanĩra naku mahota thayũ.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "rĩrĩanie"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "mahota thayũ"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "arĩa makwendanĩra naku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:55.905680256Z",
+  "model": "glm-5.3"
+}

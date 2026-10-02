@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Matikorĩe kũria kĩrĩa kĩarĩ kĩarahia, kana kĩacioĩtwo mĩri-inĩ; agu tu nĩ kĩrumwo na mũrimũ — kĩongo kĩayo hamwe na magũrũ Mayo na maroro Mayo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "matĩ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "korĩe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kĩrĩa kĩayo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kĩarahia"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "na kĩacioĩtwo"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "kĩacioĩtwo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mĩri-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "kĩrumwo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũrimũ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kĩongo kĩayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "magũrũ Mayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na hamwe"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "maroro Mayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:08.154736749Z",
+  "model": "glm-5.3"
+}

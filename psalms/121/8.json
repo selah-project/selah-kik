@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Yahwe agũrindithia kwamuka kwaku na kũgera kwaku, kuuma rĩngĩ ũgĩkĩ na thutha wa tene na tene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "agũrindithia"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kwamuka kwaku"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "na kũgera kwaku"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuuma rĩngĩ ũgĩkĩ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na gĩkĩro kĩa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:29.268989436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Nĩ kuuma mĩgambo wa mũcokori na wa mũcereithia, na nĩ kuuma mbere ya thũ na mũhoori wake.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kuuma mĩgambo"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "wa mũcokori"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "na wa mũcereithia"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "na mũhoori wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:11.801677059Z",
+  "model": "glm-5.3"
+}

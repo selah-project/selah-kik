@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Nĩngũkũruta ithayo kenda na kenda, nĩgũkũrĩa nĩwamenyire ũndũ ũcio; na nĩngĩcirĩrĩra Rĩĩtwa rwaku, nĩgũkũrĩa nĩrwega mbere ya arĩa mekwendete kwaku.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Nĩngũkũruta ithayo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kenda na kenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũrĩa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nĩwamenyire ũndũ ũcio"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "na nĩngĩcirĩrĩra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Rĩĩtwa rwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũrĩa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩrwega"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "arĩa mekwendete kwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:40.967668104Z",
+  "model": "glm-5.3"
+}

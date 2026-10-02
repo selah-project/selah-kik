@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Nĩndĩhokete, nĩrĩo nĩndĩratha; nĩnengwo mũno.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "nĩndĩhokete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nĩndĩratha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩndĩ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "nĩnengwo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:23.335885414Z",
+  "model": "glm-5.3"
+}

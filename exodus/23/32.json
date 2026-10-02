@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ndũkũranĩre kĩrĩkanĩro nao, na we na ngai ciao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ũkũranĩre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "na ngai ciao"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:43.252916353Z",
+  "model": "glm-5.3"
+}

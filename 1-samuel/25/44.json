@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na Cauri nĩaheire ⟨את⟩ Mikari mũrũ wake wari mũka wa Dawidi, kũrĩ Paruti mũrũ wa Layici, ũrĩa woikarĩte Garimi.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Na Cauri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩaheire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikari"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikari"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mũrũ wake wari"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "kũrĩ Paruti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "wa Layici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "woikarĩte Garimi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:26:16.637539897Z",
+  "model": "glm-5.3"
+}

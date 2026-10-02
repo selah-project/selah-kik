@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Ũrendere Yahwe, nakĩhe ⟨את⟩ maũndũ moigĩte ngoro yaku.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "ũrendere"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nĩakuhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "maũndũ moigĩte"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngoro yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:21.109060716Z",
+  "model": "glm-5.3"
+}

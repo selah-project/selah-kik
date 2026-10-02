@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 141,
+  "translation": "Acĩĩri ao magetũtwo mihoko-inĩ ya mwariki, na maigua ciugo makwa, nĩ cia kĩguni.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "magetũtwo"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mihoko-inĩ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "mwariki"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "acĩĩri ao"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "na maigua"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo makwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "nĩ cia kĩguni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:02.894083938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 28:14",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Zahavu na micikari, zahavu ya ithayo iothe ya uthĩmu na ya uthĩmu ũrĩa wĩ mandĩ; kecefu na micikari, ya ithayo iothe ya uthĩmu na ya uthĩmu ũrĩa wĩ mandĩ.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "zahavu"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "na micikari"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "zahavu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya othe ya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ithayo"
+    },
+    {
+      "surface": "עבודה",
+      "gloss": "uthĩmu"
+    },
+    {
+      "surface": "ועבודה",
+      "gloss": "na uthĩmu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya othe ya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ithayo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kecefu"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "na micikari"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya othe ya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ithayo"
+    },
+    {
+      "surface": {
+        "surface": "עבודה",
+        "gloss": "uthĩmu"
+      }
+    },
+    {
+      "surface": "ועבודה",
+      "gloss": "na uthĩmu"
+    }
+  ],
+  "timestamp": "2026-10-02T07:11:25.023302554Z",
+  "model": "glm-5.3"
+}

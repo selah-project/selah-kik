@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na agenage ⟨את⟩ omeri mbere ya Yahwe,ĩgĩtuĩra kĩayũrire kianu; mũthenya ũrĩa ũgĩkĩa Cabati, mũthĩnjĩri-ngai nĩagĩkenia.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "agenage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeri"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omeri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ĩgĩtuĩra kĩayũrire kianu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mũthenya ũrĩa ũgĩkĩa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "agĩkenia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:22.531805291Z",
+  "model": "glm-5.3"
+}

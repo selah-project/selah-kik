@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Thutha wa maũndũ macio, rĩrĩa ũthũũro wa mũthamaki Ahacerurochi gũthĩthire, akĩibũkiria ⟨את⟩ Waciti, na ⟨את⟩ ũrĩa wayahĩte, na ⟨את⟩ ũrĩa wathirwo kũrĩ we.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "rĩrĩa ... gũthĩthire"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ũthũũro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahacerurochi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akĩibũkiria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Waciti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Waciti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũrĩa wayahĩte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "wayahĩte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũrĩa wathirwo kũrĩ we"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "wathirwo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kũrĩ we"
+    }
+  ],
+  "timestamp": "2026-10-02T04:46:32.585177895Z",
+  "model": "glm-5.3"
+}

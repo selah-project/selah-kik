@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mũraya wa marũa, kĩguni kĩa mĩci mĩtheru, na iria cĩonjerithĩtie kuuma Lebanoni.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "mũraya"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "wa marũa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kĩguni kĩa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mĩci"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mĩtheru"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "na iria cĩonjerithĩtie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    }
+  ],
+  "timestamp": "2026-10-02T04:27:58.569576178Z",
+  "model": "glm-5.3"
+}

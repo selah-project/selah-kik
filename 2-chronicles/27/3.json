@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Nĩwe ũciare ⟨את⟩ mbũara ya igũrũ ya nyũmba ya Yahwe, na thĩinĩ wa kĩguna kĩa Ofeli nĩaciirie gĩtoneya kũingĩ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Nĩwe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nĩaciirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbũara ya igũrũ ya nyũmba ya Yahwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mbũara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ya igũrũ"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "na thĩinĩ wa kĩguna"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "kĩa Ofeli"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nĩaciirie"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "gĩtoneya kũingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:56:35.455896217Z",
+  "model": "glm-5.3"
+}

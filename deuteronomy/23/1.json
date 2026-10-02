@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mũndũ ndahikagĩra ⟨את⟩ mũka wa ithe wake, na ndakenagĩra kũbũra kĩngeree kĩa ithe wake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndahikagĩra — ndĩ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ndahikagĩra kũhikĩra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũka wa ithe wake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa ithe wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndakenagĩra"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "kũbũra"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kĩngeree"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kĩa ithe wake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:57.874703814Z",
+  "model": "glm-5.3"
+}

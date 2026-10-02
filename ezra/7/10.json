@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩ gĩko Ezira nĩaekĩrĩirie ngoro yakwe ya kũhooria ⟨את⟩ Tora ya Yahwe, na gwĩka, na kũigĩanĩrĩa thĩinĩ wa Yiceraeri watho na ciira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ gĩko"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nĩaekĩrĩirie"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ngoro yakwe"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ya kũhooria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "na gwĩka"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "na kũigĩanĩrĩa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "חק",
+      "gloss": "watho"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T05:05:38.543430842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Ũrĩa wanyitithie ng'ania ciarĩ cia mbere cia Micirayimu, kuuma andũ gĩcigo kĩa nyamu.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Ũrĩa wanyitithie"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ciarĩ cia mbere"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuuma andũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩcigo kĩa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyamu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:38:03.395657713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Ũrĩa Yahwe athiire ⟨את⟩ Moce, o ũguo nda ciana cia Yiceraeri cihkĩtie, na magacokanagia ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "athiire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "cihkĩtie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "na magacokanagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:47:04.057871934Z",
+  "model": "glm-5.3"
+}

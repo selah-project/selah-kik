@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩ kũingĩ kwa ndoto na maũndũ manini, na ciuo nyingĩ; no ũgoocage ⟨את⟩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kũingĩ kwa"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "na maũndũ manini"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "na ciuo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nyingĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ũgoocage"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:57.376788580Z",
+  "model": "glm-5.3"
+}

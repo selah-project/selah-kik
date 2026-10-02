@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Marĩ matekĩrĩirie thamĩ-inĩ, tene na tene; maũndũ macio mothe mathĩkĩtwo na ũma na kĩooro.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "marĩ matekĩrĩirie"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "thamĩ-inĩ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "mathĩkĩtwo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "na ũma"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "na kĩooro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:57.722440549Z",
+  "model": "glm-5.3"
+}

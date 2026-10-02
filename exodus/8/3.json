@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Arĩa makena mĩthiamo magĩtua ũguo na mĩthiamo yao, makĩhĩrĩthia ⟨את⟩ ng'eethi igũrũ ya thĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "magĩtua"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "arĩa makena mĩthiamo"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "na mĩthiamo yao"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "makĩhĩrĩthia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'eethi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ng'eethi"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:08.756378991Z",
+  "model": "glm-5.3"
+}

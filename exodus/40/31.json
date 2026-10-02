@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na kuuma makĩhunjia Moce na Aharoni na aana make ⟨את⟩ mikono yao na ⟨את⟩ magũrũ mao.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "mahunjia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma yao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magũrũ mao"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "magũrũ mao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:17.934650066Z",
+  "model": "glm-5.3"
+}

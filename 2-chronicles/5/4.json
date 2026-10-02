@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na aakoro a Yiceraeri othe maakinyĩte; na a-Revii makĩregeta ⟨את⟩ cithungu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "maakinyĩte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "aakoro a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "makĩregeta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a-Revii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cithungu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "cithungu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:43:11.279473839Z",
+  "model": "glm-5.3"
+}

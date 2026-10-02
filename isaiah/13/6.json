@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Murire, nĩ mũthenya wa Yahwe ũkarĩ hau-ũku; ũkaakũya ta kwahoria kuuma Cadai.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Murire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ũkarĩ hau-ũku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "ta kwahoria"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "kuuma Cadai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ũkaakũya"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:42.976933505Z",
+  "model": "glm-5.3"
+}

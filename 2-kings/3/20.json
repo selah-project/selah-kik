@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Kĩroko-inĩ, hĩndĩ ya kũringĩrwo kwa minaha ya kĩtheri, na rĩrĩ, haha — maaĩ makĩĩnya kuuma mũrĩrainĩ wa Edomu, na thĩ ĩĩthĩkĩte ⟨את⟩ maaĩ macio.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgekũire"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "Kĩroko-inĩ"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "hĩndĩ ya kũringĩrwo"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minaha ya kĩtheri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩrĩ, haha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "באים",
+      "gloss": "makĩĩnya"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "kuuma mũrĩrainĩ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "wa Edomu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "na ĩĩthĩkĩte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maaĩ macio"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maaĩ macio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:08:20.449308801Z",
+  "model": "glm-5.3"
+}

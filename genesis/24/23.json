@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Akiuga: Wĩ mũiritu wa nĩ? Ũmenyese ndakwĩhokya; kũrĩ kũgũa nyũmba ya ithe gwaku ithuĩ kũciria?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũiritu wa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "wĩ"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "ũmenyese"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakwĩhokya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ithe gwaku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũgũa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "kũciria"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:54.396692710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na gĩcunjĩ-inĩ kĩa hecedi kĩigirĩro kĩrathimirwo, na ũndũmũrũ na wĩra wake thĩinĩ wa hema ya Dawidi, arĩ mũciiri, athiaga ciira, na ũrĩa wangĩhĩrĩirie cedeki.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "kĩrathimirwo"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "gĩcunjĩ-inĩ kĩa hecedi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kĩigirĩro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aarĩ kuuma wĩra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kĩrĩ-inĩ kĩakĩo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "na ũndũmũrũ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "thĩinĩ wa hema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "arĩ mũciiri"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "athiaga ciira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "na wangĩhĩrĩirie"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:25.110533720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩgũatĩkĩrĩra ũrĩa mkono wa ũtheri wa mũkenũra, gwĩcokera ciira cia mũoyo wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "gũatĩkĩrĩra"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ũrĩa mkono wa ũtheri"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wa mũkenũra"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "gwĩcokera"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira cia"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mũoyo wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:54.723059902Z",
+  "model": "glm-5.3"
+}

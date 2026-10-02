@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na akĩngĩra ũru, nĩgũkorwo ndaahoniekĩtie ngoro yake gũkunda Yahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩngĩra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ndaahoniekĩtie"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "gũkunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:50:35.128336576Z",
+  "model": "glm-5.3"
+}

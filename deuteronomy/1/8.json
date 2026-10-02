@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Rorangai, ndĩheĩte mbere yanyũ ⟨את⟩ thĩ ĩyo; ingĩrai, mũrĩŋang'ai ⟨את⟩ thĩ ĩyo Yahwe acokia kuva andũ a nyũmba yanyũ — Abarahamu, Yicaki na Yaakobu — kũmahe o nao na ciana cia mbere yao.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "rorangai"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndĩheĩte"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbere yanyũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩyo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ingĩrai"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "mũrĩŋang'ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "acokia kuva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "andũ a nyũmba yanyũ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "na Yaakobu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kũmahe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "o nao"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "na ciana cia mbere yao"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "cia mbere yao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:26.417110467Z",
+  "model": "glm-5.3"
+}

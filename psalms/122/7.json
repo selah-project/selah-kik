@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 122,
+  "translation": "Reke thayũ ithĩarĩkĩre thiinĩ wa mageegania maku, na theri thiinĩ wa mahũa maku.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "reke ithĩarĩkĩre"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "thiinĩ wa mageegania maku"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "theri"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "thiinĩ wa mahũa maku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:55.906964949Z",
+  "model": "glm-5.3"
+}

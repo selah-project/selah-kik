@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mũndũ wĩ meciria ma kũona mbere o wothe agĩthiĩ na ũmenyi, no mũũragwo anarũngũria ⟨את⟩ ũũru wa kũmenya kĩndũ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "mũndũ wĩ meciria ma kũona mbere"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "na ũmenyi"
+    },
+    {
+      "surface": "וככסיל",
+      "gloss": "no mũũragwo"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "anarũngũria"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ũũru wa kũmenya kĩndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:47.501195719Z",
+  "model": "glm-5.3"
+}

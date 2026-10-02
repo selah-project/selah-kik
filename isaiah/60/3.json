@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Na ndũrĩrĩ cikũambũkĩra kũtheri kwaku, na athamaki kũtherereri kwa kĩambĩrĩra giaku.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "cikũambũkĩra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "kũtheri kwaku"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "na athamaki"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "kũtherereri"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "kwa kĩambĩrĩra giaku"
+    }
+  ],
+  "timestamp": "2026-10-02T00:56:20.536725716Z",
+  "model": "glm-5.3"
+}

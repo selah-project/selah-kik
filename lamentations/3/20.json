@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Kĩrĩkanĩra, wega ũkĩrĩkanĩra, na mũhũmũ wakwa nĩũĩkĩirio igũrũ rwakwa.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "kĩrĩkanĩra"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "wega ũkĩrĩkanĩra"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "na nĩũĩkĩirio"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũhũmũ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:34:46.198940408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Yahwe akanigeria ũndũ ta ũrĩa Moce aatũire; na minyũrũ nĩmakũũire kuuma nyũmba-inĩ, kuuma njerũa-inĩ, na kuuma mirĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akanigeria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "nĩmakũũire"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "minyũrũ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "njerũa-inĩ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "mirĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:38.332952377Z",
+  "model": "glm-5.3"
+}

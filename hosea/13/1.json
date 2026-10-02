@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Epraimu rĩrĩa oigaga, kwarĩ gũgetho; we nĩatũũkire mũnene thĩinĩ wa Yiceraeri; no akĩhootwo ni Baari, na akĩtua.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "rĩrĩa oigaga"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Epraimu"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "gũgetho"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nĩatũũkire mũnene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "akĩhootwo"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ni Baari"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akĩtua"
+    }
+  ],
+  "timestamp": "2026-10-02T06:53:21.261432999Z",
+  "model": "glm-5.3"
+}

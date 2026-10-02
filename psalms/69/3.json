@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nĩndĩingire ithangũrũ rĩa thĩ irĩ mĩena mĩnene, na kũrirĩkana gũtirĩ kũnyitaga makũmbĩ; nĩnjĩire mĩena mĩnene ya amathĩ, na kĩhurũkĩro kĩa amathĩ kĩnjũrire.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "nĩndĩingire"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ithangũrũ rĩa thĩ irĩ mĩena mĩnene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "kũnyitaga makũmbĩ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nĩnjĩire"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "mĩena mĩnene ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amathĩ"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "kĩhurũkĩro kĩa amathĩ"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "kĩnjũrire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:13.069604748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Yohua akĩmũrirethia, akĩheana ⟨את⟩ Heburoni Karebu mwana wa Yefune thĩinĩ wa gĩcicio kĩa rũciĩ.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "akĩmũrirethia"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yohua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩheana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heburoni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Heburoni"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Karebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "thĩinĩ wa gĩcicio kĩa rũciĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:24:23.123386990Z",
+  "model": "glm-5.3"
+}

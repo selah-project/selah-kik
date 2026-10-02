@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Yehuda agĩthia; na Yahwe arĩĩra nĩndahete ⟨את⟩ Mũcanani na Mberezĩ magũrũ-inĩ mao; nĩmahĩtie iria Bezeki, andũ ng'iri ikũmi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "agĩthia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "arĩĩra nĩndahete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mũcanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mũcanani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Mberezĩ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "magũrũ-inĩ mao"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "nĩmahĩtie iria"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezeki"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'iri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:55:09.772600067Z",
+  "model": "glm-5.3"
+}

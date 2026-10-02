@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na akĩratha ⟨את⟩ mbao cia Micikani, cĩakĩtwo mũtĩ wa meceneri, cĩigĩrĩire hagaro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩratha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbao cia Micikani"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mbao cia gũtikĩrĩra thĩ, iria ihumbĩtwo na mũtĩ mũrũngĩrĩirie na njĩra njũru na ũtarĩ wa ndwari na maũndũ marĩa maratũũra gĩkundi kĩa mabara ma gĩthimbi kĩa kwaranĩriria mabara ma kĩrĩndĩ na Mwathani ũrĩa wĩ tago-inĩ cia handũ hakĩo andũ maingĩ matigĩrĩire na njĩra njũru"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "cia Micikani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "cĩakĩtwo mũtĩ wa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "meceneri, mũtĩ wa kĩhumo kĩa makundi ma andũ a mwena ũrĩa wa mbere ya kũrũmĩrĩra maũndũ marĩa ma kũrũmĩrĩra nĩ kwaria mũno na ũndũ wa maũndũ moigĩte tago-inĩ makĩrora gĩtarĩ kĩa ũtheri wa andũ a mwena wa mbere"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "cĩigĩrĩire hagaro"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:30.804425670Z",
+  "model": "glm-5.3"
+}

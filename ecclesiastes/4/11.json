@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nao, angĩkorwo arĩa erĩ maiyũre hamwe, macokio nĩmahũthũka; no ũmwe mwĩyũro, atĩa agahũthũka?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "angĩkorwo"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "maiyũre hamwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "arĩa erĩ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "nĩmahũthũka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwayo macokio"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "no ũmwe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "agahũthũka"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:11.131959242Z",
+  "model": "glm-5.3"
+}

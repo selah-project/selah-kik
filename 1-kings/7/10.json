@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na mothingo nĩ mawe ma thamani, mawe manene — mawe ma amah ikũmi, na mawe ma amah inyanya.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "na mothingo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ma thamani"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "manene"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na mawe"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "inyanya"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    }
+  ],
+  "timestamp": "2026-10-01T23:50:10.490061495Z",
+  "model": "glm-5.3"
+}

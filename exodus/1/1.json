@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ici nĩciito cia aana a Yiceraeri arĩa maciire Micirayimu; ⟨את⟩ Yaakobu ndũmĩrĩri yake na nyumba yake nĩciarĩkĩire.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ici"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ciito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "aría maciire"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndũmĩrĩri yake"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "na nyumba yake"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩciarĩkĩire"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:17.945132635Z",
+  "model": "glm-5.3"
+}

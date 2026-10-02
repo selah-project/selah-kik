@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Ũrĩa ũtherereketa igũrũ na mariika, ũrĩa ũrũmagĩrĩra nthĩ mbura, ũrĩa ũmũmesaga mcema thĩinĩ wa milima.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ũrĩa ũtherereketa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "na mariika"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "Ũrĩa ũrũmagĩrĩra"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nthĩ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mbura"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "Ũrĩa ũmũmesaga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "milima"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "mcema"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:00.954269017Z",
+  "model": "glm-5.3"
+}

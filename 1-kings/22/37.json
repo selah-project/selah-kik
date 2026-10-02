@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mwathi akĩua, na akĩcookerwo Comoroni, na makĩikĩra ⟨את⟩ mwathi thĩinĩ wa Comoroni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akĩua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "akĩcookerwo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comoroni"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "makĩikĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Comoroni"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:08.919558971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na rĩ ũguo, kwoguo nĩ Yahwe Cebaoti oigĩte: Ikai ngoro yanyu igĩthĩ mĩhango-inĩ yanyu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩ ũguo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kwoguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ikai"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ngoro yanyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "igĩthĩ"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mĩhango-inĩ yanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:40:16.310860333Z",
+  "model": "glm-5.3"
+}

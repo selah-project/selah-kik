@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 20:4",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩaciane kũrĩ ithũra ĩmwe ya ithũra icio, na aenyere mũrango wa gitĩmi wa itũra ĩyo, na akiuga matũ-inĩ ma andũ akũrũ a itũra ĩyo ⟨את⟩ maũndũ make; nao itũra ĩyo imũcokanĩrie kũrĩ ao, nao mamũhe kũndũ, na aikare hamwe nao.",
+  "tokens": [
+    {
+      "surface": "ונס",
+      "gloss": "Nĩaciane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "ithũra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "icio"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "aenyere"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "שער",
+      "gloss": "wa gitĩmi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa itũra"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "matũ-inĩ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "andũ akũrũ a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "itũra"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maũndũ make"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "maũndũ make"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "imũcokanĩrie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũcio"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "itũra ĩyo"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kũrĩ ao"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mamehe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aikare"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hamwe nao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:51:04.724211040Z",
+  "model": "glm-5.3"
+}

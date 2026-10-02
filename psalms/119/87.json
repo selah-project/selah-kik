@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Hĩndĩ ĩkaagua nĩmathĩnĩirie thĩ; na nĩndĩ, ndĩreyatĩtie amiri-inĩ ciano.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "hĩndĩ ĩkaagua"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "mathĩnĩirie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩndĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ndĩreyatĩtie"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amiri-inĩ ciano"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:13.603918411Z",
+  "model": "glm-5.3"
+}

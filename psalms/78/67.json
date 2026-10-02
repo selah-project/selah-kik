@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Akĩmena kĩamba kĩa Yocefu, na mbarĩ ya Efrayimu ndaathuurire.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "akĩmena"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "na mbarĩ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaa-"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "thuurire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:01.242658541Z",
+  "model": "glm-5.3"
+}

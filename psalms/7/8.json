@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na mũcemanio wa mĩũrĩre ĩthuunjũhie, na igũrũ rĩnginya wayo we ũcooke.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "na mũcemanio"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "wa mĩũrĩre"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ĩthuunjũhie we"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "na rĩnginya wayo"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "we ũcooke"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:37.871406500Z",
+  "model": "glm-5.3"
+}

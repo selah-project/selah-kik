@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Ndũtororie rĩrĩa mũndũ ahotithanio, rĩrĩa ũhoti wa nyũmba yake ũngĩongerewo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ndũ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tororie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ahotithanio"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ngĩongerewo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ũhoti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wa nyũmba yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:13.738640785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na gũthererithia hagati wa kĩtheru na kĩa thĩ, na hagati wa ũthemaru na ⟨the⟩ ũtheru,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "Na gũthererithia"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati wa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kĩtheru"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati wa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kĩa thĩ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati wa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ũthemaru"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati wa"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:08.388305693Z",
+  "model": "glm-5.3"
+}

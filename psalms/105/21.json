@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Nĩmũteire mwathi wa nyũmba yake, na mũthamaki wa kĩgĩrĩgi kĩake gĩothe.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "nĩmũteire"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "wa nyũmba yake"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "na mũthamaki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gĩothe"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "wa kĩgĩrĩgi kĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:51.655756590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Nĩgĩikarire marĩa ngoro yakwa, Erohimu; nĩngũina, na nĩngũinĩra, na o ũtheri wakwa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "nĩgĩikarire marĩa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nĩngũina"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "na nĩngũinĩra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na o"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ũtheri wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:28.515062601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Mũgambo ũrĩ oigĩte: Kaura. Nake akiuga: Nĩkũra atĩa? Nyama yothe nĩ ũrute, na hecedi wayo yothe nĩ ta ciũa cia gĩa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kaura"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩkũra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ũrute"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wayo"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ta ciũa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cia gĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:21.205843582Z",
+  "model": "glm-5.3"
+}

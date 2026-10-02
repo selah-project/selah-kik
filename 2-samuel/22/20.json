@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Akĩndiingĩra kũndũ kwĩ mũkwaro ⟨את⟩; anĩkindũrire, nĩgũkorwo nĩaendete.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Akĩndiingĩra"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "kũndũ kwĩ mũkwaro"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ĩngĩ"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "anĩkindũrire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nĩaendete"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:44:19.452829987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Arĩa maĩtĩkĩra Yahwe, mũhimbĩrĩrie; mbegu ya Yaakobu yothe, mũhonorere; mũthĩne nakĩo, mbegu ya Yiceraeri yothe.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Arĩa maĩtĩkĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mũhimbĩrĩrie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mũhonorere"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "mũthĩne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:16.519674821Z",
+  "model": "glm-5.3"
+}

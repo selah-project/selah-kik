@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Abarahamu mũnĩnĩrwo gũinũra ⟨את⟩ Yicaki mũrũ wake, mũrũ wa mĩthenya ĩnany'a, ta ũrĩa Erohimu mwahotĩte ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "gũinũra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ĩnany'a"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "mwahotĩte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:53.632022555Z",
+  "model": "glm-5.3"
+}

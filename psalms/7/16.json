@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Gĩthimba nĩacucĩrie, nĩagĩthimbaria ng'ima, na nĩagũrĩkĩte mũno thĩinĩ wa ũthũũrĩ wothe eye mwĩonire.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "gĩthimba"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "nĩacucĩrie"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "nĩagĩthimbaria ng'ima"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "nĩagũrĩkĩte mũno"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "thĩinĩ wa ũthũũrĩ wothe"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "eye mwĩonire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:01.640978573Z",
+  "model": "glm-5.3"
+}

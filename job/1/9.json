@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nacio Catani akiaria Yahwe ⟨את⟩, akiuga: Nĩ bure Aciobu arathaga Erohimu?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akiaria"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Catani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "bure"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "arathaga"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Aciobu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T04:04:53.606164073Z",
+  "model": "glm-5.3"
+}

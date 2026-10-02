@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na atũmia othe arĩa maana ngoro nĩmacookire kuunga na moko mao, nao maithũkire marĩa maakuunge: ⟨את⟩ thekereti, na ⟨את⟩ arugamani, ⟨את⟩ tolaathi ya cani, na ⟨את⟩ thũ mwerĩ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "atũmia"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "arĩa maana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "na moko mao"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "nĩmacookire kuunga"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "maithũkire"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "marĩa maakuunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thekereti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "thekereti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arugamani"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "arugamani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolaathi ya cani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaathi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya cani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thũ mwerĩ"
+    },
+    {
+      "surface": "השש",
+      "gloss": "thũ mwerĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:50.098853131Z",
+  "model": "glm-5.3"
+}

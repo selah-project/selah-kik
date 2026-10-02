@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Mwĩrĩa mũkahĩa ⟨את⟩ Yahwe, na mũkagatarĩria ngai cia kũndũ kũngĩ, nĩagĩcooka akĩraha ũru kanyu, na akĩmũtharĩkĩria ⟨את⟩, thutha wa ũrĩa agĩkũheeye wega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mwĩrĩa"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "mũkahĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "na mũkagatarĩria"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ngai cia"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "kũndũ kũngĩ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "nĩagĩcooka"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "akĩraha ũru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanyu"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "akĩmũtharĩkĩria"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kanyu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "agĩkũheeye wega"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:54:39.477537112Z",
+  "model": "glm-5.3"
+}

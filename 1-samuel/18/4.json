@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Yahonatani anyũũrĩte ⟨את⟩ kĩng'eti kĩrĩa kĩarĩ igũrũ rĩake, nĩkahĩhe Dawidi, na nguo ciake, o nginya mcĩari wake, o nginya ũta wake, na o nginya mũgathe wake.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "anyũũrĩte"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yahonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩng'eti"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kĩng'eti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kĩarĩ igũrũ rĩake"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "nĩkahĩhe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "na nguo ciake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "o nginya"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mcĩari wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "o nginya"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ũta wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na o nginya"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "mũgathe wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:21:27.011284366Z",
+  "model": "glm-5.3"
+}

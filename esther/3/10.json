@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mwathi agĩimũra ⟨את⟩ rigita rĩake kuuma moko make, na agĩkĩhe Hamani, mũrũ wa Medata, Mwagagi, mũcenetee wa Ayahudi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "agĩimũra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigita rĩake"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "rigita rĩake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "agĩkĩhe"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "wa Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Mwagagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "mũcenetee"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wa Ayahudi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:45:17.373697059Z",
+  "model": "glm-5.3"
+}

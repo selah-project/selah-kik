@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Na Yahwe aatuĩte kĩamba kĩa kũhĩa kwakwa, na Erohimu wakwa cinga ya kũcamwo kwakwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na aatuĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kĩamba kĩa kũhĩa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Erohimu wakwa"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "cinga"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ya kũcamwo kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:17.814372982Z",
+  "model": "glm-5.3"
+}

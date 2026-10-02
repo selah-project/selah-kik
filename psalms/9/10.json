@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yahwe agĩtuĩka mũhĩthĩrio wa arĩa maarũru, mũhĩthĩrio wa mahinda ma gĩthing'arũro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "agĩtuĩka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mũhĩthĩrio"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "wa arĩa maarũru"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mũhĩthĩrio"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "wa mahinda"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ma gĩthing'arũro"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:52.715705188Z",
+  "model": "glm-5.3"
+}

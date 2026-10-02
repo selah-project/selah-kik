@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Nĩndĩmateria mĩthero kuuma kambere, na kuuma mbere ũrĩa utagĩtwo; ndĩuga atĩrĩ: Magĩro makwa nĩgĩkarĩrĩka, na o wothe ũrĩa nĩngenda nĩngĩĩka.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "nĩndĩmateria"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "kuuma kambere"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mĩthero"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "na kuuma mbere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "utagĩtwo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndĩuga"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "magĩro makwa"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "nĩgĩkarĩrĩka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ũrĩa nĩngenda"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nĩngĩĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:48:06.686028054Z",
+  "model": "glm-5.3"
+}

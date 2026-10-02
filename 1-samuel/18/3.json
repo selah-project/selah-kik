@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Yahonatani na Dawidi made kĩrĩkanĩro, tonde Yahonatani aendete ⟨את⟩ Dawidi ta mũoyo wake mwene.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "made"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yahonatani"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dawidi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "tonde aendete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "ta mũoyo wake mwene"
+    }
+  ],
+  "timestamp": "2026-10-01T23:21:27.011105767Z",
+  "model": "glm-5.3"
+}

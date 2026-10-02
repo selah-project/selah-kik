@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Nĩgũkorwo hecedi yaku nĩ megaha kũgera mĩoyo; mata makwa makũgooca.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ megaha"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi yaku"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "kũgera mĩoyo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mata makwa"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "makũgooca"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:24.092752124Z",
+  "model": "glm-5.3"
+}

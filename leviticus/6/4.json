@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩamũkore ⟨את⟩ ndwati make, na aembete ndwati ingĩ, namo athiĩte na ⟨את⟩ iria ikĩra nja wa kĩambĩrĩria, kũndũ kũtheru.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Nĩamũkore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndwati make"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ndwati make"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "aembete"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ndwati ingĩ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "athiĩte na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iria"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "iria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikĩra"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nja wa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kĩambĩrĩria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "kũtheru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:32:40.940983213Z",
+  "model": "glm-5.3"
+}

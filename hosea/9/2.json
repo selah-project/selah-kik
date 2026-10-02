@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Gũcunja kwa mbembe na kĩgũri kĩa njohi ndĩkĩagĩrĩirwo kũhea ⟨⟨ao⟩⟩; na njohi njerũ nĩ ĩgĩkuũgwo kuo.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "gũcunja kwa mbembe"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "kĩgũri kĩa njohi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "kũhea ao"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "njohi njerũ"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "ĩgĩkuũgwo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:20:57.753659584Z",
+  "model": "glm-5.3"
+}

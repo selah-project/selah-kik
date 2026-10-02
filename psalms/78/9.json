@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Aana a Eparayimu, arĩa mamarũnia uta, mathiĩ nakĩo thutha harĩ mũthenya wa kĩhooti.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Eparayimu"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "mamarũnia"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "mamarũnia"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "mathiĩ nakĩo thutha"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "harĩ mũthenya wa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kĩhooti"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:53.549452960Z",
+  "model": "glm-5.3"
+}

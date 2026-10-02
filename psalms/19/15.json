@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ciugo cia kanua wanjũ na kũciri kwa ngoro yanjũ makorwo mahĩtagwo itanya-inĩ wakwa, Yahwe, rũrũngi rwanjũ na mũcokia wanjũ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "makorwo"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "mahĩtagwo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua wanjũ"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "na kũciri"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kwa ngoro yanjũ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "itanya-inĩ wakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "rũrũngi rwanjũ"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "na mũcokia wanjũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:38.141608473Z",
+  "model": "glm-5.3"
+}

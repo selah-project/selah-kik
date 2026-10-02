@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ici nĩrĩĩtwa ria andũ arĩa magũtikara me andĩte hamwe na ⟨את⟩ inywe: wa Ruuveni, Ericuri mwana wa Cedeyori.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ici"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "rĩĩtwa ria"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "magũtikara me andĩte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "wa Ruuveni"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Ericuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Cedeyori"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:48.529572508Z",
+  "model": "glm-5.3"
+}

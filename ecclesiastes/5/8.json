@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na marũa ma thĩ nĩ kwa andũ othe; no mũthamaki nao nĩ gĩanda kĩamũteithĩtie kũgĩa na maũndũ.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "na marũa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kwa andũ othe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨nĩ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "nĩ gĩanda"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "kĩahũthĩkĩte na kũteithia"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:57.377158700Z",
+  "model": "glm-5.3"
+}

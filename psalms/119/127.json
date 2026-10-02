@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩ ũndũ ũcio nĩrendete mwathiro waku kũrigeria ndahabu, na kũrigeria thahabu mũtheru.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nĩrendete"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mwathiro waku"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kũrigeria ndahabu"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "na kũrigeria thahabu mũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:39.551711385Z",
+  "model": "glm-5.3"
+}

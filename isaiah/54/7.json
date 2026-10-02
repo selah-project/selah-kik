@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Kĩnderu gĩa mũhĩndũ nĩngũkũreyie, na na maya manene nĩngũkuunga.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "kĩnderu"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "gĩa mũhĩndũ"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "nĩngũkũreyie"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "na maya"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "manene"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "nĩngũkuunga"
+    }
+  ],
+  "timestamp": "2026-10-02T00:51:15.848928229Z",
+  "model": "glm-5.3"
+}

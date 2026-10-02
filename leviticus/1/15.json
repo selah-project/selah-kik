@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mũthahũria atũmire kĩayo harĩ eembete, atherere ⟨את⟩ gĩtwe kĩayo, anĩnĩthie harĩ eembete, na thakame yayo ĩcethere gĩikũrũ-inĩ kĩa eembete.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "atũmire kĩayo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthahũria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "eembete"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "atherere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩtwe kĩayo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "gĩtwe kĩayo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "anĩnĩthie"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "harĩ eembete"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ĩcethere"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "thakame yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gĩikũrũ-inĩ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "eembete"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:14.210453529Z",
+  "model": "glm-5.3"
+}

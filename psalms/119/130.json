@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kwaruhurio kwa ciugo cĩaku kũreka kĩtheri, nĩ kũhe andũ arĩa me mbũgĩ nyinyi ũmenyi.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "kwaruhurio"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ciugo cĩaku"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "kũreka kĩtheri"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "kũhe ũmenyi"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "andũ arĩa me mbũgĩ nyinyi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:41.195409653Z",
+  "model": "glm-5.3"
+}

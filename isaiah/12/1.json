@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na ũkoiga mũthenya ũcio: Nĩngakũrũgũmia, Yahwe, nĩgũkorwa wĩnĩng'ang'anie nĩ ngwĩ; gũkũinĩ gwaku nĩguo kũcookerire, na ũnĩtherie.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na ũkoiga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nĩngakũrũgũmia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wĩnĩng'ang'anie"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nĩ ngwĩ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kũcookerire"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gũkũinĩ gwaku"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "na ũnĩtherie"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:58.050266695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩngũthayo ⟨את⟩ Yahwe hĩndĩ ciothe; wĩhoke wake nĩũikaraga mũno kanũa-inĩ gwakwa.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Nĩngũthayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "wĩhoke wake"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "kanũa-inĩ gwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:32.527991357Z",
+  "model": "glm-5.3"
+}

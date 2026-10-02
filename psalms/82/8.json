@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 82,
+  "translation": "Rĩgamũ, Erohimu, ũtaire ciira ⟨thĩ⟩; nĩgũkorũo nĩwĩ macokia thĩinĩ wa mĩrĩ yothe.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rĩgamũ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ũtaire ciira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwĩ"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "macokia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mĩrĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:33.715498783Z",
+  "model": "glm-5.3"
+}

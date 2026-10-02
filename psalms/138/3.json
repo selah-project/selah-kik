@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 138,
+  "translation": "Mũthenya ũrĩa nĩndĩetekũria, nĩwe ũĩcookerire; nĩũnyitithirie hinya mwoyo-inĩ wakwa — hinya.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nĩndĩetekũria"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "nĩwe ũĩcookerire"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "nĩũnyitithirie"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "mwoyo-inĩ wakwa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:37.303985798Z",
+  "model": "glm-5.3"
+}

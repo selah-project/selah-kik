@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Ti ũyu ũrĩa mwathi wakwa anyua, na nakĩo aroraga ũrĩ? Mwĩkĩte ũru mũno ICI mwĩka.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "anyua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani yakĩo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na nakĩo"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "aroraga"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "kũrora"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yakĩo"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "mwĩkĩte ũru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ICI"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "mwĩka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:09.886253256Z",
+  "model": "glm-5.3"
+}

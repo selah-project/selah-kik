@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Makĩra ũcokia moko waku, na macro waku? Kuuma thĩinĩ wa mbeko yaku hĩthĩra, na gũkĩra.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Makĩra"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ũcokia"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "moko waku"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "na macro waku"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "Kuuma thĩinĩ wa"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "mbeko yaku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gũkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:02.495839146Z",
+  "model": "glm-5.3"
+}

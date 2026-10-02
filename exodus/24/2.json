@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na Moce mũmwe tu nĩagacĩkĩra kũrs Yahwe; nao me matiinyĩtaga kũrs, na andũ matiingĩraga hamwe naye.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "nĩagacĩkĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "mũmwe tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nao me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matiinyĩtaga"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "kũrs"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matiingĩraga"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kũinĩra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe naye"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:04.875476797Z",
+  "model": "glm-5.3"
+}

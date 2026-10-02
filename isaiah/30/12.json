@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 30:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩ ũndũ ũcio, Mũtheru wa Yiceraeri oigĩte atĩrĩ: Tondũ mũkenete kiugo gĩkũ, na mũĩhokĩte kũnyitamũnia-inĩ na kũnyuarũka, na mwĩrigĩtĩirie kũrĩ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "כה",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mũtheru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Tondũ"
+    },
+    {
+      "surface": "מאסכם",
+      "gloss": "mũkenete"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kiugo-inĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkũ"
+    },
+    {
+      "surface": "ותבטחו",
+      "gloss": "na mũĩhokĩte"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "kũnyitamũnia-inĩ"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "na kũnyuarũka"
+    },
+    {
+      "surface": "ותשענו",
+      "gloss": "na mwĩrigĩtĩirie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kũrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:38:44.803689016Z",
+  "model": "glm-5.3"
+}

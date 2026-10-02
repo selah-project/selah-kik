@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Na ũndũ ũcio nĩũkuanyĩtwo kũrĩ we cedeki, rĩika na rĩika, tene na tene.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "nĩũkuanyĩtwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "rĩika"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na rĩika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tene"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:17.450714068Z",
+  "model": "glm-5.3"
+}

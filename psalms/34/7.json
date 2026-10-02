@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Mũkenuru ũyũ akĩgera, Yahwe akĩmũthekeria, akĩmũhonya mĩharo yake yothe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkenuru"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akĩgera"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akĩmũthekeria"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mĩharo yothe"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ya kũnyamarara kwake"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "akĩmũhonya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:11.425065395Z",
+  "model": "glm-5.3"
+}

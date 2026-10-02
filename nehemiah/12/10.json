@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Yecua nĩamũrire ⟨את⟩ Yoyakimu; na Yoyakimu nĩamũrire ⟨את⟩ Elyacibu; na Elyacibu ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Na Yecua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakimu"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakimu"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "na Yoyakimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyacibu"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyacibu"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "na Elyacibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-10-02T05:17:48.265385972Z",
+  "model": "glm-5.3"
+}

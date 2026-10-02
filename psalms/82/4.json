@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 82,
+  "translation": "Mũhonokie mũkenũni na mũhoombete; mũmamũre moko-inĩ ma arĩa memenete.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Mũhonokie"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mũkenũni"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũhoombete"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ma arĩa memenete"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "mũmamũre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:27.004642078Z",
+  "model": "glm-5.3"
+}

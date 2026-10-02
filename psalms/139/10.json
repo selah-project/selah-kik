@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "o kuo hau guoko gwaku kũnjunjagĩra, na ũrĩo-io gwaku kũnyitagĩrĩra.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo hau"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "guoko gwaku"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "kũnjunjagĩra"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "kũnyitagĩrĩra"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ũrĩo-io gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:32.829707267Z",
+  "model": "glm-5.3"
+}

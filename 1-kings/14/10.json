@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 14:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩ ũndũ ũcio, ona, nĩngĩhĩtia mũru thĩinĩ wa nyũmba ya Yeroboamu, na nĩngĩcambĩria kwa Yeroboamu o mũndũ ũrĩa ũrĩta kĩgiri, acĩrĩtwo na ekiĩtwo, thĩinĩ wa Yiceraeri; na nĩngĩthakarũra thutha ya nyũmba ya Yeroboamu ta ũrĩa ũthakarũra thũci, nginya gũkĩna o yose.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nĩngĩhĩtia"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mũru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboamu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na nĩngĩcambĩria"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kwa Yeroboamu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "o mũndũ ũrĩa ũrĩta"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "kĩgiri"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "acĩrĩtwo"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "na ekiĩtwo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "na nĩngĩthakarũra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboamu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ũthakarũra"
+    },
+    {
+      "surface": "הגלל",
+      "gloss": "thũci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "gũkĩna o yose"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:03.660600540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "arĩa maugĩte: Nĩtũikarange na ⟨את⟩ mĩrĩwa ya Erohimu tũyothe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "maugĩte"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Nĩtũikarange"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tũyothe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩrĩwa ya Erohimu"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mĩrĩwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:03.997644904Z",
+  "model": "glm-5.3"
+}

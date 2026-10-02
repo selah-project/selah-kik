@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Marehere nĩ ihooti ciaao arĩa moigi atĩ makwa: Eehe, eehe.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "marehere"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ihooti ciaao"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "arĩa moigi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "atĩ makwa"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Eehe"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Eehe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:43.935213753Z",
+  "model": "glm-5.3"
+}

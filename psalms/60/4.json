@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Nĩũgoorie thĩ, nĩũĩcenjeetie; oira maciegeo make, nĩgũkorwo nĩgoiyagĩrĩirie.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "nĩũgoorie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "nĩũĩcenjeetie"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "oira"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "maciegeo make"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "nĩgoiyagĩrĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:45.819836035Z",
+  "model": "glm-5.3"
+}

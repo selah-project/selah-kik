@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Yahwe nĩokore ũcio ⟨את⟩ rũrĩmĩ rwa iria ria Micirayimu, na nĩokongereera guoko wake igũrũ rĩũa-inĩ, na hinya wa ruaki wake; na nĩokĩmũũkĩria ciana inya mũgwanja, na nĩokorithia andũ kũiyũra na cigaita.",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "nĩokore ũcio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rũrĩmĩ rwa iria ria Micirayimu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rũrĩmĩ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ria iria"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ria Micirayimu"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "nĩokongereera"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "guoko wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rĩũa-inĩ"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "na hinya wa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaki wake"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "nĩokĩmũũkĩria"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ciana inya"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "nĩokorithia andũ kũiyũra"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "na cigaita"
+    }
+  ],
+  "timestamp": "2026-10-02T00:30:49.988776054Z",
+  "model": "glm-5.3"
+}

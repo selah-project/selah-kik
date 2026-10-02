@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nĩakĩuga arĩ: Nĩmũmena ⟨את⟩ Ribani, mũrũ wa Nahoru? Nakuo makĩuga: Nĩtũmena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩakĩuga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "nĩmũmena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ribani"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ribani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahoru"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "nĩtũmena"
+    }
+  ],
+  "timestamp": "2026-10-01T20:44:31.897387313Z",
+  "model": "glm-5.3"
+}

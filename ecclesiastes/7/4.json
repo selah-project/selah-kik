@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ngoro ya arĩa maũũgĩ ĩrĩ nyũmba-inĩ ya kũrira, na ngoro ya asĩni ĩrĩ nyũmba-inĩ ya gũkena.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ya arĩa maũũgĩ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ya kũrira"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na ngoro"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ya asĩni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ya gũkena"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:07.017817455Z",
+  "model": "glm-5.3"
+}

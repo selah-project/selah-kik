@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na andũ airũ magĩikara kũrĩ haahĩ, na Moce agĩtherera mbaara-inĩ iria ndandũ, harĩa Erohimu arĩ kũu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "na agĩikara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ airũ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kũrĩ haahĩ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Moce"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "agĩtherera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "mbaara iria ndandũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "arĩ kũu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:05.092836004Z",
+  "model": "glm-5.3"
+}

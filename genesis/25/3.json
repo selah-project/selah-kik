@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na Yakicani nĩabari ⟨את⟩ Cabia na ⟨את⟩ Dedani; na aana a Dedani maaĩ Acurimu, na Retũcimi, na Reumi.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Na Yakicani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩabari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabia"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cabia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Acurimu"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Retũcimi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Reumi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:04.809113121Z",
+  "model": "glm-5.3"
+}

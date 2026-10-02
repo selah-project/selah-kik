@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Na nĩaona atĩ kũhũrũka nĩ kwega, na ⟨את⟩ thĩ nĩ ya kũigua wega; na akĩgũcũra mũgongo wake gucunjurũka, na akĩtuĩka thigoko, mũciarĩ wa wĩra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Na nĩaona"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kũhũrũka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kwega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "nĩ ya kũigua wega"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "na akĩgũcũra"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "mũgongo wake"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "gucunjurũka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na akĩtuĩka"
+    },
+    {
+      "surface": "למס",
+      "gloss": "thigoko"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũciarĩ wa wĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:54.841722745Z",
+  "model": "glm-5.3"
+}

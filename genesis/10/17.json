@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Hahivi, na ⟨את⟩ Haariki, na ⟨את⟩ Hasini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hahivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hahivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haariki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Haariki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hasini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Hasini"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:56.149083016Z",
+  "model": "glm-5.3"
+}

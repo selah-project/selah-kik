@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 39:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Mwathi wa nyũmba ya cehari ndaonaga kĩndũ kĩna gĩkĩ moko-inĩ wake, nĩgũkorwa Yahwe aarĩ ⟨את⟩ hamwe nake; na kĩndũ gĩa akĩgĩra wĩra, Yahwe akĩgĩthĩnja kũrĩhia.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kĩna gĩtirĩ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "cehari"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndaonaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ kĩna gĩkĩ othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kĩndũ kĩna gĩkĩ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko-inĩ wake"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake",
+      "marks": "Yahwe hamwe na Yocefu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na kĩndũ gĩa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akĩgĩra wĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "akĩgĩthĩnja kũrĩhia"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:13.061543164Z",
+  "model": "glm-5.3"
+}

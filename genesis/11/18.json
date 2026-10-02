@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩgetha Ferigi akĩtũara mĩaka mĩrongo ĩtatũ, nĩamũciara ⟨את⟩ Reu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akĩtũara"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Ferigi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nĩamũciara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:20.367564711Z",
+  "model": "glm-5.3"
+}

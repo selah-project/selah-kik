@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Nĩngĩmenyerera hwaro wa mũtheru; rĩrĩa ũgũkũya harĩ nakwa? Nĩngĩtambũika mũthingu-inĩ wa ngoro yakwa, thĩinĩ wa nyũmba yakwa.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "nĩngĩmenyerera"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "hwaro-inĩ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wa mũtheru"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ũgũkũya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "harĩ nakwa"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "nĩngĩtambũika"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "mũthingu-inĩ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "wa ngoro yakwa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wa nyũmba yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:49.083128817Z",
+  "model": "glm-5.3"
+}

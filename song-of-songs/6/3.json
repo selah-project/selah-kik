@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ĩ nĩ wa mwendwa wakwa, na mwendwa wakwa nĩ wakwa, ũrĩa ũhunjagira macaa-inĩ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ĩ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "wa mwendwa wakwa"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "na mwendwa wakwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩ wakwa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ũrĩa ũhunjagira"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "macaa-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:04:53.073631009Z",
+  "model": "glm-5.3"
+}

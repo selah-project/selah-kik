@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Ĩgũrũkana na ũru, ũgate kĩndũ kĩega; ũrore thayũ, ũgacĩtigĩra.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ĩgũrũkana"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ũgate"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩndũ kĩega"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ũrore"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ũgacĩtigĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:37.180020833Z",
+  "model": "glm-5.3"
+}

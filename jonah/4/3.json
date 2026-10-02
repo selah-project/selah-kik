@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na rĩrĩ, Yahwe, hĩtĩra nda ⟨את⟩ mũhũmũ wakwa kuuma thĩinĩ wakwa; nĩ kwega kũrwa kwakwa gũkĩra kũrũhiria kwakwa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "hĩtĩra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũhũmũ wakwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũhũmũ wakwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuuma thĩinĩ wakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kwega"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "kũrwa kwakwa"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kũrũhiria kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:32:04.776489209Z",
+  "model": "glm-5.3"
+}

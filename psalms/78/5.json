@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩagĩĩrire kĩhooto thĩinĩ wa Yaakobu, na akĩika Tora thĩinĩ wa Yiceraeri, ĩrĩa aahĩtire ⟨את⟩ asee witũ, nĩgeetha magĩe na kũkuũkĩrĩria ciana ciao.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Nĩagĩĩrire"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "thĩinĩ wa Yaakobu"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "na Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akĩika"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aahĩtire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asee witũ"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "asee witũ"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "kũkuũkĩrĩria"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ciana ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:27.157382660Z",
+  "model": "glm-5.3"
+}

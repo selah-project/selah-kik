@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Mori na aharothi, keciyothi — nguo cako ciothe; kuuma mahikari ma ciũma, minĩ ciakũrire kũgena.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mori"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "na aharothi"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "keciyothi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "nguo cako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "mahikari"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ciũma"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minĩ"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "ciakũrire kũgena"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:00.353953712Z",
+  "model": "glm-5.3"
+}

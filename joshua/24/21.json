@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na andũ makĩugira kũrĩ Yehocua: Nda, ndũrĩ ũguo; Yahwe nĩtũkahotora ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "makĩugira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndũrĩ ũguo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "nĩtũkahotora"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:49.388334377Z",
+  "model": "glm-5.3"
+}

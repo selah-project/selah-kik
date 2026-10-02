@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ngamba gĩcũhio kĩu kĩtagũtwo kĩrĩ moko make kĩrĩ mũoyo — kuma ng'ombe, ng'ang'ũ, na ng'eshũ — igĩrĩ nĩagĩcokerera.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ngamba"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "kĩtuĩtwo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kĩtagũtwo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "gĩcũhio kĩu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ng'ang'ũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ng'eshũ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kĩrĩ mũoyo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nĩagĩcokerera"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:23.643423527Z",
+  "model": "glm-5.3"
+}

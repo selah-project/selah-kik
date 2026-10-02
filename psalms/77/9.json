@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Hecedi wake nĩwĩheanĩkĩtie itangĩrĩkia? Kiugo gĩake gĩthiũ kiuma mĩrĩongo kinya mĩrĩongo?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "nĩwĩheanĩkĩtie"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "itangĩrĩkia"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "gĩthiũ kiuma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kiugo gĩake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuma mĩrĩongo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kinya mĩrĩongo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:24.838923932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ gĩthingo kĩmwe kĩrĩa kĩmetwo kĩng'ania, na ⟨את⟩ ng'ombe ikũmi na ĩgeri kuu nthĩro wa gĩthingo kĩu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "gĩthingo kĩmwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gĩthingo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kĩmwe kĩrĩa kĩmetwo kĩng'ania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe ikũmi na ĩgeri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ĩgeri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kuu nthĩro wa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gĩthingo kĩu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:49:50.375785572Z",
+  "model": "glm-5.3"
+}

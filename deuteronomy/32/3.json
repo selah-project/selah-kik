@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩgũkorwo rĩĩtwa rĩa Yahwe nĩngĩhoya; nĩmũhe kĩe gĩa Erohimu wĩtu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩngĩhoya"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nĩmũhe"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "kĩe"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Erohimu wĩtu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:37:19.421182373Z",
+  "model": "glm-5.3"
+}

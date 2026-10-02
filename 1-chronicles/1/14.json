@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ a-Yebuci, na ⟨את⟩ a-Amori, na ⟨את⟩ a-Girgaci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "a-Yebuci"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "a-Yebuci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "a-Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a-Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "a-Girgaci"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "a-Girgaci"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:26.084018304Z",
+  "model": "glm-5.3"
+}

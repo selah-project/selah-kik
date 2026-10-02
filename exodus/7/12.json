@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩmagĩciniikithia mũndũ mũrĩ ũmwe mũthiingo wake, magĩtuĩka njamba cia nene; mũthiingo wa Aharoni nĩwarĩme ⟨את⟩ mĩthiingo yao.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "nĩmagĩciniikithia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ mũrĩ ũmwe"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "mũthiingo wake"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "magĩtuĩka"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "njamba cia nene"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "nĩwarĩme"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũthiingo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthiingo yao"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "mĩthiingo yao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:16.629627403Z",
+  "model": "glm-5.3"
+}

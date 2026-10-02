@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mwathi wa Baberuni akĩruta ⟨אתם⟩, akĩheania Ribirahi, thĩinĩ wa thĩ ya Hamati; na Yuda nĩiguukĩtwo kuuma thĩ yake.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akĩruta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "andũ acio aarĩ mĩgũnda-inĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baberuni"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "akĩheania"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Ribirahi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa thĩ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ya Hamati"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "nĩiguukĩtwo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "thĩ yake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:35:20.424629257Z",
+  "model": "glm-5.3"
+}

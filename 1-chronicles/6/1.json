@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Aana a Revi: Gerecomi, Kehati, na Merari.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revi"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerecomi"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "na Merari"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:26.646370630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Erohimu anyĩte ⟨את⟩ indo ciothe aria aekĩte, na rarĩa — nĩ kĩega mũno. Nĩkĩyũkĩte ũthiũ, nĩkĩyũkĩte ũciĩrũ — mũthenya wa gatandatũ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anyĩte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aekĩte"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rarĩa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkĩyũkĩte"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ũthiũ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkĩyũkĩte"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ũciĩrũ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wa gatandatũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:16.977534037Z",
+  "model": "glm-5.3"
+}

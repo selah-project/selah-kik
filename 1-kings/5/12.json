@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Aarĩrĩranaga thimo 3,000, na nyimbo ciake ciarĩ 1,005.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "aarĩrĩranaga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "3,000"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "3,000"
+    },
+    {
+      "surface": "משל",
+      "gloss": "thimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyimbo ciake"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "1,005"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "1,005"
+    }
+  ],
+  "timestamp": "2026-10-01T23:49:56.576918516Z",
+  "model": "glm-5.3"
+}

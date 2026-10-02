@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na thĩinĩ wa Kerubi nĩonekire mũhianĩre wa mkono wa mũndũ, thĩiniĩ wa mĩrĩĩthe yao.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nĩonekire"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "thĩinĩ wa Kerubi"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mũhianĩre"
+    },
+    {
+      "surface": "יד",
+      "gloss": "wa mkono"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩiniĩ wa"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "mĩrĩĩthe yao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:46:04.810834131Z",
+  "model": "glm-5.3"
+}

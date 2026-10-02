@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na Abecaromi na andũ o the, andũ a Yiceraeri, maingĩra Yerucarayimu; na Akitoperi aarĩ ⟨אתו⟩ hamwe nake.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "na Abecaromi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o the"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "באו",
+      "gloss": "maingĩra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "na Akitoperi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ (hamwe nake)",
+      "marks": "Akitoperi arĩa ũmũrũmagĩrĩra Abecaromi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:38:08.281888365Z",
+  "model": "glm-5.3"
+}

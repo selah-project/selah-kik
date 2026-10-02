@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Magĩheana mbere ⟨את⟩ ndũume cia mbũri cia ihia mbere ya mũthamaki na mũthingi, magĩthinga maoko mao igũrũ wacio.",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "magĩheana mbere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũume cia mbũri"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ndũume cia mbũri"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "cia ihia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "na mũthingi"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "magĩthinga"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko mao"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ wacio"
+    }
+  ],
+  "timestamp": "2026-10-02T06:00:34.872696613Z",
+  "model": "glm-5.3"
+}

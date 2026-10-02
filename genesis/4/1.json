@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mũndũ akamenya ⟨את⟩ Hava mũka wake; akĩnyita mũndũmũrũ, akamũciaraga ⟨את⟩ Kaini, akiuga: Nĩngwatĩire mũndũ ⟨את⟩ na Yahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Mũndũ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũka wake"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akĩnyita mũndũmũrũ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akamũciaraga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaini"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaini"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "nĩngwatĩire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:54.852157055Z",
+  "model": "glm-5.3"
+}

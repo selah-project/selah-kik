@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "We ũgũcana ũmũthenya ũyũ ⟨את⟩ macira ya Mobu, ⟨את⟩ Ari.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gũcana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthenya ũyũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macira ya Mobu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "macira"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ari"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ari"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:13.426224309Z",
+  "model": "glm-5.3"
+}

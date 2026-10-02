@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na aandĩka ciarũa-inĩ ũguo: Mũtithe Uria ⟨את⟩ ginya mbere ya mbarari ĩrĩa nene ĩhĩtũkĩte, na mũcooke thutha wake, agatũũwo na akua.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "aandĩka"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ciarũa-inĩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kĩuga"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "mũtithe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "thĩinĩ wa mbarari ĩrĩa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "mbarari"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ĩrĩa nene ĩhĩtũkĩte"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "na mũcooke"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "agatũũwo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na akua"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:39.222803486Z",
+  "model": "glm-5.3"
+}

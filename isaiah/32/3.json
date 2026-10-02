@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na meso arĩa maonaga matigakũrĩa mbere ya kũrora, na matũ arĩa mahũthagĩrĩigua mahũthagĩrĩikaga na kũiguahoota.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ... tigakũ"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "kũrĩa mbere ya kũrora"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meso"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "aría maonaga"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "na matũ"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "aría mahũthagĩrĩigua mahũthagĩrĩikaga"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "na kũiguahoota"
+    }
+  ],
+  "timestamp": "2026-10-02T00:37:43.402405512Z",
+  "model": "glm-5.3"
+}

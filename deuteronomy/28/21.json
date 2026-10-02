@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Yahwe nĩakũnyitanĩrĩa nawe ⟨את⟩ mũrimũ wa mbũra, nginya akuhĩrithia kuuma thĩ-inĩ ũrĩa nĩũiyũraga kũrĩrwo.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "nĩakũnyitanĩrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrimũ wa mbũra"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mũrimũ wa mbũra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "akuhĩrithia"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ we"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma thĩinĩ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ũiyũra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "kũrĩrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:22:31.456597428Z",
+  "model": "glm-5.3"
+}

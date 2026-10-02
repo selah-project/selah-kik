@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na cia andũ a Aharoni nĩ ciigana cĩao: andũ a Aharoni nĩmo Nadabu, na Abihuha, Erehazari, na Ithamari.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Na cia andũ a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ciigana cĩao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Abihuha"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erehazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Ithamari"
+    }
+  ],
+  "timestamp": "2026-10-02T05:34:42.396408669Z",
+  "model": "glm-5.3"
+}

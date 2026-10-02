@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Namĩrĩngĩte ⟨את⟩ yĩ igũrũ rĩa ng'ongori, nakĩhĩtigwo Yerucarayimu-inĩ hamwe na aakwa wake, muoroinĩ wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "nĩmĩrĩngĩte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yĩ (Amaciyahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ng'ongori"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nakĩhĩtigwo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aakwa wake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muoroinĩ wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:15:15.018207695Z",
+  "model": "glm-5.3"
+}

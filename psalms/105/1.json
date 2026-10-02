@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Itĩngĩrĩri Yahwe, mũithĩrie Rĩĩtwa-inĩ rwake, mũmenyithie ndũrĩrĩ-inĩ mwahote wake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "itĩngĩrĩri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "mũithĩrie"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "Rĩĩtwa-inĩ rwake"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "mũmenyithie"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ndũrĩrĩ-inĩ"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mwahote wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:38.990417563Z",
+  "model": "glm-5.3"
+}

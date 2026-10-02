@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Ngoro yake nĩ ⟨ĩ⟩cememwo, ndangĩatinya, kinya aone ⟨kũhingia⟩ thũ ciake.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "ĩcememwo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "atinya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aone"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "thũ ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:42.121601864Z",
+  "model": "glm-5.3"
+}

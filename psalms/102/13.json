@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Na we, Yahwe, ũikaraga kuma mbere na kuma thutha, na ũkugwo waku ũgĩkorerwo metha na metha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuma mbere na kuma thutha"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ũikaraga"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "na ũkugwo waku"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "metha"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na metha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:03.042767087Z",
+  "model": "glm-5.3"
+}

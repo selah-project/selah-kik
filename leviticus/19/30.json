@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "⟨את⟩ Cabati cianĩ ciĩhoringe, na Micikani wakwa mũkeneree; nĩĩwe Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabati cianĩ"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Cabati cianĩ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ciĩhoringe"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "na Micikani wakwa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mũkeneree"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:23.774441881Z",
+  "model": "glm-5.3"
+}

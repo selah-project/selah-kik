@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Nĩgũkorwo rora, athamaki nĩmakoranyoitie, nĩmagiĩ hamwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rora"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "nĩmakoranyoitie"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nĩmagiĩ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:40.000356448Z",
+  "model": "glm-5.3"
+}

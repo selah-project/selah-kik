@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Arĩa maombokire tũngĩ icio mahota kũũ ta cio; na o wothe ũrĩa wĩtikĩtie cio, mahota kũũ ta cio.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ta cio"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahota kũũ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "arĩa maombokire icio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "wĩtikĩtie"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tũngĩ icio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:15.332608565Z",
+  "model": "glm-5.3"
+}

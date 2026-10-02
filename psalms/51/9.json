@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ũthagĩcithia kwa ecovu nĩngĩtherioka; ũkaracĩe, nĩngĩthererũka kũrĩa thĩarĩ.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ũthagĩcithia"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "kwa ecovu"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "nĩngĩtherioka"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "ũkaracĩe"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "kũrĩa thĩarĩ"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "nĩngĩthererũka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:49.349437562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Akairũmbũiya ⟨את⟩ gĩikaro kĩa thutha harĩ nyũmba yothe, kĩrĩa kĩna ama ithano kĩgĩrĩ kĩayo; na kĩnyitanĩirie nyũmba na mĩtĩ ya aarazi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akairũmbũiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩikaro kĩa thutha"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "gĩikaro kĩa thutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "kĩgĩrĩ kĩayo"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "kĩnyitanĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "na mĩtĩ ya"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "aarazi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:50:05.243520415Z",
+  "model": "glm-5.3"
+}

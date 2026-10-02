@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Rĩĩtwa ria rwĩ rwa mbere nĩ Piconi; nĩrũo rũrahũkĩtie ⟨את⟩ bũrũri wothe wa Havira, harĩa ndahabu ĩrĩ.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rwa mbere"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Piconi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩrũo"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "rũrahũkĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bũrũri wothe wa Havira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bũrũri"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "harĩa ĩrĩ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndahabu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:24.686469421Z",
+  "model": "glm-5.3"
+}

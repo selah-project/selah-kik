@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na mũthingũra harĩ ndũrĩrĩ, na thĩ ya athũ cinu nĩĩraya ⟨את⟩ inyuũ.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "mũthingũra"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "harĩ ndũrĩrĩ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "nĩĩraya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyuũ",
+      "marks": "inyuũ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ya athũ cinu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:21.250514860Z",
+  "model": "glm-5.3"
+}

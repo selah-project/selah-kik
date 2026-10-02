@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na ⟨את⟩ migunda yao yothe ĩrĩa maatũũraga, na ⟨את⟩ kĩringiti kiao ciothe, mathũũrire na mũaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migunda yao yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "migunda yao"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "ĩrĩa maatũũraga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩringiti kiao ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kĩringiti kiao"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "mathũũrire"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũaki"
+    }
+  ],
+  "timestamp": "2026-10-01T22:11:04.719763421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Moce akĩhuhĩra Yahwe, akĩuga: Nĩkĩ ngĩhota kwa andũ acio? Ndaaya gĩtĩnĩ kĩu na makĩnyunjia maita!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akĩhuhĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngĩhota"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kwa andũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ndaaya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gĩtĩnĩ kĩu"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "makĩnyunjia maita"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:21.127812791Z",
+  "model": "glm-5.3"
+}

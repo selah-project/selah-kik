@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na mũndũ o wothe agĩikara thĩiniĩ wa mũtembe wake, na thĩiniĩ wa mũkũyũ wake, na gũtirĩ ũrĩa ũtĩmũtinyaragĩrĩra; nĩ kinya ya Yahwe Cebaoti nĩyo yoigire.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩiniĩ wa"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mũtembe wake"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na thĩiniĩ wa"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "mũkũyũ wake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ũrĩa ũtĩmũtinyaragĩrĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nĩyo yoigire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:33:58.855971524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Ĩla ciakwa kwa Yahwe nĩngĩcookia, ⟨nĩthĩ⟩ mbere ya andũ ake aothe.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Ĩla ciakwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nĩngĩcookia"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nĩthĩ⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya aothe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:33.620857822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na mei ome Aroni wa miti ya citimu: kũraya kwawo nĩ amaha eerĩ na kĩgũrũ, na kũgĩtigitigi kwawo nĩ amaha na kĩgũrũ, na kũguru kwawo nĩ amaha na kĩgũrũ.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "na mei ome"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wa miti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya citimu"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amaha eerĩ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na kĩgũrũ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kũraya kwawo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amaha"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na kĩgũrũ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kũgĩtigitigi kwawo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amaha"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na kĩgũrũ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kũguru kwawo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:59.972678047Z",
+  "model": "glm-5.3"
+}

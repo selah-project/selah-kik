@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Nĩgũkorwo ũgĩtambũka mwena wa kwamanĩne na wa kumosũ, na rĩcianĩ rĩaku rĩgĩrĩna mĩcĩĩrĩ, na mĩci ĩrĩa ĩtherĩtie nĩigĩkuinĩka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mwena wa kwamanĩne"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "na wa kumosũ"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ũgĩtambũka"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "na rĩcianĩ rĩaku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mĩcĩĩrĩ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "gĩrĩna"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "na mĩci"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "ĩrĩa ĩtherĩtie"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "nĩigĩkuinĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:56.410015577Z",
+  "model": "glm-5.3"
+}

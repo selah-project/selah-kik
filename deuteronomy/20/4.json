@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩgũkorwa Yahwe Erohimu wanyu nĩwe ũthiĩ hamwe na inywe, agũcinana kũrĩ inywe na thũ cinyu, gũhonia ⟨את⟩ inywe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nĩwe ũthiĩ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "hamwe na inywe"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "agũcinana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kũrĩ inywe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "thũ cinyu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "gũhonia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:29:05.295635764Z",
+  "model": "glm-5.3"
+}

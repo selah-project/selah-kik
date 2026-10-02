@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na naguo nĩmakehereha ta mũcyaha, Lebanoni na Cirioni ta mũrũ wa nyathi-inĩ cia ithenya.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "nĩmakehereha"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mũcyaha"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "na Cirioni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "nyathi-inĩ cia ithenya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:55.220791412Z",
+  "model": "glm-5.3"
+}

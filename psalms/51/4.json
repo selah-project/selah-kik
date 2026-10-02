@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Mũno nĩũĩkabace kuma wĩhoko wakwa, na kuma tũũranĩru yakwa nĩũĩnytheria.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Mũno"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "nĩũĩkabace"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "kuma wĩhoko wakwa"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "na kuma tũũranĩru yakwa"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "nĩũĩnytheria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:12.314687591Z",
+  "model": "glm-5.3"
+}

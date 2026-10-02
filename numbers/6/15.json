@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na kionje kĩa mĩgũa ĩtũmĩtwo: macathi ma gĩa ngũranĩru cagĩrĩirwo na maguta, na macathi mathenũ ĩtũmĩtwo mathĩtwo na maguta, hamwe na minaha yao na gũthĩko kwao.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "na kionje"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kĩa mĩgũa ĩtũmĩtwo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "maa gĩa ngũranĩru"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "macathi"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "cagĩrĩirwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na maguta"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "na macathi mathenũ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ĩtũmĩtwo"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "mathĩtwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na maguta"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "na minaha yao"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "na gũthĩko kwao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:54:23.930345806Z",
+  "model": "glm-5.3"
+}

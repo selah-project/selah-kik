@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Akiuga atĩrĩrĩ: Ũka nane ⟨את⟩, ũrone kinya yakwa ya Yahwe. Nĩmakamũnyithithia ⟨את⟩ irigithathi-inĩ yakwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ũka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "nane ⟨את⟩"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ũrone"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "kinya yakwa ya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "makamũnyithithia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "irigithathi-inĩ yakwe"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "irigithathi-inĩ yakwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:35:45.818561975Z",
+  "model": "glm-5.3"
+}

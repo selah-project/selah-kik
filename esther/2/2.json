@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na athingu a mũthamaki, atheriki ake, magĩthĩra makĩuga: Barũrĩtwo wa mũthamaki airĩtu atherere, mweega kũona.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "magĩthĩra makĩuga"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "athingu a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "atheriki ake"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "barũrĩtwo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "airĩtu"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "atherere"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "mweega"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kũona"
+    }
+  ],
+  "timestamp": "2026-10-02T04:46:32.587699585Z",
+  "model": "glm-5.3"
+}

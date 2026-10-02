@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na nĩgeetha ũrũmĩrĩrĩrie ihuũ rĩa matũ ma mũrũ waku na wa mũrũ wa mũrũ waku ũndũ ⟨את⟩ ũrĩa nĩngĩrehanĩirie Micirayimu-inĩ, na ⟨את⟩ ibere ĩkwa iria ndĩikarĩtie mũno harĩ-inĩ macio, na mũmenye atĩ nĩ nĩne Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "na nĩgeetha"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ũrũmĩrĩrĩrie"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ihuũ rĩa matũ ma"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mũrũ waku"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na wa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mũrũ wa mũrũ waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũndũ ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "nĩngĩrehanĩirie"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micirayimu-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ibere ĩkwa"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ibere ĩkwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndĩikarĩtie mũno"
+    },
+    {
+      "surface": "בם",
+      "gloss": "harĩ-inĩ macio"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "na mũmenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:50.647348610Z",
+  "model": "glm-5.3"
+}

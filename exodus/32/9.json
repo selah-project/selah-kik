@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩrĩa Yahwe oigĩte kĩa Moce: Nĩnoona ⟨את⟩ ndũrĩrĩ ĩno, na rĩrĩa, nĩ ndũrĩrĩ ya ũthũmahĩro wa ngoto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩrĩa oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩnoona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũrĩrĩ ĩno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ya ũthũmahĩro"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "wa ngoto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:02.477938644Z",
+  "model": "glm-5.3"
+}

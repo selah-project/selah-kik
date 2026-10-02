@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 2:9",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na makĩmĩrĩra ⟨את⟩ yake thĩinĩ wa mũcerere wa ithaka rĩake, Thimnathi-Hereci, kilima-inĩ ya Efrayimu, kũmbũi-inĩ ya kilima ya Gaaci.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "makĩmĩrĩra"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yake",
+      "marks": "yake (Yocua)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "thĩinĩ wa mũcerere"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "wa ithaka rĩake"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "Thimnathi-"
+    },
+    {
+      "surface": "חרס",
+      "gloss": "Hereci"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kilima-inĩ ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kũmbũi-inĩ ya"
+    },
+    {
+      "surface": "להר",
+      "gloss": "kilima ya"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Gaaci"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:41.339852635Z",
+  "model": "glm-5.3"
+}

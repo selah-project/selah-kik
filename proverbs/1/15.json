@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mwana wakwa, ndũkatĩe mĩrĩĩra yao; ũkinyanĩrĩrie kĩgũrwa gĩaku kuma mĩcii yao.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mwana wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tĩe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mĩrĩĩra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yao"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "ũkinyanĩrĩrie"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kĩgũrwa gĩaku"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "kuma mĩcii yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:17.824057934Z",
+  "model": "glm-5.3"
+}

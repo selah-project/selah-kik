@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mwathi wa Yerucarayimu, ũmwe; mwathi wa Heberoni, ũmwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "wa Yerucarayimu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "wa Heberoni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:45:11.598135489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Kũigua gũa gũrũro nĩiguire-irwo, na rĩũthi ithenya rĩakwa nĩrĩĩroneire we.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kũigua gũa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gũrũro"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "nĩiguire-irwo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩũthi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ithenya rĩakwa"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "nĩrĩĩroneire we"
+    }
+  ],
+  "timestamp": "2026-10-02T04:29:05.648546606Z",
+  "model": "glm-5.3"
+}

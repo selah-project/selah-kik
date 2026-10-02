@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Mahinge na mathĩĩre hamwe, arĩa marĩ mbatarĩ ngoro yakwa yarĩ kũimũtha; magũke thutha na maceere, arĩa meciria mathĩna makwa.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mahinge"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "na mathĩĩre"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arĩa marĩ mbatarĩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "kũimũtha"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "magũke"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "na maceere"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "arĩa meciria"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mathĩna makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:43.934619077Z",
+  "model": "glm-5.3"
+}

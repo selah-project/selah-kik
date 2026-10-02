@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 2:20",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ũthingũ wa Yahwe ũthĩĩte mũthemba thĩinĩ wa Yiceraeri, nĩugite atĩrĩ: Nĩ ũndũ ndũrĩrĩ ĩno yahũririe ⟨את⟩ kĩrĩkanĩro kĩakwa, kĩrĩa nĩndamrĩĩthie ⟨את⟩ athis acao, na matiguithĩtie mũgambo wakwa.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ũthĩĩte mũthemba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ũthingũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩugite atĩrĩ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Nĩ ũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "yahũririe"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩakwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nĩndamrĩĩthie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athis acao"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "athis acao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matiguithĩtie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "matiguithĩtie"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "mũgambo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T22:54:54.393985038Z",
+  "model": "glm-5.3"
+}

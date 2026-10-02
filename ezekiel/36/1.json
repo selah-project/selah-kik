@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na we, mwana wa mũndũ, ratha kũgerera mirĩma ya Yiceraeri, na uuge: Ee mirĩma ya Yiceraeri, thigikeni kiugo kĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ratha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũgerera"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "mirĩma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na uuge"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "mirĩma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "thigikeni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:08:42.706409754Z",
+  "model": "glm-5.3"
+}

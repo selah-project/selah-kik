@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Mũrũ wakwa, rũndĩrwĩra amũrũrĩre wega macembe ma nyũakwa, ndũkahũre Tora ya mamanĩ wakwa",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "rũndĩrwĩra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "macembe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ma nyũakwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wega"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "ndũkahũre"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mamanĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:48:06.269293153Z",
+  "model": "glm-5.3"
+}

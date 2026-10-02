@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Ici nĩ mwatho ũrĩa Yahwe aahĩtĩrire ⟨את⟩ Moce, kũrĩ ciana cia Yiceraeri, kilima-inĩ cia Cĩnai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nĩ mwatho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aahĩtĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kilima-inĩ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "cia Cĩnai"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:52.698445366Z",
+  "model": "glm-5.3"
+}

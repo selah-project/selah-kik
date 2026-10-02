@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Mbere ya nyũngũ cia nyu kũmena ⟨mũthagati⟩, nĩgũciũrũrũkio ta mbũra, kĩrahũ na kĩgũcũrũranĩte ũtheri wa mũaki.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "kũmena"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "nyũngũ cia nyu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "mũthagati"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kĩrahũ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ũtheri wa mũaki"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "nĩgũciũrũrũkio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:19.478848185Z",
+  "model": "glm-5.3"
+}

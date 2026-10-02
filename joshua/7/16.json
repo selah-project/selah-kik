@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩũndũ ũcio Yehochua akĩrũgama kĩambĩrĩria-inĩ kĩa mũthenya, akĩcookerithia ⟨את⟩ Yiceraeri kwa mĩhĩrĩnga yake; na mũhĩrĩnga wa Yehuda nĩguacuurĩtwo.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akĩrũgama kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩa mũthenya"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "akĩcookerithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "kwa mĩhĩrĩnga yake"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "nĩguacuurĩtwo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mũhĩrĩnga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-01T22:44:14.004616274Z",
+  "model": "glm-5.3"
+}

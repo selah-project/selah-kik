@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Mbeca ciao nĩcĩhũagwo kuuma thĩ, na mbegũ ciao kuuma andũ.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "mbeca ciao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "nĩcĩhũagwo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "na mbegũ ciao"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kuuma andũ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a mĩrĩongo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:01.357766064Z",
+  "model": "glm-5.3"
+}

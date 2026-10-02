@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Moce na Aharoni makĩmeera ũrĩa Yahwe akĩmarathĩra; ũguo nao makĩmeera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "makĩmeera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akĩmarathĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Moce na Aharoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nao makĩmeera"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:32.894736926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nacio maciarũmbũiya mabuku kũrĩ Ayahudi othe, kũrĩ mĩrongo ĩrirĩ na mĩrongo ĩiri na mĩrongo ikũmi ya mĩtarataro ya ũthamaki wa Acacoweroci — ciugo cia thayũ na ma.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maciarũmbũiya"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "mabuku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayahudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mĩrongo ĩrirĩ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mĩrongo ĩiri"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na mĩrongo ikũmi"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ya mĩtarataro"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ya ũthamaki"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "wa Acacoweroci"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "cia thayũ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ma"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:47.853385971Z",
+  "model": "glm-5.3"
+}

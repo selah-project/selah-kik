@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Ũndũ-rĩ, ũgĩkũra ⟨את⟩ kondoo ndũmũ wa kũyũra-moko, ũgĩcũhia ⟨את⟩ nyama yake harĩ kũndũ gũtheru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ũgĩkũra ⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kondoo ndũmũ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "wa kũyũra-moko"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ũgĩkũra"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ũgĩcũhia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "harĩ kũndũ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "gũtheru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:26.340407234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na Abarahamu nĩahĩtie ⟨את⟩ iothe iria aarĩ nacio kũrĩ Yicaki.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nĩahĩtie"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iothe iria aarĩ nacio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aarĩ nacio"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kũrĩ Yicaki"
+    }
+  ],
+  "timestamp": "2026-10-01T20:42:07.556882825Z",
+  "model": "glm-5.3"
+}

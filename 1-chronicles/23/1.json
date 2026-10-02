@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ningĩ Dawidi atheha, athĩtie mĩthenya ikuu, akĩmũta mwathani ⟨את⟩ Ceromo mũrũ wake thĩinĩ wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ningĩ Dawidi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "atheha"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "athĩtie mĩthenya ikuu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akĩmũta mwathani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ceromo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T07:11:07.200872482Z",
+  "model": "glm-5.3"
+}

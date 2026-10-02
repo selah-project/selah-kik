@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na rĩĩga mũtwe wakwa ũgĩkuũkĩra igũrũ rĩa athũ makwa arĩa mamacokanĩtie; ngĩhĩa hema yake-inĩ mbĩcia cia kũgamba; nĩndĩimbĩra, nĩngĩcoora kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩĩga"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ũgĩkuũkĩra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mũtwe wakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "athũ makwa"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "arĩa mamacokanĩtie"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "ngĩhĩa"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "hema yake-inĩ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mbĩcia"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "cia kũgamba"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nĩndĩimbĩra"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "nĩngĩcoora"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:29.727537762Z",
+  "model": "glm-5.3"
+}

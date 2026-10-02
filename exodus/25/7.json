@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mahiga ya cohamu, na mahiga ma kũinĩrwa, kwa efoodi na kwa cechemi.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "Mahiga"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ya cohamu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na mahiga"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ma kũinĩrwa"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "kwa efoodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "na kwa cechemi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:54.780669403Z",
+  "model": "glm-5.3"
+}

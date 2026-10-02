@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na we, mwana wa mũndũ, kenda harĩ we cegere, nĩgũikara ⟨את⟩ mbere yaku, nĩgũciara igũrũ rĩaco mũciĩ, ⟨את⟩ Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "harĩ we"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "cegere"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "nĩgũikara"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "cegere"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "nĩgũciara"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "igũrũ rĩaco"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucarayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T01:44:15.666990125Z",
+  "model": "glm-5.3"
+}

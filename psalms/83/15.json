@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Ta mũrigo ũrĩa ũtherĩka mũritũ, na ta mwaki wa rũnyei ũrĩa ũnyagĩrĩra irima.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "ta mũrigo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ũtherĩka"
+    },
+    {
+      "surface": "יער",
+      "gloss": "mũritũ"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "na ta mwaki wa rũnyei"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ũnyagĩrĩra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "irima"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:04.000482926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩkĩ, mũrũ wakwa? Na nĩkĩ, mũrũ wa nyondo yakwa? Na nĩkĩ, mũrũ wa ndeeru yakwa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Na nĩkĩ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "wa nyondo yakwa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Na nĩkĩ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "wa ndeeru yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:03:13.617487981Z",
+  "model": "glm-5.3"
+}

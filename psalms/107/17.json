@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Aciari a mwoyo, nĩ delicia ya mageremano mabanyũ, na delicia ya mahĩtia mabanyũ, magĩtwo na thĩnjwa.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "aciari a mwoyo"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "delicia ya"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "mageremano mabanyũ"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "na delicia ya mahĩtia mabanyũ"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "magĩtwo na thĩnjwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:59.769917398Z",
+  "model": "glm-5.3"
+}

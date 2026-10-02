@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Kũrĩ ũrĩa wahũrire Micirayimu harĩ aacimbere macio, nĩgũko hecedi wake kĩrĩkana hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "kũrĩ ũrĩa wahũrire"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "harĩ aacimbere macio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kĩrĩkana hĩndĩ ciothe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:50.919420303Z",
+  "model": "glm-5.3"
+}

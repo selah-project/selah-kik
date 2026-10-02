@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Ciothe cĩkĩteereere kũrĩ We, nĩgeetha ũhe cio irio cia cio hĩndĩ yayo.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ We"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "cĩkĩteereere"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ũhe"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "hĩndĩ yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:01.675252258Z",
+  "model": "glm-5.3"
+}

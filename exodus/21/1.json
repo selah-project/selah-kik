@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na ici nĩ ciira iria ũkahũtha mbere yacio.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ici"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ũkahũtha"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbere yacio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:57.595423714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ciana cia gũcere nĩmahĩtie ⟨את⟩ ⟨the⟩ Pecachi mĩthenya-inĩ wa ikũmi na inya, wa mweri wa mbere.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Na nĩmahĩtie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "cia gũcere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pecachi"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pecachi"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "mĩthenya-inĩ wa ikũmi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na inya"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    }
+  ],
+  "timestamp": "2026-10-02T05:05:45.350790784Z",
+  "model": "glm-5.3"
+}

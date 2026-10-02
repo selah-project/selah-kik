@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na rĩrĩa mũcumbe ũcio ekauga atĩrĩ: Nĩndemenete ⟨את⟩ mwathi wakwa, ⟨את⟩ mũka wakwa na ⟨את⟩ ciana cĩakwa; nĩndĩtikũgĩa mũhurũku.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ekauga"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mũcumbe ũcio"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nĩndemenete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi wakwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũka wakwa"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mũka wakwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciana cĩakwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cĩakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kũgĩa"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "mũhurũku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:33.115945422Z",
+  "model": "glm-5.3"
+}

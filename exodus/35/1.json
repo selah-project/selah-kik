@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Moce araamũrire ⟨את⟩ mũthingu wothe wa ciana cia Yiceraeri, akĩmeeria atĩrĩ: Ici nĩ ciugo iria Yahwe ethĩrire gũtũkĩra ⟨את⟩ izo.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "araamũrire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingu wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeeria atĩrĩ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kũrĩ o"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "nĩ ciugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ethĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "gũtũkĩra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izo",
+      "marks": "ciugo ici"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:54.793147823Z",
+  "model": "glm-5.3"
+}

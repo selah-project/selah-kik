@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nakĩringĩra ⟨את⟩ nyũmba mahiga ma mbeca nene ũteithĩro-inĩ wakuona kweha, na thahu ũcio nĩwa Paruvayimu.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Nakĩringĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ma mbeca nene"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ũteithĩro-inĩ wakuona kweha"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na thahu ũcio"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nĩwa"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Paruvayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:41:13.262018273Z",
+  "model": "glm-5.3"
+}

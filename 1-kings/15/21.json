@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na ikarĩra rĩrĩa Baaca agĩigua, agĩĩhũrũka kũrirĩra ⟨את⟩ Horama, agĩikara Tircaha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikarĩra"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "rĩrĩa agĩigua"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaca"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "agĩĩhũrũka"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kũrirĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Horama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Horama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tircaha"
+    }
+  ],
+  "timestamp": "2026-10-02T00:00:50.779877632Z",
+  "model": "glm-5.3"
+}

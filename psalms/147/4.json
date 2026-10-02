@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Nĩetemaga mũigana wa nyeri, yothe nĩoota marĩĩtwa.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "nĩetemaga"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mũigana"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "wa nyeri"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "marĩĩtwa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nĩoota"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:46.445966361Z",
+  "model": "glm-5.3"
+}

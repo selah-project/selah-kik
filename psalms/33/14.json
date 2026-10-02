@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Kuuma handũ ha kũikara kwake, aithiĩtie arĩa me aikarĩte ⟨the⟩ thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "kuuma handũ"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ha kũikara kwake"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "aithiĩtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa me"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "aikarĩte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:42.238852644Z",
+  "model": "glm-5.3"
+}

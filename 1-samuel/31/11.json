@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Arĩa matũĩ kũu Yabeci ya Giriadi makĩigua ⟨את⟩ ũrĩa Piritimu mekirĩ Ceori.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "makĩigua"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ũhoro ũcio"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa matũĩ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeci"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giriadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa Piritimu mekirĩ Ceori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mekirĩ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Piritimu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Ceori"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:08.543975049Z",
+  "model": "glm-5.3"
+}

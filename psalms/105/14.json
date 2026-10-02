@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Ndahonjekire mũndũ kũmeenia ⟨⟨arĩa meenia⟩⟩, nĩarakirie athamaki nĩ ũndũ wao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "honjekire"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "kũmeenia ⟨arĩa meenia⟩"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "nĩarakirie"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nĩ ũndũ wao"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:08.064490396Z",
+  "model": "glm-5.3"
+}

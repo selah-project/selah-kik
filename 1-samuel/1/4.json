@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mũthenya ũcio ũkĩya, Erekana athĩnjĩria, akaha Penina mũtumia wake, na aamwe ake othe, na aarĩ-inĩ ake othe, mahati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na mũthenya ũcio ũkĩya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũcio"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "athĩnjĩria"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Erekana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "akaha"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na othe a"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "aamwe ake"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na aarĩ-inĩ ake"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "mahati"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:21.090685186Z",
+  "model": "glm-5.3"
+}

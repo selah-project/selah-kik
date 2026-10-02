@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na magaarĩirie ⟨את⟩ ithiro yakĩo, na ⟨את⟩ ithiro ya mũcingiriie wonje wa hema ya kũhiũrania, gũteerera ⟨את⟩ watho wa Micikani:",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Na magaarĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithiro yakĩo"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ithiro yakĩo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ithiro ya mũcingiriie wonje"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ithiro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya mũcingiriie wonje"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũcingiriie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "thĩinĩ wa mahiga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiũrania"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "gũteerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watho wa Micikani"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "watho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Micikani"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:07.053435254Z",
+  "model": "glm-5.3"
+}

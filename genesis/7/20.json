@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mĩciĩ ĩnyiitĩtie hinyamita ikũmi na ithano irĩ igũrũ, na irima ciarĩĩtwo.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "rora-ikũmi-na-ithano"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "irĩ igũrũ"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ĩnyiitĩtie hinya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "na ciarĩĩtwo"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "irima"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:03.311991090Z",
+  "model": "glm-5.3"
+}

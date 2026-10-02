@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "And Abiyamu lay down with his fathers, and they buried ⟨את⟩ him in the city of Dawidi; and Asa his son reigned in his place.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "and he lay down"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Abiyamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "his fathers"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "and they buried"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "him"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in the city of"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "and he reigned"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "his son"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in his place"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:32.383926285Z",
+  "model": "glm-5.3"
+}

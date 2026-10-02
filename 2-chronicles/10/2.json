@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 10:2",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ndũkĩrĩra rĩrĩa Yarabeamu, mwana wa Nebati, arĩ Micirayimu – rĩrĩa oĩkũire kuuma thutha wa Ceromohu mũthamaki – akuotha ũhoro, Yarabeamu akĩcooka kuuma Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndũkĩrĩra rĩrĩa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "akuotha ũhoro"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebati"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "oĩkũire"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma thutha wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromohu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩcooka"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabeamu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:48:22.132978828Z",
+  "model": "glm-5.3"
+}

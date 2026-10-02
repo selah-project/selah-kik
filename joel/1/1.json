@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kiugo kĩa Yahwe kĩrĩa kĩatuĩkire kwa Yoeri, mũrũ wa Petueri.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kĩatuĩkire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petueri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:37.083669039Z",
+  "model": "glm-5.3"
+}

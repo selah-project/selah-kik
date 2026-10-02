@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Akiuga atĩrĩ: Nĩngakuhe ⟨את⟩ thĩ ya Kenani, ta mũcere ũrĩa mũciarĩirie.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga atĩrĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nĩngakuhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ya Kenani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "mũcere"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ũrĩa mũciarĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:40.432990148Z",
+  "model": "glm-5.3"
+}

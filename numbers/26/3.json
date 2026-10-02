@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Moce na Erecara mũthanjari makaratha nao ⟨אתם⟩ harĩ mabũrũri ma Moabu, igũrũ rĩa Yordani rĩrĩa rĩtarĩrĩ Yeriko, na kugira:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "makaratha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "Erecara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "arĩa makarathagana nao (andũ arĩa makarathagio)"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "harĩ mabũrũri ma"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kugira"
+    }
+  ],
+  "timestamp": "2026-10-02T06:21:21.083452703Z",
+  "model": "glm-5.3"
+}

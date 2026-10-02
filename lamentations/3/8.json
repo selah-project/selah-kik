@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "O na rĩrĩa nĩndĩhũra na kũiga rũũru, agĩthibithia mahoya makwa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "nĩndĩhũra"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "na kũiga rũũru"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "agĩthibithia"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mahoya makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:34:09.343731867Z",
+  "model": "glm-5.3"
+}

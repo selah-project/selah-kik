@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na mũthinjiri-Ngai akĩgera ⟨את⟩ ĩyo, thayari ya wega na ya mbega; ta ũrĩa we mũthinjiri-Ngai ũkuengeraitie, ũguo nĩguo igĩkoragĩra.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "na akĩgera"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthinjiri-Ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ĩyo (nyamũ ĩyo)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "thayari ya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbega"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "ta ũrĩa wĩkuengeraitie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "we mũthinjiri-Ngai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩguo igĩkoragĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:37.667507529Z",
+  "model": "glm-5.3"
+}

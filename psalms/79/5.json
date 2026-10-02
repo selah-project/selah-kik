@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 79,
+  "translation": "Nginya rĩkĩ, Yahwe, ũgĩkwiha njena ya ithena? Kũiguana gwaku kũgĩaka ũrĩa mũaki?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Nginya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "rĩkĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ũgĩkwiha njena"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ya ithena"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "kũgĩaka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "kũiguana gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:09.105138913Z",
+  "model": "glm-5.3"
+}

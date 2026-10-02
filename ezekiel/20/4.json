@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩgũciira ciira mwendi, mwana wa mũndũ? Nĩgũciira ciira? Ũmenyithie maũndũ ma kũnyiirithania ma athereu acio.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Nĩgũciira ciira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mwendi (andũ arĩa makũrũ)"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Nĩgũciira ciira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maũndũ ma kũnyiirithania"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "maũndũ ma kũnyiirithania"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ma athereu acio"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Ũmenyithie"
+    }
+  ],
+  "timestamp": "2026-10-02T01:53:21.141933920Z",
+  "model": "glm-5.3"
+}

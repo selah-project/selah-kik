@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 99,
+  "translation": "Yahwe anathamakĩra; ndũrĩrĩ cia rerũhĩre; ũthiĩ-inĩ wake harĩ ichabu, thĩ ĩkokote.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anathamakĩra"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "cirerũhĩre"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oikare"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ichabu"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ĩkokote"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:43.219135064Z",
+  "model": "glm-5.3"
+}

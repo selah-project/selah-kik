@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Na arĩmacookereria irĩma ⟨את⟩ ũũru wao, na mwanya wao akĩmahũrithia; akĩmahũrithia, Yahwe Erohimu witũ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "na arĩmacookereria"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "irĩma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũũru wao"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ũũru wao"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "na mwanya wao"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "akĩmahũrithia"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "akĩmahũrithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:17.815709434Z",
+  "model": "glm-5.3"
+}

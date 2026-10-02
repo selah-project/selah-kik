@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Yahwe, hũrĩria; na mũthamaki atũũhĩrĩre mũthenya-inĩ ũrĩa twamwĩta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "hũrĩria"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "atũũhĩrĩre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "ũrĩa twamwĩta"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:06.881248148Z",
+  "model": "glm-5.3"
+}

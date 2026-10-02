@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Nĩkĩ ũgũhĩa ithenya rĩaku, na ũgĩĩrekaga kũhĩtia kwitũ na kũnyitwo kwitũ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ithenya rĩaku"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ũgũhĩa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ũgĩĩrekaga"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "kũhĩtia kwitũ"
+    },
+    {
+      "surface": "ו לחצנו",
+      "gloss": "na kũnyitwo kwitũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:56.750229550Z",
+  "model": "glm-5.3"
+}

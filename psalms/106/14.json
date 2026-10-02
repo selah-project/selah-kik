@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Magĩrĩ na kwenja hombe thĩ-inĩ ya kĩora, magĩthĩtia Ere kĩoorani.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "magĩrĩ na kwenja"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "hombe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩ-inĩ ya kĩora"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "magĩthĩtia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "kĩoorani"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:01.245799439Z",
+  "model": "glm-5.3"
+}

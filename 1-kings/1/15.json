@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Bati-ceba arĩĩra kwa mwami mũndũ-inĩ wake wa kũriria; mwami nĩamũkĩte mũno, na Abicagi Sunamithi aarĩ mũthũkĩri ⟨את⟩ ⟨wa⟩ mwami.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "arĩĩra"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bati-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ceba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "mũndũ-inĩ wa kũriria"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nĩamũkĩte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "Abicagi"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Sunamithi"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "mũthũkĩri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwami"
+    }
+  ],
+  "timestamp": "2026-10-01T23:46:26.413694308Z",
+  "model": "glm-5.3"
+}

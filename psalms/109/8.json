@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Mĩthenya yake ituĩke mĩnini, na ĩcũranio yake mũndũ ũngĩ ahĩtake.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ituĩke"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mĩthenya yake"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mĩnini"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ĩcũranio yake"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ahĩtake"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mũndũ ũngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:33.927903152Z",
+  "model": "glm-5.3"
+}

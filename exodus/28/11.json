@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Watho wa mũthomi wa mahiga, na gĩcokio kĩa cĩgĩrĩro, nĩũgĩcokia ⟨את⟩ mahiga matuaria harĩ maĩrũga a ciana cia Yiceraeri; cĩciĩtwo na mĩcimbĩcio ya thahabu nĩũkaĩthia ⟨את⟩ macio.",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "watho wa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "mũthomi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "wa mahiga"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "gĩcokio"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "kĩa cĩgĩrĩro"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "nĩũgĩcokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahiga matuaria"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "matuaria"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "maĩrũga a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "cĩciĩtwo"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "na mĩcimbĩcio"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya thahabu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkaĩthia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ macio",
+      "marks": "macio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:56.274963474Z",
+  "model": "glm-5.3"
+}

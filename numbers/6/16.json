@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na mũthĩnjĩri-ngai akohethe ihu mbere ya Yahwe, na akoruta ⟨את⟩ kĩheo gĩake gĩa mahĩtia na ⟨את⟩ kĩheo gĩake gĩa gũciningwa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "na akohethe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na akoruta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo gĩake gĩa mahĩtia"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "kĩheo gĩake gĩa mahĩtia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩheo gĩake gĩa gũciningwa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kĩheo gĩake gĩa gũciningwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:54:23.930503101Z",
+  "model": "glm-5.3"
+}

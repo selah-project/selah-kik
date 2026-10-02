@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Wendire cedeki, ũkamenete wĩtũkũ; ndĩrĩ ũndũ ũcio Erohimu, Erohimu wakwa, nĩwe akũranĩriε maguta ma gũkeno kũrĩ arĩa makwatanĩtie nawe.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Wendire"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ũkamenete"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wĩtũkũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "akũranĩriε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ma gũkeno"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "kũrĩ arĩa makwatanĩtie nawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:01.148952418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahwe Cebaoti mũtherie ⟨niwe⟩; na ⟨niwe⟩ nĩwe kũgũthĩra kwanyu, na ⟨niwe⟩ nĩwe kũrũa gwaku kũnyitaga nĩguo mũgũthĩre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Cebaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mũtherie"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "mũtherie"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na niwe"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "kũgũthĩra kwanyu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na niwe"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "kũrũa gwa kũnyitaga"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:49.690447701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na makĩrĩtha thi wa thakame ya yo, na magĩcooka magĩcĩĩrĩria mĩhango ĩrĩ ya mgũrũ wa mbaco na mantũke-inĩ ma nyũmba iria makãaria ⟨אתו⟩ thĩinĩ wa cio.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Na makĩrĩtha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "thi wa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "na magĩcooka magĩcĩĩrĩria"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũhoro wa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "mĩhango ya mgũrũ wa mbaco"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ũhoro wa"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "mantũke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũhoro wa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makãaria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nyũmba iria makãaria thĩinĩ wa cio"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "thĩinĩ wa cio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:54.420741Z",
+  "model": "glm-5.3"
+}

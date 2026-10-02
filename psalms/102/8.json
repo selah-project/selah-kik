@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩndĩrĩra ũtũũro, nĩndĩre ta kanyoni kĩenyĩ kĩtigĩrĩire rũciĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "nĩndĩrĩra"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "nĩndĩre"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ta kanyoni"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "kĩenyĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "rũciĩ-inĩ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "rũciĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:26.632623717Z",
+  "model": "glm-5.3"
+}

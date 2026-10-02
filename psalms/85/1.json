@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Kũrirĩa mwathi-inĩ wa kĩinĩgi, wa ciana cia Korahi; kĩugo kĩa kĩĩmbĩ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrirĩa mwathi-inĩ wa kĩinĩgi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ciana cia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩugo kĩa kĩĩmbĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:23.657627939Z",
+  "model": "glm-5.3"
+}

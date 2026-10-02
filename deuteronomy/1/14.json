@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mũkoocoeteria ⟨את⟩ nĩndĩ, na mũkĩuga: Ũhoro ũrĩa wagiĩrire nĩ mwega gũtikarania.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "mũkoocoeteria"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nĩndĩ"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "mũkĩuga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Ũhoro ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wagiĩrire"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũtikarania"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:58.464504817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Rĩrĩ, nĩgũkĩingĩria mũgũrũ wa maingo mao, na mĩthero ya ũta waku nĩgũthometwo igũrũ rĩa mehia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "nĩgũkĩingĩria"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "mũgũrũ wa maingo mao"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "mĩthero ya ũta waku"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "nĩgũthometwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mehia mao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:09.975354146Z",
+  "model": "glm-5.3"
+}

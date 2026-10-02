@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Nĩgũko tene yothe ndangĩtetereka; mũcedeki agĩkorwo arĩ cioko-inĩ ya tene ithũro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene yothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "titi"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "agatetereka"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "cioko-inĩ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya tene ithũro"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agĩkorwo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:45.559435978Z",
+  "model": "glm-5.3"
+}

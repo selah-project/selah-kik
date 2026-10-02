@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Mũtigwo kũuga kĩhurano, harĩ o kĩndũ kĩrĩa andũ acio me kũuga kĩhurano; na ⟨את⟩ kũgweneta kwao mũtigwo kũgweneta, na mũtigwo kũmarũũhũkana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mũtigwo"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "kũuga"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kĩhurano"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "harĩ o kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "me kũuga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ acio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kĩhurano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kũgweneta kwao"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "kũgweneta kwao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mũtigwo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kũgweneta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mũtigwo"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "kũmarũũhũkana"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:49.355206813Z",
+  "model": "glm-5.3"
+}

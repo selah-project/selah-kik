@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na nĩũkahĩa ⟨את⟩ mafuta ma mathĩrĩrio ma ũtheru, kĩrunganĩro gĩa kũrunganĩra, watho wa mũrunganĩri; mafuta ma mathĩrĩrio ma ũtheru nĩmago.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na nĩũkahĩa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ma mathĩrĩrio"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa ũtheru"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "kĩrunganĩro"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "kĩa kũrunganĩra"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "watho"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "wa mũrunganĩri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mathĩrĩrio"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩmago"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:27.971466997Z",
+  "model": "glm-5.3"
+}

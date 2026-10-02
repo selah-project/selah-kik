@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Yahwe Adonai witũ, rĩtwa rĩaku nĩ rĩnene mũno thĩ yothe!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai witũ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "rĩnene mũno"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "rĩnene"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩtwa rĩaku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:07.373558265Z",
+  "model": "glm-5.3"
+}

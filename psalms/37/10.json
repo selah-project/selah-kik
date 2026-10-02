@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na ithaa ĩnini, mũndũ mũhiũ ndũkarĩkũ; nĩgeetha ũkĩrora harĩ handũ hake, na ndũkamũona.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "na ithaa ĩnini"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ĩnini"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ndũkarĩkũ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũndũ mũhiũ"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ũkĩrora"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "handũ hake"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ndũkamũona"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:49.713548188Z",
+  "model": "glm-5.3"
+}

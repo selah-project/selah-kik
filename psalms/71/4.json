@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Erohimu wakwa, ũnengithie moko-inĩ ma mũkũrũhiti, moko-inĩ ma mũrogi wa kĩũhoro na wa gĩcenjĩ.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ũnengithie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "moko-inĩ ma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũkũrũhiti"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "moko-inĩ ma"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "mũrogi wa kĩũhoro"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "na wa gĩcenjĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:00.863997719Z",
+  "model": "glm-5.3"
+}

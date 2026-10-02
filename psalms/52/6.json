@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Ũendete ciugo ciothe cia kũminia, ndimi ya kũhoya!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Ũendete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "cia kũminia"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ndimi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ya kũhoya"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:55.105131421Z",
+  "model": "glm-5.3"
+}

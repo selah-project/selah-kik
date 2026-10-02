@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na makarĩrire ⟨את⟩ ũcuruithi wa hema ya mikũnjo, na ⟨את⟩ ũcuruithi wa ũtheru, na ũcuruithi wa ciana cia Aharoni, aarũ itungũ-rũ, kwa ũteethereo-inĩ wa nyũmba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Na makarĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũcuruithi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ũcuruithi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mikũnjo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũcuruithi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ũcuruithi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa ũtheru"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "na ũcuruithi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa ciana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "aarũ itungũ-rũ"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "kwa ũteethereo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:35:36.923514106Z",
+  "model": "glm-5.3"
+}

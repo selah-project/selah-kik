@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na nĩengithagĩra ⟨את⟩ ng'ombe ĩrĩa nja ya kĩambi, akĩroka ũcio ta ũrĩa arokire ⟨את⟩ ng'ombe ya mbere; nĩ kĩheo kĩa mahĩtia gĩa mũthee.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "nĩengithagĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kĩambi"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "akĩroka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe ũcio"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "arokire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kĩheo kĩa mahĩtia"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gĩa mũthee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:30.592997871Z",
+  "model": "glm-5.3"
+}

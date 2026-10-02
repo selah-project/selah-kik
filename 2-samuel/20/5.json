@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Amaca agĩthĩ gũkaya ⟨את⟩ andũ a Yuda, no akĩgera kũgũa kwa mũthenya ũrĩa mwathani wamũteeretie.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agĩthĩ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amaca"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "gũkaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "no akĩgera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kũgũa kwa"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "mũthenya wa tene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "wamũteeretie"
+    }
+  ],
+  "timestamp": "2026-10-01T23:42:41.337556785Z",
+  "model": "glm-5.3"
+}

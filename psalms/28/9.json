@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Hora ⟨את⟩ andũ ahu, na ithĩrĩkie ⟨את⟩ gĩikaro gĩaku; ũrĩcio mathaku, na ũmandie nginya tene na tene.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Hora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ahu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ ahu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "na ithĩrĩkie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩikaro gĩaku"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "gĩikaro gĩaku"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "na ũrĩcio"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "na ũmandie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:52.617286469Z",
+  "model": "glm-5.3"
+}

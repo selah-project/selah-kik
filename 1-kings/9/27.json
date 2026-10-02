@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Hiramu nĩagĩthĩte ⟨את⟩ athenya ake thĩinĩ wa ngarawa — andũ a ngarawa, arĩa memenyaita kĩanja — hamwe na athũnjũri a Ceromoni.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nĩagĩthĩte"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiramu"
+    },
+    {
+      "surface": "באני",
+      "gloss": "thĩinĩ wa ngarawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athenya ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "athenya ake"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ngarawa"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "arĩa memenyaita"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "athũnjũri a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:55:22.934991382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Na Parao akiuga kwa Yucepu: Rĩrĩa, nĩnakũheere ⟨את⟩ we igũrũ rĩa thĩ yothe ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yucepu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Rĩrĩa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩnakũheere"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (Yucepu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:25.138952208Z",
+  "model": "glm-5.3"
+}

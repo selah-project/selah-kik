@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Na we, Yahwe Adonai, tũhoro ⟨את⟩ nĩĩ nĩ rĩĩtwa rĩaku; nĩgũkorwo hecedi waku nĩ mwega, ũhonokere.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tũhoro"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nĩĩ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ mwega"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ũhonokere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:59.466124711Z",
+  "model": "glm-5.3"
+}

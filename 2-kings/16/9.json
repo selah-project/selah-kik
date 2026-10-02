@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩ mũthingu wa Acuri amũhĩrĩirie, nao mũthingu wa Acuri agĩthii na thutha agĩkĩra Damaci, na agĩĩyatura, na agĩtũra andũ acoo Kiri, na ⟨את⟩ Recini amũkuura.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "amũhĩrĩirie"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Acuri"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "agĩthii na thutha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Acuri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaci"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "agĩĩyatura"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "agĩtũra"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Recini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recini"
+    },
+    {
+      "surface": "המית",
+      "gloss": "amũkuura"
+    }
+  ],
+  "timestamp": "2026-10-02T00:17:26.975955294Z",
+  "model": "glm-5.3"
+}

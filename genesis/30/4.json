@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩamũhe ⟨את⟩ Biraha mũcatũ wake guĩka mũka wake, na Yaakobu agĩthiĩ kũyũ.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Nĩamũhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Biraha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Biraha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "mũcatũ wake"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "guĩka mũka wake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kũyũ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:45:23.159720591Z",
+  "model": "glm-5.3"
+}

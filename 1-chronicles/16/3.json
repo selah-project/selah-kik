@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Akĩgatarĩra mũndũ o wothe wa Yiceraeri, kuuma mũndũ nginya mũka, mũndũ o wothe: kĩgandi kĩmwe kĩa mĩgaati, na ciporo, na ichugũ.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "akĩgatarĩra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuuma mũndũ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kĩgandi kĩmwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kĩa mĩgaati"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "ciporo"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "ichugũ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:29:46.506162610Z",
+  "model": "glm-5.3"
+}

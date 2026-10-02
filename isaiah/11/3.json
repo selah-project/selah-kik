@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na kuoya kwake nĩkuuma kũgoto kwa Yahwe; ti harĩ kuona kwa maitho makĩake ⟨arĩ⟩ acĩciragia, na ti harĩ kũigua kwa matũ makĩake athuuragia.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "na kuoya kwake nĩkuuma"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "kũgoto kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "harĩ kuona"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kwa maitho makĩake"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "acĩciragia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "harĩ kũigua"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "kwa matũ makĩake"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "athuuragia"
+    }
+  ],
+  "timestamp": "2026-10-02T00:31:33.248773145Z",
+  "model": "glm-5.3"
+}

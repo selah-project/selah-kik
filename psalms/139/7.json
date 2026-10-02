@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Nĩngĩthiĩ kũrĩ, kuuma ruaku rwaku? na kũrĩ nĩngĩmbũrũka, kuuma mbere yaku?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nĩngĩthiĩ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "kuuma ruaku rwaku"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "na kũrĩ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kuuma mbere yaku"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "nĩngĩmbũrũka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:11.642860465Z",
+  "model": "glm-5.3"
+}

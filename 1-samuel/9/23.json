@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Cemueri akiuga na mũrutani wa nyama: He ⟨את⟩ kĩheo kĩu kĩrĩa nĩndĩkuheire, kĩrĩa nĩndĩkwuo atĩa: kĩige hanini waku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "na mũrutani wa nyama"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "He"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo kĩu"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "kĩheo kĩu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩkuheire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩndĩkwuo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na we"
+    },
+    {
+      "surface": "שים",
+      "gloss": "kĩige"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hanini waku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hanini waku"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:27.352282821Z",
+  "model": "glm-5.3"
+}

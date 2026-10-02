@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Yahwe akiuga kĩrĩa: Nĩ kĩĩ kĩrĩ moko-inĩ wakwa? Nakiuga: Mũti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nĩ kĩĩ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "moko-inĩ wakwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nakiuga"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũti"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:15.156762079Z",
+  "model": "glm-5.3"
+}

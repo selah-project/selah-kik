@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Arĩa makũrũmagĩra magamba thĩinĩ wa ĩgũrũrano rwaku; magĩcokia ndemwa ciao ithĩrainĩ ithĩranĩ.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "magamba"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "arĩa makũrũmagĩra"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "ĩgũrũrano rwaku"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "magĩcokia"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ndemwa ciao"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "ithĩrainĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:05.539770302Z",
+  "model": "glm-5.3"
+}

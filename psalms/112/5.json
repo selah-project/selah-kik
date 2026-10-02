@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Mwega nĩ mũndũ ũhecedagia na ũhoarĩa; ⟨arĩ⟩ oĩhĩthagia maũndũ make ciira-inĩ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ũhecedagia"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "na ũhoarĩa"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "oĩhĩthagia"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "maũndũ make"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ciira-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:45.559060482Z",
+  "model": "glm-5.3"
+}

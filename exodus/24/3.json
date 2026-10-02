@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Moce akĩĩya, akĩheania andũ ⟨את⟩ ciugo ciothe cia Yahwe na ⟨את⟩ ciira ciothe; nao andũ othe makĩhoora na mũgambo ũmwe makĩuga: ciugo ciothe iria Yahwe akoire tũkacie.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩĩya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "akĩheania"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cia Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciira ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "makĩhoora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akoire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tũkacie"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:04.876564385Z",
+  "model": "glm-5.3"
+}

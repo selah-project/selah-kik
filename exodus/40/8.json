@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na ũikare ⟨את⟩ kĩguni kũrayahĩra kwothe, na ũikare ⟨את⟩ kĩgũrũgũnjũ kĩa mũgate wa kĩguni.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na ũikare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩguni"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kĩguni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kũrayahĩra kwothe"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na ũikare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgũrũgũnjũ kĩa mũgate"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kĩgũrũgũnjũ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kĩa mũgate"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wa kĩguni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:22.372873966Z",
+  "model": "glm-5.3"
+}

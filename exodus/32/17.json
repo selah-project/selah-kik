@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na Yehocua akiigua ⟨את⟩ mũgambo wa andũ magĩĩ kũhũra make, na akiuga kwa Moce: nĩ mũgambo wa mbarario matũ-inĩ!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akiigua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa andũ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "hĩndĩ ya kũhũra make"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa mbarario"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "matũ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:25.974533257Z",
+  "model": "glm-5.3"
+}

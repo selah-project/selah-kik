@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Nĩagĩrĩirie: Rĩu na rĩngĩ, ta ciugo cinyũ nĩ ũguo kuo; ũrĩa gũkanyumana ⟨את⟩ naguo nĩatuĩ mũcuarĩtia wakwa, na inywi mũkoruo mwaga mahĩtia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩagĩrĩirie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "ta ciugo cinyũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gũkanyumana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naguo",
+      "marks": "naguo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atuĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũcuarĩtia"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na inywi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mũkoruo"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "mwaga mahĩtia"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:04.443938948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩ mũana ũmwe wa Ahiimeleki mwana wa Ahiitubu, ũrĩa witwo Abiathari, akenderire, na akĩthiũra thuutha wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "nĩakenderire"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "wa Ahiimeleki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "wa Ahiitubu"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ũrĩa witwo"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathari"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "akĩthiũra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thuutha wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:24:44.744491586Z",
+  "model": "glm-5.3"
+}

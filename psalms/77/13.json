@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Na nĩngĩcokerithia thĩinĩ wa wĩra waku wothe, na nĩngĩratha ũhoro wa maweega maku.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "nĩngĩcokerithia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa wothe"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "wĩra waku"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "na maweega maku"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nĩngĩratha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:45.297811520Z",
+  "model": "glm-5.3"
+}

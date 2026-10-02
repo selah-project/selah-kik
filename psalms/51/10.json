@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ndũmene kũigua ũthĩranĩ wa gũkena na kũgunĩrĩra; mĩrĩmĩ ĩrĩa wadhũkĩte ĩcoorere kũgũkana.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Ndũmene kũigua"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ũthĩranĩ wa gũkena"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "na kũgunĩrĩra"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ĩcoorere kũgũkana"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mĩrĩmĩ"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ĩrĩa wadhũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:49.350899807Z",
+  "model": "glm-5.3"
+}

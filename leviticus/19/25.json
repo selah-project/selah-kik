@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na mwaka-inĩ wa gũtano nĩmũciarĩre ⟨את⟩ irio cia mwĩrĩ-inĩ wake, nĩgeetha ĩyongerere ũthokĩre wake; nĩĩ Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Na mwaka-inĩ wa gũtano"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "wa gũtano"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nĩmũciarĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irio cia mwĩrĩ-inĩ wake"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "irio cia mwĩrĩ-inĩ wake"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "nĩgeetha ĩyongerere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kũrĩ nyũ"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ũthokĩre wake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:12.126582687Z",
+  "model": "glm-5.3"
+}

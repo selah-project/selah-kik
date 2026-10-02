@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Aria mĩrĩ yao yaugaga ũrĩa tari wa ma, na kwonja yao nĩ kwonja ya kũhĩhia.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Aria"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mĩrĩ yao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yaugaga"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ũrĩa tari wa ma"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "na kwonja yao"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kwonja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kũhĩhia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.142111542Z",
+  "model": "glm-5.3"
+}

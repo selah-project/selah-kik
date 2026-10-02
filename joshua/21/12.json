@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "No ⟨את⟩ shamba cia mũtũrũ ũcio na ⟨את⟩ mĩciĩ yayo mĩnini, maheanite Karebi mũrũ wa Yefune nĩgũcio kuoyo kwake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shamba cia mũtũrũ ũcio"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cia mũtũrũ ũcio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩciĩ yayo mĩnini"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "mĩciĩ yayo mĩnini"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "maheanite"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Karebi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "kuoyo kwake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:36.733010968Z",
+  "model": "glm-5.3"
+}

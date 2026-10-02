@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na mũthamaki wa Ceba akuona ⟨את⟩ ũgĩ wa Ceromo wothe, na nyũmba ũrĩa oakire.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na akuona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "wa Ceba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgĩ wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Ceromo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyũmba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oakire"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:01.256863196Z",
+  "model": "glm-5.3"
+}

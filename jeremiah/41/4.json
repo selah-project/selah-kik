@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Na nĩguo mũthenya-inĩ wa keerĩ thutha wa gwĩtwo ⟨את⟩ Gedaryahu, na mũndũ ndangĩmenya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa keerĩ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "thutha wa gwĩtwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaryahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaryahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "menya"
+    }
+  ],
+  "timestamp": "2026-10-02T01:29:48.930211802Z",
+  "model": "glm-5.3"
+}

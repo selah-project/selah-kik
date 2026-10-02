@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Thĩranĩ, na mũrendekũhĩtia; bũrũrĩrĩ na ngoro yanyu igũrũ rĩa mĩcikani yanyu, mũhorererie. Cera.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "thĩranĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mũrendekũhĩtia"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "kũhĩtia"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bũrũrĩrĩ"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "na ngoro yanyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "mĩcikani yanyu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "mũhorererie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:25.390856436Z",
+  "model": "glm-5.3"
+}

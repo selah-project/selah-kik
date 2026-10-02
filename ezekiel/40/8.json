@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Akĩigeria ⟨את⟩ gĩikarĩro kĩa mũrango kuuma nyumba, mũciara ũmwe.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Akĩigeria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩikarĩro kĩa mũrango"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "gĩikarĩro"
+    },
+    {
+      "surface": "השער",
+      "gloss": "kĩa mũrango"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "kuuma nyumba"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "mũciara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:12:19.460841386Z",
+  "model": "glm-5.3"
+}

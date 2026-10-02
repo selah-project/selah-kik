@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Ũrĩa ũthiĩre kĩugo gĩake thĩ, kiugo gĩake gĩciĩra hĩndĩ ikuũ nĩ ya kaara.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Ũrĩa ũthiĩre"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "kĩugo gĩake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ikuũ nĩ ya kaara"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "gĩciĩra"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kiugo gĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:43.182588536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nĩgũkorwo gĩkũrĩro kia nyũmba yaku kĩnyuaga, na macoki arĩa makucokia makũngũrũkĩte igũrũ rwakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "gĩkũrĩro"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "kia nyũmba yaku"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "kĩnyuaga"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "na macoki"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "arĩa makucokia"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "makũngũrũkĩte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:14.979783353Z",
+  "model": "glm-5.3"
+}

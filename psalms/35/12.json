@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Manĩngũhoreria kĩuru thĩinĩ wa wega, nĩ gũthũranĩra mũoyo wakwa.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "manĩngũhoreria"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kĩuru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "wega"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "gũthũranĩra"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mũoyo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:07.939736330Z",
+  "model": "glm-5.3"
+}

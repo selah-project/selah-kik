@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Kĩrĩkanĩro kwakwa ndĩngĩtherũkithia, na kĩrĩa kĩiutĩte mora-inĩ gwakwa ndĩngĩkaingĩrĩra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "therũkithia"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "kĩrĩa kĩiutĩte"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mora-inĩ gwakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "kaingĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:48.701041063Z",
+  "model": "glm-5.3"
+}

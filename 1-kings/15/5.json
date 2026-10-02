@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "For Dawidi did ⟨את⟩ the thing that is right in the eyes of Yahwe, and he did not turn from all that he commanded him, all the days of his life; only in the matter of Uriya the Hiti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "because"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "he did"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the right"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "the right"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in the eyes of"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and he did not"
+    },
+    {
+      "surface": "סר",
+      "gloss": "turn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "from all"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "that which"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "he commanded him"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "the days of"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "his life"
+    },
+    {
+      "surface": "רק",
+      "gloss": "only"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "in the matter of"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "the Hiti"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:32.383381688Z",
+  "model": "glm-5.3"
+}

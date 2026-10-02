@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nakĩmũciria atĩrĩ: Ũcu nĩ ũrĩmu. Nakĩrĩimũra ⟨את⟩ we kũ gatagatĩ-inĩ ka efa, nakĩrĩimũra ⟨את⟩ ibe ya cĩabari igũrũ rĩa kanua kayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nakĩmũciria"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũcu"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ũrĩmu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "nakĩrĩimũra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we (mũka ũrĩa ũrĩmu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gatagatĩ-inĩ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "nakĩrĩimũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibe ya cĩabari"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "cĩabari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kanua kayo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:42:30.771742281Z",
+  "model": "glm-5.3"
+}

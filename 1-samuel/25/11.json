@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ndĩcoke ndĩyokaye ⟨את⟩ irio cianjĩ, na ⟨את⟩ maaĩ makwa, na ⟨את⟩ nyama cianjĩ iria ndĩnjĩirie arĩa mbageca, ndĩcire andũ arĩa ndĩmamũkĩra kũrĩa makũrĩ?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "na ndĩyokaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irio cianjĩ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "irio cianjĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maaĩ makwa"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "maaĩ makwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyama cianjĩ"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "nyama cianjĩ iria ndĩnjĩirie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ndĩnjĩirie"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "arĩa mbageca"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndĩcire"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mamũkĩra"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "makũrĩ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:23:49.662855206Z",
+  "model": "glm-5.3"
+}

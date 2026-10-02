@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na ⟨את⟩ Yatiri hamwe na mĩgũnda yayo ya kũrĩaria, na ⟨את⟩ Ecitemoa hamwe na mĩgũnda yayo ya kũrĩaria.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yatiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũnda yayo ya kũrĩaria"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgũnda yayo ya kũrĩaria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ecitemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Ecitemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũnda yayo ya kũrĩaria"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgũnda yayo ya kũrĩaria"
+    }
+  ],
+  "timestamp": "2026-10-01T22:51:02.374829506Z",
+  "model": "glm-5.3"
+}

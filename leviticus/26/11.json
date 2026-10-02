@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩngĩhĩtĩka Micikani wakwa mũingĩ-inĩ yanyu, na mũoyo wakwa ndũkaninyuura ⟨את⟩ inywe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩngĩhĩtĩka"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Micikani wakwa"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mũingĩ-inĩ yanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "kũnyuura"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:25.436636730Z",
+  "model": "glm-5.3"
+}

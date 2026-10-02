@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mbere ya kũonerwo nĩndĩregire kũhurũka; na rũciĩ nĩndĩĩrĩgĩrĩirie kĩugo gwaku.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "kũonerwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ-"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "nĩndĩregire kũhurũka"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na rũciĩ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kĩugo gwaku"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nĩndĩĩrĩgĩrĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:00.555236779Z",
+  "model": "glm-5.3"
+}

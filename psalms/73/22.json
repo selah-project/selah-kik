@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Na iwĩ nĩndĩarĩ mũũgima, ndĩkamenya; nĩndĩtuĩte nyamu hamwe na We.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na iwĩ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nĩndĩarĩ mũũgima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndĩka"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "menya"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩndĩtuĩte"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe na We"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:54.189939920Z",
+  "model": "glm-5.3"
+}

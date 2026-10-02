@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩamũkĩre mũthamaki mwerĩ wa Micirayimu, ũrĩa atiamenagĩrĩ ⟨את⟩ Yocedefu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nĩamũkĩre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwerĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amenagĩrĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yocedefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocedefu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:21.673524383Z",
+  "model": "glm-5.3"
+}

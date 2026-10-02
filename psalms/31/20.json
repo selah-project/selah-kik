@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Ũmega waku nĩ mũnene mũno, ũrĩa wahĩĩte arĩa makũtinya, ũrĩa waĩte arĩa makũhĩra mboco kwaku, mbere ya andũ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ũmega waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "wahĩĩte"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "aría makũtinya"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "waĩte"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "aría makũhĩra mboco"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:46.072307620Z",
+  "model": "glm-5.3"
+}

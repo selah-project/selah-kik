@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Ta mũratĩ, ta mũrũ wa nyina wakwa, nĩndĩranayaga; ta mũhiũhia wa nyina, nĩndĩnyamĩra nĩ gĩthĩyo.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ta mũratĩ"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "ta mũrũ wa nyina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "nĩndĩranayaga"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "ta mũhiũhia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wa nyina"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nĩ gĩthĩyo"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "nĩndĩnyamĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:36.294261466Z",
+  "model": "glm-5.3"
+}

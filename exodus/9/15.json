@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩ nĩgenĩ ũtuĩke ndĩrarũmĩrĩre ⟨את⟩ moko yakwa, ngakumenya ⟨את⟩ we na ⟨את⟩ andũ ako wĩ na mũgũ wa mwaki, na ũkaheanwo thĩ yote.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "genĩ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndĩrarũmĩrĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko yakwa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moko yakwa"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ngakumenya"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ ako"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "wĩ na mũgũ wa mwaki"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "ũkaheanwo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yote"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:47.862084452Z",
+  "model": "glm-5.3"
+}

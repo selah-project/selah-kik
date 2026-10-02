@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Thaa nĩ ya kũheana iciũrukuũru cia arĩa mahotaarĩire — mũritho-rũaci nĩwoonekaga wa kũiguithio iciũrukuũru nĩ mũndũ ũrĩa mwagararo-inĩ, ũrĩa atungĩte kuuga ndahotanĩrie na magũrũ.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "mũritho-rũaci (thaa)"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "iciũrukuũru"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "kwa arĩa mahotaarĩire"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "ũrĩa mwagararo-inĩ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "atungĩte"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "kuuga"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "magũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:08:26.336785403Z",
+  "model": "glm-5.3"
+}

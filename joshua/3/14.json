@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ĩkĩgima, rĩrĩa andũ maathĩire kuuma mahema mao magakinya ha kũambũka ⟨את⟩ Yardeni, aheni mahũthagĩrwo aroni ya kĩrĩkanĩro mathiĩ mbere ya andũ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ĩkĩgima"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "rĩrĩa maathĩire"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "kuuma mahema mao"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ha kũambũka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "aheni"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mahũthagĩrwo"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya kĩrĩkanĩro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:41:04.107832484Z",
+  "model": "glm-5.3"
+}

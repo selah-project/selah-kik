@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Efurayimu nĩenĩhũrangĩtie na maaci, na nyũmba ya Yiceraeri na minyamaro; na Yahuda ithenya arĩ agĩtenderera hamwe na Ere, na hamwe na arĩa atheru, ⟨arĩ⟩ wĩ ma.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "nĩenĩhũrangĩtie"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "na maaci"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efurayimu"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "na minyamaro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yahuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ithenya"
+    },
+    {
+      "surface": "רד",
+      "gloss": "agĩtenderera"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na hamwe na"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "arĩa atheru"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "wĩ ma"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:09.723516211Z",
+  "model": "glm-5.3"
+}

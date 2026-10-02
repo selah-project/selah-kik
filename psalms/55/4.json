@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Nĩ gĩthĩranĩ kĩa mũthũ, na nĩ gũkũringwa kwa mũmenethi; nĩgũkorwo maatuũrire mũmenethi igũrũ rwakwa, na harĩ mũro-inĩ wao nĩmandũũra.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "nĩ gĩthĩranĩ kĩa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mũthũ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na nĩ thĩinĩ wa"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "gũkũringwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũmenethi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "maatuũrire"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "און",
+      "gloss": "mũmenethi"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "na harĩ mũro-inĩ wao"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "nĩmandũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:58.484365194Z",
+  "model": "glm-5.3"
+}

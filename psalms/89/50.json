@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Hecedi ciao irĩ kũ, Adonai? Irĩa wakahĩra Dawidi na ĩkwĩyo yako.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "irĩ kũ"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hecedi ciao"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "cia mbere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "wakahĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "na ĩkwĩyo yako"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:16.375403518Z",
+  "model": "glm-5.3"
+}

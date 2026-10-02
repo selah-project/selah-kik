@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩ ũguo Yahwe akĩreka ⟨את⟩ mĩthenya ĩcio, ndakĩcihũrithia na ihihĩ, na ti akĩheana cio moko-inĩ wa Yehocua.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "akĩreka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthenya ĩcio"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ĩcio"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nĩgetha ti"
+    },
+    {
+      "surface": "הורישׁם",
+      "gloss": "kũcihũrithia"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "na ihihĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "akĩheana cio"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "יהושׁע",
+      "gloss": "wa Yehocua"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:44.124235806Z",
+  "model": "glm-5.3"
+}

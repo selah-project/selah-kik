@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Moce nĩaiguũte mũgambo wa mũcenjerie wakwa, nĩaragĩtĩra o kĩrĩa oigĩte.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nĩaiguũte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mũcenjerie wakwa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nĩaragĩtĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:43.096565668Z",
+  "model": "glm-5.3"
+}

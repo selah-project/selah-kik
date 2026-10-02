@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩrĩo Yahwe agĩtua kwa Moce atĩrĩ: Ngoro ya Farao nĩ nzito, nĩagweteka kũhota andũ arĩa mũcii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩtua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nĩ nzito"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nĩagweteka"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kũhota"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ arĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:56.974703274Z",
+  "model": "glm-5.3"
+}

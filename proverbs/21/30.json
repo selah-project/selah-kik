@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Kũrirĩkana ha ũgeni gũtirĩ, na kũmana ũmenyo gũtirĩ, na mũcorari gũtirĩ, kuuma mbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgeni wa kũrirĩkana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "kũmana ũmenyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "mũcorari"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:54:46.172515684Z",
+  "model": "glm-5.3"
+}

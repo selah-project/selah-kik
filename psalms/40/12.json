@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "We, Yahwe, ndũkahithirie thĩna cia wao kwĩrĩkũra; hecediyao na ũngu wao nĩcio cikoragĩra ihinda rĩngĩ cĩngĩteethekĩtie.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "-hithirie"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "thĩna cia wao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwĩrĩkũra"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecediyao"
+    },
+    {
+      "surface": "ו אמתך",
+      "gloss": "na ũngu wao"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ihinda rĩngĩ"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "cikoragĩra cĩngĩteethekĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:19.887158786Z",
+  "model": "glm-5.3"
+}

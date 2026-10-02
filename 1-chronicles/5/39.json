@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Carumu arathire ⟨את⟩ Hirikia, na Hirikia arathire ⟨את⟩ Azaraya.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "na Carumu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "arathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hirikia"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hirikia"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "na Hirikia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "arathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaraya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:47.046015181Z",
+  "model": "glm-5.3"
+}

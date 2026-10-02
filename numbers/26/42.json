@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 26:42",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Aici nĩ aana a Dani kũ mbari ciao: kũ Cuhami, mbari ya acuhami. Aici nĩ mbari cia Dani kũ mbari ciao.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aici"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kũ mbari ciao"
+    },
+    {
+      "surface": "לשוחם",
+      "gloss": "kũ Cuhami"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbari ya"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "acuhami"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aici"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbari"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kũ mbari ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:08:19.167434989Z",
+  "model": "glm-5.3"
+}

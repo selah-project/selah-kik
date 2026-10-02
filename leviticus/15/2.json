@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Mwoorani kwa aana a Yiceraeri, na moote mũonire atĩa: mũndũ o na mũndũ rĩrĩa atirĩtwo na kĩũgũ kĩa mwĩiri wake, nĩ ũgũrũku wake mũndũ ũcio nĩtheru.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Mwoorani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "moote mũonire"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o"
+    },
+    {
+      "surface": "איש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atirĩtwo"
+    },
+    {
+      "surface": "זב",
+      "gloss": "na kĩũgũ"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "kĩa mwĩiri wake"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ũgũrũku wake"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nĩtheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mũndũ ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:40.550217760Z",
+  "model": "glm-5.3"
+}

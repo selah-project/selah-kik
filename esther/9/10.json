@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Aana ikũmi a Hamani, mũrũ wa Medata, mũthũ wa Ayahudi, nĩmaahote; no harĩ kũcũranĩra ũcio matiguikire ⟨את⟩ moko mao.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "a Hamani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "wa Medata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "mũthũ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wa Ayahudi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nĩmaahote"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "no harĩ kũcũranĩra ũcio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matiguikire"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko mao"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "moko mao"
+    }
+  ],
+  "timestamp": "2026-10-02T04:48:16.654295052Z",
+  "model": "glm-5.3"
+}

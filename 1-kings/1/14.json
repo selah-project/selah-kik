@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Rũci, rĩrĩa nayũ ũndũũraga kuo hamwe na mwami, na nĩ nĩngiũka thutha waku, nĩngĩthĩkĩrĩria ⟨את⟩ macroguo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "rũci"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "nayũ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ũndũũraga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nĩngiũka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "thutha waku"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "nĩngĩthĩkĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macroguo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "macroguo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:46:26.413470309Z",
+  "model": "glm-5.3"
+}

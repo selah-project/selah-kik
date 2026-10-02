@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Athingu manamata nao makĩgĩa muaĩro; na ũthingithani wothe wĩhĩtũkĩra kanua wayo.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "manamata"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "athingu"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "makĩgĩa muaĩro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ũthingithani"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "wĩhĩtũkĩra"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kanua wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:24.599729399Z",
+  "model": "glm-5.3"
+}

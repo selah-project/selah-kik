@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Kũo nĩmarĩ na thooinĩ nene, nĩgũkorwo Erohimu arĩ mũciĩ-inĩ wa arĩa a cedeki.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "nĩmarĩ na"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "thooinĩ nene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mũciĩ-inĩ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa arĩa a cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:37.168400716Z",
+  "model": "glm-5.3"
+}

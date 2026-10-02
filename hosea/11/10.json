@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Thutha wa Yahwe nĩmagakũra; akĩrĩka ta ndatũ; nĩgũko ũrĩa arĩkaa, ciana ciao ciumaga na gĩtĩĩna kuuma inyanja.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nĩmagakũra"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ta ndatũ"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "akĩrĩka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "arĩkaa"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ciumaga na gĩtĩĩna"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kuuma inyanja"
+    }
+  ],
+  "timestamp": "2026-10-02T02:19:32.686528985Z",
+  "model": "glm-5.3"
+}

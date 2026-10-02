@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 61:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 61,
+  "translation": "Ruaki ya Adonai Yahwe ĩrĩ igũrũ rwakwa, nĩgũkorwo Yahwe anĩcũngĩte ⟨את⟩ nĩi maguta, akĩtũma nĩi kũhe ũhoro mwega kwa arĩa maihĩtie, kũbandũkĩra arĩa methĩte ngoro, gũkamba arĩa bate kũhurũka, na kwa arĩa bahũtĩtwo gũgũra kĩhũũro.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "משח",
+      "gloss": "kũcũngĩra maguta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nĩi"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "kũhe ũhoro mwega"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "arĩa maihĩtie"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "akĩtũma nĩi"
+    },
+    {
+      "surface": "לחבש",
+      "gloss": "kũbandũkĩra"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "arĩa methĩte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "gũkamba"
+    },
+    {
+      "surface": "לשבוים",
+      "gloss": "arĩa bate"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "kũhurũka"
+    },
+    {
+      "surface": "ולאסורים",
+      "gloss": "na arĩa bahũtĩtwo"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "gũgũra"
+    },
+    {
+      "surface": "קוח",
+      "gloss": "kĩhũũro"
+    }
+  ],
+  "timestamp": "2026-10-02T00:56:24.766289195Z",
+  "model": "glm-5.3"
+}

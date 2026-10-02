@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na we ũkahĩnga ⟨את⟩ kĩhinjĩro, mĩtĩ ya cĩti; amara matano ũraihu, na amara matano mũraya rwere — kĩhinjĩro nĩkĩgweteka-nja — na amara matatũ mũtherere wayo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ũkahĩnga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhinjĩro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kĩhinjĩro"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "cĩti"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amara"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ũraihu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na matano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amara"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "mũraya rwere"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kĩgweteka-nja"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩkĩkorũo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kĩhinjĩro"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na matatũ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amara"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "mũtherere wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:52.668659078Z",
+  "model": "glm-5.3"
+}

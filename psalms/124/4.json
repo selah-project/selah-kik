@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 124,
+  "translation": "Hĩndĩ ĩyo ame makĩnyũrũragia ithuĩ, mũrũrũ wĩraatĩkĩrĩirie ngoro yithu.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Hĩndĩ ĩyo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ame"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "makĩnyũrũragia ithuĩ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mũrũrũ wĩ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "raatĩkĩrĩirie"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ngoro yithu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:45.913319060Z",
+  "model": "glm-5.3"
+}

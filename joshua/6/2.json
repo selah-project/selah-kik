@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Yahwe akiuga kwa Yehocua: Rora, nĩnakũhe moko-inĩ maku ⟨את⟩ Yerico na ⟨את⟩ mwathani wayo, arĩa manyarĩra mbaara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Rora"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩnakũhe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "moko-inĩ maku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerico"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerico"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwathani wayo"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "mwathani wayo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "arĩa ma-"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "nyarĩra mbaara"
+    }
+  ],
+  "timestamp": "2026-10-01T22:42:07.725626018Z",
+  "model": "glm-5.3"
+}

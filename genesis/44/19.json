@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Mwathi wakwa nĩreerũkĩire ⟨את⟩ a thũnjĩri ake atĩrĩ: mũrĩ na ithe, kana mũratũ?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nĩreerũkĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a thũnjĩri ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a thũnjĩri ake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "mũrĩ na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nyĩmwe"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אח",
+      "gloss": "mũratũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:34.928389120Z",
+  "model": "glm-5.3"
+}

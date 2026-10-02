@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Nĩgũo nĩngakurathima hĩndĩ ĩrĩ ndĩmũigu; rĩĩtwa-inĩ rwakwa nĩngagera macoko makwa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "nĩgũo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "nĩngakurathima"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "hĩndĩ ĩrĩ ndĩmũigu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "rĩĩtwa-inĩ rwakwa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nĩngagera"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "macoko makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:26.759004934Z",
+  "model": "glm-5.3"
+}

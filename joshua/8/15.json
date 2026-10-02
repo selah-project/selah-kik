@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Yehocua na Yiceraeri yonthe mahootwo mbere yao macio, makĩhinya ũra wa gĩthaka.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "mahootwo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yonthe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbere yao"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "makĩhinya ũra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ũra wa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gĩthaka"
+    }
+  ],
+  "timestamp": "2026-10-01T22:42:58.723894421Z",
+  "model": "glm-5.3"
+}

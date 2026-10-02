@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Nĩngĩrĩkĩrĩririe mĩthenya ya thutha, maka ya ntĩrĩ ya hĩndĩ icio.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Nĩngĩrĩkĩrĩririe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ya thutha"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "maka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ya ntĩrĩ ya hĩndĩ icio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:32.187368267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Mwigĩrie ũhoro ũyũ, mĩrongo yothe; amathe matũ, arĩa othe miarũkaga thĩ ĩĩ ya hĩndĩ ĩmwe.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mwigĩrie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũhoro ũyũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mĩrongo"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "amathe matũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "miarũkaga"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "thĩ ĩĩ ya hĩndĩ ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:07.184432174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 3:11",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũrũ wakwa, ndũkage gũikara ũtherere mĩthero ya Yahwe, ũndũ ndũkahĩtũke nĩ mahũthagĩko make.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "mĩthero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Mũrũ wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũkage"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "gũikara ũtherere"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ũndũ ndũkahĩtũke"
+    },
+    {
+      "surface": "תקץ",
+      "gloss": "kũhĩtũka"
+    },
+    {
+      "surface": "בתוכחתו",
+      "gloss": "nĩ mahũthagĩko make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:01.711156280Z",
+  "model": "glm-5.3"
+}

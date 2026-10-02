@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Magĩcooka magĩcokanĩria na ⟨את⟩ Moce na ⟨את⟩ Aharoni, arĩa maamemerekete kũmanĩria nao, rĩrĩa maatũrũkĩte kuuma ⟨את⟩ Parao.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "magĩcokanĩria na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "arĩa maamemerekete"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "kũmanĩria nao"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "rĩrĩa maatũrũkĩte"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:27.898154876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Na ihĩ nĩngwĩrĩ ta mũritũ werũ thĩinĩ wa nyũmba ya Erohimu; nĩĩhokete thĩinĩ wa hecedi ya Erohimu, na kenda na kenda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na ihĩ"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ta mũritũ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "werũ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thĩinĩ wa nyũmba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Erohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nĩĩhokete"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "thĩinĩ wa hecedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Erohimu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na kenda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kenda"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:40.965918997Z",
+  "model": "glm-5.3"
+}

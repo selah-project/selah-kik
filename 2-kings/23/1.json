@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mũthamaki agĩcithia, na andũ akũrũ a Yuda na a Yerucarayimu makĩkũranĩra ho kũrĩ mũthamaki, aothe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "agĩcithia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "makĩkũranĩra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho kũrĩ mũthamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "andũ akũrũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na a Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:23:43.352657293Z",
+  "model": "glm-5.3"
+}

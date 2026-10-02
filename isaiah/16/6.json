@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩtũkĩigũithia kĩene kyũ mbere kya Moabu; ndĩneni mũno, kĩenakĩo na kĩambĩrĩria kĩakĩo na gĩkeno kĩakĩo — maciongo makĩo ti macio ma ma; nĩ mahoya tu.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "nĩtũkĩigũithia"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kĩene kyũ mbere"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "kya Moabu"
+    },
+    {
+      "surface": "גא",
+      "gloss": "ndĩneni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "kĩenakĩo"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "na kĩambĩrĩria kĩakĩo"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "na gĩkeno kĩakĩo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "macio"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mahoya makĩo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:25.110819604Z",
+  "model": "glm-5.3"
+}

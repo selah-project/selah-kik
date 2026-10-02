@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Kĩnjĩra kĩa Dawidi. Yahwe, nĩũrĩa ũgacemanĩra hema-inĩ yawe? Nĩũrĩa ũgatũũraka kĩrĩma-inĩ gĩa ũtheru gwaku?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "kĩnjĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũrĩa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ũgacemanĩra"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "hema-inĩ yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũrĩa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ũgatũũraka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "gĩa ũtheru gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:17.221270275Z",
+  "model": "glm-5.3"
+}

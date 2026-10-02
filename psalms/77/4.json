@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Nĩngĩecheterera Erohimu, nĩngĩgoocoka; nĩngĩciramia, na ruaki wanjũ ũrekeyie. Cerahĩ.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "nĩngĩecheterera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "nĩngĩgoocoka"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nĩngĩciramia"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ũrekeyie"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaki wanjũ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerahĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:06.848606503Z",
+  "model": "glm-5.3"
+}

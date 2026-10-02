@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na nyũmba ya Ahabu yothe nĩgũcĩiyũkithia, na nĩngĩnata thĩinĩ wa Ahabu mũcumĩka ririga-inĩ, na ũrĩa ũtheagwo, na ũrĩa ũtigĩtwo, thĩinĩ wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "nĩgũcĩiyũkithia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahabu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "nĩngĩnata"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "thĩinĩ wa Ahabu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "mũcumĩka"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ririga-inĩ"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "na ũrĩa ũtheagwo"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "na ũrĩa ũtigĩtwo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:16.020036005Z",
+  "model": "glm-5.3"
+}

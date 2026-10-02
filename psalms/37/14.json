@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Arĩa mahũtie kũmena matuũrire mahũa, na mahee icũa ciacio, gũkuura akeni na arĩa mari na thĩna, na gũcinjia atheru a njĩra.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "mahũa"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "matuũrire"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa mahũtie kũmena"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "na mahee"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "icũa ciacio"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "gũkuura"
+    },
+    {
+      "surface": "עני",
+      "gloss": "akeni"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "arĩa mari na thĩna"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "gũcinjia"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "atheru"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "a njĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:20.575288613Z",
+  "model": "glm-5.3"
+}

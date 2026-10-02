@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Rĩrĩa akĩinya mũndũ mwene, nĩakuũra mũndũ mwene; rĩrĩa arĩ mwathi wa mũka, mũka wake nĩakuũra hamwe nake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Rĩrĩa"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mũndũ mwene"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akĩinya"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mũndũ mwene"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩakuũra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wa mũka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "nĩakuũra"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũka wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:57.596865355Z",
+  "model": "glm-5.3"
+}

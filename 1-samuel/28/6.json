@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Sauli agĩrathĩra Yahwe, na Yahwe ndamoigĩrĩirie; o na mbere-inĩ ciendorero, o na Urimi, o na harĩ arathi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "agĩrathĩra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ndamoigĩrĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "mbere-inĩ ciendorero"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urimi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "harĩ arathi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:37.317471853Z",
+  "model": "glm-5.3"
+}

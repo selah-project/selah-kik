@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Rĩ nyamu ya kũndũire nĩyo akuumithia kĩheo gĩake, nĩakuumithia ⟨את⟩-ĩyo mbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Rĩ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "nyamu ya kũndũire"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "akuumithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo gĩake"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kĩheo gĩake"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "nĩakuumithia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ĩyo (nyamu ya kũndũire)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:46.121001542Z",
+  "model": "glm-5.3"
+}

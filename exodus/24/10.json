@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩmaonire ⟨את⟩ Erohimu wa Yiceraeri; na thutha wa magũrũ make harĩ ta wĩra wa mbĩra cia ceperu, na ta ũgima wa igũrũ wa gũtherie.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nĩmaonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu wa Yiceraeri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na thutha wa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ta wĩra wa"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "mbĩra cia mũthingu"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "ceperu"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "na ta ũgima wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "wa gũtherie"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:52.801697419Z",
+  "model": "glm-5.3"
+}

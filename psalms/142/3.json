@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 142,
+  "translation": "Ndĩregetera mbere yake kĩciranie kĩakwa; thani yakwa ndĩtaũkĩra imbe yake.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Ndĩregetera"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kĩciranie kĩakwa"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "thani yakwa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "imbe yake"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndĩtaũkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:15.084250930Z",
+  "model": "glm-5.3"
+}

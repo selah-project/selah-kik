@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Na mahĩtia mothe ga arĩa mabee nĩngĩremwo; mahĩtia ga mũtheru nĩgũiguũrũo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na ... mothe"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ga mabee"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "nĩngĩremwo"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "nĩgũiguũrũo"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:20.215434246Z",
+  "model": "glm-5.3"
+}

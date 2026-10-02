@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩkwamũrire Moce Yahwe: Ũkonone, nakũheire ũwe Erohimu wa Farao, na Aharoni mũrũ wa nyina waku nĩakuonire mũrathi waku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩkwamũrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ũkonone"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nakũheire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "wa Farao"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wa nyina waku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩakuonire"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "mũrathi waku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:45.610561773Z",
+  "model": "glm-5.3"
+}

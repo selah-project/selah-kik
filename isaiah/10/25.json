@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩgũkorwo na hĩndĩ inyanya ya kĩndũ gĩa kũnini, na hasira ĩkĩheana, na meri yakwa ĩgĩthĩ mĩena ya kũringithia kwao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na gũtereko"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hĩndĩ inyanya"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "ya kĩnini kũhĩa"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "na ĩkĩheana"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "hasira"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "na meri yakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mĩena ya"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "kũringithia kwao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:38:04.665872298Z",
+  "model": "glm-5.3"
+}

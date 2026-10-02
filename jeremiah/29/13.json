@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na nĩmũthakame ⟨את⟩ Yahwe, na nĩmũkinye, nĩgũkorwo mũthakama wakwa mũna na ngoro yanyu yothe.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "nĩmũthakame"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "nĩmũkinye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "mũthakama wakwa mũna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ngoro yanyu yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:21:43.987114642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nathani agĩthiĩ ⟨kũrĩ⟩ nyũmba yake. Yahwe agĩgocoa ⟨את⟩ mũhana ũrĩa mũtumia wa Uria arikuonire Dawidi, na mũhana akagwara gwara kwa hinya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kũrĩ⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "agĩgocoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũhana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mũhana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "arikuonire"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "wa Uria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "akagwara gwara kwa hinya"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:20.571358170Z",
+  "model": "glm-5.3"
+}

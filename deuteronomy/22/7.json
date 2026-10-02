@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Rũthiomi rwa gũreha ndũrehe; ⟨את⟩ ikuũ ũrehe, na ⟨את⟩ anacunia ũceme mawe; nĩgeetha maũndũ mathie makũ, na ũhiũhe mĩarĩ mĩnene.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kũreha"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "rũthiomi rwa gũreha ndũrehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuũ"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ikuũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anacunia"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anacunia"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ũceme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "maũndũ mathie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "makũ"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "na ũhiũhe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩarĩ mĩnene"
+    }
+  ],
+  "timestamp": "2026-10-01T22:29:38.004766616Z",
+  "model": "glm-5.3"
+}

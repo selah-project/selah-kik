@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Mwethera ⟨את⟩ inywe, mũthiĩ na mũhoyera inywe, na nĩngũhĩrĩgĩrĩra inywe.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "mwethera"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe (Yahwe)"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mũthiĩ"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "na mũhoyera"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "na nĩngũhĩrĩgĩrĩra"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "inywe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:20:34.990597681Z",
+  "model": "glm-5.3"
+}

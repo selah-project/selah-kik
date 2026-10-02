@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Tondũ nĩmethire kũyũmĩria ciugo cia Ere, na mũcirio wa Eryoni nĩmagĩte ũtheru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tondũ"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "nĩmethire-kũyũmĩria"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "na-mũcirio"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eryoni"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "nĩmagĩte-ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:41.402725245Z",
+  "model": "glm-5.3"
+}

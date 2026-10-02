@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Kũtherema kũtirĩ nyama yaku-inĩ yakwa rĩrĩa kwa gũthĩna kwaku; thĩĩ yaku nĩyoitĩkĩrĩre ihigũrũ-inĩ rwakwa rĩrĩa kwa ihĩtia rwakwa.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "kũtirĩ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kũtherema kũ"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "nyama yaku-inĩ yakwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rĩrĩa kwa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "gũthĩna kwaku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kũtirĩ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thĩĩ yaku"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "ihigũrũ-inĩ rwakwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rĩrĩa kwa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ihĩtia rwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:15.328148444Z",
+  "model": "glm-5.3"
+}

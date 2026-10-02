@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na ⟨את⟩ nyũmba cia Yerucarayimu nĩmũtarĩrire, na nĩmũgũcithie nyũmba icio, gũtingĩka mũgũrwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba cia Yerucarayimu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "nĩmũtarĩrire"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "na nĩmũgũcithie"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyũmba icio"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "gũtingĩka"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mũgũrwa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:23.914987921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Mathaga ma rũciũ rwe rĩmwe — amma ikũmi na ithano — kũngĩrĩ gĩathi kĩmwe; mĩtĩ ciao ĩrĩ ithathatũ, na mĩikarĩre ciao ithathatũ.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "mathaga"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũngĩrĩ"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "gĩathi kĩmwe"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "mĩtĩ ciao"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ithathatũ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na mĩikarĩre ciao"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ithathatũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:15.910546474Z",
+  "model": "glm-5.3"
+}

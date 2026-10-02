@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Mũtikorwo mũnũkia Maciaki akwa; na mĩrathi yakwa mũtikorwo mũruithagia.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mũtikorwo"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "mũnũkia"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Maciaki akwa"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "na mĩrathi yakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũtikorwo"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "mũruithagia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:08.065816154Z",
+  "model": "glm-5.3"
+}

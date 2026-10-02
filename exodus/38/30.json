@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na đĩakĩĩraya ũndũ ũcio ndĩakĩira ⟨את⟩ mathako ma mũgate wa hema ya kũhĩana, na ⟨את⟩ mũkyanga wa cuma, na ⟨את⟩ ndara ya cuma ĩrĩa ĩrĩ thayũ, na ⟨את⟩ indo ciothe cia mũkyanga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "đĩakĩĩraya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndĩakĩira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathako ma mũgate wa hema ya kũhĩana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mathako"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũgate"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kũhĩana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũkyanga wa cuma"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mũkyanga"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "wa cuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndara ya cuma"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ndara"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya cuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ĩrĩ thayũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe cia mũkyanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cia mũkyanga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:36.960102973Z",
+  "model": "glm-5.3"
+}

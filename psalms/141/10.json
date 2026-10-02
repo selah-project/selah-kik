@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 141,
+  "translation": "Arogi na andũ arĩa mathĩna maatũranage thari-inĩ ciao hamwe, na i nĩndĩrĩnga ⟨ũguo⟩ nginya ndĩcohia.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "maatũranage"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "thari-inĩ ciao"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa mathĩna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na i nĩndĩrĩnga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ndĩcohia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:38.908635931Z",
+  "model": "glm-5.3"
+}

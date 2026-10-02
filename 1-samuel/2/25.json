@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Arĩ mũndũ ahĩtaka kũndũ mũndũ ũngĩ, Erohimu nĩmũciire ciira; no arĩ mũndũ ahĩtaka kũndũ Yahwe, nĩ ũndũ ũrĩa ũngĩciire ciira wi yake? Na maatirĩkaga kũigua mũgambo wa ithe ao, nĩ gũkorwo Yahwe aendete kũmaithia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ahĩtaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kũndũ mũndũ ũngĩ"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "na nĩmũciire ciira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "no arĩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũndũ Yahwe"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ahĩtaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũndũ ũrĩa"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "ũngĩciire ciira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wi yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na maatirĩkaga"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ithe ao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkorwo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "aendete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "kũmaithia"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:17.756929286Z",
+  "model": "glm-5.3"
+}

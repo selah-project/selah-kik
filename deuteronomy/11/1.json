@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Rĩrĩ, mwendere ⟨את⟩ Yahwe Erohimu waku, ũikarĩre ũtunyani wake, na ciawĩra ciake, na ciira ciake, na amũrũme make, mĩthenya yothe.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "rĩrĩ, mwendere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ũikarĩre"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ũtunyani wake"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ciawĩra ciake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ciira ciake"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "amũrũme make"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:43.123470639Z",
+  "model": "glm-5.3"
+}

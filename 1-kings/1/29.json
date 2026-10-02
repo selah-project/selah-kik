@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mwathi akĩhihĩra, na akĩigua atĩrĩ: Yahwe arĩkio, ũrĩa wauthĩkĩrire ⟨את⟩ mũoyo wakwa kuoma thĩna yothe.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "akĩhihĩra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩigua atĩrĩ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "arĩkio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wauthĩkĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũoyo wakwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuoma … yothe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "thĩna"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:14.178158777Z",
+  "model": "glm-5.3"
+}

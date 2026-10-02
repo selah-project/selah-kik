@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na aana a Eziraha nĩ: Yeteri, na Meredi, na Eferi, na Yaroni; na ⟨we⟩ aratire ⟨את⟩ Miriamu, na ⟨את⟩ Camai, na ⟨את⟩ Yicibaki, itha wa Ecitemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Eziraha"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeteri"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "na Meredi"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "na Eferi"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "na Yaroni"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "aratire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miriamu"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Camai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Camai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yicibaki"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yicibaki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "itha wa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Ecitemoa"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:13.109296013Z",
+  "model": "glm-5.3"
+}

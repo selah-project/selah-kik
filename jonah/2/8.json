@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Rĩa mũoyo wakwa wonanirie ini, nĩngĩrĩkire ⟨את⟩ Yahwe; na mahoya makwa maikire kũrĩ wee, thĩina wa hekarũ wa ũtheru waku.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "rĩa... wonanirie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "nĩngĩrĩkire"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "na maikire"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ wee"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mahoya makwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩina wa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hekarũ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ũtheru waku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:46.836134354Z",
+  "model": "glm-5.3"
+}

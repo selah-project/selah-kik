@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nake Erimereki, mũthamaki wa Naomi, akĩũrwo; nao Naomi akĩigarario, we na aana ake eerĩ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akĩũrwo"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Erimereki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũthamaki wa"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "akĩigarario"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨we⟩"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na eerĩ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "aana ake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:56.196629419Z",
+  "model": "glm-5.3"
+}

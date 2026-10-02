@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na Aharoni agatuũra kĩonjo igũrũ rĩa iberĩ cia mbũri: kĩonjo kĩmwe kĩa Yahwe, na kĩonjo kĩmwe kĩa Azazeri.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "agatuũra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iberĩ"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "cia mbũri"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "kĩonjo"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kĩonjo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "na kĩonjo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kĩa Azazeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:28.660522606Z",
+  "model": "glm-5.3"
+}

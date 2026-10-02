@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "No o ũrĩa maatũnĩkaga ⟨את⟩ naguo, o ũguo nĩmaingĩhĩra, na o ũguo nĩmaambaretwo; Magĩca ũũ nĩmaiguĩte kahũa nĩ ĩndũrĩ ya ciana cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "O ũrĩa"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "maatũnĩkaga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "naguo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "nĩmaingĩhĩra"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na o ũguo"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "nĩmaambaretwo"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "nĩmaiguĩte kahũa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nĩ ĩndũrĩ ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:03.788421438Z",
+  "model": "glm-5.3"
+}

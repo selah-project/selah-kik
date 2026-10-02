@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ciugo cia Kohereti, mũrũ wa Dawidi, mũthamaki thĩinĩ wa Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohereti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "thĩinĩ wa Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:29.009463382Z",
+  "model": "glm-5.3"
+}

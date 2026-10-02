@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 3:13",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Thikai, mwe mũng'arĩrie thĩinĩ wa nyũmba ya Yaakobu, Adonai Yahwe oigĩte, Erohimu wa Cebaoti.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Thikai"
+    },
+    {
+      "surface": "והעידו",
+      "gloss": "mũng'arĩrie"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thĩinĩ wa nyũmba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "wa Cebaoti"
+    }
+  ],
+  "timestamp": "2026-10-02T06:52:52.501017281Z",
+  "model": "glm-5.3"
+}

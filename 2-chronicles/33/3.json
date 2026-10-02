@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Ndĩagĩrĩirie agĩcoka agĩathaarĩra ⟨את⟩ macũrũrũ ma mahiũ, arĩa Yehikiyahu ithe wake aarĩte, na agĩĩhĩrĩria cĩambĩra cia Beari, na agĩĩra Acerothi, na akĩgũcũkĩra mbũtũ yothe ya igũrũ, na agĩcũũrania ⟨את⟩ icio.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "agĩcoka"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "agĩathaarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macũrũrũ ma mahiũ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "macũrũrũ ma mahiũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "aarĩte"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehikiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "agĩĩhĩrĩria"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "cĩambĩra"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "cia Beari"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "agĩĩra"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "Acerothi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akĩgũcũkĩra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya igũrũ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "agĩcũũrania"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ icio",
+      "marks": "mbũtũ ya igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:01:39.310474731Z",
+  "model": "glm-5.3"
+}

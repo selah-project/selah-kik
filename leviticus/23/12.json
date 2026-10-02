@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na mũthenya ũrĩa mũkenia ⟨את⟩ omeri, mũkorerie mwana wa ng'ombe ũrĩa tarĩ wa mahiũ, kĩheo gĩa kũniinĩra kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mũkorerie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "mũkenia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeri"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omeri"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "mwana wa ng'ombe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tarĩ wa mahiũ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "mĩaka ĩmwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kĩheo gĩa kũniinĩra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:22.532006660Z",
+  "model": "glm-5.3"
+}

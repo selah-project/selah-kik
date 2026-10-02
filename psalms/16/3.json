@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Ũhoro wa arĩa atheru arĩa matũraga thĩ: ao nĩ marĩ arĩa maingĩ hinya, arĩa kũenda kwakwa othingothe kunanagia thĩinĩ mwao.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "ũhoro wa arĩa atheru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "na arĩa maingĩ hinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othingothe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kũenda kwakwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "thĩinĩ mwao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:11.533604097Z",
+  "model": "glm-5.3"
+}

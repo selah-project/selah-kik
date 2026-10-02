@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Moyo wake wĩnyitĩrire na Dina, mwarĩ wa Yaakobu; akĩenda ⟨את⟩ mwarĩ ũcio, nĩakĩarĩria ngoro-inĩ ya mwarĩ ũcio.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "wĩnyitĩrire"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "na Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwarĩ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "akĩenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwarĩ ũcio"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwarĩ ũcio"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akĩarĩria"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ya mwarĩ ũcio"
+    }
+  ],
+  "timestamp": "2026-10-02T06:09:47.380939710Z",
+  "model": "glm-5.3"
+}

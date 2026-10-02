@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mĩaka ithandatũ ũgakaria shamba rĩwaku, na mĩaka ithandatũ ũkagethia mboco rĩwaku, ũkanungũĩra ⟨את⟩ mĩmera wayo.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ithandatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ũgakaria"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "shamba rĩwaku"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ithandatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ũkagethia mboco"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "mboco rĩwaku"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ũkanungũĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩmera wayo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mĩmera wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:58.986216869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩkĩ mwĩhĩte gũkĩĩra hĩndĩ ya kĩrĩkanĩro, na mũthenya wa ithenya rĩa Yahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mwĩhĩte gũkĩĩra"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "hĩndĩ ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "na mũthenya wa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ithenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:52:32.813564471Z",
+  "model": "glm-5.3"
+}

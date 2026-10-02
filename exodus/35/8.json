@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na mafuta ma gũtheria mũtheri, na minyamaro (becami) ma kũrenga mafuta ma gũtherio-wa, na ya kethoreti ya minyamaro.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ma gũtheria mũtheri"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "minyamaro (becami)"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ma kũrenga mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ma gũtherio-wa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na ya kethoreti"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya minyamaro"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:20.340429894Z",
+  "model": "glm-5.3"
+}

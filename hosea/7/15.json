@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na inĩ ndarithia, ndĩhinyĩrĩirie mikono yao; no mahĩthĩtage ũru ihũ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na inĩ"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ndarithia"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "ndĩhinyĩrĩirie"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "no ... ihũ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "mahĩthĩtage"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T02:20:12.065496672Z",
+  "model": "glm-5.3"
+}

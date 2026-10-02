@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Hekicayahu na athamaki makĩũmbũkĩra, makĩona ⟨את⟩ macianda, magĩcoke makĩgooca ⟨את⟩ Yahwe na ⟨את⟩ andũ ake Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "makĩũmbũkĩra"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hekicayahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "na athamaki"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "makĩona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macianda"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "macianda"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "makĩgooca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:00:28.452210878Z",
+  "model": "glm-5.3"
+}

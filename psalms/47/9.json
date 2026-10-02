@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Erohimu nĩwathĩkĩte kũrigũrĩ ndũrĩrĩ; Erohimu nĩerũmirie thĩinĩ wa cegiro ya ũtheru wake.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "nĩwathĩkĩte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrigũrĩ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nĩerũmirie"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "cegiro"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ũtheru wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:54.256504406Z",
+  "model": "glm-5.3"
+}

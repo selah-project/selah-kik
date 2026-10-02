@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩmagambeire, na Yahwe nĩoĩrire, akamahonokithia kuuma mathĩna mao othe.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "nĩmagambeire"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nĩoĩrire"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kuuma othe"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "mathĩna mao"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "akamahonokithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:43.627434973Z",
+  "model": "glm-5.3"
+}

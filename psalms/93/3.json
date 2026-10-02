@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 93,
+  "translation": "Mĩrĩĩra ĩnyiitire kwarahũka, Yahwe; mĩrĩĩra ĩnyiitire mĩgambo yacio; mĩrĩĩra ĩka nyiita kwarahũka kwa mĩrũrũ yacio.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ĩnyiitire kwarahũka"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mĩrĩĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ĩnyiitire"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mĩrĩĩra"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mĩgambo yacio"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ĩka nyiita"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mĩrĩĩra"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "kwarahũka kwa mĩrũrũ yacio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:37.775888055Z",
+  "model": "glm-5.3"
+}

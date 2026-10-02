@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Ha Yahwe, mwe mĩcemanio ya andũ a ndũrĩrĩ; ha Yahwe ũtheri na hinya.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mĩcemanio"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ a ndũrĩrĩ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:14.754564584Z",
+  "model": "glm-5.3"
+}

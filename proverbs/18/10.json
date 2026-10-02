@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Rĩĩtwa rĩa Yahwe nĩ kĩgirĩiri kĩa hinya; mũtheru nĩarĩina gĩthĩinĩ kĩo, na eneigwo igũrũ.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "kĩgirĩiri"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kĩa hinya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gĩthĩinĩ kĩo"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "nĩarĩina"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "na eneigwo igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:54:26.507809121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Nĩarĩngĩhĩtie ⟨את⟩ andũ ake mũno, akĩmathĩnjĩrĩka hĩngĩcianĩ na athĩngaũ ake.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "nĩarĩngĩhĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ועצמהו",
+      "gloss": "akĩmathĩnjĩrĩka hĩngĩcianĩ na"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "athĩngaũ ake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:51.661663585Z",
+  "model": "glm-5.3"
+}

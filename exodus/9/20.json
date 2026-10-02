@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Mũndũ wogĩrĩirie ⟨את⟩ kĩugo kĩa Yahwe, harĩ athũnjĩri a Farao, nĩaatũmĩte ⟨את⟩ athũnjĩri ake na ⟨את⟩ mĩcuru yake yoĩ kũingĩra nyũmba-inĩ.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Mũndũ wogĩrĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩugo kĩa Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "harĩ athũnjĩri a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "nĩaatũmĩte yoĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athũnjĩri ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "athũnjĩri ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩcuru yake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mĩcuru yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũingĩra"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyũmba-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:16.183139862Z",
+  "model": "glm-5.3"
+}

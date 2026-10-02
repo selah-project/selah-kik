@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Receni, hagati wa Ninoe na hagati wa Karahi — ĩyo nĩyo mũciĩ mũnene.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Receni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Receni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati wa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninoe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati wa"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Karahi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "mũnene"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:01.471380569Z",
+  "model": "glm-5.3"
+}

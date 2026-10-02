@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na macro, ⟨את⟩ thakame yanyu nĩndĩrethete hĩndĩ ya nyinyiitwo ya mwĩrĩ wanyu; kuuma mkononi mwa nyamu iothe ndĩkuuthira, na kuuma mkononi mwa mũndũ, kuuma mkonini mwa mũndũ mwaracio, nĩndĩrethete ⟨את⟩ mwĩrĩ wa mũndũ.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "na macro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame yanyu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "thakame yanyu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "hĩndĩ ya nyinyiitwo ya mwĩrĩ wanyu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nĩndĩrethete"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma mkononi mwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ndĩkuuthira"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na kuuma mkononi mwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma mkonini mwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mwaracio"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nĩndĩrethete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwĩrĩ wa mũndũ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wa mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:55.909476830Z",
+  "model": "glm-5.3"
+}

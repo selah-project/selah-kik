@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Wa ciana cia Yocɛfu; wa Efrayimu, Ericamae mũrũ wa Amihudi; wa Manace, Gamarieri mũrũ wa Pedahaceri.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Wa ciana cia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocɛfu"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "wa Efrayimu"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Ericamae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihudi"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "wa Manace"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamarieri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahaceri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:50.738005179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Arĩa mothe matũũraga thĩ yothe na arĩa makarĩ thĩ, rĩrĩa cira ĩngĩmagĩrũo igũrũ wa mirima, mũrora; na rĩrĩa ng'arachi ya mbũri ĩgĩtegwo, mũĩhĩghe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "יֹשְׁבֵי",
+      "gloss": "arĩa matũũraga"
+    },
+    {
+      "surface": "תֵבֵל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "ושֹׁכְנֵי",
+      "gloss": "na arĩa makarĩ"
+    },
+    {
+      "surface": "אָרֶץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כִּנְשֹׂא",
+      "gloss": "rĩrĩa…ĩngĩmagĩrũo"
+    },
+    {
+      "surface": "נֵס",
+      "gloss": "cira"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "mirima"
+    },
+    {
+      "surface": "תִּרְאוּ",
+      "gloss": "mũrora"
+    },
+    {
+      "surface": "וְכִתְקֹעַ",
+      "gloss": "na rĩrĩa…ĩgĩtegwo"
+    },
+    {
+      "surface": "שׁוֹפָר",
+      "gloss": "ng'arachi ya mbũri"
+    },
+    {
+      "surface": "תִּשְׁמָעוּ",
+      "gloss": "mũĩhĩghe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:37:41.522500488Z",
+  "model": "glm-5.3"
+}

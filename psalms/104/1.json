@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Ngoocha, moyo wakwa, ⟨את⟩ Yahwe; Yahwe, Erohimu wakwa, nĩũnene muno; wĩvĩkĩcie kĩeeri na kĩgima.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Ngoocha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "nĩũnene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muno"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "kĩeeri"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na kĩgima"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "wĩvĩkĩcie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:06.314178857Z",
+  "model": "glm-5.3"
+}

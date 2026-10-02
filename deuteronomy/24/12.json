@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na aramũndũ mũkeni, ndũkaigana na kĩheo gĩake:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkeni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aramũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũkaigana"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "kaigana"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "na kĩheo gĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:30:30.151201792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Kajini amenya ⟨את⟩ mũtumia wake, akĩnyita mimba, na akimũciarera ⟨את⟩ Hanoki; nake akagĩa mũcakayi wa mũciĩ, akĩhoota rĩĩtwa rĩa mũciĩ ũcio o ta rĩĩtwa rĩa mũrũ wake Hanoki.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "amenya"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtumia wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akĩnyita mimba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akimũciarera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanoki"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoki"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akagĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mũcakayi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "rĩa mũciĩ ũcio"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "o ta rĩĩtwa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "rĩa mũrũ wake"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoki"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:24.418030093Z",
+  "model": "glm-5.3"
+}

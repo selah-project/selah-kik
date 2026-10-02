@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩ mũndũ, mũndũ o wothe arĩa ekũraania ithee wake na ⟨את⟩ maitheũ wake, nĩekũũrwo nĩ thī; ithee wake na maitheũ wake nĩaraanĩtie: thigaru yake ĩrĩ ha mũndũ ũcio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ekũraania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithee wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithee wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maitheũ wake"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "maitheũ wake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "thī"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nĩekũũrwo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithee wake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na maitheũ wake"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "nĩaraanĩtie"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "thigaru yake"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ha mũndũ ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:18.754032384Z",
+  "model": "glm-5.3"
+}

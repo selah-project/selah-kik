@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Magĩcoka magĩtua ⟨את⟩ nguo ya Yocifu, namagethĩnjĩra mũrabua wa mbũri, namagĩinamia ⟨את⟩ nguo iyoo thĩinĩ wa thakame.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "magĩtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo ya Yocifu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yocifu"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "magĩthĩnjĩra"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "mũrabua"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "wa mbũri"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "magĩinamia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo iyoo"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "nguo iyoo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "thĩinĩ wa thakame"
+    }
+  ],
+  "timestamp": "2026-10-01T20:50:37.055261524Z",
+  "model": "glm-5.3"
+}

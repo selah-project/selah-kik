@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Abineri agĩkinya kwa Dawidi Ceburoni, nayo ⟨את⟩ mirongo ĩrĩ ya andũ hamwe naywe; Dawidi akagĩra Abineri na andũ aría arĩ ⟨את⟩ hamwe naywe kĩgano.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "agĩkinya"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ceburoni"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "nayo ⟨את⟩ arĩ hamwe naywe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo ĩrĩ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ya andũ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akagĩra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "arĩ ⟨את⟩ hamwe naywe"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "kĩgano"
+    }
+  ],
+  "timestamp": "2026-10-01T23:31:03.131839351Z",
+  "model": "glm-5.3"
+}

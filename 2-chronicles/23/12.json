@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Atarayahu akĩũrirĩta ⟨את⟩ mũgambo wa andũ arĩa maathĩĩaga na arĩa makũngĩrĩria ⟨את⟩ mwathi; nakĩũga kũrĩ andũ, thĩinĩ wa nyũmba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וותשמע",
+      "gloss": "akĩũrirĩta"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atarayahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa andũ"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "arĩa maathĩĩaga"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "na arĩa makũngĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "nakĩũga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:54:18.800415576Z",
+  "model": "glm-5.3"
+}

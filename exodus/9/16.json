@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "No nĩ ũndũ wa ũcio nĩngĩkũmĩrĩirie ũgĩcokia, nĩ gweta ũrĩa ũone ⟨את⟩ hinya wakwa, na rĩĩtwa rakwa rĩgĩtwo thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "nĩngĩkũmĩrĩirie ũgĩcokia"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nĩ gweta ũrĩa"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ũone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinya wakwa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na nĩguo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "rĩgĩtwo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "rĩĩtwa rakwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:47.862478669Z",
+  "model": "glm-5.3"
+}

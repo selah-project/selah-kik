@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Rũaki rĩatũrire, na rĩkĩrũgama mbere ya Yahwe, na rĩkĩuga: Nĩndĩmũhere. Nacio Yahwe agĩkĩũrĩria: Ningĩ?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rĩatũrire"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "rũaki"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "rĩkĩrũgama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na rĩkĩuga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "mũhere"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩkĩũrĩria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ningĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:05:43.731741719Z",
+  "model": "glm-5.3"
+}

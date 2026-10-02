@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Maatũũrire gĩthaka-inĩ, thĩ ya mahũa njĩra-inĩ; mũciĩ wa kũikara matiiguire.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "maatũũrire"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthaka-inĩ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "thĩ ya mahũa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "wa kũikara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mati-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "guire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.344717287Z",
+  "model": "glm-5.3"
+}

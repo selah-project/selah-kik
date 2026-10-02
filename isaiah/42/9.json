@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Maũndũ ma mbere, thĩna, nĩmethiĩkũrire; na cĩrĩa cĩpya nĩnĩroŋa — mbere ya kũmera kũkĩa nĩngĩmũiguithia ⟨את⟩ nyũi.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "maũndũ ma mbere"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "thĩna"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩmethiĩkũrire"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "na cĩrĩa cĩpya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩnĩ"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "nĩroŋa"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "kũmera"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "nĩngĩmũiguithia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyũi",
+      "marks": "nyũi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:45.661102681Z",
+  "model": "glm-5.3"
+}

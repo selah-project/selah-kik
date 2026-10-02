@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ndũhe thĩna, Erohimu, ta hecedi waku; ta mũingĩ wa macememĩ aku, ihũrwo ⟨the⟩ ihotori yakwa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndũhe thĩna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ta hecedi waku"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ta mũingĩ wa"
+    },
+    {
+      "surface": "רחמיקה",
+      "gloss": "macememĩ aku"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ihũrwo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ihotori yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:12.313978715Z",
+  "model": "glm-5.3"
+}

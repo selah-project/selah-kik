@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Akameneria rũciaro ⟨את⟩ Beti-Rekemu, na rũciaro ⟨את⟩ Etamu, na rũciaro ⟨את⟩ Tekoa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akameneria rũciaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Rekemu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Rekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Etamu"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-10-02T05:45:13.638510730Z",
+  "model": "glm-5.3"
+}

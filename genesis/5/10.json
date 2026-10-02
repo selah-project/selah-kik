@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Enocu agĩikarĩte thutha wa kũciarithia ⟨את⟩ Keinani mĩaka igana inanya na ikũmi na ithano, akĩciarithia aana aarũme na aarũ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "agĩikarĩte"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enocu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũciarithia kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keinani"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keinani"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "inanya"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarithia"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "aana aarũme"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na aarũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:44.941410Z",
+  "model": "glm-5.3"
+}

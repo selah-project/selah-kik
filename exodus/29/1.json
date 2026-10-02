@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ũyũ nĩ ũhoro ũrĩa ũkaamĩra ma: gũkĩtheria ⟨אתם⟩, guhonokia Ĩ — gwĩta nyati ĩmwe, mũrũ wa ng'ombe, na ndũrũme ĩrĩ matarĩ kinda.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ũkaamĩra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "gũkĩtheria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "guhonokia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ĩ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gwĩta"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nyati"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "na ndũrũme"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "matarĩ kinda"
+    }
+  ],
+  "timestamp": "2026-10-01T21:21:27.263667152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "No kiugo kĩa mwathani kĩnyitire hinya kĩrĩa Yoabu na ciatũa cia ngwati, Yoabu na ciatũa cia ngwati makaĩte mbere ya mwathani magĩthiĩ kũbararia ⟨את⟩ andũ a ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kĩnyitire hinya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kĩa mwathani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kĩrĩa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ciatũa cia"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ngwati"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "makaĩte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na ciatũa cia"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ngwati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "magĩthiĩ kũbararia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Yiceraeri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:46:00.254602382Z",
+  "model": "glm-5.3"
+}

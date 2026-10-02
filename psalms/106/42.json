@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Na thũ ciao cĩmakwĩrire hinya-inĩ, na makĩnyiithio thĩinĩ wa moko ciao.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "cĩmakwĩrire hinya-inĩ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "thũ ciao"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "makĩnyiithio"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "moko ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:08.510512664Z",
+  "model": "glm-5.3"
+}

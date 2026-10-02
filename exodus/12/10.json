@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na matigethe kĩrĩa kĩayo kinya kĩtheri; na ũrĩa ũgĩkũgitha kinya kĩtheri, mũnihe mũrimũ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na matĩ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "gethe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kĩrĩa kĩayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kĩtheri"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "na ũrĩa ũgĩire thĩ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma kĩrĩa kĩayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kĩtheri"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mũrimũ-inĩ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "mũnihe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:08.154997488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ithĩinĩ wa ici nĩmũtuĩkaga arĩa mahĩtia: mũndũ o wothe ũrĩa ũkũngĩra nyoni ciacio ithũkũ nĩahĩtia nginya mũthenja.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Na ithĩinĩ wa ici"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "nĩmũtuĩkaga arĩa mahĩtia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ũrĩa ũkũngĩra"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "nyoni ciacio ithũkũ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nĩahĩtia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mũthenja"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:30.395495144Z",
+  "model": "glm-5.3"
+}

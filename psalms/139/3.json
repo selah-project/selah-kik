@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Mũcĩĩ wakwa na kũikara kwakwa nĩwagũcokanĩrĩirie; na njĩra Ciao nĩũmenyereire o mĩena yothe.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Mũcĩĩ wakwa"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "na kũikara kwakwa"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "nĩwagũcokanĩrĩirie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "o"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njĩra Ciao"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "nĩũmenyereire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:49.863035313Z",
+  "model": "glm-5.3"
+}

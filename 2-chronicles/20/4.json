@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Yehuda nĩyagĩcĩaranĩra guoko Yahwe kũringana; nao kuuma mĩcii yothe ya Yehuda magĩũira kũrenda ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nĩyagĩcĩaranĩra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kũrenda"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma mĩcii yothe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ya mĩcii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "magĩũira"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kũrenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:54:40.933169077Z",
+  "model": "glm-5.3"
+}

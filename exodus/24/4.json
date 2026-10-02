@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Moce akĩandĩka ⟨את⟩ ciugo ciothe cia Yahwe; akĩamũkĩra kĩroko, akĩmagĩra kĩĩrĩngĩrĩ-inĩ kĩrĩa thĩ ha kĩrĩma, na magongo ikũmi na iĩrirĩ, cia mĩbarĩ ikũmi na iĩrirĩ cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akĩandĩka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cia Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "akĩamũkĩra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩroko"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akĩmagĩra"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kĩĩrĩngĩrĩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ ha"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "iĩrirĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "magongo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mĩbarĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi na iĩrirĩ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:04.877567737Z",
+  "model": "glm-5.3"
+}

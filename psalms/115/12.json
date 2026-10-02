@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Yahwe netũkĩrĩte; arathimaka ⟨את⟩ nyũmba ya Yiceraeri, arathimaka ⟨את⟩ nyũmba ya Aharoni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "netũkĩrĩte"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "arathimaka"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "arathimaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yiceraeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "arathimaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Aharoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharoni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:23.168845918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yehocua mũrũ wa Nuni, mũtumia wa Yahwe, aakuire, arĩ wa mĩaka mĩrongo ikũmi na mĩrongo ĩrĩ na ikũmi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "aakuire"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuni"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa mĩaka"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mĩrongo ikũmi"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:22.943203729Z",
+  "model": "glm-5.3"
+}

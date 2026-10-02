@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Yahwe akarimũra ⟨את⟩ mũndũ hakuhĩ, na kũciarũrwo kũingĩ gwĩkĩte thĩiniĩ wa thĩ.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "akarimũra hakuhĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "kũingĩ"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "kũciarũrwo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩiniĩ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:27:21.659210836Z",
+  "model": "glm-5.3"
+}

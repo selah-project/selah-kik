@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Kwa mũcũngĩri, harĩ mĩratũra ya nyĩtĩri; kĩgeranio gĩa kũheana watho, kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũcũngĩri"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "harĩ mĩratũra ya nyĩtĩri"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kĩgeranio gĩa kũheana watho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:58.477858603Z",
+  "model": "glm-5.3"
+}

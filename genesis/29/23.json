@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Ndũkĩrĩirũo akĩgwa ũthiũ, nĩakĩrata ⟨את⟩ Rea mũritũ wake, akĩmũrotha kũrĩ we, nao we akĩingĩra kũrĩ we.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndũkĩrĩirũo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "akĩgwa ũthiũ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akĩrata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rea mũritũ wake"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Rea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mũritũ wake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akĩmũrotha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kũrĩ we"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akĩingĩra"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kũrĩ we"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:29.903745679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Arĩa mathiĩ thĩiniĩ iria-inĩ na ngararatũ, arĩa mamarĩtia watho mĩena-inĩ ya mĩena mĩnene cia maaĩ.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Arĩa mathiĩ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria-inĩ"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "na ngararatũ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "arĩa mamarĩtia"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "watho"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mĩena-inĩ ya maaĩ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mĩnene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:34.971615800Z",
+  "model": "glm-5.3"
+}

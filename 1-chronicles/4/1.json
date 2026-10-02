@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Ari a Yuda nĩma: Pereci, Heceroni, Karmi, Huri, na Cobari.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ari a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereci"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Heceroni"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "Huri"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Cobari"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:04.246120375Z",
+  "model": "glm-5.3"
+}

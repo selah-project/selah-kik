@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ ciaro cia nyũmba nĩacigĩĩrie dhahabhu, thĩinĩ na ha nja.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ciaro cia nyũmba"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "ciaro cia nyũmba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "cia nyũmba"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "nĩacigĩĩrie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabhu"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "na ha nja"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:00.317762388Z",
+  "model": "glm-5.3"
+}

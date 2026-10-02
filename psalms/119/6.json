@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Rĩrĩ ti ngĩkoya, rĩrĩa ndĩrora ⟨kũrĩ⟩ amathĩko aku mothe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ngĩkoya"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "rĩrĩa ndĩrora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amathĩko aku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:14.338260275Z",
+  "model": "glm-5.3"
+}

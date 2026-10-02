@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Cerahi nĩaire thutha wa kũciarĩra ⟨את⟩ Ereri mĩaka ithatũ na magana mana, akĩciarĩra aana arũme na aairũ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nĩaire"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Cerahi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ereri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ereri"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ithatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana mana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "aana arũme"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na aairũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:11.321843548Z",
+  "model": "glm-5.3"
+}

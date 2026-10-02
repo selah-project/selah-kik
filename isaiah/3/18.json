@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũthenya ũcio Adonai nĩagĩkũũra ⟨את⟩ ũgenthu wa mĩcikĩrĩro ya magũrũ, na mĩkanda ya mĩtwe, na ng'etha cia mweri.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "nĩagĩkũũra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgenthu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ũgenthu"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "mĩcikĩrĩro ya magũrũ"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "na mĩkanda ya mĩtwe"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "na ng'etha cia mweri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:05.611915951Z",
+  "model": "glm-5.3"
+}

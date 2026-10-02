@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Yabuci, na ⟨את⟩ Amori, na ⟨את⟩ Girigaci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yabuci"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yabuci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Girigaci"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girigaci"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:02.260745365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ĩĩ, nĩĩgũire, nĩcorire, na nĩciĩrĩkĩtie; nĩgũkorwo Yahwe ndĩgĩtikĩra.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ĩĩ"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "nĩĩgũire"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "nĩcorire"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "nĩciĩrĩkĩtie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ndĩgĩtikĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:22.594124060Z",
+  "model": "glm-5.3"
+}

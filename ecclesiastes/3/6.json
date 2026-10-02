@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Hĩndĩ ya kũrora, na hĩndĩ ya kũnina; hĩndĩ ya kũringithia, na hĩndĩ ya kũringa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kũrora"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "kũnina"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "kũringithia"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "kũringa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:37:57.285337742Z",
+  "model": "glm-5.3"
+}

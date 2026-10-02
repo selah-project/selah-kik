@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na Abyathari akĩmonyerera Dwidi atĩ Cauri nĩahunjire ⟨את⟩ athanjari a Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akĩmonyerera"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abyathari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dwidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "nĩahunjire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athanjari"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "athanjari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:22:38.331949772Z",
+  "model": "glm-5.3"
+}

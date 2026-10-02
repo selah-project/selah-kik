@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Akĩhotora na irĩgithathu mũthenya, na hĩndĩ ĩyo yothe ya ũgĩ thutha ũtheri wa mwaki.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "akĩhotora"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "na irĩgithathu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na hĩndĩ ĩyo yothe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya ũgĩ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "na ũtheri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wa mwaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:51.550862258Z",
+  "model": "glm-5.3"
+}

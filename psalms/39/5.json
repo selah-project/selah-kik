@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Menyeshe, Yahwe, kĩtheri kĩakwa, na mĩeri ya mĩthenya yaka — nĩ ĩrĩkũ? Nĩnjũĩre atĩ nĩ ndĩ mũthuuri.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Menyeshe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "kĩtheri kĩakwa"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "na mĩeri"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ya mĩthenya yaka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩ ĩrĩkũ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩ ⟨yo⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "nĩnjũĩre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "mũthuuri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ ndĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:26.037740262Z",
+  "model": "glm-5.3"
+}

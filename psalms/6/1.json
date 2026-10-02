@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Kũrĩ mũcũranji, na ngĩna cia nyĩmbo, igũrũ rĩa thayũ ya mbere ya gatgatũ. Ciugo cia Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũcũranji"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "na ngĩna cia nyĩmbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "thayũ ya mbere ya gatgatũ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cia Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:01.917825437Z",
+  "model": "glm-5.3"
+}

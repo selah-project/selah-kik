@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Yahwe agĩcĩkagĩrĩra ⟨את⟩ macio kuuma kuo, thĩinĩ wa mĩena yothe ya thĩ yense, na magĩtigĩra kũũnga mucii ũcio.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "agĩcĩkagĩrĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuuma kuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mĩena ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yense"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "magĩtigĩra"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "kũũnga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucii ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:53.452735052Z",
+  "model": "glm-5.3"
+}

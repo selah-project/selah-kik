@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na akĩterera mabuya igũrũ rĩa Dawidi na ⟨את⟩ acũciĩ a mũthamaki Dawidi othe; na andũ othe na arĩa a hinya othe magĩkuũ igũrũ rĩa wotho wake na rĩa motho wake.",
+  "tokens": [
+    {
+      "surface": "וסקל",
+      "gloss": "akĩterera mabuya"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "na mabuya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "acũciĩ a mũthamaki Dawidi othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "acũciĩ a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "arĩa a hinya"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "igũrũ rĩa wotho wake"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "na rĩa motho wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:38:24.390682897Z",
+  "model": "glm-5.3"
+}

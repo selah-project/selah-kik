@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Rĩrĩ, nyama irĩa ĩrĩ na mũoyo wayo hamwe — thithi yayo — ndĩmũrĩe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ĩrĩ na mũoyo wayo hamwe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "thithi yayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũrĩe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:28.635131898Z",
+  "model": "glm-5.3"
+}

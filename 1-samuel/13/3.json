@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Yonatani akũruta ⟨את⟩ icunjĩ rĩa ikinya rĩa Felecditi rĩrĩa rĩaarĩ Geba; na Felecdidi makĩigua, na Caori akĩatura mũgambo wa cofora thĩ-inĩ yothe, akiuga: Nĩngwĩrĩ, Ibiru.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akũruta"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icunjĩ rĩa ikinya rĩa Felecditi"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "icunjĩ rĩa ikinya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "rĩa Felecditi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "makĩigua"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Felecdidi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Caori"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "akĩatura mũgambo"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "cofora-inĩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nĩngwĩrĩ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibiru"
+    }
+  ],
+  "timestamp": "2026-10-02T06:30:42.988906958Z",
+  "model": "glm-5.3"
+}

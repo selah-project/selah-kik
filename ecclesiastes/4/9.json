@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Arĩa erĩ nĩ mabata gũkĩra ũmwe, nĩgũkorwo marĩ na mbeca njĩru thĩinĩ wa wĩra wao.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "nĩ mabata gũkĩra"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "arĩa erĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "marĩ na"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mbeca"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "njĩru"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "thĩinĩ wa wĩra wao"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:11.131468775Z",
+  "model": "glm-5.3"
+}

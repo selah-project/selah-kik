@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Wega nĩwĩyaga, na ũrekaga wega; nĩgũcenjeeria amaro rwaku.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwĩyaga"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "na ũrekaga wega"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nĩgũcenjeeria"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "amaro rwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:00.556555556Z",
+  "model": "glm-5.3"
+}

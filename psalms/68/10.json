@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Erohimu akĩheo kĩhurũko kĩa mĩheo ya kĩbũrũri; na rĩrĩa rĩarĩ kĩgunĩku nĩwaoimĩkĩirie, nawe ũĩtheeyereta gĩcunjĩ gĩaku.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "kĩhurũko kĩa mbura"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "ya mĩheo ya kĩbũrũri"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "akĩheo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "gĩcunjĩ gĩaku"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "na rĩrĩa rĩarĩ kĩgunĩku nĩwaoimĩkĩirie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nawe ũĩ"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "theeyereta"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:28.068103961Z",
+  "model": "glm-5.3"
+}

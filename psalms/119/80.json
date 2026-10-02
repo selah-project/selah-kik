@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Ngoro yakwa ĩkagwo ĩtheru thĩinĩ wa mawatho mao, nĩgeetha ndĩmenekage mbeca.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ĩkagwo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Ngoro yakwa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ĩtheru"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "thĩinĩ wa mawatho mao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ndĩmenekage mbeca"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:35.899322466Z",
+  "model": "glm-5.3"
+}

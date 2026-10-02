@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 28:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na thua la kũhita, la ũtheri na mĩoroto wake, ũrĩa wĩ thũinĩ wa kĩanja kĩa mafũtha, nĩgĩtuĩkĩra ta mboco ya mbere ya mĩumo, ũrĩa oni arĩa aona ⟨את⟩ ĩyo, rĩrĩa ĩnayorĩ thũinĩ wa kĩambata kĩake, nĩamemenia ĩyo.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "nĩgĩtuĩkĩra"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "thua"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "la kũhita"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "la ũtheri"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "na mĩoroto wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wĩ thũinĩ wa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kĩng'etĩ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "kĩa mafũtha"
+    },
+    {
+      "surface": "כבכורה",
+      "gloss": "ta mboco ya mbere"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "mĩumo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aona"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ĩyo"
+    },
+    {
+      "surface": "בעודה",
+      "gloss": "rĩrĩa ĩnayorĩ"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "thũinĩ wa kĩambata kĩake"
+    },
+    {
+      "surface": "יבלענה",
+      "gloss": "nĩamemenia ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:38:25.746318685Z",
+  "model": "glm-5.3"
+}

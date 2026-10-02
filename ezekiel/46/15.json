@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Na nĩgĩkahĩtwo ⟨את⟩ mũrũgo, na ⟨את⟩ minaha, na ⟨את⟩ maguta, kiroko na kiroko — kĩheo gĩa kũnywachia gĩa ĩgoofo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Na nĩgĩkahĩtwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũgo"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mũrũgo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "minaha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maguta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kiroko"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na kiroko"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kĩheo gĩa kũnywachia"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gĩa ĩgoofo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:14:27.660609103Z",
+  "model": "glm-5.3"
+}

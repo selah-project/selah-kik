@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mavuta ma kĩtheri, bibari kũrerĩria ⟨the⟩ mavuta ga kũrierio, na kunũhia kwa ⟨the⟩ bibari.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "Mavuta"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "ma kĩtheri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bibari"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "kũrerĩria mavuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ga kũrierio"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na kunũhia"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "kwa bibari"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:54.780545425Z",
+  "model": "glm-5.3"
+}

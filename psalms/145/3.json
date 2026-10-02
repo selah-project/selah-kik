@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Nĩ Mũnene Yahwe, na mũno nĩwe wa kũhimbĩrĩwo, na ũnene wake nĩgũtirĩ kĩndũ kĩmwe gĩthī kīmenyeka.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Nĩ Mũnene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na mũno nĩwe wa kũhimbĩrĩwo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "na ũnene wake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nĩgũtirĩ"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kĩndũ kĩmeneeketha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:14.758918148Z",
+  "model": "glm-5.3"
+}

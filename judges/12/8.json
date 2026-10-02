@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na thutha wake Ibecani wa Bethiremu nĩaguĩririe ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "nĩaguĩririe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibecani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bethiremu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:03:21.087477632Z",
+  "model": "glm-5.3"
+}

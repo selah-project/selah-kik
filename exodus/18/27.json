@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Moce nĩamũrire ⟨את⟩ mũthuuri wake, nao akĩũra akuothĩra bũrũri-inĩ wake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthuuri wake"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mũthuuri wake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akĩũra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akuothĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "bũrũri-inĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:48.924067731Z",
+  "model": "glm-5.3"
+}

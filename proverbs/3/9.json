@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ĩhoota ⟨את⟩ Yahwe na ũtonga waku, na na itheru rĩa mbere rĩa mboco ciothe cia waku.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "na ũtonga waku"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "na na itheru rĩa mbere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "mboco cia waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:01.710487426Z",
+  "model": "glm-5.3"
+}

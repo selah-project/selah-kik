@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Njĩra ya mĩwatho yaku nĩngĩcĩĩra hinya; nĩgũkorwo nĩwe ũrarahagĩtie ngoro yakwa.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ya mĩwatho yaku"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "nĩngĩcĩĩra hinya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "ũrarahagĩtie"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:54.145077148Z",
+  "model": "glm-5.3"
+}

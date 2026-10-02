@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Ngai cia kũnyungũrwa ndũkahĩga iwaku.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "cia kũnyungũrwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hĩga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwaku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:08.246816087Z",
+  "model": "glm-5.3"
+}

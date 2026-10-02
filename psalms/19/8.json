@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Tora ya Yahwe nĩ ĩtarĩ mahĩtia, ĩcookia mũoyo; ũira wa Yahwe nĩ wokĩgĩrwo, woheanaga ũgĩ mũndũ wonjethe.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ĩtarĩ mahĩtia"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ĩcookia"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ũira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "nĩ wokĩgĩrwo"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "woheanaga ũgĩ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mũndũ wonjethe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:24.118971097Z",
+  "model": "glm-5.3"
+}

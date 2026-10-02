@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Yiceraeri nĩigũhonyoka thĩinĩ wa Yahwe, kũhonyoka kwa ihinda rĩa thĩ yothe; nĩtĩmũtikanyihĩrĩrwo, na nĩtĩmũtikagũirwo, nginya ihinda rĩa ihinda.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "nĩigũhonyoka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "thĩinĩ wa Yahwe"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "kũhonyoka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kwa ihinda rĩa thĩ yothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩtĩ"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "mũtikanyihĩrĩrwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nĩtĩ"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "mũtikagũirwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "ihinda-inĩ rĩa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ihinda rĩa ihinda"
+    }
+  ],
+  "timestamp": "2026-10-02T00:50:15.917598149Z",
+  "model": "glm-5.3"
+}

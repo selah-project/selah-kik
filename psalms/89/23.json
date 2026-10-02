@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Thũ ndĩgamũtigithagia kũrenda mbeca; na mũndũ wa ũthĩna ũkaaruta kũmũnyitithia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndĩga"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mũtigithagia kũrenda mbeca"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mũndũ wa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ũthĩna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩga"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "aruta kũmũnyitithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:05.975299612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Ada akimũciarera ⟨את⟩ Yabari; nĩwe watũĩte ithenya rĩa arĩa makĩrũa-inĩ mahemani na mwaki-inĩ wa iwara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akimũciarera"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabari"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "watũĩte"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithenya rĩa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "arĩa makĩrũa-inĩ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mahemani"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "iwara"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:24.418756222Z",
+  "model": "glm-5.3"
+}

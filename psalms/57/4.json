@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Akahĩtĩka kuuma igũrũ na akamũkũrũngithia; rĩrĩa ũrĩa wĩyũrũraga acunjĩrĩte. Ceraya. Erohimu akahĩtĩka hecedi wakwa na ũma wakwa.",
+  "tokens": [
+    {
+      "surface": "יִשְׁלַח",
+      "gloss": "Akahĩtĩka"
+    },
+    {
+      "surface": "מִשָּׁמַיִם",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "וְיוֹשִׁיעֵנִי",
+      "gloss": "na akamũkũrũngithia"
+    },
+    {
+      "surface": "חֵרֵף",
+      "gloss": "acunjĩrĩte"
+    },
+    {
+      "surface": "שֹׁאֲפִי",
+      "gloss": "ũrĩa wĩyũrũraga"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Ceraya"
+    },
+    {
+      "surface": "יִשְׁלַח",
+      "gloss": "Akahĩtĩka"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "hecedi wakwa"
+    },
+    {
+      "surface": "וַאֲמִתּוֹ",
+      "gloss": "na ũma wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:14.870822346Z",
+  "model": "glm-5.3"
+}

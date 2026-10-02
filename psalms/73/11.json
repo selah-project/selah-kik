@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Na meera: Ere anamenya atĩa? Ao kũkorwo na kĩmenu harĩ Mũnene?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "na meera"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ao kũkorwo"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kĩmenu"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "harĩ Mũnene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:25.676041381Z",
+  "model": "glm-5.3"
+}

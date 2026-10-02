@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na ikũũra, mwaka-inĩ wa gatatũ, Yehocafati mwathi wa Yuda agĩikũũra kũrĩ mwathi wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ikũũra"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mwaka-inĩ wa"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "gatatũ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "agĩikũũra"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:08.840446865Z",
+  "model": "glm-5.3"
+}

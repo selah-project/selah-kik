@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Ndũkarege, Yahwe Erohimu wakwa; ndũkae kũrĩ na kũnini.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "rege"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "e kũrĩ na kũnini"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:35.449938539Z",
+  "model": "glm-5.3"
+}

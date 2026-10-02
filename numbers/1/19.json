@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ta ũrĩa Yahwe ahoirie ⟨את⟩ Moce, nĩguo akĩbarura andũ a Yiceraeri gĩthaka-inĩ kĩa Cĩinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ahoirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "akĩbarura andũ a"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthaka-inĩ kĩa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Cĩinai"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:57.340497100Z",
+  "model": "glm-5.3"
+}

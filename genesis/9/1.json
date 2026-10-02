@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩgo Erohimu amohire ng'arũro ⟨את⟩ Noaki na ⟨את⟩ aana make, na akĩmeeria atĩrĩ: Inyui mũcirie, mũengehe, na mũrore ⟨את⟩ thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "amohire ng'arũro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noaki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana make"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeeria"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mũcirie"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mũengehe"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mũrore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:28.634564601Z",
+  "model": "glm-5.3"
+}

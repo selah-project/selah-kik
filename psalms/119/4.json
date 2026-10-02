@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "We nyinyitĩrĩirie mĩrũingo yaku ituhe na ũthiomi mũingĩ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "nyinyitĩrĩirie"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "mĩrũingo yaku"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ituhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "na ũthiomi mũingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:30.569618617Z",
+  "model": "glm-5.3"
+}

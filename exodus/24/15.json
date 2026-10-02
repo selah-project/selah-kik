@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Moce akĩrĩa kũ kĩrĩma, na mũkũrwe nĩũhĩtitie ⟨את⟩ kĩrĩma kĩu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akĩrĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "nĩũhĩtitie"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mũkũrwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩma kĩu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma kĩu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:53.878516207Z",
+  "model": "glm-5.3"
+}

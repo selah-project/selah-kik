@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Matũmbĩ nĩmeagĩĩte, no nĩtũkaamũra na mawe ma gwĩka igũrũ; micamati nĩmetĩĩtwo, no nĩtũkahũrania na cedari.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "matũmbĩ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nĩmeagĩĩte"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "na mawe ma gwĩka igũrũ"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "nĩtũkaamũra"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "micamati"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "nĩmetĩĩtwo"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "na cedari"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "nĩtũkahũrania"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:43.123222949Z",
+  "model": "glm-5.3"
+}

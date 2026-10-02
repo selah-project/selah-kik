@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Riũa rĩarĩa rĩamũkĩte, ithenya rĩrĩ cĩigĩtwo, na matũũra macio makĩrĩara.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "rĩamũkĩte"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "rĩrĩ cĩigĩtwo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "matũũra macio"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "makĩrĩara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:04.201419580Z",
+  "model": "glm-5.3"
+}

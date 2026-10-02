@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Cemueri agĩkoma nginya kĩtheri, akĩvirua ⟨את⟩ irigithi cia nyũmba ya Yahwe; na Cemueri agĩtinya kũũra ⟨את⟩ kĩonereria kĩrĩa Eri.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "agĩkoma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kĩtheri"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "akĩvirua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irigithi cia nyũmba ya Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "irigithi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "na Cemueri"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "agĩtinya"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "kũũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩonereria"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "kĩonereria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:22.061594189Z",
+  "model": "glm-5.3"
+}

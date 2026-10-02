@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na rĩrahote gĩkũnja kĩingĩ kinya mbũtũ cia igũrũ; na ĩrahũthagia thĩ ciongie cia mbũtũ na ciongie cia inyenyi, na ĩrang'aria ⟨irĩ⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "rĩrahote gĩkũnja kĩingĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cia igũrũ"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ĩrahũthagia thĩ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ciongie cia"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na ciongie cia"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "inyenyi"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ĩrang'aria irĩ thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:56:40.368275002Z",
+  "model": "glm-5.3"
+}

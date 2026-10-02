@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Kũrĩ mũrĩĩre waku nĩmamateithĩrĩirie mũronyo mũkĩgĩ-inĩ, na makarũnganĩra kũrĩ arĩa wamatũŋũire.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mũrĩĩre waku"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "nĩmamateithĩrĩirie"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "mũronyo mũkĩgĩ-inĩ"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "na makarũnganĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "arĩa wamatũŋũire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:14.368848904Z",
+  "model": "glm-5.3"
+}

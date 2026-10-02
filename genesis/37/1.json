@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na Yaakobu aikarĩte thĩinĩ wa bũrũri wa mahũrũrĩko ma ithe wake, thĩinĩ wa bũrũri wa Kenaani.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "aikarĩte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa bũrũri"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "mahũrũrĩko"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ma ithe wake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa bũrũri"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:50:32.145329561Z",
+  "model": "glm-5.3"
+}

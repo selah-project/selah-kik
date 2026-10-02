@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Yahwe Erohimu waku agakũha ⟨את⟩ ciĩrumi ici ciothe thĩinĩ wa thũ ciaku, na thĩinĩ wa arĩa mamenete, arĩa maakũrũmiriire.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "agakũha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩrumi ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "ciĩrumi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "thũ ciaku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "arĩa mamenete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "maakũrũmiriire"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:09.643836298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Agatũra igũrũ rĩa arĩa moowero thingo, mũaki na gafurita; na ruaki ya kĩheha nĩyo kĩigĩrĩro kĩa kĩonthi kĩao.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "agatũra"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa mooweru"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "thingo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "na gafurita"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na ruaki"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ya kĩheha"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "kĩigĩrĩro kĩa"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "kĩonthi kĩao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:30.492617011Z",
+  "model": "glm-5.3"
+}

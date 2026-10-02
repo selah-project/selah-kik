@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yahwe nĩanyitĩte hinya kũĩngĩra thũ cia Recini igũrũ rĩake wake, na thũ ciake nĩciombĩte hamwe.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "nĩanyitĩte hinya kũĩngĩra igũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thũ cia Recini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thũ ciake"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "thũ ciake"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "nĩciombĩte hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:43.123555561Z",
+  "model": "glm-5.3"
+}

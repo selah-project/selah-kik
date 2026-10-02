@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "rĩrĩa ngĩhe kwnoya macio makwa, thingu-inĩ cia macio makwa kwnoya gwĩte:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ngĩhe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "kwnoya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "macio makwa"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "thingu-inĩ cia macio makwa"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "kwnoya gwĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.414098498Z",
+  "model": "glm-5.3"
+}

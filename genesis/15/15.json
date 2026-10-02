@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na we ũgĩciĩ kwa athe aku na thayũ; ũgĩciĩkwuo mũkũrũ wa kĩega.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ũgĩciĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "athe aku"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na thayũ"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "ũgĩciĩkwuo"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "mũkũrũ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "wa kĩega"
+    }
+  ],
+  "timestamp": "2026-10-01T20:36:47.416375529Z",
+  "model": "glm-5.3"
+}

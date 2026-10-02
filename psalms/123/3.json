@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 123,
+  "translation": "Tũhonje, Yahwe, tũhonje; nĩgũkorwo nĩ mũingĩ mũno ũrĩa twahĩũtwo nĩ kũheania.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Tũhonje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "tũhonje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũingĩ mũno"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "twahĩũtwo"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kũheania"
+    }
+  ],
+  "timestamp": "2026-10-02T03:38:32.073467611Z",
+  "model": "glm-5.3"
+}

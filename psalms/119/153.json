@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Rēh. Thonda thingu yakwa, ũhonokiere; nĩgũkorwo Tora yao ndĩngĩhithĩtie.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "thonda"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "thingu yakwa"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "na ũhonokiere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ndĩngĩhithĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:27.176466180Z",
+  "model": "glm-5.3"
+}

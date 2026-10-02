@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na makĩgĩra ⟨את⟩ cianja cĩa gĩthemani kĩa ũtheru, thahabu theru; magĩcoandĩka igũrũ rĩake andĩko make ma kĩhumo, 'Ũtheru kwa Yahwe.'",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "na makĩgĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cianja"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "cianja"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "gĩthemani"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kĩa ũtheru"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "theru"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "magĩcoandĩka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "andĩko"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "make"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "kĩa kĩhumo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Ũtheru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:40.627306199Z",
+  "model": "glm-5.3"
+}

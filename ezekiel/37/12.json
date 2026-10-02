@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 37:12",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩ ũndũ ũcio rathĩra, na ũkaanĩra kũrĩ o: Oũguo Adonai Yahwe oigĩte: Rĩrĩ, nĩndĩ, nĩngũgũũra ⟨את⟩ cibũrũri cinu, na nĩngũnĩĩra ⟨את⟩ inywe kuuma cibũrũri cinu, andũ akwa, na nĩngũcĩĩra ⟨את⟩ inywe kũrĩ thĩ ya Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "rathĩra"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ũkaanĩra"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kũrĩ o"
+    },
+    {
+      "surface": "כה",
+      "gloss": "oũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nĩngũgũũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cibũrũri cinu"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "cibũrũri cinu"
+    },
+    {
+      "surface": "והעליתי",
+      "gloss": "nĩngũnĩĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "kuuma cibũrũri cinu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "nĩngũcĩĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:07:27.031937676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 143,
+  "translation": "Na ndũkinyire ciĩranĩ-inĩ ⟨את⟩ ngombo yaku; nĩ gũtirĩ mũrĩarĩ o wothe ũrĩa angĩhoteka gũtherũka matakainĩ waku.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na ndũ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ndũkinyire"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ciĩranĩ-inĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngombo yaku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ngombo yaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "angĩhoteka gũtherũka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "matakainĩ waku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mũrĩarĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:18.608155573Z",
+  "model": "glm-5.3"
+}

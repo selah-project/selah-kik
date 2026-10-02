@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩndiũkũrire nĩgoona: Gĩikaro gĩa mĩarĩ yanyu ngĩĩhaŋĩra ⟨mbeere cia⟩ Ceori; ndĩheanĩtwo kwarĩ gĩcunjĩ kĩa ihinda rĩa nginya mĩaka yakwa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nĩndi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩndiũkũrire"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "gĩikaro gĩa mĩarĩ yanyu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩarĩ yakwa"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ngĩĩhaŋĩra"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "mbeere cia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ndĩheanĩtwo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "gĩcunjĩ kĩa ihinda rĩa"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "mĩaka yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:41:44.560013011Z",
+  "model": "glm-5.3"
+}

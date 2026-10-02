@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na ũthondeke ⟨את⟩ kĩgũa kĩa eefodi, kĩothe kĩa ngerewaru.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "nĩgũthondeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgũa"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kĩgũa"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "kĩa eefodi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kĩothe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kĩa ngerewaru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:24.182477136Z",
+  "model": "glm-5.3"
+}

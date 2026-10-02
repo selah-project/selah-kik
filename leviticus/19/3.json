@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Mũndũ o wothe aroote ngoro ⟨את⟩ nyina wake na ⟨את⟩ ithe wake, na makorũo mũkuũriarie ⟨את⟩ Cabati ciaŋwĩ; nĩ ndĩ Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina wake"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "na ithe wake"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "arũothe ngoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cabati ciaŋwĩ"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Cabati ciaŋwĩ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "makorũo mũkuũriarie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ ndĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:41.324070743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Nĩngĩuga kwa rũgongo: He; na kwa mwena wa thĩ: Ũtĩ kana; ũreithie arũme akwa kuuma kũrĩ kaini, na aairĩtũ akwa kuuma mĩena ya thĩ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nĩngĩuga"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "kwa rũgongo"
+    },
+    {
+      "surface": "תני",
+      "gloss": "he"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "na kwa mwena wa thĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũtĩ"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "ũreithie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arũme akwa"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kuuma kũrĩ kaini"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "na aairĩtũ akwa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuuma mĩena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:04.628101972Z",
+  "model": "glm-5.3"
+}

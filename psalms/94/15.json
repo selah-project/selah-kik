@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Nĩgũko ciira nĩgũcookia kwa cedeki, na nyuma wayo arĩa othe a ngoro ĩnjokeru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "gũcookia"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ו אחריו",
+      "gloss": "na nyuma wayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro ĩnjokeru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:08.046909223Z",
+  "model": "glm-5.3"
+}

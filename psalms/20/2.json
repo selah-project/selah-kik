@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Yahwe akũcookerie thĩinĩ wa mũthenya wa thĩna; rĩĩtwa rĩa Erohimu wa Yaakobu rĩgũtũũmĩte hinya kũrĩ igũrũ;",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "akũcookerie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "thĩinĩ wa mũthenya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "wa thĩna"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "rĩgũtũũmĩte hinya kũrĩ igũrũ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "rĩa Erohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:44.209569986Z",
+  "model": "glm-5.3"
+}

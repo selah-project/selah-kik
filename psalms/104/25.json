@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Rũraua rũi rĩ nene na rũrĩhi mĩoko; kuo harĩ ngumbĩ cia kũthererĩra, na mũtare ũtikanganĩka; nyamũ cia kũrora, nini hamwe na nene.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "rũi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "rũraua"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "rũrĩhi"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "mĩoko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ngumbĩ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na tarĩ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mũtare"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "nyamũ cia kũrora"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:01.670871483Z",
+  "model": "glm-5.3"
+}

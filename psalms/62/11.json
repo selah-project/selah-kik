@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Mũtihokii kũnyamaria-inĩ, na thĩinĩ wa kũwanya mũtihinganie ihĩtũka; acũ rĩrĩa maĩgerera, mũtihĩtũkĩirie ngoro.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mũti-"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "hokii"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "kũnyamaria-inĩ"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "na thĩinĩ wa kũwanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũti-"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "hinganie ihĩtũka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "acũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "maĩgerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũti-"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "hĩtũkĩirie"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:07.684733179Z",
+  "model": "glm-5.3"
+}

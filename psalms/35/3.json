@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na ũrigitĩrie cembe, ũhonge cĩra gotha arĩa makũrote; ũrĩre ngoro yakwa atĩrĩ: Niĩ nĩ ũteithio waku.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Na ũrigitĩrie"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "cembe"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ũhonge"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gotha"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "arĩa makũrote"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ũrĩre"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "ũteithio waku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Niĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:47.767446474Z",
+  "model": "glm-5.3"
+}

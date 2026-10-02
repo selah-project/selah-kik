@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩgũkoruo nĩ ⟨o⟩igire, na nĩ ⟨inĩ⟩ ikari; nĩ ⟨o⟩ethĩrire, na nĩ ⟨inĩ⟩ yamĩrĩtie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩ ⟨inĩ⟩ ikari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ethĩrire"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nĩ ⟨inĩ⟩ yamĩrĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:09.480862496Z",
+  "model": "glm-5.3"
+}

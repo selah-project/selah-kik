@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Rĩrĩa ũgataũkaga ⟨את⟩ thĩ, ĩtigĩkuongera kũhe hinya waya kũrĩ we; ũgĩtuĩka mũgendi na mũciarũrũ thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ũgataũkaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ĩtigĩkuongera"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kũhe"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "hinya-waya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũrĩ-we"
+    },
+    {
+      "surface": "נע",
+      "gloss": "mũgendi"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "na-mũciarũrũ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ũgĩtuĩka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-yothe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:52.569243481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩ ũndũ ũcio nĩngũkũgooya, Yahwe, thĩinĩ wa mĩthũngũ, na Rĩitwa rĩaku nĩndĩinĩra nyĩimbo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nĩngũkũgooya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "thĩinĩ wa mĩthũngũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "na Rĩitwa rĩaku"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nĩndĩinĩra nyĩimbo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:16.530449369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ maruta make mothe anjokagĩra kũuma makĩo: ⟨את⟩ mũcimbĩrĩko wa mwena na ⟨את⟩ maruta mũnyitaga na mũthingo wa nda ya nyamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maruta make mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "maruta make"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "anjokagĩra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kũuma makĩo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũcimbĩrĩko wa mwena"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "mũcimbĩrĩko wa mwena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maruta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "maruta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "mũnyitaga na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingo wa nda ya nyamu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mũthingo wa nda ya nyamu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:47.088472216Z",
+  "model": "glm-5.3"
+}

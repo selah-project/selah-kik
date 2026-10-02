@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩanyĩtwo kinya nĩamĩrĩkĩtie, na aahĩndĩ magwo thĩinĩ wa hinya wake.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "nĩanyĩtwo"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "nĩamĩrĩkĩtie"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "na magwo"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "thĩinĩ wa hinya wake"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "aahĩndĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:11.363774373Z",
+  "model": "glm-5.3"
+}

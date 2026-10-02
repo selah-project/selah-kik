@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Mĩthingi yakwa ndĩatũranĩkĩte kuuma kwĩguĩrĩri kwaku, rĩrĩa ndombirwo mũhithũ-inĩ, na ndĩrũcirwo thĩinĩ wa mĩena mĩnini ya thĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "atũranĩkĩte"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mĩthingi yakwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuuma kwĩguĩrĩri kwaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndombirwo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mũhithũ-inĩ"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ndĩrũcirwo"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "thĩinĩ wa mĩena mĩnini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:00:20.295768714Z",
+  "model": "glm-5.3"
+}

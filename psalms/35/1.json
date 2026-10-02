@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Nĩ ya Dawidi. Rĩa, Yahwe, na ⟨את⟩ arĩa marũanĩtie nakwa; ũrwanĩre na ⟨את⟩ arĩa marwanĩtie nakwa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nĩ ya Dawidi"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa marũanĩtie nakwa"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "arĩa marũanĩtie nakwa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ũrwanĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa marwanĩtie nakwa"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "arĩa marwanĩtie nakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:47.763326208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Kĩengo gĩa ũgeni kĩrĩ mbere ya ⟨את⟩ ũthii wa mũmemenya; maitho ma mũkenũru mega kũndũ kwĩngĩ kwa thĩ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthii wa mũmemenya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kĩengo kĩa ũgeni kĩrĩ mbere ya"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mũmemenya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũthii"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "maitho ma"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mũkenũru"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "kũndũ kwĩngĩ kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:43.467975075Z",
+  "model": "glm-5.3"
+}

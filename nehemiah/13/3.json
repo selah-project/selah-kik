@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩguo kũgĩa-inĩ, rĩrĩa maiguire ⟨את⟩ Tora, magatenganithia mĩhianĩre wa andũ wothe kuuma Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩguo kũgĩa-inĩ"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "rĩrĩa maiguire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "magatenganithia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mĩhianĩre wa andũ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kuuma Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:19:56.413246499Z",
+  "model": "glm-5.3"
+}

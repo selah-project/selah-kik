@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Nĩ gũkorwo kĩguni nĩ gũriria nguo, na thamũrũ nĩ gũriria ndaarũ; no cedeki wakwa nĩ gũikara ho ihotha, na ihooto yakwa thayũ ya thayũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkorwo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ta nguo"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "nĩ gũriria"
+    },
+    {
+      "surface": "עש",
+      "gloss": "kĩguni"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "na ta ndaarũ"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "nĩ gũriria"
+    },
+    {
+      "surface": "סס",
+      "gloss": "thamũrũ"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "na cedeki wakwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho ihotha"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nĩ gũikara"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "na ihooto yakwa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ya thayũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:25.000607871Z",
+  "model": "glm-5.3"
+}

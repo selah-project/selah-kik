@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Erohimu wakwa, ndĩnyitanĩte nawe; ndĩngĩehĩtwo, na amenete akwa matangĩtuĩrũo na gũkena.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndĩnyitanĩte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ngĩehĩtwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na ndĩ"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "matangĩtuĩrũo na gũkena"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "amenete akwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:51.753545781Z",
+  "model": "glm-5.3"
+}

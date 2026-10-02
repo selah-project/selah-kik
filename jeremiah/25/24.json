@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ mathiomi mothe ma Arabu, na ⟨את⟩ mathiomi mothe ma andũ a mĩcingĩ irĩa mĩrũmbũaya makĩrathimũa nyambura-inĩ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathiomi mothe ma Arabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mathiomi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathiomi mothe ma andũ a mĩcingĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mathiomi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "andũ a mĩcingĩ"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "arĩa mĩrũmbũaya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nyambura-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:16:00.600166273Z",
+  "model": "glm-5.3"
+}

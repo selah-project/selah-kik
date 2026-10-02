@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Na matiguũkĩte, na matiganyitĩte ⟨את⟩ matũ macio mahinya, mahĩtũkĩra ciara ciaro, matiga gũthigaria kwa ngai ingĩ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "matiguũkĩte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "matiganyitĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matũ macio"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "matũ macio"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "mahĩtũkĩra"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "ciara ciaro"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "matiga"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "gũthigaria"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:33:37.495697788Z",
+  "model": "glm-5.3"
+}

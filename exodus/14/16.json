@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na we, ũnyanarire ⟨את⟩ mũthem wa gwakwa, ũnyoorore ⟨את⟩ ciara kwakwa igũrũ rĩa igwa, ũmirute; o na andũ a Yiceraeri makĩinũra thĩinĩ wa igwa, harĩ thĩ mwerũ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na we"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ũnyanarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthem wa gwakwa"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "mũthem wa gwakwa"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ũnyoorore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciara kwakwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ciara kwakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "igwa"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ũmirute"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "makĩinũra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "igwa"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "harĩ thĩ mwerũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:37.723793500Z",
+  "model": "glm-5.3"
+}

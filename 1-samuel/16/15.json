@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Atari a Caoro magĩuga amũ: Rĩrĩ, ta ruaki ya Erohimu ya mbũ nĩgũkũteererithia.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "magĩuga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Atari a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caoro"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "amũ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Erohimu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya mbũ"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "nĩgũkũteererithia"
+    }
+  ],
+  "timestamp": "2026-10-01T23:17:39.419935886Z",
+  "model": "glm-5.3"
+}

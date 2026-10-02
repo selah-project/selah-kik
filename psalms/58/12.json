@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Na mũndũ akiuga: Kweli, kũrĩ matunda kwa mũcedeki; kweli, nĩgũkorũo kũrĩ Erohimu aciira thĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "matunda"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kwa mũcedeki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "יש",
+      "gloss": "nĩgũkorũo kũrĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "aciira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:19.480627186Z",
+  "model": "glm-5.3"
+}

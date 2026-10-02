@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Kĩinĩro kĩa kwĩina, kwa mũthenya wa Cabati.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩinĩro"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kĩa kwĩina"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kwa mũthenya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Cabati"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:41.227751834Z",
+  "model": "glm-5.3"
+}

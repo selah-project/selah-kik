@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ici nĩciigano cia Aharoni na cia Moce, mũthenya ũrĩa Yahwe aarĩ ũkũhoreria ⟨את⟩ Moce, kĩrĩma-inĩ kĩa Cini.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ici"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ciigano"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "na Moce"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aarĩ ũkũhoreria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kĩrĩma-inĩ kĩa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Cini"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:11.357917671Z",
+  "model": "glm-5.3"
+}

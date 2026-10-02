@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Erohimu wakwa, nĩngĩhoya mũthenya ũcio na ndũngĩcooka; na mũthingũ, na hatirĩ kĩhũrũko kĩanjĩrĩkĩra.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩngĩhoya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya ũcio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũngĩ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "cooka"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na mũthingũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hatirĩ"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "kĩhũrũko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kĩanjĩrĩkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:33.581820506Z",
+  "model": "glm-5.3"
+}

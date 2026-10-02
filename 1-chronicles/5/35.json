@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Ahimaaci nĩamũcietie ⟨את⟩ Azarahayahi, na Azarahayahi nĩamũcietie ⟨את⟩ Yohananu.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "na Ahimaaci"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũcietie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarahayahi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarahayahi"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azarahayahi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũcietie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yohananu"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohananu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:50.830884924Z",
+  "model": "glm-5.3"
+}

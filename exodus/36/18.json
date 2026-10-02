@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na akĩratha mbũci cia kebero mirongo ĩtano kũhotana ⟨את⟩ hema ĩtuwe ĩmwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩratha"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "mbũci cia gwatanũra"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kebero"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo ĩtano"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "kũhotana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ĩtuwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:30.804069800Z",
+  "model": "glm-5.3"
+}

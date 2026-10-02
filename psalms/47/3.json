@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Nĩgũkorwo Yahwe, wothe-igũrũ, nĩ mũrũ wa kũigua; mũthamaki mũnene igũrũ wa thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wothe-igũrũ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mũrũ wa kũigua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:20.641318032Z",
+  "model": "glm-5.3"
+}

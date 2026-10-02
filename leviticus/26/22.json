@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na nĩngĩrehe icũinĩ ⟨את⟩ nyamu cia gĩthaka, ĩnyagĩrĩre ciana ⟨⟨את⟩⟩ inywi, na ĩheanie ⟨את⟩ ng'ombe anyu, na ĩtũmũrĩ ũnini ⟨את⟩ inywi, na mĩcengo yanyu ĩthetherĩtwo.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "nĩngĩrehe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "icũinĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyamu cia gĩthaka"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cia gĩthaka"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ĩnyagĩrĩre ciana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi",
+      "marks": "inywi"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "ĩheanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe anyu"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "ng'ombe anyu"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "ĩtũmũrĩ ũnini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi",
+      "marks": "inywi"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "ĩthetherĩtwo"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mĩcengo yanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:41.766266669Z",
+  "model": "glm-5.3"
+}

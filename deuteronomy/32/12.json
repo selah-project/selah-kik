@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Yahwe o we mwenenyaga ndamũtũũririe, na gũtirĩ Ngai ya ndũrĩrĩ ĩngĩ hamwe nake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "o we"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ndamũtũũririe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ngai ya ndũrĩrĩ ĩngĩ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ya kũrĩa ĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:53.189052809Z",
+  "model": "glm-5.3"
+}

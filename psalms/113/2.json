@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 113,
+  "translation": "Rĩĩtwa rĩa Yahwe rĩhootwo, kuuma rĩĩngĩ ĩno na kwa miaka yothe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "rĩhootwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "rĩhootwo"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuuma rĩĩngĩ ĩno"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na gĩkĩro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kwa miaka yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:51.449827196Z",
+  "model": "glm-5.3"
+}

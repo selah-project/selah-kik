@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na mũrerũ wake mũterũ, ũrĩa ũhiũ nake, ũrĩa ndaarĩ wa mũthuri — nĩwe nĩtake thaka atũkwo mũithĩrũ.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "na mũrerũ wake"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "mũterũ"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "ũhiũ nake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wa mũthuri"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "atũkwo mũithĩrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:59.521261938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Wa mũndũ ũrĩa omba ⟨the⟩ igũrũ na ũmenyo; nĩgũkorwo hecedi wake kĩrĩ hoora tene na tene.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "wa mũndũ ũrĩa omba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨the⟩ igũrũ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kĩrĩ hoora tene na tene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:50.053174632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "No mĩthi-inĩ ĩaku ndĩngĩĩka ũndũ ũcio, nĩ ũndũ wa Dawidi ithiaku; kuuma moko-inĩ ma mũrũ waku nĩngĩcinura.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "No"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "mĩthi-inĩ ĩaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩĩka"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ithiaku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ ma"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mũrũ waku"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "nĩngĩcinura"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:08.586070345Z",
+  "model": "glm-5.3"
+}

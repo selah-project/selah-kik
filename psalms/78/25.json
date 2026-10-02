@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Mũndũ nĩarii irĩa cia abirimu; nĩahotore ⟨את⟩ ciakuria arĩa kũsarehia.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "abirimu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nĩarii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ciakuria"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nĩahotore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciakuria"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kũsarehia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:20.400882996Z",
+  "model": "glm-5.3"
+}

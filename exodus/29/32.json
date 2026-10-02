@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Aharoni na aana ake magĩrĩra ⟨את⟩ nyama ya kondoo ndũmũ ũcio na ⟨את⟩ mũgate ũrĩa mũrĩ kiongo-inĩ, kĩambĩrĩria-inĩ gĩa Hema ya Ngoro.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "magĩrĩra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama ya kondoo ndũmũ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya kondoo ndũmũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mũgate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "mũrĩ kiongo-inĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Ngoro"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:26.340548814Z",
+  "model": "glm-5.3"
+}

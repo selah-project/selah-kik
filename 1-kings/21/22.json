@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩngũheana ⟨את⟩ nyumba yaku ta nyumba ya Yarobeamu mũrũ wa Nebati, na ta nyumba ya Beara mũrũ wa Ahiya, nĩ gũthingĩka ũrĩa ũthingĩte, na kũhithia ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩngũheana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yaku"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyumba yaku"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ta nyumba ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebati"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "na ta nyumba ya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Beara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "gũthingĩka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "ũthingĩte"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "na kũhithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:01:33.212432100Z",
+  "model": "glm-5.3"
+}

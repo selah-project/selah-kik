@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mĩthenya ĩtandatũ wĩra nĩgũoethekaga; na mũthenya wa mũgwanja nĩ Cabati, cabatoni, mũkĩraĩ wa ũtheru; wĩra wothe ndũmũre; nĩ Cabati ya Yahwe mĩciĩ-inĩ yanyu yothe.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ĩtandatũ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩgũoethekaga"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na mũthenya wa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "cabatoni"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "mũkĩraĩ wa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũre"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "mĩciĩ-inĩ yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:48.383303692Z",
+  "model": "glm-5.3"
+}

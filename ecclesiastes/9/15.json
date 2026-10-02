@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩmenyitetwo thĩinĩ wake mũndũ mũkenyu mũũgĩ, na we akĩhonokia ⟨את⟩ mũciĩ oigĩre ho ũgĩ wake; no mũndũ ndaarikirie ⟨את⟩ mũndũ ũrĩa mũkenyu ũcio.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "nĩmenyitetwo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "thĩinĩ wake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "mũkenyu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mũũgĩ"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "akĩhonokia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũciĩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "oigĩre ho ũgĩ wake"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "no mũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "aarikirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũcio mũkenyu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "mũkenyu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũrĩa ũcio"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:34.262584428Z",
+  "model": "glm-5.3"
+}

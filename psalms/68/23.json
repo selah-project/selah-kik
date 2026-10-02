@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Adonai akiuga: Kuuma Bacani nĩngĩcookia, nĩngĩcookia kuuma mĩhũũro ya riũa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Kuuma Bacani"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nĩngĩcookia"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nĩngĩcookia"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "kuuma mĩhũũro"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ya riũa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:36.107267093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Ndarooka agĩthiĩ thĩ-inĩ ya Micirayimu, na Acuru nĩwe ũrakorwo mũthamaki wao, nĩgũrĩirwo-inĩ maangĩirie kũooka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "kũcooka"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "וְאַשּׁוּר",
+      "gloss": "na Acuru"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "מַלְכּוֹ",
+      "gloss": "mũthamaki wao"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nĩgũrĩirwo-inĩ"
+    },
+    {
+      "surface": "מֵאֲנוּ",
+      "gloss": "maangĩrire"
+    },
+    {
+      "surface": "לָשׁוּב",
+      "gloss": "kũooka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:06.343266220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Ici-Bocethi atumire, akamũkura kũuma kwa mũndũ, kũuma kwa Paltieri mwana wa Ruci.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "na atumire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ici-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bocethi"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "akamũkura"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kũuma kwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kũuma kwa"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltieri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "wa Ruci"
+    }
+  ],
+  "timestamp": "2026-10-01T23:30:35.878686844Z",
+  "model": "glm-5.3"
+}

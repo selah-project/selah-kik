@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Nĩngĩrũthira arĩa mamenete njĩra ciaaku, na aihũ nĩmacooka kwaku.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "Nĩngĩrũthira"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "arĩa mamenete"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njĩra ciaaku"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "na aihũ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "nĩmacooka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:16.071018563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ũmwe akiuga: Tugĩrĩirwo na, na uthiĩ ⟨את⟩ aratumia aku. Nĩakĩuga: Nĩndĩ, nĩngĩthiĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Tugĩrĩirwo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na uthiĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aratumia aku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "aratumia aku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩakĩuga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nĩndĩ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nĩngĩthiĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:09:38.907909697Z",
+  "model": "glm-5.3"
+}

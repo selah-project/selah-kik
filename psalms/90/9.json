@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Nĩgwĩ mĩthenya yitu yothe yatũũrire thĩinĩ wa mĩthaaho yaku; twaherithia mĩaka yitu ta mũcĩĩrĩre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgwĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mĩthenya yitu"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "yatũũrire"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "thĩinĩ wa mĩthaaho yaku"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "twaherithia"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "mĩaka yitu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "mũcĩĩrĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:46.435953981Z",
+  "model": "glm-5.3"
+}

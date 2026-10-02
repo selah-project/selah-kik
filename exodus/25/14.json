@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ũciĩrĩra ⟨את⟩ mabandi thĩinĩ wa mĩringe irĩ igũrũ rua ithanĩro cia aroni, matĩĩragwo kũgũa ⟨את⟩ aroni nacio.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ũciĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabandi"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mabandi"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "thĩinĩ wa mĩringe"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rua"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ithanĩro"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "cia aroni"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kũgũa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nacio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:13.374217002Z",
+  "model": "glm-5.3"
+}

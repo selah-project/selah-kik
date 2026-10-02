@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩngĩtera cugo cianjĩ harĩ mũndũ ũyũ na mĩcĩĩ yake, ndĩmũtherithia ⟨את⟩ yũwe na ⟨את⟩ arĩa othe mahahĩragia thutha wake, mahahĩrĩtie na Moreki, kuma hagatĩ-inĩ kandũ aao.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "nĩngĩtera"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cugo cianjĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "cugo cianjĩ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mũndũ ũyũ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "mĩcĩĩ yake"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndĩmũtherithia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yũwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "arĩa mahahĩragia"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "gũhahĩrĩra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Moreki"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kuma hagatĩ-inĩ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "andũ aao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:17.538804136Z",
+  "model": "glm-5.3"
+}

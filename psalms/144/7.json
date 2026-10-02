@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Thura moko maku kuuma igũrũ rĩayambũrũkĩte; nĩũrũhithie, ũnciũre kuuma mãi maingĩ, kuuma moko wa aana a ndũrĩrĩ ĩngĩ.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Thura"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "moko maku"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kuuma igũrũ rĩayambũrũkĩte"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "nĩũrũhithie"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ũnciũre"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "kuuma mãi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maingĩ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "a ndũrĩrĩ ĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.140397988Z",
+  "model": "glm-5.3"
+}

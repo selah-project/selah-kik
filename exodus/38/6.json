@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na akarĩa ⟨את⟩ ibarĩ na mĩtĩ ya cithaiti, na akĩcukĩrĩra ⟨את⟩ cia keheni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akarĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibarĩ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ibarĩ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "na mĩtĩ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya cithaiti"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "akĩcukĩrĩra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "keheni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:04.293651335Z",
+  "model": "glm-5.3"
+}

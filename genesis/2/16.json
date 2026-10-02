@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Yahwe Erohimu agĩthĩnia mũndũ na kũmũateria atĩrĩ: Kuuma mĩtĩ yothe ya kĩambĩri, rĩa kũrĩa ndũrĩagĩrĩra kũrĩa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "agĩthĩinia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũmũateria atĩrĩ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Kuuma mĩtĩ yothe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ya kĩambĩri"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "rĩa kũrĩa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ndũrĩagĩrĩra kũrĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:06.494131195Z",
+  "model": "glm-5.3"
+}

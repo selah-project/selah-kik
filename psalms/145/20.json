@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Yahwe agacimbũra ⟨את⟩ arĩa moendete othe, na ⟨את⟩ arĩa arĩ ithenya othe ehoherera.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "agacimbũra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa moendete othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "arĩa moendete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa arĩ ithenya othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "arĩa arĩ ithenya"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ehoherera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:49.704472807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Habari ya miugo ya andũ, na ciugo cia morai makwa nĩĩwe nĩngĩshomorete njĩra cia mũhinyi.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Habari ya miugo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya andũ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "na ciugo"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "cia morai makwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩwe"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nĩngĩshomorete"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "cia mũhinyi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:01.661601836Z",
+  "model": "glm-5.3"
+}

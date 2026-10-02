@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Kũgũrũ kwakwa nĩguũmĩte harĩa hathiũ; mĩcemanio-inĩ nĩngĩgooca Yahwe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "kũgũrũ kwakwa"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nĩguũmĩte"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "harĩa hathiũ"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "mĩcemanio-inĩ"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "nĩngĩgooca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.702500043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Kĩrathani cia ithuĩ ti tuonire; mũrathi ti kũrĩ ũngĩ, na mũndũ ti arĩ ithuĩ-inĩ ⟨את⟩ ũrĩa ũmũĩ hĩndĩ ĩrĩ kĩndũ kĩgĩkĩra.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "kĩrathani cia ithuĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "tuonire"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti kũrĩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ithuĩ-inĩ (harĩ ithuĩ)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ũmũĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hĩndĩ ĩrĩ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩndũ kĩgĩkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:02.492526165Z",
+  "model": "glm-5.3"
+}

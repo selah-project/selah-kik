@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na ⟨arĩ⟩ akĩona ũguo, akĩĩamũkira, agĩthii njĩra ĩrĩa ĩtakua na mũoyo wake, agĩkinya Beri-Ceba, ĩrĩa ĩrĩ Yehuda, na akĩreha kuo ⟨את⟩ mũtumia wake mũruaru.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akĩĩamũkira"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agĩthii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mũoyo wake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩkinya"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beri-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ceba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa ĩrĩ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "akĩreha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtumia wake mũruaru"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "mũtumia wake mũruaru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:04:05.982032423Z",
+  "model": "glm-5.3"
+}

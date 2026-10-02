@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Mũthenya ⟨ũrĩa⟩ ndĩmũtigĩkĩra, nĩndĩreka mũhoko wakwa harĩ Iwe.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kũtigĩkĩra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "harĩ Iwe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "kũreka mũhoko"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:35.242268134Z",
+  "model": "glm-5.3"
+}

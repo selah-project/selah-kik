@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Thĩ nĩyothe na arĩa maatũũra icio marĩ mahana kũyũhũka; niĩ mwene nĩngĩthemekithia ng'arachi cĩayo. Cera.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "marĩ mahana kũyũhũka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yothe na"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "arĩa maatũũra icio"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "niĩ mwene"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "nĩngĩthemekithia"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ng'arachi cĩayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:18.338942711Z",
+  "model": "glm-5.3"
+}

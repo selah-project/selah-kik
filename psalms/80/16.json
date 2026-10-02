@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Na mũremũ ũrĩa ruoko rwa ũtheri rwao rwamẽirie, na mũrũ ũrĩa ũmẽnitie kwa we mwene.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "na mũremũ ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "rwamẽirie"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruoko rwa ũtheri rwao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "ũmẽnitie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa we mwene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:54.077672938Z",
+  "model": "glm-5.3"
+}

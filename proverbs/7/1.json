@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mũrũ wakwa, rũngitira ciugo cianĩ, na mawatho makwa ũhinyũrire ⟨את⟩ nawe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mũrũ wakwa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "rũngitira"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo cianĩ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na mawatho makwa"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ũhinyũrire"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:49:33.682924530Z",
+  "model": "glm-5.3"
+}

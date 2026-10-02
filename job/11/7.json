@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Wĩna gĩtĩĩga kĩa kũnyoora Eroha? Ũhota kũnyora gĩtĩĩga kĩa Cadai kĩngĩ?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "kũnyoora"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eroha"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "Wĩna gĩtĩĩga kĩa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kĩngĩ"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "gĩtĩĩga kĩa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Cadai"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "Ũhota kũnyora"
+    }
+  ],
+  "timestamp": "2026-10-02T04:10:05.944998701Z",
+  "model": "glm-5.3"
+}

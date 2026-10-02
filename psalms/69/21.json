@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Kũmenithwo kunamĩrĩte ngoro yakwa, na nĩndĩhinyĩrĩte; nĩndĩtegereire ũndũ mũkũhĩ, na gũtirĩ; na arĩa mũheania tha, ndimaonana ⟨na⟩ o ũmwe.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "kũmenithwo"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "kunamĩrĩte"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "nĩndĩhinyĩrĩte"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "nĩndĩtegereire"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ũndũ mũkũhĩ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "arĩa mũheania tha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ndimaonana"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:06.143943380Z",
+  "model": "glm-5.3"
+}

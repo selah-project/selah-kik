@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Sauli agĩona ⟨את⟩ kĩgwi kĩa Afilistini, na agĩtinya, na ngoro yake ĩgĩtetemenda mũno.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "agĩona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgwi kĩa Afilistini"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kĩgwi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "kĩa Afilistini"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "agĩtinya"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ĩgĩtetemenda"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:37.317139452Z",
+  "model": "glm-5.3"
+}

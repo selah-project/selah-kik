@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na akore ⟨את⟩ hoceni, ũthomi wa mũteithia, ta ũthomi wa efoda: wa dahabu, wa thekarathi, na wa purukawa, na wa tolathi ya ng'ĩa cĩĩrũ, na wa mũcũkwa wĩ mũnyororo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoceni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoceni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ũthomi wa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mũteithia"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ta ũthomi wa"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "thekarathi"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na purukawa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na tolathi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya ng'ĩa cĩĩrũ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na mũcũkwa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wĩ mũnyororo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:20.725429803Z",
+  "model": "glm-5.3"
+}

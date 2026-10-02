@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 149,
+  "translation": "Rĩĩtwa rake nirĩrangĩrwo hĩndĩ ya kũinĩra; na ng'oma na kĩnari bambarĩre baku.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "nirĩrangĩrwo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Rĩĩtwa rake"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "hĩndĩ ya kũinĩra"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "na ng'oma"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kĩnari"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bambarĩre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:34.746006266Z",
+  "model": "glm-5.3"
+}

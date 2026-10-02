@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Atheyi a andũ a ndũrĩrĩ nĩmacokanĩtio, marĩ andũ a Erohimu wa Abarahamu; nĩgũkorwo ngari cia thĩ nĩ cia Erohimu; we nĩwerũkĩte mũno.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "atheyi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a andũ"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nĩmacokanĩtio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Erohimu"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "nĩwerũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:54.257361148Z",
+  "model": "glm-5.3"
+}

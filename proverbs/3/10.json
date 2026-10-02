@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na itũũra rĩaku rĩa kũũraina mboco rĩjarwo na mĩngĩ, na njohi njerũ itonyi-inĩ rĩaku yĩhũrũkaga.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "rĩjarwo"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "itũũra rĩaku rĩa kũũraina mboco"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "na mĩngĩ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na njohi njerũ"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "itonyi-inĩ rĩaku"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "yĩhũrũkaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:01.710872352Z",
+  "model": "glm-5.3"
+}

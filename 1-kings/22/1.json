@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na nĩmaikarĩte miaka ĩtatũ, kũrirĩ kana mbaara kũrĩ hagati wa Aramu na hagati wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "nĩmaikarĩte"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kũrirĩ kana"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mbaara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagati wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:08.840163915Z",
+  "model": "glm-5.3"
+}

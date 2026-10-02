@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na makĩheha ⟨את⟩ Kebironi thĩinĩ wa thĩ ya Yuda, na ⟨את⟩ mĩgũnda yake ĩrĩa ĩigũrũ rĩraya rĩake.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Na makĩheha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kebironi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kebironi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa thĩ ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũnda yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mĩgũnda yake"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "ĩrĩa ĩigũrũ rĩraya rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:54.228648464Z",
+  "model": "glm-5.3"
+}

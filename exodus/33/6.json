@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na ciana cia Yiceraeri maatũire ⟨את⟩ ciako ciaco kuuma kĩrĩma kĩa Horobi.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "maatũire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciako ciaco"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ciako ciaco"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kuuma kĩrĩma kĩa"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horobi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:57.108964430Z",
+  "model": "glm-5.3"
+}

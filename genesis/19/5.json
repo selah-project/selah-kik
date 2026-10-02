@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Nao makĩgera Rothi, makĩmũũria: Arĩ kũ andũ arĩa maatonyire kũrĩ we ũmũthenya ũyũ? Mohĩrĩrie makĩũga ithuĩ tugĩcĩmena ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "makĩgera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Rothi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩmũũria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Arĩ kũ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aria"
+    },
+    {
+      "surface": "באו",
+      "gloss": "maatonyire"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ũmũthenya ũyũ"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "Mohĩrĩrie"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "tugĩcĩmena"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "andũ aria maatonyire ũmũthenya ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:47.022209047Z",
+  "model": "glm-5.3"
+}

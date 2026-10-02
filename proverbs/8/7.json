@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩgũkũ njambo cĩanjũ cĩaugaga ma; na kĩũga gĩa kũhĩtia nĩ kĩonekaga ithenya rĩa nguo cĩanjũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "augaga"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "njambo cĩanjũ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "kĩonekaga ithenya rĩa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "nguo cĩanjũ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kĩũga gĩa kũhĩtia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:47:41.148599315Z",
+  "model": "glm-5.3"
+}

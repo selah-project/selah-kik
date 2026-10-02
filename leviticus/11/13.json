@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ ici nĩmũtigoe kuuma thĩinĩ wa njugũ; ti njĩrĩa ciathĩragwo; nĩ ihĩtia gũkĩnĩgwo: ⟨את⟩ Necera, na ⟨את⟩ Pereci, na ⟨את⟩ Aziniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ici"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "nĩmũtigoe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "thĩinĩ wa njugũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "njĩrĩa ciathĩragwo"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ihĩtia gũkĩnĩgwo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Necera"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "Necera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Pereci"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "Pereci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aziniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "Aziniya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:29.502407805Z",
+  "model": "glm-5.3"
+}

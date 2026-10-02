@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Irĩma, na o mbua ciothe; mĩti ya ithũmbĩ na o mararasi.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "irĩma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o ciothe"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mbua"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mĩti"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya ithũmbĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mararasi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:01.786056715Z",
+  "model": "glm-5.3"
+}

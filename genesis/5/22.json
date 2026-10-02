@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩendete Hanoki thĩinĩ wa ⟨את⟩ Erohimu thutha wa kũsĩra ⟨את⟩ Metucelahi, mĩaka mĩrongo ĩtatũ, nĩacĩire arĩa methanĩne-arĩa mũka.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũsĩra kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metucelahi"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metucelahi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mĩrongo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "acĩire"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arĩa methanĩne"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na arĩa mũka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:50.066449843Z",
+  "model": "glm-5.3"
+}

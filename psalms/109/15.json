@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Ĩkoruo ĩthehereere metho-inĩ ma Yahwe hĩndĩ ciothe; na Yahwe akĩnyũrũra ũkũrĩkia wao kuuma thĩ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ĩkoruo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "metho-inĩ ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "akĩnyũrũra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ũkũrĩkia wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:38.777143511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Nĩgũtũkĩra we nĩwe ũgũkuhurithia kuuma mũtego wa mũtagi, na kuuma deberi wa kũonjoria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũtũkĩra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we nĩwe"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ũgũkuhurithia"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kuuma mũtego"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "wa mũtagi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "na kuuma deberi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "wa kũonjoria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:59.766160392Z",
+  "model": "glm-5.3"
+}

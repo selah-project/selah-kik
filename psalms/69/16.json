@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Maaĩ mandũũre makĩnyũrania; kana maaĩ ma mũhũro makĩnyũmira; kana gĩthima kĩgie kĩhũre kanũa kĩakyo igũrũ rwakwa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "makĩnyũrania"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "mandũũre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "makĩnyũmira"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "maaĩ ma mũhũro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "kĩgie kĩhũre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "gĩthima"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kanũa kĩakyo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:35.914993652Z",
+  "model": "glm-5.3"
+}

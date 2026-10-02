@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na ng'oroke ciamũreheha harĩ we icete na nyama kĩrothero, na icete na nyama kĩeerethoni; na mũcingĩre ũcio nĩanĩnyũa mĩchie.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "na ng'oroke cia"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "ciamũreheha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "harĩ we"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "icete"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩrothero"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "na icete"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kĩeerethoni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mũcingĩre ũcio"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "nĩanĩnyũa mĩcie"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:12.245931733Z",
+  "model": "glm-5.3"
+}

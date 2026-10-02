@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Adamu agĩikara mĩaka igana rĩmwe na mĩrongo ĩtatũ, akĩciarũaria mũrũ wa mũhianĩre wake, ta kĩĩonekero kĩake; akĩĩhoota ⟨את⟩ rĩĩtwa rwake Cethi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "igana rĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarũaria"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "mũhianĩre wake"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "ta kĩĩonekero kĩake"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rwake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rwake"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Cethi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:10.886013437Z",
+  "model": "glm-5.3"
+}

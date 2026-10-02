@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "No ũgũthĩ nĩwatũcĩĩtie, ũkaatũheanithia na ithaka; we nĩguardũkaga nginya harĩ mbũtũ ciaitũ.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "No ũgũthĩ"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "nĩwatũcĩĩtie"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ũkaatũheanithia na ithaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "we nĩguardũkaga nginya"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "harĩ mbũtũ ciaitũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:49.661769003Z",
+  "model": "glm-5.3"
+}

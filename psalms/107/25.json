@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Nĩaguĩte, nĩacemĩte ruaki ya mbura ya thaaki, na ruaki ĩrĩa nĩramamĩte mĩgũndĩ yayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩaguĩte"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nĩacemĩte"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "mbura ya thaaki"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "nĩramamĩte"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "mĩgũndĩ yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:44.355020749Z",
+  "model": "glm-5.3"
+}

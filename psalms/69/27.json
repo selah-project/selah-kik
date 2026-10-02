@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nĩ maũndũ: we wakorire, nao makĩhĩrĩtha-rĩ-andũ-ake; na kũhĩa kwa arĩa wawohirie makĩonania na ndwari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ maũndũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "wakorire"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "makĩhĩrĩtha-rĩ-andũ-ake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũhĩa kwa"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ndwari"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "arĩa wawohirie"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "makĩonania na"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:59.899449310Z",
+  "model": "glm-5.3"
+}

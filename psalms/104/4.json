@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "O ũrĩa ũteithagĩrĩra aratumia ake kuuma mĩhũmũ, ateithĩri ake nĩ mathako ma mwaki.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "O ũrĩa ũteithagĩrĩra"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "aratumia ake"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "mĩhũmũ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ateithĩri ake"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mwaki"
+    },
+    {
+      "surface": "להט",
+      "gloss": "mathako ma"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:06.320103241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩ nĩnĩ ndĩrĩkana gũhũrũka, na ruo rwakwa rũikoragwo mbere yakwa mũthenya o wothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩnĩ"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "gũhũrũka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ndĩrĩkana"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "na ruo rwakwa"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mũthenya o wothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:44.883153746Z",
+  "model": "glm-5.3"
+}

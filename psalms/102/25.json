@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩndĩrire: Ere wakwa, ndũkanĩreke ngere gatagatĩ wa mĩthenya yakwa; mĩaka yaku nĩikoragwo mĩthingi na mĩthingi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nĩndĩrire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ere wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "matũ"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "kũndĩreka ngere"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wa mĩthenya yakwa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mĩthingi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "na mĩthingi"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "mĩaka yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:06.913113675Z",
+  "model": "glm-5.3"
+}

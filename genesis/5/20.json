@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Mĩaka yothe ya Yeredi yaarĩ mĩrongo ĩtwa na ĩgĩrĩ, na igana ĩenda mĩaka, nĩlo akĩĩua.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yaarĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mĩrongo ĩtwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na ĩenda"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akĩĩua"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:02.746389475Z",
+  "model": "glm-5.3"
+}

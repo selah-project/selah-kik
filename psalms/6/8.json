@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Rĩtho rĩakwa rĩrahurũkanĩte nĩ kũhenereka; rĩrahuũkĩte nĩ ũndũ wa thũ makwa ciothe.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "rĩrahurũkanĩte"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "nĩ kũhenereka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "rĩtho rĩakwa"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "rĩrahuũkĩte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "thũ makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:35.893008170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ĩka mabandi ga mĩtĩ ya cĩtĩ, ũgĩcoora ⟨את⟩ makwo na thahabu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ĩka"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mabandi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ga mĩtĩ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya cĩtĩ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ũgĩcoora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "makwo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:13.373993980Z",
+  "model": "glm-5.3"
+}

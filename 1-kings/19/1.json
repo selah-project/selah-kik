@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na Ahabu akĩmenyithia Izeberi ⟨את⟩ indo ciothe iria Eriyahu akoretwo aikũra, na ⟨את⟩ indo ciothe iria aikũrire ⟨את⟩ marathi othe na kĩbegũ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akĩmenyithia"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izeberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aikũra"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "aikũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marathi othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "marathi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na kĩbegũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:04:05.981178193Z",
+  "model": "glm-5.3"
+}

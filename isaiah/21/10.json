@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Ũrĩa wĩcirio wakwa, na mũciĩ wa kĩrigo gĩakwa kĩa gũcana: ũrĩa ndĩiguĩthire kũrĩ ⟨את⟩ Yahwe Cebaoti, Erohimu wa Yiceraeri, nĩngĩhootetire inyui.",
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "Ũrĩa wĩcirio wakwa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mũciĩ wa"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "kĩrigo gĩakwa kĩa gũcana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndĩiguĩthire"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kũrĩ ⟨את⟩",
+      "marks": "Yahwe Cebaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nĩngĩhootetire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyui"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:18.355142844Z",
+  "model": "glm-5.3"
+}

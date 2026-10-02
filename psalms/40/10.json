@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Nĩngarathire cedeki harĩ kĩama kinene; rĩngĩ, mororogio wakwa ndingĩhithirie, Yahwe; nĩwe ũmena.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "nĩngarathire"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "harĩ kĩama"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kinene"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mororogio wakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndingĩ-"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "-hithirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ũmena"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:19.886101305Z",
+  "model": "glm-5.3"
+}

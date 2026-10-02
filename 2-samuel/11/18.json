@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩrĩa Yowabu anatũmĩra, akamenyereria Dawidi ⟨את⟩ macio mothe ma Ũrũa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatũmĩra"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamenyereria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "macio"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "wa Ũrũa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:34:59.335167494Z",
+  "model": "glm-5.3"
+}

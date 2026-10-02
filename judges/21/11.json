@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 21:11",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na ũyũ nĩrĩ ⟨ũrĩa⟩ ũhoro mũciĩra: mũndũ wothe wa cuma, na mũka wothe ũrĩa amenyetie kũigana na mũndũ wa cuma, mũcirũkie mũrore.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũciĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mũndũ wa cuma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "amenyetie"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "kũigana na"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mũndũ wa cuma"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "mũcirũkie mũrore"
+    }
+  ],
+  "timestamp": "2026-10-02T06:27:42.310673701Z",
+  "model": "glm-5.3"
+}

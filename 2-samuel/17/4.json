@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Kiugo kĩu kĩrĩgĩthĩtie thĩinĩ wa maithori ma Abecaromu, na thĩinĩ wa maithori ma andũ akũrũ othe a Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "kĩrĩgĩthĩtie"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo kĩu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maithori ma"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abecaromu"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "na thĩinĩ wa maithori ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "andũ akũrũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:38:44.025681144Z",
+  "model": "glm-5.3"
+}

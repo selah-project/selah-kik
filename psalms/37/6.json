@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩakuuga cedeki waku ta ũtheri, na ciira waku ta mũthenya ũrĩa mũrĩkũ.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Nĩakuuga"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "ta ũtheri"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "cedeki waku"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "na ciira waku"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ta mũthenya ũrĩa mũrĩkũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:18.455762790Z",
+  "model": "glm-5.3"
+}

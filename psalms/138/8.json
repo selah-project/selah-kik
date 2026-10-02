@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 138,
+  "translation": "Yahwe nĩagĩrĩirwo kũmĩkĩrĩrĩra ũndũ wa-ngĩ; Yahwe, hecedi waku nĩ wa tene na tene; ndũkarehere wĩra wa magoko maku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "nĩagĩrĩirwo kũmĩkĩrĩrĩra"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ũndũ wa-ngĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "wĩra wa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "magoko maku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "rehere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:04.406732520Z",
+  "model": "glm-5.3"
+}

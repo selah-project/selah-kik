@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Mĩthenya ithano na ũmwe ũtũme wira, ũcoke ũngie wira waku wothe.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ithano na ũmwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ũtũme wira"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ũcoke ũngie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "wira waku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:37.413345684Z",
+  "model": "glm-5.3"
+}

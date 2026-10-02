@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Akĩhuũrĩra kũinui akanĩina; akĩcooka kũinui akanarĩria; akamatũũra kũinui ⟨את⟩ Cimeoni, namo kũmũgota thĩinĩ wa machoni mao.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akĩhuũrĩra"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kũinui"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "akanĩina"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩcooka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kũinui"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akanarĩria"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kũinui"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akamatũũra"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kũinui ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cimeoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeoni"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "akamũgota"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Cimeoni (arĩa agotĩtwo)"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "thĩinĩ wa machoni mao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:26.184645949Z",
+  "model": "glm-5.3"
+}

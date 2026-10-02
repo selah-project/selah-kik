@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Nĩndĩrirĩtie nĩngĩhoota inawe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndĩrirĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ndũheere arumĩri"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ũrirĩre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nĩngĩhoota"
+    },
+    {
+      "surface": "לך",
+      "gloss": "inawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:52.772265192Z",
+  "model": "glm-5.3"
+}

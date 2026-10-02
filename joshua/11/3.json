@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "kwa Kenani mwena wa ithũĩro na mwena wa hũngũ, na kwa Amori, na Hiti, na Perizi, na Yebuci kirima-inĩ, na Hiwi thĩ wa Hermani, thĩinĩ wa bũrũri wa Micipa.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "mwena wa ithũĩro"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mwena wa hũngũ"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebuci"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kirima-inĩ"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hiwi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ wa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa bũrũri wa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micipa"
+    }
+  ],
+  "timestamp": "2026-10-01T22:46:42.044600792Z",
+  "model": "glm-5.3"
+}

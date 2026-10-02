@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Kwa mũnene wa kĩama kĩa mbĩri, ciĩgie 'Mwĩhocho wa Mwana' — kĩinjĩrĩria kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũnene wa kĩama kĩa mbĩri"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ciĩgie 'Mwĩhocho"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "wa Mwana'"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩinjĩrĩria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:57.592432254Z",
+  "model": "glm-5.3"
+}

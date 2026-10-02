@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩrĩrĩ, Dawidi anĩrire ⟨את⟩ kĩnĩndano kĩu harĩ Caure na harĩ Yehonathani mũrũ wake.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "anĩrire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩnĩndano kĩu"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "kĩnĩndano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caure"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na harĩ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:21.181048951Z",
+  "model": "glm-5.3"
+}

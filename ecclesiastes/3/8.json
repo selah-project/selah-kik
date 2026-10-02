@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Hĩndĩ ya kwenda, na hĩndĩ ya kũmena; hĩndĩ ya thĩnite, na hĩndĩ ya tha.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "kũmena"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "thĩnite"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tha"
+    }
+  ],
+  "timestamp": "2026-10-02T04:37:57.285640111Z",
+  "model": "glm-5.3"
+}

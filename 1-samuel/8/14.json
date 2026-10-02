@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ mashamba manu, na ⟨את⟩ minda ithuĩ, na mĩtembeti ya mĩarĩbarĩ ĩrĩa ĩtherĩ nĩagĩkũa, na akĩhe athĩnjĩri-ngai arie acio ho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mashamba manu"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "mashamba manu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minda ithuĩ"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "minda ithuĩ"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "mĩtembeti ya mĩarĩbarĩ ĩrĩa ĩtherĩ"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ĩrĩa ĩtherĩ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nĩagĩkũa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na akĩhe"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "athĩnjĩri-ngai arie acio ho"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:56.369057976Z",
+  "model": "glm-5.3"
+}

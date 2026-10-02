@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Ng'ombe icio cĩaarĩ mbeke na njorua nĩciarĩ ⟨את⟩ mũgwanja wa ng'ombe icio cia mbere, icio cĩaarĩ na mĩri ĩrĩyo.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "nĩciarĩ"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ng'ombe icio"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "cĩaarĩ mbeke"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "na njorua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgwanja wa ng'ombe icio cia mbere cĩaarĩ na mĩri ĩrĩyo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "wa ng'ombe icio"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "cia mbere"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "cĩaarĩ na mĩri ĩrĩyo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:53:00.053045092Z",
+  "model": "glm-5.3"
+}

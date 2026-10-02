@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ũciĩkie mitenefeti igũrũ wa mutwe wake, na ũciĩkie ⟨את⟩ nezeri wa ũtheru igũrũ wa mitenefeti.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "na ũciĩkie"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitenefeti"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutwe wake"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "na ũciĩkie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezeri wa ũtheru"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa ũtheru"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitenefeti"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:36.694598011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Ti harĩ mĩthīnjĩ yaku ndĩngakwĩhoithia; na mĩthīnjĩ yaku ya gũthonorwo irĩ mbere yakwa hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "mĩthīnjĩ yaku"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "kwĩhoithia"
+    },
+    {
+      "surface": "ועולתיק",
+      "gloss": "mĩthīnjĩ ya gũthonorwo"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:19.929735219Z",
+  "model": "glm-5.3"
+}

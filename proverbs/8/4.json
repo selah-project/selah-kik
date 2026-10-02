@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Mwĩrĩ, andũ arĩa amwe, nĩndakũhũra, na mũgambo wakwa nĩwa aana a andũ.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "andũ arĩa amwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩndakũhũra"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "na mũgambo wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nĩwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:48:23.427598689Z",
+  "model": "glm-5.3"
+}

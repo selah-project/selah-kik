@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩgũtirĩ kũmĩna ũrĩa kũgũũka, nĩ We gwaku, Yahwe, nĩngĩeterera; We nĩũgaookera, Adonai, Erohimu wakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũtirĩ kũmĩna ũrĩa gũgũũka, nĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gwaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "nĩngĩeterera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "nĩũgaookera"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:00.378526750Z",
+  "model": "glm-5.3"
+}

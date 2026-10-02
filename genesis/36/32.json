@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na Beera mũrũ wa Beori nĩathamakire Edomu; na rĩĩtwa ra mũciĩ wake nĩrĩo Dinahaba.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "nĩathamakire"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Beera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beori"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "mũciĩ wake"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinahaba"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:12.163021261Z",
+  "model": "glm-5.3"
+}

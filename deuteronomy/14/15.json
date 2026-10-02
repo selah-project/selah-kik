@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "na ⟨את⟩ mũrũ wa nyoni nene, na ⟨את⟩ wa hĩndĩ ya ũgima, na ⟨את⟩ mũkorogoto, na ⟨את⟩ kĩhunyũ kũmĩriĩ rĩu wayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wa nyoni nene"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "nyoni nene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wa hĩndĩ ya ũgima"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "wa hĩndĩ ya ũgima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũkorogoto"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "mũkorogoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhunyũ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "kĩhunyũ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "kũmĩriĩ rĩu wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:24:06.708969993Z",
+  "model": "glm-5.3"
+}

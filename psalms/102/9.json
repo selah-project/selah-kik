@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Mĩthenya yothe thũ ciakwangi cinĩhakaga; arĩa mamũhũkĩte na nĩmakeerĩte kwakwa nĩmahurithirie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "cinĩhakaga"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "thũ ciakwangi"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "arĩa mamũhũkĩte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "mahurithirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:32.182380066Z",
+  "model": "glm-5.3"
+}

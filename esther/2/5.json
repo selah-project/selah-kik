@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũndũ Mũyahudi aarĩ Sushani, gĩkaro kĩnene, na rĩĩtwa rĩake nĩ Mordecai, mũrũ wa Yairi, mũrũ wa Cimi, mũrũ wa Kici, mũndũ wa Bencamini.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mũndũ"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "Mũyahudi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Sushani"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "gĩkaro kĩnene"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "na rĩĩtwa rĩake"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yairi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Cimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kici"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ wa"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Bencamini"
+    }
+  ],
+  "timestamp": "2026-10-02T04:46:53.134723856Z",
+  "model": "glm-5.3"
+}

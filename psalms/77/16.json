@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Na goko kwaku wagũriirie ⟨את⟩ andũ aku, ciana cia Yaakobu na Yocefu. Cera.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "wagũriirie"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "na goko kwaku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ aku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "na Yocefu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:45.302670494Z",
+  "model": "glm-5.3"
+}

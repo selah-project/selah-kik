@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Ndiimũrarĩ mũthenya ũmwe, na ti mĩthenya ĩrĩ, na ti ithano mĩthenya, na ti ikũmi mĩthenya, na ti makũmi mũthenya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "ndiimũrarĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "mĩthenya ĩrĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T06:19:40.591945616Z",
+  "model": "glm-5.3"
+}

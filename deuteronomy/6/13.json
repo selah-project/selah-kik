@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Erohimu waku nĩmũtigwo thayũ, na ⟨את⟩ yee nĩmũtũhĩkagĩra, na harĩa rĩĩtwa rĩake nĩmũthahotera.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nĩmũtigwo thayũ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "na ⟨את⟩ yee"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "nĩmũtũhĩkagĩra"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "harĩa rĩĩtwa rĩake"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "nĩmũthahotera"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:51.766204504Z",
+  "model": "glm-5.3"
+}

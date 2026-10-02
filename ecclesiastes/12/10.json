@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Koheleti akenete ciugo iria ciona kũigua ithaka; na aciandĩkĩte na citheru ciugo cia ma.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "akenete"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iria ciona kũigua ithaka"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "na aciandĩkĩte"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "na citheru"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cia ma"
+    }
+  ],
+  "timestamp": "2026-10-02T04:44:31.332952598Z",
+  "model": "glm-5.3"
+}

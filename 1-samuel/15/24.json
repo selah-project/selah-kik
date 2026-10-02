@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na Sauru akiuga na Samweri: Nĩngwatĩte ihĩtia, nĩgũkorwo nĩngarengeire ⟨את⟩ kĩrĩkanĩro kĩa Yahwe na ⟨את⟩ ciugo cĩaku; nĩgũkorwo nĩngĩthĩĩire ⟨את⟩ andũ, na nĩngĩigua mũgambo wao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samweri"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nĩngwatĩte ihĩtia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "nĩngarengeire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩa Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kĩrĩkanĩro kĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cĩaku"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ciugo cĩaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "nĩngĩthĩĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "nĩngĩigua"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "mũgambo wao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:17:23.965938668Z",
+  "model": "glm-5.3"
+}

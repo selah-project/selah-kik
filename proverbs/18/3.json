@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Kũĩja kwa mũoyo, na o kũheo thĩ kũja; hamwe na kũhootwo, kũhũrirwo mate.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kũĩja kwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kũja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kũheo thĩ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kũhootwo"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kũhũrirwo mate"
+    }
+  ],
+  "timestamp": "2026-10-02T03:54:52.167721191Z",
+  "model": "glm-5.3"
+}

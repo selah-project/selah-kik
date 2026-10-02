@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nawe ũkanũra kũma mĩtumia make nakĩ arũme aku, na mĩtumia iyo ĩkĩithia thutha wa ngai ciao, na ĩkĩithithia ⟨את⟩ arũme aku thutha wa ngai ciao.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "nawe ũkanũra"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "kũma mĩtumia make"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "nakĩ arũme aku"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "na ĩkĩithia"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "mĩtumia iyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ngai ciao"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "na ĩkĩithithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arũme aku"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "arũme aku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ngai ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:15:18.994654333Z",
+  "model": "glm-5.3"
+}

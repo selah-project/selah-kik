@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 133,
+  "translation": "Kĩĩrĩra kĩa mahiga ma ngurũmo, kĩa Dawidi. Ona, ũrĩa nĩ kĩega na ũrĩa nĩ kĩgunĩru — acaara gũikara hamwe, o hamwe gũcatũka!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩrĩra"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "mahiga ma ngurũmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ũrĩa nĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na ũrĩa nĩ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kĩgunĩru"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "gũikara"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "acaara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:01.332934846Z",
+  "model": "glm-5.3"
+}

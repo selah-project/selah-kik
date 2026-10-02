@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na ithũĩro rĩa nyũmba ya mbere, Waferithiti makĩinya gũcũrania ⟨את⟩ arĩa amenetwo, makĩrora ⟨את⟩ Cauri na ⟨את⟩ aana make athatũ me gũthĩĩrĩire kilima-inĩ ya Kĩriboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ithũĩro"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "rĩa nyũmba ya mbere"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "makĩinya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Waferithiti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "gũcũrania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa amenetwo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "arĩa amenetwo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "makĩrora makĩona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cauri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana make athatũ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "athatũ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "me gũthĩĩrĩire"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kilima-inĩ ya"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Kĩriboa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:14.148458744Z",
+  "model": "glm-5.3"
+}

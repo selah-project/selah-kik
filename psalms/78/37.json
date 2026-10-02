@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Na ngoro ciao itĩ yaamĩrĩirie hamwe na ywe, na matiikarĩte kĩrĩkanĩro-inĩ wakwe.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "na ngoro ciao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "itĩ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yaamĩrĩirie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na ywe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matiikarĩte"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "matiikarĩte"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "kĩrĩkanĩro-inĩ wakwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:00.222575394Z",
+  "model": "glm-5.3"
+}

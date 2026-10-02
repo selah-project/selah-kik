@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Yahwe arĩ mũciiri wa ndũrĩrĩ: nĩciirie, Yahwe, thayũ ya cedeki yakwa na thayũ ya mũtheru wakwa irĩa irĩ thĩinĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "arĩ mũciiri wa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "nĩciirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "thayũ ya cedeki yakwa"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "na thayũ ya mũtheru wakwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "irĩ thĩinĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:45.745027673Z",
+  "model": "glm-5.3"
+}

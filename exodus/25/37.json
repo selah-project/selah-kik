@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na uthondeke ⟨את⟩ marangi make mũgwanja, na ũthagĩkĩre ⟨את⟩ marangi make, na marangi macio mathĩrĩrie ihũrũro-inĩ rĩa mbere yayo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uthondeke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marangi make"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "marangi make"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ũthagĩkĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marangi make"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "marangi make"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "mathĩrĩrie"
+    },
+    {
+      "surface": "על",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ihũrũro rĩa"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "mbere yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:03.292445444Z",
+  "model": "glm-5.3"
+}

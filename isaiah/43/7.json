@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Aothe arĩa maĩtagwo rĩĩtwa rwakwa, na mwegerero wakwa nĩndaombire, nĩndamateire, ao nĩndakoreire.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Aothe"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "arĩa maĩtagwo"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "rĩĩtwa rwakwa"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "na mwegerero wakwa"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "nĩndaombire"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "nĩndamateire"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ao"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "nĩndakoreire"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:04.628256963Z",
+  "model": "glm-5.3"
+}

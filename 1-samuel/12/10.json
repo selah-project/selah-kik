@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nao makĩgamba kwa Yahwe, magĩkoora kũuga: Nĩtwarĩ na mahenia, nĩgũkorwo twaharĩtie ⟨את⟩ Yahwe, natwatungatagia ⟨את⟩ Habaceri na ⟨את⟩ Haacitaroti; na rĩu tũhonokithie kuuma moko-inĩ mwa matũũro witũ, nĩtũgũkũtungata.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "makĩgamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "magĩkoora kũuga"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nĩtwarĩ na mahenia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "twaharĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "twatungatagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Habaceri"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Habaceri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haacitaroti"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Haacitaroti"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩu"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "tũhonokithie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ mwa"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "matũũro witũ"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "nĩtũgũkũtungata"
+    }
+  ],
+  "timestamp": "2026-10-02T06:28:36.199992656Z",
+  "model": "glm-5.3"
+}

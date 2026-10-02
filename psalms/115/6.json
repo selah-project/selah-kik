@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Nĩ ⟨arao⟩ matu, no matihota kũigua; nĩ ⟨arao⟩ thĩnũrũ, no matihota kũnũunha.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "matu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nĩ ⟨arao⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no matihota"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "אף",
+      "gloss": "thĩnũrũ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nĩ ⟨arao⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no matihota"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "kũnũunha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:15.329984005Z",
+  "model": "glm-5.3"
+}

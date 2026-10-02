@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mweri wa gatatũ ndagera, na aana a Yiceraeri makĩiyũũra mĩciĩ-inĩ, andũ makũũrwo ta mũndũ ũmwe makĩrĩra Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ndagera"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa gatatũ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "mĩciĩ-inĩ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "makũũrwo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ta mũndũ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "makĩrĩra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:05:17.382360615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Dawidi na andũ arĩa ⟨את⟩ me hamwe naye makĩigua ⟨את⟩ mĩgambo wao, makĩrera, nginya me hinya ũrĩa wa gũkĩrera.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "makĩigua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ me hamwe naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩgambo wao"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mĩgambo wao"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "makĩrera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ría"
+    },
+    {
+      "surface": "אין",
+      "gloss": "me hinya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "thĩinĩ wao"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "wa gũkĩrera"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:45.177049664Z",
+  "model": "glm-5.3"
+}

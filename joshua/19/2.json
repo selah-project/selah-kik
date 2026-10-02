@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na magĩtie thĩinĩ wa gĩcooko kĩao: Berry-Caba, na Caba, na Morada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na magĩtie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kĩao"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "thĩinĩ wa gĩcooko kĩao"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Berry"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Caba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na Caba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "na Morada"
+    }
+  ],
+  "timestamp": "2026-10-01T22:49:29.407057233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na nĩngĩrĩkĩrĩre ⟨את⟩ kĩrĩkanĩro kwakwa kĩa Yaakobu, na no gũthĩ ⟨את⟩ kĩrĩkanĩro kwakwa kĩa Yicaki, na no gũthĩ ⟨את⟩ kĩrĩkanĩro kwakwa kĩa Abarahamu nĩngĩrĩkĩrĩra; na ⟨the⟩ thĩ nĩngĩrĩkĩrĩra.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "nĩngĩrĩkĩrĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "kĩa Yaakobu"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "na no gũthĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "kĩa Yicaki"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "na no gũthĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kĩa Abarahamu"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nĩngĩrĩkĩrĩra"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nĩngĩrĩkĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:40.799259075Z",
+  "model": "glm-5.3"
+}

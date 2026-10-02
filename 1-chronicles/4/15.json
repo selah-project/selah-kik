@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na aana a Karebu mũrũ wa Yeferuni: Iru, Eriha na Naamu; na aana a Eriha: Kenazi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na aana a"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Karebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yeferuni"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eriha"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "na Naamu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eriha"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenazi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:09:50.210640240Z",
+  "model": "glm-5.3"
+}

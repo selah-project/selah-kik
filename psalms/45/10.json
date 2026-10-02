@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Acaara a athamaki nĩmakĩrĩ harĩ andũ aku arĩ a kũhonokio; mũka wĩ mũnene aguĩrĩirie handũ hauntara ũtheri rĩa thahabu ya Ofiri.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "acaara"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "a athamaki"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "harĩ andũ aku arĩ a kũhonokio"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "aguĩrĩirie"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "mũka wĩ mũnene"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "handũ hauntara ũtheri"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "rĩa thahabu"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ofiri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:00.354217523Z",
+  "model": "glm-5.3"
+}

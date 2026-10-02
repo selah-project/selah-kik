@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Yahwe, nĩũcoterie thayũ kwa ithuĩ; nĩgũkoruo o macogete maithe ithuĩ maũndũ mothe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "nĩũcoterie"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa ithuĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maũndũ mothe"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "macogete maithe"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "nĩwokaiguĩra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:35:10.112606326Z",
+  "model": "glm-5.3"
+}

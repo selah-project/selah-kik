@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Mũthakamithania wa thakame ya mũndũ, thakame yake ndĩathakamithanirwo nĩ mũndũ; nĩgũkorwo mũhianĩre-inĩ wa Erohimu nĩombire ⟨את⟩ mũndũ.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Mũthakamithania wa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya mũndũ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nĩ mũndũ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "thakame yake"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ndĩathakamithanirwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "mũhianĩre-inĩ wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:55.909756008Z",
+  "model": "glm-5.3"
+}

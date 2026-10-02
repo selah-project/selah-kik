@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "No thĩinĩ wa mahĩtũko ma Yerobeamu mũrũ wa Nebati, ũrĩa watĩnĩirie ⟨את⟩ Yiceraeri, nĩagĩkũranĩra; ndaarutire kwao.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "No"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "thĩinĩ wa mahĩtũko"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ma Yerobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "wa Nebati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "watĩnĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "nĩagĩkũranĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaa-"
+    },
+    {
+      "surface": "סר",
+      "gloss": "rutire"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kwao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:07:37.498538212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩngũkũng'etia na ũtheru wa ngoro, rĩrĩa ndĩthomaga ciira cia cedeki waku.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Nĩngũkũng'etia"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "na ũtheru"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wa ngoro"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "rĩrĩa ndĩthomaga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "cedeki waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:14.339500754Z",
+  "model": "glm-5.3"
+}

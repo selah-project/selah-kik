@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩ ũndũ wa ithenya rĩngĩ, rĩrĩa Yiceraeri yothe nĩiguĩire atĩ Yarobeamu nĩacookire, nĩmatũmĩte makamũĩta mbere ya kĩama kĩu, makamuothamakithia harĩ Yiceraeri yothe. Gũtikũorarĩkia ũrĩa ũngĩcokerithia ũgothi wa kilima ya Dawidi, ũkae mũbarĩ wa Yuda woigũo tu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩ ũndũ wa ithenya rĩngĩ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "rĩrĩa ... nĩiguĩire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nĩacookire"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "nĩmatũmĩte"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "makamũĩta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ũndũ wake",
+      "marks": "Yarobeamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kĩama kĩu"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "makamuothamakithia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ũndũ wake",
+      "marks": "Yarobeamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Gũtikũorarĩkia"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ũngĩcokerithia"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ũrĩa ũngĩcokerithia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ũgothi wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ũkae"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mũbarĩ wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "woigũo tu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:10.703298157Z",
+  "model": "glm-5.3"
+}

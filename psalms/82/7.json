@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 82,
+  "translation": "Kweli, nĩmũkuura ta andũ, na mũgagũa ta mũthamaki umwe wa arĩa engĩ.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Kweli"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "ta andũ"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "mũkuura"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "na ta umwe"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wa athamaki"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "mũgagũa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:33.713478179Z",
+  "model": "glm-5.3"
+}

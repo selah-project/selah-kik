@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩngĩmahũra na ndwari ya gũkwatanĩria, na nĩngĩmahĩtũkia, na nĩngĩthondeka ⟨את⟩ iwe itũĩra gwĩa nene na werũ kũrĩ ũyo.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "nĩngĩmahũra"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "na ndwari ya gũkwatanĩria"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "na nĩngĩmahĩtũkia"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "na nĩngĩthondeka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe itũĩra gwĩa nene"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "gwĩa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "na werũ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kũrĩ ũyo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:20:05.677318953Z",
+  "model": "glm-5.3"
+}

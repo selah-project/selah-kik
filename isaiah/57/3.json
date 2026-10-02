@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Na inyi, iharĩrie kũnyĩra, ciana cia mũthagũri, mbĩgũ ya mũcaini na ya mũkĩha — na inyi mũthĩĩte kũhoi!",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "na inyi"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "iharĩrie"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kũnyĩra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "mũthagũri"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbĩgũ ya"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "mũcaini"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "na mũthĩĩte kũhoi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:53:34.546114180Z",
+  "model": "glm-5.3"
+}

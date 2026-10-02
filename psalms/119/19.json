@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mũcera nĩngĩ thĩ-inĩ; ndũkaithĩre watho waku kwĩrĩ.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Mũcera"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩngĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kaithĩre"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwĩrĩ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "watho waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:14.966520175Z",
+  "model": "glm-5.3"
+}

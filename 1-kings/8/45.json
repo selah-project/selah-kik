@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ũgĩkũigua thiini wa igũrũ ⟨את⟩ ngatho ciao na ⟨את⟩ kũoya kwao, nĩũkahota ciira ciao.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Ũgĩkũigua"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngatho ciao"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ngatho ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kũoya kwao"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kũoya kwao"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "nĩũkahota"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ciira ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:05.381417378Z",
+  "model": "glm-5.3"
+}

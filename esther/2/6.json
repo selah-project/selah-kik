@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Arĩa watwarwo kuuma Yerucarayimu hamwe na acio ahuũtwo arĩa o hamwe nawao watwarwo na Yekonayahi, mwathani wa Yehuda, ũrĩa Nebukadanece, mwathani wa Baberoni, aatwarire.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Arĩa"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "watwarwo"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "kuuma Yerucarayimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "acio ahuũtwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "watwarwo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonayahi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "aatwarire"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadanece"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baberoni"
+    }
+  ],
+  "timestamp": "2026-10-02T04:46:53.137123243Z",
+  "model": "glm-5.3"
+}

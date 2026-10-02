@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩgetha kũrĩara kwake kuninina irio cia mbembe, na mwoyo wake irio iria igũendete.",
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "kuninina"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "kũrĩara kwake"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio cia mbembe"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "mwoyo wake"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "irio"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "iria igũendete"
+    }
+  ],
+  "timestamp": "2026-10-02T04:20:10.931725548Z",
+  "model": "glm-5.3"
+}

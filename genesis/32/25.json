@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na Yaakobu agĩtigwo we mwene, na mũndũ moombokanĩirie na we mũthĩnga-inĩ, gĩkĩro kwarahũra kwa mũthenya.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "agĩtigwo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "we mwene"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "moombokanĩirie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na we"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩro"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kwarahũra"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "kwa mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T20:46:19.019100770Z",
+  "model": "glm-5.3"
+}

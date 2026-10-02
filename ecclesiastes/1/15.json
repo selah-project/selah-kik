@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kĩongoro gĩtikũhoteka kũgĩtĩkĩra; na kĩreyo gĩtikũhoteka kũbarĩrwo.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Kĩongoro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gĩtikũhoteka"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "gĩtikũhoteka"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "kũgĩtĩkĩra"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "na kĩreyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gĩtikũhoteka"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "gĩtikũhoteka"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "kũbarĩrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:54.314654349Z",
+  "model": "glm-5.3"
+}

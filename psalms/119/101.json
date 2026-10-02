@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kuma o mwaro wothe wa ũru nĩngĩciaririe magũrũ makwa, nĩgeetha ngĩrĩimũranie kiugo gĩaku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Kuma o"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "mwaro"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wa ũru"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "nĩngĩciaririe"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "magũrũ makwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ngĩrĩimũranie"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kiugo gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:56.667403589Z",
+  "model": "glm-5.3"
+}

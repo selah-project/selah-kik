@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Yahwe nĩrĩithagia magũrũ ma arĩa ahoteetie nake na maigana-nake, na arĩa mabi nĩmakomererwo kĩndũrũ-inĩ; nĩgũkorwo mũndũ ndangĩhotana kĩhoto-inĩ kĩake.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "magũrũ"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "arĩa ahoteetie nake"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "nĩrĩithagia"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "na arĩa mabi"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "kĩndũrũ-inĩ"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "nĩmakomererwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "kĩhoto-inĩ"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "kũhotana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:08:40.898863953Z",
+  "model": "glm-5.3"
+}

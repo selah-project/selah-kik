@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ũthĩnĩkano wa Efrayimu nĩgũcooka, na arĩa maharĩtie Yahuda magĩcotokwo; Efrayimu ndangĩharĩtia Yahuda, na Yahuda ndangĩthĩnia Efrayimu.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "nĩgũcooka"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ũthĩnĩkano"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "wa Efrayimu"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "na arĩa maharĩtie"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "magĩcotokwo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "gũharĩtia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yahuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "gũthĩnia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:30:49.988163077Z",
+  "model": "glm-5.3"
+}

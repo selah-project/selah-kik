@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Na Ogi mũthamaki wa Bacani; nĩgũkoruo hecedi wake kĩhinda kĩothe.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "na Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "wa Bacani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kĩhinda kĩothe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:12.256679794Z",
+  "model": "glm-5.3"
+}

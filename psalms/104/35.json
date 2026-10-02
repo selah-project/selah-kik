@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Ahoori mahĩtanie kuuma thĩ, na arĩa meinĩ mathĩte ũguo kũgĩa na arĩkia ũngĩ. Ngoro yakwa, ihũrĩrire ⟨את⟩ Yahwe. Itungatĩrire Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "mahĩtanie"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ahoori"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "na arĩa meinĩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "mathĩte kũgĩa na arĩkia ũngĩ"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ihũrĩrire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "itungatĩrire"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:35.890815208Z",
+  "model": "glm-5.3"
+}

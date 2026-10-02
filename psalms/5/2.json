@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ciugo ciakwa, Yahwe, tigua gũthikĩrĩra; ũmenye kĩegeranio gĩakwa.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo ciakwa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tigua gũthikĩrĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ũmenye"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "kĩegeranio gĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:13.944272768Z",
+  "model": "glm-5.3"
+}

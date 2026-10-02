@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩ ũndũ ũcio Moce aandĩkire ⟨את⟩ kĩĩmbo kĩu ũmũthĩ ũcio, akanjĩrirĩria ⟨את⟩ aana a Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "aandĩkire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩĩmbo kĩu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "kĩĩmbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "akanjĩrirĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:38:03.062827680Z",
+  "model": "glm-5.3"
+}

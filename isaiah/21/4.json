@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Ngoro yakwa yĩthingatĩtie; kũigũa kwa kĩgumo kĩna nĩkũnyĩtigĩirie: ⟨את⟩ kĩroko kĩa kĩĩgĩrĩro kĩa ngoro yakwa nĩkĩtuĩkire kũiyũrũko nakwa.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "yĩthingatĩtie"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Ngoro yakwa"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kũigũa kwa kĩgumo kĩna"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "nĩkũnyĩtigĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩroko kĩa kĩĩgĩrĩro"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "kĩroko"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "kĩĩgĩrĩro kĩa ngoro yakwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nĩkĩtuĩkire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "kũiyũrũko"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:52.038188297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Nĩ ihoya-rĩu marathira nyinyi, nĩgeetha mũikare ⟨את⟩ kure na thĩ yanyu, na nĩngũtwarua ⟨את⟩ nyinyi, na mũhĩa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ihoya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "marathira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "mũikare kure"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "thĩ yanyu"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "nĩngũtwarua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "na mũhĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T01:19:06.157552655Z",
+  "model": "glm-5.3"
+}

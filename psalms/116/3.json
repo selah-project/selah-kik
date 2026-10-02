@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Mĩcangi ya thiũri nĩyinĩhĩrĩirie, na thĩnyĩro cia Ceori nĩyĩkinyĩte nakwa; thĩna na kĩeha nĩngakora.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "nĩyinĩhĩrĩirie"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "mĩcangi ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "thiũri"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "na thĩnyĩro cia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "nĩyĩkinyĩte nakwa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "thĩna"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "na kĩeha"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nĩngakora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:27.129178650Z",
+  "model": "glm-5.3"
+}

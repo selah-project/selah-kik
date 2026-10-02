@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Ehinda cia mahĩtia mothe ya Baaca, na mahĩtia ya Era mũrũ wake, arĩa mahĩtĩirie, na marĩa mahĩtĩithithagia ⟨את⟩ Yiceraeri, kana yenderea ⟨את⟩ Yahwe, Erohimu wa Yiceraeri, na mahũa mao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ehinda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaca"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "na mahĩtia"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Era"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mahĩtĩirie"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na marĩa"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "mahĩtĩithithagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "kana yenderea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "na mahũa mao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:51.331985167Z",
+  "model": "glm-5.3"
+}

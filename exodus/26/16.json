@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Icũmi ama ndũrũrĩ gĩkuũ kĩa mũboco ũmwe, na ama ĩmwe na gĩtherũ kĩa ama ũrugĩrĩ-inĩ wa mũboco ũmwe.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "icũmi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gĩkuũ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kĩa mũboco ũmwe"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na ama ĩmwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na gĩtherũ kĩa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ũrugĩrĩ-inĩ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kĩa mũboco ũmwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "(mũboco ũmwe)"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:03.545860820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na inywe nĩngĩĩthĩkĩrĩirie ⟨את⟩ kĩgongona kĩa ciana cia Yiceraeri, arĩa Micirayimu irĩ hunjũka, na nĩngĩetakĩrie ⟨את⟩ kĩrĩkanĩro kĩagu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na inywe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩngĩ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nĩngĩĩthĩkĩrĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgongona kĩa ciana cia Yiceraeri"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "kĩgongona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "irĩ hunjũka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ao"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "na nĩngĩetakĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩagu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩagu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:49.210712890Z",
+  "model": "glm-5.3"
+}

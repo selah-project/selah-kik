@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Ũkĩra kwa mwami, ũmũrire ũhoro ũyũ. Na Yoabu aicĩirie ⟨את⟩ ciugo thĩinĩ wa kanua wayo.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Ũkĩra kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ũmũrire"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "aicĩirie"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "thĩinĩ wa kanua wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:36:29.566792461Z",
+  "model": "glm-5.3"
+}

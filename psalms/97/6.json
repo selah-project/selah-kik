@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 97,
+  "translation": "Igwatũ iri kũhoya cedeki wakwe, na mĩrĩra yothe ĩonireikeri kĩeegero gĩakwe.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "iri kũhoya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Igwatũ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "cedeki wakwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na ĩonireikeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mĩrĩra"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kĩeegero gĩakwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:17.315587834Z",
+  "model": "glm-5.3"
+}

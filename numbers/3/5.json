@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩgoro Yahwe agĩithũkĩra Moce, na kũmwoografia atĩa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "agĩithũkĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũmwoografia atĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:07.052785959Z",
+  "model": "glm-5.3"
+}

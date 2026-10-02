@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Ona, ndarĩkanagia kana etarĩ kwa krĩgate; ũrĩa ũrĩ kuũmĩrĩirie ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndarĩkanagia"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "kwarĩkanagia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "etarĩ kwa krĩgate"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ũrĩa ũrĩ kuũmĩrĩirie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:00.005644016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na arĩa a Yiceraeri aothe makĩgithanda ta ũrĩa Yahwe aathĩinjie ⟨את⟩ Moce na ⟨את⟩ Aharoni, ũguo nĩmagithandĩte.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "makĩgithanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arĩa a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aathĩinjie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nĩmagithandĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:27.840013991Z",
+  "model": "glm-5.3"
+}

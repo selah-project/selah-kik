@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Na Yaakobu akĩhe ⟨את⟩ Parao irathimo, na akĩrũa kuuma mbere ya Parao.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akĩhe irathimo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akĩrũa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:56:17.913157619Z",
+  "model": "glm-5.3"
+}

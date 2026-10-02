@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na magaarĩirie ⟨את⟩ indo ciothe cia hema ya kũhiũrania, na ⟨את⟩ ithiro ya aana a Yiceraeri, gũteerera watho wa Micikani:",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Na magaarĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe cia hema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiũrania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ithiro ya aana a Yiceraeri"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ithiro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "gũteerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watho wa Micikani"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "watho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Micikani"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:07.053626773Z",
+  "model": "glm-5.3"
+}

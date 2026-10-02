@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Naomi agĩcĩara ⟨את⟩ mwana ũyũ, amũikarĩrithia thabari-inĩ yake, na atuĩka mũcũciria wake.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "agĩcĩara"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana ũyũ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana ũyũ"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "amũikarĩrithia"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "thabari-inĩ yake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "atuĩka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mũcũciria"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:01.009056633Z",
+  "model": "glm-5.3"
+}

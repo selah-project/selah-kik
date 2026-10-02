@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Inneri Yah, nĩgũkorwa Yahwe nĩ mũega; imbai rĩĩtwa rĩake, nĩgũkorwa nĩ kĩgunĩ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "inneri"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mũega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imbai"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kĩgunĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:48.934926195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Wona maũndũ mũingĩ no ndũrokĩte kũigua; nĩgũcooka ũgũthũũra matũ, no ndĩigua.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "wona"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "maũndũ mũingĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no ndĩ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "rokĩte kũigua"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "gũthũũra"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "matũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no ndĩ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "igua"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:45.186512336Z",
+  "model": "glm-5.3"
+}

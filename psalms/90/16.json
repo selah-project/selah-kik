@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Gwata waku onekere acoci aku, na kĩguni gĩaku igũrũ rĩa ciana ciaco.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "onekere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "acoci aku"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Gwata waku"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "na kĩguni gĩaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ciana ciaco"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:07.633933694Z",
+  "model": "glm-5.3"
+}

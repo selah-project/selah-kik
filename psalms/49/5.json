@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Nĩngũtegerera gũtũ kwakwa kĩhoto gĩkĩ: nĩngĩambũrĩra mwaki-inĩ wa mũcũrũro kĩũgĩ kĩakwa.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "nĩngũtegerera"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "kĩhoto"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "gũtũ kwakwa"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nĩngĩambũrĩra"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "mũcũrũro"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "kĩũgĩ kĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:19.860429663Z",
+  "model": "glm-5.3"
+}

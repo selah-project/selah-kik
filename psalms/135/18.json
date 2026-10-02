@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Ta macio makuo arĩa mamacaria mahota kũrekea; o ũrĩa ũĩhokaga macio, akuo arĩ ta macio.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ta macio makuo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahota kũrekea"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "arĩa mamacaria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o ũrĩa wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ũĩhokaga"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "macio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:46.128772518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "⟨את⟩ meza na ⟨את⟩ miri yayo na ⟨את⟩ icunga cia yayo ciothe, na ⟨את⟩ mũgate wa irĩ mbere;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miri yayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "miri yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icunga cia yayo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icunga cia yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũgate wa irĩ mbere"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mũgate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "wa irĩ mbere"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:19.472289600Z",
+  "model": "glm-5.3"
+}

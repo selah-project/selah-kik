@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Obedi nĩorotire ⟨את⟩ Yehu, na Yehu nĩorotire ⟨את⟩ Azaria.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Na Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "na Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:05.998292931Z",
+  "model": "glm-5.3"
+}

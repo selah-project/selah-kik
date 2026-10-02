@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Mĩcamio yothe, rikitĩrĩ macĩngi manyu; riitĩrĩ Erohimu na mũgambo wa kũgamba kwa gĩkeno.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Mĩcamio"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "rikitĩrĩ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "macĩngi"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "riitĩrĩ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na mũgambo wa"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kũgamba kwa gĩkeno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:20.636417293Z",
+  "model": "glm-5.3"
+}

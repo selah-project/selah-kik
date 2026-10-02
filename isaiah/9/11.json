@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Aramu kuuma irathĩro, na Afilisti kuuma thutha; makamenya ⟨את⟩ Yiceraeri na kanua kothe. Ndĩrĩ ũndũ ũcio wothe, ithaka rĩake ndĩregwatĩte, na mkono wake nĩurĩ o mũratũkĩte.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kuuma irathĩro"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na Afilisti"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "kuuma thutha"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "makamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kanua kothe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ndĩrĩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũndũ ũcio wothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "regwatĩte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ithaka rĩake"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "na o"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nĩurĩ mũratũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:43.123759863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ndĩhĩrũkĩre, ndĩrĩone ⟨את⟩ thĩ ĩega ĩrĩa irĩ thutha wa Yordani, kĩrĩma kĩega gĩkũĩ, na Revanoni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ndĩhĩrũkĩre"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndamwĩkĩrĩra"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndĩrĩone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩega"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ĩega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkũĩ"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "na Revanoni"
+    }
+  ],
+  "timestamp": "2026-10-01T22:17:56.482347523Z",
+  "model": "glm-5.3"
+}

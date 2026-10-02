@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na harĩ kĩng'ethwo kĩa mbũtũ ya mũbarĩ wa aana a Gadi nĩ Erijacaphu mwana wa Deueri.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na harĩ kĩng'ethwo kĩa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũbarĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Erijacaphu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deueri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:55:57.535543707Z",
+  "model": "glm-5.3"
+}

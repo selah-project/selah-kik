@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Akĩmũria Yeteri mũcemanĩre wake: Ũgũre, ũthĩnje ⟨את⟩ arĩa; na mũritũ ndaarũcire ciara ciake, nĩaguetete, nĩ gũkorwo arĩ mũritũ ũngĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũria"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Yeteri"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "mũcemanĩre wake"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ũgũre"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ũthĩnje"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa (Zebahi na Carimuna)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndaarũcire"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "kũrũra"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mũritũ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ciara ciake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "aguetete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkorwo"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "arĩ ũngĩ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mũritũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:00:35.862909448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Thikĩrĩra, we mwari, ũroonie, na iño gũtũ gwaku; ũrĩngwo ndũrĩrĩ ĩgwaku na nyũmba ya ithe wagũ.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "thikĩrĩra"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ũroonie"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "iño"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gũtũ gwaku"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ũrĩngwo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ndũrĩrĩ ĩgwaku"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya ithe wagũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:40.952384920Z",
+  "model": "glm-5.3"
+}

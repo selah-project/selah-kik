@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Cĩakĩria maciarĩ mothe ma bũrũri wao, cĩakĩria mbembe cia gĩthaka ciao.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "cĩakĩria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "maciarĩ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ma bũrũri wao"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "cĩakĩria"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "cia gĩthaka ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:41.335838595Z",
+  "model": "glm-5.3"
+}

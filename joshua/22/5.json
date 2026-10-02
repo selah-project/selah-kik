@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 22:5",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "No cungĩrĩrai mũno gwĩka ⟨את⟩ watho na ⟨את⟩ Tora ũrĩa Moce, mũtumĩri wa Yahwe, aathĩire ⟨את⟩ ⟨kanyu⟩; kũenda ⟨את⟩ Yahwe Erohimu yanyu, na gũthii mĩcioyo yake yothe, na kũcungĩrĩra mĩwatho yake, na gũkomanĩra nakĩe, na kũmũtumanĩra na ngoro yanyu yothe na mũoyo wanyu wothe.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "No"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "cungĩrĩrai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watho"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "watho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aathĩire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kanyu⟩",
+      "marks": "kanyu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũtumĩri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kũenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yanyu"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "na gũthii"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "mĩcioyo yake"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "na kũcungĩrĩra"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mĩwatho yake"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "na gũkomanĩra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nakĩe"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "na kũmũtumanĩra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ngoro yanyu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "mũoyo wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:16.883235268Z",
+  "model": "glm-5.3"
+}

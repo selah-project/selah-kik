@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na nĩngĩrereta mkono wakwa ĩhoro rĩa Yuda, na ĩhoro rĩa aarĩtwo othe a Yerucarayimu; na nĩngĩcukunura kuuma harĩa ĩno ⟨את⟩ arĩa methĩkĩte a Baari, ⟨את⟩ rĩĩtwa rĩa athĩnjĩri a Baari, hamwe na aathani.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "nĩngĩrereta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩhoro rĩa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ĩhoro rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "aarĩtwo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na nĩngĩcukunura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa methĩkĩte a Baari"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "arĩa methĩkĩte"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa athĩnjĩri a Baari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "athĩnjĩri a Baari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aathani"
+    }
+  ],
+  "timestamp": "2026-10-02T06:54:54.352793039Z",
+  "model": "glm-5.3"
+}

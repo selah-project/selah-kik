@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Nĩwe ũrĩmĩkĩte ⟨את⟩ itũra rĩa maaĩ na ⟨את⟩ kĩanja; nĩwe ũmeke kĩanda mĩena ĩrĩa ĩratambĩra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ũrĩmĩkĩte"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "itũra rĩa maaĩ"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "na kĩanja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "ũmeke kĩanda"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ĩrĩa ĩratambĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:45.242906189Z",
+  "model": "glm-5.3"
+}

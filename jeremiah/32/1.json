@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 32:1",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Kiugo kĩarĩ kĩũmĩte kwa Yeremiyahu, kuuma ⟨את⟩ Yahwe, mwaka-inĩ wa ikũmi kwa Cidekiyahu mwathi wa Yuda; nĩguo mwaka ũcio wa inyanya na ikũmi mwaka kwa Nebukadraceri.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Kiugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kĩarĩ kĩũmĩte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka-inĩ wa"
+    },
+    {
+      "surface": "העשרית",
+      "gloss": "wa ikũmi"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "kwa Cidekiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "mwaka ũcio"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "wa inyanya"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "kwa Nebukadraceri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:44:52.938701402Z",
+  "model": "glm-5.3"
+}

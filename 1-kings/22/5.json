@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na Yehocafati akiuga kwa mũthamaki wa Yiceraeri: Ronda, nĩkwendire, ũyũ mũthenya, ⟨את⟩ kiugo kĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Ronda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nĩkwendire"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ũyũ mũthenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo kĩa Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:06.025083703Z",
+  "model": "glm-5.3"
+}

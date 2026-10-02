@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 99,
+  "translation": "Yahwe Erohimu witũ, nĩwe wamacokiere; Ere wĩhoreragi wĩkũiyũ wao, na Mũhoothi wa maciaro ma ao makuhĩte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "wamacokiere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wĩhoreragi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wĩkũiyũ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "na Mũhoothi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "maciaro ma ao makuhĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:17.085089769Z",
+  "model": "glm-5.3"
+}

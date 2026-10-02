@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na ⟨את⟩ mboco ciao icio ikũmi cia mũkwa ũngĩtuĩra kwa mwathi wa ngiri, na ⟨את⟩ aarũ waku ũroore mahota thayũ, na ⟨את⟩ kĩraya kiao ũgĩe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mboco ciao icio ikũmi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "mboco ciao"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "cia mũkwa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "icio"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ũngĩtuĩra"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "kwa mwathi"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "wa ngiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aarũ waku"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "aarũ waku"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ũroore"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mahota thayũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩraya kiao"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "kĩraya kiao"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ũgĩe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:19:07.157105959Z",
+  "model": "glm-5.3"
+}

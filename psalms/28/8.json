@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Yahwe nĩwe hinya wao, na nĩwe gĩtikĩrĩro kĩa gũcokio kĩa Maciaki wake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wao"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "na gĩtikĩrĩro"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kĩa gũcokio"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "kĩa Maciaki wake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:04.950175086Z",
+  "model": "glm-5.3"
+}

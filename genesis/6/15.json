@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ũyũ nĩguo ũkaĩthondekaga ⟨את⟩ yayo: guoya kwa makũrũ-inĩ guoya kwarĩ kwa cai ĩyo, mirogũ guoya ũrĩa hĩhĩ, na guoya mirongo ĩtatũguo ũkĩrĩ wayo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na ũyũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ũkaĩthondekaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yayo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makũrũ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "guoya"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kuoya kwarĩ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kwa cai ĩyo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirogũ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "guoya"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ũrĩa hĩhĩ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mirongo ĩtatũ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "guoya"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ũkĩrĩ wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:42.231397723Z",
+  "model": "glm-5.3"
+}

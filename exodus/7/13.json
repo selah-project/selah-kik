@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ngoro ya Farao nĩĩnyitirie hinya, na ndaiguithĩria ithuĩ, o ũrĩa Yahwe aarĩoigĩte.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nĩĩnyitirie hinya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "iguithĩria"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aarĩoigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:56.974419415Z",
+  "model": "glm-5.3"
+}

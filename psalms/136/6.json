@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Wa mũndũ ũrĩa anakĩrĩra ⟨the⟩ thĩ igũrũ rĩgĩrĩ ⟨the⟩ maa; nĩgũkorwo hecedi wake kĩrĩ hoora tene na tene.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "wa mũndũ ũrĩa anakĩrĩra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ thĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩgĩrĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kĩrĩ hoora tene na tene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:50.054976960Z",
+  "model": "glm-5.3"
+}

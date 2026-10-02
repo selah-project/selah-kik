@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Biriha, mũcũithia wa Raheri, akĩnyita kũigana ikũmi na ikũmi, akĩciarĩra mũciari mũrũ wa kerĩ wa Yaakobu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akĩnyita kũigana ikũmi na ikũmi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kũigana ikũmi na ikũmi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Biriha"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "mũcũithia"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "wa Raheri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũciari mũrũ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wa kerĩ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "wa Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:09:11.658803379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Rarĩa, moko wa Yahwe ndĩagĩhĩire kũhonia, na matu make ndĩmakurĩire kũigua.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Rarĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "agĩhĩire"
+    },
+    {
+      "surface": "יד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "kũhonia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩ"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "makurĩire"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "matu make"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "kũigua"
+    }
+  ],
+  "timestamp": "2026-10-02T00:56:04.159359876Z",
+  "model": "glm-5.3"
+}

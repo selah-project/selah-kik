@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩakĩroherera ⟨את⟩ ⟨the⟩ mẽza na zahabu theru, na akĩĩria zerĩ ya zahabu ĩngĩrĩrĩirie thaa ĩyo kĩa kũringana.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "nĩakĩroherera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mẽza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "theru"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na akĩĩria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zerĩ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya zahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kĩa kũringana thaa ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:32.992244692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Nĩndĩthiĩ hinya-inĩ wa Adonai Yahwe; nĩngĩrũmĩrĩra cedeki yaku, we mwerũ gitĩ.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "nĩndĩthiĩ"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "hinya-inĩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "wa Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "nĩngĩrũmĩrĩra"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "cedeki yaku"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "we mwerũ gitĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:04.044910456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Yahwe arathime, nĩgũkorwo nĩonithĩtie hecedi wake harĩ ngwatanĩro-inĩ ya kũringa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "arathime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "nĩonithĩtie"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "harĩ ngwatanĩro-inĩ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ya kũringa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kũringa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:45.311542373Z",
+  "model": "glm-5.3"
+}

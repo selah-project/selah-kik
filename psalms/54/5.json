@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Nĩgũkorwo andũ acarĩti meinire igũrũ rwakwa, na arĩa mamenete baarũmbũiya ngoro yakwa; matiikaririe Erohimu mbere ya maitho mao. Cerahi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "andũ acarĩti"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "meinire"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "na arĩa mamenete"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "baarũmbũiya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ikaririe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "mbere ya maitho mao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerahi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:08.200650401Z",
+  "model": "glm-5.3"
+}

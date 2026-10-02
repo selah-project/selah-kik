@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩarĩrire Yahwe na Moce thĩinĩ wa kilima ya Cĩnai, akuuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nĩarĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thĩinĩ wa kilima"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Cĩnai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuuga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:58.985678701Z",
+  "model": "glm-5.3"
+}

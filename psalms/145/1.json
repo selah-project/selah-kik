@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Kwĩhimbĩria; kwa Dawidi. Nĩngakuongorera, Eroha wakwa, mwathi ⟨⟨the⟩⟩, na nĩndakũrathima Rĩĩtwa rĩaku kuuma rĩrĩ o rĩrĩ, nginya kwenderera.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Kwĩhimbĩria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Dawidi"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Nĩngakuongorera"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eroha wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "na nĩndakũrathima"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuuma rĩrĩ o rĩrĩ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya kwenderera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:14.758559274Z",
+  "model": "glm-5.3"
+}

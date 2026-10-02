@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Mũndũ angĩhaana ta rũhũho-rũa-hĩũ; mĩthenya yake nĩ ta kĩeeri kĩyahũrũka.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "rũhũho-rũa-hĩũ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "angĩhaana"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mĩthenya yake"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ta kĩeeri"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "kĩyahũrũka"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:15.249912156Z",
+  "model": "glm-5.3"
+}

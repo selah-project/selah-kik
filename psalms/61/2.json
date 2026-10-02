@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 61,
+  "translation": "Ĩigua, Erohimu, kũgamba gwakwa; ĩhooterie matũ, thayo yakwa.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Ĩigua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "kũgamba gwakwa"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ĩhooterie matũ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thayo yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:37.694384251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Thĩ ĩroire na ĩhũrũkĩte; thĩ yothe ĩthererie na ĩhũrũkĩte; arĩa marĩ igũrũ muringo-inĩ wa andũ a thĩ metharĩrire.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Ĩroire"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ĩhũrũkĩte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ĩthererie"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ĩhũrũkĩte"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "metharĩrire"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "igũrũ muringo-inĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:41.656748105Z",
+  "model": "glm-5.3"
+}

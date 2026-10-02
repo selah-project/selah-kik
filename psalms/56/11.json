@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Erohimu-inĩ kiugo nĩngokũngĩrĩra; Yahwe-inĩ kiugo nĩngokũngĩrĩra.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Erohimu-inĩ"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "nĩngokũngĩrĩra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe-inĩ"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "nĩngokũngĩrĩra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:40.226411050Z",
+  "model": "glm-5.3"
+}

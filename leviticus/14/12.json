@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na mũranĩri akaya ⟨את⟩ ngothe imwe, na akamenya ⟨את⟩ yaya ta kĩheo gĩa wĩira, na ⟨את⟩ rogi ya mafuta, na akacigungũra ⟨את⟩ icio cungũrũ-inĩ mbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "akaya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũranĩri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngothe imwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ngothe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "akamenya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yaya",
+      "marks": "kĩheo gĩa wĩira"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ta kĩheo gĩa wĩira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "rogi ya mafuta"
+    },
+    {
+      "surface": "לג",
+      "gloss": "rogi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "akacũngũra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "icio"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "cũngũrũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:15.268512128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩgũkorwo nĩ We ũteithia andũ amũhĩa, na maitho mahĩu nĩũmakunjithia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩ We"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "amũhĩa"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ũteithia"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "na maitho"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "mahĩu"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "nĩũmakunjithia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:05.016622337Z",
+  "model": "glm-5.3"
+}

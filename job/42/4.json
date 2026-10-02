@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Ĩthĩrĩ, ndarĩ, na nĩndĩkaanĩra kwaria; nĩngakũũria, na wee ũmũnyishe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ĩthĩrĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndarĩ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na nĩndĩ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kaanĩra kwaria"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ngakũũria"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "ũmũnyishe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:26:44.099632824Z",
+  "model": "glm-5.3"
+}

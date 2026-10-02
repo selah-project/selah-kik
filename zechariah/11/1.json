@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Thukuru, Lebanoni, mĩrango yaku, na mũki nĩgũriria ierezi yaku.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "thukuru"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "mĩrango yaku"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "na mũki nĩgũriria"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũki"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "ierezi yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:45:40.446637753Z",
+  "model": "glm-5.3"
+}

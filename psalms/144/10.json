@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Ũrĩa ũheanaga wonjoku andũ athenani, ũrĩa ũmũhonokĩtia ⟨את⟩ Dawidi mũtumia wake kuuma cengweni ya ũru.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Ũrĩa ũheanaga"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "wonjoku"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "andũ athenani"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "Ũrĩa ũmũhonokĩtia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kuuma cengweni"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:09.166318605Z",
+  "model": "glm-5.3"
+}

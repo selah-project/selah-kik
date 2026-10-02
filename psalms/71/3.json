@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Ũgĩkorwo nĩwe ciburũru yaku-rĩa-nginya ihinda ciothe; woire watho wa kũhonokia; nĩwe ciburũru yakwa na gĩkundi kĩakwa kĩa hinya.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Ũgĩkorwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ciburũru"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "yaku-rĩa-nginya"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ihinda ciothe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "woire watho"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "wa kũhonokia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ciburũru yakwa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na gĩkundi kĩakwa kĩa hinya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:00.862133084Z",
+  "model": "glm-5.3"
+}

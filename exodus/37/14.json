@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Hakuhĩ na mũtara kwarĩ ithano icio, ibũrũri cia mĩbatũ ya gũcuhia ⟨את⟩ meza.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "mũtara"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kwarĩ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ithano icio"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ibũrũri"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "mĩbatũ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "gũcuhia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:21.562233960Z",
+  "model": "glm-5.3"
+}

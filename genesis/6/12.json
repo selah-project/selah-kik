@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Erohimu nĩonire ⟨את⟩ thĩ, na rũciũ thĩ nĩayo nyuukire, nĩgũkorwo nyama yothe nĩyookire ⟨את⟩ mũgũnda waya thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nĩonire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũciũ"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "nyuukire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "nĩyookire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgũnda waya"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "mũgũnda waya"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:11.171435471Z",
+  "model": "glm-5.3"
+}

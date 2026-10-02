@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nĩgũkorwo arĩ ona ana ake, igũa rĩa magũrũ makwa, thĩinĩ wake, nĩmacitherithia rĩĩtwa rĩakwa, na macitherithia ⟨את⟩ Mũtheru wa Yaakobu, na ⟨את⟩ Erohimu wa Yiceraeri nĩmethagatĩka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "arĩ ona"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ana ake"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "igũa rĩa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "magũrũ makwa"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "thĩinĩ wake"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "nĩmacitherithia"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "rĩĩtwa rĩakwa"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "na macitherithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mũtheru"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mũtheru"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakobu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "nĩmethagatĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:38:49.629005406Z",
+  "model": "glm-5.3"
+}

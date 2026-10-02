@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Hĩndĩ ĩrĩkũ, Yahwe, ndũngĩngĩrwo gweteka? Nĩthĩĩ na mbere? Hĩndĩ ĩrĩkũ ndũgĩthithanagĩra ⟨את⟩ ciĩthe gwawe kwa nĩ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hĩndĩ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ĩrĩkũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ndũngĩngĩrwo gweteka"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nĩthĩĩ na mbere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hĩndĩ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ĩrĩkũ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ndũgĩthithanagĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩthe gwawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ciĩthe gwawe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwa nĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:33.835022246Z",
+  "model": "glm-5.3"
+}

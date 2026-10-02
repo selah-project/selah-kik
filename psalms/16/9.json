@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩhĩndĩ ĩyo ngoro yakwa ĩgĩkena, na ũgence wakwa ũgĩtigania; o mwĩrĩ wakwa ũgĩikaraga na gĩtĩĩo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nĩhĩndĩ ĩyo"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ĩgĩkena"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "na ũgĩtigania"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ũgence wakwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "o"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mwĩrĩ wakwa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ũgĩikaraga"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na gĩtĩĩo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:54:06.118546535Z",
+  "model": "glm-5.3"
+}

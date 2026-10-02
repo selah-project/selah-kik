@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Thingai Adonai wa athamaki, nĩgũkorwo ya riiko hecedi wake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Thingai"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai wa"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya riiko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:57.941580509Z",
+  "model": "glm-5.3"
+}

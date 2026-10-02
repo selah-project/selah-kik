@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yudyao makĩyigura ⟨את⟩ ũrĩa maambĩrĩirie gwĩka, na ⟨את⟩ ũrĩa Morodekai aandĩkĩte kwaro;",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "makĩyigura"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yudyao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa maambĩrĩirie gwĩka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "maambĩrĩirie"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũrĩa Morodekai aandĩkĩte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "aandĩkĩte"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwaro"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:50.008699933Z",
+  "model": "glm-5.3"
+}

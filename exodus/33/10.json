@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na andũ othe maigonaga ⟨את⟩ mũgwanja wa irigici ũrĩkĩĩmara mũrango wa hema; na andũ othe makĩrĩmoka, mũndũ o wothe akĩcũmbaithia mũrango-inĩ wa hema yake.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "maigonaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgwanja wa irigici"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wa irigici"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ũrĩkĩĩmara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "makĩrĩmoka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "akĩcũmbaithia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango-inĩ"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wa hema yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:02.639872237Z",
+  "model": "glm-5.3"
+}

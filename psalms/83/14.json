@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Eroha wakwa, ithĩrie ta kĩgurũgũrũ, ta marigũ mbere ya ruaki.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eroha wakwa"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "ithĩrie"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "ta kĩgurũgũrũ"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ta marigũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:03.999081936Z",
+  "model": "glm-5.3"
+}

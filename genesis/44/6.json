@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Akĩmacokia, akĩmeetera macio ⟨את⟩ ciugo icio.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "akĩmacokia"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akĩmeetera"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo icio"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "icio"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:09.888427454Z",
+  "model": "glm-5.3"
+}

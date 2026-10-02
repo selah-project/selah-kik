@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Comeroni, kana gwaku gwa ng'ombe nĩgũciirwo; ĩmenyo yanjĩ nĩĩmerekia harĩ ao; kana mĩrongo ĩngĩ arĩa ndimarũhota gũtherio?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "nĩgũciirwo"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "kana gwaku gwa ng'ombe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comeroni"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nĩĩmerekia"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ĩmenyo yanjĩ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "harĩ ao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mĩrongo ĩngĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "marũhota"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "gũtherio"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:33.002231661Z",
+  "model": "glm-5.3"
+}

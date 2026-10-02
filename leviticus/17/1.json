@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Yahwe anarora na Moce, na aguaga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anarora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aguaga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:13.084496480Z",
+  "model": "glm-5.3"
+}

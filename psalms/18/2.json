@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nakĩo akiuga: Nĩngakwenda, Yahwe, hinya wakwa.",
+  "tokens": [
+    {
+      "surface": "ואמר ויאמר",
+      "gloss": "Nakĩo akiuga"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "nĩngakwenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "hinya wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:09.451161952Z",
+  "model": "glm-5.3"
+}

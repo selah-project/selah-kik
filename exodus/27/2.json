@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na ũkahĩnga mahũa make harĩ mĩena yake ĩnja; kuuma yĩndĩ yake mũthenya ũmwe nĩmahũa make maikorũo; na ũkaiciĩrĩra ⟨את⟩ yĩndĩ ĩyo nĩ caba.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ũkahĩnga"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mahũa make"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ĩnja"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "mĩena yake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma yĩndĩ yake"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "maikorũo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mahũa make"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ũkaiciĩrĩra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhinjĩro"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "caba"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:52.669390167Z",
+  "model": "glm-5.3"
+}

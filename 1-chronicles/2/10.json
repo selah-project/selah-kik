@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Rama nĩaciarũra ⟨את⟩ Aminadabu; na Aminadabu nĩaciarũra ⟨את⟩ Nahaconi, mũnene wa ciana cia Yehuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Na Rama"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩaciarũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "na Aminadabu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩaciarũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahaconi"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahaconi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa ciana cia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:39.374965541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Akoa a Kehati: Aminadabi mũrũ wake, Korahi mũrũ wake, Aciri mũrũ wake.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Akoa a"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Aciri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:36.919867452Z",
+  "model": "glm-5.3"
+}

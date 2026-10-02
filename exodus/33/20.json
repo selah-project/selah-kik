@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩrauga: Ndarĩ ũngĩhota kuona ⟨את⟩ gĩtĩ-inĩ gwakwa; nĩ mũndũ ndangĩona Inyi na gũikara mwĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩrauga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndarĩ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ũngĩhota"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩtĩ-inĩ gwakwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gĩtĩ-inĩ gwakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "angĩona Inyi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na gũikara mwĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:32.743473232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩndonire ⟨את⟩ Yahwe, akĩndũriria, akĩnhonokia mĩgũrũ yanj yothe.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "nĩndonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "akĩndũriria"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mĩgũrũ yothe"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "ya kũgwata kwĩngĩ kwakwa"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "akĩnhonokia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:11.422011971Z",
+  "model": "glm-5.3"
+}

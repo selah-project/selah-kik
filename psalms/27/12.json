@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Ndũkandũhe kũrĩrĩria kwa thũ ciakwa; nĩgũkorwo ahaki ma maacia makĩima kũigua, mahũhaga kũhũũra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũkandũhe"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "kũhe"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kũrĩrĩria kwa"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "thũ ciakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "makĩima"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ahaki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ma maacia"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "na mahũhaga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kũhũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:25.954925170Z",
+  "model": "glm-5.3"
+}

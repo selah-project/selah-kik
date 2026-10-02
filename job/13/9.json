@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩ kĩega atĩ ⟨we⟩ agakũrũria ⟨את⟩ inywe? Kana ta mũndũ ũrĩa aragũcethia, mũgũcethia ⟨we⟩?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "nĩ kĩega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "agakũrũria"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "ta mũndũ ũrĩa aragũcethia"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "mũgũcethia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨we⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T04:09:56.473612507Z",
+  "model": "glm-5.3"
+}

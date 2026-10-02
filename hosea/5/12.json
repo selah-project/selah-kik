@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na nĩndĩ ta mũrobo kwa Epraimu, na ta cethũkũ kwa nyũmba ya Yuda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na nĩndĩ"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ta mũrobo"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kwa Epraimu"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "na ta cethũkũ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kwa nyũmba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-02T02:16:43.388503333Z",
+  "model": "glm-5.3"
+}

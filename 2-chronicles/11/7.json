@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ Beti-Curi, na ⟨את⟩ Coko, na ⟨את⟩ Aduramu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Curi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Curi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Coko"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Coko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aduramu"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Aduramu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:45:13.638740666Z",
+  "model": "glm-5.3"
+}

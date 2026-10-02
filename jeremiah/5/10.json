@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 5:10",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Hĩkarĩrĩai mĩrĩgo yake mũhithĩrie, no kũheheria kũrĩa kũingĩha ndũkaihĩa; mũkengere maroro make, nĩ ao ti a Yahwe.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Hĩkarĩrĩai"
+    },
+    {
+      "surface": "בשרותיה",
+      "gloss": "mĩrĩgo yake"
+    },
+    {
+      "surface": "ושחתו",
+      "gloss": "mũhithĩrie"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "kũheheria kũingĩha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũkaihĩa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kũrĩta"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "mũkengere"
+    },
+    {
+      "surface": "נטישותיה",
+      "gloss": "maroro make"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ amũ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:01:40.033361730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Goocai Yahwe, atumia ake, arĩa mehĩnge-inĩ cia hinya, arĩa mehota gũtua kiugo yake, mahotĩte kuigua mũgambo wa kiugo yake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Goocai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "arĩa mehĩnge-inĩ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "arĩa mehota gũtua"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kiugo yake"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mahotĩte kuigua"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kiugo yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:13.328971697Z",
+  "model": "glm-5.3"
+}

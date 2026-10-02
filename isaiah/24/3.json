@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Kĩna ĩhithithwo thĩ, na kĩna ĩcũngĩrwo ĩcũngĩrĩke; nĩ gĩkundi ĩno Yahwe noagĩte ⟨את⟩ kiugo gĩku.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Kĩna ĩhithithwo"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ĩhithithike"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "na kĩna ĩcũngĩrwo"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ĩcũngĩrĩke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ gĩkundi ĩno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "noagĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo gĩku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩku"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:41.656583056Z",
+  "model": "glm-5.3"
+}

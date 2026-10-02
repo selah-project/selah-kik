@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na aana a Eeri nĩmaarĩ aana a Beliari; ti maakũigua ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "maakũigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:08:40.899732291Z",
+  "model": "glm-5.3"
+}

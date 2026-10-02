@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 98,
+  "translation": "Na macocero na mũgambo wa copari, kihũrani tha mbere ya mũthamaki Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Na macocero"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na mũgambo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "wa copari"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "kihũrani tha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:24.373252188Z",
+  "model": "glm-5.3"
+}

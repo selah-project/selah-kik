@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 16:1",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na gũcawa kuuma kwa ciana cia Yocifu kuuma Yardeni, Yeriho, nginya mĩena cia Yeriho, harĩa riua ietherera; nyambara ĩrĩa ĩambataga kuuma Yeriho kĩrĩma-inĩ, Betheri.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nĩgũcawa kũinũkĩte"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "kũgawa kwa kĩahũa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ciana cia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocifu"
+    },
+    {
+      "surface": "מירדן",
+      "gloss": "kuuma Yardeni"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "למי",
+      "gloss": "nginya mĩena cia"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "harĩa riua ietherera"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "nyambara"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ĩambataga"
+    },
+    {
+      "surface": "מיריחו",
+      "gloss": "kuuma Yeriho"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:48:41.140433689Z",
+  "model": "glm-5.3"
+}

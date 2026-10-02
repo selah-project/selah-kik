@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Rĩrĩa mĩcĩ ya mũndũ ĩrĩkĩtie Yahwe, ⟨ĩgũkũ⟩ nĩ thũ make mathiĩ na thayũ hamwe nake.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "rĩrĩa ... ĩrĩkĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mĩcĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya mũndũ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨ĩgũkũ⟩"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "thũ make"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mathiĩ na thayũ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe nake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:25.531007832Z",
+  "model": "glm-5.3"
+}

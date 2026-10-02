@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Akamahĩhĩria agĩtua atĩrĩ: Ũroone, ithwĩ nĩmũcuũkagĩra mũciĩ ũcio, thutha wa mũciĩ ũcio; ndĩmũthererere kuma mũciĩ ũcio hĩndĩ nene, no mũkorere ithwĩ othe muoinĩte mbere.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akamahĩhĩria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ao (anake athagĩru)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩtua atĩrĩ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ũroone"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ithwĩ"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "mũcuũkagĩra"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mũciĩ ũcio"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ ũcio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "mũthererere"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ ũcio"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hĩndĩ nene"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mũkorere"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ithwĩ othe"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "muoinĩte mbere"
+    }
+  ],
+  "timestamp": "2026-10-01T22:44:20.258070775Z",
+  "model": "glm-5.3"
+}

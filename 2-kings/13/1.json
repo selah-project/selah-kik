@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 13:1",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mwaka-inĩ wa mĩrongo ĩrĩ na ithatũ mwaka wa Yoaci mwana wa Ahaziyahu mũthamaki wa Yehuda, Yehoahazi mwana wa Yehu akĩthamakĩra Yiceraeri Comeroni, mĩaka ikũmi na mũgwanja.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mwaka-inĩ wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na ithatũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "wa Yoaci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "wa Ahaziyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akĩthamakĩra"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "wa Yehu"
+    },
+    {
+      "surface": "על",
+      "gloss": "gũthamakĩra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Comeroni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:16:45.831796053Z",
+  "model": "glm-5.3"
+}

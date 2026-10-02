@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Yahwe arĩ hekarũ-inĩ yake yerĩ theru; Yahwe, gĩkũro kĩake kĩrĩ thĩinĩ wa igũrũ; mahĩtĩko make mahĩtigaagĩra; kĩhĩhĩro kĩake gĩgĩciũranĩra ciana cia andũ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "hekarũ-inĩ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "yerĩ theru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "thĩinĩ wa igũrũ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "gĩkũro kĩake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahĩtĩko make"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "mahĩtigaagĩra"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "kĩhĩhĩro kĩake"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "gĩgĩciũranĩra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:50.741035421Z",
+  "model": "glm-5.3"
+}

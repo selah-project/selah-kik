@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ĩtha cia arĩa me hinya cĩagwatĩte, na arĩa me maciarũni nĩmakĩingĩhĩrĩire hinya.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "ĩtha"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "arĩa me hinya"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "cĩagwatĩte"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "arĩa me maciarũni"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "makĩingĩhĩrĩire"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hinya"
+    }
+  ],
+  "timestamp": "2026-10-01T23:09:54.298089674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ekera nĩtarũ kũhokia ⟨את⟩ ndũrĩrĩ yake na ⟨את⟩ rũciaro rĩake; nĩ Morodekai aarahĩrire we atĩ ndarĩ kũhokia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nĩtarũ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "kũhokia"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ekera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũrĩrĩ yake"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ndũrĩrĩ yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rũciaro rĩake"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "rũciaro rĩake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aarahĩrire"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "we"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndarĩ"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "kũhokia"
+    }
+  ],
+  "timestamp": "2026-10-02T04:45:54.675138118Z",
+  "model": "glm-5.3"
+}

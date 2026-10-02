@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na we nĩũkahana ⟨את⟩ ng'araci iria cia mutĩ wa citemi, na nĩũcikĩrĩra ⟨את⟩ ndahabu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "nĩũkahana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'araci iria"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ng'araci iria"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mutĩ wa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "citemi"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "nĩũcikĩrĩra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ndahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndahabu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:55.031648477Z",
+  "model": "glm-5.3"
+}

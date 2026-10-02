@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Hĩndĩ ya kũrera, na hĩndĩ ya kũseka; hĩndĩ ya kũrĩra, na hĩndĩ ya kũina.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "kũrera"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "kũseka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "kũrĩra"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "kũina"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:43.800293645Z",
+  "model": "glm-5.3"
+}

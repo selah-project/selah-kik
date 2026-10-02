@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Raamothi hamwe na minica yacio, na ⟨את⟩ Anemu hamwe na minica yacio.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raamothi"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minica yacio"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "minica yacio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anemu"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minica yacio"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "minica yacio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:44.369827244Z",
+  "model": "glm-5.3"
+}

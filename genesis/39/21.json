@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na Yahwe aarĩ ⟨את⟩ Yocefu, akamũringira hecedi, na akamũhe kĩhooto thĩinĩ wa maitho ma mwathi wa nyũmba ya cehari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yocefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "akamũringira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akamũhe"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "cehari"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:13.060938918Z",
+  "model": "glm-5.3"
+}

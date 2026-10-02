@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 38:32",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩũkũhota gũcokia ⟨את⟩ thimbũ cia mĩhũrũga wa njata thĩiniĩ wakĩo mwanya? Kana nĩũkũhota gũcokanĩrĩira ⟨את⟩ mbũri ya Mĩtambũre hamwe na mĩcenyi yayo mĩgima?",
+  "tokens": [
+    {
+      "surface": "התציא",
+      "gloss": "nĩũkũhota gũcokia thĩ"
+    },
+    {
+      "surface": "מזרות",
+      "gloss": "mĩhũrũga ya mĩtambũre cia njata (constellation ya njata njatukũ cia njata thĩiniĩ wa mĩhũrũga ya mbũri, kana mazuruthi kana mĩthia ya njata cia thĩ kũgereria mweri wa njata)"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "thĩiniĩ wakĩo mwanya"
+    },
+    {
+      "surface": "ועיש",
+      "gloss": "na mbũri ya Mĩtambũre (kana Arcturus)"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "mĩcenyi yayo mĩgima"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "nĩũkũhota gũcokanĩrĩira"
+    }
+  ],
+  "timestamp": "2026-10-02T04:26:05.778251979Z",
+  "model": "glm-5.3"
+}

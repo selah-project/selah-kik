@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na arũme acio magĩcoka maĩire ⟨את⟩ mikono yao, na maĩrire ⟨את⟩ Rothi kũinĩra kuuma mbaara-inĩ o kũrĩ ari, na ⟨את⟩ mũrango magĩcingihiirie.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "na maĩire"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "arũme acio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "na maĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rothi"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Rothi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kũinĩra kuuma o kũrĩ ari"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kũrĩ mbaara-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũrango"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "magĩcingihiirie"
+    }
+  ],
+  "timestamp": "2026-10-01T20:36:36.878219788Z",
+  "model": "glm-5.3"
+}

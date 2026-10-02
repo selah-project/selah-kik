@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Nĩgũkorwo ũguo Yahwe akiuga: Nĩmĩgũcoorĩtwo bata, na ti na mbeca mũcũranwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bata"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "nĩmĩgũcoorĩtwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "na mbeca"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "mũcũranwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:51:57.971834890Z",
+  "model": "glm-5.3"
+}

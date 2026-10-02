@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na Yahwe Erohimu wakwa agakũhe mbere yakwe, na we ũmahũthe: ũkahetha o mbere ya hinya — ndũkahũitharĩkĩrie aiyũrũ-inĩ; ndũkahũikarĩrĩirie na kĩrĩkanĩro, na ndũkaamacĩrĩirie;",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "agakũhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yakwe"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ũmahũthe"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ũkahetha"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "ũkahetha o mbere ya hinya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa (mbere ya hinya)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "hũikarĩrĩirie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũkaa"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "macĩrĩrie"
+    }
+  ],
+  "timestamp": "2026-10-01T22:20:31.389747359Z",
+  "model": "glm-5.3"
+}

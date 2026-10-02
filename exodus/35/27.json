@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na andũ arata anene nĩmaithũkire ⟨את⟩ mahiga ya cohama na ⟨את⟩ mahiga ma kwatĩhio, harĩ efodi na harĩ koceni.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "na andũ arata anene"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nĩmaithũkire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahiga ya cohama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ya cohama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mahiga ma kwatĩhio"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ma kwatĩhio"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "harĩ efodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "na harĩ koceni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:50.099358404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Nĩĩno Yahwe, nĩndĩkũheite na cedeki, na nĩngĩhikia hku-inĩ yaku, ngakũrinda, ngakũhe ta kĩrĩkanĩro kĩa andũ, ta ũtheri wa ndũrĩrĩ,",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩĩno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nĩndĩkũheite"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "na nĩngĩhikia"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "hku-inĩ yaku"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "ngakũrinda"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ngakũhe"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ta kĩrĩkanĩro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kĩa andũ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ta ũtheri"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wa ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:51.183429995Z",
+  "model": "glm-5.3"
+}

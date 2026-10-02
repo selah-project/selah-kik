@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "No nĩwe na ahunjia ako, ndĩmamĩyũra atĩ mũtarĩ arĩa nginya mũcene kũcita Yahwe Erohimu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "na ahunjia ako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndĩmamĩyũra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "arĩa nginya mũcene"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "kũcita"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bata rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:20.318011008Z",
+  "model": "glm-5.3"
+}

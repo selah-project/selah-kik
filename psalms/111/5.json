@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Irio nĩahethe arĩa mamũthĩraga; nĩagĩkũririkana kĩrĩkanĩro gĩake tene na tene.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "irio"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩahethe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "arĩa mamũthĩraga"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "nĩagĩkũririkana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kĩrĩkanĩro gĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:57.716067178Z",
+  "model": "glm-5.3"
+}

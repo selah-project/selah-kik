@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Chamu, ithe wa Cenaani, nĩaonire ⟨את⟩ thuo cia ithe wake, akĩamũciria aciana a nyina iro harĩa ha nja.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nĩaonire"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Cenaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thuo cia ithe wake"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "thuo cia"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akĩamũciria"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iro"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aciana a nyina"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "harĩa ha nja"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:36.538955030Z",
+  "model": "glm-5.3"
+}

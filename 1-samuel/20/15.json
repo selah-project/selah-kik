@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na ndũngĩhota kũgata ⟨את⟩ hecedi waku kuuma mbarĩ yakwa tene na tene, na tiga ũguo kana hĩndĩ Yahwe agathĩmbara ⟨את⟩ thũ cia Dawidi, mũndũ o wothe kuuma irĩnga-inĩ rĩa thĩ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ndũngĩhota"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kũgata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hecedi waku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mbarĩ yakwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tene na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na tiga ũguo"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "agathĩmbara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thũ cia Dawidi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "thũ cia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "irĩnga-inĩ rĩa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:22:21.352871942Z",
+  "model": "glm-5.3"
+}

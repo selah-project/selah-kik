@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 26:8",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ikameneka, rĩrĩa Yeremia egũkũrĩtie kũuga ⟨את⟩ macio aothe Yahwe aatũrire akũuge harĩ andũ aothe, aathani na mĩrathi na andũ aothe makĩmũnyita ⟨את⟩, magĩcooka megĩ: ũkũrũo nĩũkuura.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikameneka"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "rĩrĩa egũkũrĩtie"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremia"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kũuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio aothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "macio"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aatũrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "akũuge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "andũ aothe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויתפשו",
+      "gloss": "makĩmũnyita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yeremia"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aathani"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "na mĩrathi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "magĩcooka megĩ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ũkũrũo"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "nĩũkuura"
+    }
+  ],
+  "timestamp": "2026-10-02T01:18:02.004701548Z",
+  "model": "glm-5.3"
+}

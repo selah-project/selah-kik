@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu nĩombire ⟨את⟩ ncamba cia nini, na ⟨את⟩ mũoyo ciothe ũrĩa ũrahĩhaga irĩa maaĩ maikarĩtie kũiyũra mĩthia-inĩ yacio, na ⟨את⟩ njamba ciothe ciarĩ mahũa mĩthia-inĩ yacio; na Erohimu nĩonire atĩ nĩ kĩega.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ncamba cia nini"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "ncamba cia nini"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "nene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũoyo ciothe ũrĩa ũrahĩhaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wĩ hinya"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ũrahĩhaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "maikarĩtie kũiyũra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "mĩthia-inĩ yacio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njamba ciothe ciarĩ mahũa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "njamba"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ciarĩ mahũa"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "mĩthia-inĩ yacio"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nĩonire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kĩega"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:36.865177337Z",
+  "model": "glm-5.3"
+}

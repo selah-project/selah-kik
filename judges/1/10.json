@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Yahuda agiĩ kũrĩ Kanaani, ũrĩa utuiĩ Cebironi; na rĩĩtwa ria Cebironi riambĩrĩiria rĩatagwo Kiriati Aruba; na makĩhoota ⟨את⟩ Cecai na ⟨את⟩ Ahimani na ⟨את⟩ Tarmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agiĩ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ũrĩa utuiĩ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Cebironi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ria Cebironi"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "riambĩrĩiria"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriati"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Aruba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cecai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Cecai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahimani"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tarmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Tarmai"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:22.107948216Z",
+  "model": "glm-5.3"
+}

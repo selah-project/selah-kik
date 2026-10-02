@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Yahwe, rĩrĩa ũrerekire kuuma Seiri, rĩrĩa ũranyitirie gĩcunjĩ kĩa Edomu, thĩ ĩraitĩkĩrire, na igũrũ nĩrikũrura, na marĩgiti makũrura maĩ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "rĩrĩa ũrerekire"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "kuuma Seiri"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "rĩrĩa ũranyitirie"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "gĩcunjĩ kĩa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ĩraitĩkĩrire"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nĩrikũrura"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "marĩgiti"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "makũrura"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:56:52.410202995Z",
+  "model": "glm-5.3"
+}

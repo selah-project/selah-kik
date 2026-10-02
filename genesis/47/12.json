@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Na Yocefu akĩgũcithia irio ⟨את⟩ ithe wake, na ⟨את⟩ anje ake, na ⟨את⟩ nyũmba ya ithe wake yose — irio ta ũrĩa ciana ciao ciahota.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "akĩgũcithia irio"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe wake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "anje ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anje ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya ithe wake"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ta ũrĩa ... ciahota"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ciana ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:56:17.917289699Z",
+  "model": "glm-5.3"
+}

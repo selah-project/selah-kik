@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "A ciana cia Merari, kũringana na mĩbarĩ ciao, kũringana na nyũmba cia athathe ciao, nĩũkabararia ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "a ciana cia"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kũringana na mĩbarĩ ciao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kũringana na nyũmba cia"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "athathe ciao"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "nĩũkabararia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Merari"
+    }
+  ],
+  "timestamp": "2026-10-01T21:52:06.616403543Z",
+  "model": "glm-5.3"
+}

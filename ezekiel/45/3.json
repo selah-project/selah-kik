@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 45:3",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Na kuuma kĩrigo gĩu mũkanjara: ũraihu wa ngiri mirongo ĩrĩ na ithano, na ũgana wa ngiri ikũmi; na thĩinĩ wakĩo kũgĩa Micikani, theru wa ithuatuo.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "kĩrigo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "gĩu"
+    },
+    {
+      "surface": "תמוד",
+      "gloss": "mũkanjara"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ũraihu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mirongo ĩrĩ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na ũgana"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "na thĩinĩ wakĩo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kũgĩa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "theru"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wa ithuatuo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:15:33.186507149Z",
+  "model": "glm-5.3"
+}

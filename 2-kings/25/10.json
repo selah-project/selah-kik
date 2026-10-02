@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ biriga cia Yerucarayimu irĩ kũringana kwa yo, jithe ngima mbarari ya aKacadi arĩa mahota na mũkubwa wa athigari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "biriga cia Yerucarayimu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "biriga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "irĩ kũringana kwa yo"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "jithe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ngima"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mbarari"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "aKacadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũkubwa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa athigari"
+    }
+  ],
+  "timestamp": "2026-10-02T00:23:39.408161836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Mĩrongo cia andũ, ithayai Erohimu witũ, na mũtige mũgambo wa wĩrauyau wake ũigue.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ithayai"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Mĩrongo cia andũ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "na mũtige ... ũigue"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "wĩrauyau wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:41.369026169Z",
+  "model": "glm-5.3"
+}

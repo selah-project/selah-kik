@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Thĩinĩ wa maũndũ macio othe, magĩa mahĩtia o na gũthiĩ mbere, matiigĩkĩra mĩrage yothe yake.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa o the"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "maũndũ macio"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "magĩa mahĩtia"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "o na gũthiĩ mbere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ĩgĩkĩra"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "mĩrage yothe yake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:58.657480949Z",
+  "model": "glm-5.3"
+}

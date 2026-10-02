@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Ngoro yakwa ĩrĩaga gĩthingo kĩega; nĩngĩuga maũndũ makwa kuuma mũthamaki; rurimi rwakwa nĩrĩ ta kĩandĩki kĩa mũandĩki mũhiu.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ĩrĩaga gĩthingo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gĩthingo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nĩngĩuga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩngĩ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "maũndũ makwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuuma mũthamaki"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "rurimi rwakwa"
+    },
+    {
+      "surface": "עט",
+      "gloss": "kĩandĩki"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "mũandĩki"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "mũhiu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:56.153635042Z",
+  "model": "glm-5.3"
+}

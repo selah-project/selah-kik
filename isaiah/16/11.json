@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩ ũndũ ũcio nda yakwa ĩtang'ĩrĩra Moabi ta kinari, na meciria makwa nĩ ma Kiri-Hereci.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Nĩ ũndũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "nda yakwa"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "ta kinari"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ĩtang'ĩrĩra"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "na meciria makwa"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "nĩ ma"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Kiri-Hereci"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:13.992123124Z",
+  "model": "glm-5.3"
+}

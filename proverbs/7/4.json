@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ũmeere Ũgĩ atĩrĩ: 'Wĩwe mwarĩ-wa-nyina wakwa ⟨את⟩', na ũmenyo ũtuĩte mũciaranĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ũmeere"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Ũgĩ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mwarĩ-wa-nyina wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũmenyo"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "kwo ũmenyi"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ũtuĩte mũciaranĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:49:33.687048780Z",
+  "model": "glm-5.3"
+}

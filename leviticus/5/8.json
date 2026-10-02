@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ageithire ⟨את⟩ ciao kwa mũthĩnjĩri-ngai; mũthĩnjĩri-ngai amũtikĩrie ⟨את⟩ ĩrĩa ĩrĩ ya kũhotoria ĩhia kuuma mbere, acokanĩrie ⟨את⟩ mutwi wake harĩa mbere ya ngoro ya thutha, na ndagatigananagĩra agacikananga.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ageithire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ciao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "amũtikĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ĩrĩa ĩrĩ ya kũhotoria ĩhia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa ĩrĩ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ya kũhotoria ĩhia"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "kuuma mbere"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "acokanĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutwi wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutwi wake"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "harĩa mbere ya"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ngoro ya thutha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "gacikananga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:32:35.234149721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na nĩũkamarũthia nacio ⟨את⟩ hema ya Gĩathĩro, na ⟨את⟩ ciatĩro cia ũira.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "na nĩũkamarũthia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nacio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema ya Gĩathĩro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Gĩathĩro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciatĩro cia ũira"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ciatĩro"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cia ũira"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:27.971718027Z",
+  "model": "glm-5.3"
+}

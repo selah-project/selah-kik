@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na mũthamaki Yehoramu nĩathiĩte kuuma Camaroni mũthenya ũcio, na akĩkanitharia ⟨את⟩ Yiceraeri yothe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nĩathiĩte kuuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoramu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Camaroni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "akĩkanitharia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:07:25.667250409Z",
+  "model": "glm-5.3"
+}

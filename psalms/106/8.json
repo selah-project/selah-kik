@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "No nĩakĩhoora nao ũndũ wa rĩĩtwa rĩake, nĩgeetha amanyĩthe ⟨את⟩ hinya wake.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "nĩakĩhoora nao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ũndũ wa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "nĩgeetha amanyĩthe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinya wake"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "hinya wake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:18.544302305Z",
+  "model": "glm-5.3"
+}

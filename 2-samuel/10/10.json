@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ ihiro ya andũ nĩakahĩthia moko-inĩ makwa Abicai, mũrũ wa nyina, na ũmwe akamarutithia ũrĩa makĩrũa mwana wa camoni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihiro ya andũ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ihiro"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya andũ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩakahĩthia"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abicai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũ wa nyina"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "akamarutithia"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ũrĩa makĩrũa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "camoni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:34:24.941708855Z",
+  "model": "glm-5.3"
+}

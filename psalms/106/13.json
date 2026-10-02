@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩmahota, maherereire maũndũ make, matiĩkĩrĩirie kĩhooto gwake.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "nĩmahota"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "maherereire"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "maũndũ make"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mati-"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "-ĩkĩrĩirie"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "kĩhooto gwake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:01.243458740Z",
+  "model": "glm-5.3"
+}

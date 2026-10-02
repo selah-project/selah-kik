@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Igera Yahwe tene na tene; nĩgũkũ thĩinĩ wa Yah, Yahwe nĩwe bara wa mĩthenya yothe.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Igera"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na tene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "thĩinĩ wa Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bara"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wa mĩthenya yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:00.770074011Z",
+  "model": "glm-5.3"
+}

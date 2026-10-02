@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 150,
+  "translation": "Himbĩrĩni Yah, himbĩrĩni Ere thĩinĩ wa ũtheru wake; himbĩrĩni ũrĩa thĩinĩ wa rũgĩ rwa hinya wake.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Himbĩrĩni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "himbĩrĩni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "thĩinĩ wa ũtheru wake"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "himbĩrĩni ũrĩa"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "thĩinĩ wa rũgĩ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "rwa hinya wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:08.309419771Z",
+  "model": "glm-5.3"
+}

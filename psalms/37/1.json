@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Wa Dawidi. Ndũkanyamarũke na arĩa mahĩtia, ndũkenanĩre na arĩa maruta maũndũ marũngĩre.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Wa Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "kũnyamarũka"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "na arĩa mahĩtia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kũenana"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "na arĩa maruta"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "maũndũ marũngĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:21.105751791Z",
+  "model": "glm-5.3"
+}

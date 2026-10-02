@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Ũrĩa ũheaga irio kwa mĩrĩme yothe, nĩ ũndũ wa tene na tene hecedi wake ĩikaraga.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Ũrĩa ũheaga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mĩrĩme yothe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake ĩikaraga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:38.534820138Z",
+  "model": "glm-5.3"
+}

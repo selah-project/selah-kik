@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩguo mwathĩ wa Acuri nĩakohete ⟨את⟩ abata a Micirayimu na ⟨את⟩ agacĩrĩro a Kuci, ariĩ na eenji, mĩtheru na atarĩ ciatuhi, na mata makarũragwo — ithie ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Nĩguo"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "nĩakohete"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathĩ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abata a Micirayimu"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "abata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Micirayimu"
+    },
+    {
+      "surface": "ויאת ואת",
+      "gloss": "⟨את⟩",
+      "marks": "agacĩrĩro a Kuci"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "agacĩrĩro"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "a Kuci"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ariĩ"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "na eenji"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "mĩtheru"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "atarĩ ciatuhi"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "makarũragwo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ithie"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:55.743827791Z",
+  "model": "glm-5.3"
+}

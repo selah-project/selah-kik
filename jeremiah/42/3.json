@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "nĩgetha Yahwe Erohimu waku atuonere ithũĩ ⟨את⟩ mũhĩtwa arĩa tũgĩthii nakĩo, na ⟨את⟩ kĩndũ arĩa tũgĩka.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "na atuonere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũhĩtwa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "mũhĩtwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tũgĩthii"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩndũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tũgĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T01:30:20.918618665Z",
+  "model": "glm-5.3"
+}

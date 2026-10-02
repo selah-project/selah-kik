@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na rĩu, ithe wakwa nĩakwarĩririe kana nyinyi mũgũnda mũkũrũ, na nĩndĩongerera handũ ha mũgũnda wanyu; ithe wakwa nĩakuunjirie ⟨את⟩ nyinyi mĩthi, na nĩndĩgũkũunjira ⟨את⟩ nyinyi ng'arũro.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "nĩakwarĩririe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kana nyinyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mũgũnda"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mũkũrũ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩndĩ"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ongerera"
+    },
+    {
+      "surface": "על",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "mũgũnda wanyu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nĩakuunjirie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "mĩthi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩndĩ"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "nĩndĩgũkũunjira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ng'arũro"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:59.306473649Z",
+  "model": "glm-5.3"
+}

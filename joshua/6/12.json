@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Yehocua anyuũkire kĩambĩrĩria-inĩ kya mũthenya, na athahaji magĩthĩŋgatra ⟨את⟩ aroni ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "anyuũkire kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kya mũthenya"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "magĩthĩŋgatra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "athahaji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:40:12.096502947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Rea akiuga: Mũgwanano ũkĩra! Namanĩte ũgĩ. Akĩita ⟨את⟩ rĩĩtwa rĩake Gari.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Rea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Mũgwanano ũkĩra! Namanĩte ũgĩ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akĩita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gari"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:33.682268643Z",
+  "model": "glm-5.3"
+}

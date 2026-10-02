@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "No wewe ũthĩkĩre ⟨את⟩ Ari igũrũ rĩa Micikani wa ndũmĩrĩra, na rĩa thingu ciothe cia kĩo, na rĩa kĩothe kĩrĩa kĩa kĩo; ao nĩmakĩrota ⟨את⟩ Micikani na ⟨את⟩ thingu ciothe cia kĩo, nao nĩmeenyararia kĩo, na gũtheri kwa Micikani nĩmakomerera.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "No wewe"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "ũthĩkĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ari"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "wa ndũmĩrĩra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "thingu cia kĩo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kĩothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kĩa kĩo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nĩmakĩrota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thingu ciothe cia kĩo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "thingu cia kĩo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "nĩmeenyararia kĩo"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "na gũtheri"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "kwa Micikani"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "nĩmakomerera"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:47.863169494Z",
+  "model": "glm-5.3"
+}

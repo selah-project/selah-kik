@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Kuuma mwena umo wa igũrũ nĩkuo ũciĩro wayo ũambĩrire, na gũtwarũka kwayo gĩkinyithia mĩena yacio; na gũtirĩ kĩndũ gĩithĩtwo kuuma mũhũre wayo.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "kuuma mwena umo wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ũciĩro wayo"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "na gũtwarũka kwayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gĩkinyithia"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "mĩena yacio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ kĩndũ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "gĩithĩtwo"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "kuuma mũhũre wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:24.117662100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Mĩgooce amalaaika make aothe; mĩgooce mbũtũ ciao ciothe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mĩgooce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "amalaaika make"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mĩgooce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "mbũtũ ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.779860383Z",
+  "model": "glm-5.3"
+}

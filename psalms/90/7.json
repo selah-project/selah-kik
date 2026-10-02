@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Nĩgũkorũo nĩitũhĩtwo thĩnĩkĩri-inĩ yaku, na kĩheoha-inĩ gĩaku nĩitũreretwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorũo"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nĩitũhĩtwo"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "thĩnĩkĩri-inĩ yaku"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "na kĩheoha-inĩ gĩaku"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "nĩitũreretwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:50.626718275Z",
+  "model": "glm-5.3"
+}

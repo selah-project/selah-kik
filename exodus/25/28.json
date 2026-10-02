@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ũgĩkahanda ⟨את⟩ mĩratũ ya mĩti ya citi, na ũgĩkenga ⟨את⟩ cio zaabu, na meza ĩgĩtuĩka kũrugitwo nacio ⟨את⟩ meza.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ũgĩkahanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩratũ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mĩratũ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mĩti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "citi"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ũgĩkenga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ cio"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zaabu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ĩgĩtuĩka kũrugitwo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nacio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:04.525794287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Nĩwahingirie handũ mbere yayo, na nĩyaikarĩrĩirie mĩrĩ yayo, nĩyoimĩire thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "nĩwahingirie"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "mbere yayo"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "na nĩyaikarĩrĩirie"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "mĩrĩ yayo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "na nĩyoimĩire"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:31.363178393Z",
+  "model": "glm-5.3"
+}

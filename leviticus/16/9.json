@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na Aharoni atũũrĩrie ⟨את⟩ mbũri-ndũrũme ĩrĩa kĩhumba kĩayagĩrĩire kwa Yahwe, na ayĩringe ĩtuĩke kĩheo kĩa ihĩtwa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "atũũrĩrie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbũri-ndũrũme"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbũri-ndũrũme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kĩayagĩrĩire"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "kĩhumba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "na ayĩringe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kĩheo kĩa ihĩtwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:36.848289882Z",
+  "model": "glm-5.3"
+}

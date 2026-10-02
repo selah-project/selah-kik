@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Rũmagĩrai Yah! Ũmaĩrĩ nĩ mũndũ ũrĩa ũĩthagĩa kũrĩ ⟨את⟩ Yahwe, ũrĩa enda mũno watho wake.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rũmagĩrai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ũmaĩrĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ũĩthagĩa kũrĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "watho wake"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "enda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:56.868133966Z",
+  "model": "glm-5.3"
+}

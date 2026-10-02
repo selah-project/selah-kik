@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Moabu nĩ ndungu yanjũte; igũrũ rĩa Edomu nĩngũciara kĩatu gĩanjũ; rũaũra nĩ ndũngĩrĩire, Ewe Wireciti.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ndungu"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yanjũte"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nĩngũciara"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "kĩatu gĩanjũ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Wireciti"
+    },
+    {
+      "surface": "התרועעי",
+      "gloss": "rũaũra ndũngĩrĩire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:41.184866123Z",
+  "model": "glm-5.3"
+}

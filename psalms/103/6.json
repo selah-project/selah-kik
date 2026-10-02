@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Yahwe wĩya cedeki na ciira cia andũ othe arĩa mahunywĩtwo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "wĩya"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "na ciira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "andũ othe"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "arĩa mahunywĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:16.698989402Z",
+  "model": "glm-5.3"
+}

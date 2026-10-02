@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Rĩrĩa-inĩ nĩndĩrĩ kũmacenjia kuuma harĩa mwamagũtire ⟨את⟩ o ũcio, na ngarũra igũa rĩanyu rĩthutha wa mutwe İanyu.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Rĩrĩa-inĩ nĩndĩrĩ"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "kũmacenjia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "mwamagũtire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "o ũcio (arĩa mwamagũtire)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "o ũcio"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "na ngarũra"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "igũa rĩanyu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "rĩthutha wa mutwe İanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:24:06.497937737Z",
+  "model": "glm-5.3"
+}

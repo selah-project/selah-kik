@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 22:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na thonjekuo — kũgwata ng'ombe na kũinjira ng'ondu, kũria nyama na kũnyua mbũrũ: rĩarĩe na rĩnywe, nĩgũkorwo kesho nĩtũkũyũa.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Na thonjekuo"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kũina gwĩkundo"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "na gũkũranĩrĩa ngoro"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kũgwata"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "na kũinjira"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kũria"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ושתות",
+      "gloss": "na kũnyua"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mbũrũ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "rĩarĩe"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "na rĩnywe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kesho"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "nĩtũkũyũa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:58.062954204Z",
+  "model": "glm-5.3"
+}

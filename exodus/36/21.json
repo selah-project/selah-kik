@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Mũgatha wa ikũmi nĩwa kereci ũmwe, na mũgatha ũmwe na mũgatha ũrĩ ũrĩa kana kereci ũmwe ũrĩa mweha.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "mĩgatha ikũmi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mũgatha"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kereci ũmwe"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mĩgatha ũmwe na"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mĩgatha ũrĩ ũrĩa kana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "mĩgatha"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "mweha"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kereci"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mweha wa kereci ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:16.018528102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Kuuma gĩtherero kĩrĩ mbere yakĩo, maũkũ make maatĩranahirie; ũruha na macoco ma mũki.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Kuuma gĩtherero"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "kĩrĩ mbere yakĩo"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "maũkũ make"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "maatĩranahirie"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ũruha"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "na macoco"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ma mũki"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:38.718423475Z",
+  "model": "glm-5.3"
+}

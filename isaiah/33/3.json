@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Kuuma mũgambo wa mũingĩ wa mbaara nĩmacire ndũrĩrĩ; nĩ gĩkuũ gĩaku mĩciĩ nĩyacwatatire.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kuuma mũgambo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "wa mũingĩ wa mbaara"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nĩmacire"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "nĩ gĩkuũ gĩaku"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nĩyacwatatire"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mĩciĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:39:56.479535730Z",
+  "model": "glm-5.3"
+}

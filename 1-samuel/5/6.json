@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Moko ma Yahwe maarĩ ngũru harĩ andũ a Acododi, akĩhootora, akĩruta minyũrũ ⟨את⟩ Acododi na ⟨את⟩ mĩceryo yayo.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "maarĩ ngũru"
+    },
+    {
+      "surface": "יד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "andũ a Acododi"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "akĩhootora"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akĩruta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Acododi"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "minyũrũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Acododi"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Acododi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩceryo yayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "mĩceryo yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:13:00.599671583Z",
+  "model": "glm-5.3"
+}

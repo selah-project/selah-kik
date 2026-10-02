@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na rĩrĩa mwathi Hizekiahu aiugĩte, anamãngeta ⟨את⟩ nguo ciake, na agĩcokia caki, na aingira nyũmba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "aiugĩte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizekiahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "anamãngeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo ciake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "nguo ciake"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "agĩcokia"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "caki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "aingira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:19:38.003058047Z",
+  "model": "glm-5.3"
+}

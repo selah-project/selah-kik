@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Mũthenya na ũgĩrĩro ihũthagĩrĩra matũũra-inĩ make gĩcigo kĩa mahiga make, na njamba na ũrucio nĩ irĩ hakuhĩ nake mwena-inĩ wake.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na ũgĩrĩro"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ihũthagĩrĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "matũũra-inĩ"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "mahiga make gĩcigo kĩa"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "na njamba"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "na ũrucio"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "nĩ irĩ hakuhĩ nake mwena-inĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:37.179597622Z",
+  "model": "glm-5.3"
+}

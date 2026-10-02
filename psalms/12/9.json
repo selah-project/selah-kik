@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Kũtheri kũingĩ, arĩa mabaya memendereraga, ũrĩa wĩ mbũru nĩwoongagĩrwo andũ-inĩ arĩa me kũu.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "kũtheri kũingĩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa mabaya"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "memendereraga"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "nĩwoongagĩrwo"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "wĩ mbũru"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "andũ-inĩ arĩa me"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kũu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:00.516304560Z",
+  "model": "glm-5.3"
+}

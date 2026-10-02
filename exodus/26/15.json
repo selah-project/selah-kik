@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ũthondeke ⟨את⟩ mboco cia Micikani, ĩcũranĩra, mitĩ ya citimi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na ũthondeke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboco cia Micikani"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mboco cia Micikani"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "(cia Micikani)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mitĩ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya citimi"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ĩcũranĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:03.545668740Z",
+  "model": "glm-5.3"
+}

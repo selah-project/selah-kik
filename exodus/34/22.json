@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 34:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Na kĩũgĩ kĩa majuma nĩũnayĩhĩria; ndunyorwo cia mbere cia kũcũna ngano; na kĩũgĩ kĩa kũũngũrĩria, rĩrĩa mwaka ũcũgũkĩra.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "na kĩũgĩ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kĩa majuma"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũnayĩhĩria"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ndunyorwo cia mbere"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kũcũna mũmera"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "na kĩũgĩ"
+    },
+    {
+      "surface": "האסיף",
+      "gloss": "kĩa kũũngũrĩria"
+    },
+    {
+      "surface": "תקופת",
+      "gloss": "rĩrĩa... ũcũgũkĩra"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "mwaka"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:42.721135954Z",
+  "model": "glm-5.3"
+}

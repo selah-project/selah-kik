@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Mĩgũũrũ ya arĩa mahũthagĩrĩire cingĩ nĩciengerethagĩra; nĩndĩkahetaga mĩhĩa yao ya thakame, na nĩndĩkatũraga ⟨את⟩ marĩĩtwa mao igũrũ rĩa mĩromo yakwa.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "nĩciengerethagĩra"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "mĩgũũrũ yao"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "thutha wa cingĩ"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "arĩa mahũthagĩrĩire"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "nĩndĩkahetaga"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "mĩhĩa yao"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ya thakame"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nĩndĩkatũraga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marĩĩtwa mao"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "marĩĩtwa mao"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mĩromo yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:11.536077434Z",
+  "model": "glm-5.3"
+}

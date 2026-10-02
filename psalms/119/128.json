@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩ ũndũ ũcio amirũ ako yothe nĩnjĩtie atĩ ⟨nĩ⟩ cia cedeki; njĩra yothe ya kirumi nĩnĩmenete.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "amirũ ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bũrũri wothe"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "nĩnjĩtie atĩ nĩ cedeki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya kirumi"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nĩnĩmenete"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:39.553133814Z",
+  "model": "glm-5.3"
+}

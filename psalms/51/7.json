@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Rarĩ, nĩbatarĩtwo mũthenya wa ihũtia, na thĩinĩ wa ihũtia nĩnyinyitire nda-inĩ nyina.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Rarĩ"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "thĩinĩ wa ihũtia"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "nĩbatarĩtwo"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "na thĩinĩ wa ihũtia"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "nĩnyinyitire nda-inĩ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nyina"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:23.773486386Z",
+  "model": "glm-5.3"
+}

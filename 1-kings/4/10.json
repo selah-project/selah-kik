@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mwana wa Hecedi — Arubothi-inĩ; nĩwake Coko na thĩ yothe ya Kepheri.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hecedi"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "Arubothi-inĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩwake"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Coko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ya Kepheri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:09.167152534Z",
+  "model": "glm-5.3"
+}

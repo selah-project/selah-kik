@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ndũkaikare mũthingu bũrũri-inĩ nĩgũkĩra kĩenero, na ndũkañanĩrie ũgima nĩgũkĩra kĩenero; nĩkĩ ũkĩmũragwo?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ikare"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "bũrũri-inĩ nĩgũkĩra kĩenero"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndũka"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ñanĩrie ũgima"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "nĩgũkĩra kĩenero"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ũkĩmũragwo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:11.077283028Z",
+  "model": "glm-5.3"
+}

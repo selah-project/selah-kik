@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Nĩngĩuga: kweli gĩtuiki kĩngĩmũninyanagĩra, na ũtukũ mũtheri nĩguo ũngĩkorũo mwena-inĩ wakwa —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nĩngĩuga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kweli"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gĩtuiki"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "kĩngĩmũninyanagĩra"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na ũtukũ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mũtheri"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "mwena-inĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:32.831465731Z",
+  "model": "glm-5.3"
+}

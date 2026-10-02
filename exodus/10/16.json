@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Farao agĩthĩĩra gwĩta Moce na Aharoni, akiuga: Nĩngwatĩte ihĩtia kwa Yahwe Erohimu wanyu, na kwa nyinyi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "agĩthĩĩra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "gwĩta"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Nĩngwatĩte ihĩtia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "na kwa nyinyi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:30.710078372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 33:15",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mũhĩtĩku agacokerera kĩgĩrĩko, agĩrĩhania kĩrĩa wang'etĩte, agĩthii na thome cia kũrĩara, ndahoniere ũhĩtĩku — agakũrĩara o ũrĩa, ndagakũa.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "kĩgĩrĩko"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "agacokerera"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũhĩtĩku"
+    },
+    {
+      "surface": "גזלה",
+      "gloss": "kĩrĩa wang'etĩte"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "agĩrĩhania"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "na thome"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "cia kũrĩara"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "agĩthii"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nda"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ahoniere"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ũhĩtĩku"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "agakũrĩara"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "gakũa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:02:27.803284858Z",
+  "model": "glm-5.3"
+}

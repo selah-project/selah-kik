@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nua nĩabatarire ciana icithatũ: ⟨את⟩ Cemu, ⟨את⟩ Caru, na ⟨את⟩ Yefeti.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nĩabatarire"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nua"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "icithatũ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Caru"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Caru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yefeti"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeti"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:11.171051592Z",
+  "model": "glm-5.3"
+}

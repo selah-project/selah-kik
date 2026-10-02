@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Na nĩguo nĩmũkaingĩra mũthenya wa mũgwanja wa mweri, nĩ ũndũ wa mũndũ o wothe ũrĩa wahĩtũkĩte na mũndũ ũrĩa wohererethio; nĩguo mũkahorerithia ⟨את⟩ nyũmba.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "na nĩguo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩmũkaingĩra"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "mũthenya wa mũgwanja"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "wahĩtũkĩte"
+    },
+    {
+      "surface": "ומפתי",
+      "gloss": "na ũrĩa wohererethio"
+    },
+    {
+      "surface": "וכפרתם",
+      "gloss": "nĩmũkahorerithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    }
+  ],
+  "timestamp": "2026-10-02T02:15:51.863635067Z",
+  "model": "glm-5.3"
+}

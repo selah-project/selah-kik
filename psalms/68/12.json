@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Adonai aheaga ciugo; acio arĩa maratha makena ciembere: nĩng'eng'ea ĩnene mũno.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "aheaga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "acio arĩa maratha makena ciembere"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "nĩng'eng'ea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ĩnene mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:28.070860820Z",
+  "model": "glm-5.3"
+}

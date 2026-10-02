@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 11:12",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Ndĩrĩ, nĩĩĩĩ nawe nĩngakomire ⟨את⟩ ndũrĩrĩ ĩno yothe? Kana nĩĩĩĩ nawe nĩngabaratire, nĩgeetha ũmwĩra atĩrĩ: Mũtarĩre kĩhandĩng'ang'u-inĩ gaku, ta wonjoria witũ arĩa ekwĩtarĩra ⟨את⟩ mwana mũkionjoria, hĩndĩ ya kũrĩa thĩ ĩrĩa warahĩtie aithĩrũ ario.",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "nĩĩĩĩ nawe nĩĩ"
+    },
+    {
+      "surface": "הריתי",
+      "gloss": "nĩngakomire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũrĩrĩ ĩno yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndũrĩrĩ ĩno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩĩĩĩ nawe nĩĩ"
+    },
+    {
+      "surface": "ילדתיהו",
+      "gloss": "nĩngabaratire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ũmwĩra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "atĩrĩ nakwa"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "mũtarĩre"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "kĩhandĩng'ang'u-inĩ gaku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "arĩa ekwĩtarĩra"
+    },
+    {
+      "surface": "האמן",
+      "gloss": "wonjoria witũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana mũkionjoria"
+    },
+    {
+      "surface": "הינק",
+      "gloss": "mwana mũkionjoria"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ ĩrĩa warahĩtie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "warahĩtie"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "aithĩrũ ario"
+    }
+  ],
+  "timestamp": "2026-10-01T21:59:19.143357309Z",
+  "model": "glm-5.3"
+}

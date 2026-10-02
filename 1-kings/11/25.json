@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na akĩrĩ thũ wa Yiceraeri mĩthenya yothe ya Ceroma, kwingĩrĩria ⟨את⟩ ũru ũrĩa Hadadi walkĩte; nĩmenetie na Yiceraeri, na akĩthamaki handũ ha Aramu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akĩrĩ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Ceroma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ũru ũrĩa Hadadi walkĩte"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi walkĩte"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "nĩmenetie"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akĩthamaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:11.297816494Z",
+  "model": "glm-5.3"
+}

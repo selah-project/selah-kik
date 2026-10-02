@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Kĩenda kĩa arĩa methagĩrĩra Yakĩĩra gũtuĩra kĩa ma; na ⟨את⟩ kũgaũkĩra kwao akuiguĩra, na akĩhoithia.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kĩenda"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "arĩa methagĩrĩra Yakĩĩra"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "agatuĩra kĩa ma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kũgaũkĩra kwao"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kũgaũkĩra kwao"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akuiguĩra"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "na akĩhoithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:49.702125742Z",
+  "model": "glm-5.3"
+}

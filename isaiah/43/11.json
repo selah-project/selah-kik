@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Nĩĩ, nĩĩ nĩ Yahwe; na kũringana nakwa tigũkũ mũcũnjĩri.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na tigũkũ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "kũringana nakwa"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mũcũnjĩri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:35.894091160Z",
+  "model": "glm-5.3"
+}

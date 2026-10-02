@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yahwe Erohimu akiuga: Mũndũ kũikara we mwene ti mwega; nĩngathondeka kwa mũndũ mũteithia mũranĩte na we.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kũikara"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "we mwene"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nĩngathondeka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa mũndũ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mũteithia"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "mũranĩte na we"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:41.545718134Z",
+  "model": "glm-5.3"
+}

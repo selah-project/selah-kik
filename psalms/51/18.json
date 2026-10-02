@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Nĩgũkorwo ndũrenda kĩheo kĩa gũcũhia — no nĩngakĩhea; igooti rĩa kũinwo ndũigootagĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "nda"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kĩheo kĩa gũcũhia"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "no nĩngakĩhea"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "igooti rĩa kũinwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ũigootagĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:07.965326126Z",
+  "model": "glm-5.3"
+}

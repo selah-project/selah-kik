@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ mũirũ wa Yaana, na ⟨את⟩ Tahamaci, na ⟨את⟩ Sahafu, na ⟨את⟩ Neci, wa mbarĩ yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũirũ wa Yaana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũirũ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "wa Yaana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tahamaci"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "Tahamaci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sahafu"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "Sahafu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Neci"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "Neci"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "wa mbarĩ yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:29.502973496Z",
+  "model": "glm-5.3"
+}

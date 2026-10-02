@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩrĩa Abarahamu aarathĩrĩire Erohimu, na Erohimu akĩhota ⟨את⟩ Abimeleki na ⟨את⟩ mũka wake na atumia ake akũrũ, na maciarire.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "aarathĩrĩire"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "akĩhota"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũka wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũka wake"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "na atumia ake akũrũ"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "maciarire"
+    }
+  ],
+  "timestamp": "2026-10-01T20:38:49.899646626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Ndũthĩnjie ⟨את⟩ ng'ombe ũcio mbere ya Yahwe, kũrĩ mũciaro wa hema ya kũhiranĩra.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ndũthĩnjie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe ũcio"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe ũcio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũciaro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiranĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:31.543153712Z",
+  "model": "glm-5.3"
+}

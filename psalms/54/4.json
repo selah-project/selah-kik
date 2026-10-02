@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Ee Erohimu, igũrũro yĩngĩ rĩngĩ; tũgĩrĩ maũndũ marĩa kanua gwakwa mũmenya.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "igũrũro yĩngĩ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tũgĩrĩ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "maũndũ marĩa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua gwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:18.165900502Z",
+  "model": "glm-5.3"
+}

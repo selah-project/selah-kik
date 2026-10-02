@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na mũkoheni nĩarimirire ⟨את⟩-cio thĩinĩ wa mandara, kĩheo kĩa mũaki kwa Yahwe; nĩkĩo kĩheo kĩa wanjui.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "nĩarimirire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cio (macro ma maguta ũrĩa mũkoheni arimirira)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkoheni"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "thĩinĩ wa mandara"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kĩheo kĩa mũaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kĩheo kĩa wanjui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩkĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:30:43.552965926Z",
+  "model": "glm-5.3"
+}

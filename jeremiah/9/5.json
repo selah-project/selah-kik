@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Gĩikaro kianyu nĩ kĩrĩ thĩinĩ wa wathani; nĩ wathani maaregereire kũmenya ⟨את⟩ nĩ, Yahwe oigĩte.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "gĩikaro kianyu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wathani"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "nĩ wathani"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "maaregereire"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kũmenya"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "nĩ ⟨את⟩",
+      "marks": "nĩ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:06:30.018867125Z",
+  "model": "glm-5.3"
+}

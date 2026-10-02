@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 122,
+  "translation": "Nĩ kuo mbarĩ ĩinĩrĩte, mbarĩ cia Yah, ngegetha ũira wa Yiceraeri, gũgooca rĩĩtwa rĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Nĩ kuo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ĩinĩrĩte"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "mbarĩ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mbarĩ cia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ũira"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "gũgooca"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:25.780140261Z",
+  "model": "glm-5.3"
+}

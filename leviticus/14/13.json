@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na acinja ⟨את⟩ kebeci harĩa acinjagia ⟨את⟩ cahati na ⟨את⟩ ola, harĩ ũtheru-inĩ; nĩrĩrĩ ta cahati, acami nĩ wa mũthanjiri — ũtheru wa citheru nĩwo.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "acinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebeci"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kebeci"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "acinjagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cahati"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "cahati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩrĩ"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "ta cahati"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "acami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "wa mũthanjiri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "citheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:35.155417838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Ng'aracĩ nĩĩ igũithie ⟨את⟩ ohori wa Mahĩhirano, na erekera rĩa Yahwe nĩrĩĩiyũrĩte ⟨את⟩ Micikani.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "nĩĩ igũithie"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ng'aracĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohori wa Mahĩhirano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohori"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mahĩhirano"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na erekera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nĩrĩĩiyũrĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:25.051629099Z",
+  "model": "glm-5.3"
+}

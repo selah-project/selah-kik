@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Nĩndĩiguĩtwo mũndũ mũthenya wonje, na kana gwakwa nĩgũkĩra thaa ĩrĩ na ĩrĩ cia kiroko.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nĩndĩaire"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "nĩndĩiguĩtwo mũndũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "na kana gwakwa"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "thaa ĩrĩ na ĩrĩ cia kiroko"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:55.842863696Z",
+  "model": "glm-5.3"
+}

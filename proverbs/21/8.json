@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Mũgũnda wa mũndũ mũthũngũrũri nĩ mũkũrũhanu na wa kũgũa thũĩ; no wa mũtheru, gĩutu gĩake nĩ gĩoogana.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "mũthũngũrũri"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mũgũnda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "na wa kũgũa thũĩ"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "no mũtheru"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "gĩoogana"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "gĩutu gĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:56:31.030801056Z",
+  "model": "glm-5.3"
+}

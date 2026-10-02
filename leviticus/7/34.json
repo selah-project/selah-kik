@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 7:34",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩ rĩngĩ nĩndĩĩte ⟨את⟩ wonjoria wa kũgoeteria na ⟨את⟩ mwĩrĩ wa kũgeretia, kuuma ⟨את⟩ ciana cia Yiceraeri, kuuma macemio macio ma ciamano ciao, ngĩhe ⟨את⟩ macio Aharoni mũthĩnjĩri-ngai na ciana make, ta ciira wa tene na tene, kuuma ⟨את⟩ ciana cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ rĩngĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonjoria"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "wonjoria"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "wa kũgoeteria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwĩrĩ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "wa kũgeretia"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "nĩndĩĩte"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kuuma macemio"
+    },
+    {
+      "surface": "שלמיהם",
+      "gloss": "ma ciamano ciao"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ngĩhe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na ciana make"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ta ciira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa tene na tene"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:23.763467836Z",
+  "model": "glm-5.3"
+}

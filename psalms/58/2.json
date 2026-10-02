@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Nĩ ma rĩŋĩ, mwagĩrĩire kĩng'etũ-inĩ kũuga cedeki? Mũhoota na ciira njĩrũ, a ciana cia andũ?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Nĩ ma rĩŋĩ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "kĩng'etũ-inĩ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "kũuga"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "na ciira njĩrũ"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "mũhoota"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ciana cia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:52.562550434Z",
+  "model": "glm-5.3"
+}

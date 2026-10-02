@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu akĩmeeteria acĩhĩa wega, na andũ magĩĩra maingĩ, na makenete hinya mũno.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "akĩmeeteria wega"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "acĩhĩa"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "magĩĩra maingĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "makenete hinya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:04.518763934Z",
+  "model": "glm-5.3"
+}

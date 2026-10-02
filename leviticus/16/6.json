@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na Aharoni akaninika ⟨את⟩ ndumia ya kĩheo kĩa mahĩtia ĩrĩa ya we, na agathingithia we mweene na nyũmba yake.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "akaninika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndumia ya kĩheo kĩa mahĩtia"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ndumia"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kĩa kĩheo kĩa mahĩtia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya we"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "agathingithia"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "we mweene"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:28.659809189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ Cara, na ⟨את⟩ Aiyaroni, na ⟨את⟩ Heberoni, irĩa ciriĩ thĩinĩ wa Yehuda na wa Beniyaminu — cĩtĩ cia kũringĩrwo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cara"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Cara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aiyaroni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aiyaroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heberoni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Heberoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "thĩinĩ wa Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "na thĩinĩ wa Beniyaminu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cĩtĩ"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "cia kũringĩrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:45:59.639818476Z",
+  "model": "glm-5.3"
+}

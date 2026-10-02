@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na wee, rune ⟨את⟩ ciana cia Yiceraeri, na makuhĩre mafuta ma maũndũ-maecũra, mahĩũrũku, makĩheo nthĩro-inĩ, gũtũũra mũrimũ ũkahũgĩka tene na tene.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wee"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "rune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "na makuhĩre"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "maũndũ-maecũra"
+    },
+    {
+      "surface": "זך",
+      "gloss": "mahĩũrũku"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "makĩheo"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "nthĩro-inĩ"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "gũtũũra"
+    },
+    {
+      "surface": "נר",
+      "gloss": "mũrimũ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:55.293915055Z",
+  "model": "glm-5.3"
+}

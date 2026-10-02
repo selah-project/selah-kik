@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na ⟨את⟩ Bacimati mwana wa icimaeri, mwarĩ wa Nebayoti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bacimati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bacimati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "icimaeri"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mwarĩ wa"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayoti"
+    }
+  ],
+  "timestamp": "2026-10-01T20:48:36.496031008Z",
+  "model": "glm-5.3"
+}

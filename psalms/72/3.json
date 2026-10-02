@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Mĩrĩma yĩamĩrĩre thayama andũ, na mĩcoco na cedeki.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "yĩamĩrĩre"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mĩrĩma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayama"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "na mĩcoco"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "na cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:44.370917867Z",
+  "model": "glm-5.3"
+}

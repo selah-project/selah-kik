@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Caori nĩĩnyiitĩte matu ⟨את⟩ Dawidi, kuuma mũthenya ũcio na mbeere yake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na nĩikorire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "עון",
+      "gloss": "matu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "kuuma mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "na mbeere yake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:18.824700858Z",
+  "model": "glm-5.3"
+}

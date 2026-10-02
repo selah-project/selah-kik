@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Kĩndũ kĩmwe nĩngĩeire kwa Yahwe ⟨את⟩; ũndũ ũcio nĩokĩrĩra kũronda: gwĩkarĩra nyũmba ya Yahwe mĩtũkĩ yakwa yothe, kũrora wega wa Yahwe, na kũyũrĩra hekarũ-inĩ yakwa.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kĩndũ kĩmwe"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nĩngĩeire"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa Yahwe ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ũndũ ũcio",
+      "marks": "ũndũ ũcio nĩokĩrĩra kũronda"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "nĩokĩrĩra kũronda"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "gwĩkarĩra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩtũkĩ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yakwa"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "kũrora"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "wega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "na kũyũrĩra"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "hekarũ-inĩ yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:37.758816207Z",
+  "model": "glm-5.3"
+}

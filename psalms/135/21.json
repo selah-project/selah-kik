@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Yahwe arĩ mũteithĩrwo kuuma Miciyoni, ũrĩa ũikaraga Yerucarayimu. Toani Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "arĩ mũteithĩrwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuuma Miciyoni"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ũrĩa ũikaraga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Toani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:33.999598419Z",
+  "model": "glm-5.3"
+}

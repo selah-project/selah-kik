@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na ndũngũ ciao ciathiĩ kũrirĩta ⟨את⟩ ng'ondu cia ithatũ ciao Cekemu.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ciathiĩ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndũngũ ciao"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kũrirĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ondu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ithatũ ciao"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Cekemu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:03.404281291Z",
+  "model": "glm-5.3"
+}

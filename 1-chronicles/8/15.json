@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Zebadaya, na Aradi, na Ederi.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "Na Zebadaya"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "na Aradi"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "na Ederi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:38.710530874Z",
+  "model": "glm-5.3"
+}

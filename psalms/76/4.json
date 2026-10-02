@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Kũu nĩagĩthĩĩrire irũa cia uta, ng'ethe na cema cia ita. Cerah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nĩagĩthĩĩrire"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "irũa cia"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ng'ethe"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na cema"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "cia ita"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:35.964051269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Agĩcokia gĩtũũ kĩgĩtuĩka kĩũmũ chake, na micikani ya kũringithia igũrũ rĩake nĩ gĩtũũ kĩa maĩ na macembere ma igũrũ-rĩayorokire.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "agĩcokia"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gĩtũũ"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "kĩũmũ chake"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "kũringithia igũrũ rĩake"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "micikani"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "gĩtũũ kĩa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "na macembere"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "igũrũ-rĩayorokire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:27.514389418Z",
+  "model": "glm-5.3"
+}

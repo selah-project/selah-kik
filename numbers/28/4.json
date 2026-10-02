@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "⟨את⟩ kĩamba kĩmwe nĩũkahũra kiroko-inĩ, na ⟨את⟩ kĩamba gĩa keerĩ nĩũkahũra gatagatĩ ka arĩmbĩ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩamba kĩmwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkahũra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kiroko-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩamba gĩa keerĩ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "gĩa keerĩ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkahũra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "arĩmbĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:09:32.349540467Z",
+  "model": "glm-5.3"
+}

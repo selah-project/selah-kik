@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na minaha ya mũthiũri o wothe nĩĩkonanagwo ⟨nĩ⟩ yothe; ndĩkaahĩrĩtwo kũrĩa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na o wothe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minaha ya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mũthiũri"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nĩĩkonanagwo ⟨nĩ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kaahĩrĩtwo kũrĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:42.127244968Z",
+  "model": "glm-5.3"
+}

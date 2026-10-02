@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Erihorefi na Ahiya, aana a Cica, aarĩ athomandĩki; Yehocafati mũrĩ wa Ahirudi, mũrĩkanithania.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Erihorefi"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "na Ahiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Cica"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "athomandĩki"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrĩ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahirudi"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "mũrĩkanithania"
+    }
+  ],
+  "timestamp": "2026-10-01T23:48:31.879135672Z",
+  "model": "glm-5.3"
+}

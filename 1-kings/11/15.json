@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na nĩngĩkorũo rĩrĩa Dawidi aarĩ ⟨את⟩ hamwe na Adomu, na rĩrĩa Yoavi, mwathi wa ita, athingĩtie kũhĩbia arĩa maahurũtwo, na akĩhĩa aathuri othe Adomu-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na nĩngĩkorũo"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "rĩrĩa... aarĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ hamwe na",
+      "marks": "Adomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Adomu"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "rĩrĩa athingĩtie"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wa ita"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "kũhĩbia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa maahurũtwo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "arĩa maahurũtwo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akĩhĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "aathuri"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Adomu-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:21.244548878Z",
+  "model": "glm-5.3"
+}

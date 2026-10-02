@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "⟨את⟩ magũthero ga kĩamba, ⟨את⟩ ng'anda cia kio na ⟨את⟩ matheko make, na ⟨את⟩ gĩcindo kĩa kwĩrũa kwa kĩamba",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magũthero ga kĩamba"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "magũthero"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ga kĩamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'anda cia kio"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ng'anda cia kio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matheko make"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "matheko make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩcindo kĩa kwĩrũa"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "gĩcindo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kĩa kwĩrũa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kwa kĩamba"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:19.280727090Z",
+  "model": "glm-5.3"
+}

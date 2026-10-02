@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Hanania mũrathi akĩũmbũra ⟨את⟩ mũgathi kuuma njoheri-inĩ ya Yeremia mũrathi, na akĩmũnyoria.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩũmbũra"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hanania"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgathi"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "mũgathi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "njoheri-inĩ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ya Yeremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "na akĩmũnyoria"
+    }
+  ],
+  "timestamp": "2026-10-02T01:19:36.079827398Z",
+  "model": "glm-5.3"
+}

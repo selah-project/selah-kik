@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "akĩcokanagia ⟨את⟩ thĩinĩ wa mwathi wa Mowabu, magĩikara namwe mĩthenya yaothe ya Dawidi kuuma kĩambĩrĩria-inĩ kĩa kũikara mũthingu.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "akĩcokanagia thĩinĩ wa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi wa Mowabu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "magĩikara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "namwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yaothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kĩambĩrĩria-inĩ kĩa kũikara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mũthingu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:24:18.735592836Z",
+  "model": "glm-5.3"
+}

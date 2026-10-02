@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Erohimu, nĩwe ũmena ũndũ wakwa wa ũthĩna, na mahĩtia makwa kuuma inwe matihĩcakaine.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ũmena"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ũndũ wakwa wa ũthĩna"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "na mahĩtia makwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuuma inwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "hĩcakaine"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:10.112016952Z",
+  "model": "glm-5.3"
+}

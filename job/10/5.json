@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Mĩthenya yako ĩrĩ ta mĩthenya ya mũndũ wĩfa? Kana mĩaka yako, ta mĩaka ya mũrũ wa thĩ?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "ĩrĩ ta mĩthenya ya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ wĩfa"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mĩthenya yako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "mĩaka yako"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ta mĩaka ya"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mũrũ wa thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:08:43.606440435Z",
+  "model": "glm-5.3"
+}

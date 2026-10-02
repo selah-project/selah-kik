@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kwenda njĩra ciakwa ciihotoshe gũcũrania mathaanĩro aku!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Kwenda"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ciihotoshe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njĩra ciakwa"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "gũcũrania"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mathaanĩro aku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:14.336755497Z",
+  "model": "glm-5.3"
+}

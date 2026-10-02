@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Rĩrĩa mwĩhokire, nĩmwĩrĩte ciana cianyu; na ciana cianyu nĩcĩmwĩrĩte ciana ciao; na ciana ciao nĩcĩrĩrĩte mĩrĩgo ĩngĩ.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "rĩrĩa mwĩhokire"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "ciana cianyu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nĩmwĩrĩte"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "na ciana cianyu"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ciana ciao"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na ciana ciao"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "mĩrĩgo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:37.084422273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Kajini athiĩ kuuma ĩthũĩro wa Yahwe, akĩikara gĩkũndĩ-inĩ kwa Nodi, thũmbĩ ya mbere ya Edeni.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "athiĩ kuuma"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ĩthũĩro wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "gĩkũndĩ-inĩ"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "kwa Nodi"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "thũmbĩ ya mbere ya"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeni"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:07.870667725Z",
+  "model": "glm-5.3"
+}

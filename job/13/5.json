@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩ ũndũ mũkũihu mwĩhokete, mũcokagia-rũci, na iyo ĩtuĩke ũgima wanyu!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũndũ mũkũihu mwĩhokete"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mwĩhokete"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "kwĩhoreria-rũci"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "mũcokagia-rũci"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ĩtuĩke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wanyu"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ũgima"
+    }
+  ],
+  "timestamp": "2026-10-02T04:09:34.294496774Z",
+  "model": "glm-5.3"
+}

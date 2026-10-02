@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Yithiro akiuga: Yahwe aerĩkirwo, ũrĩa amahonokirie ⟨את⟩ ⟨anywe⟩ kuuma motho-inĩ ma Micirayimu na kuuma motho-inĩ ma Farao, ũrĩa amahonokirie ⟨את⟩ andũ thĩiniĩ wa motho cia Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yithiro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "aerĩkirwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "amahonokirie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨anywe⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma motho-inĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na kuuma motho-inĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "amahonokirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "thĩiniĩ wa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:38.501800400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Nĩngĩteereera Yahwe, mũoyo wakwa ũteereera, na kiugo kĩake nĩngĩtegereera.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "nĩngĩteereera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "nĩteereera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "na kiugo kĩake"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "nĩngĩtegereera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.409050598Z",
+  "model": "glm-5.3"
+}

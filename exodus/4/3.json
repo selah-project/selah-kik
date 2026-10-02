@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nakiuga: Ũthũnie thĩ. Nakithũnia thĩ, nĩkaamba njoka; Moce nĩkenjera kuuma mbere yarĩo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nakiuga"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "ũthũnie"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "nakithũnia"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkaamba"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "nĩkenjera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kuuma mbere yarĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:15.160690904Z",
+  "model": "glm-5.3"
+}

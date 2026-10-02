@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ngatha maciaro ma ndigũrũ kũrĩ makwa-inĩ makwa, wa ng'ombe ĩaku, nĩwe ũrĩe na ũkĩhora.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ngatha"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "maciaro ma ndigũrũ"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "makwa-inĩ makwa"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "wa ng'ombe ĩaku"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ũrĩe"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ũkĩhora"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:10.352261368Z",
+  "model": "glm-5.3"
+}

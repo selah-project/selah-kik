@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mũthamaki waku arĩ kũ rĩrĩa? Nĩarĩkuamũteithia o mĩciĩ-inĩ yaku yothe! Na andũ a ciira waku, arĩa woigire atĩa: 'Nĩheere ndĩ mũthamaki na atongoria!'",
+  "tokens": [
+    {
+      "surface": "אֱהִי",
+      "gloss": "arĩ kũ"
+    },
+    {
+      "surface": "מַלְכְּךָ",
+      "gloss": "mũthamaki waku"
+    },
+    {
+      "surface": "אֵפוֹא",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "וְיוֹשִׁיעֲךָ",
+      "gloss": "nĩarĩkuamũteithia"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "o ... yothe"
+    },
+    {
+      "surface": "עָרֶיךָ",
+      "gloss": "mĩciĩ yaku"
+    },
+    {
+      "surface": "וְשֹׁפְטֶיךָ",
+      "gloss": "na andũ a ciira waku"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אָמַרְתָּ",
+      "gloss": "woigire"
+    },
+    {
+      "surface": "תְּנָה",
+      "gloss": "Nĩheere"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "וְשָׂרִים",
+      "gloss": "na atongoria"
+    }
+  ],
+  "timestamp": "2026-10-02T02:20:28.644849524Z",
+  "model": "glm-5.3"
+}

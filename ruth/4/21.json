@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Carsemoni nĩmũciarire ⟨את⟩ Boazi, na Boazi nĩmũciarire ⟨את⟩ Obedi.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Na Carsemoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩmũciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "na Boazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩmũciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:30:15.675409654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mũoyo wakwa ũmenithanĩte nĩ kũenda cira gwaku hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "ũmenithanĩte"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Mũoyo wakwa"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "nĩ kũenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "cira gwaku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:14.968334514Z",
+  "model": "glm-5.3"
+}

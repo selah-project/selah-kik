@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ arĩa a Patrusi, na ⟨את⟩ arĩa a Cacruchi, amwe kuuma hakuhĩ-inĩ kwao nĩmo arĩa mahota Maceretini, na ⟨את⟩ arĩa a Cafutori.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa a Patrusi"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "arĩa a Patrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa a Cacruchi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "arĩa a Cacruchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amwe"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nĩmahota"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuuma kuo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Maceretini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa a Cafutori"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "arĩa a Cafutori"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:26.655138299Z",
+  "model": "glm-5.3"
+}

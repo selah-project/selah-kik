@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ndĩrĩona igũrũ rĩaku, mwĩhĩtia wa minyamaro ya magũrũ makwa, mweri na nyenderua irĩa wĩĩmagĩrĩire,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ndĩrĩona"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "rĩona"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mwĩhĩtia wa"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "minyamaro ya magũrũ makwa"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na nyenderua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "wĩĩmagĩrĩire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:07.450215849Z",
+  "model": "glm-5.3"
+}

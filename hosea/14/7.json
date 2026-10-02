@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Mabara make maendere, kũrũa kwake nĩkwĩta ta kwa mũtamaiyũ, na makũaria make matarĩ ta ma Lebanoni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "maendere"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "mabara make"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkwĩta"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ta kwa mũtamaiyũ"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "kũrũa kwake"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "makũaria make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "matarĩ"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "ta ma Lebanoni"
+    }
+  ],
+  "timestamp": "2026-10-02T02:20:21.982749349Z",
+  "model": "glm-5.3"
+}

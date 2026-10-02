@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Mĩgooce riũa na mweri; mĩgooce nyenyi ciothe cia ũtheri.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mĩgooce"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "na mweri"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mĩgooce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "nyenyi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cia ũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.781627090Z",
+  "model": "glm-5.3"
+}

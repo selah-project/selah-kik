@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Kĩhooto gĩaku gitĩrire na ⟨את⟩ mũrĩwa waku mwene, na mũtheria wa mũndũ ũngĩ ūtikarahĩrie.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "kĩhooto gĩaku"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "gitĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrĩwa waku mwene"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mũrĩwa waku mwene"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "na mũtheria"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wa mũndũ ũngĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũtikarahĩrie"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ũtikarahĩrie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:58:08.751160375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Na hinya wa maũndũ mako mahinya nĩmakoora, na ũkũrũ waku nĩngĩcookerithia.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "na hinya"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "maũndũ mako mahinya"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nĩmakoora"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "na ũkũrũ waku"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "nĩngĩcookerithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:37.421519726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Cemueri akĩũga ⟨את⟩ ciugo ciothe cia Yahwe kũrĩ andũ arĩa mahoyaga kuuma kũrĩ iwe ⟨את⟩ mũthamaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akĩũga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe cia Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "arĩa mahoyaga"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kuuma kũrĩ iwe ⟨את⟩",
+      "marks": "mũthamaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:23.451496979Z",
+  "model": "glm-5.3"
+}

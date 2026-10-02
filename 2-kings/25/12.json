@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "No mĩtĩrĩre ya andũ arĩa mahota thĩ, mũkubwa wa athigari nĩarekirie, agĩtuĩra aathambi a mĩrũa na aagethi a gĩthaka.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "no mĩtĩrĩre ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nĩarekirie"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũkubwa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa athigari"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "aathambi a mĩrũa"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "na aagethi a gĩthaka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:23:39.408557449Z",
+  "model": "glm-5.3"
+}

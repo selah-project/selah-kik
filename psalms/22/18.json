@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩngĩmanya kũana magũrũ ma mĩri yagĩcokeire iothe: makĩrora nginya, makĩona ũrĩa nĩrĩmwe.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "nĩngĩmanya kũana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "magũrũ ma mĩri yagĩcokeire"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "makĩrora nginya"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makĩona"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ũrĩa nĩrĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:56.649815632Z",
+  "model": "glm-5.3"
+}

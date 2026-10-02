@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Mũthingu ũgĩcooka kũrĩ athũŋũrũri akwa; mũthembo-inĩ waku wa cedeki, ũmenithie ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ũgĩcooka"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kũrĩ athũŋũrũri akwa"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "mũthembo-inĩ waku wa cedeki"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "ũmenithie ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:08.202181236Z",
+  "model": "glm-5.3"
+}

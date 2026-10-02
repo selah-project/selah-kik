@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Ũciara kwĩrĩ, na ĩtuĩke ũthiũ; ũthiũ-inĩ ũcio nyamũ ciothe cia gĩthĩka ciumaga thĩ.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ũciara"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kwĩrĩ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ĩtuĩke"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ũthiũ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ciumaga thĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyamũ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "cia gĩthĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:50.589598047Z",
+  "model": "glm-5.3"
+}

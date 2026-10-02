@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na harĩ na ⟨את⟩ Abecaloni nĩmaathiire andũ mĩrongo ĩrĩ kuuma Yerucarayimu, arĩa methĩtirwo, magĩthii me na mwĩhĩtuko, na matiigĩra kĩndũ o gĩothe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "Abecaloni"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abecaloni"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "maathiire"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kuuma Yerucarayimu"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "arĩa methĩtirwo"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "magĩthii"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "me na mwĩhĩtuko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "matiigĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:37:34.790518359Z",
+  "model": "glm-5.3"
+}

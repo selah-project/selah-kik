@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na ⟨את⟩ cigĩrĩro nĩakeire, na ⟨את⟩ mĩcogi nĩakeire igũrũ wa cigĩrĩro",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cigĩrĩro"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "cigĩrĩro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩakeire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcogi"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "mĩcogi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩakeire"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "cigĩrĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T05:42:10.690822699Z",
+  "model": "glm-5.3"
+}

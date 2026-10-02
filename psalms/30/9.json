@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Kwaku, Yahwe, nĩndĩhũrire, na kwa Adonai nĩngombaire tha.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Kwaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩndĩhũrire"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "nĩngombaire tha"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:27.400551027Z",
+  "model": "glm-5.3"
+}

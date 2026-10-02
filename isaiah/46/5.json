@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Nĩwĩra mũkahana namwe, mũkaamũrĩkĩra hamwe, na mũkamũnganĩria, tũumane tuke?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "nĩwĩra"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "mũkahana namwe"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "mũkaamũrĩkĩra hamwe"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "mũkamũnganĩria"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "tũumane tuke"
+    }
+  ],
+  "timestamp": "2026-10-02T00:48:47.694343726Z",
+  "model": "glm-5.3"
+}

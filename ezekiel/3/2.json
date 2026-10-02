@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩngĩaturirie ⟨את⟩ kanua gwakwa, na nĩanĩrĩirie ⟨את⟩ gĩcunjĩ gĩa maandĩko gĩkũ.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "nĩngĩaturirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanua gwakwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua gwakwa"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "nĩanĩrĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcunjĩ gĩa maandĩko gĩkũ"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gĩcunjĩ gĩa maandĩko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "gĩkũ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:44:22.865597833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na andũ nĩmaiguithia ⟨את⟩ kĩhooto kĩrũru gĩkĩ, nao makĩhootana; no mũndũ ndongerire ĩkwatio yake igũrũ rĩake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nĩmaiguithia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhooto kĩrũru gĩkĩ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kĩrũru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "makĩhootana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ndongerire"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ĩkwatio yake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:49.420754921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Kinya thĩ yoothe nĩũkũrirwo na iciũ na ⟨ithuĩ⟩? Nĩũgĩcengerera irathi yaku kĩrĩka na kĩrĩka?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Kinya thĩ yoothe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "nĩũkũrirwo na iciũ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na ithuĩ"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "nĩũgĩcengerera"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "irathi yaku"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kĩrĩka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kĩrĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:38.965608472Z",
+  "model": "glm-5.3"
+}

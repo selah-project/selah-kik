@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nakĩrũmagĩrĩra ⟨את⟩ inĩ mĩrongo ĩnana ya migithi kĩenyeni-inĩ; nguo cinĩ ti cĩagũrire mweri-inĩ macio, na ciatu yaku ti ĩagũrire kĩgũrũ kĩaku heerũ.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "nakĩrũmagĩrĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inĩ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mĩrongo ĩnana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya migithi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kĩenyeni-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "cĩagũrire"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "nguo cinĩ"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "mweri-inĩ macio"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "na ciatu yaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ĩagũrire"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kĩgũrũ kĩaku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:17.983786121Z",
+  "model": "glm-5.3"
+}

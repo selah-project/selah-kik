@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Na mũthenya ũcio akanarũmia, naoiga: Niwe Yiceraeri ekũnarũmia naoiga: Erohimu akũhonde we ũrĩ ta Epraimu na ta Menace. Nĩ ũguo woigĩrĩte ⟨את⟩ Epraimu mbere ya Menace.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "akanarũmia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "naoiga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "niwe ... we"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ekũnarũmia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "naoiga"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "akũhonde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "ũrĩ ta Epraimu"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "na ta Menace"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "woigĩrĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Epraimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Epraimu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menace"
+    }
+  ],
+  "timestamp": "2026-10-01T20:57:30.732953867Z",
+  "model": "glm-5.3"
+}

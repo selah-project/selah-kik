@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kuothe ndindi ehira mawatho ako; nĩgũkorwo nĩmo ũrarĩrĩtie.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "kuothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndindi"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "kũehira"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mawatho ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ĩmo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ũrarĩrĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:30.029548160Z",
+  "model": "glm-5.3"
+}

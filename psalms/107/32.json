@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Nĩmathũũringa kĩama-inĩ kĩa andũ, na kĩgunĩ kĩa aciori nimagĩthemba.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "nĩmathũũringa"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kĩama-inĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kĩa andũ"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "na kĩgunĩ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kĩa aciori"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "nimagĩthemba"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:58.092840785Z",
+  "model": "glm-5.3"
+}

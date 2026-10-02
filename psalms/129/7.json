@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 129,
+  "translation": "Ĩrĩa mũkuuna ndanyĩrĩte ĩkono rĩake, na mũgunyĩri maciarũ njaarĩ yake.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ĩrĩa... nda-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kũnyĩra"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ĩkono rĩake"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "mũkuuna"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "na njaarĩ yake"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "mũgunyĩri maciarũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.496673852Z",
+  "model": "glm-5.3"
+}

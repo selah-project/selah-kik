@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Dawidi akĩũranĩria ⟨את⟩ Hadadezeri, mwathani wa Coba, thĩinĩ wa Hamati, rĩrĩa ahootaga gũtĩkĩrĩria moko make thĩinĩ wa mũrathe wa Perati.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akĩũranĩria"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezeri"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Coba"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "thĩinĩ wa Hamati"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "rĩrĩa ahootaga"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "gũtĩkĩrĩria"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "thĩinĩ wa mũrathe"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perati"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:15.736974540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Nĩgethi ngai ciothe cia andũ a ndũrĩrĩ nĩ mahenia; na Yahwe nĩ ombire igũrũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgethi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "andũ a ndũrĩrĩ"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "mahenia"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩ ombire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:14.751533714Z",
+  "model": "glm-5.3"
+}

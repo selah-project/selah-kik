@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na indo nĩndĩ thamũ, ti mũndũ; nĩ ũira wa andũ, na ũcohio wa andũ othe.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "na indo nĩndĩ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "thamũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ũira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa andũ"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "na ũcohio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wa andũ othe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:26.780702895Z",
+  "model": "glm-5.3"
+}

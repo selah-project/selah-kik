@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Ũigwe kwa nĩ, wee Yaakobu, na Yiceraeri arĩa nakũreete-rĩĩtwa: Nĩ njĩ; nĩ njĩ wa mbere, na ningĩ nĩ njĩ wa mũthia.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ũigwe kwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "arĩa nakũreete-rĩĩtwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nĩ njĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "njĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ njĩ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na ningĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ njĩ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wa mũthia"
+    }
+  ],
+  "timestamp": "2026-10-02T00:47:08.282796250Z",
+  "model": "glm-5.3"
+}

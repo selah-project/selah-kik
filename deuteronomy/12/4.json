@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Ndĩmũtikaruta ũguo Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndĩ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mũkaruta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:21:41.319323427Z",
+  "model": "glm-5.3"
+}

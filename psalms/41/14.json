@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Yahwe, Erohimu wa Yiceraeri, arĩ wa maciaro, kuuma thutha wa hĩndĩ ciothe gĩkundi kĩu kĩa thutha wa hĩndĩ ciothe. Ameni, na Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "arĩ wa maciaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "kuuma thutha wa hĩndĩ ciothe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gĩkundi kĩu kĩa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "thutha wa hĩndĩ ciothe"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amen"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:02.582850942Z",
+  "model": "glm-5.3"
+}

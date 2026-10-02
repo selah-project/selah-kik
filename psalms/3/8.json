@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Eerĩ, Yahwe, ũndũhonokĩre, Erohimu yakwa; nĩgũkorwo ũnũrire ⟨את⟩ athũ makwa aothe kĩngoto-inĩ; meno andũ arũa ũcemekire.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Eerĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ũndũhonokĩre"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu yakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ũnũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athũ makwa aothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "athũ makwa"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "kĩngoto-inĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "meno"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "andũ arũa"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ũcemekire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:22.595946999Z",
+  "model": "glm-5.3"
+}

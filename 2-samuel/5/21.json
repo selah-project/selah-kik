@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na maciĩka kuo ⟨את⟩ mahiga mao; na Dawidi na andũ ake nĩmĩahĩkura.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "nĩmaciĩka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahiga mao"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "mahiga mao"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "nĩmĩahĩkura"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וואנשיו",
+      "gloss": "na andũ ake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:05.448752983Z",
+  "model": "glm-5.3"
+}

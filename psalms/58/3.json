@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "O na ũguo, ngoro-inĩ mwagĩrĩire kũruta ũru; thĩ-inĩ mũnyitanĩra na hinya ũrĩa wa moko manyu mĩhango.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "O na ũguo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ngoro-inĩ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "kũruta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mĩhango"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "moko manyu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "mũnyitanĩra na hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:52.564712406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nai Ahazi nĩarĩire ⟨את⟩ Yehoada, na Yehoada nĩarĩire ⟨את⟩ Aremeti, na ⟨את⟩ Azimaveti, na ⟨את⟩ Zimri, na Zimri nĩarĩire ⟨את⟩ Moca.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Nai Ahazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩarĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoada"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "Yehoada"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "na Yehoada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩarĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aremeti"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Aremeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Azimaveti"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azimaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "na Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩarĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moca"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moca"
+    }
+  ],
+  "timestamp": "2026-10-02T05:25:24.684893890Z",
+  "model": "glm-5.3"
+}

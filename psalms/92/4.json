@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Kĩrĩ ndemwa ikũmi, na kĩrĩ cithũmba-cia-mamita, kĩrĩ mĩgambo mĩnyĩru mĩarĩ-inĩ ya cĩnĩro cia nyĩtigeni.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Kĩrĩ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ndemwa ikũmi"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "na kĩrĩ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "cithũmba-cia-mamita"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "mĩgambo mĩnyĩru"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "mĩarĩ-inĩ ya cĩnĩro cia nyĩtigeni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:41.232455259Z",
+  "model": "glm-5.3"
+}

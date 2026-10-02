@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na ikĩgua arĩ inyuũa ya mũgũnda, ũhoro wa kũigua ũkaire kwa Dawidi, na maiuga: Abecaromu nĩakuũire ⟨את⟩ aana othe a mwathi, na ũmwe mũthenya ũcio wĩraĩnga ũrĩa ũcio na kũiguithania ciugo iria ciarĩ na thĩ ĩhĩthĩrĩirie ciugo cia Kĩhibirania ciarĩ na mũgambo ũrĩa ũtuĩte ũhoro wa Kĩrĩmĩrĩ; rĩrĩa rĩrĩkĩte, na gũtirĩ ũmwe wa macio ũrĩa werũwo ciugo cia kĩhumo kĩrĩa kĩa ũhoro ndwarehirio.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na ikĩgua"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "inyuũa ya mũgũnda"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "ũhoro wa kũigua"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ĩkaire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na maiuga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nĩakuũire"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abecaromu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana othe a mwathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mwathi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "werũwo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wa macio"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:31:23.224964238Z",
+  "model": "glm-5.3"
+}

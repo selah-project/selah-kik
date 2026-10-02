@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Andũ akwa mũtĩ-inĩ wake nĩathĩa, na mũcuthi wake nĩomũthingĩria; nĩ ruaki wa kũrĩoina ũrĩa wamahĩtĩkĩtie, na maĩoina kuuma thutha wa Erohimu wao.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "mũtĩ-inĩ wake"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "nĩathĩa"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "na mũcuthi wake"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "nĩomũthingĩria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "wa kũrĩoina"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "nĩwahĩtĩkĩtie"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "no maĩoina"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "kuuma thutha"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:16:39.604401021Z",
+  "model": "glm-5.3"
+}

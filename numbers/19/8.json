@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na ũrĩa ũcikanaga ⟨את⟩ yo araraga nguo ciake mĩrĩ-inĩ, na andoora mũthĩa wake mĩrĩ-inĩ, na akoragwo ndari mũtheru nginya gwatũ.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "ũrĩa ũcikanaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yo",
+      "marks": "ng'ombe ya ciugũci"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "araraga"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "nguo ciake"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mĩrĩ-inĩ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "nandoora"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mũthĩa wake"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mĩrĩ-inĩ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "akoragwo ndari mũtheru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "gwatũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:03:04.783504373Z",
+  "model": "glm-5.3"
+}

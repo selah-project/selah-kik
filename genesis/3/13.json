@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Yahwe Erohimu akiuga na mũka atĩrĩ: Ũndũ ũyũ nĩwĩme kĩĩ? Nĩ mũka akiuga: Nĩngici nĩnĩrahũkirie, na nĩndarĩra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩ akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na mũka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩĩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũndũ ũyũ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nĩwĩme"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nĩ mũka akiuga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũka ũcio"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ngici ĩcio"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "nĩnĩrahũkirie"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na nĩndarĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:07:29.628335118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Mũciĩ ndangĩhokaga mũciĩ wake o na na ũndũ mũna; ndahotaga kũhe Erohimu cokeri wake.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "hoka"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "hokaga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hotaga kũhe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "cokeri wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:19.862344935Z",
+  "model": "glm-5.3"
+}

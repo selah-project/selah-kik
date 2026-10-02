@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Ũmũhĩra ⟨את⟩ rũrambo rũrĩa kerĩ, Aharoni na ciana cĩake makahĩkĩrĩra ⟨את⟩ mikono yao gĩcwa rĩa rũrambo rũu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ũmũhĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rũrambo rũrĩa kerĩ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "rũrambo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "rũrĩa kerĩ"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "makahĩkĩrĩra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ciana cĩake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "gĩcwa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "rĩa rũrambo rũu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:51.472742954Z",
+  "model": "glm-5.3"
+}

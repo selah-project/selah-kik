@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na mũweenjage wa meciria make anaona ati Cauri aakuire, nĩamwe agathĩna ⟨את⟩ makwahĩ make, akĩfa hamwe na ⟨את⟩ yewe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anaona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mũweenjage wa meciria"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "meciria make"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מת",
+      "gloss": "aakuire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "agathĩna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nĩamwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "makwahĩ make"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akĩfa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na yewe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:14.147216447Z",
+  "model": "glm-5.3"
+}

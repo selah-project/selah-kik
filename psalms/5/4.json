@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Yahwe, kĩroko ũgakĩthikĩrĩra mũgambo wakwa; kĩroko nĩngwatũrĩrĩra ihote rĩakwa kukũ, na nĩngĩterete.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kĩroko"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ũgakĩthikĩrĩra"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kĩroko"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "nĩngwatũrĩrĩra ihote rĩakwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kukũ"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "na nĩngĩterete"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:13.946386340Z",
+  "model": "glm-5.3"
+}

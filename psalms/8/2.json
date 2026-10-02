@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Yahwe Adonai witũ, rĩĩtwa rĩaku nĩrĩnene kwĩrĩ thĩ yothe, ũrĩa wĩĩhote utuire kĩeego kĩaku igũrũ rĩu thĩinĩ wa igũrũ!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai witũ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩrĩnene"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kwĩrĩ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa wĩĩhote"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "utiire"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kĩeego kĩaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "thĩinĩ wa igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:07.449004771Z",
+  "model": "glm-5.3"
+}

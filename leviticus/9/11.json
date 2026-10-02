@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ nyama na ⟨את⟩ gĩcicio nĩakĩtherithia na mũrũ, nja wa kĩama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcicio"
+    },
+    {
+      "surface": "העור",
+      "gloss": "gĩcicio"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "nĩakĩtherithia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũrũ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "nja"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "wa kĩama"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:27.498131945Z",
+  "model": "glm-5.3"
+}

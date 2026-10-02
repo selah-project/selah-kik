@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Yoktani arutithania ⟨את⟩ Arimodadi, na ⟨את⟩ Cereri, na ⟨את⟩ Hatcarimaveti, na ⟨את⟩ Yirahi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Na Yoktani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "arutithania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arimodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Arimodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cereri"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Cereri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hatcarimaveti"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatcarimaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yirahi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yirahi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:40.067516063Z",
+  "model": "glm-5.3"
+}

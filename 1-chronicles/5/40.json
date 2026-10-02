@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Azaraya arathire ⟨את⟩ Ceraya, na Ceraya arathire ⟨את⟩ Yehocadaki.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azaraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "arathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ceraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Ceraya"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "na Ceraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "arathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehocadaki"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehocadaki"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:47.046222207Z",
+  "model": "glm-5.3"
+}

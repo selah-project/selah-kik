@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ici nĩ mĩũrũ iria Yahwe arekire, nĩgo ithamagĩrĩre ⟨את⟩ Yiceraeri mena yacio: ⟨את⟩ arĩa othe matiũĩ mbarũ ciothe cia Kenani.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ici"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mĩũrũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "arekire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "kũgeria"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mena yacio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "matiũĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbarũ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "mbarũ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    }
+  ],
+  "timestamp": "2026-10-01T22:55:50.554463025Z",
+  "model": "glm-5.3"
+}

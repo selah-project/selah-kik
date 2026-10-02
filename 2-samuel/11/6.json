@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Dawidi akĩtũma kwa Yoabu atĩrĩ: Tũma kwĩngĩ ⟨את⟩ Uriya Muhithi. Yoabu akĩtũma ⟨את⟩ Uriya kwa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩtũma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tũma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwĩngĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Muhithi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akĩtũma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:34:27.753591536Z",
+  "model": "glm-5.3"
+}

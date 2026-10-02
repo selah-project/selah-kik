@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Ũtĩogera, nī ndi ⟨את⟩ hamwe nĩwe; kuuma irathĩro nĩngũreithia mbegu yaku, na kuuma ithũĩro nĩngũkũnyorora.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ũtĩ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ogera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nī"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hamwe nĩwe",
+      "marks": "hamwe nĩwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ ndi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuuma irathĩro"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nĩngũreithia"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbegu yaku"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na kuuma ithũĩro"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "nĩngũkũnyorora"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:04.627846681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Kũmũtongoria wa kũina; rũimbo, ngweco. Hũrĩrai mũgambo mũnene kũu Erohimu, thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũmũtongoria wa kũina"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rũimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ngweco"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Hũrĩrai mũgambo mũnene"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kũu Erohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:32.636021325Z",
+  "model": "glm-5.3"
+}

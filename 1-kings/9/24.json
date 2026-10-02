@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "No o mũtumia wa Parao nĩatambĩirĩ kuuma mucĩĩ wa Dawidi ĩkĩrĩra nyũmba yake ĩrĩa Ceromohi ombĩte yake; rĩrĩa ũcio nĩombire ⟨את⟩ Hamiro.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "no o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũtumia wa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "nĩatambĩirĩ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kuuma mucĩĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩkĩrĩra"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ombĩte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yake"
+    },
+    {
+      "surface": "אז",
+      "gloss": "rĩrĩa ũcio"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamiro"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Hamiro"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:06.996909727Z",
+  "model": "glm-5.3"
+}

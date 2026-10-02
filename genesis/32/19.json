@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 32:19",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Ũgoote atĩrĩ: Nĩ cia mũtumia wau Yaakobu; minaha nĩyo ĩrĩcohetwo kũ mwathi witu, kũ Ecaw; na rũthiomi, o wee arĩ thutha yaitũ.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ũgoote"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "mũtumia wau"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "ĩrĩcohetwo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kũ mwathi witu"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kũ Ecaw"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũthiomi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wee"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "thutha yaitũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:48:00.291739391Z",
+  "model": "glm-5.3"
+}

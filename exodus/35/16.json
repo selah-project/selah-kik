@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "⟨את⟩ mũthingu wa kũniinwo, na ⟨את⟩ kĩgiri kĩa cuma kĩrĩa kĩa kĩo, ⟨את⟩ miri yayo na ⟨את⟩ icunga cia yayo iothe, ⟨את⟩ thingithi na ⟨את⟩ gĩtĩ kĩayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingu wa kũniinwo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wa kũniinwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgiri kĩa cuma"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "kĩgiri"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kĩa cuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kĩa kĩo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miri yayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "miri yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icunga cia yayo iothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icunga cia yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thingithi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "thingithi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩtĩ kĩayo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "gĩtĩ kĩayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:19.473203408Z",
+  "model": "glm-5.3"
+}

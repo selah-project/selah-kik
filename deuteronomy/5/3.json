@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ti ⟨את⟩ aciarĩ itũ Yahwe agwatithanie ⟨את⟩ kĩrĩkanĩro ĩno, no ⟨את⟩ ithuĩ — ithuĩ acio hano ũmũthĩ, ithuĩ yothe arĩ muoyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aciarĩ itũ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aciarĩ itũ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "agwatithanie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ithuĩ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hano"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ithuĩ yothe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "arĩ muoyo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:19:37.084978452Z",
+  "model": "glm-5.3"
+}

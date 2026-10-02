@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Abarahamu aarĩ mũrũ wa mĩrongo kenda na kenda mwaka rĩrĩa bũcu wa mboro yake withuurĩtwo.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Na Abarahamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "mĩrongo kenda"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na kenda"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "rĩrĩa withuurĩtwo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bũcu"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "wa mboro yake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:32.310594750Z",
+  "model": "glm-5.3"
+}

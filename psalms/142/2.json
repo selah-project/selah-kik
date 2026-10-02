@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 142,
+  "translation": "Mũgambo wakwa ndĩhũra kwa Yahwe; mũgambo wakwa ndĩhoya kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Mũgambo wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ndĩhũra"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ndĩhoya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:15.083067864Z",
+  "model": "glm-5.3"
+}

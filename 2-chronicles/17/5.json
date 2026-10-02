@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩ ũndũ ũcio Yahwe aanĩkĩrire ⟨את⟩ ⟨the⟩ ũthamaki mwĩhĩto wake-inĩ, na Yehuda yothe nĩĩheere Yehocafati minaha, na agĩtua ũtonga na ciugo njega mũno.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "aanĩkĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthamaki"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mwĩhĩto wake-inĩ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "nĩĩheere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na agĩtua"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ũtonga"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na ciugo njega"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T05:51:38.877598506Z",
+  "model": "glm-5.3"
+}

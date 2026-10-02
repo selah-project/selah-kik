@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ĩthagathaga mũndũ ũrĩa ndahotaga ng'ania-inĩ ya arĩa mahota, na mũciarĩre-inĩ wa arĩa mena ihĩtia ndaacemeraga, na mũciko-inĩ wa marioi ndaacikaraga.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ĩthagathaga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kũhota"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "ng'ania-inĩ ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa mahota"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "na mũciarĩre-inĩ wa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "arĩa mena ihĩtia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kũcemeria"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "na mũciko-inĩ wa"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "marioi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kũcikara"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:19.693779043Z",
+  "model": "glm-5.3"
+}

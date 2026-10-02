@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Akĩweka ⟨את⟩ thũngũ ya mũrango, Micikani-inĩ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akĩweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thũngũ ya mũrango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "thũngũ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ya mũrango"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Micikani-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:48.131638019Z",
+  "model": "glm-5.3"
+}

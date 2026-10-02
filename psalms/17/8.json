@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Rĩrinda nĩ ta mũrũ wa ritwa rĩrĩa rĩ merekerete mwena-inĩ; thĩinĩ wa kĩanja kĩa maboko maku nĩũngĩingata.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Rĩrinda nĩ"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ta mũrũ wa ritwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ritwa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "thĩinĩ wa kĩanja"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kĩa maboko maku"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "nĩũngĩingata"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:28.713161858Z",
+  "model": "glm-5.3"
+}

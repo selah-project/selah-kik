@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ndĩmũthĩnĩka ⟨את⟩ mawatho makwa na ⟨את⟩ maciira makwa, macio mũndũ agĩthĩka ⟨את⟩ macio na agakũara makĩo-inĩ; nĩ njĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ndĩmũthĩnĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho makwa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mawatho makwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maciira makwa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "maciira makwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "macio"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "agĩthĩka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "na agakũara"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "makĩo-inĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ njĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:15.226548541Z",
+  "model": "glm-5.3"
+}

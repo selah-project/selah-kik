@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩagĩthĩtie, akĩringithania na kiugo kĩa Yahwe; nĩagĩthĩtie, akĩikara mũcingĩreinĩ wa Ceriti, ũrĩa ũrĩ mbere ya Yaredeni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nĩagĩthĩtie"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akĩringithania"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ta kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nĩagĩthĩtie"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mũcingĩreinĩ"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Ceriti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaredeni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:12.245613510Z",
+  "model": "glm-5.3"
+}

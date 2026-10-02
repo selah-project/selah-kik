@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Mũrito wa Yahwe nĩwamũkire kũrĩ andũ arĩa maku, akĩmena ⟨את⟩ ciao yakwa.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "nĩwamũkire"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mũrito wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "kũrĩ andũ arĩa maku"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "akĩmena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciao yakwa"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ciao yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:20.091120850Z",
+  "model": "glm-5.3"
+}

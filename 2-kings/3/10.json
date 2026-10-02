@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mwathi wa Yiceraeri akiuga: Ee! Nĩnginya Yahwe aarĩhĩirie amami amyũrũkũmake_mathatu, athiĩ ayehere hoohi-inĩ wa Moabu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ee!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "aarĩhĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "amami athatu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "arĩa athamaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "athiĩ ayehere"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "hoohi-inĩ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:47.612579218Z",
+  "model": "glm-5.3"
+}

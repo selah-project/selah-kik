@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩ kĩĩ gĩtũmaga mũrata kĩa mũirũ agĩe mũtheru? Nĩ kũnyitanĩra na mĩthemba ya mawatho maku.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "nĩ kĩĩ"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "agĩe mũtheru"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mũirũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muruta wiayo"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "muruta wiayo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "nĩ kũnyitanĩra na"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "mĩthemba ya mawatho maku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:51.099373989Z",
+  "model": "glm-5.3"
+}

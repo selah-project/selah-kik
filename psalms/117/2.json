@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 117,
+  "translation": "Nĩgũkĩra hecedi wake nĩgwatĩte igũrũ witũ, na ma ya Yahwe ĩhĩtĩkĩte hĩndĩ ciothe. Goocai Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkĩra"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nĩgwatĩte"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "igũrũ witũ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "goocai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:13.555930586Z",
+  "model": "glm-5.3"
+}

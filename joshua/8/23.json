@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ mwathani wa Hayi namĩkamate makaara, namũhĩtige mageenĩ manĩ Njerũa, mũrorete Yehocua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwathani wa Hayi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "העי",
+      "gloss": "wa Hayi"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "namĩkamate"
+    },
+    {
+      "surface": "חי",
+      "gloss": "makaara"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "namũhĩtige mageenĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we (mwathani)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manĩ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    }
+  ],
+  "timestamp": "2026-10-01T22:44:19.742861954Z",
+  "model": "glm-5.3"
+}

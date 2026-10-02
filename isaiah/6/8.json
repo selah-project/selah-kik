@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩngĩigua ⟨את⟩ mũgambo wa Adonai ũgoiga: Nĩ oŋũ ndĩkũrũnga, na oŋũ ũgũthiĩ ithũũra? Nĩngĩcookia ngĩuga: Nĩngĩrĩ; nĩtũũra ũngĩ.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "nĩngĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "wa Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ũgoiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oŋũ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "oŋũ"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ndĩkũrũnga"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na oŋũ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ũgũthiĩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithũũra"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ngĩuga"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nĩngĩrĩ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "nĩtũũra ũngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:28:23.866559838Z",
+  "model": "glm-5.3"
+}

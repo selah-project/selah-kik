@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩ mwathi ndagatũkwo mũithĩrũ harĩ andũ ake, ndakwĩtherera.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "gatũkwo mũithĩrũ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "nĩ mwathi"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "harĩ andũ ake"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "gũkwĩtherera"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:59.521391713Z",
+  "model": "glm-5.3"
+}

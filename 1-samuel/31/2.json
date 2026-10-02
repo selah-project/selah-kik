@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Pelicti mathikĩrĩirie ⟨את⟩ Cauri na ⟨את⟩ aana ake, na Pelicti mathinjĩre ⟨את⟩ Yehonatani na ⟨את⟩ Abinadabu na ⟨את⟩ Markicua, aana a Cauri.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "mathikĩrĩirie"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelicti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cauri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mathinjĩre"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelicti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatani"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abinadabu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Markicua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Marki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "cua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:17.661619215Z",
+  "model": "glm-5.3"
+}

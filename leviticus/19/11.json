@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ndũkĩiba, na ndũkahĩhia, na ndũngagĩrĩra mũndũ maheni mũirũ-inĩ wake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "kĩiba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "kahĩhia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ngagĩrĩra maheni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "mũirũ-inĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:49.851080507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ndũkagũca wene kĩhunĩro, thĩingo o na ĩmwe ya kĩndũ kĩo kĩo gĩa kĩrĩ-inĩ matuĩ-inĩ maigũrũ, kana gĩa kĩrĩ-inĩ thĩ thĩ, kana gĩa kĩrĩ-inĩ mĩena-inĩ mĩerũ thĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gũgũca"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wene"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "kĩhunĩro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kĩo kĩo"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "thĩingo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gĩa kĩrĩ-inĩ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "matuĩ-inĩ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "maigũrũ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na gĩa kĩrĩ-inĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na gĩa kĩrĩ-inĩ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mĩena-inĩ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "mĩerũ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:45.038689964Z",
+  "model": "glm-5.3"
+}

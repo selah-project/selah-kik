@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "Nĩ gũtirĩ kũhinga, harĩa arĩa matwaranĩte mbĩcũ nĩmatũceithĩrire ciugo cia ngweco, na arĩa matũnyitĩirie nĩmatũreerithĩririe gũkena, makĩuga: 'Rainirai ngweco ya Cioni.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũtirĩ kũhinga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "nĩmatũceithĩrire"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "arĩa matwaranĩte mbĩcũ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ngweco"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "arĩa matũnyitĩirie"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gũkena"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "rainirai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "(tũũ)"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "ngweco ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:14.470626857Z",
+  "model": "glm-5.3"
+}

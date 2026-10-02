@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ĩno ti mĩthenya yakwa ya tũnĩ tuku? Ũhore, ũciyeere kwakwa, naguo nĩngĩikarũkara ngee.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ĩno ti... tuku"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "tũnĩ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya yakwa"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ũhore"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "ũciyeere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "ויבליגה",
+      "gloss": "naguo nĩngĩikarũkara"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ngee"
+    }
+  ],
+  "timestamp": "2026-10-02T07:03:23.460825366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Akĩĩkanĩria ⟨את⟩ mĩguni ya ngai cia kũrĩa kũngĩ na mĩena mĩrũ, agacĩmunyũkia ⟨את⟩ mĩthingi, na agacĩgucha ⟨את⟩ Acerimi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akĩĩkanĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩguni ya ngai cia kũrĩa kũngĩ"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mĩguni"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ya kũrĩa kũngĩ"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "na mĩena mĩrũ"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "agacĩmunyũkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthingi"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "mĩthingi"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "agacĩgucha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Acerimi"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Acerimi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:51:14.882797503Z",
+  "model": "glm-5.3"
+}

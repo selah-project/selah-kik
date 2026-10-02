@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩ ya Dawidi. Kwawe, Yahwe, mwoyo wakwa nĩngĩigura.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nĩ ya Dawidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kwawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mwoyo wakwa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nĩngĩigura"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:51.751939445Z",
+  "model": "glm-5.3"
+}

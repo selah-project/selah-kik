@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na nĩatũrire nginya handũ ũyũ, akĩhe atũ ⟨את⟩ thĩ ĩno — thĩ ĩrĩa ĩiyũra irĩa na ũthiũ.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "nĩatũrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "handũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩhe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "atũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ĩrĩa ĩiyũra"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na ũthiũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:48.780396169Z",
+  "model": "glm-5.3"
+}

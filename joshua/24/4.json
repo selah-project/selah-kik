@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩngĩha Yicaki ⟨את⟩ Yaakobu na ⟨את⟩ Ecawu; ngĩha Ecawu ⟨את⟩ kirima cia Ceiri agĩcĩ ĩnake; na Yaakobu na aana make magĩthiĩ thĩ nginya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "nĩngĩha"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ecawu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ecawu"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ngĩha"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Ecawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirima cia Ceiri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kirima"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Ceiri"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "agĩcĩ ĩnake"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ya",
+      "marks": "kirima cia Ceiri"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakobu"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana make"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "magĩthiĩ thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nginya Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:54:04.489855532Z",
+  "model": "glm-5.3"
+}

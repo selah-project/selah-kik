@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 61,
+  "translation": "Mĩthenya ĩngĩ igũrũ wa mĩthenya ya mwathani ũongere; mĩaka yake ithĩ ta mũthingi na mũthingi.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ũongere"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "mĩaka yake"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ithĩ ta"
+    },
+    {
+      "surface": "דר",
+      "gloss": "mũthingi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na mũthingi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:11.160370070Z",
+  "model": "glm-5.3"
+}

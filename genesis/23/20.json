@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na mũgũnda na mwonyi ũrĩa ũrĩ thĩinĩ wake nĩĩhĩtĩkĩtio Abarahamu ta kĩgĩrĩki kĩa kũthĩkĩrĩria, kuuma ⟨את⟩ ciana cia Keti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nĩĩhĩtĩkĩtio"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mũgũnda"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "na mwonyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "thĩinĩ wake"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "ta kĩgĩrĩki kĩa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kũthĩkĩrĩria"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩",
+      "marks": "ciana cia Keti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "cia Keti"
+    }
+  ],
+  "timestamp": "2026-10-01T20:40:39.924414853Z",
+  "model": "glm-5.3"
+}

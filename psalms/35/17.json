@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Adonai, ni mĩrongo ĩrĩkũ nĩgũtũũraga ũkuona? Cokera mũoyo wakwa kuuma mĩcene yao, kuuma thĩnjũ cia nyamu mũwayo wakwa wa kweri.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ni mĩrongo ĩrĩkũ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "nĩgũtũũraga ũkuona"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "cokera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "kuuma mĩcene yao"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "kuuma thĩnjũ cia nyamu"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "mũwayo wakwa wa kweri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:53:59.080849839Z",
+  "model": "glm-5.3"
+}

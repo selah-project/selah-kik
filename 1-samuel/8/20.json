@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩgeetha itũwe na ithũĩ ta ndũrĩrĩ ciothe; na mũthamaki waitũ ndũmĩrĩirie ciira ciaitũ, nakĩambatagĩra mbere yaitũ, nakĩhĩtia ⟨את⟩ mbaara ciaitũ.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "nĩgeetha itũwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ ciothe"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ndũmĩrĩirie ciira ciaitũ"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mũthamaki waitũ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nakĩambatagĩra"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "mbere yaitũ"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "nakĩhĩtia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaara ciaitũ"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "mbaara ciaitũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:07.532593458Z",
+  "model": "glm-5.3"
+}

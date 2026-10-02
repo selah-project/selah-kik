@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩ mĩthenya yake yothe maũndũ marũru, na kunina kwa ũndũ wake wa gwĩka; o na ũtukũ-inĩ ngoro yake ĩtiĩ kũhũrũka. Ũyũ na we nĩ mũhũmũ ⟨nĩrĩo⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mĩthenya yake"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "maũndũ marũru"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "na kunina"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ũndũ wake wa gwĩka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ũtukũ-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩtiĩ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kũhũrũka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na we"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mũhũmũ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nĩrĩo⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:31.226869556Z",
+  "model": "glm-5.3"
+}

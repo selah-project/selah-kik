@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩgũkorũo, thĩna, Adonai, Yahwe Cebaoti, akĩimũra kuuma Yerucarayimu na kuuma Yuda mũcikani na mũtikũcia-watho, mũcikani woirũ wa mũgemũ, na mũcikani woirũ wa maĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "thĩna"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "akĩimũra"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kuuma Yerucarayimu"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "na kuuma Yuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "mũcikani"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "na mũtikũcia-watho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "woirũ"
+    },
+    {
+      "surface": "משען",
+      "gloss": "mũcikani"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "wa mũgemũ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na woirũ"
+    },
+    {
+      "surface": "משען",
+      "gloss": "mũcikani"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wa maĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:25:42.928973919Z",
+  "model": "glm-5.3"
+}

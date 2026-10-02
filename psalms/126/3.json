@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 126,
+  "translation": "Yahwe anĩngĩhire maũndũ manene hamwe na ithuĩ, nĩ ũndũ wa iki tũarĩ a gũkena.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "anĩngĩhire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "hamwe na ithuĩ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tũarĩ"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "a gũkena"
+    }
+  ],
+  "timestamp": "2026-10-02T03:38:31.095231033Z",
+  "model": "glm-5.3"
+}

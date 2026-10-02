@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Yahwe nĩgũtwarire ⟨את⟩ we na ⟨את⟩ mwathani waku ũrĩa wakũmĩrĩirie igũrũ rĩaku, kinya kũrĩ ndũrĩrĩ ĩrĩa ũtikumenete we na aciari aku; na kuo nĩũkahũthĩra ngai ingĩ, mĩtĩ na mahiga.",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "nĩgũtwarire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwathani waku"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "mwathani waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "wakũmĩrĩirie"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya kũrĩ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ũti-"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kumenete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "na aciari aku"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "na gũhũthĩra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na mahiga"
+    }
+  ],
+  "timestamp": "2026-10-01T22:34:19.735952961Z",
+  "model": "glm-5.3"
+}

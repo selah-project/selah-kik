@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ithenya rĩake riari ti rĩa kũmũmena hĩndĩ ciothe cia miari yake yose, agĩtoonda athiĩ ũgu: Nĩ ũndũ nĩwakorire ũgu? Nawe wegũrũo mũno, na maiũ magĩciara ⟨את⟩ we thutha wa Abecalomi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ti"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "kũmũmena"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithenya rĩake"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "hĩndĩ ciothe cia miari yake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩtoonda athiĩ ũgu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nĩ ũndũ nĩwakorire ũgu"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ũgu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakorire"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Nawe"
+    },
+    {
+      "surface": "he",
+      "gloss": "we"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wegũrũo"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mũthemba wĩra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nĩaciara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abecalomi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:46:00.682149417Z",
+  "model": "glm-5.3"
+}

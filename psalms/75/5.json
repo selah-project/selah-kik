@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Nĩrĩmwe: Nĩndĩrirĩirie arĩa mahothanĩte mũno, Mũtikarĩ mahothanĩte; na arĩa maraaru, Mũtikahũgũrũre ⟨את⟩ mwena-inĩ wa gũthinga.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩndĩrirĩirie"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "arĩa mahothanĩte mũno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũtika"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "mũtikarĩ mahothanĩte"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "na arĩa maraaru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũtika"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mũtikahũgũrũre"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "mwena-inĩ wa gũthinga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:50.779595631Z",
+  "model": "glm-5.3"
+}

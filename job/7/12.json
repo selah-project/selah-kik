@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Kwĩ iria inene nĩngĩ, kana nyamũ ya iria-inĩ, atĩ nĩwe ũthĩirie mũrungi thĩinĩ wakwa?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "iria inene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩngĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "nyamũ ya iria-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "thĩirie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "mũrungi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:05:49.306667327Z",
+  "model": "glm-5.3"
+}

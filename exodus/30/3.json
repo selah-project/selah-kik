@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Ũkagĩcokia thahabu ĩtheru ⟨את⟩ kĩu: gĩtũũro kĩayo, na magũrũmake gũtheruhĩ, na ⟨את⟩ mathembi make; ũkahĩnda kĩo mũkano wa thahabu gũtheruhĩ.",
+  "tokens": [
+    {
+      "surface": "וצצית→וצפית",
+      "gloss": "Ũkagĩcokia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ĩtheru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩtũũro kĩayo"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "gĩtũũro kĩayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magũrũmake"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "magũrũmake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gũtheruhĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathembi make"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mathembi make"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ũkahĩnda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kĩo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mũkano"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wa thahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gũtheruhĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:15.235767893Z",
+  "model": "glm-5.3"
+}

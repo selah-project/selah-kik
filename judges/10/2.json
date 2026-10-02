@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Akahĩtwo ⟨את⟩ Yiceraeri mĩaka mĩrongo ĩrĩ na ithatũ; nĩakuonekithia, akĩikarwo Camiri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akahĩtwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na ithatũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nĩakuonekithia"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akĩikarwo"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Camiri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:00:45.973854720Z",
+  "model": "glm-5.3"
+}

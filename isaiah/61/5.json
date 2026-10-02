@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 61,
+  "translation": "Na andũ marĩ ndũrĩ nĩmagathĩnĩkĩra, na macurĩrĩa ⟨את⟩ ngũrũ cienu; aana a athũrũ nĩmaharĩ ageni enyu, na barumi barĩme enyu.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "nĩmagathĩnĩkĩra"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "andũ marĩ ndũrĩ"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "nĩmacurĩrĩa"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ngũrũ cienu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "athũrũ"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "maharĩ ageni enyu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "na barumi barĩme enyu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:56:33.986843018Z",
+  "model": "glm-5.3"
+}

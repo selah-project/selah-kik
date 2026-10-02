@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩakorete aithĩramũndũ wa kĩcuma, mirongo ĩrĩ ama mũraya wake, na mirongo ĩrĩ ama rũgari wake, na ikũmi ama mũigana wake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩakorete"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aithĩramũndũ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "wa kĩcuma"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo ĩrĩ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "mũraya wake"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mirongo ĩrĩ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "rũgari wake"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "mũigana wake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:43:29.004579065Z",
+  "model": "glm-5.3"
+}

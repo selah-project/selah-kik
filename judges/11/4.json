@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na thutha wa mĩthenya ĩrĩkũ, aana a Amoni makĩruta ita na Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na thutha wa... nĩgeetha"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "mĩthenya ĩrĩkũ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "makĩruta ita na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:02:47.682056435Z",
+  "model": "glm-5.3"
+}

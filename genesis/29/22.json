@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nao Labani akĩunga ⟨את⟩ andũ othe a kũndũ uku, akagĩtherera kĩgĩrĩro kĩa kũnyua.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "akĩunga"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ othe a kũndũ uku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a kũndũ uku"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akagĩtherera"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "kĩgĩrĩro kĩa kũnyua"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:29.903566730Z",
+  "model": "glm-5.3"
+}

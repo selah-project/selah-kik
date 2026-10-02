@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Thii kuma harĩ inĩ, arĩa marĩ harĩ; nĩngũcunga amirĩra cia Erohimu wakwa.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "thii"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuma harĩ inĩ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "arĩa marĩ harĩ"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "na nĩngũcunga"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amirĩra"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:37.088707789Z",
+  "model": "glm-5.3"
+}

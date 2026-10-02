@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Ruaki rũhĩturũoke rũngĩa kwĩrĩ na rĩrĩa nĩndĩngĩratha ciira ⟨את⟩ na ao.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruaki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "rũhĩturũoke"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "rũngĩa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "rũngĩa kwĩrĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwĩrĩ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nĩndĩngĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩngĩ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kũratha"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ na ao",
+      "marks": "andũ ayũ na Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:42:30.791180372Z",
+  "model": "glm-5.3"
+}

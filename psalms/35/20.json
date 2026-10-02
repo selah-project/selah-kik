@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Nĩgũkorwo matiugaga tha ⟨ciugo cia tha⟩; no harĩ arĩa makĩrirũka thĩ-inĩ magĩrĩrania ciugo cia kũhiũra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tha"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "matiugaga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "arĩa makĩrirũka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "cia kũhiũra"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "magĩrĩrania"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:26.811789014Z",
+  "model": "glm-5.3"
+}

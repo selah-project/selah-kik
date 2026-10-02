@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Mũndũ ũrĩkũ nĩ wenda kũrũarĩrĩra, woenda mĩthenya mengĩ, ago aone kĩndũ kĩega?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ũrĩkũ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "wenda"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kũrũarĩrĩra"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "woenda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya mengĩ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ago aone"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩndũ kĩega"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:37.177297925Z",
+  "model": "glm-5.3"
+}

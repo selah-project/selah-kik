@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Nĩwe nĩngamũgoera atĩrĩrĩ: We nĩ Baba wakwa, Ere wakwa, na mwena wa ũhokereri wakwa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Nĩwe"
+    },
+    {
+      "surface": "יקקראני",
+      "gloss": "nĩngamũgoera"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "We nĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ere wakwa"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na mwena"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "wa ũhokereri wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:30.597704125Z",
+  "model": "glm-5.3"
+}

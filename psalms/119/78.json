@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Arĩa mamenete methĩtwo mbeca, nĩgũkorwo na mbeca maũtungatirie maũndũ makwa nĩ thema; ako nĩndĩciragĩrĩra micungo yao.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "methĩtwo mbeca"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "Arĩa mamenete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na mbeca"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "maũtungatirie maũndũ makwa nĩ thema"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "ndĩciragĩrĩra"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "micungo yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:35.895550250Z",
+  "model": "glm-5.3"
+}

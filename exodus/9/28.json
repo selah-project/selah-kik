@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Thayai kwa Yahwe, na nĩkĩrĩ kũgĩa na nguraro cia Erohimu na baradi nthĩnore, nĩngĩtũmagana, na mũtikwenderera kũgarama.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "Thayai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na nĩkĩrĩ"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "kũgĩa na"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "nguraro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "cia Erohimu"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "na baradi"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "nĩngĩtũmagana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mũti"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "mũtikwenderera"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "kũgarama"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:16.534180620Z",
+  "model": "glm-5.3"
+}

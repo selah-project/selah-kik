@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Mũkwanjĩ wa barathi, kĩhingo kĩa kanũa wa ngoda, na mũthĩgi wa mũgongo wa aciare.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "mũkwanjĩ"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "wa barathi"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "kĩhingo kĩa kanũa"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "wa ngoda"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "na mũthĩgi"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "wa mũgongo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wa aciare"
+    }
+  ],
+  "timestamp": "2026-10-02T04:00:17.344104551Z",
+  "model": "glm-5.3"
+}

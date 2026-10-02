@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nĩnkũng'etwo, Erohimu, nĩgũthĩ ⟨the⟩ amathĩ megiĩ kinya mũoyoni wakwa.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "nĩnkũng'etwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũthĩ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "megiĩ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amathĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyoni wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:13.067035568Z",
+  "model": "glm-5.3"
+}

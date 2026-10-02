@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩkĩ ndũrĩrĩ ciarĩnjirie, na mabũrũri makoragwo mahũthagĩra maũndũ marĩ ũhũ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ciarĩnjirie"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na mabũrũri"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "makoragwo mahũthagĩra"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "marĩ ũhũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:38.890866201Z",
+  "model": "glm-5.3"
+}

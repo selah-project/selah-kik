@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 53,
+  "translation": "Erohimu kuuma igũrũ aigana hasi kũona ciana cia andũ, aangĩona kĩrĩkũ kĩa mũhote kũũririkia, kũrondá ⟨את⟩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "aigana hasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "angĩona kĩrĩkũ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kĩa mũhote"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kũũririkia"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kũrondá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:59.217850709Z",
+  "model": "glm-5.3"
+}

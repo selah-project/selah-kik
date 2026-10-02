@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Thĩ yao yaangĩrire ngeng'e cia macũ, thĩinĩ wa cibirĩri cia athamaki ao.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "yaangĩrire"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "thĩ yao"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "ngeng'e cia macũ"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "thĩinĩ wa cibirĩri cia"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "athamaki ao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:37.241595715Z",
+  "model": "glm-5.3"
+}

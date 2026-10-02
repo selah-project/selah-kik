@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 124,
+  "translation": "Kĩĩrĩra kĩa mahiga-inĩ ma kwĩgũa, kĩa Dawidi: Loo ti Yahwe warĩ ⟨na⟩ ithuĩ, Yiceraeri nĩrĩo igĩrĩka iria.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kĩĩrĩra"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "kĩa mahiga-inĩ ma kwĩgũa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Loo ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "warĩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nĩrĩo igĩrĩka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iria"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:45.907733271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Mĩaka ĩtatũ aathamakire Yerucarayimu; na rĩĩtwa rĩa nyina wake ni Maaka, mũrũ wa Abicoromu.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Mĩaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "aathamakire"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa rĩa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina wake"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abicoromu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:00:22.542735972Z",
+  "model": "glm-5.3"
+}

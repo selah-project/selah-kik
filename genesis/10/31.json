@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Macio nĩ ciana cia Cem, ta mĩcii yao, ta ndimi ciao, thĩ-inĩ ciao, ta mĩrĩongo yao.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ta mĩcii yao"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ta ndimi ciao"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "thĩ-inĩ ciao"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ta mĩrĩongo yao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:53.530774058Z",
+  "model": "glm-5.3"
+}

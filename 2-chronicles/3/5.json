@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nacioĩ, ⟨את⟩ nyũmba nene akĩgũyingĩra mĩtĩ ya mbakara, nawakĩgũingĩrwo thahu wa mahenia ma kũrũa, na akĩnyita igũrũ wayo mĩtĩ-icũmi na minyorerete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba nene"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "akĩgũyingĩra"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ya mbakara"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "nawakĩgũingĩrwo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahu wa mahenia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ma kũrũa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akĩnyita"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ wayo"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "mĩtĩ-icũmi"
+    },
+    {
+      "surface": "ו שרשרות",
+      "gloss": "minyorerete"
+    }
+  ],
+  "timestamp": "2026-10-02T05:41:13.261767173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na arĩa beri nĩmaikarĩte me mũthũũ, ⟨⟨ni⟩⟩ mũndũ na mũtumia wake, na matiĩ kũmenithĩra.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "na nĩmaikarĩte"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "aría beri"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "me mũthũũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na mũtumia wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matiĩ"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "kũmenithĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T20:27:42.967553705Z",
+  "model": "glm-5.3"
+}

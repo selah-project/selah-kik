@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Ĩikarĩra igũrũ, we mũcirani wa thĩ; ũcookerie arĩa manyaũra ⟨gĩthĩkũro⟩ kiaco.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Ĩikarĩra igũrũ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "mũcirani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ũcookerie"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "gĩthĩkũro"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "גאים",
+      "gloss": "arĩa manyaũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:40.926334077Z",
+  "model": "glm-5.3"
+}

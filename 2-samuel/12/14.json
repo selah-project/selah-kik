@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "No nĩ ũndũ ũcio, nĩgũcooka ũgĩcũcĩriria ⟨את⟩ thũ cia Yahwe nĩ ũhoro ũyũ, no mũrũ ũrĩa waciareiruo nĩwe arĩkua akua.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "kũgocoa"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "nĩgũcũcĩriria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thũ cia Yahwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "cia Yahwe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nĩ ũhoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ũrĩa waciareiruo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "arĩkua"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "akua"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:20.571174123Z",
+  "model": "glm-5.3"
+}

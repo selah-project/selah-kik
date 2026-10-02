@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 25:27",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na rĩngĩ, ũgooro ũyũ ũrĩa ũtumia waku ũroonire kwa mwathi wakwa, ũhe athingu arĩa maathĩĩraga mbere ya maguru a mwathi wakwa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩngĩ"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ũgooro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ũroonire"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "ũtumia waku"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kwa mwathi wakwa"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ũhe"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "athingu"
+    },
+    {
+      "surface": "המתהלכים",
+      "gloss": "arĩa maathĩĩraga"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "mbere ya maguru"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:25:43.917154208Z",
+  "model": "glm-5.3"
+}

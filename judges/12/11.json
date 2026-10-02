@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nake thutha wake Eroni wa Ceburuni akarĩithagĩrĩria ⟨את⟩ Yiceraeri, nakarĩithagĩrĩria ⟨את⟩ Yiceraeri mwaka ikũmi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akarĩithagĩrĩria"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eroni"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "wa Ceburuni"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "nakarĩithagĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mwaka ikũmi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mwaka"
+    }
+  ],
+  "timestamp": "2026-10-01T23:02:14.604146299Z",
+  "model": "glm-5.3"
+}

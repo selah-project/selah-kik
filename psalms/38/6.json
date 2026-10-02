@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩmatambĩrĩirie, nĩmacokete mũthemba, thũ cia kũhũrwo, ndĩrĩ ũũru wakwa.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "nĩmatambĩrĩirie"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "nĩmacokete mũthemba"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "thũ cia kũhũrwo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ndĩrĩ"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "ũũru wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:36.887273446Z",
+  "model": "glm-5.3"
+}

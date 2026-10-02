@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na akĩuga atĩrĩ: Nĩndĩronda ⟨את⟩ ari akwa; njũrire hasa kũrĩ kũu, arĩ kũrĩa ng'ondu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ari akwa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ari akwa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ronda"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "njũrire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hasa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kũrĩ nĩ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "kũrĩ kũu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "o"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "arĩ kũrĩa ng'ondu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:50:04.349596729Z",
+  "model": "glm-5.3"
+}

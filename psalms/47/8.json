@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Nĩgũkorwo mũthamaki wa thĩ ciothe nĩ Erohimu; iĩmbani ngwatanĩro iria ciene ha ũmenyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa thĩ ciothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "iĩmbani ngwatanĩro"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "iria ciene ha ũmenyo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:47.462689706Z",
+  "model": "glm-5.3"
+}

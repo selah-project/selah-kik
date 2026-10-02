@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Nĩgũkorwo nĩwe kĩhooto kĩa hinya wao, na thĩinĩ wa kũenda kwaku rĩhembe rĩitu nĩrigũũrũtwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "kĩa hinya wao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "na thĩinĩ wa kũenda kwaku"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "nĩrigũũrũtwo"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "rĩhembe rĩitu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:04.516005133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 26:23",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ari a Yicaakari thĩinĩ wa mbarĩ ciao: wa Tora, mbarĩ ya aTora; wa Pua, mbarĩ ya aPuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ari a"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yicaakari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "thĩinĩ wa mbarĩ ciao"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbarĩ ya"
+    },
+    {
+      "surface": "התולעי",
+      "gloss": "aTora"
+    },
+    {
+      "surface": "לפוה",
+      "gloss": "wa Pua"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbarĩ ya"
+    },
+    {
+      "surface": "הפוני",
+      "gloss": "aPuni"
+    }
+  ],
+  "timestamp": "2026-10-01T22:06:47.698301384Z",
+  "model": "glm-5.3"
+}

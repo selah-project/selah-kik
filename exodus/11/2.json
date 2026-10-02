@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Ũũrĩra rora ndũmĩrĩri-inĩ ya andũ, na mũndũ aaŋĩte ⟨את⟩ mwĩrĩ wake, na mũka ⟨את⟩ wa mũka wĩyũ, iciĩra cia thaahe na iciĩra cia thahabu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ũũrĩra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rora"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ndũmĩrĩri-inĩ ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "aaŋĩte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kwa",
+      "marks": "mwĩrĩ wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mwĩrĩ wake"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "na mũka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kwa",
+      "marks": "mũka wĩyũ"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "mũka wĩyũ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "iciĩra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cia thaahe"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na iciĩra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cia thahabu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:37.256164973Z",
+  "model": "glm-5.3"
+}

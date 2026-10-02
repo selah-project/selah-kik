@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩgekũra ũndũ ũcio nĩmbũrire ũguo: andũ nĩmagĩĩthũmbũkĩte ⟨את⟩ hatarĩ kĩingĩra-inĩ, nĩakuire.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩgekũra ũndũ ũcio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩmbũrire ũguo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "nĩmagĩĩthũkĩte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "hatarĩ kĩingĩra-inĩ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nĩakuire"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:12.330431772Z",
+  "model": "glm-5.3"
+}

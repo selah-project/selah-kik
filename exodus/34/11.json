@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Ĩkũra maũndũ othe ⟨את⟩ arĩa nĩndĩkuhwĩria ũmũthĩ; rĩrĩ, nĩndĩcereceta kuuma mbere yakwa ⟨את⟩ Amori, na Kenaani, na Heti, na Perizi, na Hivi, na Yebusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ĩkũra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩra mwĩyere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maũndũ othe arĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kũhwĩria"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "rĩrĩ nĩndĩ"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "cereceta"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kuuma mbere yakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "na Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "na Heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "na Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "na Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na Yebusi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:28.951371091Z",
+  "model": "glm-5.3"
+}

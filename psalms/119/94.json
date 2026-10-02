@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩndĩ ũrĩ wakwa, ũhonokie; nĩgũkorwo mawatho ako nĩnoonire.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ũrĩ wakwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ũhonokie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mawatho ako"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nĩnoonire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:30.031521122Z",
+  "model": "glm-5.3"
+}

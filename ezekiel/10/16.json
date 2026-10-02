@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 10:16",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na rĩrĩa Kerubu nĩmaendaga, maofani nao nĩmakũendaga makuhĩ nawo; na rĩrĩa Kerubu nĩmaigarete ⟨את⟩ mahweri mayo magĩe kũigua kũuma thĩ-inĩ, maofani nao ti mahũtitagia kuuma makuhĩ nao.",
+  "tokens": [
+    {
+      "surface": "ובלכת",
+      "gloss": "rĩrĩa nĩmaendaga"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "Kerubu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nĩmakũendaga"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "maofani"
+    },
+    {
+      "surface": "אצלם",
+      "gloss": "makuhĩ nawo"
+    },
+    {
+      "surface": "ובשאת",
+      "gloss": "rĩrĩa nĩmaigarete"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "Kerubu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahweri mayo"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "mahweri mayo"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kũuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "mahũtitagia kuuma"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "maofani nao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מאצלם",
+      "gloss": "makuhĩ nao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:46:35.969802189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Ta mbũrĩ ya gĩthaka ĩrĩrangĩra mĩena ya mĩri, o ũguo mũoyo wakwa ũrĩrangĩra harĩ Wee, Erohimu.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "ta mbũrĩ ya gĩthaka"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ĩrĩrangĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya mĩri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ũrĩrangĩra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "harĩ Wee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:34.695733177Z",
+  "model": "glm-5.3"
+}

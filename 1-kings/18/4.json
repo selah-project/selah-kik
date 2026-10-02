@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩrĩa rĩa Izeberi aathĩnjĩte ⟨את⟩ arĩathi a Yahwe, Obadayahu atĩire arĩathi ikũmi na ithũrũ, na aciigĩra, atarĩ harĩa moara-inĩ, nao aroeririo irio na mai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩrĩa rĩa"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "aathĩnjĩte"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izeberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩathi a Yahwe"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "arĩathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "atĩire"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadayahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ikũmi na ithũrũ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "arĩathi"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "na aciigĩra"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "atarĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "moara-inĩ"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "nĩ aroeririo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na mai"
+    }
+  ],
+  "timestamp": "2026-10-02T00:00:30.727946931Z",
+  "model": "glm-5.3"
+}

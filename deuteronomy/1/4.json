@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Thutha wa kũmathĩra ⟨את⟩ Cihoni, mwathi wa Aemori, ũrĩa atwarĩirũo Heciboni, na ⟨את⟩ Ogi, mwathi wa Bacani, ũrĩa atwarĩirũo Acataroti, thĩinĩ wa Ederei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Thutha wa"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "kũmathĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cihoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Cihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Aemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "atwarĩirũo"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heciboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ogi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "wa Bacani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "atwarĩirũo"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Acataroti"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "thĩinĩ wa Ederei"
+    }
+  ],
+  "timestamp": "2026-10-01T22:17:03.080328801Z",
+  "model": "glm-5.3"
+}

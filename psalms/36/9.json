@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Nĩtikondwo na mũcecere wa nyũmba yaku, na mũraya wa menyo gĩaku ũmakinya kũnyua.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "nĩtikondwo"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "mũcecere"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyũmba yaku"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "na mũraya"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "wa menyo gĩaku"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "ũmakinya kũnyua"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:10.640250457Z",
+  "model": "glm-5.3"
+}

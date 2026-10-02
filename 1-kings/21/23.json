@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nao wa Izeberi me nĩ Yahwe oigĩte atĩrĩ: Ngatĩ cĩarĩa ⟨את⟩ Izeberi thĩinĩ wa rũithi rwa Yizereeri.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nao me"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "wa Izeberi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nĩ oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ngatĩ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "cĩarĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izeberi"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izeberi"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "thĩinĩ wa rũithi"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "rwa Yizereeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:01:33.212645762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ Aharoni na ⟨את⟩ aana make ũgĩcoora maguta, na ũgĩtherithia ⟨את⟩ acio magwetwo athembi akwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana make"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ũgĩcoora maguta"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "na ũgĩtherithia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "acio"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "gũtuĩkĩra athembi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:08.643949273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mĩromo ya mahoya nĩ gĩcuuki kwa Yahwe; no arĩa makoragwo na cedeki nĩ makũririe kwake.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "gĩcuuki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mĩromo ya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mahoya"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "na arĩa makoragwo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "makũririe kwake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:50:53.755398557Z",
+  "model": "glm-5.3"
+}

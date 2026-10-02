@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Wa Ceromoni. Erohimu, he mũthamaki ciira ciao, na he mũrũ wa mũthamaki cedeki waku.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Wa Ceromoni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ciira ciao"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "תן",
+      "gloss": "he"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na cedeki waku"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:44.366882948Z",
+  "model": "glm-5.3"
+}

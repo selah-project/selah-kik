@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Ta Yaakobu agĩcooka Micirayimu, na aacĩ anyu makĩhoya Yahwe, Yahwe akĩrũmbũinya ⟨את⟩ Moce na ⟨את⟩ Aharoni, nao makĩtoya ⟨את⟩ aacĩ anyu kuuma Micirayimu, makĩmĩikara kũndũ ũu.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "agĩcooka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "makĩhoya"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aacĩ anyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akĩrũmbũinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "makĩtoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aacĩ anyu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aacĩ anyu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "makĩmĩikara"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:43.079047315Z",
+  "model": "glm-5.3"
+}

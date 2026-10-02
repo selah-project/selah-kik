@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ĩkarũo nĩ kĩhinya harĩ andũ, na mahĩngĩrie kuo, na matĩ nyite maũndũ ma ciugo cia kĩhianĩria.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ĩkarũo nĩ kĩhinya"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na mahĩngĩrie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na matĩ"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "nyite maũndũ"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ciugo-inĩ cia"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kĩhianĩria"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:34.134294316Z",
+  "model": "glm-5.3"
+}

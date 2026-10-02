@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na wee, ũrokere kũrĩ wee ⟨את⟩ Aharoni mũrũ wanyu, na ⟨את⟩ ciana ciake hamwe nake, kuma thĩinĩ wa ciana cia Yiceraeri, agatuŋa mũthĩnjĩri-ngai kwaĩ — Aharoni, Nadabu na Abihuwa, Erezari na Ithamari, aarĩ ciana a Aharoni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na wee"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ũrokere"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ wee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wanyu"
+    },
+    {
+      "surface": "וית",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hamwe nake ⟨את⟩"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kuma thĩinĩ wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "agatuŋa mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwaĩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Abihuwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erezari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Ithamari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "a Aharoni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:26.458798333Z",
+  "model": "glm-5.3"
+}

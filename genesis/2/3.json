@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Erohimu akĩrũgama ⟨את⟩ mũthenya ũrĩa mwanya wa gũcigĩrĩria, nĩamũtheria ⟨את⟩ ũcio; nĩgũko mũthenya-inĩ ũcio Erohimu nĩahũrũkĩte kuma o gwĩka wake wothe ũrĩa Erohimu nĩombire gwĩka.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akĩrũgama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya ũrĩa mwanya wa gũcigĩrĩria"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ũrĩa mwanya wa gũcigĩrĩria"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akĩmũtheria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya ũcio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mũthenya-inĩ ũcio"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nĩahũrũkĩte"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuma o ... wothe"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "gwĩka wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gwĩka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:28.656060100Z",
+  "model": "glm-5.3"
+}

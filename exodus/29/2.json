@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na mũgati utamũrĩtwo, na macandĩ matamũrĩtwo merũrĩtwo maguta-inĩ, na mapeti matamũrĩtwo maheanĩtwo maguta-inĩ; na ũcũrũ mwega wa ngano nĩgũo ũkaathondeka ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Na mũgati"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "utamũrĩtwo"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "na macandĩ"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "matamũrĩtwo"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "merũrĩtwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "maguta-inĩ"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "na mapeti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matamũrĩtwo"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "maheanĩtwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "maguta-inĩ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ũcũrũ mwega"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "wa ngano"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ũkaathondeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:21:27.263935224Z",
+  "model": "glm-5.3"
+}

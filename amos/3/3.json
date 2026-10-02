@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ciagĩa hamwe ũrĩa igĩrĩ, angĩkoruo matĩmahotanĩte?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Ciagĩa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ũrĩa igĩrĩ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "angĩkoruo ti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "mahotanĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T02:25:30.450893181Z",
+  "model": "glm-5.3"
+}

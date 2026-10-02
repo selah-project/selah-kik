@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ondũtha na ũigu nĩadũthaga ne getũrĩ; na mũndũ ũrĩa ũmenyeithagia njĩra ciake, ũhoro wake nĩũmenekaga.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ondũtha"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "na ũigu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "nĩadũthaga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ne getũrĩ"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "na mũndũ ũrĩa ũmenyeithagia"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njĩra ciake"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nĩũmenekaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:49:03.491025066Z",
+  "model": "glm-5.3"
+}

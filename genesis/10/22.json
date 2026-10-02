@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Aana a Cemu: Eiramu, na Acuri, na Arupakicadi, na Rudi, na Aramu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Aana a"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cemu"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eiramu"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "na Acuri"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "na Arupakicadi"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "na Rudi"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "na Aramu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:42.892458976Z",
+  "model": "glm-5.3"
+}

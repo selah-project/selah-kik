@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Mahua-inĩ kĩmerera na gĩthiĩ; ũgima-inĩ gĩkagethio na gĩkũma.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Mahua-inĩ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "kĩmerera"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "na gĩthiĩ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ũgima-inĩ"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "gĩkagethio"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "na gĩkũma"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:50.625591224Z",
+  "model": "glm-5.3"
+}

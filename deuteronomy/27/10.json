@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Ũmũthĩ ũyũ nyumĩra mũgambo wa Yahwe Erohimu waku, ũkarute ⟨את⟩ mawatho make na ⟨את⟩ mĩtugo yake, iria ngĩ nakuamũrĩra ũmũthĩ.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "nyumĩra"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ũkarute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho make"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mawatho make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtugo yake"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "mĩtugo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngĩ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakuamũrĩra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:29.745411948Z",
+  "model": "glm-5.3"
+}

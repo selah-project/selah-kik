@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Athĩngũci a Amoni makĩhurũnga mũthingu kuuma kũrĩ we, makĩrĩa ⟨את⟩ mwathi-inĩ nyũmba yake mũthemba-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "makĩhurũnga mũthingu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "athĩngũci a"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuuma kũrĩ we"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "makĩrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nyũmba yake mũthemba-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:20:25.396123694Z",
+  "model": "glm-5.3"
+}

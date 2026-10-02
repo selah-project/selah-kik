@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 12:3",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mũkũrũ nĩ Ahiyezeri, na Yoaci, ari a mama Cemaya wa Gibea; na Yizieri na Pereti, ari a mama Azimaveti; na Beraka na Yehu wa Anatoti.",
+  "tokens": [
+    {
+      "surface": "הראש",
+      "gloss": "mũkũrũ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ahiyezeri"
+    },
+    {
+      "surface": "ויואש",
+      "gloss": "Yoaci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari a mama"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "Cemaya"
+    },
+    {
+      "surface": "הגבעתי",
+      "gloss": "wa Gibea"
+    },
+    {
+      "surface": "ויזואל",
+      "gloss": "Yizieri"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "Pereti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari a mama"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azimaveti"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "Beraka"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "wa Anatoti"
+    }
+  ],
+  "timestamp": "2026-10-02T05:27:35.033299519Z",
+  "model": "glm-5.3"
+}

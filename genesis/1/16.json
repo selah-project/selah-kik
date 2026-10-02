@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu nĩathondekire ⟨את⟩ matũtheri merĩ mahĩtũkĩte ma nene — ⟨את⟩ mũtheri mũnene ũthamakĩre ⟨the⟩ mũthenya, na ⟨את⟩ mũtheri mũnini ũthamakĩre ⟨the⟩ gĩkũrũro — na ⟨את⟩ nyenyinyi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩathondekire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matũtheri merĩ manene"
+    },
+    {
+      "surface": "שני",
+      "gloss": "merĩ"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "matũtheri"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "manene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtheri mũnene"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "mũtheri"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ũthamakĩre"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũtheri mũnini"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "mũtheri"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mũnini"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ũthamakĩre"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gĩkũrũro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyenyinyi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "nyenyinyi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:17.173968237Z",
+  "model": "glm-5.3"
+}

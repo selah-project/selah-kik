@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Kĩhĩnjĩ gĩa Acafi. Netaga Erohimu nĩwe mwega kwa Yiceraeri, arĩa mario mahĩũ theru.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩhĩnjĩ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "gĩa Acafi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "netaga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yiceraeri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "arĩa mario"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mahĩũ theru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:52.810338851Z",
+  "model": "glm-5.3"
+}

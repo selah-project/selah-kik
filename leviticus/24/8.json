@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Mũthenya wa Cabati, mũthenya wa Cabati, ndĩkaamĩrĩirie mbere ya Yahwe mĩthenya yothe, kuuma ⟨את⟩ aana a Yiceraeri, nĩ kĩrĩkanĩro kĩa tene na tene.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ndĩkaamĩrĩirie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mĩthenya yothe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩",
+      "marks": "aana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-01T21:45:59.605104416Z",
+  "model": "glm-5.3"
+}

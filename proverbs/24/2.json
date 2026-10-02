@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩgũkorwo ngoro yao ĩhagĩrĩra ũwang'ombe, na mĩromo yao yarũmagia ũrũaĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ũwang'ombe"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ĩhagĩrĩra"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ngoro yao"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "na ũrũaĩ"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "mĩromo yao"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "yarũmagia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:58:39.742420083Z",
+  "model": "glm-5.3"
+}

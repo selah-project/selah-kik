@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Ahitubu arathire ⟨את⟩ Cadoki, na Cadoki arathire ⟨את⟩ Carumu.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "na Ahitubu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "arathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoki"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoki"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "na Cadoki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "arathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Carumu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Carumu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:47.045806827Z",
+  "model": "glm-5.3"
+}

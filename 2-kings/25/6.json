@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩmakamũhĩa ⟨את⟩ mũthamaki, namũtwĩra ⟨את⟩ akĩrĩra kũrĩ mũthamaki wa Baberu, Ribirata, nakĩario ⟨את⟩ ciira nawe.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "nĩmakamũhĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "namũtwĩra akĩrĩra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baberu"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribirata"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "nakĩario"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:18.325233015Z",
+  "model": "glm-5.3"
+}

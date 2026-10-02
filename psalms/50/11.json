@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Nĩmenya njugũa ciothe cia milima, na kĩndũ gĩothe gĩihetaga mĩgũnda-inĩ nĩkĩrĩ hamwe nakwa.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "nĩmenya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "njugũa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "cia milima"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "na kĩndũ gĩothe gĩihetaga"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mĩgũnda-inĩ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nĩkĩrĩ hamwe nakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:46.043072283Z",
+  "model": "glm-5.3"
+}

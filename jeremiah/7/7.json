@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "nĩngĩmũikariza thĩinĩ wa kũndũ kũu, thĩ ĩrĩa nĩndĩhe mĩcamathi yanyu, kuuma tene na tene ginya tene na tene.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "nĩngĩmũikariza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ĩnywe",
+      "marks": "ĩnywe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "thĩinĩ wa kũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩhe"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "mĩcamathi yanyu"
+    },
+    {
+      "surface": "למן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T01:04:03.205440240Z",
+  "model": "glm-5.3"
+}

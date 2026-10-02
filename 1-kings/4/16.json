@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Baana mũana wa Huci, arĩ Aceri na Bearoti.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũana"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "wa Huci"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "arĩ Aceri"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "na Bearoti"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:22.236201073Z",
+  "model": "glm-5.3"
+}

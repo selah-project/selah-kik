@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩgũkorwo nĩmanamenetie ⟨את⟩ ruaki wakwa wake, nawe akĩreta maũndũ matarengerithĩtie na mileno make.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "nĩmanamenetie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaki wakwa wake"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaki wakwa wake"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "akĩreta maũndũ matarengerithĩtie"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "na mileno make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:38.063870100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na nĩakĩre ⟨את⟩ kĩambĩrĩria kĩa minyuru; ĩgatanja rĩake rĩa mirongo ĩtano, na mũrũmbiro wake ũrĩa mĩanya ĩtatũ; na kĩambĩrĩria kĩngĩ kĩarĩ mbere yacio, na minyuru na rũhĩa rĩarĩ mbere yacio.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩambĩrĩria kĩa minyuru"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "kĩambĩrĩria"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kĩa minyuru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩakĩre"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo ĩtano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ĩgatanja rĩake"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mĩanya ĩtatũ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "mũrũmbiro wake"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "na kĩambĩrĩria kĩngĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mbere yacio"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "na minyuru"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "na rũhĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩarĩ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mbere yacio"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:30.370123374Z",
+  "model": "glm-5.3"
+}

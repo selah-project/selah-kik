@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ndũkĩiyũrwo nĩgũthiĩ kuma kĩenoinĩ kĩake; ndũkĩikara ciĩra mũoru-inĩ; nĩgũkorwo o kĩndũ kĩrĩa kĩendete nĩagakĩra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ndũ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "kĩiyũrwo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kĩenoinĩ kĩake"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "nĩgũthiĩ kuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "kĩikara"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ciĩra-inĩ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mũoru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kĩendete"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nĩagakĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:44.835796005Z",
+  "model": "glm-5.3"
+}

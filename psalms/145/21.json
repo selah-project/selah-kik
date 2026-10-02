@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Kĩhĩtio kĩa Yahwe kĩrĩa kĩanjuata nĩgeetha kĩaugage, na magego macethe magethomothe Rĩĩtwa rĩake rĩa ũtheru hĩndĩ ciothe na kuona tene.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "kĩhĩtio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "gĩaugage"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kĩanjuata"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "na magethomothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "macethe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "magego"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Rĩĩtwa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rĩake rĩa ũtheru"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kuona tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:12.342927400Z",
+  "model": "glm-5.3"
+}

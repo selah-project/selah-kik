@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Nĩgũkorwo Yahwe nĩgeetha ahoora andũ ake, na wathĩ-inĩ wa arĩa athĩiniĩ wake akĩñanihĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "nĩgeetha ahoora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na wathĩ-inĩ wa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "arĩa athĩiniĩ wake"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "akĩñanihĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:41.286648091Z",
+  "model": "glm-5.3"
+}

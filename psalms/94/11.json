@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Yahwe nĩamenya mĩcirie ya mũndũ, atĩ nĩ mahĩa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nĩamenya"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mĩcirie"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya mũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mahĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.447171385Z",
+  "model": "glm-5.3"
+}

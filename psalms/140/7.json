@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Ndĩoigire kwa Yahwe: Ere wanjũ nĩwe ũrĩ; Yahwe, ũgũthĩ gũthĩ nĩguo ũigue mũgambo wa mahoya makwa.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ndĩoigire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ere wanjũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe ũrĩ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ũgũthĩ gũthĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "wa mahoya makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:01.785802961Z",
+  "model": "glm-5.3"
+}

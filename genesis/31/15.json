@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Kana nĩtũkuonekaga kũrĩ wake andũ arĩa matarĩ a nyũmba? nĩgũkorwo waturetie; na erĩndaarya o theoya ⟨את⟩ mbeca ciaitu.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "kana nĩ"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "andũ arĩa matarĩ a nyũmba"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "tũkuonekaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "waturetie"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "erĩndaarya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "theoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeca ciaitu"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "mbeca ciaitu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:33.992128080Z",
+  "model": "glm-5.3"
+}

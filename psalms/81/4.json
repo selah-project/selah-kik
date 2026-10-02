@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Hũrũkai cophari mweri mwerũ-inĩ, mweri mũrũnjirũ-inĩ, kwa mũthenya witũ wa ira.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Hũrũkai"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mweri mwerũ-inĩ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "cophari"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "mweri mũrũnjirũ-inĩ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kwa mũthenya witũ wa"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:23.560653709Z",
+  "model": "glm-5.3"
+}

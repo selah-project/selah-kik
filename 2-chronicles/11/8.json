@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Kũndũ kwao ⟨את⟩ Gati, na ⟨את⟩ Mareca, na ⟨את⟩ Ziyifu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mareca"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ziyifu"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziyifu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:45:13.638956423Z",
+  "model": "glm-5.3"
+}

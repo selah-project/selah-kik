@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩrĩo Yahwe agĩkuura na Moce, akiuga: Ũthiĩ, ũthiĩ na hinya thĩ; nĩgũkira andũ ako, arĩa wokire kuuma thĩ ya Micirayimu, nĩmahĩtie.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "agĩkuura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ũthiĩ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ũthiĩ thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkira"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "nĩmahĩtie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "wokire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:35.079620130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 100,
+  "translation": "Ũtungatĩre ⟨את⟩ Yahwe na thaaka mũno; ithĩkĩrĩre mbere ya mbere yake na kĩĩgaĩ kĩa kwĩhenda.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Ũtungatĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na thaaka mũno"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ithĩkĩrĩre"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere ya mbere yake"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "na kĩĩgaĩ kĩa kwĩhenda"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:14.385625037Z",
+  "model": "glm-5.3"
+}

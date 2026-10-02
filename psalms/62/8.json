@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Erohimu-inĩ noguo ũhokeni wakwa na igooti yakwa; ibere rĩa hinya wakwa, hĩra yakwa nĩrĩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-inĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ũhokeni wakwa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "na igooti yakwa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ibere"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "rĩa hinya wakwa"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "hĩra yakwa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nĩrĩ Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:25.283986800Z",
+  "model": "glm-5.3"
+}

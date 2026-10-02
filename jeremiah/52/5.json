@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Nĩgũo mũciĩ ũkahinywirio mũthenyo-inĩ, kinya mwaka wa ikũmi na ũmwe wa mwathi Cadakiahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ũkahinywirio"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mũthenyo-inĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka wa ũmwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa mwathi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cadakiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:46:35.020025510Z",
+  "model": "glm-5.3"
+}

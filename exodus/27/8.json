@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Ũrĩa warĩ mũhingo thĩinĩ, ũkaore na matwĩma; o ũrĩa wa kuonĩtwo thĩinĩ wa kirima, nĩ ũguo mage kũore.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "mũhingo thĩinĩ"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "na matwĩma"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ũkaore"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wĩyenie (mwaki)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "wa kuonĩtwo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wewe (Moce)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thĩinĩ wa kirima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩ ũguo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "mage kũore"
+    }
+  ],
+  "timestamp": "2026-10-02T06:13:21.135116647Z",
+  "model": "glm-5.3"
+}

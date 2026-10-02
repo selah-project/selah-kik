@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Akĩhũrĩra ⟨את⟩ macukuhĩ matano gwĩko, na ⟨את⟩ macukuhĩ ithandatũ gwĩko.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "akĩhũrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macukuhĩ matano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "macukuhĩ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "gwĩko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "macukuhĩ ithandatũ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ithandatũ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "macukuhĩ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "gwĩko"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:23.160799235Z",
+  "model": "glm-5.3"
+}

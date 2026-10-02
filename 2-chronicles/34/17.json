@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Na macokire kũhĩa ⟨את⟩ ceni iria yathĩtwo thĩinĩ wa nyũmba ya Yahwe, na mahithie kũhe moko-inĩ ma arĩa meerũmĩrirwo, na moko-inĩ ma arĩa mahota marĩa mahota.",
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "macokire kũhĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceni iria yathĩtwo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ceni"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "iria yathĩtwo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thĩinĩ wa nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "mahithie kũhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "moko-inĩ ma"
+    },
+    {
+      "surface": "יד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "arĩa meerũmĩrirwo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na moko-inĩ ma"
+    },
+    {
+      "surface": "יד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "arĩa mahota"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "marĩa mahota"
+    }
+  ],
+  "timestamp": "2026-10-02T06:04:42.352871362Z",
+  "model": "glm-5.3"
+}

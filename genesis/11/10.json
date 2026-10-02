@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Maya nĩ mĩciĩ ya Cemu: Cemu aarĩ mwana wa mĩaka mĩrongo ĩrĩ kana mĩngĩ, akamenya ⟨את⟩ Arupakacadi, mĩaka ĩrĩ thutha wa mĩbuũro.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Maya"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mĩciĩ ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mĩrongo ĩrĩ kana mĩngĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arupakacadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arupakacadi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "mĩaka ĩrĩ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "mĩbuũro"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:08.058142540Z",
+  "model": "glm-5.3"
+}

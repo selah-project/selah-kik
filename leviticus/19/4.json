@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Mũtikũhoota kũrĩ ngai cia mahũthagĩro, na ngai cia cithabũra mũtikĩcire thĩinĩ wanyu; nĩ ndĩ Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mũti"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "kũhoota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "ngai cia mahũthagĩro"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "cia cithabũra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mũti"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kĩcire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "thĩinĩ wanyu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ ndĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:41.324359351Z",
+  "model": "glm-5.3"
+}

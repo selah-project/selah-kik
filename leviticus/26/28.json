@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "nĩngĩthiĩ hamwe nĩnyui na iriũ ya kĩng'ania, na nĩngĩcooma ⟨את⟩ inyui, ndĩ mweenagĩ, mũgwanja ithaa thutha wa mahĩtia manyu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "nĩngĩthiĩ hamwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nĩnyui"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "na iriũ ya"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "kĩng'ania"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "nĩngĩcooma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyui"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ mweenagĩ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja ithaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mahĩtia manyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:31.268385377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Rora, nĩndĩrigĩcire ⟨את⟩ inywi mawatho na ciira, ta ũrĩa Yahwe Erohimu wakwa antĩĩte, nĩgeetha mũkore ũguo thĩinĩ wa thĩ ĩrĩa mũhiũ kũu gũrĩa yayo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Rora"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "nĩndĩrigĩcire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi",
+      "marks": "mawatho"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "mawatho"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "na ciira"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "antĩĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũkora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inywi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "mũhiũ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "gũrĩa yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:19:32.458491091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Mũndũ mũthũ ti amenaga ũguo, na mwoyo mwerũ ti acooka kĩmenyo kĩa ⟨את⟩ ũũ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mũthũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amenaga"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "na mwoyo mwerũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "acooka kĩmenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũũ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:49.854267382Z",
+  "model": "glm-5.3"
+}

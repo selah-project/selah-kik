@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na Ahoribama aracire ⟨את⟩ Yeyici, na ⟨את⟩ Yearamu, na ⟨את⟩ Corachi; ici nĩ ciana cia Ecau, arĩa aciarĩtwo ithũĩrĩ thĩ-inĩ ya Kenani.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Na Ahoribama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "aracire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeyici"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeyici"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yearamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yearamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Corachi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Corachi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ecau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "aciarĩtwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ithũĩrĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:22.705709764Z",
+  "model": "glm-5.3"
+}

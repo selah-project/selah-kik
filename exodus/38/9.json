@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na akĩtua ⟨את⟩ kĩanja, harĩ kĩhingo kĩa cagũrũru, rũngĩrĩ kĩtheri; mathee ga kĩanja nĩ ma ceci maciaranĩte, mĩrongo ikũmi ciiko.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩanja"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "harĩ kĩhingo kĩa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "cagũrũru"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "rũngĩrĩ kĩtheri"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mathee ga"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "maciaranĩte"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mĩrongo ikũmi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ciiko"
+    }
+  ],
+  "timestamp": "2026-10-02T06:13:40.672580195Z",
+  "model": "glm-5.3"
+}

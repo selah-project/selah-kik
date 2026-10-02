@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩngĩtuĩka ta mũndũ ũrĩa ti ũhĩa, na mũthemba ũcio ti koorũo maũndũ ma kũrĩithia thĩinĩ wa kanua gake.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nĩngĩtuĩka"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ta mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ũhĩa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ti koorũo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "thĩinĩ wa kanua gake"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "maũndũ ma kũrĩithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:00.377881295Z",
+  "model": "glm-5.3"
+}

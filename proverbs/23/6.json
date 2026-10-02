@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ndũrĩrire ⟨את⟩ cianja cia mũndũ mũrũ-ithenya, na ndũkenda ibumba rĩake rĩa kũrora",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ndũrĩrire"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "rĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cianja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cianja"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ithenya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndũkenda"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kenda"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ibumba rĩake rĩa kũrora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:57:25.434334114Z",
+  "model": "glm-5.3"
+}

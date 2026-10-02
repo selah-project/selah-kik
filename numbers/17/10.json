@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Rĩrĩa-ini, tuarũoke kuuma gatĩgatĩ ka mũciĩ ũyũ wa andũ, nĩngũmacokia ⟨את⟩ macio o na igũrũ rĩmwe. Nĩmagũikara mage thĩ mata.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Rĩrĩa-ini"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kuuma gatĩgatĩ ka"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũciĩ ũyũ wa andũ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "nĩngũmacokia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio (andũ arĩa a mũciĩ ũcio)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "o na igũrũ rĩmwe"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "nĩmagũikara mage"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-10-01T22:02:18.512711699Z",
+  "model": "glm-5.3"
+}

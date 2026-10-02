@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Selomo endete ⟨את⟩ Yahwe, agĩcokerera mwĩhoko wa Dawidi ithe; no thĩinĩ wa matukũ ma hĩndĩ ĩyo tu ndakwaragĩra aratumĩrĩra thaû kwarĩa.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "endete"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "agĩcokerera"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "mwĩhoko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "no...tu"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "thĩinĩ wa matukũ ma hĩndĩ ĩyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ndakwaragĩra"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "aratumĩrĩra thaû"
+    }
+  ],
+  "timestamp": "2026-10-01T23:48:44.702442325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Magongona macyo nĩ makũmi mairĩ, na mataro macyo nĩ makũmi mairĩ, nĩ cuma; na minyori ya magongona na mararia macyo nĩ rengerũ.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "magongona macyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi mairĩ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na mataro macyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi mairĩ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cuma"
+    },
+    {
+      "surface": "וזי",
+      "gloss": "na minyori ya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "magongona"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "na mararia macyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rengerũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:13:40.672828850Z",
+  "model": "glm-5.3"
+}

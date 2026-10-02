@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 25:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩagũciĩkire Ceori na tene na tene, na Adonai Yahwe nĩagũciũra metha kuuma ĩhuto othe, na maũndũ ma gũthenya andũ ayũ nĩagũkĩruta kuuma thĩ yothe, nĩgũkorwa Yahwe nĩaarĩkire.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "nĩagũciĩkire"
+    },
+    {
+      "surface": "המות",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na tene na tene"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "na nĩagũciũra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "metha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ĩhuto"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "na maũndũ ma gũthenya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ayũ"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "nĩagũkĩruta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nĩaarĩkire"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:58.996280757Z",
+  "model": "glm-5.3"
+}

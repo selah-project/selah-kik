@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Yahwe nĩmeheanĩre ⟨את⟩ kũringana na cedeki yakwa; kũringana na gĩtheru kĩa mikono yakwa nĩacookerithia ĩkwa.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "nĩmeheanĩre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "kũringana na cedeki yakwa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kũringana na gĩtheru kĩa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono yakwa"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "nĩacookerithia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩkwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:26.084020354Z",
+  "model": "glm-5.3"
+}

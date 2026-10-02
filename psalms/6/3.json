@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩrĩrora ne, Yahwe, nĩndĩrarũara; ũrondrore ne, Yahwe, nĩ mahĩũ makwa mĩnĩ kũtĩmũkwo nĩ kĩeha.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "nĩrĩrora ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ndĩrarũara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩĩ"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ũrondrore ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "mĩnĩ kũtĩmũkwo nĩ kĩeha"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mahĩũ makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:01.918994328Z",
+  "model": "glm-5.3"
+}

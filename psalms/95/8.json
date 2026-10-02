@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 95,
+  "translation": "Mũtigwo gũtĩa ngoro cianyuĩ na thĩinĩ wa Meriba, na ta mũthenya wa Maca, thĩinĩ wa gĩthaka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mũtigwo"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "gũtĩa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ngoro cianyuĩ"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "na thĩinĩ wa Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "na ta mũthenya"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "wa Maca"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩinĩ wa gĩthaka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:11.296118892Z",
+  "model": "glm-5.3"
+}

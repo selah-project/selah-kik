@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Hicikiyahu agĩtũra kĩongo giake agĩcokerera ⟨את⟩ harĩ gĩkwa, na agĩthaitha Yahwe, na agĩuga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "agĩtũra kĩongo giake agĩcokerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩongo giake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kĩongo giake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "gĩkwa"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "agĩthaitha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na agĩuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:35:40.254442804Z",
+  "model": "glm-5.3"
+}

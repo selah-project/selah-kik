@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Magĩthiĩ Cukoti, makĩhĩa Euthamu, mũthingu-inĩ wa nyambũra.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Magĩthiĩ"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Cukoti"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "makĩhĩa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Euthamu"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "mũthingu-inĩ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "wa nyambũra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:28.897462083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na mocii oyo na oyo wa Yucuda nĩekire mariga ma gũcecesa ngai ingĩ, nĩmothĩnire ⟨את⟩ Yahwe, Erohimu wa acaari make.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Na mocii oyo na oyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mocii oyo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "na oyo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "wa Yucuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩekire"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mariga"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "ma gũcecesa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "nĩmothĩnire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "acaari make"
+    }
+  ],
+  "timestamp": "2026-10-02T05:57:07.676101227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Akahana ⟨את⟩ efodi ya zahabu, bűuru, purukwa, na thũ mũtene, na rwaaro rwa kũcoora.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Akahana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bűuru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "purukwa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mũtene"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na rwaaro"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "rwa kũcoora"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:53.887858913Z",
+  "model": "glm-5.3"
+}

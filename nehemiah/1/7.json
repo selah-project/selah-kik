@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩtwarĩhootanie mũno nakĩwe, na hatirĩ twagĩtikire ⟨את⟩ miwatho, na ⟨את⟩ mĩcamirie, na ⟨את⟩ mĩamĩrĩre arĩa wathĩtire ⟨את⟩ Moce mũtumĩrĩru waku.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "ũũru mũno"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "nĩtwarĩhootanie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nakĩwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na hatirĩ"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "twagĩtikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miwatho"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "miwatho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcamirie"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mĩcamirie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩamĩrĩre"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mĩamĩrĩre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wathĩtire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumĩrĩru waku"
+    }
+  ],
+  "timestamp": "2026-10-02T05:11:07.444482330Z",
+  "model": "glm-5.3"
+}

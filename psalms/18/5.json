@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Mĩkwanĩ ya thee nĩĩnandĩrĩrire, na mĩrũra ya andũ arũ nĩnĩrũmĩrwo irĩro.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "nĩĩnandĩrĩrire"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "mĩkwanĩ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ya thee"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "na mĩrũra"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ya andũ arũ"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "nĩnĩrũmĩrwo irĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:59.019473409Z",
+  "model": "glm-5.3"
+}

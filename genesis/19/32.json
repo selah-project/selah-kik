@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ũkai, tũmũnywee ⟨את⟩ ithe witũ waini, tũrĩkare naye, nĩgo tũhotane na ithe witũ mũcuru.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Ũkai"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "tũmũnywee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe witũ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ithe witũ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "tũrĩkare"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "nĩgo tũhotane"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "na ithe witũ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mũcuru"
+    }
+  ],
+  "timestamp": "2026-10-01T20:38:26.741562941Z",
+  "model": "glm-5.3"
+}

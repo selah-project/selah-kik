@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩgũkoruo Yahwe ũthĩnjiaga thithigane cia iti, nĩekwirikiria ⟨את⟩ macio; ndangĩrerwo kĩhũra kĩa arĩa mĩeha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ũthĩnjiaga"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "thithigane cia iti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nĩekwirikiria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "kũyega"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kĩhũra"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "arĩa mĩeha"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:00.975411787Z",
+  "model": "glm-5.3"
+}

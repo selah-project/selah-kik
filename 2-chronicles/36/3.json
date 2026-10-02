@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na mwathi wa Micirayimu amatũkĩirie Yerucarayimu-inĩ, na amarute ⟨את⟩ thĩ cikari mia cia cerefu na cikari ĩmwe ya zahabu.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "amatũkĩirie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "amarute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "cikari"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ciahũ"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "na cikari ĩmwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:05:43.929522323Z",
+  "model": "glm-5.3"
+}

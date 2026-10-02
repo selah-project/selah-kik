@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Erohimu nĩamũmenyeka Yahuda-inĩ; rĩĩtwa rĩake nĩ nene Yiceraeri-inĩ.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "nĩamũmenyeka"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuda-inĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yiceraeri-inĩ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nĩ nene"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:35.961841940Z",
+  "model": "glm-5.3"
+}

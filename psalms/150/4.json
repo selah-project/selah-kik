@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 150,
+  "translation": "Himbĩrĩni ũrĩa na tofo na kũina; himbĩrĩni ũrĩa na minini na 'ugaba.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Himbĩrĩni ũrĩa"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "na tofo"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "na kũina"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "himbĩrĩni ũrĩa"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "na minini"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "na 'ugaba"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:08.310017591Z",
+  "model": "glm-5.3"
+}

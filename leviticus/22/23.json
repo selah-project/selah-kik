@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "No ng'ombe kana ng'ondu ĩrĩa ĩna gĩcunjĩ kĩengeretwo kana kĩeha — ũndũ ũcio mũgĩe ta kĩheo kĩa kĩooya ⟨את⟩ kĩu; no kiro ti gĩtekwo.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "No ng'ombe"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "kana ng'ondu"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ĩna gĩcunjĩ kĩengeretwo"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "kana kĩeha"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kĩheo kĩa kĩooya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mũgĩe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo kĩu"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "no kiro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "gĩtekwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:17.874230554Z",
+  "model": "glm-5.3"
+}

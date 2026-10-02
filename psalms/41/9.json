@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Kiugo kĩa Beriyara gĩkahumbwo igũrũ rĩake, na ũrĩa agĩthĩnakĩra ndangĩongerera kũimũra.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beriyara"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "gĩkahumbwo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ũrĩa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "agĩthĩnakĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "angĩongerera"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kũimũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:38.065572257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Arĩa me rĩa nyama ya andũ akwa, na rwao ruone kuuma igũrũ rwao magethoma, na ⟨את⟩ magũrũ mao magũcangithia, na mateiganithia ta gĩtĩmbĩ-inĩ, na ta nyama thĩinĩ wa gĩcaũ.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "me rĩa"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya andũ akwa"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "na rwao"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kuuma igũrũ rwao"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "magethoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magũrũ mao"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "magũrũ mao"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "magũcangithia"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "na mateiganithia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "gĩtĩmbĩ-inĩ"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "na ta nyama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "gĩcaũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:32:50.146663233Z",
+  "model": "glm-5.3"
+}

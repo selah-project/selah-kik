@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Na ⟨את⟩ Biniyaminu, mũrũ wa nyina wa Yocefu, Yaakobu ndendereria hamwe na ake arĩa a nyina; nĩgũkoora nĩ oigire atĩ: Ti kũoneke kĩndũ kĩoru kĩmũkora.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Biniyaminu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Biniyaminu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mũrũ wa nyina wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ndereria kũthii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa nyina ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arĩa nyina ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoora"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ti kũoneke"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "kĩmũkora"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "kĩndũ kĩoru"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:14.402857113Z",
+  "model": "glm-5.3"
+}

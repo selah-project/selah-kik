@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Ndakahũa na ndagwatithia, gĩtĩ atũũrĩtie ciira thĩ; na Tora yake ciĩrwa-inĩ andũ nĩ maetereraga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "kuhũa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "kuwatithia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩtĩ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "atũũrĩtie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "na Tora yake"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ciĩrwa"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "nĩ maetereraga"
+    }
+  ],
+  "timestamp": "2026-10-02T00:46:44.970528069Z",
+  "model": "glm-5.3"
+}

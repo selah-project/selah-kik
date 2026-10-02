@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Arĩa maataranĩtio, harĩ ⟨the⟩ mũciĩ wa Gadi, nĩ ngiri mĩrongo inya na ithano, na igana ithathatu na mĩrongo ithano.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "arĩa maataranĩtio"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "harĩ mũciĩ wa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na mĩrongo inya"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ithathatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mĩrongo ithano"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:38.343146322Z",
+  "model": "glm-5.3"
+}

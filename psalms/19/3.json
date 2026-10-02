@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Mũthenya kũmũthenya nĩogaga kĩugo, na ũgũkũ kũũgũkũ nĩonanithia ũmenyi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Mũthenya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kũmũthenya"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "nĩogaga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kĩugo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na ũgũkũ"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "kũũgũkũ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "nĩonanithia"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ũmenyi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:47.346992724Z",
+  "model": "glm-5.3"
+}

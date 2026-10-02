@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Magĩkĩa kũgera kũigua Yahwe gĩkũro-inĩ mabanyũ, kuuma thĩnjwa mabanyũ akĩmũhũmũira.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "magĩkĩa kũgera kũigua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "gĩkũro-inĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mabanyũ"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "kuuma thĩnjwa mabanyũ"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "akĩmũhũmũira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:59.774027033Z",
+  "model": "glm-5.3"
+}

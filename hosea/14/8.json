@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Arĩa matuurĩte thĩinĩ wa kĩgũ kayake marĩkũgũka; makoragwo na mcere, makĩambũra ta muyũ; ũũgĩ wakwo nĩ ta uũcu wa Lebanoni.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "marĩkũgũka"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa matuurĩte"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "thĩinĩ wa kĩgũ kayake"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "makoragwo na"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "mcere"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "makĩambũra"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "ta muyũ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ũũgĩ wakwo"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "ta uũcu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "wa Lebanoni"
+    }
+  ],
+  "timestamp": "2026-10-02T02:20:21.982906855Z",
+  "model": "glm-5.3"
+}

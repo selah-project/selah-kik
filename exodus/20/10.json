@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na mũthenya wa gĩkũmĩrĩra nĩ Cabati ya Yahwe Erohimu waku; ndũkahote kũngia wira o na ũmwe — wewe, mũrũ waku na mũiritu waku, mũtwiki waku na mũtikania waku, nyamũ ciaku na mũtheri waku ũrĩa ũkarĩ harĩa milango yaku.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "na mũthenya wa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "gĩkũmĩrĩra"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kahote kũngia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o na ũmwe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "wira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "mũrũ waku"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "mũiritu waku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtwiki waku"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mũtikania waku"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "nyamũ ciaku"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "mũtheri waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ũkarĩ harĩa milango yaku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:37.413717549Z",
+  "model": "glm-5.3"
+}

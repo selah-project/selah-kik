@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu akiuga: Mũtherũ wahote; ndipo mũtherũ wohoteka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na Erohimu akiuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "wahote"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mũtherũ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndipo wohoteka"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mũtherũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:43.972039332Z",
+  "model": "glm-5.3"
+}

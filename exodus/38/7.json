@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na akĩnya ⟨את⟩ ibarĩ thĩinĩ wa ndemwa, thĩinĩ wa mboco cia mwĩrĩ-gũcuhia, gukomerithia ⟨את⟩ ione na izo; akarĩa ũĩgĩrĩ wa ciroba, ⟨את⟩ wothe warĩ mweremo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibarĩ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ibarĩ"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "thĩinĩ wa ndemwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cia mwĩrĩ-gũcuhia"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "gukomerithia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ione"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na izo"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "mweremo"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ciroba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akarĩa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wothe warĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:04.293909489Z",
+  "model": "glm-5.3"
+}

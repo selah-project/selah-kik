@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "nĩmahararanaitie mbaara na ⟨את⟩ Bere mwathi wa Cedimu, na ⟨את⟩ Birecia mwathi wa Omoraha, Cinabi mwathi wa Adama, na Cemeaberi mwathi wa Ceboimi, na mwathi wa Bera, ũcio nĩ Coara.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "nĩmahararanaitie"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mbaara"
+    },
+    {
+      "surface": "את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bere"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Cedimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Birecia"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birecia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Omoraha"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Cinabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "na Cemeaberi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Ceboimi"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ũcio nĩ"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coara"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:33.543779856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Nĩngiri ĩmwe ya mĩaka marĩ-inĩ maku ⟨nĩ⟩ ta mũthenya wa hihi, rĩrĩa ũciara, na ta kĩroko kĩa mutĩarũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri ĩmwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "marĩ-inĩ maku"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ta mũthenya"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "wa hihi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ũciara"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "na kĩroko"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "kĩa mutĩarũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:21.291672202Z",
+  "model": "glm-5.3"
+}

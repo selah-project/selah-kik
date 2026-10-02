@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na arĩ wonje wonanĩte, nĩũkurũha muoyo thĩnyĩ wa muoyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na arĩ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "wonje"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ũgĩkorangwo"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "nĩũkurũha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "muoyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩnyĩ wa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "muoyo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:58.673823712Z",
+  "model": "glm-5.3"
+}

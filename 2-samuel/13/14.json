@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na ndakena kũigua mũgambo wakĩo; no thutha ũcio hinya wakĩo nĩwuonanĩtie kũarĩ nakĩo, akamũhĩngahĩnga, akĩgĩa irĩra na ⟨את⟩ iyendo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ndakena"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ndakena"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "mũgambo wakĩo"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "nĩwuonanĩtie hinya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kũarĩ nakĩo"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "akamũhĩngahĩnga"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akĩgĩa irĩra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyendo (Tamaru)"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:35.612799408Z",
+  "model": "glm-5.3"
+}

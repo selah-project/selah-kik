@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na nyinyi, gĩcarie na mĩrongo ĩngĩ mwĩre; mũnyitanĩirie aratarata-inĩ harĩa thĩ, na mũrongo mwĩre harĩa.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na nyinyi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "gĩcarie"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na mĩrongo ĩngĩ mwĩre"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "mũnyitanĩirie aratarata-inĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "harĩa thĩ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na mũrongo mwĩre"
+    },
+    {
+      "surface": "בה",
+      "gloss": "harĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:55.909889486Z",
+  "model": "glm-5.3"
+}

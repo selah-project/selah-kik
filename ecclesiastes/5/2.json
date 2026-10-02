@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩgũkorwo ndoto ĩgĩcoka na mũcingĩre wa mĩciĩ mĩingĩ, na mũgambo wa mũcara nĩwonagio na mĩcingĩre ya ciugo cĩngĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ĩgĩcoka"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na mũcingĩre wa"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "mĩciĩ mĩingĩ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na mũgambo wa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mũcara"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na mĩcingĩre ya"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ciugo cĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:05.452471634Z",
+  "model": "glm-5.3"
+}

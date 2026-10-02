@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 113,
+  "translation": "Gũcikĩra ⟨arĩ⟩ hamwe na andũ anene, hamwe na andũ anene a andũ arĩa ũrĩ.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "gũcikĩra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "andũ anene"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "andũ anene a"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ arĩa ũrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:47.806301142Z",
+  "model": "glm-5.3"
+}

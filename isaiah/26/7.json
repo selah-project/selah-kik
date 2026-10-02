@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ūrĩa wa mũthingu nĩ wa mwanya mwamba; We mũthingu, nĩũthagĩkĩrĩria ūrĩa wa mũthingu.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ūrĩa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "wa mũthingu"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "mwanya mwamba"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "We mũthingu"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ūrĩa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa mũthingu"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "nĩũthagĩkĩrĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T00:34:45.950218692Z",
+  "model": "glm-5.3"
+}

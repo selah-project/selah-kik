@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Yahwe akĩratha kwa Moce, kauga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩratha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kauga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:32:40.940232288Z",
+  "model": "glm-5.3"
+}

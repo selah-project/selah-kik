@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩ kĩguna kwandĩ atĩ nĩngĩhootwo, nĩgeetha nĩngĩthome mawatho maku.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kĩguna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "nĩngĩhootwo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "nĩngĩthome"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mawatho maku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:32.523147030Z",
+  "model": "glm-5.3"
+}

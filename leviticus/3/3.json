@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na nĩakwĩheera kuuma kĩrĩkanĩro kĩa theri kĩheo kĩa mwaki kĩa Yahwe: ⟨את⟩ mafuta marĩkũhĩrĩra ⟨את⟩ matumbĩ, na ⟨את⟩ mafuta mothe arĩa marĩ igũrũ rĩa matumbĩ.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "nĩakwĩheera"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kuuma kĩrĩkanĩro"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "kĩa theri"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kĩheo kĩa mwaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "marĩkũhĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matumbĩ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:51.427645150Z",
+  "model": "glm-5.3"
+}

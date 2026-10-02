@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mĩro-inĩ, rĩrĩro-inĩ rwakwa, ndacokete gũcaba ⟨את⟩ ũrĩa mũoyo wakwa enda; ndamũcaba, no ndindamũona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "handũ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "rĩrĩro-inĩ rwakwa"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "mĩro-inĩ"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ndacokete gũcaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa mũoyo wakwa enda"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ũrĩa mũoyo wakwa enda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "ndamũcaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ndindamũona"
+    }
+  ],
+  "timestamp": "2026-10-02T04:29:03.323384174Z",
+  "model": "glm-5.3"
+}

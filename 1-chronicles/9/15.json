@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Bakubakara, Hereci na Garara, na Matania mũrũ wa Mika, mũrũ wa Zikuri, mũrũ wa Acaphu.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "Na Bakubakara"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Hereci"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "na Garara"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "na Matania"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Acaphu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:26:07.618487693Z",
+  "model": "glm-5.3"
+}

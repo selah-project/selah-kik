@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩaratĩte Henoki mĩaka mũgwanja na ithano, na akĩsĩra ⟨את⟩ Metucelahi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nĩaratĩte"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Henoki"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mũgwanja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩsĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metucelahi"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metucelahi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:50.066164029Z",
+  "model": "glm-5.3"
+}

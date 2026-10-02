@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "⟨את⟩ matĩndĩ ma Micikani, na ⟨את⟩ matĩndĩ ma kĩamba, na ⟨את⟩ mĩtara cio",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matĩndĩ ma Micikani"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "matĩndĩ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ma Micikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matĩndĩ ma kĩamba"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "matĩndĩ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ma kĩamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtara cio"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "mĩtara cio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:19.281464465Z",
+  "model": "glm-5.3"
+}

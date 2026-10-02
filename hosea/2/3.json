@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũigte ndũmĩrĩri arĩa mamarũ ma nyũ: «Andũ-acũ»; na ndũmĩrĩri arĩa mairũ ma nyũ: «Arũmenio».",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "mũigte ndũmĩrĩri"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "arĩa mamarũ ma nyũ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "«Andũ-acũ»"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "arĩa mairũ ma nyũ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "«Arũmenio»"
+    }
+  ],
+  "timestamp": "2026-10-02T06:53:19.748493504Z",
+  "model": "glm-5.3"
+}

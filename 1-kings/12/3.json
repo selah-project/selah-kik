@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Magĩcuma magĩmũhĩrĩra; Yarobeamu na kĩhuruto kĩa Yiceraeri giothe magĩkũra, makĩaria na Rehabeamu, magĩuga:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "magĩcuma"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "magĩmũhĩrĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na giothe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kĩhuruto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kĩa Yiceraeri"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "makĩaria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "magĩuga"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:48.527769785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 11:17",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩmakeethererie ⟨את⟩ ũthamaki wa Yuda, na makeemutĩrĩra ⟨את⟩ Rihoboamu mwana wa Ceromo mĩaka ĩtatu; nĩgũkorwo maendete gũkĩra thĩra ya Dawidi na Ceromo mĩaka ĩtatu.",
+  "tokens": [
+    {
+      "surface": "ויחזקו",
+      "gloss": "makeethererie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthamaki wa Yuda"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויאמצו",
+      "gloss": "keemutĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rihoboamu"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rihoboamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ĩtatu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "maendete"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "gũkĩra thĩra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "na Ceromo"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ĩtatu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:46:43.815031015Z",
+  "model": "glm-5.3"
+}

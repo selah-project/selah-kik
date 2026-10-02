@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ici nĩ ciana cia Yicaki, mũrũ wa Abarahamu; Abarahamu nĩciarĩre ⟨את⟩ Yicaki.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ici"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩciarĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:17.457376436Z",
+  "model": "glm-5.3"
+}

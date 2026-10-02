@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Yahwe akĩhĩũra mbere ya thayũ make, na agĩita: Yahwe, Yahwe, Ere mũrũ wa thayũ na ng'ombo, mũhoreri wa kũmena, mũnini wa hecedi na wa ma.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "akĩhĩũra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "thayũ make"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "agĩita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "wa thayũ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "na wa ng'ombo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mũhoreri"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kũmena"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mũnini"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ma"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:49.404651856Z",
+  "model": "glm-5.3"
+}

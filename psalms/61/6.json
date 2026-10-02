@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 61,
+  "translation": "Nĩgũkũ ũciĩ Erohimu nĩwĩũĩte kĩrĩkanĩro gĩakwa; nĩũheire ũcamba ũrĩa warĩ arĩa megoyete rĩĩtwa rĩaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ũciĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nĩwĩũĩte"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "kĩrĩkanĩro gĩakwa"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "nĩũheire"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "ũcamba"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "arĩa megoyete"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:11.159095992Z",
+  "model": "glm-5.3"
+}

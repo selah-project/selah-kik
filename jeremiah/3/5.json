@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Kĩhotoro gĩtigĩkĩgĩtigĩraga kwa o mbere, kana kĩgĩikarĩra kinya ciao? Ũtuĩka, nĩwarĩrire o na nĩwakora maũndũ maothe, na nĩwanyitire hinya.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "kĩhotoro gĩtigĩkĩgĩtigĩraga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa o mbere"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "kĩgĩikarĩra"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kinya ciao"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ũtuĩka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nĩwarĩrire"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "nĩwakora"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "maũndũ maothe"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "nĩwanyitire hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T01:00:35.956607702Z",
+  "model": "glm-5.3"
+}

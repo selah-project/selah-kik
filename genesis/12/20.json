@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Parao aahĩtĩirie andũ ũhoro wa Abiramu, na makĩmũreka we na ⟨את⟩ mũtumia wake na ⟨את⟩ o kĩndũ kĩrĩa aarĩ nakĩo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "aahĩtĩirie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ũhoro wa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "makĩmũreka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũtumia wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "o kĩndũ kĩrĩa aarĩ nakĩo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aarĩ nakĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:42.552582176Z",
+  "model": "glm-5.3"
+}

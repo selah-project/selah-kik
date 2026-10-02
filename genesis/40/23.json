@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "No mwathi wa amĩre ndaakoretwo akĩrĩkĩrĩra ⟨את⟩ Yocifu, akĩmũiringithia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "no... ndaakoretwo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akĩrĩkĩrĩra"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa amĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yocifu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocifu"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "akĩmũiringithia"
+    }
+  ],
+  "timestamp": "2026-10-01T20:50:28.746482253Z",
+  "model": "glm-5.3"
+}

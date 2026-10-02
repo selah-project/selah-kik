@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩ ũndũ ũcio ciana cia Yiceraeri cikĩthiĩ na cikĩĩka o ta ũrĩa Yahwe ahotire ⟨את⟩ Moce na ⟨את⟩ Aharoni; nao magĩcooka maĩka ũguo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "cikĩthiĩ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "cikĩĩka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ahotire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maĩka"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:29.163859952Z",
+  "model": "glm-5.3"
+}

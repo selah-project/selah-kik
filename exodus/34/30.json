@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Aharoni hamwe na ciana ciothe cia Yiceraeri cionire ⟨את⟩ Moce, na thaĩ kĩgũtu kĩa mũthenyo wake nĩkĩareembera, na nĩmatĩnyire gũtigũcĩra kũmanĩ nakĩo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "cionire"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hamwe na o the"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na thaĩ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "nĩkĩareembera"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kĩgũtu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kĩa mũthenyo wake"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "nĩmatĩnyire"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "gũtigũcĩra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũmanĩ nakĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:06.485143616Z",
+  "model": "glm-5.3"
+}

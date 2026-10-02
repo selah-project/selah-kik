@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Rurimi rwa mũciana-rũa rũrahĩkĩte hakuhĩ na mũnoyo wake nĩ kũonja: ana araya marayahĩra irio, na gũtirĩ mũndũ ũrahĩa kũmacĩra.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "rũrahĩkĩte"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "rwa mũciana-rũa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "mũnoyo wake"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "nĩ kũonja"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ana araya"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "marayahĩra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ũrahĩa kũmacĩra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-10-02T04:36:10.391371130Z",
+  "model": "glm-5.3"
+}

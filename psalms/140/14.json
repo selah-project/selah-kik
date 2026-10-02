@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Ĩtĩanya, arĩa a cedeki nĩgũhota ngatho Rĩĩtwa rwaku; arĩa me thonyanĩrio-inĩ nĩgekara mbere ya ⟨את⟩ thĩinĩ waku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ĩtĩanya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa a cedeki"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "nĩgũhota ngatho"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Rĩĩtwa rwaku"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nĩgekara"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "arĩa me thonyanĩrio-inĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩinĩ waku (ĩhoto rĩaku)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thĩinĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:40.640005627Z",
+  "model": "glm-5.3"
+}

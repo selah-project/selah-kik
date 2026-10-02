@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Kedemothi na ⟨את⟩ mĩgũnda yake, na ⟨את⟩ Mephiathi na ⟨את⟩ mĩgũnda yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kedemothi"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũnda yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mĩgũnda yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mephiathi"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mephiathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũnda yake"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mĩgũnda yake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:50.451487393Z",
+  "model": "glm-5.3"
+}

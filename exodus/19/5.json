@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na rĩĩka ũcio, ndĩrĩ mũigua mũgambo wakwa, na mũkomehere ⟨את⟩ kĩrĩkanĩro gĩakwa, nĩmũkorwo icũgwa rĩakwa harĩ ndemwa cia thĩ ciothe; nĩgũkorwo thĩ yothe nĩĩ yakwa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩĩka ũcio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ndĩrĩ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mũigua"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "na mũkomehere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro gĩakwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro gĩakwa"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "nĩmũkorwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rĩakwa"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "icũgwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "harĩ ndemwa cia thĩ ciothe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndemwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩ yakwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:56.305021451Z",
+  "model": "glm-5.3"
+}

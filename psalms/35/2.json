@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Ĩhokera ng'etho na ng'etho nene, na ũcũmĩkĩre kũteithia kwakwa.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Ĩhokera"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ng'etho"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "na ng'etho nene"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "na ũcũmĩkĩre"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "kũteithia kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:47.765640514Z",
+  "model": "glm-5.3"
+}

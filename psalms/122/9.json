@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 122,
+  "translation": "Nĩgearĩ irĩ nginya ya nyũmba ya Yahwe Erohimu witũ, nĩndararĩra wega waku.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ngearĩ irĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "nĩndararĩra"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "לך",
+      "gloss": "waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:07.778134620Z",
+  "model": "glm-5.3"
+}

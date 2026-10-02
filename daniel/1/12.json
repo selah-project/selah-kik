@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Gereria na irotheri ⟨את⟩ athũmi aku mĩthenya ĩikũmi; na mahĩhe macio mahĩhe ithaa cia mbĩgũ, tũrarĩ; na mai, tũranyũa.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Gereria"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na irotheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athũmi aku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "athũmi aku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ĩikũmi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mahĩhe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "macio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mahĩhe ithaa"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "cia mbĩgũ"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "tũrarĩ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "tũranyũa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:01.076707613Z",
+  "model": "glm-5.3"
+}

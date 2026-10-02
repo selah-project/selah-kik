@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Yahwe ⟨arĩ⟩ mũega na mũtheru; nĩ ũndũ ũcio acirithagĩria ahĩtie mũhandanĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mũega"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "na mũtheru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "acirithagĩria"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ahĩtie"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mũhandanĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:39.179412707Z",
+  "model": "glm-5.3"
+}

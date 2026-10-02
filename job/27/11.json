@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Nĩngĩkũrutanithia ⟨את⟩ inywe na mkono wa Ere; ũrĩa urĩ hamwe na Cadai ndingĩhinga.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Nĩngĩkũrutanithia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mkono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Cadai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "ngĩhinga"
+    }
+  ],
+  "timestamp": "2026-10-02T04:16:57.991725717Z",
+  "model": "glm-5.3"
+}

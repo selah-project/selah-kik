@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 82,
+  "translation": "Nĩti mamenĩ, na nĩti mahee; magĩenderera thĩinĩ wa kĩheo; metha yothe ya thĩ ĩgĩhunjeka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nĩti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mamenĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nĩti"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mahee"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "thĩinĩ wa kĩheo"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "magĩenderera"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ĩgĩhunjeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "metha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:33.709381724Z",
+  "model": "glm-5.3"
+}

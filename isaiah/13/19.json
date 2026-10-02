@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Babiroini, kĩgunĩ kĩa mathina ma ngwatanĩro, kĩega kĩa kwĩhũngĩra kwa Akacari, nĩgũtuĩka ta kũgũtwo kwĩgie Erohimu ⟨את]] Codomu na ⟨את]] Gomora.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Na nĩgũtuĩka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babiroini"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "kĩgunĩ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kĩa mathina ma ngwatanĩro"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kĩa kwĩhũngĩra"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kwa Akacari"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "ta kũgũtwo kwĩgie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Codomu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Codomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gomora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:54.547803651Z",
+  "model": "glm-5.3"
+}

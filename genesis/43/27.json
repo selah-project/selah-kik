@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 43:27",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Na akĩmũmbũkĩra ũhoro wa thayũ, na akĩuga: Ni mwathi wanyu, mũcéenĩ ũcio, arĩ na thayũ? Agĩkũigua na ma ũrĩa mwaigire——arĩ o na ngwenĩ?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akĩmũmbũkĩra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ũhoro wa thayũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "arĩ na thayũ"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "mwathi wanyu"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "mũcéenĩ ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "mwaigire"
+    },
+    {
+      "surface": "העודנו",
+      "gloss": "agĩkũigua na ma"
+    },
+    {
+      "surface": "חי",
+      "gloss": "arĩ o na ngwenĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:53:42.907805857Z",
+  "model": "glm-5.3"
+}

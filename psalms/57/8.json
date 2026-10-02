@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Mũoyo wakwa ũegereete, Erohimu, mũoyo wakwa ũegereete; nĩngĩimbĩra, na nĩngĩinĩra.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ũegereete"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ũegereete"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nĩngĩimbĩra"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "na nĩngĩinĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:54.117954158Z",
+  "model": "glm-5.3"
+}

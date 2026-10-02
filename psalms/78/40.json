@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Mĩngĩ nthĩuro mekaga mũhianĩre wake thĩ ya kũhĩa-inĩ, na mamũthĩnĩrĩirie ngoro kwenenyera-inĩ kũhĩa.",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "mĩngĩ nthĩuro"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "mekaga mũhianĩre wake"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩ ya kũhĩa-inĩ"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "mamũthĩnĩrĩirie ngoro"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "kwenenyera-inĩ kũhĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:00.233379673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ rĩrĩa kũhia kwake gũkuhĩtikire mũno, nĩ ĩheanirie ⟨את⟩ thĩ, na nĩ ĩrayanie na ⟨את⟩ jiĩ na na ⟨את⟩ mũtĩ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nĩ rĩrĩa"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "kũhia gũkuhĩtikire mũno"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "kũhia kwake"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "nĩ ĩheanirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "nĩ ĩrayanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiĩ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "jiĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũtĩ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mũtĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:59:55.154841447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na Ahazi akiuga: Ndiĩĩrĩrĩra, na ndĩngĩcookerio ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ndiĩĩrĩrĩra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ngĩcookerio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:21.178503920Z",
+  "model": "glm-5.3"
+}

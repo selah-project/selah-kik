@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Mĩrĩma ĩrĩa ĩrĩ igũrũ nĩya mbũri cia gĩthaka; magũrũ nĩmahũrũkagĩra thafũ.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "mĩrĩma"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ĩrĩa ĩrĩ igũrũ"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "nĩya mbũri cia gĩthaka"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "magũrũ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "mahũrũkagĩra"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "thafũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:50.585965538Z",
+  "model": "glm-5.3"
+}

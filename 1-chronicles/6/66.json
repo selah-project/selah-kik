@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ⟨את⟩ Heceboni na ⟨את⟩ ndawa ciayo, na ⟨את⟩ Yaazeri na ⟨את⟩ ndawa ciayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heceboni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heceboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndawa ciayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ndawa ciayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaazeri"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaazeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndawa ciayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ndawa ciayo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:30.634738800Z",
+  "model": "glm-5.3"
+}

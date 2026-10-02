@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Ũthĩni nĩũcekera thĩinĩ wa irĩgi yake; nĩetĩkĩkĩtie harĩa mũgĩnda ũtarĩ mwega; ũru ndũgoagĩra.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Ũthĩni"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "nĩũcekera"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "irĩgi yake"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "nĩetĩkĩkĩtie"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mũgĩnda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ũtarĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "goagĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:40.455473063Z",
+  "model": "glm-5.3"
+}

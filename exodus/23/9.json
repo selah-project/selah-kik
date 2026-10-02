@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na mũcemanĩge ndũkahĩrĩrie; na nyinyi mũmena ⟨את⟩ mwoyo wa mũcemanĩge, nĩgũkorwo mũcemanĩge nyinyi mwari thĩ-inĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Na mũcemanĩge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũkahĩrĩrie"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na nyinyi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mũmena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwoyo wa mũcemanĩge"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mwoyo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa mũcemanĩge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mũcemanĩge"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:45.098554154Z",
+  "model": "glm-5.3"
+}

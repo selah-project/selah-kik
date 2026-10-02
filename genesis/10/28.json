@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Owibari, na ⟨את]] Abimaeri, na ⟨את⟩ Ceba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Owibari"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Owibari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abimaeri"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimaeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ceba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ceba"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:40.067822622Z",
+  "model": "glm-5.3"
+}

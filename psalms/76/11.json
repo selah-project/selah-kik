@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Nĩgũkorwo gũthirũ kwa mũndũ nĩgũgũkũhoyagĩra; ũrĩa wĩngĩĩtwo wa gũthirũ nĩwe ũcĩgũkũringa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gũthirũ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kwa mũndũ"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "nĩgũgũkũhoyagĩra"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ũrĩa wĩngĩĩtwo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "wa gũthirũ"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "nĩwe ũcĩgũkũringa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:54.468138072Z",
+  "model": "glm-5.3"
+}

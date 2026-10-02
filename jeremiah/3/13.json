@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 3:13",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Tu menya ⟨את⟩ ihĩtia rĩaku, atĩ nĩwathĩnĩirie na Yahwe Erohimu waku, na ũnaharũrũra ⟨את⟩ njĩra cĩaku kũrĩ arĩa matarĩ a rũciĩ rũanyu, thĩini wa mũtĩ o wothe wa kũmera, na mũgambo wakwa ndĩmũithagĩrĩirie, Yahwe oigĩte.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "menya"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ihĩtia rĩaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "פשעת",
+      "gloss": "nĩwathĩnĩirie"
+    },
+    {
+      "surface": "ותפזרי",
+      "gloss": "na ũnaharũrũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njĩra cĩaku"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njĩra cĩaku"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "kũrĩ arĩa matarĩ a rũciĩ rũanyu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩini wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wa kũmera"
+    },
+    {
+      "surface": "ובקולי",
+      "gloss": "na mũgambo wakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "mũithagĩrĩirie"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:42:58.444602929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Kuuma mũgambo wa mĩayo yanjĩ, magufa mamacĩte nyama-inĩ yanjĩ.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kuuma mũgambo"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "wa mĩayo yanjĩ"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "nĩgũcanana"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "magufa"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "nyama-inĩ yanjĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:26.628946064Z",
+  "model": "glm-5.3"
+}

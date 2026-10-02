@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na ũndũ ũyũ ũngĩhe: ũceke ⟨את⟩ athamaki, mũndũ o wothe kuuma harĩa aarĩ, ũcĩe atongoria thĩinĩ wao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "athamaki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũngĩhe"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ũceke"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "kuuma harĩa aarĩ"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ũcĩe"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "thĩinĩ wao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:03:30.871167971Z",
+  "model": "glm-5.3"
+}

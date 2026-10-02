@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩacokire kũciria thĩinĩ wa kĩgũnda kĩake, magũkũro-inĩ ma micikani yake.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "nĩacokire kũciria"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kĩgũnda kĩake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "magũkũro-inĩ"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "ma micikani yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:20.406446307Z",
+  "model": "glm-5.3"
+}

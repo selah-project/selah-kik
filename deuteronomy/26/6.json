@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Andũ a Micirayimu makĩtũcirĩria ⟨את⟩ ithuĩ, makĩtũnyamĩra, makĩtũhikĩria kĩndũ gĩa kũruta gĩa kĩene mũno.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "makĩtũcirĩria"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ithuĩ",
+      "marks": "ithuĩ"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "andũ a Micirayimu"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "makĩtũnyamĩra"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "makĩtũhikĩria"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ithuĩ-inĩ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "kĩndũ gĩa kũruta"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "gĩa kĩene mũno"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:38.100364320Z",
+  "model": "glm-5.3"
+}

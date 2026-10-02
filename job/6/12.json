@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Kana hinya wakwa nĩ hinya wa mahiga? Kana nyama yakwa nĩ ya cuma?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "wa mahiga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nyama yakwa"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ya cuma"
+    }
+  ],
+  "timestamp": "2026-10-02T04:05:59.446477939Z",
+  "model": "glm-5.3"
+}

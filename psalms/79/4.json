@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 79,
+  "translation": "Tũatuĩkĩte nyamũkio andũ arĩa matũũrarĩte hakuhĩ na ithuĩ, kwenjera na gũkooro ihinya kwa arĩa me gĩtheri kĩu.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "tũatuĩkĩte"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyamũkio"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "andũ arĩa matũũrarĩte hakuhĩ na ithuĩ"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "kwenjera"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "na gũkooro ihinya"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "kwa arĩa me gĩtheri kĩu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:39.852630022Z",
+  "model": "glm-5.3"
+}

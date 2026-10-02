@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ndũkare na Erohimu angĩ mbere yakwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kũhĩa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "angĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere yakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:45.038531760Z",
+  "model": "glm-5.3"
+}

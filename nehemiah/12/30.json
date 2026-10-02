@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na aheneti na Ariivi mathiriithie mene, magĩka kũtheria ⟨את⟩ andũ, na ⟨את⟩ mirango, na ⟨את⟩ ciumba.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "mathiriithie mene"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aheneti"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na Ariivi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "magĩka kũtheria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mirango"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mirango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciumba"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ciumba"
+    }
+  ],
+  "timestamp": "2026-10-02T05:18:57.523927001Z",
+  "model": "glm-5.3"
+}

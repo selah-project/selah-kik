@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Ĩta ũrĩa Yahwe anhĩtie Moce ⟨את⟩, nĩ ũguo nyina cia Cerapahadi maatĩĩte.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ĩta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anhĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩ ũguo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maatĩĩte"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Cerapahadi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:38.001553698Z",
+  "model": "glm-5.3"
+}

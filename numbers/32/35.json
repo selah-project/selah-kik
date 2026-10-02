@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na ⟨את⟩ Atarothi-Cofani, na ⟨את⟩ Yaceri, na Yogebaha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Atarothi-Cofani"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarothi"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Cofani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaceri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaceri"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "Yogebaha"
+    }
+  ],
+  "timestamp": "2026-10-01T22:11:24.765645803Z",
+  "model": "glm-5.3"
+}

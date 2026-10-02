@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na ndahabu ya bũrũri ũyũ nĩ ĩega; kũu harĩ bedoraki na jiĩ ya cohami.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Na ndahabu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya bũrũri"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ ĩega"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedoraki"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na jiĩ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "cohami"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:24.686629789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yahwe aikoragĩra hou na hou; nĩatigĩirie kĩrĩinĩ kĩake thĩinĩ wa ciira.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hou na hou"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "aikoragĩra"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "nĩatigĩirie"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "thĩinĩ wa ciira"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kĩrĩinĩ kĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:56.388690068Z",
+  "model": "glm-5.3"
+}

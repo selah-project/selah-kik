@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na Caori ainathĩkire ⟨את⟩ atũmĩri agĩthĩ kũona ⟨את⟩ Dawidi, agĩtua atĩrĩ: Mũrũngire handũ harĩa gĩcandĩ kĩa gwara, mũringe ndũrĩ yanjĩ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na ainathĩkire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atũmĩri"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "atũmĩri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "agĩthĩ kũona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩtua atĩrĩ"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Mũrũngire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "handũ harĩa gĩcandĩ kĩa gwara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanjĩ"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "mũringe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:19.103965546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na kuuma kĩcwa-inĩ kĩa Biniaminu: ⟨את⟩ Geba na ⟨את⟩ matharo make, na ⟨את⟩ Alemeti na ⟨את⟩ matharo make, na ⟨את⟩ Anatoti na ⟨את⟩ matharo make; mĩtaro ciao yothe ĩtatũ na ĩrĩkũ, thĩinĩ wa mĩcwa ciao.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na kuuma kĩcwa-inĩ kĩa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Biniaminu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matharo make"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matharo make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Alemeti"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matharo make"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matharo make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anatoti"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matharo make"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matharo make"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mĩtaro ciao"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na ĩrĩkũ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mĩtaro"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "thĩinĩ wa mĩcwa ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:03.578952776Z",
+  "model": "glm-5.3"
+}

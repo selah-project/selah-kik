@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Moce akĩgũatha ⟨את⟩ mkonowarĩ igũrũ, na ciima nene ciakĩaga thĩ yothe ya Micirayimu mĩthenya ĩtatũ.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "akĩgũatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkonowarĩ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkonowarĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ciima"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "nene"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩ yothe ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:21.234385570Z",
+  "model": "glm-5.3"
+}

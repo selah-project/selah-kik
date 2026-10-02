@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Arĩa andũ nĩmaigire ⟨את⟩ ũrĩa wao wa mbembe mbee ya kũnyinyũha; mĩcwenjeri yao ya kũnyanjĩra nĩyorũtwo na nguo iria ciau, miigĩtwo mabũrũri-inĩ mau.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nĩmaigire"
+    },
+    {
+      "surface": "העם",
+      "gloss": "arĩa andũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa wao wa mbembe"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ũrĩa wao wa mbembe"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mbee ya"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "kũnyinyũha"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "mĩcwenjeri yao ya kũnyanjĩra"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "nĩyorũtwo"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "na nguo iria ciau"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "mabũrũri mau"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:58.715971434Z",
+  "model": "glm-5.3"
+}

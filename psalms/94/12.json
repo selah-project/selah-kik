@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Ĩrĩhĩtie mũndũ ũrĩa ũcirũkanĩtwo, Yah, na kuuma Torayaku ũmũrigithĩra.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ĩrĩhĩtie"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ũcirũkanĩtwo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "na kuuma Torayaku"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ũmũrigithĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.448674702Z",
+  "model": "glm-5.3"
+}

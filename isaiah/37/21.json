@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 37:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩatũmithe Yecayahu mwana wa Amoci kinya kwa Hizekiyahu na kũuga: Nĩguo Yahwe, Erohimu wa Yiceraeri, oigĩte: Rĩrĩa wayayire ithũĩ ũhoro-inĩ wa Cenaheribi, mwathani wa Acure —",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nĩatũmithe"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "wa Amoci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya kwa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizekiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "wayayire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũhoro-inĩ wa"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Cenaheribi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Acure"
+    }
+  ],
+  "timestamp": "2026-10-02T00:43:54.053887992Z",
+  "model": "glm-5.3"
+}

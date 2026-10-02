@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩgũkorwo ntũngĩhota gũcinjia ⟨את⟩ Pacaha harĩ ithũro imwe yaku ya mĩciero, ĩrĩa Yahwe Erohimu waku nĩakuheaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ntũ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ngĩhota"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "gũcinjia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pacaha"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pacaha"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "harĩ imwe"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ithũro yaku ya mĩciero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩakuheaga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "waku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:25:44.278869634Z",
+  "model": "glm-5.3"
+}

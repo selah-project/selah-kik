@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩ ũguo nĩngĩtwo ⟨את⟩ nĩ ciugo cia Yahwe agĩtũ: Ndũkaherie mũrango, na ndũkanywe maji, na ndũkacooke mũciara-inĩ ũrĩa wooreere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nĩngĩtwo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nĩngĩ (ĩngĩ)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nĩ ciugo cia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩtũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ndũ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kaherie"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "kanywe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kacooke"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mũciara-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "wooreere"
+    }
+  ],
+  "timestamp": "2026-10-02T06:32:59.733790159Z",
+  "model": "glm-5.3"
+}

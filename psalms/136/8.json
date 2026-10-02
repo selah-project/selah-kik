@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "⟨את⟩ riũa ndũreruire mweri-inĩ; nĩgũkorwo hecedi wake kĩrĩ hoora tene na tene.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riũa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨the⟩ riũa"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ndũreruire"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mweri-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kĩrĩ hoora tene na tene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:50.058720821Z",
+  "model": "glm-5.3"
+}

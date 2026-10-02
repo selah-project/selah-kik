@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩrauga: Nĩndakwamũkĩrira na ũmũthĩ ⟨את⟩ kĩeego gĩaku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩrauga"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "nĩndakwamũkĩrira"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na ũmũthĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩeego gĩaku"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "kĩeego gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:32.740515491Z",
+  "model": "glm-5.3"
+}

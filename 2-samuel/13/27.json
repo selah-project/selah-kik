@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩgetha Abecharomi nĩamũnyanyacirie, nĩamũthire na ⟨את⟩ Amnoni na ⟨את⟩ ciana cionde cia mũthamaki.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "nĩamũnyanyacirie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abecharomi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nĩamũthire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnoni"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciana cionde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cionde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "cia mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-01T23:36:02.762364550Z",
+  "model": "glm-5.3"
+}

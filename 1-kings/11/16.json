@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩgũkĩra mĩeri ĩtandatũ Yoavi na Yiceraeri othe maikarĩire kuo, kinya kũcinjia aathuri othe Adomu-inĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkĩra"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ĩtandatũ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mĩeri"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "maikarĩire"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na... othe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "kũcinjia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "aathuri"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Adomu-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:21.244707780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Ndĩookire kũigua: Nĩndĩrĩ ũngĩ ahe thenge kĩa yũnĩ — ndĩngĩrũka, ndĩngĩhotora.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndĩookire kũigua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũngĩ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ahe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩrĩ"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "thenge"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "kĩa yũnĩ"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ndĩngĩrũka"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ndĩngĩhotora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:29.626226445Z",
+  "model": "glm-5.3"
+}

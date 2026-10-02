@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 133,
+  "translation": "Ta mĩrũthi ya Ceremoni ĩrĩa ĩmanĩra thĩ mahiga-inĩ ma Ciyoni; nĩgũkorwo kuo Yahwe ahoirte ⟨את⟩ thoguo — ũhoro wa kuura, tene na tene.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "ta mĩrũthi"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Ceremoni"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ĩrĩa ĩmanĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "mahiga-inĩ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ahoirte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thoguo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "thoguo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ũhoro wa kuura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tene"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:01.338335471Z",
+  "model": "glm-5.3"
+}

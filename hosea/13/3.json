@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩthĩ ũguo nĩmakũgwa ta ihurũ rĩa kĩambĩrĩria kwa mũthenya, na ta mu wa kĩambĩrĩria ũrĩa ũthiĩ, ta mũcũ ũrĩa mũhũmũ mũnene ũrote kuuma gĩhumbũro-inĩ kĩa mbembe, na ta mũkũ ũrĩa woima dirĩra-inĩ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nĩthĩ ũguo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nĩmakũgwa"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "ta ihurũ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kĩambĩrĩria kwa mũthenya"
+    },
+    {
+      "surface": "וככטל",
+      "gloss": "na ta mu"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "kĩambĩrĩria"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ũrĩa ũthiĩ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ta mũcũ"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "ũrĩa mũhũmũ mũnene ũrote"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "kuuma gĩhumbũro kĩa mbembe"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "na ta mũkũ"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "dirĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:52:43.321311849Z",
+  "model": "glm-5.3"
+}

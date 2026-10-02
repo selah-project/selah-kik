@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Makĩcookerera hĩndĩ ya kwarĩ, makĩgũtigania ta mbwa, na mahũngũra gĩcigo.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Makĩcookerera"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "hĩndĩ ya kwarĩ"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "makĩgũtigania"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ta mbwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "mahũngũra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gĩcigo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:15.690308717Z",
+  "model": "glm-5.3"
+}

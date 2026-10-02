@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na akĩtwarira ngombo ⟨את⟩ Yehoyakini nginya Baberi, na ⟨את⟩ nyina wa ⟨the⟩ mwathi, na ⟨את⟩ atumia a mwathi, na ⟨את⟩ aciarĩtia ake, na ⟨את⟩ andũ-anene a ⟨the⟩ thĩ — nĩcio aciĩtigĩire ngombo kuuma Yerucarayimu nginya Baberi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "akĩtwarira ngombo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakini"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakini"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "nginya Baberi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyina wa mwathi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "atumia a mwathi"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mwathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aciarĩtia ake"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "aciarĩtia ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ-anene a thĩ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "andũ-anene"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "aciĩtigĩirie"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "ngombo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kuuma Yerucarayimu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "nginya Baberi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:31.694203748Z",
+  "model": "glm-5.3"
+}

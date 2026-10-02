@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na ndũũgerie andũ aya: Ũguo nĩguo Yahwe oigĩte: Rorani, nĩngĩteereera mbere wanyu ⟨את⟩ njĩra ya gũikarĩra muoyo na ⟨את⟩ njĩra ya kũua.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ndũũgere"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũguo nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "rorani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩngĩteereera"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbere wanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njĩra ya gũikarĩra muoyo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya gũikarĩra muoyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njĩra ya kũua"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ya kũua"
+    }
+  ],
+  "timestamp": "2026-10-02T01:15:14.343845345Z",
+  "model": "glm-5.3"
+}

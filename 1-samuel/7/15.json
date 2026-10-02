@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Camueri akĩhoira ciira ⟨את⟩ Yiceraeri mĩthenya yothe ya miaka yake.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akĩhoira ciira"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Camueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ya miaka yake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:41.413718750Z",
+  "model": "glm-5.3"
+}

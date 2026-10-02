@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Amukira, kirathimo gwakwa; amukira, naba na kinora; ndĩngamukithia kĩambĩrĩria kĩa mũthenya.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "amukira"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kirathimo gwakwa"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "amukira"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "naba"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kinora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ndĩngamukithia"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "kĩambĩrĩria kĩa mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:55.668344234Z",
+  "model": "glm-5.3"
+}

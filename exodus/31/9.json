@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na ⟨את⟩ ethari wa igweeto rĩa kũinwo, na ⟨את⟩ icunjĩ cĩacio ciothe, na ⟨את⟩ kĩongagwo kĩa kũoiga, na ⟨את⟩ gĩtĩĩ kĩayo —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ethari wa igweeto rĩa kũinwo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ethari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "igweeto rĩa kũinwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icunjĩ cĩacio ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icunjĩ cĩacio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩongagwo kĩa kũoiga"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kĩongagwo kĩa kũoiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gĩtĩĩ kĩayo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "gĩtĩĩ kĩayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:51.704324799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩngĩcemania ⟨את⟩ kĩeegero kĩa hinya wanyu; nĩngĩtĩkia ⟨את⟩ igũrũ rĩanyu rĩtũĩke ta cuma, na ⟨את⟩ thĩ yanyu rĩtũĩke ta combũ.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "nĩngĩcemania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩeegero kĩa hinya wanyu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kĩeegero"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "hinya wanyu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩngĩtĩkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igũrũ rĩanyu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "igũrũ rĩanyu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "rĩtũĩke ta cuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yanyu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "thĩ yanyu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "rĩtũĩke ta combũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:44.207795369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Ndĩmacokĩirie ⟨את⟩ Yordani, na magĩkũra Aroeri, igũrũ rĩa mooyo wa ⟨the⟩ gĩtĩ kĩrĩ mooyo-inĩ wa rũũĩ rwa Gadi, na makĩrĩthĩra Yazeri.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "macokĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroeri"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "igũrũ rĩa mooyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gĩtĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mooyo-inĩ wa"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "rũũĩ"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "wa Gadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na makĩrĩthĩra"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:44:58.704338320Z",
+  "model": "glm-5.3"
+}

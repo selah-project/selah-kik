@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Ndĩcakarĩtie mũaki thiini wa iĵũrwa ithenya rĩanyinu, mũthenya wa Cabati.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndĩ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "cakarĩtie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thiini wa ithenya rĩanyinu ithenya"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "iĵũrwa ithenya rĩanyinu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:54.794399830Z",
+  "model": "glm-5.3"
+}

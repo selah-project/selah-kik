@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Maithori ma Yiceraeri nĩmaharĩkire nĩ gũtheri, ndangĩhota kũona; nĩe akĩingata ⟨את⟩ arĩa berũ ithaĩrũ kũrĩ we, akĩnyita mbarũ ngũingo ciothe, akĩmethera na akĩmeethera.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "maithori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "nĩmaharĩkire"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "nĩ gũtheri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "angĩhota"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "akĩingata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa berũ ithaĩrũ kũrĩ we"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akĩmethera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩa berũ"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "akĩmeethera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩa berũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:56:45.199699112Z",
+  "model": "glm-5.3"
+}

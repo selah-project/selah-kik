@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 33:7",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Ona, kwĩkĩra kwakwa ndũgũkũheanĩria gwĩkĩra, na mũgoiro wakwa ũrĩkũ igũrũ rĩaku ndũngĩkorũo mũnone.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "kwĩkĩra kwakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "תבעתך",
+      "gloss": "gũkũheanĩria gwĩkĩra"
+    },
+    {
+      "surface": "ואכפי",
+      "gloss": "na mũgoiro wakwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "gũkorũo mũnone"
+    }
+  ],
+  "timestamp": "2026-10-02T04:20:20.407647992Z",
+  "model": "glm-5.3"
+}

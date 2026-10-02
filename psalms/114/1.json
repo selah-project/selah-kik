@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 114,
+  "translation": "Rĩrĩa Yiceraeri aathĩkũte kuuma Micirayimu, ndungata ya Yaakobu kuuma andũ arĩa maugaga rĩthiomi rĩngĩ,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "rĩrĩa aathĩkũte"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndungata ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuuma andũ"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "arĩa maugaga rĩthiomi rĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:35.626037156Z",
+  "model": "glm-5.3"
+}

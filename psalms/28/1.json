@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Kwa Dawidi. Kwaku, Yahwe, nĩndakuhoya; cee wakwa, ndũkĩhĩrĩka kwiya, kana ũgĩhĩrĩka kwiya, na nĩngeringanĩtwo na arĩa magĩkũra muĩ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kwa Dawidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kwaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩndakuhoya"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "cee wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ndũkĩhĩrĩka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwiya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ũgĩhĩrĩka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwiya"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "na nĩngeringanĩtwo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "arĩa magĩkũra"
+    },
+    {
+      "surface": "בור",
+      "gloss": "muĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:03.533626836Z",
+  "model": "glm-5.3"
+}

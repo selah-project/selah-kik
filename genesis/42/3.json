@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Nĩagĩrĩirwo, ana nyina a Yocefu ikũmi makĩĩthii kũu kũgũcotera mboco kuuma Micirayimu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "makĩĩthii kũu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ana nyina"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "a Yocefu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kũgũcotera mboco"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:14.400546922Z",
+  "model": "glm-5.3"
+}

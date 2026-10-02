@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩguo thutha wa mĩaka mirongo iri, arĩa Ceromo aakĩte ⟨את⟩ nyũmba ya Yahwe na ⟨את⟩ nyũmba yake,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo iri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aakĩte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:47:41.973430091Z",
+  "model": "glm-5.3"
+}

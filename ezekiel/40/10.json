@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 40:10",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na cutha cia geti, cia mahinda ma irathĩro, nĩ ithathatu kũu na ithathatu kũu; kĩegeranio kĩmwe ciaithathatu, na kĩegeranio kĩmwe kĩa mĩcara, kũu na kũu.",
+  "tokens": [
+    {
+      "surface": "ותאי",
+      "gloss": "na cutha"
+    },
+    {
+      "surface": "השער",
+      "gloss": "geti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cia mahinda ma"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "irathĩro"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ithathatu"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na ithathatu"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "kĩegeranio"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "ciaithathatu"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "na kĩegeranio"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "kĩa mĩcara"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "na kũu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:10:34.398060522Z",
+  "model": "glm-5.3"
+}

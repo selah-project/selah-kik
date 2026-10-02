@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na ici nĩ mĩciĩ ya Pereci: Pereci akĩciarĩra ⟨את⟩ Cetzeroni.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ici nĩ"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "mĩciĩ ya"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereci"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereci"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cetzeroni"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Cetzeroni"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:39.256424125Z",
+  "model": "glm-5.3"
+}

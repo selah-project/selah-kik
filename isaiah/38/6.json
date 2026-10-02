@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na kuuma ruoko-inĩ rwa mũthamaki wa Acuru nĩngũkũhonokia, na ⟨את⟩ mucĩ ũyũ; na nĩngũringa mucĩ ũyũ.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "kuuma ruoko-inĩ rwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acuru"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "nĩngũkũhonokia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mucĩ ũyũ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "na nĩngũringa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:42:49.769680689Z",
+  "model": "glm-5.3"
+}

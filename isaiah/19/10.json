@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na mĩthemba yaayo nĩcemanitwo; arĩa mathakara ithango aothe nĩmathĩnĩkĩtie mooyo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "na makĩgũka"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "mĩthemba yaayo"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "nĩcemanitwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "arĩa mathakara"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ithango"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "nĩmathĩnĩkĩtie"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mooyo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:10.857342036Z",
+  "model": "glm-5.3"
+}

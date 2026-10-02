@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩndĩ Koeleti; nĩndĩatungire mwathi wa Yiceraeri Yerucarayimu-inĩ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koeleti"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩndĩatungire"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:37:57.887631959Z",
+  "model": "glm-5.3"
+}

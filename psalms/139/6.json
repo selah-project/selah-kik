@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Ũmenyo ũyũ nĩwa kĩgunĩ kuuma ũrĩa nĩmenya; nĩurĩ igũrũ mũno, nĩndingĩhota kũnyitagĩra.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "wa kĩgunĩ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ũmenyo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuuma wakwa"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "nĩurĩ igũrũ mũno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nĩngĩhota"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kũnyitagĩra kũo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:11.642083279Z",
+  "model": "glm-5.3"
+}

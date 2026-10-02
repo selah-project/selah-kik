@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ĩngĩa, Yahwe, ũĩkaraga kambũi, na ũciece hĩndĩ cia thĩna?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ĩngĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ũĩkaraga"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kambũi"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ũciece"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "hĩndĩ cia"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "thĩna"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:15.553628342Z",
+  "model": "glm-5.3"
+}

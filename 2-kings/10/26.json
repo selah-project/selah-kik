@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nao maakĩbũra ⟨את⟩ mihiga ĩimĩte ya nyũmba ya Baari, na makĩrũa mĩaki.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "maakĩbũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mihiga ĩimĩte"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "mihiga ĩimĩte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baari"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "na makĩrũa mĩaki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:10:40.043883847Z",
+  "model": "glm-5.3"
+}

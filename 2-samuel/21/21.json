@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na akamenanithia ⟨את⟩ Yiceraeri, na akĩmũkũra Yehonatani mũrũ wa Cimi, mwarume wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "akamenanithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "akĩmũkũra"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Cimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mwarume wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:40:19.620242087Z",
+  "model": "glm-5.3"
+}

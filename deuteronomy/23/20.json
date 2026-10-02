@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ndũkongerere mũrũ waku ongagĩro: ongagĩro wa mbeca, ongagĩro wa irio, ongagĩro wa kĩndũ o gĩa gĩkĩongerwo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "kongerere ongagĩro"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "mũrũ waku"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ongagĩro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wa mbeca"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ongagĩro"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wa irio"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ongagĩro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kĩndũ o gĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gĩa"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "gĩkĩongerwo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:40.176503635Z",
+  "model": "glm-5.3"
+}

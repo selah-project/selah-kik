@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Na wendani wa Adonai Erohimu witũ ũigĩrĩe ithuĩ, na watho wa mikono yitũ ũimĩrĩre nĩ ithuĩ; ũna, watho wa mikono yitũ ũimĩrĩre ũguo wona!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ũigĩrĩe"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "wendani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ithuĩ-inĩ"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na watho wa"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mikono yitũ"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "ũimĩrĩre"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nĩ ithuĩ"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ũna, watho wa"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mikono yitũ"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "ũimĩrĩre ũguo wona"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:47.388889664Z",
+  "model": "glm-5.3"
+}

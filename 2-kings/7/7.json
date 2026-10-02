@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩmagĩikara magĩhenga kĩrĩndĩ-inĩ; magĩrega ⟨את⟩ mahema mao, na ⟨את⟩ ndatũ ciao, na ⟨את⟩ ngitamia ciao — kĩgunda o gĩothe kĩu kĩrĩa kĩaarĩ — nao mahengire nĩgũkũhonokia mĩoyo yao.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "nĩmagĩikara"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "magĩhenga"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "kĩrĩndĩ-inĩ"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "magĩrega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahema mao"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "mahema mao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndatũ ciao"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ndatũ ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngitamia ciao"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ngitamia ciao"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kĩgunda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kĩrĩa kĩaarĩ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mahengire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nĩgũkũhonokia"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mĩoyo yao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:09.857534796Z",
+  "model": "glm-5.3"
+}

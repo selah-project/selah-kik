@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Ici nĩ macememba ma aana a Esau: Erifazi mũrũ wa Ada, mũtumia wa Esau; Reuere mũrũ wa Bascemati, mũtumia wa Esau.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "macememba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Erifazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "wa Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wa Esau"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuere"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "wa Bascemati"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wa Esau"
+    }
+  ],
+  "timestamp": "2026-10-01T20:48:36.119859051Z",
+  "model": "glm-5.3"
+}

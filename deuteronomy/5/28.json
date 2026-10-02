@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 5:28",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Yahwe agĩcũngũrĩra ⟨את⟩ mũgambo wa ciugo cinu rĩrĩa mwabarĩra kũrĩ ine; na Yahwe ambĩrirĩa atĩũgĩte kũrĩ ine: Nĩnacũngũrĩte ⟨את⟩ mũgambo wa ciugo cia andũ a rũrĩrĩ ũyũ arĩa macũngũrire kũrĩ we; maiguire wega, iyo yothe arĩa mararie.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "agĩcũngũrĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ciugo cinu"
+    },
+    {
+      "surface": "בדברכם",
+      "gloss": "rĩrĩa mwabarĩra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ ine"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ambĩrirĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ ine"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nĩnacũngũrĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ a rũrĩrĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "macũngũrire"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "maiguire wega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iyo yothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mararie"
+    }
+  ],
+  "timestamp": "2026-10-01T22:19:39.001767021Z",
+  "model": "glm-5.3"
+}

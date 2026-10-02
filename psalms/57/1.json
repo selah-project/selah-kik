@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Harĩa mũcunjĩrĩri; Ndũthĩnie. Ngwatanĩro ya Dawidi, Mikithamu, rĩrĩa aathĩkũgũa kuuma thĩinĩ wa Cauri, mwonyi-inĩ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "harĩa mũcunjĩrĩri"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Ndũthĩnie"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikithamu"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "rĩrĩa aathĩkũgũa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma thĩinĩ wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mwonyi-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:14.866279012Z",
+  "model": "glm-5.3"
+}

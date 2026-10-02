@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Mũtikore ũthingu-inĩ wa ciira; nũndũ mũndũ wĩ mũthingu ndũkamũgetha, na nũndũ mũnene ndũkamũrĩa kĩndũ; na cedeki-inĩ nĩũthiinjie ciira mũruanyanĩ waku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mũtiko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kore"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ũthingu wa ciira"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ciira-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kũmũgetha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nũndũ mũndũ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wĩ mũthingu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũka"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "kũmũrĩa kĩndũ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nũndũ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cedeki-inĩ"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "thiinjie ciira"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "mũruanyanĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:01.321994921Z",
+  "model": "glm-5.3"
+}

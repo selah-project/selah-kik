@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩ ũndũ Nobahi agiĩcie na akĩhora ⟨את⟩ Kenati na ⟨את⟩ mĩciĩ yake ya atheeru, akĩĩita yayo Nobahi, na rĩĩtwa rĩake.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Nobahi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "agiĩcie"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akĩhora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenati"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩciĩ yake ya atheeru"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "mĩciĩ yake ya atheeru"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩĩita"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yayo"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobahi"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "na rĩĩtwa rĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:10:30.339079504Z",
+  "model": "glm-5.3"
+}

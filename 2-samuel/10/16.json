@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩrĩa Hadadeceri arũmagĩrĩra andũ a Amoni — handini , eego harĩ igũrũ rĩa mũrathe , nagĩcooka arĩa moigĩte — na Cowakũ mũthagani wa mbarari ya Hadadeceri arĩ mbere yao .",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "arũmagĩrĩra"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadeceri"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nĩatũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "handini-inĩ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "mũrathe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "magĩkĩra"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Heramu"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "na Cowakũ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũthagani"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mbarari"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadeceri"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbere yao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:49.766335207Z",
+  "model": "glm-5.3"
+}

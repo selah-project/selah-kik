@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ũthondeke gĩthingithio kĩa kĩhema: magamba ma ng'ondu ndũrũme matonyetwo cithiigi, na gĩthingithio kĩa magamba ma tehaci kũrĩ igũrũ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na ũthondeke"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "gĩthingithio"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "kĩa kĩhema"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "magamba"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ma ng'ondu ndũrũme"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "matonyetwo cithiigi"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "na gĩthingithio"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kĩa magamba"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ma tehaci"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kũrĩ igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:03.545451586Z",
+  "model": "glm-5.3"
+}

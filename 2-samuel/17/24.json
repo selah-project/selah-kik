@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Dawidi agĩkinya Macanayimu; Abecaromu nawo akĩciara ⟨את⟩ Yeredeni, ũrĩa we na ithui a Yiceraeri aothe hamwe nake.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Na Dawidi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "agĩkinya"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Macanayimu"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Abecaromu nawo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akĩciara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeredeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yeredeni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũrĩa we"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na aothe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:39:14.852136141Z",
+  "model": "glm-5.3"
+}

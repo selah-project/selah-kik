@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Orookia ihĩtia iakwa iothe; ndũkanjũre nĩguo nĩtuĩke ithieko rĩa mũthemeri.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kuuma iothe"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ihĩtia iakwa"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "orookia"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ithieko"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mũthemeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "kanjũre nĩguo nĩtuĩke"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:36.543142663Z",
+  "model": "glm-5.3"
+}

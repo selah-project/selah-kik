@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "na ⟨את⟩ metha na ⟨את⟩ icemia ciayo, na ⟨את⟩ kĩnjũra kĩa mũtheru na ⟨את⟩ icemia ciayo ciothe, na ⟨את⟩ kĩgongona kĩa thingo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "metha"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "metha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icemia ciayo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icemia ciayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩnjũra kĩa mũtheru"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kĩnjũra"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "kĩa mũtheru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icemia ciayo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "icemia ciayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgongona kĩa thingo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kĩgongona"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kĩa thingo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:49.980849521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ya nyamũ cia gũthaka, na ya nyamũ cia gĩcumba iria ci thĩinĩ wa thĩ yaku; mĩmera yayo yothe nĩyĩgĩrĩirwo kũrĩa.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "na ya nyamũ cia gũthaka"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "na ya nyamũ cia gĩcumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ci thĩinĩ wa thĩ yaku"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nĩyĩgĩrĩirwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mĩmera yayo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kũrĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:51.941111618Z",
+  "model": "glm-5.3"
+}

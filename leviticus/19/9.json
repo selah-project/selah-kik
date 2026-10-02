@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na rĩrĩa mũkĩimera ⟨את⟩ mĩmera ya thĩ yanyu, ndũkahotora kĩgĩrĩgĩrĩ kĩa mũgũnda waku kũimera, na macungo ma mĩmera yaku ndũkacunga.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Na rĩrĩa mũkĩimera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩmera ya thĩ yanyu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mĩmera"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ya thĩ yanyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kahotora"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kĩgĩrĩgĩrĩ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "kĩa mũgũnda waku"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "kũimera"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "na macungo"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ma mĩmera yaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kacunga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:49.850519636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Magĩtua ⟨את⟩ Yona, magĩmũtũma kĩrĩra irĩa-inĩ; na irĩa rĩikĩire gũthera kũheherea kwarĩo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "magĩtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "magĩmũtũma kĩrĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "irĩa-inĩ"
+    },
+    {
+      "surface": "הים",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "rĩikĩire"
+    },
+    {
+      "surface": "הים",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "kũheherea kwarĩo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:16.383792503Z",
+  "model": "glm-5.3"
+}

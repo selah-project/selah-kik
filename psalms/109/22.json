@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩgũkorwo nĩ mũkenye na mũthĩni nĩĩ, nĩngĩ ngoro yagwa ĩmenetwo thĩinĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkenye"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũthĩni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ngoro yagwa"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ĩmenetwo"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "thĩinĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:59.468342412Z",
+  "model": "glm-5.3"
+}

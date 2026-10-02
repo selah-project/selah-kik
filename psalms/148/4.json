@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Mĩgooce igũrũ cia igũrũ, na maaĩ aria megũrũ igũrũ-inĩ.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mĩgooce"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cia igũrũ"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "na maaĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "megũrũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.784260387Z",
+  "model": "glm-5.3"
+}

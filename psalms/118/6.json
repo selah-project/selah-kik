@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Yahwe nĩ haro nakwa; ndĩngĩtetereka — mũndũ angĩtũmĩra kĩa ndĩ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩ haro nakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ngĩtetereka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "angĩtũmĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:54.109101803Z",
+  "model": "glm-5.3"
+}

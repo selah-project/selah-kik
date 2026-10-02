@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Kĩguni kĩa Erohimu nĩgũthinga kĩndũ, na kĩguni kĩa athamaki nĩgũcoea kĩndũ.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "kĩguni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "gũthinga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "na kĩguni"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "gũcoea"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:59:44.379589710Z",
+  "model": "glm-5.3"
+}

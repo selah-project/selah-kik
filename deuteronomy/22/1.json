@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ndũkone ⟨את⟩ ng'ombe ya mũrũ wa nyina waku kana ⟨את⟩ rũrigi rwake rwarĩrirũo ndũrĩ, na we ndũkahitha kuuma irio; rũtheremi rwĩhoke rũcoke ũhĩtũkĩre mũrũ wa nyina waku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ũkone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe ya mũrũ wa nyina waku"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wa nyina waku"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rũrigi rwake"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "rũrigi rwake"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "rwarĩrirũo ndũrĩ"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "na we ndũkahitha"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuuma irio"
+    },
+    {
+      "surface": "השב",
+      "gloss": "rũtheremi"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "rwĩhoke rũcoke"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ũhĩtũkĩre mũrũ wa nyina waku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:23:14.267528828Z",
+  "model": "glm-5.3"
+}

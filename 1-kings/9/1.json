@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩngĩria rĩrĩa Ceromoni ahorĩtie gwaka ⟨את⟩ nyũmba ya Yahwe, na ⟨את⟩ nyũmba ya ⟨the⟩ mwathi, na ⟨את⟩ kĩhumo kĩa gũkeno kĩa Ceromoni, ũrĩa aetekũithia gũtua.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩngĩria rĩrĩa"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ahorĩtie"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "gwaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ya mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩhumo kĩa gũkeno kĩa Ceromoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kĩa gũkeno (gĩothe)"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kĩhumo kĩa gũkeno"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kĩa Ceromoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "aetekũithia"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũtua"
+    }
+  ],
+  "timestamp": "2026-10-01T23:55:02.385763658Z",
+  "model": "glm-5.3"
+}

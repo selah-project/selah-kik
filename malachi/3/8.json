@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũndũ nĩangĩnyũrũra Erohimu? Nĩ inwe mũnyũrũra ⟨את⟩; na mũrire: Nĩkĩ twanyũrũra? Kĩheo kĩa ikũmi na kĩheo.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "nĩangĩnyũrũra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Mũndũ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inwe"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "mũnyũrũra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "inwe mũnyũrũra — ndĩ, Erohimu"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "na mũrire"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "twanyũrũra"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "Kĩheo kĩa ikũmi"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "na kĩheo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:05.472176210Z",
+  "model": "glm-5.3"
+}

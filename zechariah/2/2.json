@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ndĩkĩria mũrungu oigĩte mĩrĩ-inĩ yakwa: Ici nĩ cia iki? Nakĩria ndĩũĩria atĩrĩ: Ici nĩ iria icwaranithitie ⟨את⟩ Yuda, ⟨את⟩ Yiceraeri, na ⟨את⟩ Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndĩkĩria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mũrungu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mĩrĩ-inĩ yakwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Nakĩria ndĩũĩria atĩrĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ndĩũĩria"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "iria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "icwaranithitie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:43:36.687722108Z",
+  "model": "glm-5.3"
+}

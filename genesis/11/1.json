@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na thĩ yothe yaarĩ na rũthiomi rũmwe, na ciugo cimwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩguoikarĩte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "rũthiomi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rũmwe"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "na ciugo"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "cimwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:55.757734003Z",
+  "model": "glm-5.3"
+}

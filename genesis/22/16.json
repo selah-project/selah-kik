@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "na akĩuga: Nĩ thĩinĩ wakwa ndĩnahũra, Yahwe oigĩte; nĩrendete ũkoretwo ũkwĩka ⟨את⟩ ũndũ ũyũ, na ndũkoretwo ũtigithithagia ⟨את⟩ mũrũ wakwa ⟨את⟩ wone wakwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nĩ thĩinĩ wakwa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndĩnahũra"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrendete"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nĩrendete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ũkoretwo ũkwĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũndũ ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũndũ ũyũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũkoretwo"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ũtigithithagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wakwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wone wakwa"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "wone wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:08:26.960465382Z",
+  "model": "glm-5.3"
+}

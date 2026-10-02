@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Mĩthia yake ĩrĩkoruo ĩgĩrũire kũnyũrũrwo; na thĩinĩ wa kĩrĩndĩ gĩa gĩkũrũ rĩĩtwa rwao rĩhanĩtwo kũruo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ĩrĩkoruo"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "mĩthia yake"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ĩgĩrũire kũnyũrũrwo"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "thĩinĩ wa kĩrĩndĩ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "gĩa gĩkũrũ"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "rĩhanĩtwo kũruo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "rĩĩtwa rwao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:38.773133053Z",
+  "model": "glm-5.3"
+}

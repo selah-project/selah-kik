@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kwĩruta kwaku nĩndũmĩrĩirie ngĩmena mwaro wothe wa gũhoota.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Kwĩruta kwaku"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nĩndũmĩrĩirie"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ngĩmena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "mwaro"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wa gũhoota"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:56.671841864Z",
+  "model": "glm-5.3"
+}

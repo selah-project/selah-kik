@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩgetha magũũrithia ⟨את⟩ ihooto ya wanjiru rĩrĩa mari ⟨את⟩ ibirwa ciao cia gũtheru; nĩ ũndũ nĩ nĩne Yahwe, ũrĩa mũtherithia.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "Nĩgetha magũũrithia"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ihooto ya wanjiru"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ihooto"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "ya wanjiru"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "rĩrĩa mari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibirwa ciao cia gũtheru"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "ibirwa ciao cia gũtheru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ nĩne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ũrĩa mũtherithia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:45:04.612406790Z",
+  "model": "glm-5.3"
+}

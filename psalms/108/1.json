@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Nyimbo, kĩhimbo kĩa kũinĩra, kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nyimbo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩhimbo kĩa kũinĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:28.513306027Z",
+  "model": "glm-5.3"
+}

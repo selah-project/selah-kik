@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ũyũ nĩ Tora ya keahamini kũingĩha; nĩ ũtheru wa maũndũ mathere yothe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na ũyũ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora ya"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "keahamini kũingĩha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru wa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "maũndũ mathere yothe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:47.087898702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩithũ twarĩa uthambĩ wa Cereti, na harĩ ya Yehuda, na uthambĩ wa Karebu; na ⟨את⟩ Cikeragi nĩtwarĩirie na mũaki.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "nĩithũ"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "twarĩa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "uthambĩ"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "wa Cereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "uthambĩ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "wa Karebu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cikeragi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Cikeragi"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "nĩtwarĩirie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũaki"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:30.552568246Z",
+  "model": "glm-5.3"
+}

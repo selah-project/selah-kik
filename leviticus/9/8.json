@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩ Aharoni agĩkĩgerera cibeere-inĩ, akĩninina ⟨את⟩ kanaana gĩa kĩhooto, kĩrĩa gĩake arĩkĩo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "agĩkĩgerera"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cibeere-inĩ"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "akĩninina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaana"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kanaana"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gĩa kĩhooto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gĩake arĩkĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:27.939677548Z",
+  "model": "glm-5.3"
+}

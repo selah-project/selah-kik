@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Ĩ maa, Yahwe, aathamaki a Acuru nĩmahahĩrire ⟨את⟩ thĩ ciothe, na ⟨את⟩ thĩ yao.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ĩ maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "nĩmahahĩrire"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "aathamaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "a Acuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "thĩ yao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:43:07.654908335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Moce agĩikarira ⟨את⟩ ⟨the⟩ thakame, akĩnyũithia igũrũ wa andũ, akiuga: Rorai, ũyũ nĩ thakame wa kĩrĩkanĩro ũrĩa Yahwe ahingirie na inywe, harĩ maũndũ macio mothe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "agĩikarira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "akĩnyũithia"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rorai"
+    },
+    {
+      "surface": "דם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "wa kĩrĩkanĩro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ahingirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na inywe"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:12.956589221Z",
+  "model": "glm-5.3"
+}

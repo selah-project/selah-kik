@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Hĩndĩ ĩrĩa njĩkĩiyũra matharo theru ma Ere, nĩngĩona mĩthia yacio.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hĩndĩ ĩrĩa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "njĩkĩiyũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "matharo theru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "nĩngĩona"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "mĩthia yacio"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:55.212825611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na ⟨את⟩ andũ arĩa me mahĩtia nĩũhonokia; na macho maku nĩmo ma arĩa makĩigũrũkĩra, nĩũmakĩnyĩha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "andũ arĩa me mahĩtia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arĩa me mahĩtia"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "nĩũhonokia"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "na macho maku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "arĩa makĩigũrũkĩra"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "nĩũmakĩnyĩha"
+    }
+  ],
+  "timestamp": "2026-10-01T23:44:49.985957208Z",
+  "model": "glm-5.3"
+}

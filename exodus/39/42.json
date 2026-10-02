@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Ta o ũrĩa Yahwe aahĩtĩrirĩire ⟨את⟩ Moce, nĩguo aana a Yiceraeri maathĩkire ⟨את⟩ ibara yothe.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Ta o ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aahĩtĩrirĩire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maathĩkire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibara yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ibara"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:42.506543282Z",
+  "model": "glm-5.3"
+}

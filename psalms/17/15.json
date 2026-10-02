@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩndĩ-rĩ, na cedeki nĩngũona thayo ciaku; nĩngĩmara, thutha wa kũinũka, na kĩetero gĩaku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩndĩ-rĩ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "nĩngũona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thayo ciaku"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "nĩngĩmara"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "thutha wa kũinũka"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "kĩetero gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:52.894834395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Kana nyama ĩrĩa ĩrĩ mũoyo ĩcooke, ĩgĩtũĩka mweru, mũndũ ũcio agĩkĩra mũcere.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ĩcooke"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ĩrĩa ĩrĩ mũoyo"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ĩgĩtũĩka"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "mweru"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "agĩkĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũcere"
+    }
+  ],
+  "timestamp": "2026-10-01T21:36:45.628785468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Nĩgũkorwo rĩrĩa akua, kĩndũ kĩothe ndũngĩcokera na; ũhoti wake ndũngĩcoderera hasi thutha wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "rĩrĩa akua"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ngĩcokera na"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kĩndũ kĩothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ngĩcoderera hasi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ũhoti wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:13.739253273Z",
+  "model": "glm-5.3"
+}

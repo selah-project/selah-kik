@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Toonde ndũrĩrĩ ya arĩa mataonaga ũna na maithĩ, na ya arĩa matagigua ũna na matũ.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Toonde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "arĩa mataonaga"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "na maithĩ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mamarĩ"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "na arĩa matagigua"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "na matũ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:04.628394421Z",
+  "model": "glm-5.3"
+}

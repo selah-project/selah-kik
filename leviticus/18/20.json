@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na mũtumia wa mũndũ waku wa kũigana nĩndũkaheana kũorera kwaku kwa mbĩgũ, kũhoota nawe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Na"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũtumia wa"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "mũndũ waku wa kũigana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩndũka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "heana"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "kũorera kwaku"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kwa mbĩgũ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kũhoota"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:04.831002954Z",
+  "model": "glm-5.3"
+}

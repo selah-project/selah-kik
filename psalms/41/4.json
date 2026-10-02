@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Yahwe amũteithia igũrũ rĩa mũrace wa ndwari; ũcoketie o uwothe kũrarama kwake thĩinĩ wa ndwari yake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "amũteithia"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "mũrace"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "wa ndwari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o uwothe"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "kũrarama kwake"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "ũcoketie"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "thĩinĩ wa ndwari yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:59.114466220Z",
+  "model": "glm-5.3"
+}

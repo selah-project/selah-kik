@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na Cauri agunjĩra ⟨את⟩ andũ othe kĩambani, magethi coderera Keiira, gũciringa kũrĩ Dawidi na kũrĩ andũ acio.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "agunjĩra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kĩambani"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "magethi coderera"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keiira"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "gũciringa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũrĩ"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "andũ acio"
+    }
+  ],
+  "timestamp": "2026-10-02T06:28:42.372363393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Nĩguo agĩtũma ⟨את⟩ ihooto yake kwa Yahwe, kũrĩ mũrango wa hema ya mwaaĩro: rwimbe rwa ihooto.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "agĩtũma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihooto yake"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ihooto yake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mwaaĩro"
+    },
+    {
+      "surface": "איל",
+      "gloss": "rwimbe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "rwa ihooto"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:08.864351515Z",
+  "model": "glm-5.3"
+}

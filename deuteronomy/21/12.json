@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "nĩũkĩmũrehere gatagatĩ-inĩ ka mũciĩ waku, na akĩcũra ⟨את⟩ mutwe wake, na akĩnyorora ⟨את⟩ minyurũ ciao.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "nĩũkĩmũrehere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gatagatĩ-inĩ ka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mũciĩ waku"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "na akĩcũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutwe wake"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "mutwe wake"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "na akĩnyorora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyurũ ciao"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "minyurũ ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:28:36.450513035Z",
+  "model": "glm-5.3"
+}

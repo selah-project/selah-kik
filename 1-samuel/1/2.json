@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na atarĩ na atumia eerĩ; rĩĩtwa rĩa ĩmwe nĩ Hana, na rĩĩtwa rĩa ya keerĩ nĩ Penina; na Penina aarĩ na ciana, na Hana atirĩ na ciana.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "na atarĩ na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa rĩa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya keerĩ"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "na Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "na Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "atirĩ na"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ciana"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:21.089810493Z",
+  "model": "glm-5.3"
+}

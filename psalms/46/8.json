@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Yahwe Cebaoti arĩ na ithuĩ; kĩrĩma kĩa hinya nĩkĩo Erohimu wa Yaakobu. Cera.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "arĩ na ithuĩ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kĩrĩma kĩa hinya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nĩkĩo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:05.423518114Z",
+  "model": "glm-5.3"
+}

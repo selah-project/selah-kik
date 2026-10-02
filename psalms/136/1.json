@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "Thingai Yahwe, nĩgũkorwo ⟨nĩ⟩ mwega, nĩgũkorwo ya riiko hecedi wake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Thingai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya riiko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:57.937604966Z",
+  "model": "glm-5.3"
+}

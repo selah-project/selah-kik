@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Na Yahwe nĩmoĩrire gĩkundi kĩa Iyobu gĩa mũthia kũrigĩrĩra kĩa mbere; nĩagĩtwo ng'ondu 14,000, na ngamĩra 6,000, na ndũrũ 1,000 cia ng'ombe, na punda ciike 1,000.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nĩmoĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩkundi kĩa Iyobu gĩa mũthia"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "gĩkundi kĩa gĩa mũthia"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "kũrigĩrĩra kĩa mbere"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩagĩtwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "14"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ikũmi na inya)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "thuu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "na 6"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "thuu"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "ngamĩra"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "na thuu 1,000"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "ndũrũ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "cia ng'ombe"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "na 1,000"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "punda ciike"
+    }
+  ],
+  "timestamp": "2026-10-02T04:27:26.631546378Z",
+  "model": "glm-5.3"
+}

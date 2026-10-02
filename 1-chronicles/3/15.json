@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na mĩrũ ya Yociyahu: mũnene Yochanan, wa keerĩ Yehoyakim, wa gatatũ Cidkiyahu, wa kana Carumu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na mĩrũ ya"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yociyahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa keerĩ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "wa gatatũ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkiyahu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "wa kana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Carumu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:51.094026251Z",
+  "model": "glm-5.3"
+}

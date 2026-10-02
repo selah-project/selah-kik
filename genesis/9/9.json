@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na nĩndĩ, ona, nĩngĩikururia ⟨את⟩ kĩrĩkanĩro kĩanjũ harĩ ⟨את⟩ inywi, na ⟨את⟩ mboco cinyu nyuma yanyu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na nĩndĩ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "nĩngĩikururia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩanjũ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩanjũ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "harĩ ⟨את⟩ inywi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "mboco cinyu"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "nyuma yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:31.026445712Z",
+  "model": "glm-5.3"
+}

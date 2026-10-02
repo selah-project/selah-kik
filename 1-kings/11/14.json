@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Yahwe akĩimura mũthũ wa Ceromo: ⟨את⟩ Hadadi mũrũ wa Adomu, wa mbembe ya mũthamaki; nĩwe arĩ Adomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akĩimura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mũthũ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "wa Ceromo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadi mũrũ wa Adomu"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "mũrũ wa Adomu"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wa mbembe ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Adomu-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:21.244302877Z",
+  "model": "glm-5.3"
+}

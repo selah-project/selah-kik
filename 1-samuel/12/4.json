@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩmakĩuga atĩrĩ: Ndiũkwendete kũhũrĩra, ndiũkwendete kũhenyekithia, na ndiũkwendete gwĩtwo kĩndũ kũrĩ moko ma mũndũ o na ũmwe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nĩmakĩuga atĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndiũkwendete"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "kũhũrĩra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndiũkwendete"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "kũhenyekithia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndiũkwendete"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "gwĩtwo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kũrĩ moko ma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kĩndũ kana ũndũ o na ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:15:28.413720068Z",
+  "model": "glm-5.3"
+}

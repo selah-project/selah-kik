@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Yahwe nĩaarĩ athamaki wa mbura nene ya mahũa, na Yahwe aakarĩka agĩtikarĩra ariaiku athamaki tene na tene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "wa mbura nene ya mahũa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nĩaarĩ athamaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na aakarĩka agĩtikarĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:50.701687872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ũkahũranĩte ⟨את⟩ iria ithano ihĩtũkaine, na ⟨את⟩ iria ithathatũ ihĩtũkaine; na ũkaigana ⟨את⟩ iria ya gathatũ, kuma mbeere ya ⟨the⟩ hema.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "na ũkahũranĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iria ithano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iria"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ihĩtũkaine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iria ithathatũ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ithathatũ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iria"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ihĩtũkaine"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "na ũkaigana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iria ya gathatũ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ya gathatũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mbeere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:41.017029129Z",
+  "model": "glm-5.3"
+}

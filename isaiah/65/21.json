@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Na makũĩka nyũmba, na makagĩikara; na makameria mboco, na makaria macio matũũra.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "makũĩka"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "makagĩikara"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "makameria"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "makaria"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "matũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:42:52.282811794Z",
+  "model": "glm-5.3"
+}

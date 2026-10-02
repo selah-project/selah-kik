@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Meonotai nĩacithĩkire ⟨את⟩ Ofera; na Ceraya nĩacithĩkire ⟨את⟩ Yoabu, ita wa mũhĩa wa Ge-caracimu; nĩgũkorwo aarutani maarĩ.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Na Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩacithĩkire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofera"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofera"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "na Ceraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩacithĩkire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ita"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "mũhĩa"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Ge-caracimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "aarutani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "maarĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:09:31.268920048Z",
+  "model": "glm-5.3"
+}

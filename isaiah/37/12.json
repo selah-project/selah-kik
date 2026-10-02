@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩ Erohimu cia ndũrĩrĩ ciakahũrithia ⟨את⟩ icio, irĩa baba acio-inĩ makwĩmeenithithia — ⟨את⟩ Gocani, na ⟨את⟩ Harani, na Receti, na aana a Edeni, arĩa makarĩ Baracari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "nĩ... ciakahũrithia"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ icio",
+      "marks": "Erohimu cia ndũrĩrĩ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu cia"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "makwĩmeenithithia"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "baba acio-inĩ makwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gocani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gocani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "na Receti"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa makarĩ"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "Baracari"
+    }
+  ],
+  "timestamp": "2026-10-02T00:42:02.260304421Z",
+  "model": "glm-5.3"
+}

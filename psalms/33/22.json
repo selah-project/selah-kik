@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩgoro heci ciake, Yahwe, ciikare igũrũ rwitũ, o ta ũrĩa twĩte kwĩciirie gwaku.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nĩgoro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heci ciake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "igũrũ rwitũ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ta ũrĩa"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "twĩte kwĩciirie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:00.400501923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Ta kũrwanio rwathi thĩinĩ wa magongona makwa, atwarĩri makwa nĩmaranamkĩtie, rĩrĩa makiuga nakwa mũthenya wothe atĩrĩ: Erohimu waku arĩ kũrĩ?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "ta kũrwanio rwathi"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "thĩinĩ wa magongona makwa"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "nĩmaranamkĩtie"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "atwarĩri makwa"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "rĩrĩa makiuga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "arĩ kũrĩ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:32.220080710Z",
+  "model": "glm-5.3"
+}

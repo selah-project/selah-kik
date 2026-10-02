@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Mũoyo wakwa ũrĩ gatagatĩ kwa simba; nĩngĩmagĩrwo na arĩa me mĩaki — ciana cia andũ acio — menyo mao nĩ njora na mĩcũthi, na rurimi rwao nĩ kĩambũ kĩegĩru.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ kwa"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "simba"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "nĩngĩmagĩrwo"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "arĩa me mĩaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "menyo mao"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "njora"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "na mĩcũthi"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "na rurimi rwao"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kĩambũ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "kĩegĩru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:54.113371641Z",
+  "model": "glm-5.3"
+}

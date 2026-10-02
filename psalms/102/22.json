@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "gũtaũra rĩĩtwa rĩa Yahwe mũciĩ-inĩ wa Cioni, na kũmugooca Yerucarayimu;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "gũtaũra"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "mũciĩ-inĩ wa Cioni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "na kũmugooca"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:00.341594988Z",
+  "model": "glm-5.3"
+}

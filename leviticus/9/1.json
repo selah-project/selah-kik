@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na nĩkĩarĩ mũthenya wa kanana, Moce akarayira Aharoni na ciana ciake, na andũ akũrũ a Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkĩarĩ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wa kanana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "na ciana ciake"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "na andũ akũrũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:35:15.186796673Z",
+  "model": "glm-5.3"
+}

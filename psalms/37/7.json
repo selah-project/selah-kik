@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Ĩikara mũhĩĩ Yahwe-inĩ, ũcookererage harĩ we; ndũhinyararĩre nĩ mũndũ ũrĩa mũciaro wake ũcirethaga, kana mũndũ ũrĩa ũmaruta mĩcirie mĩoru.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Ĩikara mũhĩĩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe-inĩ"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ũcookererage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "harĩ we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "hinyararĩre"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "nĩ mũndũ ũrĩa ũciĩte kuo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "mũciaro wake"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kana mũndũ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũrĩa ũmaruta"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "mĩcirie mĩoru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:18.456449245Z",
+  "model": "glm-5.3"
+}

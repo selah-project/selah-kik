@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Ũthingu wao wothe nĩuĩithe kũrĩa Gurgari; nĩgũkorwo kũo nĩndĩmenete, nĩ ũndũ wa ũru wa icoya ciao; kuuma nyũmba yakwa nĩndĩakaĩrũithia ⟨את⟩ arĩa; ndĩngĩonongorea kũiguithia wendo: atĩa matemba ma othe nĩmahĩtaga rũru",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "Ũthingu wao"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "kũrĩa Gurgari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "nĩndĩmenete"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "icoya ciao"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "kuuma nyũmba yakwa"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "nĩndĩakaĩrũithia ⟨את⟩ arĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "onongorea"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "kũiguithia wendo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "matemba mao"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "mahĩtaga rũru"
+    }
+  ],
+  "timestamp": "2026-10-02T02:19:49.919151428Z",
+  "model": "glm-5.3"
+}

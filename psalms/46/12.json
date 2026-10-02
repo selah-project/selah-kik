@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Yahwe Cebaoti arĩ na ithuĩ; Erohimu wa Yaakobu nĩ kĩrĩgĩ gĩa kũhĩa ithuĩ. Cera.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "arĩ na ithuĩ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kĩrĩgĩ gĩa kũhĩa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:38.190604175Z",
+  "model": "glm-5.3"
+}

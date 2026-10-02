@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Nĩndũ nĩrĩrĩ igũrũ? Na harĩ na we, thĩ-inĩ ndĩngweteka kĩndũ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩndũ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩrĩrĩ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "na harĩ na we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngweteka"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:28.854768803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Nĩnjũũra ginya kĩbacio kĩa Erohimu, ginya Ere, gĩkeno kĩa gĩkũnjo wakwa; nĩngũkugooca na kĩnanda, Erohimu, Erohimu wakwa.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "nĩnjũũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kĩbacio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kĩa Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "gĩkeno kĩa"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "gĩkũnjo wakwa"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "nĩngũkugooca"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kĩnanda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:22.970576762Z",
+  "model": "glm-5.3"
+}

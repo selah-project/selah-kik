@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 14:41",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na Caori akĩugira kwa Yahwe, Erohimu wa Yiceraeri: Ngooya ũtheri. Na Yonatani na Caori magĩrwo, na andũ maarũmiire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩugira"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ngooya"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "magĩrwo"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Caori"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "maarũmiire"
+    }
+  ],
+  "timestamp": "2026-10-01T23:16:42.062946303Z",
+  "model": "glm-5.3"
+}

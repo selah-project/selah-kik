@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 25:25",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ikarĩ mweri wa gatũrũ, Yicimaeli mũrũ wa Netanaya, mũrũ wa Elicama, ũrĩa waturũkire thĩinĩ wa mbũrũ ya ũthamaki, agĩkũra na andũ ikũmi harĩa ⟨את⟩; makagera ⟨את⟩ Gerariahu nĩakuũire, na ⟨את⟩ arĩa a Yehuda, na ⟨את⟩ akacadi arĩa maarĩ ⟨את⟩ hamwe nake Micipa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikarĩ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mweri wa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "gatũrũ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "agĩkũra"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yicimaeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elicama"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "waturũkire thĩinĩ wa mbũrũ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ya ũthamaki"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makagera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gerariahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gerariahu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nĩakuũire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa a Yehuda"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "arĩa a Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akacadi"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "akacadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "maarĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "Micipa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:20.310683170Z",
+  "model": "glm-5.3"
+}

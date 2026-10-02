@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Rĩrĩa nĩndĩheanĩte ⟨את⟩ ngoro yakwa gwĩtereya ũgĩ, na kũona ⟨את⟩ wĩra ũrĩa ũtehwo thĩinie ya thĩ — nĩgwĩkĩra mũthenya na mũcio rirori ndarũonaga ithanwa-inĩ ciake.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Rĩrĩa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩheanĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yakwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "gwĩtereya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "na kũona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wĩra ũrĩa ũtehwo thĩinie ya thĩ"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ũtehwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgwĩkĩra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "na mũcio"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "rirori"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ithanwa-inĩ ciake"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "darũonaga"
+    }
+  ],
+  "timestamp": "2026-10-02T04:43:35.681150469Z",
+  "model": "glm-5.3"
+}

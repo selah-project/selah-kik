@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Rĩrĩa Doegi Mwadomi waokire, akamenyereria Sawuri, na akĩmũũrĩra: Dawidi nĩookire nyumba ya Ahimeleki.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "rĩrĩa...waokire"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doegi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Mwadomi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamenyereria"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sawuri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũrĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩookire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:38.489838412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na gũcoka agĩtekĩra magegania, kũruta ũguni wa dhahabu, na wa feza, na wa kĩng'ũcũ.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "gũcoka agĩtekĩra"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "magegania"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kũruta ũguni"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "wa dhahabu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "na wa feza"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "na wa kĩng'ũcũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:12.018336026Z",
+  "model": "glm-5.3"
+}

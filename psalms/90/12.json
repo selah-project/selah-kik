@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Cetũkĩrĩra kũana mĩthenya yitũ ⟨⟨arĩ⟩⟩ wega, ningĩ tuũke twendere ngoro ya ũgima.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "kũana"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mĩthenya yitũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wega"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "cetũkĩrĩra"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "tuũke twendere"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgima"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:13.966474047Z",
+  "model": "glm-5.3"
+}

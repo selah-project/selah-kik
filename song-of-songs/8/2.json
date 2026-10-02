@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩngakwĩrĩta, nĩngakuunya ũnge rũciĩ-inĩ rwa mama wakwa; ũrĩa aandĩkĩririe nĩnĩnĩte kũndũ ngatho; nĩngakũnywesha yayini ya mĩtheremo, na mũciri wa komana wakwa.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "nĩngakwĩrĩta"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "nĩngakuunya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũnge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rũciĩ-inĩ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "rwa mama wakwa"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "nĩnĩnĩte"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "nĩngakũnywesha"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "yayini"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "ya mĩtheremo"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "mũciri"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "wa komana wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:12.880551453Z",
+  "model": "glm-5.3"
+}

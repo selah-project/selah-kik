@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ihũrũrie ihoto zaku, Yahwe, na hecedi zaku, nĩgũkoona kuuma mbere-yũ nĩizo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ihũrũrie"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ihoto zaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "na hecedi zaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoona"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kuuma mbere-yũ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nĩizo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:39.176866932Z",
+  "model": "glm-5.3"
+}

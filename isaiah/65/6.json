@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 65:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Rĩrĩ, nĩ ĩrĩandĩkĩtwo mbere yakwa; nti ngĩhĩrĩka, no nĩngĩhoora, na nĩngĩhoora thĩinĩ wa hĩngore ciao.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "nĩ ĩrĩandĩkĩtwo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "ngĩhĩrĩka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o gĩko kĩa gũtirĩ kĩngĩ"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "nĩngĩhoora"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "na nĩngĩhoora"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "hĩngore ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:58:22.372761786Z",
+  "model": "glm-5.3"
+}

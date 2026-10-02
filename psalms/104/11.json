@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Macũonjo nĩmeoninyesha nyamũ ciothe cia mũgũnda kũnyua; ndigiri cia gĩthaka nĩcihorerithia kũrĩa gũkendaga maĩ.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "nĩmeoninyesha kũnyua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyamũ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "cia mũgũnda"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "nĩcihorerithia"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "ndigiri cia gĩthaka"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "gũkenda maĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:49.960364534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Na ũrĩa we, agoke ⟨את⟩ Yiceraeri kuuma macooki ao mathĩonĩ.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na ũrĩa we"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "agoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma mathĩonĩ"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "macooki ao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.414881899Z",
+  "model": "glm-5.3"
+}

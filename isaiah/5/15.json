@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩ ũndũ ũcio mũndũ agĩrwo thayũ, na mũndũ agĩthingithithio, na macho ma arĩa maheenyũ magĩthingithithio.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "agĩrwo thayũ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "agĩthingithithio"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "na macho ma"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "arĩa maheenyũ"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "magĩthingithithio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:28:00.980431860Z",
+  "model": "glm-5.3"
+}

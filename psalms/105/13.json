@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Nĩmagĩĩrĩragĩra kuuma rũrĩrĩ-inĩ ginya rũrĩrĩ ũngĩ, kuuma ũthamaki-inĩ ginya andũ arĩa angĩ.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "nĩmagĩĩrĩragĩra"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kuuma rũrĩrĩ-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rũrĩrĩ ũngĩ"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "kuuma ũthamaki-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "arĩa angĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:08.062289740Z",
+  "model": "glm-5.3"
+}

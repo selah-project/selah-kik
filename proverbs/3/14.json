@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩgũkorwo biaro yake nĩ yega kũrĩ biaro ya mbeca, na igooti yake kũrĩ ndahabu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yega"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "biaro yake"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "biaro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbeca"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "na ndahabu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "igooti yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:45:57.620646431Z",
+  "model": "glm-5.3"
+}

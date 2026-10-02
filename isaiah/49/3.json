@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Nĩamũũrĩtie atĩrĩ: Mũtumia wakwa nĩwewe, Yiceraeri, ũrĩa thĩinĩ waku nĩngĩtherĩka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩamũũrĩtie atĩrĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mũtumia wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "nĩngĩtherĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:50:22.187233218Z",
+  "model": "glm-5.3"
+}

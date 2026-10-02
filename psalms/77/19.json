@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Mũgambo w'ũrumbũya waku wi thĩinĩ wa rũhari; mĩcĩgi nĩyereriire ⟨thĩ⟩; thĩ nĩyagĩe kũgũtha na kũgũthetha.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "w'ũrumbũya waku"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "thĩinĩ wa rũhari"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "nĩyereriirie"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mĩcĩgi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "nĩyagĩe kũgũtha"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "na kũgũthetha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:55.832598323Z",
+  "model": "glm-5.3"
+}

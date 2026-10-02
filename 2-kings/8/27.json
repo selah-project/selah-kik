@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 8:27",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na akĩyenderera mũhĩtĩre wa nyũmba ya Ahabu, na akĩĩya ⟨ũru⟩ thĩinĩ wa maitho ma Yahwe, ta nyũmba ya Ahabu, nĩgũkorwo nĩwe mũhũrwo wa nyũmba ya Ahabu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akĩyenderera"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mũhĩtĩre wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akĩĩya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨ũru⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ta nyũmba ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mũhũrwo wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:12:54.314849094Z",
+  "model": "glm-5.3"
+}

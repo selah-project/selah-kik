@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Mĩrora yakwa Yahwe nĩngĩcokerithia, rĩrĩ, mbere-inĩ ya andũ ake arothe.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Mĩrora yakwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nĩngĩcokerithia"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "mbere-inĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya arothe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:15.008165573Z",
+  "model": "glm-5.3"
+}

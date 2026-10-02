@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu nĩarathimire ⟨את⟩ cio, agĩtego: Rĩarĩ na mengere, mũnothe ⟨את⟩ maaĩ maria ma riũa-inĩ, na njamba cĩingĩhe thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "nĩarathimire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cio (maũndũ ma mahũa ma v21)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩtego"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "rĩarĩ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mengere"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mũnothe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maaĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "riũa-inĩ"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "na njamba"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "cĩingĩhage"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:36.865462662Z",
+  "model": "glm-5.3"
+}

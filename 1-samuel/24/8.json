@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩ Dawidi agĩcingithia ⟨את⟩ andũ ake na ciugo, ndakamareka kũiyambũkĩra Caori; nao Caori agĩyambũka kuuma mwima-inĩ, agĩthiĩ gĩcigo-inĩ.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "agĩcingithia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ake"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "na ciugo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "kumareria"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kũiyambũkĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Caori"
+    },
+    {
+      "surface": "קם",
+      "gloss": "agĩyambũka"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "kuuma mwima-inĩ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "gĩcigo-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:23:23.680911738Z",
+  "model": "glm-5.3"
+}

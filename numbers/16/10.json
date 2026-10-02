@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na agĩkũroŋgia ⟨את⟩ we, na ⟨את⟩ ariothe amamacio macio aria a Rewi ⟨את⟩ hamwe nawe — na mwĩrenda ta ũthaka ũrĩa ũhakanĩru?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "na agĩkũroŋgia"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ariothe amamacio macio aria a Rewi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ariothe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "amamacio mawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "macio aria"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "a Rewi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hamwe nawe"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "na mwĩrenda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ta"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ũthaka ũrĩa ũhakanĩru"
+    }
+  ],
+  "timestamp": "2026-10-01T22:01:10.356960139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Dawidi nĩanyiite ⟨את⟩ ciamba cia thahabu ciaarĩ kũrĩ acũthĩ a Hadadezeri, akĩcĩnjĩrĩra Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nĩanyiite"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciamba cia thahabu"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ciamba"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cia thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ciaarĩ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "acũthĩ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "akĩcĩnjĩrĩra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:33:06.390545110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Yahwe akiuga: Nĩngũcĩra ⟨את⟩ mũndũ ũrĩa nĩngĩombire, kuuma igũrũ rĩa thĩ; kuuma mũndũ nginya nyamu, nginya nyamũ cia kũrera, na nginya cieni cia igũrũ; nĩnĩiguũkire nĩndiomire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "nĩngũcĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "nĩngĩombire"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuuma mũndũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nyamũ cia kũrera"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na nginya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "cieni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cia igũrũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nĩnĩiguũkire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "nĩndiomire"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:42.122535593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Na me matamenaga atĩ Yocefu akuigua, nĩ gĩtĩ mũtaũri aarĩ gatagatĩ kaina makinĩ.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "na me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "matamenaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akuigua"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ gĩtĩ"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "mũtaũri"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "arĩ gatagatĩ kaina makinĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:26.183036534Z",
+  "model": "glm-5.3"
+}

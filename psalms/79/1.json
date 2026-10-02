@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 79,
+  "translation": "Kĩinĩro kĩa Acaphi. Erohimu, ndũrĩrĩ nĩmakĩiyũra gĩikaro gĩaku; nĩmacookie hinya ⟨את⟩ heikari yaku ya ũtheru; macĩĩrire ⟨את⟩ Yerucarayimu ta mahiga marĩŋgĩ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩinĩro"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩa Acaphi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩmakĩiyũra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "gĩikaro gĩaku"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "nĩmacookie hinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heikari yaku ya ũtheru"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ũtheru waku"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "macĩĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucarayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "ta mahiga marĩŋgĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:39.847747719Z",
+  "model": "glm-5.3"
+}

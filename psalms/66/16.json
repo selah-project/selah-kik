@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "İthĩrai, mũthĩĩrie, arĩa othe mamete Erohimu, nagwĩteererania ũrĩa wamenyekie ngoro yagwa.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "İthĩrai"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mũthĩĩrie"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "nagwĩteererania"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mamete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wamenyekie"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ngoro yagwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:58.869180308Z",
+  "model": "glm-5.3"
+}

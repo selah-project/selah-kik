@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na ikahĩtũka, rĩrĩa ũthamaki wa Rehabeamu wĩkĩtwo maarĩĩro-inĩ makwawo na we amenyuo hinya, ahereire ⟨את⟩ Tora ya Yahwe, na Yiceraeri yothe hamwe nake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikahĩtũka"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "rĩrĩa wĩkĩtwo maarĩĩro-inĩ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeamu"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "na we amenyuo hinya"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ahereire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora ya Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:48:25.570681929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Ngoro ciao nĩcinjirũke ta mara; nĩwe Tora yaku nĩĩrũmagĩra mwĩticio.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "nĩcinjirũke"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "ta mara"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ngoro ciao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yaku"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "nĩĩrũmagĩra mwĩticio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:32.521427053Z",
+  "model": "glm-5.3"
+}

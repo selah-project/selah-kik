@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 2:3",
+  "book": "joel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mbere yake mwaki ũmũhĩtie o kĩrĩa kĩarĩ nakĩo kwatwo na kĩrĩa kĩrĩ kwerũ; na thutha wakĩo thĩ nyararĩkĩtie ũrĩa ũrĩa ũgũthĩnjĩrũkithia mwaki ũcio ũtheri mwaki ũcio wĩ na hinya mũno; thĩ ĩrĩa ĩrĩ mbere yake ĩrahota kũgerwo na ũrĩa kĩambĩrĩria-inĩ kĩa Eteni — ũcio wa mĩena ĩrĩ kĩrĩa kĩrĩ na mĩthemba yothe mĩtheri — na thutha wake nĩ bũrũri wa kĩndũ gĩtarĩ na mũndũ o wothe ũcio ũgĩiyũrĩtwo na kĩndũ kĩrĩa kĩahotithagia kũigua o na harĩ kĩndũ kĩrĩa kĩrahota kũigua o kĩndũ kĩrĩa kĩarĩ nakĩo handũ, gũtirĩ kĩndũ gĩaiguithania gĩkĩragĩa kana gĩcokĩtio nakĩo.",
+  "tokens": [
+    {
+      "surface": "לְפָנָיו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "אָכְלָה",
+      "gloss": "mũhĩtie o kĩrĩa kĩarĩ nakĩo"
+    },
+    {
+      "surface": "אֵשׁ",
+      "gloss": "mwaki"
+    },
+    {
+      "surface": "וְאַחֲרָיו",
+      "gloss": "na thutha wakĩo"
+    },
+    {
+      "surface": "תְּלַהֵט",
+      "gloss": "ũrĩa ũgũthĩnjĩrũkithia"
+    },
+    {
+      "surface": "לֶהָבָה",
+      "gloss": "ũtheri mwaki ũcio ũĩ na hinya"
+    },
+    {
+      "surface": "כְּגַן",
+      "gloss": "ũrĩa kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "עֵדֶן",
+      "gloss": "Eteni"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "thĩ ĩrĩa ĩrĩ mbere yake ĩrahota kũgerwo na"
+    },
+    {
+      "surface": "לְפָנָיו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "וְאַחֲרָיו",
+      "gloss": "na thutha wake"
+    },
+    {
+      "surface": "מִדְבָּר",
+      "gloss": "bũrũri wa kĩndũ gĩtarĩ na mũndũ"
+    },
+    {
+      "surface": "שְׁמָמָה",
+      "gloss": "ũgĩiyũrĩtwo na kĩndũ kĩrĩa kĩahotithagia kũigua"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "פְּלֵיטָה",
+      "gloss": "kĩndũ kĩrĩa kĩrahota kũigua"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "הָיְתָה",
+      "gloss": "kĩragĩa"
+    },
+    {
+      "surface": "לּוֹ",
+      "gloss": "nakĩo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:26:28.234492029Z",
+  "model": "glm-5.3"
+}

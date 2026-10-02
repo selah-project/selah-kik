@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Rora kuuma kwa ⟨את⟩ arĩa magolitwo, kuuma kwa Heradai, na kuuma kwa ⟨את⟩ Tobiya, na kuuma kwa ⟨את⟩ Yedayah; niũkĩrĩra ũmwe, mũthenya ũcio, ũnyiire mwoni-inĩ wa Yoaciyah mũrũ wa Cefanyah, arĩa macokire kuuma Babironi.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "rora"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma kwa ⟨את⟩",
+      "marks": "arĩa magolitwo"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "arĩa magolitwo"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "kuuma kwa Heradai"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na kuuma kwa ⟨את⟩",
+      "marks": "Tobiya"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobiya"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na kuuma kwa ⟨את⟩",
+      "marks": "Yedayah"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Yedayah"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "niũkĩrĩra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we ũmwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ũnyiire"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mwoni-inĩ"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "wa Yoaciyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "wa Cefanyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "macokire"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "kuuma Babironi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:42:51.506174766Z",
+  "model": "glm-5.3"
+}

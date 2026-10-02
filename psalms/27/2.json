@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Rĩrĩa arĩa megũta maũndũ mooru maakinyire igũrũ rĩakwa gwĩla ⟨את⟩ mwĩrĩ wakwa, arĩa mahotanĩtie nakwa na mathũ makwa — acio makĩhinyũka na kũgwa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "rĩrĩa ... maakinyire hakuhĩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rĩakwa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "arĩa megũta maũndũ mooru"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "gwĩla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwĩrĩ wakwa"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mwĩrĩ wakwa"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "arĩa mahotanĩtie nakwa"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "na mathũ makwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "makĩhinyũka"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "na kũgwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:37.755770468Z",
+  "model": "glm-5.3"
+}

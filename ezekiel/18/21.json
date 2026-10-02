@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 18:21",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na mũndũ wo mwahũ akĩcooka kuuma mahĩtia make marĩa mothe acokĩte, na akĩrĩkĩra ⟨את⟩ mawatho makwa marĩa othe, na akĩgĩra ciira na cedeki, arĩkũa na gũkũa, ti arĩkua.",
+  "tokens": [
+    {
+      "surface": "והרשע",
+      "gloss": "Na mũndũ wo mwahũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akĩcooka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma mahĩtia make othe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "mahĩtia make"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "marĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "acokĩte"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "na akĩrĩkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho makwa marĩa othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mawatho makwa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na akĩgĩra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "arĩkũa na gũkũa"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "arĩkũa na gũkũa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "arĩkua"
+    }
+  ],
+  "timestamp": "2026-10-02T06:47:35.526929176Z",
+  "model": "glm-5.3"
+}

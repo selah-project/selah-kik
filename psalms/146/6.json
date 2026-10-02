@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 146,
+  "translation": "Ũrĩa ombaga ⟨את⟩ igũrũ na ⟨את⟩ thĩ, ⟨את⟩ irĩa na ⟨את⟩ indo ciothe irĩ thĩinĩ wacio, ũrĩa ĩngĩĩthereria ma ndũgũ kwa ithũĩro rĩrehe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ũrĩa ombaga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irĩa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "indo ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "thĩinĩ wacio"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ũrĩa ĩngĩĩthereria"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ma ndũgũ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa ithũĩro rĩrehe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:16.204485866Z",
+  "model": "glm-5.3"
+}

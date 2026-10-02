@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na mbũri ya mbura ĩgĩcinĩkaga igũrũ wayo ⟨את⟩ mahĩtia mao mothe, ĩgĩthiĩ thĩ ya kũcwanjwo, na akĩmĩreka nyambũra-inĩ.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ĩgĩcinĩkaga"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbũri ya mbura"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ wayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahĩtia mao mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "mahĩtia mao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gĩthiĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ya kũcwanjwo"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na akĩmĩreka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbũri ya mbura ĩyo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbũri ya mbura ĩyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nyambũra-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:45.241800077Z",
+  "model": "glm-5.3"
+}

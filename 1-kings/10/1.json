@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na mũthamaki wa Ceba akĩigua ũthii wa Ceromo, ũrĩa waturĩte thĩinĩ wa rĩĩtwa rĩa Yahwe, na akĩũka agukeyera ⟨את⟩ na mĩthiambo.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Na mũthamaki"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "wa Ceba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthii"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ũthii"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Ceromo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "thĩinĩ wa rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rĩa Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "na akĩũka"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "agukeyera"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "na mĩthiambo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:01.256122189Z",
+  "model": "glm-5.3"
+}

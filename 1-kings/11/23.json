@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Erohimu nĩamũteithĩtie thũ ⟨את⟩ Rezoni, mũrũ wa Eriyada, ũrĩa nĩathimbire kuuma harĩ na ⟨את⟩ Hadadiezere, mũthamaki wa Cubah, mwathi wake.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nĩamũteithĩtie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezoni"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "wa Eriyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nĩathimbire"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma harĩ na ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadiezere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "wa Cubah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mwathi wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:26.404939308Z",
+  "model": "glm-5.3"
+}

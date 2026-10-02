@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Kuma hekarũ-inĩ yaku igũrũ rĩa Yerucarayimu; athamaki nĩmakũringa mabeko kwaku.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "kuma hekarũ-inĩ yaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "nĩmakũringa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "שי",
+      "gloss": "mabeko"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:36.159052892Z",
+  "model": "glm-5.3"
+}

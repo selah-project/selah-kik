@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩgũku Adonai oigĩte kwĩngĩ: thutha wa mĩaka ĩmwe, ta mĩaka ya mũthũra, thogo ĩa Kedari yothe nĩgĩkahinga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwĩngĩ (kũrĩ ngĩ)"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "thutha wa (ĩ mĩtĩrĩre ĩa)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka ĩmwe"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ta mĩaka ya"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "mũthũra"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "nĩgĩkahinga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "thogo"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedari"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:41.258389915Z",
+  "model": "glm-5.3"
+}

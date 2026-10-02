@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mwega mũno ũrĩa ũtikĩte na ũkinyĩte mĩthenya ngiri imwe, mĩrongo ithathatũ, mĩrongo ithathatũ na ithano.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mwega mũno"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "ũrĩa ũtikĩte"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "na ũkinyĩte"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri imwe"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ithathatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mĩrongo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mĩrongo ithathatũ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na ithano"
+    }
+  ],
+  "timestamp": "2026-10-02T07:07:25.045998078Z",
+  "model": "glm-5.3"
+}

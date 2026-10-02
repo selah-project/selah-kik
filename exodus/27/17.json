@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Mĩgumo yothe ya kĩhingo kĩa thari, guu therũ, ĩcirĩtwo na mĩgitha ya fedha; minyoro yayo nĩ ya fedha, na mamatithio yayo nĩ ya ncumu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "mĩgumo ya"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kĩhingo kĩa thari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "guu therũ"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "ĩcirĩtwo na mĩgitha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya fedha"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mamatithio yayo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ncumu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya fedha"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mamatithio yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:35.893898123Z",
+  "model": "glm-5.3"
+}

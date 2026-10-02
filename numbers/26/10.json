@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Thĩ yaagũrũkĩte mũrũmwa wayo, nĩrayamirie ⟨את⟩ arĩa hamwe na ⟨את⟩ Koraci, harĩ kũrĩrwo kwa ciũmbĩ ĩyo; mũranyo ũrĩkoretwo ũciarĩtie andũ mirongo ĩrĩ na makũmia ma ũmwe — ⟨את⟩ arĩa makũmia matano na magana eerĩ andũ — nao maatigwo ngũthĩ.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "yaagũrũkĩte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũmwa wayo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mũrũmwa wayo"
+    },
+    {
+      "surface": "תבלע",
+      "gloss": "nĩrayamirie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ arĩa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Koraci"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraci"
+    },
+    {
+      "surface": "במות",
+      "gloss": "harĩ kũrĩrwo kwa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ciũmbĩ ĩyo"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "rĩrĩa ũrĩkoretwo ũciarĩtie"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mũranyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ 250"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makũmia matano"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na magana eerĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "naao maatigwo"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "ngũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:07:52.798442978Z",
+  "model": "glm-5.3"
+}

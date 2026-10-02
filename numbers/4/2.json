@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Kũbarire ⟨את⟩ mĩtwe ya aana a Kehati kuuma mĩcingĩirĩro ya aana a Revi, ya mĩceni ciacio, na ya nyũmba cia athathe acao.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "kũbarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtwe ya aana a Kehati"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mĩtwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kuuma mĩcingĩirĩro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ya mĩceni ciacio"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ya nyũmba"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "cia athathe acao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:18:20.964653819Z",
+  "model": "glm-5.3"
+}

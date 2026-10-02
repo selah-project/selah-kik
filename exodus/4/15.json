@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Ũkahĩra na we, ũkaikara ⟨את⟩ ciugo iria kanuanĩ kake, na nĩndĩ nĩngĩkorwo hamwe na kanua gakwa, na hamwe na kanua kake, na nĩngĩhĩrĩkĩria iinyu ⟨את⟩ ũrĩa mũkahĩra.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ũkaratha na"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "we"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ũkaikara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo iria"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo iria"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "kanuanĩ kake"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na nĩndĩ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nĩngĩkorwo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kanua gakwa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na hamwe na"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "kanua kake"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "nĩngĩhĩrĩkĩria"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "iinyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa mũkahĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mũkahĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:03:03.574873848Z",
+  "model": "glm-5.3"
+}

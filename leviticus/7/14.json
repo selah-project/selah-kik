@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na agatuũra kuuma harĩ ĩyo ĩmwe ya kĩheo gĩake gothe ta gĩtũkĩro kũrĩ Yahwe; ya kĩhĩnjinia ũrĩa ũcakarĩirie ⟨את⟩ thakame ya Shelamimu nĩyake ya kũkorwo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Na agatuũra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma harĩ ĩyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ya kĩheo"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "gĩake gothe"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "gĩtũkĩro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũrĩ Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ya kĩhĩnjinia"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "ũrĩa ũcakarĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame"
+    },
+    {
+      "surface": "דם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ya Shelamimu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩgũo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩyake ya kũkorwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:30.516203954Z",
+  "model": "glm-5.3"
+}

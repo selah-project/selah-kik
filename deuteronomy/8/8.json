@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Thĩ wa ngano na mbembe, na mũrimũ wa njabala, na mũkũyũ wa mathigwa, na mũrũthia; thĩ wa mũkarĩ wa maguta maũrũ na maũndũ matarũ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "na mbembe"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "na mũrimũ wa njabala"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "na mũkũyũ wa mathigwa"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "na mũrũthia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "mũkarĩ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maguta maũrũ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na maũndũ matarũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:21:06.266747637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Rũgama kuuma itatura-inĩ — wee, mũka waku, ciana ciaku, na atumia a ciana ciaku, hamwe na wee ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Rũgama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "itatura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "mũka waku"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ciana ciaku"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "atumia a"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ciana ciaku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hamwe na wee"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:50.939038695Z",
+  "model": "glm-5.3"
+}

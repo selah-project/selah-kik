@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Cedeki na ciira nĩcio igĩtigĩrĩirie kĩgĩrĩ gĩaku; hecedi na ma niico ithiĩ mbere ya thayũ waku.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ciira"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "igĩtigĩrĩirie"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kĩgĩrĩ gĩaku"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ma"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "niico ithiĩ mbere"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thayũ waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:08.814771991Z",
+  "model": "glm-5.3"
+}

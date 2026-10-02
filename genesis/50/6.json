@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Na Paroh akiuga: Ûrũa, ũhike ⟨את⟩ ithe waku, ũrĩa woigĩte ahĩtĩtie kĩhooto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ũrũa"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ũhike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe waku"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ithe waku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "woigĩte ahĩtĩtie kĩhooto"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:32.798937068Z",
+  "model": "glm-5.3"
+}

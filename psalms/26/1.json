@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ya Dawidi. Duhiria, Yahwe, nĩrĩkua nĩndĩthĩĩte mũthingu-inĩ wakwa, na thĩinĩ wa Yahwe nĩndĩhokete; ndingĩhũrũka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Duhiria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩkua"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "mũthingu-inĩ wakwa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nĩndĩthĩĩte"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "na thĩinĩ wa Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nĩndĩhokete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "kũhũrũka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:50.002171339Z",
+  "model": "glm-5.3"
+}

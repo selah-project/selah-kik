@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Maso ma Yahwe methĩkĩrĩirie arĩa arĩ cedeki, na matũ make magĩrĩkuithĩkĩrĩria kũguna kwao.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ethĩkĩrĩirie"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa arĩ cedeki"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "na matũ make"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ethĩkĩrĩirie"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kũguna kwao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:37.181150745Z",
+  "model": "glm-5.3"
+}

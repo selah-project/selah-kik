@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Ĩnooga; ũgitari ũrĩ hakuhĩ na arĩa mamũtinĩ, thĩĩ nginya keerĩ ikare thĩ-inĩ yĩitu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ĩnooga"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "rĩ hakuhĩ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "arĩa mamũtinĩ"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ũgitari"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ikare"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "keerĩ"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "thĩ-inĩ yĩitu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:03.972413582Z",
+  "model": "glm-5.3"
+}

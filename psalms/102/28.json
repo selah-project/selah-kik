@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Na we ndĩwe ũrĩa ũmwe, na mĩaka yaku ndĩgĩthirĩku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndĩwe ũrĩa ũmwe"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "na mĩaka yaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntĩ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "gĩthirĩku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:06.918074906Z",
+  "model": "glm-5.3"
+}

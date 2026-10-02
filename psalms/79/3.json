@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 79,
+  "translation": "Nĩmathenyere thakame yao ta maaĩ matu-inĩ ma Yerucarayimu, na gũtirĩ mũndũ wa kũhikithia.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "nĩmathenyere"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "thakame yao"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ta maaĩ"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "matu-inĩ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "mũndũ wa kũhikithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:39.851166100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Yaakobu akiuga rĩrĩa aoimũona: Ũyũ nĩ kĩambi kĩa Erohimu; akĩheitia rĩĩtwa rĩa kũndũ ũyũ Macanayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "aoimũona"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kĩambi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kĩa Erohimu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ũyũ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩheitia rĩĩtwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Macanayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:48.262386979Z",
+  "model": "glm-5.3"
+}

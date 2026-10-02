@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩ ũndũ arĩa mecirũkia macheni make mathiĩre mahenanie Erohimu, nĩmakeire riika, nĩamabatire给他们 — kana: Nĩgoro nĩ ũndũ macheni mathiĩ mahenanie Erohimu, ũndũ wake nĩwaamĩirie ao nyomba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩguo thĩinĩ wa ũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mahenanie"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "arĩa macheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nĩamĩirie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyomba"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:11.834169058Z",
+  "model": "glm-5.3"
+}

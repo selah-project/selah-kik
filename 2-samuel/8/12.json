@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Kuuma Aramu, na kuuma Moabu, na kuuma aana a Amoni, na kuuma Perishti, na kuuma Amaleki, na kuuma ũhooti wa Hadadezeri mũrũ wa Rehobu mũthamaki wa Coba.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "kuuma Aramu"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "na kuuma Moabu"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "na kuuma aana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "na kuuma Perishti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "na kuuma Amaleki"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "na kuuma ũhooti wa"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "wa Coba"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:33.863732195Z",
+  "model": "glm-5.3"
+}

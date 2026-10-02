@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na rĩũcu, rĩrĩa ibuku rĩu rĩkĩgera kwanyu, na moimĩte nyinyi mwerĩ na aana a mwathi wanyu, na nyinyi mwerĩ na ⟨את⟩ marĩtha na ⟨את⟩ mahiu, na mũciĩ mũkũrũ wa kĩrĩgĩ na cĩhia cia mbaara —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩũcu"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "rĩkĩgera"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwanyu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ na nyinyi",
+      "marks": "aana a mwathi wanyu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "a mwathi wanyu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ na nyinyi",
+      "marks": "marĩtha na mahiu"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "marĩtha"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "na mahiu"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "na mũciĩ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "wa kĩrĩgĩ"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "na cĩhia cia mbaara"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:46.191597456Z",
+  "model": "glm-5.3"
+}

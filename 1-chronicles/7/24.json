@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na mũirũ wake Ceara ndũmĩrĩri; ũrĩa ũnairire ⟨את⟩ Beithi-Horoni wa thĩ na ⟨את⟩ ũrĩa wa igũrũ, na ⟨את⟩ Uceni-Ceara.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Na mũirũ wake"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Ceara"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "nĩonairire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beithi-Horoni wa thĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beithi"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "wa thĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũrĩa wa igũrũ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "wa igũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Uceni-Ceara"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uceni"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Ceara"
+    }
+  ],
+  "timestamp": "2026-10-02T05:25:02.737526835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Mũhianĩre wakwa-inĩ hinyaĩrĩra, hĩngũra ũndũ wa ma na wa nyamũkio na wa cedeki; na kũhingũrĩria kwakwa, mũgwanja wakwa, mĩeno ya gũkwega.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "mũhianĩre wakwa-inĩ"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "hinyaĩrĩra"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "hĩngũra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũndũ wa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ma"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "na wa nyamũkio"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "kũhingũrĩria kwakwa"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mĩeno ya gũkwega"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mũgwanja wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:01.142973592Z",
+  "model": "glm-5.3"
+}

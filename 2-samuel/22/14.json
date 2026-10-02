@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Yahwe nĩrahũra mbura kuuma igũrũ, na Elyoni akuhĩrie mũgambo wake.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "nĩrahũra mbura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "na Elyoni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akuhĩrie"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mũgambo wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:44:54.981862565Z",
+  "model": "glm-5.3"
+}

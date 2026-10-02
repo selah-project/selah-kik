@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ nyumba ya Yehuda nĩngĩhorea, na nĩngĩmũhonokia harĩ Yahwe Erohimu wao; na ndĩngĩmũhonokia na uta, na thenja, na mbaara, na ndatũ, na aarĩci a ndatũ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "nĩngĩhorea"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "nĩngĩmũhonokia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "harĩ Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩngĩmũhonokia"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "mũhonokia ũngĩ"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "na uta"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "na thenja"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "na mbaara"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "na ndatũ"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "na aarĩci a ndatũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:18:07.126828933Z",
+  "model": "glm-5.3"
+}

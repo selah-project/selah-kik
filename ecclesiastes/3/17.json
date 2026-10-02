@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ndarĩrire ndĩ ngoro-inĩ yakwa: Erohimu nĩgũciira ⟨את⟩ mũcedeki na ⟨את⟩ mũrashwa, nĩgũkorũo kĩrĩa hĩndĩ ya o kĩenda, na hĩndĩ ya o gĩtua gĩrĩ kũu.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ndarĩrire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ngoro-inĩ yakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũcedeki"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũrashwa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mũrashwa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "nĩgũciira"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya o"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kĩenda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na hĩndĩ ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gĩtua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũu"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:56.452440241Z",
+  "model": "glm-5.3"
+}

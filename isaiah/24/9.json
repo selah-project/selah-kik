@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na kĩrĩra-inĩ matanyua mbũrũ; kahũa gaka mũrũ kwa arĩa maĩnyua.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "na kĩrĩra-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "maĩnyua"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mbũrũ"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "kana mũrũ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kahũa"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "kwa arĩa maĩnyua"
+    }
+  ],
+  "timestamp": "2026-10-02T06:37:06.372910546Z",
+  "model": "glm-5.3"
+}

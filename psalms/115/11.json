@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Arĩa matinyĩte Yahwe, ithĩrie thayũ Yahwe; ũteithio wao na ng'aci yao nĩwe.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Arĩa matinyĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ithĩrie"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "thayũ Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ũteithio wao"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "na ng'aci yao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:23.166842225Z",
+  "model": "glm-5.3"
+}

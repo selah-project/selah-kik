@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na mwathi wa Micirayimu akĩmeera: Moce na Aharoni, angĩkorwo atĩa mũcemanĩrĩra ⟨את⟩ andũ kuma mĩcingĩrĩre macio? Ĩthai kũmĩthembo yanyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "angĩkorwo atĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "mũcemanĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "kuma mĩcingĩrĩre macio"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ĩthai"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "kũmĩthembo yanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:26.739497324Z",
+  "model": "glm-5.3"
+}

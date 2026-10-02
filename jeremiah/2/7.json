@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩngĩnjĩrire ⟨את⟩inyũ nginya thĩ ya mĩmera mĩega, mũnyũe ibi rĩayo na mwega wayo; na moote-inĩ nĩmo moiragĩririe ⟨את⟩ thĩ yakwa, na gĩikaro kĩakwa nĩmwagĩcie thingu.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "nĩngĩnjĩrire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩inyũ",
+      "marks": "inyũ (nginya thĩ ya mĩmera mĩega)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ya mĩmera mĩega"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mũnyũe"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ibi rĩayo"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "na mwega wayo"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "na moote-inĩ"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "nĩmo moiragĩririe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yakwa"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "thĩ yakwa"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "na gĩikaro kĩakwa"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "nĩmwagĩcie"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "thingu"
+    }
+  ],
+  "timestamp": "2026-10-02T01:00:28.327085747Z",
+  "model": "glm-5.3"
+}

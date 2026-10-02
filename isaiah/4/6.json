@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nao kĩhingo kĩa kũthimba kĩgĩtũĩka kĩatu hĩndĩ ya mũthenya kũma mahũa, na mathuro, na handũ ha kũhĩa — kũma mbura ihũrũkanĩte na kũma mbura.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "kĩhingo kĩa kũthimba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kĩgĩtũĩka"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "kĩatu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "hĩndĩ ya mũthenya"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kũma mahũa"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "na mathuro"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "na handũ ha kũhĩa"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "kũma mbura ihũrũkanĩte"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "na kũma mbura"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:34.064158654Z",
+  "model": "glm-5.3"
+}

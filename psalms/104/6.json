@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Mũhũra ũrĩa maaĩ meniene ũmũkũrĩte ta nguo; maaĩ maninukire gothi igũrũ wa maĩ.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "mũhũra ũrĩa maaĩ meniene"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ta nguo"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "wamũkũrĩte"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "maninukire gothi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:43.142049196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Ndũrĩrĩ yothe ĩkĩcoterezera ⟨את⟩ ndetha cia thahabu irĩ cigũrũ-inĩ ciacio, ĩkĩmũroreta kũrĩ Aharoni.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ĩkĩcoterezera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndetha cia thahabu"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ndetha"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cia thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "cigũrũ-inĩ ciacio"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ĩkĩmũroreta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:49.579488057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Abarahamu agikũra cĩĩce-inĩ cĩake, na Erohimu akiaruta nao ⟨את⟩we akiuga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "agikũra"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "cĩĩce-inĩ cĩake"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akiaruta nao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "na ⟨את⟩we",
+      "marks": "Erohimu akiaruta nao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:38:33.754471250Z",
+  "model": "glm-5.3"
+}

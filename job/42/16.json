@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Aiyobu akĩrĩra thutha wa ũguo igana na mĩrongo inya mĩaka; akĩona ⟨את⟩ aana ake, na ⟨את⟩ aana a aana ake — mĩrongo inya ya mikũranire.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akĩrĩra"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Aiyobu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "igana"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na mĩrongo inya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana a aana ake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mĩrongo inya"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ya mikũranire"
+    }
+  ],
+  "timestamp": "2026-10-02T04:26:41.338718792Z",
+  "model": "glm-5.3"
+}

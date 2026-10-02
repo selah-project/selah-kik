@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ athamaki aothe a Zimri, na ⟨את⟩ athamaki aothe a Eramu, na ⟨את⟩ athamaki aothe a Madi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "athamaki aothe a Zimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "athamaki aothe a Eramu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "athamaki aothe a Madi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madi"
+    }
+  ],
+  "timestamp": "2026-10-02T01:18:01.395021523Z",
+  "model": "glm-5.3"
+}

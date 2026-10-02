@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩaooka akiuga: Ti ⟨את⟩ ũría Yahwe ekarĩte mũkanua-inĩ gwakwa ⟨את⟩ nĩndĩngĩcocoria kũuga?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Nĩaooka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ti ũrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũría Yahwe ekarĩte mũkanua-inĩ gwakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũría"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ekarĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mũkanua-inĩ gwakwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kũuga"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "kũcocoria"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kũuga"
+    }
+  ],
+  "timestamp": "2026-10-01T22:06:17.117366343Z",
+  "model": "glm-5.3"
+}

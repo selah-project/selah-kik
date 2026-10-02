@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Thikithikia kwa mũtumia waku kiugo kĩu, kĩrĩa gĩkonereria kũiguithania waku.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Thikithikia"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kwa mũtumia waku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kiugo kĩu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "kũiguithania waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:57.326072518Z",
+  "model": "glm-5.3"
+}

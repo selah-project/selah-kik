@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Abarahamu nĩamũrĩtwo makĩria nĩ ũndũ wake, nĩagĩkũrwo na ng'ondu, na ng'ombe, na ndigiri cia arũme, na arũme a wĩra na atumia a wĩra, na ndigiri cia atumia, na ngamĩra.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Na Abarahamu"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "nĩamũrĩtwo makĩria"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "nĩũndũ wake"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩagĩkũrwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nake"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ndigiri cia arũme"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "arũme a wĩra"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "atumia a wĩra"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ndigiri cia atumia"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ngamĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:04.860746359Z",
+  "model": "glm-5.3"
+}

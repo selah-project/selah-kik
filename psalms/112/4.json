@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Ũtheri nĩmagĩrĩte kĩndũgũ-inĩ kũrĩ andũ a ma — mũndũ wĩ tha, wĩ tha na mora, na mũcedeki-wa.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "nĩmagĩrĩte"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "kĩndũgũ-inĩ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ũtheri"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kũrĩ andũ a ma"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "wĩ tha"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "wĩ tha na mora"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mũcedeki-wa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:56.873727149Z",
+  "model": "glm-5.3"
+}

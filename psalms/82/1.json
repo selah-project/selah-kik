@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 82,
+  "translation": "Kĩinĩro kĩa Acaphi. Erohimu agĩtamĩrĩte thĩinĩ wa kĩama kĩa Ere; gĩatagatĩ-inĩ kwa Erohimu acoora ciira.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩinĩro"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩa Acaphi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "agĩtamĩrĩte"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "thĩinĩ wa kĩama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩa Ere"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gĩatagatĩ-inĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kwa Erohimu"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "acoora ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:27.000054529Z",
+  "model": "glm-5.3"
+}

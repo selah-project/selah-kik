@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 123,
+  "translation": "Nĩ mũingĩ mũno ũrĩa nafuthi yitu yahĩũtwo nao — gwatanĩrio kwa arĩa mahũthagĩra, na kũheania kwa arĩa mena hinya wao.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "mũingĩ mũno"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yahĩũtwo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nao"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nafuthi yitu"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "gwatanĩrio"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "kwa arĩa mahũthagĩra"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "kũheania"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "kwa arĩa mena hinya wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:38:32.073772353Z",
+  "model": "glm-5.3"
+}

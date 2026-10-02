@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Erohimu witũ agĩũka, na ndangĩikara na ndũkena; mũaki mbere yake ũrarĩra, na gũkũraina kwake nĩkwahurũkĩte mũno.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "agĩũka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndangĩikara"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "na ndũkena"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ũrarĩra"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "na gũkũraina kwake"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "nĩkwahurũkĩte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:41.685818033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kĩhamani kĩakwa kĩnangĩte nĩndĩ, nĩgũkorwo thũ ciakwa iratukuuge mathĩko mamaro.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "kĩnangĩte nĩndĩ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kĩhamani kĩakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "iratukuuge"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mathĩko mamaro"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "thũ ciakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:50.068987698Z",
+  "model": "glm-5.3"
+}

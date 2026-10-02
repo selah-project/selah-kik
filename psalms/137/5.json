@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "Nĩrĩa nĩngerehere wewe, E-Yerucarayimu, gwoko gwakwa ngwariganire.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nĩrĩa"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "nĩngerehere wewe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "E-Yerucarayimu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ngwariganire"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "gwoko gwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:25.904802497Z",
+  "model": "glm-5.3"
+}

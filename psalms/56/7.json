@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Meenyitanĩra, meenyihiga, memĩrora makũndũ makwa, ta arĩa metĩkĩirĩ mũoyo wakwa.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "meenyitanĩra"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "meenyihiga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "makũndũ makwa"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "memĩrora"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta arĩa"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "metĩkĩirĩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:18.017736480Z",
+  "model": "glm-5.3"
+}

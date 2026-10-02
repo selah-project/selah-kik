@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "No arĩ ndĩmũthĩĩgĩrĩrĩte mũgambo wa Yahwe, na mũkeete ⟨את⟩ kegua kĩa Yahwe, mkono wa Yahwe ũgakũhaarĩra inyũĩ na aciari anyu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no arĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mũthĩĩgĩrĩrĩte"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "mũkeete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kegua kĩa Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kegua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ũgakũhaarĩra"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "inyũĩ"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "na aciari anyu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:55.305384397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mwana wa Dekeri — makací-inĩ, na Ca'arabimu-inĩ, na Bethi-Cameshi, na Eroni-Bethi-Hanani.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Dekeri"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "Makací-inĩ"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "na Ca'arabimu-inĩ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na Bethi-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Cameshi"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "na Eroni-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanani"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:09.166736246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ũmũkĩre ceni na ũmenyo mwega machoni ma Erohimu na andũ.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "na ũmũkĩre"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ceni"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "machoni ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "na andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:45:12.346648471Z",
+  "model": "glm-5.3"
+}

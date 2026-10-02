@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Nĩagĩkinya kũinĩ ndũrĩrĩ cia makũrũ ake; ĩtĩga yose matirĩona ũtheri.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Nĩagĩkinya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kũinĩ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "cia makũrũ ake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ĩtĩga"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "yose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "maona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:13.740417970Z",
+  "model": "glm-5.3"
+}

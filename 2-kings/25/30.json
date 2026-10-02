@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Kana ciacio cia kũrihwawo — ciacio cia thĩinĩ wa hinya — nĩcio nĩcio nĩheanĩtwo nĩ ⟨את⟩ mwathi, kĩndũ kĩa mũthenya mũthenya ũmwe, nginya mĩthenya yothe ya miaka yake ya kũigua.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "Kana ciacio cia kũrihwawo"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "ciacio"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "cia thĩinĩ wa hinya"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nĩheanĩtwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩcio nĩco"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nĩ ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ kĩa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "mũthenya ũmwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nginya mĩthenya yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ma miaka"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "yake ya kũigua"
+    }
+  ],
+  "timestamp": "2026-10-02T00:23:03.456139950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩngĩima rĩngĩ, ngathambagithia gĩcagi, mĩthoko-inĩ na mĩena mĩraihu; nĩngĩcaba ⟨את⟩ ũrĩa mũoyo wakwa enda; ndamũcaba, no ndindamũona.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "nĩngĩima"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "ngathambagithia"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "gĩcagi"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "mĩthoko-inĩ"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "na mĩena mĩraihu"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "nĩngĩcaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa mũoyo wakwa enda"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ũrĩa mũoyo wakwa enda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "ndamũcaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ndindamũona"
+    }
+  ],
+  "timestamp": "2026-10-02T04:29:03.323683050Z",
+  "model": "glm-5.3"
+}

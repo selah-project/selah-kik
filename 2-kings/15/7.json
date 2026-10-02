@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Azarayahu agĩikara na athe ake, nao maamũthĩnithirie ⟨אתו⟩ hamwe na athe ake mudini-inĩ wa Dawidi; na Yothamu mũrũ wake agĩthamakia ithũinĩ wake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "athe ake"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "maamũthĩnithirie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Azarayahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "athe ake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mudini-inĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "agĩthamakia"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yothamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ithũinĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T00:15:06.755898451Z",
+  "model": "glm-5.3"
+}

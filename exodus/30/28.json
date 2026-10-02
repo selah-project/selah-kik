@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na ⟨את⟩ gĩcwa kĩa ithithĩro rĩa kũninwo na ⟨את⟩ icio iake yothe, na ⟨את⟩ kĩrora na ⟨את⟩ ctiongo ciakio.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcwa kĩa ithithĩro rĩa kũninwo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gĩcwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kĩa ithithĩro rĩa kũninwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icio iake yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icio iake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrora"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kĩrora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ctiongo ciakio"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ctiongo ciakio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:27.972073618Z",
+  "model": "glm-5.3"
+}

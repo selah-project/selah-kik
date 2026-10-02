@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "O Erohimu tu nĩgũhonia mũoyo wakwa kuuma guoko-inĩ wa Ceori; nĩgũkũrwa. Cera.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "nĩgũhonia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma guoko-inĩ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Ceori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "nĩgũkũrwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:26.686949541Z",
+  "model": "glm-5.3"
+}

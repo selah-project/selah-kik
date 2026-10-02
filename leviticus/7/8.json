@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na mũkoheni ũrĩa utĩkĩrĩra ⟨את⟩ kĩheo kĩingĩhagĩra kĩa mũndũ, gĩcicio kĩa kĩheo kĩu kĩingĩhagĩra kĩrĩa atĩkĩrĩire, nĩ gĩake mũkoheni ũcio.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Na mũkoheni"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ũrĩa utĩkĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo kĩingĩhagĩra kĩa mũndũ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "kĩheo kĩingĩhagĩra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kĩa mũndũ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gĩcicio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kĩa kĩheo kĩu kĩingĩhagĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "atĩkĩrĩire"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kwa mũkoheni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩ gĩake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:30:43.553655386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Naa acokanio kuuma thĩ-inĩ, kuuma irathĩro na kuuma ithathiĩro, kuuma itherũro na kuuma iria ya maĩ.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "na kuuma thĩ-inĩ"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "acokanio"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuuma irathĩro"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na kuuma ithathiĩro"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kuuma itherũro"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na kuuma iria ya maĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.343080361Z",
+  "model": "glm-5.3"
+}

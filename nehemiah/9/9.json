@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na waona ⟨את⟩ kũhĩtia kwa athathe itũ thĩinĩ wa Micirayimu, na ⟨את⟩ kũgamba kwao nĩwakĩthĩkĩria iria rĩa Cufu rĩarĩ hakuhĩ.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Na waona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũhĩtia kwa athathe itũ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kũhĩtia"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "kwa athathe itũ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "thĩinĩ wa Micirayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kũgamba kwao"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "kũgamba kwao"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nĩwakĩthĩkĩria"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩarĩ hakuhĩ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "rĩa Cufu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:15:44.496859555Z",
+  "model": "glm-5.3"
+}

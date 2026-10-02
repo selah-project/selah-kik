@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Kucu nĩarutire ⟨את⟩ Nimerodi; ũrĩa nĩatambĩrĩirie gũtuũka mũnene wa hinya thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Na Kucu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩarutire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimerodi"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimerodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nĩatambĩrĩirie"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "gũtuũka"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mũnene wa hinya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:26.654748204Z",
+  "model": "glm-5.3"
+}

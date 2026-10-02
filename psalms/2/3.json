@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Tũkaarenanie ⟨את⟩ mĩcokere yao, na tũkahinguria kũuma ithũĩria mĩcoka yao.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Tũkaarenanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcokere yao"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "mĩcokere yao"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "na tũkahinguria"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kũuma ithũĩria"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "mĩcoka yao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:38.892679850Z",
+  "model": "glm-5.3"
+}

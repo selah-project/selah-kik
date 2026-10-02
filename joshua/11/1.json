@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩkĩguo rĩrĩa Yabini, mwathi wa Hacori, agĩĩigua ũcio, akĩrĩhĩra kwa Yobabi mwathi wa Madoni, na kwa mwathi wa Cimeroni, na kwa mwathi wa Akecafi,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩkĩguo rĩrĩa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "agĩĩigua"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacori"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akĩrĩhĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Madoni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Cimeroni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akecafi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:46:42.043893661Z",
+  "model": "glm-5.3"
+}

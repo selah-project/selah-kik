@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Mbere yake arĩa mũciĩ mĩtheru makũinamie magũrũ, na thũ ciao mũthanga cĩnumĩte.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "makũinamie magũrũ"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "arĩa mũciĩ mĩtheru"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "na thũ ciao"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mũthanga"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "cĩnumĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:45.058257875Z",
+  "model": "glm-5.3"
+}

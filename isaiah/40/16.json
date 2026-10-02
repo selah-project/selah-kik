@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na Lebanoni ti kana kĩigua gĩa kũhiũra, na nyamũ cia yo ti kana kĩheo gĩa kũhiũrio.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "Na Lebanoni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "די",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בער",
+      "gloss": "kĩigua gĩa kũhiũra"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "na nyamũ cia yo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "די",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kĩheo gĩa kũhiũrio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:13.536603542Z",
+  "model": "glm-5.3"
+}

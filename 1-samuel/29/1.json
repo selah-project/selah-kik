@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na Peleciti nĩmaacomorie ⟨את⟩ mahumbĩ mao othe Apeka, na Yiceraeri makeherera irigithathi-inĩ ĩrĩa ĩrĩ Yizereeri.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nĩmaacomorie"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleciti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahumbĩ mao othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "mahumbĩ mao"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Apeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "makeherera"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "irigithathi-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ĩrĩ Yizereeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:26:58.742071539Z",
+  "model": "glm-5.3"
+}

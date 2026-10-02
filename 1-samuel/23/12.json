@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na Dawidi akiuga: No andũ arĩa mamari Kerĩra methĩrĩre ⟨את⟩ inywe na ⟨את⟩ andũ akwa hiũ ya Shaure? Nĩgoro Yahwe agĩĩga atĩrĩ: Marĩgũkũmethĩra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "no methĩrĩre"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "andũ arĩa mamari"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kerĩra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "hiũ ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaure"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩĩga atĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "marĩgũkũmethĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T23:22:56.753431153Z",
+  "model": "glm-5.3"
+}

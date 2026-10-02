@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na hamwe nĩinĩ ⟨את⟩ kũkoruo mũndũ, mũndũ mũndũ, kana mbarari ĩmwe na ĩmwe; mũndũ nĩ mũthamaki wa nyũmba cia athathe ake, nĩwe.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Na hamwe nĩinĩ ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kũkoruo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ mũndũ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kana mbarari ĩmwe na ĩmwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "nĩ mũthamaki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wa nyũmba cia"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "athathe ake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:58.124542595Z",
+  "model": "glm-5.3"
+}

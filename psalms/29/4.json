@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Mũgambo wa Yahwe nĩ mũhinya; mũgambo wa Yahwe nĩ mũnene.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mũgambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "nĩ mũhinya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "nĩ mũnene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:06.360587220Z",
+  "model": "glm-5.3"
+}

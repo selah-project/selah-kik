@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Thikithia ihĩtia igũrũ ya ihĩtia ciacio, na matinina kũĩya cedeki-inĩ yaku.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "thikithia"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ihĩtia"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ ya"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ihĩtia ciacio"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na matinina"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kũĩya"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "cedeki-inĩ yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:59.901396364Z",
+  "model": "glm-5.3"
+}

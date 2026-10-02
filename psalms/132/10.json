@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "Nĩ ũndũ wa Dawidi mũte waku, ndũkaegere ũthĩ wa Maciaki waku.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Nĩ ũndũ wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũte waku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "egere (kũcooka)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ũthĩ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maciaki waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:52.514917441Z",
+  "model": "glm-5.3"
+}

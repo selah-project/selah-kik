@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Kĩndũ kĩbaya ndigĩkũgerera, na ndwari ndiigũhĩrĩrira hema yaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndigĩ"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "kũgerera"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kĩndũ kĩbaya"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "na ndwari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndiigũ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "kũhĩrĩrira"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "hema yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:13.318295913Z",
+  "model": "glm-5.3"
+}

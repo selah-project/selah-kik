@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩgũkoruo nĩagu agatuũkithia ⟨את⟩ mũrũ wakwa kuuma thutha wakwa, na mahũthĩre ngai ingĩ; nĩgoro mũhuko wa Yahwe ũgakaara mũno, nĩagakũhũitharĩkĩria na wĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkoruo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "agatuũkithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wakwa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kuuma thutha wakwa"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mahũthĩre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ũgakaara mũno"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mũhuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "agakũhũitharĩkĩria"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "na wĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:20:31.390254730Z",
+  "model": "glm-5.3"
+}

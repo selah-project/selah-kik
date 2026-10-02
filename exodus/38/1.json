@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Akĩria ⟨את⟩ mathaga ma kũhĩa, miti ya ng'aracĩ; ama ithano ureire wayo, na ama ithano ũrugaro wayo, kana, na ama ithathi koori wayo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathaga ma kũhĩa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mathaga"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ma kũhĩa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya ng'aracĩ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ureire wayo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ũrugaro wayo"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na ithathi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "koori wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:47.694043873Z",
+  "model": "glm-5.3"
+}

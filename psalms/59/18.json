@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "We, hinya wakwa, kũraku nĩndĩĩinĩra; nĩgũkorwo Erohimu nĩwe mũthingirĩre wakwa, Erohimu wa hecedi wakwa.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũraku"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nĩndĩĩinĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mũthingirĩre wakwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hecedi wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:08.591447206Z",
+  "model": "glm-5.3"
+}

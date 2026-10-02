@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩgũkorwo mũhiki aragĩrĩra kwenianĩ kwa mũoyo wake; na mũndũ wĩ ciambo agĩcookia irathimo kũĩrĩ — aciraaniagĩra Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "aragĩrĩra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũhiki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-inĩ"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kwenia"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mũoyo wake"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "mũndũ wĩ ciambo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "agĩcookia irathimo"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "aciraaniagĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:15.556438270Z",
+  "model": "glm-5.3"
+}

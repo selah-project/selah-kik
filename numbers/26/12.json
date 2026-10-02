@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Aana a Cimeoni, mĩhĩrĩga yao: wa Nemueri, mũhĩrĩga wa anake Nemueri; wa Yamini, mũhĩrĩga wa anake Yamini; wa Yakini, mũhĩrĩga wa anake Yakini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Aana a"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeoni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mĩhĩrĩga yao"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "wa Nemueri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mũhĩrĩga wa"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "anake Nemueri"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "wa Yamini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mũhĩrĩga wa"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "anake Yamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "wa Yakini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mũhĩrĩga wa"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "anake Yakini"
+    }
+  ],
+  "timestamp": "2026-10-01T22:07:52.798738849Z",
+  "model": "glm-5.3"
+}

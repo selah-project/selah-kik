@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ athĩnjĩri-ngai manu, na ⟨את⟩ atumia acio arĩa mamenete, na ⟨את⟩ arũme arĩa mabarĩra ĩrĩa makĩega, na ⟨את⟩ ng'ambe ithuĩ nĩagĩkũa, na akĩmereka icungwa rĩake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "athĩnjĩri-ngai manu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "athĩnjĩri-ngai manu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atumia acio arĩa mamenete"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "atumia acio arĩa mamenete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arũme arĩa mabarĩra ĩrĩa makĩega"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "arũme arĩa mabarĩra"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ĩrĩa makĩega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ambe ithuĩ"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "ng'ambe ithuĩ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nĩagĩkũa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na akĩmereka"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "icungwa rĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:56.369366910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Nĩmakĩigua kũsũa kwa Yahwe thĩinĩ wa ihenya rĩao, na kuuma mahĩtia mao akĩmũhonokia.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "nĩmakĩigua kũsũa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "thĩinĩ wa ihenya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "rĩao"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "kuuma mahĩtia mao"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "akĩmũhonokia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.821785139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Erohimu nĩiguũkĩte kwa Reya, akĩhota, na akĩcũngaria kwa Yaakobu mũrũ wa gatano.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nĩiguũkĩte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Reya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akĩhota"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akĩcũngaria"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kwa Yaakobu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "wa gatano"
+    }
+  ],
+  "timestamp": "2026-10-01T20:45:13.911376888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na rĩmwe wa ithemba, akĩmanĩa mũciara, na ⟨את⟩ ciero cĩagwa iria-inĩ; nĩakĩhũera na akiuga: Ee, mwathi wakwa, nayo nĩyo yahũrwo!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rĩmwe"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "akĩmanĩa"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "mũciara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciero"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ciero"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "cĩagwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "iria-inĩ"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "akĩhũera"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "yahũrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:08:31.808081890Z",
+  "model": "glm-5.3"
+}

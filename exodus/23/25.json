@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mwarĩĩre ⟨את⟩ Yahwe Erohimu wanyu, na ⟨ĩgĩkũrũkira⟩ akĩhe mĩayo ⟨את⟩ mũgate waku na ⟨את⟩ mãĩ waku; na nĩngĩhota mũrimũ kuuma thĩinĩ waku.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "mwarĩĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "akĩhe mĩayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgate waku"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "mũgate waku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mãĩ waku"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "mãĩ waku"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "nĩngĩhota"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "mũrimũ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "kuuma thĩinĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:17.688704603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Yahwe arirecode kuuma hĩndĩ ciothe na tene na tene. Amini, na Amini.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "arirecode"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuuma hĩndĩ ciothe na tene na tene"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amini"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "na Amini"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:34.629973534Z",
+  "model": "glm-5.3"
+}

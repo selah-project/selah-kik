@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Mwongo nĩmekagĩrĩo makĩrĩro-ini maingĩ, na arĩa marĩ na utonga makĩikara hasi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "nĩmekagĩrĩo"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "mwongo"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "makĩrĩro-ini"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maingĩ"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "na arĩa marĩ na utonga"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "makĩikara"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:53.564675739Z",
+  "model": "glm-5.3"
+}

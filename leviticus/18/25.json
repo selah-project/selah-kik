@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Thĩ nĩyathahukire, nĩndĩkoretwo na mabara mayo igũrũ rĩa yayo, na thĩ nĩrĩire ⟨את⟩ arĩa maikaraga murĩ-inĩ wayo.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "nĩyathahukire"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "nĩndĩkoretwo"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mabara mayo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "igũrũ rĩa yayo"
+    },
+    {
+      "surface": "ותקיא",
+      "gloss": "nĩrĩire"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa maikaraga murĩ-inĩ wayo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "arĩa maikaraga murĩ-inĩ wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:51.836678548Z",
+  "model": "glm-5.3"
+}

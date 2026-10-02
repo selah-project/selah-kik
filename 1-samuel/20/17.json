@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na Yonathani nĩongire gũthira ⟨את⟩ Dawidi, nĩ wendo wake ⟨את⟩ we; nĩgũkorwo nĩ na wendo wa mũoyo wake nĩendete ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "nĩongire"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "gũthira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "nĩ wendo wake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "wendo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "wa mũoyo wake"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "nĩendete"
+    }
+  ],
+  "timestamp": "2026-10-01T23:22:09.178062493Z",
+  "model": "glm-5.3"
+}

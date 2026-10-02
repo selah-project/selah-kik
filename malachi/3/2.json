@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ũndũ nĩũragĩtigĩrĩrĩa mũthenya ⟨את⟩ wa gũkũ kwake, na ũndũ nĩũngĩĩmara rĩrĩa arĩonekania? Nĩgũkorwo arĩ ta mũrito wa mũcarani, na ta cebu cia acũnji.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "na ũndũ nĩũ"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "ragĩtigĩrĩrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "wa gũkũ kwake"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na ũndũ nĩũ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ngĩĩmara"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "rĩrĩa arĩonekania"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ta mũrito"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "wa mũcarani"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "na ta cebu"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "cia acũnji"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:27.507974098Z",
+  "model": "glm-5.3"
+}

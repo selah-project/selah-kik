@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ Yeuci, na ⟨את⟩ Cakia, na ⟨את⟩ Mirima. Aciari ake nĩo arĩ, mathamaki a mĩhĩrĩga ya athe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yeuci"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cakia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Cakia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mirima"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirima"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acio nĩo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aciari ake"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mathamaki"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "mĩhĩrĩga ya athe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:33.043481391Z",
+  "model": "glm-5.3"
+}

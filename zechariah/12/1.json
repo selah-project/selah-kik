@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 12:1",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Kĩigo kĩa kiugo kĩa Yahwe kũrĩ Yiceraeri, Yahwe oigĩte, ũrĩa ũrayaharĩrĩra igũrũ, na ũteithĩrĩthia thĩ, na ũthumba ruaki wa mũndũ thĩinĩ wake.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "kĩigo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩa kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ũrayaharĩrĩra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "na ũteithĩrĩthia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "na ũthumba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "thĩinĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:46:05.484260222Z",
+  "model": "glm-5.3"
+}

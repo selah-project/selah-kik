@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Kwa mũrũngĩrĩri wa kĩama; rĩrĩa 'nja ya ũthayũ ya arĩa mari kũrĩ' — ndũgũ ya Dawidi, Cithakamu; rĩrĩa Felecitini makĩmũhara ⟨את⟩ thĩinĩ wa Gathi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũrũngĩrĩri wa kĩama"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "nja"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ya ũthayũ"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "ya arĩa mari kũrĩ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ndũgũ ya Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Cithakamu"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "rĩrĩa... makĩmũhara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Felecitini"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "thĩinĩ wa Gathi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:19.815166655Z",
+  "model": "glm-5.3"
+}

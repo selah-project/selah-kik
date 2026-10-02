@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ mwoyo wa mmera wona ũrĩa ũrĩ hamwe ⟨את⟩ inywi — harĩ inode, harĩ ng'ombe, na harĩ mmera ya thĩ yothe irĩ ⟨את⟩ inywi — kuuma wona arĩa maikuma Ariki-inĩ, kinya mmera ya thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wona"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mwoyo"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wa mmera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "hamwe ⟨את⟩ inywi"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "harĩ inode"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "harĩ ng'ombe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na harĩ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mmera ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "irĩ ⟨את⟩ inywi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma wona"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "aria maikuma"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "Ariki-inĩ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mmera ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:31.026776228Z",
+  "model": "glm-5.3"
+}

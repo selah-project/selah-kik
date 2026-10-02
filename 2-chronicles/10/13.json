@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na mũthamaki nĩamakĩcookia na mahinya mamerũ; na mũthamaki Rehabeamu nĩarekire ⟨את⟩ mũcirire wa andũ amakũrũ.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "nĩamakĩcookia na mahinya mamerũ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mamerũ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "nĩarekire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũcirire wa andũ amakũrũ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "mũcirire"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "wa andũ amakũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:47:17.695523441Z",
+  "model": "glm-5.3"
+}

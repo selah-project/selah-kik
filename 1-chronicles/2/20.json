@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Huri akĩciarita ⟨את⟩ Uri, na Uri akĩciarita ⟨את⟩ Becerieri.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Na Huri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akĩciarita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "na Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akĩciarita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Becerieri"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becerieri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:08.872496372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Ũthuũre ⟨את⟩ kĩroho kĩa maaĩ na ⟨את⟩ gĩtĩ kĩayo, ũtherie ⟨את⟩ kĩo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ũthuũre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩroho kĩa maaĩ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kĩroho kĩa maaĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩtĩ kĩayo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "gĩtĩ kĩayo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ũtherie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:32.957591639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Kana mũka angĩhota kũgaterera mwanawe wa kũmũnyonyora, kana kũgaterera mũrĩ wa irĩũ rĩake? Macro macro, o arĩa no mahote kũgaterera; no nĩĩ, Yahwe, ndĩngĩgaterera we.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "kana ... angĩhota kũgaterera"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mwanawe wa kũmũnyonyora"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kũgaterera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrĩ"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "wa irĩũ rĩake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "macro"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "macro"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "o arĩa no mahote kũgaterera"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "no nĩĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩgaterera"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "kũgaterera we"
+    }
+  ],
+  "timestamp": "2026-10-02T06:40:50.808119141Z",
+  "model": "glm-5.3"
+}

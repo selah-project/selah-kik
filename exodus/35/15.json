@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "na ⟨את⟩ mũthingu wa mbakĩ na ⟨את⟩ miri yayo, na ⟨את⟩ maguta ma kũonyoria, na ⟨את⟩ mbakĩ ya minono, na ⟨את⟩ kĩhinga kĩa mũrango, o mũrango-inĩ wa Micikani;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũthingu wa mbakĩ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "wa mbakĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "miri yayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "miri yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maguta ma kũonyoria"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ma kũonyoria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbakĩ ya minono"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mbakĩ"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya minono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩhinga kĩa mũrango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kĩhinga"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "kĩa mũrango"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "mũrango-inĩ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Micikani"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:19.472972983Z",
+  "model": "glm-5.3"
+}

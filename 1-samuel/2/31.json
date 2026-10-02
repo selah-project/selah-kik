@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ona rĩu, mĩthenya nĩmegũũka, na nĩngĨgũatha ⟨את⟩ mkono waku na ⟨את⟩ mkono wa nyũmba ya itheaku, nĩgethĩ mũkũrũ ndangĩkorũo nyũmba yaku-inĩ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona rĩu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nĩmegũũka"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "na nĩngĨgũatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono waku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mkono waku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mkono wa nyũmba ya itheaku"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mkono"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyũmba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya itheaku"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "nĩgethĩ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mũkũrũ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nyũmba yaku-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:34.085993282Z",
+  "model": "glm-5.3"
+}

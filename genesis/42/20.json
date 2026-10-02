@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Na ⟨את⟩ mwarĩ wanyu mũnini mũingĩhe kũrĩ inyĩ, nĩgũo ciugo ciĩnyu ciamũkĩrwo, na ndĩmũkuue. Nĩmagĩka ũguo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwarĩ wanyu mũnini"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mwarĩ wanyu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mũnini"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "mũingĩhe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ inyĩ"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "nĩciamũkĩrwo"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ciugo ciĩnyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "mũkuua"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nĩmagĩka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:09:47.438076773Z",
+  "model": "glm-5.3"
+}

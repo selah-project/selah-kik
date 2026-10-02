@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Maĩ maninuka, mathabari makĩthera, ginya kũndũ kwaũ kwagĩrĩire kuo.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "maninuka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "makĩthera"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "mathabari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kwaũ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "kwagĩrĩire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:43.145095412Z",
+  "model": "glm-5.3"
+}

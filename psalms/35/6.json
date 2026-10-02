@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Mũgenda wao ũtukũ nĩwe na mĩthiarũ ĩthambainĩ, na mũraika wa Yahwe akĩmacũngĩrĩra.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mũgenda wao ũtuĩke"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "mũgenda wao"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ũtukũ"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "mĩthiarũ ĩthambainĩ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "na mũraika wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "akĩmacũngĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:19.295536749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ũrĩa wa kanana nĩ Yecayahu, aana ake na aarumia ake, aryamwe na ikũmi.",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "wa kanana"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecayahu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na aarumia ake"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "aryamwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na ikũmi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:33:58.083774461Z",
+  "model": "glm-5.3"
+}

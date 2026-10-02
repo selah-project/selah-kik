@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na ng'ombe kana ngondu — ⟨את⟩ yo na ⟨את⟩ mũrũ wayo — mũtikainjia mũthenya ũmwe.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Na ng'ombe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ngondu kana mbũri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe kana ngondu\/mbũri yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wayo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mũtika-"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "-injia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:22.090741103Z",
+  "model": "glm-5.3"
+}

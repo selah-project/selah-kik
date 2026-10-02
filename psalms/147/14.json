@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Ũrĩa ũthiĩrie thĩnje yaku thyama, na makũra ma ngano arĩkũmia naayo.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ũrĩa ũthiĩrie"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "thĩnje yaku"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thyama"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "makũra"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ma ngano"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "arĩkũmia naayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:43.181586792Z",
+  "model": "glm-5.3"
+}

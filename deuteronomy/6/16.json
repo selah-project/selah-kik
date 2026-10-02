@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ndĩmũkenage ⟨את⟩ Yahwe Erohimu wanyu, ta ũrĩa moigĩtie Macaha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndĩ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "mũkenage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "moigĩtie"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Macaha"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:51.767012982Z",
+  "model": "glm-5.3"
+}

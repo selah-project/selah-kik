@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 138,
+  "translation": "Nĩngũinamĩra heikari ya ũtheru wakwa, na nĩngohoyagĩra ⟨את⟩ rĩĩtwa rĩaku, rĩrĩa hecedi yaku na rĩrĩa ma makwa; nĩgũkũrũhĩtie kĩugo gĩaku igũrũ rĩa rĩĩtwa rĩaku yothe.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "nĩngũinamĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "erũ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya ũtheru wakwa"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "na nĩngohoyagĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi yaku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ma makwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "nĩgũkũrũhĩtie"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kĩugo gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:37.299018778Z",
+  "model": "glm-5.3"
+}

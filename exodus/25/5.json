@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na mahũra ma ndũrũme irĩa ma thũrirĩ-inĩ, na mahũra ma thahaci, na mĩtĩ ya cithimĩ.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "Na mahũra"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ma ndũrũme"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "irĩa ma thũrirĩ-inĩ"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "na mahũra"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ma thahaci"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "na mĩtĩ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya cithimĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:54.780265688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 93,
+  "translation": "Yahwe athamakire; nĩahĩngĩtie ũkuru wa kũiguũra; Yahwe nĩahĩngĩtie hinya, nĩoimbĩtie mũgathe wake; thĩ ĩrĩa mũnene nĩĩgĩtikĩrũkwo, ĩtikũgũtikũka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "athamakire"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ũkuru wa kũiguũra"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nĩahĩngĩtie"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nĩahĩngĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "nĩoimbĩtie mũgathe wake"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "nĩĩgĩtikĩrũkwo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ ĩrĩa mũnene"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ĩtikũ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kũgũtikũka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:37.772778677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Nĩngĩinĩra Yahwe hĩndĩ ĩrĩa nĩmũrĩ ũhoro-inĩ wakwa; nĩngĩcũmbĩrĩra Erohimu wakwa rĩrĩa nĩndĩ mũgima.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "nĩngĩinĩra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "hĩndĩ ĩrĩa nĩmũrĩ ũhoro-inĩ wakwa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nĩngĩcũmbĩrĩra"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "rĩrĩa nĩndĩ mũgima"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:35.886289779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ciira candĩ nĩmũkahĩthia, na mĩtaratara candĩ nĩmũkĩrĩrĩra, mũratare nakĩo; niĩ nĩngĩ, Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciira candĩ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira candĩ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũkahĩthia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtaratara candĩ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mĩtaratara candĩ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mũkĩrĩrĩra"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gũratara"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "niĩ nĩngĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:31.793701644Z",
+  "model": "glm-5.3"
+}

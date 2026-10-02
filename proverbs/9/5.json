@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "İkĩrai, iriai mũgũnda wakwa, na inywei mvĩnĩ yacũranĩte.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ikĩrai"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "iriai"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "mũgũnda wakwa"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "na inywei"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "mvĩnĩ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "yacũranĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:46.453291883Z",
+  "model": "glm-5.3"
+}

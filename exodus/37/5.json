@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Akĩingĩra ⟨את⟩ ndara thĩinĩ wa ithathi, igũrũ rĩa minyinyo cia aroni, gũcokeretha ⟨את⟩ aroni.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩingĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndara"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ndara"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "thĩinĩ wa ithathi"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "minyinyo"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "לשאאת",
+      "gloss": "gũcokeretha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:32.939113685Z",
+  "model": "glm-5.3"
+}

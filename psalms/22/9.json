@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Aciarĩtwo Yahwe nĩguo aamũteithie, aamũcokanĩrĩrie; nĩ nĩ mwendi.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Aciarĩtwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "aamũteithie"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "aamũcokanĩrĩrie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mwendi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:23.109239006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Wa ikũmi na ũmwe nĩ wa Elyacibu, wa ikũmi na eerĩ nĩ wa Yakimu.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "wa Elyacibu"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ikũmi na ũmwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "wa Yakimu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:11:18.003634540Z",
+  "model": "glm-5.3"
+}

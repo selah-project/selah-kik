@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Ngoro yakwa ĩarũmũrũka; hinya wakwa anĩrehagĩra; na ũtheri wa macho makwa, o me, ndimarĩ ⟨את⟩ nakwa.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ĩarũmũrũka"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "anĩrehagĩra"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na ũtheri"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "wa macho makwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "הם",
+      "gloss": "me"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndimarĩ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nakwa",
+      "marks": "ũtheri wa macho makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:03.046338359Z",
+  "model": "glm-5.3"
+}

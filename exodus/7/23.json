@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na Farao agĩcoka kũgera, agĩingĩra nyũmba yake; na ngoro yake ndaagĩkĩra ha ũu na ũndũ ũyũ nawe.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "agĩcoka kũgera"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩingĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndaagĩkĩra"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ũndũ ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:28.429293360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Ũcokere ũrĩ ũru, ũmege wega, na ũikare ndaicanĩra.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ũcokere"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ũrĩ ũru"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ũmege"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "na ũikare"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ndaicanĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:35.099653873Z",
+  "model": "glm-5.3"
+}

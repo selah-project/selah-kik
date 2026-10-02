@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na rĩrĩa we ainĩire mbere ya mũthamaki, akĩuga hamwe na icũranĩro ĩrĩa: mĩceria yake ya ũru, ũrĩa aeceretie Ayahudi, ĩcooke mũtwe wake, na we magĩkahĩtũka ⟨את⟩ we na ⟨את⟩ aana ake thĩinĩ wa mũtĩ.",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "Na rĩrĩa we ainĩire"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "icũranĩro"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ĩcooke"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "mĩceria yake"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ya ũru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "aeceretie"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayahudi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩgĩkĩra"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mũtwe wake"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "magĩkahĩtũka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mũtĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:50:16.599302050Z",
+  "model": "glm-5.3"
+}

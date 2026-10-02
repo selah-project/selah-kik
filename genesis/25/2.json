@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nacio nĩamũciarire ⟨את⟩ Cimurani, na ⟨את⟩ Yakicani, na ⟨את⟩ Medani, na ⟨את⟩ Midiyani, na ⟨את⟩ Yicibaki, na ⟨את⟩ Cũgi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "nĩamũciarire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cimurani"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Cimurani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yakicani"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yakicani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medani"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midiyani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yicibaki"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yicibaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cũgi"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Cũgi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:04.808735249Z",
+  "model": "glm-5.3"
+}

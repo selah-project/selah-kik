@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Cedeki yaku nĩ cedeki ya ndungata, na Tora yaku nĩ ma ũthingu.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "cedeki yaku"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya ndungata"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "na Tora yaku"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nĩ ma ũthingu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:52.066445350Z",
+  "model": "glm-5.3"
+}

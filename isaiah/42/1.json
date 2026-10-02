@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Rarĩa, mũtumia wakwa ũrĩa nĩngĩkoma; mũrĩ wakwa wa kwĩhoreria — mũoyo wakwa nĩwĩirĩtie mũno mũndũ-inĩ ũcio. Nĩndĩire ruaki wakwa igũrũ rĩake, na ⟨he⟩ nĩgũtũũra ciira kũrĩ ndũrĩrĩ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Rarĩa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mũtumia wakwa"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "nĩngĩkoma"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mũndũ-inĩ ũcio"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "mũrĩ wakwa wa kwĩhoreria"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "nĩwĩirĩtie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩire"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaki wakwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kũrĩ ndũrĩrĩ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "nĩgũtũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:46:44.969841682Z",
+  "model": "glm-5.3"
+}

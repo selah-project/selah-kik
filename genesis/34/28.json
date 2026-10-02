@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩmaanyĩitĩka ⟨את⟩ ngondu ciao, na ⟨את⟩ ng'ombe ciao, na ⟨את⟩ ngamĩra ciao, na ⟨את⟩ ĩrĩ mũciĩ-inĩ, na ⟨את⟩ ĩrĩ mũgũnda-inĩ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngondu ciao"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ngondu ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe ciao"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "ng'ombe ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngamĩra ciao"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ngamĩra ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ĩrĩ mũciĩ-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mũciĩ-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ĩrĩ mũgũnda-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mũgũnda-inĩ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nĩmaanyĩitĩke"
+    }
+  ],
+  "timestamp": "2026-10-01T20:50:07.724732828Z",
+  "model": "glm-5.3"
+}

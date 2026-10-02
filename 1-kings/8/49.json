@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ũthĩkĩrĩre matu-inĩ, kũikarĩro kwaku, ⟨את⟩ ithaambo rĩao na ⟨את⟩ kũoya kwao, ũkahotora ciira ciao.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Na ũthĩkĩrĩre"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matu-inĩ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "kũikarĩro"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithaambo rĩao"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ithaambo rĩao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kũoya kwao"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kũoya kwao"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ũkahotora"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ciira ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:05.863660610Z",
+  "model": "glm-5.3"
+}

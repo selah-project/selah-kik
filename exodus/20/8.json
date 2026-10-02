@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Ihũrũra ⟨את⟩ mũthenya wa Cabati, ũgutherie.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ihũrũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya wa Cabati"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Cabati"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ũgutherie"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:45.292794875Z",
+  "model": "glm-5.3"
+}

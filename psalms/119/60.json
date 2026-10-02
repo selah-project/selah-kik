@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩngĩhũrũka, na ndingĩhetahetithia, gũcokia amaria aku.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "nĩngĩhũrũka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ningĩhetahetithia"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "gũcokia"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amaria aku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:08.048882416Z",
+  "model": "glm-5.3"
+}

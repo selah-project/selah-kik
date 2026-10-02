@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nĩwamenya kũherio kwakwa, na ihithatie yakwa, na kĩhenania chakwa; arĩa marĩ thũ nakwa mothe mahota imwe.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ĩwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nĩwamenya"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "kũherio kwakwa"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "na ihithatie yakwa"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "na kĩhenania chakwa"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mahota imwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "arĩa marĩ thũ nakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:43.907674947Z",
+  "model": "glm-5.3"
+}

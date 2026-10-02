@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Nĩwĩ, nĩ moko maku warũrangire ⟨את⟩ ndũrĩrĩ cianjirũru na ũkagematira ⟨arĩa⟩; nĩwatũmitire ⟨את⟩ mbarĩ cia andũ na ũkacigũũra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nĩwĩ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "moko maku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ cianjirũru"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "warũrangire"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ũkagematira ⟨arĩa⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "nĩwatũmitire"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mbarĩ cia andũ"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ũkacigũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:39.988849031Z",
+  "model": "glm-5.3"
+}

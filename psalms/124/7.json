@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 124,
+  "translation": "Mũoyo witũ nĩmenyũũrire ta ndege kuuma thari ya arĩa me marĩa mathari; thari ĩyo yaremeiruo, na ithuĩ nĩtũnyũũrĩte.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "mũoyo witũ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ta ndege"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "nĩmenyũũrire"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kuuma thari"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "arĩa mathari"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "thari ĩyo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "yaremeiruo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na ithuĩ"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "nĩtũnyũũrĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:16.883101511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ta cegegi kwa kwoha, na ta derori kwa kũrũa, nĩ ũguo thĩĩ ya hihi ĩtigaya handũ.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "ta cegegi"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "kwa kwoha"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "ta derori"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kwa kũrũa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩ ũguo"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "thĩĩ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ya hihi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ĩgaya"
+    }
+  ],
+  "timestamp": "2026-10-02T04:00:17.339238805Z",
+  "model": "glm-5.3"
+}

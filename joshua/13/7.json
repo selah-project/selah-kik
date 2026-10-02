@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na rĩu gũtũra ũgathĩke ⟨את⟩ gĩcunjĩ kĩo kĩrĩkanĩro-inĩ, ndungata ya mĩhangũ ĩrĩ kenda, na gĩcunjĩ kĩa mĩhangũ ya Manace.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩu gũtũra"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ũgathĩke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcunjĩ kĩo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "gĩcunjĩ kĩo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "kĩrĩkanĩro-inĩ"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "ndungata ya mĩhangũ ĩrĩ kenda"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mĩhangũ ĩyo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na gĩcunjĩ kĩa"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "mĩhangũ ya"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Manace"
+    }
+  ],
+  "timestamp": "2026-10-01T22:46:10.764866212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "We ngaĩ, nĩ damũ ya kĩrĩkanĩro kĩu, ndĩrĩtũmĩte ⟨את⟩ atĩng'ũri aku athiĩ bũra-inĩ ĩrĩa matakuo methĩire.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ngaĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nĩ damũ ya"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "kĩrĩkanĩro kĩu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndĩrĩtũmĩte"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "atĩng'ũri aku"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "athiĩ bũra-inĩ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ĩrĩa matakuo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "methĩire"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:44:37.545060878Z",
+  "model": "glm-5.3"
+}

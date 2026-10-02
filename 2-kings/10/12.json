@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩaikare, nĩanyitire, nĩathiire Comeroni; we arĩ Beti-Ekeri wa aarĩithi, mũgwanja-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Nĩaikare"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nĩanyitire"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nĩathiire"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comeroni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Ekeri"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "wa aarĩithi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mũgwanja-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:12:09.347315134Z",
+  "model": "glm-5.3"
+}

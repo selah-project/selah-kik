@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na rĩrĩ, kũheo kĩmwe nĩngĩhoya kuuma kwa we ⟨את⟩; ndũkacokanĩrĩra ⟨את⟩ mũthia wakwa. Nao akĩmũũria atĩrĩ: Ũga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩrĩ"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "kũheo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩngĩhoya"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ndĩkuhoya"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kwaku",
+      "marks": "kũheo kĩmwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "cokanĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthia wakwa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mũthia wakwa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akĩmũũria"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ũga"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:28.563673100Z",
+  "model": "glm-5.3"
+}

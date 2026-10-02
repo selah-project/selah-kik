@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Arĩa othe a Yabeci wa Giriadi nĩmaiguire ⟨את⟩ wona ũrĩa Perisiti maina Cauri.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nĩmaiguire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeci"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "wa Giriadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Perisiti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Cauri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:25:50.753603367Z",
+  "model": "glm-5.3"
+}

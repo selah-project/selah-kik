@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Nyũmba ya Rewi, rathimai ⟨את⟩ Yahwe; arĩa memenete Yahwe, rathimai ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Nyũmba"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ya Rewi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rathimai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "arĩa memenete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rathimai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:46.132103234Z",
+  "model": "glm-5.3"
+}

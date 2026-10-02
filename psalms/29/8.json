@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Kĩgũ kĩa Yahwe nĩgĩtũngĩrĩkĩthia nyambura; Yahwe nĩatũngĩrĩkĩthie nyambura ya Kadeci.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kĩgũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "nĩgĩtũngĩrĩkĩthia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nyambura"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "nĩatũngĩrĩkĩthie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nyambura ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeci"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:55.223714848Z",
+  "model": "glm-5.3"
+}

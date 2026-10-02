@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Reu aatũũra thutha wa kũciarithia ⟨את⟩ Cerugi mĩaka mũgwanja na magana igĩrĩ, na akaciarithia arũme na ake.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "aatũũra"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cerugi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Cerugi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na magana igĩrĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akaciarithia"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arũme"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na ake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:57.785895554Z",
+  "model": "glm-5.3"
+}

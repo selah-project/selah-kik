@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Yahwe akiuga kwa ari'a Yiceraeri: Ti kuuma Micirayimu, na kuuma Haamori, na kuuma ari'a Amoni, na kuuma Pileciti?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari'a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ti kuuma"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haamori"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari'a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pileciti"
+    }
+  ],
+  "timestamp": "2026-10-01T22:58:50.629617054Z",
+  "model": "glm-5.3"
+}

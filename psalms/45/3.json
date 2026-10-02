@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Wĩ mũtheri kũrĩ o mũndũ; ũteithĩrio kĩguni-inĩ kĩa kanua gwaku; rĩrĩa ũguo Erohimu akũrathimire nginya tene na tene.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "wĩ mũtheri"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kũrĩ o"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "ũteithĩrio"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kĩguni"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "kanua gwaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "akũrathimire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nginya tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:56.155769494Z",
+  "model": "glm-5.3"
+}

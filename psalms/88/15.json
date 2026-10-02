@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Nĩkĩ, Yahwe, ũregatĩtie mũoyo wakwa? Ũthingithicie ciĩthe cĩaku kũrĩ niĩ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ũregatĩtie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Ũthingithicie"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ciĩthe cĩaku"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kũrĩ niĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:19.097883963Z",
+  "model": "glm-5.3"
+}

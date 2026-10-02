@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Ceromo akĩmwoora ciugo ciao ⟨את⟩ ciothe; kĩndũ gĩtiganĩirũo kuuma kwa mũthamaki gĩtikuo, kĩrĩa gĩtioonanĩtio nakĩo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Na akĩmwoora"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciao ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ciugo ciao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gĩtikuo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gĩarĩkũgĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "gĩtiganĩirũo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kwa mũthamaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gĩtioonanĩtio"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nakĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:01.256695563Z",
+  "model": "glm-5.3"
+}

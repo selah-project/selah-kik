@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na mathinjĩrĩria ⟨את⟩ aana a Binyamini na kũma: Thiĩi, na mũcĩe mĩhithũ-inĩ ya mĩtemĩ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Na mathinjĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana a Binyamini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũma"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Thiĩi"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "na mũcĩe mĩhithũ-inĩ"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "ya mĩtemĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:08:52.966930561Z",
+  "model": "glm-5.3"
+}

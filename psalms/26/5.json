@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩnamenete kũgũkĩranĩria kwa arĩa maagaga maũndũ-mbeu, na halĩ na arĩa marũũ ti ngĩikara.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nĩnamenete"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kũgũkĩranĩria"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "arĩa maagaga maũndũ-mbeu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na halĩ na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa marũũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ngĩikara"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:46.096360531Z",
+  "model": "glm-5.3"
+}

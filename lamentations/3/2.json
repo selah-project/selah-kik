@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩĩ ⟨את⟩ anatũũrire akanjia ũira-inĩ, na tiri ũtheri.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "nĩĩ ⟨את⟩",
+      "marks": "nĩĩ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "anatũũrire"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akanjia"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ũira-inĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na tiri"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T04:34:59.252105678Z",
+  "model": "glm-5.3"
+}

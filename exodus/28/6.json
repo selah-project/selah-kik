@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na make ⟨את⟩ efodi: zahabu, tekereeti, arigamani, twarathi wa cani, na ceci icumĩtwo — maciaro ma mũthagathi.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "na make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekereeti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na arigamani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "twarathi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wa cani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ceci"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "icumĩtwo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "maciaro"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mũthagathi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:15.715289632Z",
+  "model": "glm-5.3"
+}

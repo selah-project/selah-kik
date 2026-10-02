@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na mũruithithie ⟨את⟩ mũirĩnga wa kĩgunji kĩanyu, na kĩgĩtua gĩtwa kĩa kĩrĩkanĩro gatagatĩ kĩa inywe na mũnyu.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "mũruithithie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũirĩnga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mũirĩnga"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "kĩgunji kĩanyu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na kĩgĩtua"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "gĩtwa kĩa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gatagatĩ kĩa inywe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "na gatagatĩ kĩa mũnyu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:04.539731860Z",
+  "model": "glm-5.3"
+}

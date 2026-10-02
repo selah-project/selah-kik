@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Yeredi aarĩ na mĩaka mĩrongo ĩtwa na ĩgĩrĩ, na igana ĩmwe, ndũakwa akĩciarũra ⟨את⟩ Hanochi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "aarĩ na mĩaka"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mĩrongo ĩtwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na igana ĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanochi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanochi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:02.745986388Z",
+  "model": "glm-5.3"
+}

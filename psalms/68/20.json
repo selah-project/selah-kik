@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Adonai ndũmenithagio mũno, mũthenya mũthenya atwaranagira itũ mbuto; Ere nĩwe cokethero cĩitu. Cera.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ndũmenithagio mũno"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "atwaranagira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "itũ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "cokethero cĩitu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:41.971642115Z",
+  "model": "glm-5.3"
+}

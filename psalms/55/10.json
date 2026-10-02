@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Merithia, Adonai, rũimi rwao, nĩgũko nĩnoonire ⟨את⟩ mahinya ma njamba na ⟨את⟩ mbarario mwena-inĩ wa mucĩ.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "merithia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "thuthithithania"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rũimi rwao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩnoonire"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mahinya ma njamba"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "na mbarario"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mwena-inĩ wa mucĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:37.177692967Z",
+  "model": "glm-5.3"
+}

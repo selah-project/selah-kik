@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Abarahamu arĩ mũrũ wa mĩaka mia ikũmi ithano ya makũmi ũmwe rĩrĩa ⟨את⟩ Yicaki mũrũ wake aekiwo nakĩo.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Na Abarahamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mia ikũmi ithano ya makũmi ũmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "rĩrĩa aekiwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicaki mũrũ wake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:38:52.318271718Z",
+  "model": "glm-5.3"
+}

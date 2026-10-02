@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Icio njĩhĩtie kumeera, na kanua gwakwa kwoigire mũhĩndĩ wa thandarũ cĩakwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "icio"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "kumeera"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "njĩhĩtie"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na kwoigire"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua gwakwa"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mũhĩndĩ wa thandarũ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:58.820143284Z",
+  "model": "glm-5.3"
+}

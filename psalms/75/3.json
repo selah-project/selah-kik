@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Nĩrĩa nĩngĩĩhora ĩgayũkanĩre, niĩ mwene nĩngĩciira na cedeki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩa"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nĩngĩĩhora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ĩgayũkanĩre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "niĩ mwene"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "nĩngĩciira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:18.337102104Z",
+  "model": "glm-5.3"
+}

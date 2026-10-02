@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩrĩa mwathi akiuga: Hiũhirĩrĩni ⟨את⟩ Hamani, ndaregere ⟨את⟩ kĩa Eceteri kĩheanĩte. Nĩũka mwathi na Hamani thĩinĩ wa kĩama kĩrĩa Eceteri agĩte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩrĩa mwathi akiuga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "hiũhirĩrĩni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kũregera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩa Eceteri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eceteri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nĩũka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "na Hamani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "kĩama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "agĩte"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eceteri"
+    }
+  ],
+  "timestamp": "2026-10-02T04:45:44.956592007Z",
+  "model": "glm-5.3"
+}

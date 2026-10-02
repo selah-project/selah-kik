@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mũthenya wa kĩamba na mwarũrage, igũrũ wa mĩcĩ ĩrĩa ĩcwatĩtwo na igũrũ wa macoko manene marĩ kũrĩ mũno.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "wa kĩamba"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "na mwarũrage"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mĩcĩ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ĩrĩa ĩcwatĩtwo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na igũrũ wa"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "macoko"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "manene marĩ kũrĩ mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T02:39:02.737910847Z",
+  "model": "glm-5.3"
+}

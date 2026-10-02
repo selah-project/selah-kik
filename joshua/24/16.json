@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Andũ nĩcookia na magĩuga: Nĩkĩĩũga nĩaitũ gũkaĩra ⟨את⟩ Yahwe, gũtũmia ngai inene.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nĩcookia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na magĩuga"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "nĩkĩĩũga nĩaitũ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nĩaitũ"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "gũkaĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "gũtũmia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "inene"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:08.910545747Z",
+  "model": "glm-5.3"
+}

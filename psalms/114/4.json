@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 114,
+  "translation": "Milima nĩirekire kũina ta ndurũme cia ng'ondu, njara ta ibete cia ng'ondu.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Milima"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "nĩirekire kũina"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ta ndurũme cia ng'ondu"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "njara"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ta ibete cia"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:35.632107321Z",
+  "model": "glm-5.3"
+}

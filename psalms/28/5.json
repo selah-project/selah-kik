@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Nĩgũkoruo matamenyerei nginya ciĩro cia Yahwe, na kĩanda kĩa mikono yake; aramengithie, na kaihũragĩra kũmengerera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "matamenyerei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ciĩro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na nginya"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kĩanda"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kĩa mikono yake"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "aramengithie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na kaihũragĩra"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "kũmengerera"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:04.944634562Z",
+  "model": "glm-5.3"
+}

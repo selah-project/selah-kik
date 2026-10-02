@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Azaria nĩorotire ⟨את⟩ Hereci, na Hereci nĩorotire ⟨את⟩ Ereasai.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Na Azaria"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hereci"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Hereci"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "na Hereci"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ereasai"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Ereasai"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:05.998655297Z",
+  "model": "glm-5.3"
+}

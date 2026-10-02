@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Dawidi akĩona atĩ Caori nĩmoogire kũgĩa kũkwehereria mũoyo wake ⟨את⟩; Dawidi agĩikaraga gĩthookarĩ-inĩ kĩa Zipi, mũkũyũ-inĩ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩmoogire kũgĩa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kũkwehereria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũoyo wake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mũoyo wake"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthookarĩ-inĩ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "kĩa Zipi"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "mũkũyũ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:23:17.607715330Z",
+  "model": "glm-5.3"
+}

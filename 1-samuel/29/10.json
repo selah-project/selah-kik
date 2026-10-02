@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na rĩũri ũyũ, mwarũrĩte kiroko kĩambĩrĩria, na we na amĩtumia a mwathi waku arĩa maakũũrire hamwe nawe ⟨את⟩; na mũkũrũmbũkĩre kiroko-inĩ, na kĩtheri kĩkĩoneka kwanyĩnĩ, mũthiĩ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩũri ũyũ"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "mwarũrĩte kiroko kĩambĩrĩria"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kiroko-inĩ"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "na amĩtumia a"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mwathi waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "maakũũrire"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "na mũkũrũmbũkĩre"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kiroko-inĩ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na kĩtheri kĩkĩoneka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwanyĩnĩ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mũthiĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:26:10.527570541Z",
+  "model": "glm-5.3"
+}

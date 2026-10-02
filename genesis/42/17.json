@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Nĩarakĩrunganithia ⟨את⟩ macio handũ ha kũikarĩrwo-inĩ mĩthenya ĩtatu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "nĩarakĩrunganithia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio (arĩa ikarĩtwo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "kũikarĩrwo-inĩ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ĩtatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T06:09:20.691671297Z",
+  "model": "glm-5.3"
+}

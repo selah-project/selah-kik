@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩgũkorwo na wewe nĩndĩhĩaga mbari ya anathe, na na Erohimu wakwa nĩndĩhamũkĩraga gĩthingu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na wewe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nĩndĩhĩaga"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "mbari ya anathe"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "na na Erohimu wakwa"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "nĩndĩhamũkĩraga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "gĩthingu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:45.724971617Z",
+  "model": "glm-5.3"
+}

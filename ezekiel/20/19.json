@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩ njĩ Yahwe Erohimu wanyu; mĩtugo yakwa-inĩ mũthiĩ, na ⟨את⟩ ciira ciakwa mũkarĩrie, na mũcĩge ⟨את⟩ icio.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nĩ njĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "בחוקותי",
+      "gloss": "mĩtugo yakwa-inĩ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mũthiĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciira ciakwa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira ciakwa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mũkarĩrie"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na mũcĩge"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ icio"
+    }
+  ],
+  "timestamp": "2026-10-02T01:53:26.285823036Z",
+  "model": "glm-5.3"
+}

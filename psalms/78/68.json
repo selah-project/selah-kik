@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "No athuurire ⟨את⟩ mbarĩ ya Yehuda, ⟨את⟩ ririma rĩa Ciyoni, ũrĩa aendete.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "athuurire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbarĩ ya Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mbarĩ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ririma rĩa Ciyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ririma"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aendete"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:01.243956297Z",
+  "model": "glm-5.3"
+}

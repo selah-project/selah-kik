@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Kwa mũcũi, kwa ciana cia Korahi, ciĩgie iri-inĩ cia arĩĩ mecirũire, kĩĩmbĩ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũcũi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ciana cia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ciĩgie"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "iri-inĩ cia arĩĩ mecirũire"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩmbĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:45.128777060Z",
+  "model": "glm-5.3"
+}

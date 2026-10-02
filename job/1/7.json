@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Yahwe akiuga kwa Catani: Ũrokĩte kuuma kũrĩ? Na Catani naookire ⟨את⟩ Yahwe, akiuga: Nĩkuuma kũnyenyetereera thĩ yothe, na kũyũmbũkia mũno-inĩ wayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Catani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kuuma kũrĩ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ũrokĩte"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "naookire"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Catani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "kũnyenyetereera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "na kũyũmbũkia"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mũno-inĩ wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:05:06.116361398Z",
+  "model": "glm-5.3"
+}

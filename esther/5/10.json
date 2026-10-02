@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "No Hamani nĩeigirie ũthĩnungĩ, agĩthiĩ nyũmba yake, na eithiŋĩirie akĩta ⟨את⟩ andũ a meciria make na ⟨את⟩ Zeresh mũtumia wake.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "nĩeigirie ũthĩnungĩ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "na eithiŋĩirie"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akĩita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a meciria make"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "andũ a meciria make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:46:33.459321641Z",
+  "model": "glm-5.3"
+}

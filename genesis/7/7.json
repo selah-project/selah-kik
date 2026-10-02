@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Noaci nĩingĩtie, na aana ake, na mũtumia wake, na atumia a aana ake ⟨אתו⟩ hamwe nake, ĩrĩteba-inĩ, nĩgũkũrania na maaĩ a Maburi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nĩingĩtie"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaci"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana ake"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na mũtumia wake"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "na atumia"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a aana ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake",
+      "marks": "hamwe nake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "rĩteba-inĩ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nĩgũkũrania na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "a Maburi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:49.217397420Z",
+  "model": "glm-5.3"
+}

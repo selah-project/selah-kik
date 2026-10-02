@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "na ũthĩ ũgĩthome kuuma igũrũ ⟨את⟩ mahondeko mao na ⟨את⟩ maitheri mao, na ũkahĩtie ciira ciao.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "na ũthĩ ũgĩthome"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahondeko mao"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "mahondeko mao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maitheri mao"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "maitheri mao"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na ũkahĩtie"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ciira ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T05:42:20.579296020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Pelifitimi nĩmacĩire ⟨את⟩ aroni rĩa Erohimu, na makĩyithuria kuuma Ebeni-ha-Ezeri gĩkĩrĩa Aciredodi.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Na Pelifitimi"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nĩmacĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni rĩa Erohimu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "rĩa Erohimu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "makĩyithuria"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "kuuma Ebeni"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezeri"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Aciredodi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:51.843293128Z",
+  "model": "glm-5.3"
+}

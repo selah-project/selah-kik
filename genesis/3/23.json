@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ ũndũ ũcio Yahwe Erohimu akĩmũtũma ikuu kuuma mũgũnda wa Edeni, agathima ⟨את⟩ thĩ ĩrĩa oimĩte kuo.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "akĩmũtũma ikuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kuuma mũgũnda"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "wa Edeni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "agathima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oimĩte"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:52.972654656Z",
+  "model": "glm-5.3"
+}

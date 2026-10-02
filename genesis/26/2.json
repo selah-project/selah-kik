@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Yahwe agerekĩra kũrĩ Yicaki, na akĩmũũria atĩrĩ: Ndũthagũke Micirayimu; ikara bũrũri-inĩ ũrĩa nĩngwĩra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "agerekĩra kũrĩ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũria atĩrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "thagũke"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ikara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nĩngwĩra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:26.055862898Z",
+  "model": "glm-5.3"
+}

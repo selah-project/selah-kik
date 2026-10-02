@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 12:19",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩguo Yehoaci, mũthamaki wa Yehuda, agĩtũra ⟨את⟩ indo ciothe theru iria Yehocafati na Yehoramu na Ahaziahu athe a athamaki a Yehuda maathenithirie, na ⟨את⟩ itheru rĩake, na ⟨את⟩ thahabu yothe ĩrĩa ĩrarĩkĩtiruo igũrũ rĩa nyũmba ya Yahwe na nyũmba ya mũthamaki; nĩaciĩhĩtũkire Hazaeri, mũthamaki wa Aramu; na ũcio nĩainũkire thĩ ya Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "agĩtũra"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoaci"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe theru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "theru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "maathenithirie"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "ויהורם",
+      "gloss": "na Yehoramu"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "na Ahaziahu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "athe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "itheru rĩake"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "itheru rĩake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thahabu yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ĩrarĩkĩtiruo"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mũthamaki"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nĩaciĩhĩtũkire"
+    },
+    {
+      "surface": "לחזאל",
+      "gloss": "Hazaeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nĩainũkire"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:51.876157871Z",
+  "model": "glm-5.3"
+}

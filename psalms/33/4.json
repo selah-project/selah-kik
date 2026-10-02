@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩgũkorwo kĩugo kĩa Yahwe nĩgĩkwerere, na icungwa ciake ciothe nĩcio ikuumba na ũmenyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nĩgĩkwerere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ciothe"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "icungwa ciake"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "na ũmenyo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:25.067908824Z",
+  "model": "glm-5.3"
+}

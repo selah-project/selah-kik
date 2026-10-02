@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Ndaakahotithia kĩrĩgĩrĩro gĩaku kĩhũtĩke; ndaakaninithia ũrĩa ũrĩ kuũmĩririe ũkorne.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndaaka-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hotithia"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kĩrĩgĩrĩro gĩaku kĩhũtĩke"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kĩrĩgĩrĩro gĩaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndaaka-"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ninithia ũkorne"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ũrĩa ũrĩ kuũmĩririe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:00.003880593Z",
+  "model": "glm-5.3"
+}

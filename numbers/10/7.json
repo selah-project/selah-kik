@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "No rĩrĩa mũkũrirĩanĩrĩria ⟨את⟩ mwĩrirĩrie, mũrahũre, na ti mũrahũre teruwa.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "rĩrĩa mũkũrirĩanĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwĩrirĩrie"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mwĩrirĩrie"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "mũrahũre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "mũrahũre teruwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:56:16.910076257Z",
+  "model": "glm-5.3"
+}

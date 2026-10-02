@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na rĩĩtwa rĩa mũrĩ'ĩ wa kerĩ nĩ Gihoni; ũcio nĩwe ũhũrangĩra ⟨את⟩ bũrũri wothe wa Kuuci.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Na rĩĩtwa"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rĩa mũrĩ'ĩ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa kerĩ"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gihoni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio nĩwe"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ũhũrangĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bũrũri wothe wa Kuuci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bũrũri"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "wa Kuuci"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:06.493567460Z",
+  "model": "glm-5.3"
+}

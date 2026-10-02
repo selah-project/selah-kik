@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 18:28",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Angĩkorwo mĩrongo ĩtano ya acedeki ĩharĩre ikũmi na ĩtano, ũgũcicia ⟨את⟩ mucĩ wothe nĩ ũndũ wa ĩtano? Nake akiuga: Ndiigũcicia, nĩngakũra makũinya mĩrongo kenda na ĩtano.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Angĩkorwo"
+    },
+    {
+      "surface": "יחסרון",
+      "gloss": "ĩharĩre"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mĩrongo ĩtano"
+    },
+    {
+      "surface": "הצדיקם",
+      "gloss": "acedeki"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ikũmi na ĩtano"
+    },
+    {
+      "surface": "התשחית",
+      "gloss": "ũgũcicia"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "nĩ ũndũ wa ĩtano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucĩ wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Nake akiuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ndi"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "igũcicia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nĩngakũra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "makũinya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mĩrongo kenda"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na ĩtano"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:14.571525775Z",
+  "model": "glm-5.3"
+}

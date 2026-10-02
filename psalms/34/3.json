@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Mũoyo wakwa ũthayagĩra Yahwe; arĩa mahingĩtie ngoro mahĩũrũo, makĩrĩa gũkeno.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ũthayagĩra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mahĩũrũo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "arĩa mahingĩtie ngoro"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "makĩrĩa gũkeno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:32.529575623Z",
+  "model": "glm-5.3"
+}

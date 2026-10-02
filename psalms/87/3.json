@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 87,
+  "translation": "Mĩthingu ĩrĩa iyoogerwo-ria thĩinĩ waku, mũciĩ ⟨wa⟩ Erohimu. Ceraca.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "mĩthingu ĩrĩa iyoogerwo-ria"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "iyoogerwo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ceraca"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:38.482261532Z",
+  "model": "glm-5.3"
+}

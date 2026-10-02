@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Dawidi nĩanyitire ⟨את⟩ ngaco cia thahabu cia arĩa maarĩ kwa ajendi a Hadadezeri, na akĩcookeria Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nĩanyitire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaco cia thahabu"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ngaco"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cia thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "maarĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ajendi a"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "na akĩcookeria"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:26.938428180Z",
+  "model": "glm-5.3"
+}

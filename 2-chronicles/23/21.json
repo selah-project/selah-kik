@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩgũo andũ othe a thĩ magiikaraga makĩgwatĩra, na gĩtĩ kĩahũrũkire; na ⟨את⟩ Atarayahu makamũthĩnjirie na thara.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "magiikaraga makĩgwatĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na gĩtĩ"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "kĩahũrũkire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atarayahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atarayahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "makamũthĩnjirie"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na thara"
+    }
+  ],
+  "timestamp": "2026-10-02T05:52:49.545825892Z",
+  "model": "glm-5.3"
+}

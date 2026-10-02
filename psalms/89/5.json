@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Kinya tene, nĩngĩthemaga ⟨את⟩ mbĩgu yaku, na nĩngĩamũrire, kĩrĩra na kĩrĩra, ⟨את⟩ kĩgongano gĩaku. Cela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "nĩngĩthemaga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbĩgu yaku"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "na nĩngĩamũrire"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kĩrĩra"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na kĩrĩra"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kĩgongano gĩaku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cela"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:20.851297556Z",
+  "model": "glm-5.3"
+}

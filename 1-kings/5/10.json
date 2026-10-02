@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na uũgĩ wa Selomi wĩgerie uũgĩ wa ciana ciothe cia Kedemu, na uũgĩ wothe wa Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "wĩgerie"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "uũgĩ wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomi"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "uũgĩ wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe cia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedemu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "na wothe wa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "uũgĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:49:56.576611678Z",
+  "model": "glm-5.3"
+}

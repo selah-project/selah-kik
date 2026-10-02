@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Yahwe, thũ cianjĩ nĩciongerete nĩkĩ! Aingĩ nĩmakeherera.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nĩciongerete"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "thũ cianjĩ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Aingĩ"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "nĩmakeherera"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨kũnjera⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:26.030719153Z",
+  "model": "glm-5.3"
+}

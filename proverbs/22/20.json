@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ndĩgĩti o ndarakũandĩkĩra thaa ĩtatũ, mĩrogithi-inĩ na ũmenyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ndĩgĩti o"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ndarakũandĩkĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rĩkwa"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "thaa ĩtatũ"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "mĩrogithi-inĩ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na ũmenyo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:01:23.526294832Z",
+  "model": "glm-5.3"
+}

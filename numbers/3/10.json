@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ Aharoni na ⟨את⟩ ciana ciake ũcokanĩrĩrie, na mathiĩtie kũrĩithia ⟨את⟩ ũtonganĩri wao; na mũndũ ũrĩa mwerũ arĩa ũraiĩte agakũrwo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciana ciake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ũcokanĩrĩrie"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "na mathiĩtie kũrĩithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũtonganĩri wao"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ũtonganĩri wao"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "na mũndũ ũrĩa mwerũ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "arĩa ũraiĩte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "agakũrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:13.309216179Z",
+  "model": "glm-5.3"
+}

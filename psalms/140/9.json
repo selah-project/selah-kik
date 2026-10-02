@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Yahwe, ndũhe mĩhianĩro ya mwĩru; rheo rĩake ndũrutehe, tiga makũrũkwo. Cera.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ũhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "mĩhianĩro"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwĩru"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "rheo rĩake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "ũrute"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "makũrũkwo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:17.366344057Z",
+  "model": "glm-5.3"
+}

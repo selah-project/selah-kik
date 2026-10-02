@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Ndendaro ilia mũndũ ũrĩa ũgũrũku araraga igũrũ rĩake nĩtheru; na kĩndũ gĩothe arĩikaraga igũrũ rĩake nĩ kĩtheru.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "[ciothe]"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "Ndendaro ilia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilia"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "araraga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "mũndũ ũrĩa ũgũrũku"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nĩtheru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kĩndũ gĩothe"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilia"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "arĩikaraga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nĩ kĩtheru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:40.550655282Z",
+  "model": "glm-5.3"
+}

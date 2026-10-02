@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Kĩeerie rwĩ rwaku hĩgĩ-inĩ gwaku, mũnjagũ-wa-hinya; hodo waku na hadari yaku.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "kĩeerie"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "rwĩ rwaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "hĩgĩ-inĩ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "gwaku"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mũnjagũ-wa-hinya"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "hodo waku"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "na hadari yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:56.157891792Z",
+  "model": "glm-5.3"
+}

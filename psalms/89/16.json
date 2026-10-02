@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Mwega nĩ ndũrĩ ĩrĩa ĩmenya mũgambo wa kũrainĩra, Yahwe; thĩinĩ wa ũtheri thayũ waku nĩciendiaga.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mwega nĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndũrĩ"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ĩrĩa ĩmenya"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "mũgambo wa kũrainĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "thĩinĩ wa ũtheri"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thayũ waku"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "nĩciendiaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:08.816738114Z",
+  "model": "glm-5.3"
+}

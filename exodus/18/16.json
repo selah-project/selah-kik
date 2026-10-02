@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩgũkorwo ũhoro wĩ mwendere, ũũgĩte kũnyĩĩra, na nĩngĩciiria harĩ mũndũ na harĩ mwenda wake, na nĩngĩmenyithia ⟨את⟩ ciatia cia Erohimu na ⟨את⟩ Tora yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mwendere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ũũgĩte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũnyĩĩra"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "na nĩngĩciiria"
+    },
+    {
+      "surface": "בין",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na harĩ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mwenda wake"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "na nĩngĩmenyithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciatia cia Erohimu"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ciatia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "cia Erohimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tora yake"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tora yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:03.248696527Z",
+  "model": "glm-5.3"
+}

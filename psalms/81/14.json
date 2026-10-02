@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Ithuwa andũ akwa maiguithia ĩngwa, Yiceraeri ethiĩ njĩra yarya-inĩ!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ithuwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maiguithia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩngwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "njĩra yarya-inĩ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ethiĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:48.904918710Z",
+  "model": "glm-5.3"
+}

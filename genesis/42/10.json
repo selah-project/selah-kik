@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Magĩcooka mũmũmeeria atĩrĩrĩ: Tĩî, mwathi wakwa; no athũnjĩ waku nĩmakĩĩya kũgũra irio.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "magĩcooka mũũga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩî"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "no athũnjĩ waku"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩmakĩĩya"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kũgũra"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "irio"
+    }
+  ],
+  "timestamp": "2026-10-01T20:53:44.692686960Z",
+  "model": "glm-5.3"
+}

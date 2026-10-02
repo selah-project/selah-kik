@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Igũrũ, igũrũ nĩcia Yahwe; no thĩ nĩahĩtie ciana cia andũ.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ (cia)"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cia Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "no thĩ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩahĩtie"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:14.436655372Z",
+  "model": "glm-5.3"
+}

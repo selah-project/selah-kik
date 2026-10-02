@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Nduũre nyina, ũngĩmũkũra kuuma moko-inĩ ma aana a thĩ ĩngĩ, arĩa miri yao wayoigire ma, na mũkono wao wa kũonja nĩ wa kũonja wa ma.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Nduũre"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ũngĩmũkũra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "thĩ ĩngĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "miri yao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wayoigire"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ma"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "na mũkono wao wa kũonja"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "wa kũonja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wa ma"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:09.166505655Z",
+  "model": "glm-5.3"
+}

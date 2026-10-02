@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "We nĩũmenye kũikara kwakwa na kũinũka kwakwa; nĩwagũcokanĩrĩirie mĩcigi yakwa kuma kũtheri.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nĩũmenye"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kũikara kwakwa"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "na kũinũka kwakwa"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "nĩwagũcokanĩrĩirie"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "mĩcigi yakwa"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kuma kũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:49.861615326Z",
+  "model": "glm-5.3"
+}

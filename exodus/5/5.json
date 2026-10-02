@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Parao akiuga: Rũrĩa-rĩ, andũ a thĩ nĩmaingĩ rĩũno, na inui mũkaagia ⟨את⟩ acio kuuma kĩroho ciao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Rũrĩa-rĩ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nĩmaingĩ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "rĩũno"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "mũkaagia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "acio"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "kĩroho ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:39.032727213Z",
+  "model": "glm-5.3"
+}

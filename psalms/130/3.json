@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Rĩrĩa Yahwe ũrongoragĩrĩra mehia, Adonai, ndũire gũtikara?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa (ndũire...?)"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "mehia"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ũrongoragĩrĩra"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndũire"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "gũtikara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:43.874865239Z",
+  "model": "glm-5.3"
+}

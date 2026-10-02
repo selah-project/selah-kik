@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Na njohi ĩtũmaga ngoro ya mũndũ mũthĩ kũina; gũtũma ng'etho kũana kuuma mũthagwa; na irio ngoro ya mũndũ mũthĩ ĩcokagĩrĩra.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "na njohi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ĩtũmaga... kũina"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya mũndũ mũthĩ"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "gũtũma... kũana"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ng'etho"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kuuma mũthagwa"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "na irio"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya mũndũ mũthĩ"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "ĩcokagĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:50.236490085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nao maaĩ ma gĩtanda kĩarĩkĩire, akĩringa ⟨את⟩ mũriĩ thĩ, kwerũ gĩtĩ kĩmwe kĩa mĩtigũ.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "kĩarĩkĩire"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "gĩtanda"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "akĩringa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũriĩ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mũriĩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ, kwerũ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "gĩtĩ kĩa mĩtigũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:57.219276629Z",
+  "model": "glm-5.3"
+}

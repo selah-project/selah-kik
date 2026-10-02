@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mwathi wa Yiceraeri akiuga na athũni ake: Ndĩmũĩ atĩ Ramoti Girioriadi nĩ yĩthuĩ, na ithuĩ tũhĩhĩkĩte tũrei kũnyita ⟨את⟩ yo kuuma moko-inĩ ma mwathi wa Aramu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "athũni ake"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ndĩmũĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nĩ yĩthuĩ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Girioriadi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na ithuĩ"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "tũhĩhĩkĩte tũrei"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "kũnyita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yo (Ramoti Girioriadi)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ ma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:08.840662134Z",
+  "model": "glm-5.3"
+}

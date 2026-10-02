@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "O thĩĩ mwega hema ciaku, i Yaakobu, na micikani ciaku, i Yiceraeri!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "o thĩĩ"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "hema ciaku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "micikani ciaku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:20:49.025830950Z",
+  "model": "glm-5.3"
+}

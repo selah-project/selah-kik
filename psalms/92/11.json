@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Na kĩhembe kĩanjĩ nĩkĩrĩmĩtwo ta kĩa nyamũ ya gĩthigũrũ; nĩnĩrirwo maguta ma kĩerũ.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "nĩkĩrĩmĩtwo"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "ta kĩa nyamũ ya gĩthigũrũ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "kĩhembe kĩanjĩ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nĩnĩrirwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ma kĩerũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.291845461Z",
+  "model": "glm-5.3"
+}

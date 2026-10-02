@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Aana a Gadi kuuma mĩcani mwao: wa Cefoni mĩcikano yaCefoni; wa Hagi mĩcikano yaHagi; wa Cuni mĩcikano yaCuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Aana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "a Gadi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kuuma mĩcani mwao"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "wa Cefoni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mĩcikano"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "yaCefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "wa Hagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mĩcikano"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "yaHagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "wa Cuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mĩcikano"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "yaCuni"
+    }
+  ],
+  "timestamp": "2026-10-01T22:07:12.459839378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 70,
+  "translation": "Kũrĩ mũcũngĩri, ũrĩa wa Dawidi, gũkĩrĩkanithia.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũcũngĩri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "gũkĩrĩkanithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:35.950394604Z",
+  "model": "glm-5.3"
+}

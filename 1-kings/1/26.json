@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 1:26",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "No iwĩ, ndĩ mũgarũre waku, na Cadoku mũkĩrĩita, na Benayahu mũrũ wa Yehoyata, na Ceromo mũgarũre waku — ndaacihĩtũkĩire.",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "No iwĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũgarũre waku"
+    },
+    {
+      "surface": "ולצדק",
+      "gloss": "na Cadoku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkĩrĩita"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "na Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyata"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "na Ceromo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũgarũre waku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "(-a)cihĩtũkĩire"
+    }
+  ],
+  "timestamp": "2026-10-01T23:48:04.590683979Z",
+  "model": "glm-5.3"
+}

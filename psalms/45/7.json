@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Kĩgongo gĩakwa, Erohimu, gĩtikarĩre tene na tene; mũtwae wa ũthingu nĩwe mũtwae wa ũthamaki wakwa.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "kĩgongo gĩakwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na tene"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mũtwae"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "wa ũthingu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mũtwae"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "wa ũthamaki wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:01.146977776Z",
+  "model": "glm-5.3"
+}

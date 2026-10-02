@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Nĩ gũkorwa nĩwe ũrarĩ mũteere wakwa; na thĩinĩ wa kĩambũrũ kĩa ngurũru ciaku nĩngokĩinĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkorwa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ũrarĩ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "mũteere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "na thĩinĩ wa kĩambũrũ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kĩa ngurũru ciaku"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "nĩngokĩinĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:26.766999964Z",
+  "model": "glm-5.3"
+}

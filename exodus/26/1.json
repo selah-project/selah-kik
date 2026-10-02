@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ⟨את⟩ Micikani nĩũkahĩnda: ngiri ikũmi, ceci gĩa kũgũa, na takereti, na arigamani, na toreathi-ciani; nĩ makarubi, watho wa mũhũthagĩri, nĩũkahĩnda ⟨את⟩ macio.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkahĩnda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "gĩa kũgũa"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "takereti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "arigamani"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "toreathi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ciani"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "makarubi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "watho wa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mũhũthagĩri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkahĩnda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ macio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:41.503984193Z",
+  "model": "glm-5.3"
+}

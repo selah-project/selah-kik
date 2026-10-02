@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Wĩ ũthĩranĩ ũrĩa wigĩte, wee Yahwe; ndĩrute marua maku ma theeretwo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "wĩ ũthĩranĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ndĩrute"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "marua maku ma theeretwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:51.103770284Z",
+  "model": "glm-5.3"
+}

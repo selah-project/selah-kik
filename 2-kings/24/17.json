@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Mũthamaki wa Baveri nĩekire Matania, maama wake, ⟨את⟩ mũthamaki handũ hake, nawĩrahĩrĩra ⟨את⟩ rĩĩtwa rake akĩmũtua Cidekiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "nĩekire mũthamaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Baveri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matania"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matania"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "maama wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "handũ hake"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "nawĩrahĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rake"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidekiyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:23:47.784783400Z",
+  "model": "glm-5.3"
+}

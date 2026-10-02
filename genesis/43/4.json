@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Arĩ ũrĩmũthĩĩra ⟨את⟩ mwana-ithe witũ ⟨את⟩ ithũĩ, nĩtũkendera, na tũgĩtũnyanĩra-rĩ irio.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Arĩ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ũrĩ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ũrĩmũthĩĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana-ithe witũ"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mwana-ithe witũ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ithũĩ"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "nĩtũkendera"
+    },
+    {
+      "surface": "וישברה",
+      "gloss": "na tũgĩtũnyanĩra-rĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ri kwakwa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "irio"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:22.453551698Z",
+  "model": "glm-5.3"
+}

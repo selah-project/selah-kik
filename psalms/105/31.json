@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Anakĩuga, nao maũndũ ma kũingĩ makĩũra mbũra-inĩ, na ndũa ihumbũ thĩinĩ wa mbocie yao yothe.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "anakĩuga"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "makĩũra"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "maũndũ ma kũingĩ ma mbũra-inĩ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ndũa ihumbũ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa… yothe"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "mbocie yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:37.243374220Z",
+  "model": "glm-5.3"
+}

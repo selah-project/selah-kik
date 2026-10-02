@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Na Yaakobu ahiũra ciana ciake, akiuga: Thinanĩri hamwe, nĩngĩmũrĩra ⟨את⟩ ⟨את⟩ ũrĩa ũgũkũgerera ⟨את⟩ mũndũ o wothe, thĩinĩ wa mĩthenya ya mũthia.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ahiũra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "thinanĩri hamwe"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "nĩngĩmũrĩra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa ũgũkũgerera mũndũ o wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "gũgũkũgerera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mũndũ o wothe",
+      "marks": "mĩthenya ya mũthia"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "thĩinĩ wa mĩthenya ya mũthia"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:04.718110456Z",
+  "model": "glm-5.3"
+}

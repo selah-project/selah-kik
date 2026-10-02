@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Yahwe nĩaiguĩte kĩooyo kwakwa; Yahwe nĩgũkũmita thayo yakwa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nĩaiguĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "kĩooyo kwakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thayo yakwa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nĩgũkũmita"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:36.976358053Z",
+  "model": "glm-5.3"
+}

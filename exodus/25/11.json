@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ũmũcipithie ⟨את⟩ yau na thahabu mũtheru; kuuma ndani na kuuma kwa nja ũmũcipithie; na ũme haiya zeri ya thahabu thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "na ũmũcipithie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yau"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma ndani"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "na kuuma kwa nja"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "ũmũcipithie"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na ũome"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "haiya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zeri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "thĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:59.972917972Z",
+  "model": "glm-5.3"
+}

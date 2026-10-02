@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 35:20",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Thutha wa macio othe, rĩrĩa Yocakiau atungatĩtire ⟨את⟩ nyũmba, Neko mwathi wa Micirayimu niagarũrire gũtara Karikemicu harĩa Perati irĩ; na Yocakiau agĩĩra nginya kũmũrona.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "macio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "atungatĩtire"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yocakiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "niagarũrire"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "gũtara"
+    },
+    {
+      "surface": "בכרכמיש",
+      "gloss": "Karikemicu"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perati"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "agĩĩra"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "nginya kũmũrona"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yocakiau"
+    }
+  ],
+  "timestamp": "2026-10-02T06:05:13.260708326Z",
+  "model": "glm-5.3"
+}

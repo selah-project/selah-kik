@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Mĩaka ikũmi na ĩrĩ nĩmahũthagĩrĩire ⟨את⟩ Kedaroraomeri, na mĩaka ikũmi na ithatũ nĩmagethũkĩtie.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nĩmahũthagĩrĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedaroraomeri"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedaroraomeri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na ithatũ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "nĩmagethũkĩtie"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:33.544063993Z",
+  "model": "glm-5.3"
+}

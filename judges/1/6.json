@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Adoni-Bezeki agĩthiĩ na mũguũmbĩ, makĩmũteithia thutha, makĩmũhota ⟨את⟩, makĩratanithia ⟨את⟩ ng'ethe cia moko make na magũrũ make.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "agĩthiĩ na mũguũmbĩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeki"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "makĩmũteithia"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "makĩmũhota"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezeki"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "makĩratanithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ethe cia moko na magũrũ"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "ng'ethe"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "magũrũ make"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:52.076854987Z",
+  "model": "glm-5.3"
+}

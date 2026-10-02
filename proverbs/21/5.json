@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Mĩcoko cia mũkarĩ nĩcio tu irĩ kuuma ũnciari; na wonji wothe wa mũtheri nĩguo tu amĩkĩra mũtheke.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "mĩcoko"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "mũkarĩ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "ũnciari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wonji wothe"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "mũtheri"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "mũtheke"
+    }
+  ],
+  "timestamp": "2026-10-02T03:56:31.026175303Z",
+  "model": "glm-5.3"
+}

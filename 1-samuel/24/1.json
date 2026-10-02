@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Dawidi nĩanyĩte kuuma harĩa, akĩikara macadoti-inĩ ya Eni-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nĩanyĩte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuuma harĩa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "macadoti-inĩ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eni"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:23:40.575722538Z",
+  "model": "glm-5.3"
+}

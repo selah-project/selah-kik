@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Ti makũrĩkĩrania kĩrĩkanĩro kĩa Erohimu, na makĩrega kũthiĩ na Tora yake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "makũrĩkĩrania"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Tora yake"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "makĩrega"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kũthiĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:53.551621918Z",
+  "model": "glm-5.3"
+}

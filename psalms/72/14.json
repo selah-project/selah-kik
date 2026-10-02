@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Kuma thĩinĩ wa hunjĩ na hinya, agatumĩra mwoyo wao; na thakame wao nĩ wa thaĩ thĩinĩ wa maitho make.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "kuma thĩinĩ"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "na hinya"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "agatumĩra"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mwoyo wao"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "na nĩ wa thaĩ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "thakame wao"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "thĩinĩ wa maitho make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:43.207653773Z",
+  "model": "glm-5.3"
+}

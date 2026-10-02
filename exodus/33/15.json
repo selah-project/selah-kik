@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nakĩo akiuga kũri we: Kana mahũa maku matarĩ kũthi, ndũkahĩtũkithia ithuĩ kuuma hakũhĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nakiyo akiuga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũri we"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "matarĩ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mahũa maku"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "kũthi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ndũkahĩtũkithia ithuĩ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuuma hakũhĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:35.108104880Z",
+  "model": "glm-5.3"
+}

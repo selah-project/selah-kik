@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ndũkaihĩka ũrĩ mũgegi thĩinĩ wa maitho maku; ĩrĩra ⟨את⟩ Yahwe, ũkahererana na ⟨את⟩ ũru.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ũrĩ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mũgegi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "thĩinĩ wa maitho maku"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ũkahererana na"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:52.729720109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Mĩhianano ya ndũrĩrĩ nĩifũa na dhahabu, ithondekwo cioko cia andũ.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Mĩhianano"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya ndũrĩrĩ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ifũa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na dhahabu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ithondekwo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "cioko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cia andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:41.287772346Z",
+  "model": "glm-5.3"
+}

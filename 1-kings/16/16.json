@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na andũ arĩa maharũranĩire makaigua mawanjia makĩuga atĩrĩ: Cimri nĩawatanie mũnung'o, na kuonania o na ũguo nĩakuũ ⟨את⟩ mũthamaki; nĩ ũndũ ũcio Yiceraeri yothe yamũtungĩtie ũthamaki ⟨את⟩ Omri, mũtetenyeri wa mbũtũ, igũrũ rĩa Yiceraeri, ũmũthĩ-inĩ ũcio, maharũ-inĩ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "makaigua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "aría maharũranĩire"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mawanjia"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "nĩawatanie mũnung'o"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Cimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na kuonania o na ũguo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nĩakuũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "yamũtungĩtie ũthamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũtetenyeri"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wa mbũtũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ũmũthĩ-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "maharũ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:51.332639772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ Haarwadi, na ⟨את⟩ Hazemari, na ⟨את⟩ Hahamati; na thutha ũcio mĩciĩ ya Kenaani nĩciananĩrĩku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haarwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Haarwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hazemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Hazemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hahamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hahamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na thutha ũcio"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nĩciananĩrĩku"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:56.149797062Z",
+  "model": "glm-5.3"
+}

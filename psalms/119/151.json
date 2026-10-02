@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩwe ũrĩ hakuhĩ, Yahwe; na amrire gaku othe nĩma ya kwenda ma.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ũrĩ hakuhĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe ũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amrire gaku"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:42.707937920Z",
+  "model": "glm-5.3"
+}

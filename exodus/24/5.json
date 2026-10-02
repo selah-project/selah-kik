@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩamũrĩhithia ⟨את⟩ arũmi a ciana cia Yiceraeri, magĩcoka na ithagiro rĩa kũhiũra, na magĩthagĩra ithagiro cia thayo kwa Yahwe — ng'ombe icembe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nĩamũrĩhithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arũmi a ciana cia Yiceraeri"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "arũmi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "magĩcoka na"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ithagiro rĩa kũhiũra"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "magĩthagĩra"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ithagiro"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "cia thayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ng'ombe icembe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:12.955065579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ Adorayimu, na ⟨את⟩ Lakici, na ⟨את⟩ Aceikah,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Adorayimu"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lakici"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakici"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aceikah"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Aceikah"
+    }
+  ],
+  "timestamp": "2026-10-02T05:45:59.639525538Z",
+  "model": "glm-5.3"
+}

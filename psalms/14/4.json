@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Ndĩ ũguo? arĩa mekaga ũhũthũ othe nĩti manyĩte? Arĩa merĩ andũ akwa nĩmerĩ ta irio; Yahwe matiitagĩra.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ndĩ ũguo?"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nĩti manyĩte?"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "arĩa mekaga"
+    },
+    {
+      "surface": "און",
+      "gloss": "ũhũthũ"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "arĩa merĩ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nĩmerĩ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ta irio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matiitagĩra"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "gũitĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:34.110096708Z",
+  "model": "glm-5.3"
+}

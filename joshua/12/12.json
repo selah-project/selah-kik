@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mwathi wa Egeroni, ũmwe; mwathi wa Gezeri, ũmwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "wa Egeroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "wa Gezeri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:45:11.598498064Z",
+  "model": "glm-5.3"
+}

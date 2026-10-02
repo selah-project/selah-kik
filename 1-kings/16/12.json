@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩũguo Zimri naheanĩire ⟨את⟩ nyumba yothe ya Baaca, ta ũrĩa Yahwe oigĩte, ũrĩa waarĩrĩirire Baaca, moko-inĩ ma Yehu mũrathi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "naheanĩire"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyumba yothe ya Baaca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ya Baaca"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waarĩrĩirire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baaca"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ ma"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:51.815767879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na rĩrĩa mũndũ akarũa ⟨את⟩ mũtumia wake wathũ kana ⟨את⟩ mũtumia wake muka na mũthĩngũ, na mũndũ ũcio arĩ ciĩ thĩiniĩ wa mkononie, ciira ciara nĩciagĩrĩirwo kũhĩhĩtwo ciothe.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "akarũa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtumia wake wathũ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mũtumia wake wathũ"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtumia wake muka"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "mũtumia wake muka"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "na mũthĩngũ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "arĩ ciĩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩiniĩ wa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkononie"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ciira ciara"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "nĩciagĩrĩirwo kũhĩhĩtwo ciothe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:54.168807595Z",
+  "model": "glm-5.3"
+}

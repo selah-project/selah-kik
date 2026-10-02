@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na magĩcooka meugĩra: Nĩ geethĩre ⟨את⟩ kĩrĩkanĩro kĩa Yahwe Erohimu wao, na mahonokire-inamira ngai cĩngĩ, na macokire gĩcũngĩra icio.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "meugĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũndũ-inĩ wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "geethĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wao"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "makĩinamira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "cĩngĩ"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "gĩcũngĩra icio"
+    }
+  ],
+  "timestamp": "2026-10-02T01:14:13.440014300Z",
+  "model": "glm-5.3"
+}

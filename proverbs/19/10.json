@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Kwĩhumbĩra nĩti kĩbao kĩa mũthũimũ; ũrĩa mũndũ-wa-ndungata athamakithagia andũ a njamba nĩkĩbatarĩkia hĩndĩ ĩyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nĩti"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kĩbao"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "kĩa mũthũimũ"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "kwĩhumbĩra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nĩrĩa bata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hĩndĩ ĩyo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kĩa mũndũ-wa-ndungata"
+    },
+    {
+      "surface": "משל",
+      "gloss": "athamakithagia"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "andũ a njamba"
+    }
+  ],
+  "timestamp": "2026-10-02T03:55:38.435859188Z",
+  "model": "glm-5.3"
+}

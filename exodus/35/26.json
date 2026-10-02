@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na atũmia othe arĩa ngoro ciacio ciainamĩrire ⟨את⟩ na ũgo, nĩmaakuunge ⟨את⟩ mĩcũthi ya mbũri.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "atũmia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nĩmũnyamĩrire"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ngoro ciacio"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩",
+      "marks": "Ũgo"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "na ũgo"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "nĩmaakuunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcũthi ya mbũri"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mĩcũthi ya mbũri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:50.099140342Z",
+  "model": "glm-5.3"
+}

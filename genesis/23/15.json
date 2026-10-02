@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mwathi wakwa, ũthĩkĩrire: thĩ ĩrĩ — cekeri icana inya cia mbeca — harĩ nĩngwĩ na harĩ we, nĩ kĩ gĩtĩ? Nĩ ũhaice ⟨את⟩ arĩa makwarĩ we.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Mwathi wakwa"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ũthĩkĩrire"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ ĩrĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "icana"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "cekeri"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbeca"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "harĩ nĩngwĩ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na harĩ we"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩ kĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "gĩtĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa makwarĩ we"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "arĩa makwarĩ we"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "nĩ ũhaice"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:52.529453522Z",
+  "model": "glm-5.3"
+}

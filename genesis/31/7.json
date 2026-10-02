@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na ithe wanyu nĩmũndũnjũrire, na nĩgoothetie ⟨את⟩ mbeca irĩa nginya wakwa mĩrongo ĩkũmi iga; na Erohimu ndaarehirie kũhũra nakwa.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Na ithe wanyu"
+    },
+    {
+      "surface": "התל",
+      "gloss": "nĩmũndũnjũrire"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "na nĩgoothetie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeca irĩa nginya wakwa"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "mbeca irĩa nginya wakwa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ĩkũmi"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "iga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndaa-"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "rehirie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kũhũra"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:29.573963692Z",
+  "model": "glm-5.3"
+}

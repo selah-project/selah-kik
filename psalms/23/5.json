@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ũcokia mĩena ya mesa mbere yakwa, mũhano wa arĩa manyamarĩta nakwa; ũnyoithe maguta mũtwe wakwa; kĩombe chĩa gĩakwa nĩrĩiyũra.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Ũcokia mĩena"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mũhano wa"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "arĩa manyamarĩta nakwa"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ũnyoithe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mũtwe wakwa"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kĩombe chĩa gĩakwa"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "nĩrĩiyũra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:15.319257750Z",
+  "model": "glm-5.3"
+}

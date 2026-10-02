@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mũthenya wa kĩnĩ gĩa kana, Ericuri mũrũ wa Cedeuri, mũnene wa aana a Reubeni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mũthenya wa"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "kĩnĩ gĩa kana"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa aana a"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Ericuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "wa Cedeuri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:53:26.267757049Z",
+  "model": "glm-5.3"
+}

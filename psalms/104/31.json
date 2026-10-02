@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Utonga wa Yahwe ukoramie thĩ yĩthe; Yahwe akĩkena ithũa-inĩ ciake.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ukoramie"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Utonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "thĩ yĩthe"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "akĩkena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "ithũa-inĩ ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:38.738666359Z",
+  "model": "glm-5.3"
+}

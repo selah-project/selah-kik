@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩgũkĩra wanyu Yahwe akĩhĩnĩka mũno, na ndakĩigua; na Yahwe akĩmũũra atĩrĩ: Nĩmakĩria kwa we; ndũongerere kũuga nĩĩwe ũhoro ũyũ nakĩ.",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "akĩhĩnĩka mũno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "harĩ nĩ"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "nĩgũkĩra wanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kĩigua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũra atĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwarĩ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nĩmakĩria"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ongerere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kũuga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nĩĩwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nakĩ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:17:56.482860898Z",
+  "model": "glm-5.3"
+}

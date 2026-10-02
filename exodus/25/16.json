@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ũkahĩhĩrĩra thĩinĩ wa ⟨את⟩ aroni ⟨את⟩ ũthitimũ ũrĩa nĩngũkũhe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ũkahĩhĩrĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthitimũ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ũthitimũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nĩngũkũhe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wawo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:13.374458044Z",
+  "model": "glm-5.3"
+}

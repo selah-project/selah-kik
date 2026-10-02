@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩigĩrĩtwo Dawidi ⟨את⟩ ũrĩa Ricipah mũritwa wa Aya, mũtumia wa Cauri, agĩte.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nĩigĩrĩtwo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa Ricipah agĩte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "agĩte"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ricipah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũritwa wa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "mũtumia wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:41:40.595556863Z",
+  "model": "glm-5.3"
+}

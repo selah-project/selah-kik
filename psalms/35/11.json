@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Barĩ cia hinya ciarĩa ciakĩĩra, maũndũ marĩa ndĩngĩmenya makĩrora thĩinĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "יקומומון",
+      "gloss": "ciakĩĩra"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "barĩ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "cia hinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "marĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "menya"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "makĩrora thĩinĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:07.938672144Z",
+  "model": "glm-5.3"
+}

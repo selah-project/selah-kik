@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na nĩgũkorwo nĩũnyuua kuma mũrathe ũcio; na ⟨את⟩ corovi ndĩcagĩrĩirie gũkũhe irio hĩa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na nĩgũkorwo"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "kuma mũrathe ũcio"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "nĩũnyuua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "corovi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "corovi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndĩcagĩrĩirie"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "gũkũhe irio"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:52.357865264Z",
+  "model": "glm-5.3"
+}

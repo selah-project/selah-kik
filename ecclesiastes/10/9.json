@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Mũkũndũa mawe nĩagwarĩkaga nacio, na mũcangarũra mĩti nĩemenanagwo nacio.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "mũkũndũa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "nĩagwarĩkaga"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nacio"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "mũcangarũra"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mĩti"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "nĩemenanagwo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nacio"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:35.999683391Z",
+  "model": "glm-5.3"
+}

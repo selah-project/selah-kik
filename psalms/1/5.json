@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgũkorwo ũndũ ũcio, arĩa marĩ na ũguna ndi makĩgerera ciira-inĩ, na arĩa mahoya ndi moĩ thĩinĩ wa mũcemanio wa arĩa a cedeki.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "makĩgerera"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa marĩ na ũguna"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ciira-inĩ"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "na arĩa mahoya"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "thĩinĩ wa mũcemanio"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa a cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:47.184734722Z",
+  "model": "glm-5.3"
+}

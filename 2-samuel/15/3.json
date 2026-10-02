@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na Abecaromu amuuga atĩrĩ: Rora, ciugo ciao nĩ ithie na cihotanie, no gũtirĩ wakuhorerwo ũrĩa ũkuuma kwa ⟨את⟩ mũthamaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "amuuga atĩrĩ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abecaromu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Rora"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ciugo ciao"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "nĩ ithie"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "na cihotanie"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "wakuhorerwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-01T23:38:19.598990328Z",
+  "model": "glm-5.3"
+}

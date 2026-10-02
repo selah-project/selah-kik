@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Yaakobu agĩĩrĩka, akĩigua ⟨את⟩ ciana ciake na ⟨את⟩ atumia ake, amoigĩre igũrũ rĩa ngamĩra.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "agĩĩrĩka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atumia ake"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:15.660565479Z",
+  "model": "glm-5.3"
+}

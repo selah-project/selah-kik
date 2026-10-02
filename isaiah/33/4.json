@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na igooti rĩanyu nĩrigũunganĩrwo ta gũkunganĩra kwa ng'ondũ; ta kũthiĩ na kũcooka kwa nciũ nĩmahunjurũkaga handũ haũ.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "na nĩrigũunganĩrwo"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "igooti rĩanyu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "gũkunganĩra"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "kwa ng'ondũ"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "ta kũthiĩ na kũcooka"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "kwa nciũ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "nĩmahunjurũkaga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "handũ haũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:39:56.479669906Z",
+  "model": "glm-5.3"
+}

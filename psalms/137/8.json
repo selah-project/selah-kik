@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "A mũtumia wa Babironi, iwe wĩ ya kũcenjerwo: mwega nĩwe ũgũcookerithia ⟨את⟩ ibere rĩaku rĩa ũrĩa wũcookerithie ithuĩ.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "A mũtumia wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babironi"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "wĩ ya kũcenjerwo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mwega nĩwe"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ũgũcookerithia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rĩaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibere rĩaku"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ibere rĩaku"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "wũcookerithie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:25.935515281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ĩkĩra, nĩgũkorũo ũhoro ũyũ nĩwaku, na ithũ nĩtũrĩ hamwe nawe; ika hinya wĩka.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ĩkĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nĩwaku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro ũyũ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na ithũ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nĩtũrĩ hamwe nawe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ika hinya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T05:09:06.685072422Z",
+  "model": "glm-5.3"
+}

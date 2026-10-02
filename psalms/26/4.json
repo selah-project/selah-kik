@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ndĩicarĩte hamwe na andũ arĩa maheyana, na hamwe na arĩa mahĩtiga ndingĩcooka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ndĩicarĩte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "arĩa maheyana"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na hamwe na"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "arĩa mahĩtiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndingĩ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kũcooka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:50.005705377Z",
+  "model": "glm-5.3"
+}

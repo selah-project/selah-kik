@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Kũ mũenetehi, harĩ nyĩimbo cia ndaya; mizimoro wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũ mũenetehi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "harĩ nyĩimbo cia ndaya"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimoro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:06.677955174Z",
+  "model": "glm-5.3"
+}

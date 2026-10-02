@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩrĩ, Yahwe akiuga: Nĩwe wĩcirĩirie kĩcianjĩ kĩu, kĩrĩa ndũrĩhĩtie ũndũ na kĩo, na ndũkĩgĩtungatĩirie kũkura; mũrũ wa mwenda waarĩ, na mũrũ wa mwenda nĩagetheere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "wĩcirĩirie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kĩcianjĩ kĩu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "rĩhĩtie ũndũ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na kĩo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "tungatĩirie kũkura"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "mwenda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waarĩ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mũrũ wa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "mwenda"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nĩagetheere"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:40.093424693Z",
+  "model": "glm-5.3"
+}

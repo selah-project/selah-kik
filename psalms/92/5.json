@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Nĩ gwĩtekwawĩ kwaku, Yahwe, ũnĩkenio; maũndũ ma mikono yaku nĩngĩinĩra nĩ gĩkeno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "ũnĩkenio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "gwĩtekwawĩ kwaku"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "maũndũ ma"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mikono yaku"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "nĩngĩinĩra nĩ gĩkeno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:49.850527286Z",
+  "model": "glm-5.3"
+}

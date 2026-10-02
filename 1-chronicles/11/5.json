@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Arĩa maikarĩte Yebuci makĩũgĩra Dawidi atĩrĩ: Ndũkonjokĩra hanini; na Dawendi akĩnora ⟨את⟩ gĩcũa kĩa Ciyoni, nĩyo mũciĩ wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩũgĩra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa maikarĩte"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yebuci"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "konjokĩra"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hanini"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akĩnora"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcũa kĩa Ciyoni"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "gĩcũa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "kĩa Ciyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:25:38.985239872Z",
+  "model": "glm-5.3"
+}

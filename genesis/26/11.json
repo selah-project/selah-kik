@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩgo Abimeleki aheanie amũrĩra ⟨את⟩ andũ othe atĩrĩ: Mũndũ ũrĩa ũnyitagĩra handũ mũndũ ũyũ kana mũka wake, arĩwe na ithenya rĩa gũkuwo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "aheanie amũrĩra"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ũnyitagĩra handũ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "kana mũka wake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "arĩwe na ithenya"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "rĩa gũkuwo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:42:19.987904479Z",
+  "model": "glm-5.3"
+}

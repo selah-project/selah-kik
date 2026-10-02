@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na ũmate maguta ũguo ta ũrĩa ũmatĩte maguta ⟨את⟩ ithe wao, na magĩkũhĩra-ndũrĩrĩ-inĩ harĩ nakwa; na kũmate kwao kũigĩkĩra gũtuĩka ihĩtia rĩa kũhĩra-ndũrĩrĩ kwa tene na tene, kuuma kwa mĩrĩongo yao.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "na ũmate maguta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ao",
+      "marks": "aana make"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũguo ta ũrĩa"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ũmatĩte maguta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe wao"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ithe wao"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "na magĩkũhĩra-ndũrĩrĩ-inĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "harĩ nakwa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na kũigĩkĩra"
+    },
+    {
+      "surface": "להית",
+      "gloss": "gũtuĩka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "kũmate kwao"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "rĩa kũhĩra-ndũrĩrĩ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kuuma kwa mĩrĩongo yao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:05.335557500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Magũrũ nĩmaatũire kuuma mbere ya Yahwe, mamĩra ⟨את⟩, na makĩrĩa mbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "nĩmaatũire"
+    },
+    {
+      "surface": "אש",
+      "gloss": "magũrũ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mamĩra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "makĩrĩa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:35:14.987172955Z",
+  "model": "glm-5.3"
+}

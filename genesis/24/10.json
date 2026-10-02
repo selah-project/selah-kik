@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 24:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Mũthingu akĩanyita ngamĩra ikũmi cia ngamĩra cia mwathi wake, akĩthi; na ũthingu wothe wa mwathi wake moko-inĩ make; nao nĩamanyuire, agĩthi Aramu-Naharayimu, gũkĩ gĩcũĩ kĩa Nahori.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩanyita"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "ngamĩra"
+    },
+    {
+      "surface": "מגמלי",
+      "gloss": "cia ngamĩra cia"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mwathi wake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akĩthi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ũthingu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "wa mwathi wake"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko-inĩ make"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "nĩamanyuire"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agĩthi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gũkĩ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu-"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gũkĩ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gĩcũĩ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "kĩa Nahori"
+    }
+  ],
+  "timestamp": "2026-10-01T20:40:49.514051161Z",
+  "model": "glm-5.3"
+}

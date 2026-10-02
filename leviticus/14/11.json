@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na mũranĩri ũrĩa ũtherithagia agĩmĩrĩra ⟨את⟩ mũndũ ũrĩa ũtherithagio, na ⟨את⟩ icio, mbere ya Yahwe, mũrigo-inĩ wa Hema ya Gũkũratana.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "agĩmĩrĩra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũranĩri"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ũrĩa ũtherithagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũrĩa ũtherithagio"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ũrĩa ũtherithagio"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na ⟨את⟩",
+      "marks": "icio (ciheo)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrigo-inĩ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Gũkũratana"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:15.268301888Z",
+  "model": "glm-5.3"
+}

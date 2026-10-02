@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Benaiahu mũrĩ wa Yehoyada aarĩ harĩ igũrũ rĩa mbũtũ; na Cadoki na Ebeyatari maatĩ mĩthii.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Na Benaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrĩ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ igũrũ rĩa"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "na Cadoki"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "na Ebeyatari"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mĩthii"
+    }
+  ],
+  "timestamp": "2026-10-01T23:48:31.879302676Z",
+  "model": "glm-5.3"
+}

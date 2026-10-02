@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Rĩmwe nĩndĩ thĩire ithayo ũtheru-inĩ wakwa — atĩ ndĩngĩrahĩra Dawidi.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "rĩmwe"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nĩndĩthiire ithayo"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "ũtheru-inĩ wakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "ndĩngĩrahĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:48.701884326Z",
+  "model": "glm-5.3"
+}

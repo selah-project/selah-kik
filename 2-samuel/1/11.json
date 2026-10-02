@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Dawidi akĩnyita maciaro make, na kũmararira; nao andũ othe arĩa maarĩ ⟨את⟩ hamwe nake nao makĩhĩhĩra ũguo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "akĩnyita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "maciaro make"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "kũmararira"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nao nao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "maarĩ ⟨את⟩ hamwe nake",
+      "marks": "andũ othe arĩa maarĩ hamwe na Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:21.202739077Z",
+  "model": "glm-5.3"
+}

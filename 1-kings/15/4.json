@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "No nĩ ũndũ wa Dawidi, Yahwe Erohimu wake amũheire thari Yerucarayimu-inĩ, gũtikĩria ⟨את⟩ mũrũ wake thutha wake, na gũtambĩrĩrĩra ⟨את⟩ Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "No nĩ ũndũ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amũheire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amũ-"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "thari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "gũtikĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "na gũtambĩrĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucarayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:00:22.543175100Z",
+  "model": "glm-5.3"
+}

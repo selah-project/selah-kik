@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Yahwe nĩarĩ hakuhĩ na arĩa ma ngoro injerie, na ⟨את⟩ arĩa mĩte ruaki akĩhonokithia.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nĩarĩ hakuhĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "na arĩa ma... injerie"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mĩte ruaki"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "arĩa mĩte"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "akĩhonokithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:43.628775334Z",
+  "model": "glm-5.3"
+}

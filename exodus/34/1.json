@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Yahwe akiuga kwa Moce: Cunamura wĩrĩke maitũ matua ma mahiga ta arĩa ma mbere, na nĩandĩkĩre harĩ maitũ macio ⟨את⟩ ciugo iria ciarĩ harĩ maitũ ma mbere, iria wacunjite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "cunamura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩrĩke"
+    },
+    {
+      "surface": "שני",
+      "gloss": "matua"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "maitũ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "ta arĩa ma mbere"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "na nĩandĩkĩre"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "maitũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "maitũ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "arĩa ma mbere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wacunjite"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:19.899710489Z",
+  "model": "glm-5.3"
+}

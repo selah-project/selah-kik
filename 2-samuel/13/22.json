@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Abucaromu ndaarikĩte na Amnoni ũrĩa wothe, wega kana ũru; nĩgũkorwo Abucaromu amenete ⟨את⟩ Amnoni, nĩ ũndũ Amnoni agĩeihotirie ⟨את⟩ Tamari mwarahia wake.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na...ndi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndaarikĩte"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abucaromu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "amenete"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abucaromu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnoni"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "agĩeihotirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamari"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "mwarahia wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:34:30.645246981Z",
+  "model": "glm-5.3"
+}

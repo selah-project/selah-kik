@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Mũkũrĩire Yahwe na hinya wake, mũkũrĩrĩrĩre thuku-inĩ wake hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "mũkũrĩire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "na hinya wake"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "mũkũrĩrĩrĩre"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "thuku-inĩ wake"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:38.996394823Z",
+  "model": "glm-5.3"
+}

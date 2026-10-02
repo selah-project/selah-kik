@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "No, gũkĩra kũndũ kũrĩa Yahwe Erohimu yanyu agũthuura kuuma mĩhĩrĩga yanyu yothe, ya kũikia ⟨את⟩ rĩĩtwa rayo kuo — gĩikaro kĩayo nĩko mũroorere, na ũgĩkũũga kuo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "No"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gũkĩra"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kũndũ kũu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "agũthuura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yanyu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma yothe"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "mĩhĩrĩga yanyu"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ya kũikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rayo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "gĩikaro kĩayo"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "mũroorere"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ũgĩkũũga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:25:05.946387294Z",
+  "model": "glm-5.3"
+}

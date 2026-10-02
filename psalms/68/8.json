@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Erohimu, rĩrĩa watũũrire mbere ya andũ ake, rĩrĩa watembete thĩinĩ wa gĩthĩnde — Cera.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "rĩrĩa watũũrire"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "rĩrĩa watembete"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "thĩinĩ wa gĩthĩnde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:12.726308236Z",
+  "model": "glm-5.3"
+}

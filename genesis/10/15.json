@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Kanaani nĩkayarĩre ⟨את⟩ Caidoni mũcere wake wa mbere, na ⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Na Kanaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩkayarĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Caidoni"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Caidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mũcere wake wa mbere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:02.260107452Z",
+  "model": "glm-5.3"
+}

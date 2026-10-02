@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Nĩngĩbatĩra kĩrĩkanĩro na mũgaka wakwa; nĩngĩrahĩra Dawidi mũtumia wakwa:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "nĩngĩbatĩra"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "na mũgaka wakwa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nĩngĩrahĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mũtumia wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:38.208404975Z",
+  "model": "glm-5.3"
+}

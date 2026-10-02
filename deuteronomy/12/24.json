@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Ndũkarĩa yacio; thĩ igũrũ nĩũkahũra ta maĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndũka"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "rĩa yacio"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "nĩũkahũra"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ta maĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:24:34.112956126Z",
+  "model": "glm-5.3"
+}

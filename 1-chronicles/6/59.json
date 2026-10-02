@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na kuuma mũciĩ-inĩ wa mũkũrũ wa Asheri, ⟨את⟩ Macari hamwe na minica yacio, na ⟨את⟩ Abudoni hamwe na minica yacio.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuuma mũciĩ-inĩ wa mũkũrũ wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Macari"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Macari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minica yacio"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "minica yacio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abudoni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abudoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minica yacio"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "minica yacio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:44.369990477Z",
+  "model": "glm-5.3"
+}

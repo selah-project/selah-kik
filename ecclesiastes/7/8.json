@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩ kiega mwahere wa kĩndũ kũgeria mambĩrĩria waro; nĩ kiega mũndũ mũcorari wa ruaka kũgeria mũndũ woima ruaka.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kiega"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mwahere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wa kĩndũ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "kũgeria mambĩrĩria waro"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kiega"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mũcorari"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wa ruaka"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "kũgeria woima"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaka"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:30.323500222Z",
+  "model": "glm-5.3"
+}

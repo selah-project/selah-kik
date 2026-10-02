@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ cionjero make, na ⟨את⟩ mawĩra make, macio oire thĩinĩ wa Micirayimu, kwa Farao mũthamaki wa Micirayimu, na kwa bũrũri wake wothe;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "cionjero make"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "cionjero make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mawĩra make"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mawĩra make"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oire"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa wothe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "bũrũri wake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:43.123988557Z",
+  "model": "glm-5.3"
+}

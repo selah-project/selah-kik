@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ mũtĩ wa mĩoyo kũrĩ arĩa mũnyitaga na ⟨את⟩, na arĩa mũũĩikaragia me kũiguwo maciarĩko.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa mĩoyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "kũrĩ arĩa mũnyitaga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũtĩ wa mĩoyo"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "na arĩa mũũĩikaragia"
+    },
+    {
+      "surface": "מאושר",
+      "gloss": "me kũiguwo maciarĩko"
+    }
+  ],
+  "timestamp": "2026-10-02T03:45:28.401879838Z",
+  "model": "glm-5.3"
+}

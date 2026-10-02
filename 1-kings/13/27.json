@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na akĩarĩria aana make atĩrĩ: Nĩmũthondora njakwa ⟨את⟩ ngundia; nao makĩthondora.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩarĩria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "nĩmũthondora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "njakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngundia"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ngundia"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "makĩthondora"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:44.361663714Z",
+  "model": "glm-5.3"
+}

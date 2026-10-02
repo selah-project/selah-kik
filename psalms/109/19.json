@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩĩkorwo ĩmũrĩ ta nguo ĩmũambĩte, na ta mũgathe ũkahĩngĩrirwo nayo hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "nĩĩkorwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ĩmũrĩ"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ta nguo"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ĩmũambĩte"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "na mũgathe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "ũkahĩngĩrirwo nayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:16.586695920Z",
+  "model": "glm-5.3"
+}

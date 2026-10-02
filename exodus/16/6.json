@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Moce na Aharoni makĩuga kũrĩ ciana ciothe cia Yiceraeri: Kwa ũthĩ nĩmũkaĩ atĩ Yahwe nĩwe ũngĩhũthira ⟨את⟩ nyũmwe kuuma thĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kwa ũthĩ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "nĩmũkaĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ũngĩhũthira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyũmwe",
+      "marks": "nyũmwe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:45.504350995Z",
+  "model": "glm-5.3"
+}

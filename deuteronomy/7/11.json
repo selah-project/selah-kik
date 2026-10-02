@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩ ũndũ ũcio rĩrĩa, ũrĩithĩrie ⟨את⟩ watho na ⟨את⟩ mĩtĩrĩre na ⟨את⟩ ciira icio ndĩngĩhota ũgĩtũ mũthenya ũyũ, kũngĩcĩĩra.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ũrĩithĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watho"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "watho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtĩrĩre"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mĩtĩrĩre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciira"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icio"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngĩhota ũgĩtũ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kũngĩcĩĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:21:02.323934271Z",
+  "model": "glm-5.3"
+}

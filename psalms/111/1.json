@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Ciragĩre Yah! Nĩngooca Yahwe na moyo wakwa wothe, thĩinĩ wa kĩama kĩa arĩa athĩngarũ na harĩ mĩtingoe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ciragĩre"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "nĩngooca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... wothe"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "thĩinĩ wa kĩama kĩa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "arĩa athĩngarũ"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "na mĩtingoe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:43.860906491Z",
+  "model": "glm-5.3"
+}

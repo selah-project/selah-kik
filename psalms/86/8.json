@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Harĩ Erohimu nĩgũtirĩ ũrĩa ũngĩhaana nawe, Adonai, na gũtirĩ mĩhang'o ĩhaana ta ithyaaku.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nĩgũtirĩ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ũngĩhaana nawe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "harĩ Erohimu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "mĩhang'o ĩhaana ta ithyaaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:53.580891943Z",
+  "model": "glm-5.3"
+}

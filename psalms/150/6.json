@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 150,
+  "translation": "Wonje wake wona mũhũmũ agooce Yah; gocani Yah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wonje wake"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "wona mũhũmũ"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "agooce"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "gocani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:22.132070470Z",
+  "model": "glm-5.3"
+}

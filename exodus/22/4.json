@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Rĩrĩa mũndũ agĩrĩhĩa gĩthaka kana mũrimũ wa mabũrũ, na agatũma ⟨את⟩ nyamũ ciaake, na ikĩrĩa gĩthakainĩ kĩa mũndũ ũngĩ — kuuma ciero cia gĩthaka wake na ciero cia mũrimũ wake nĩagĩcokerera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "agĩrĩhĩa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "gĩthaka"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "mũrimũ wa mabũrũ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "agatũma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyamũ ciaake"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "nyamũ ciaake"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "na ikĩrĩa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "gĩthakainĩ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kĩa mũndũ ũngĩ"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ciero cia"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "gĩthaka wake"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "na ciero cia"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "mũrimũ wake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nĩagĩcokerera"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:23.643807196Z",
+  "model": "glm-5.3"
+}

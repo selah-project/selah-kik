@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩongire kahũ ka Yahwe kurahũkĩrĩra Yiceraeri, na akĩheanĩrĩra ⟨את⟩ Dawidi na makĩre, akiuga: Ũthiĩ, ũbararie ⟨את⟩ Yiceraeri na ⟨את⟩ Yuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nĩongire"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kahũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "kurahũkĩrĩra"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yiceraeri-inĩ"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "akĩheanĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na makĩre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ũthiĩ"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ũbararie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-01T23:46:00.253789363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Kĩheo kĩa mbere nĩmũtũũrĩte ⟨את⟩ kĩrĩa kĩu kwa Yahwe; no kũgera irĩgithiũ-inĩ ndĩco igĩrĩkaga igũrũ, kũgera mũhũmũ ũrĩa ũteithagĩrĩra roho.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "kĩa mbere"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "nĩmũtũũrĩte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩa kĩu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no kũgera"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "irĩgithiũ-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩco"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "igĩrĩkaga igũrũ"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kũgera mũhũmũ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ũrĩa ũteithagĩrĩra roho"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:41.652173227Z",
+  "model": "glm-5.3"
+}

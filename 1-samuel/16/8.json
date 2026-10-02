@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Yici akĩhĩta kwa Avinadabu, akĩmũthĩra mbere ya Cemueri; akĩuga: O ũyũ nĩngĩ, Yahwe ndamũthuurĩte.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩhĩta"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yici"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadabu"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "akĩmũthĩra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "thuurĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:17:04.005300701Z",
+  "model": "glm-5.3"
+}

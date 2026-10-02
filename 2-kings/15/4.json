@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "No bamacĩ itiatatĩkĩte; arĩa andũ nĩmakĩgĩa kũthĩnjĩra na kũtungatura maguta thĩinĩ wa bamacĩ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamacĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "atiatĩkĩte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nĩmakĩgĩa kũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "arĩa andũ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "thĩnjĩra"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na kũtungatura maguta"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "thĩinĩ wa bamacĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:15:52.423651015Z",
+  "model": "glm-5.3"
+}

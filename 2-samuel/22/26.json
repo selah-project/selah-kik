@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mũndũ wa hecedi, ũkorũo na hecedi; na mũthĩĩ mũtheru, ũkorũo mũtheru.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mũndũ wa hecedi"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ũkorũo na hecedi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mũthĩĩ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ũkorũo mũtheru"
+    }
+  ],
+  "timestamp": "2026-10-01T23:44:49.985702197Z",
+  "model": "glm-5.3"
+}

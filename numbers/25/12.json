@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩ ũndũ ũcio ũũge: Ona nĩrĩ, nĩndamũhe ⟨את⟩ kĩrĩkanĩro chakwa cha thaamu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ũũge"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ona nĩrĩ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩndamũhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro chakwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro chakwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "cha thaamu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:06:32.847244910Z",
+  "model": "glm-5.3"
+}

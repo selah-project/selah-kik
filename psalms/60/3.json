@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Ee Erohimu, nĩtukure ũtĩtĩtie, nĩtuhinyiitie, ũtũnyitĩte na gĩthũkĩ; cooka ũtũheere.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "nĩtukure ũtĩtĩtie"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "nĩtuhinyiitie"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ũtũnyitĩte na gĩthũkĩ"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "cooka ũtũheere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ũtũheere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:45.818068977Z",
+  "model": "glm-5.3"
+}

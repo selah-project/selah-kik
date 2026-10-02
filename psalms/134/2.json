@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 134,
+  "translation": "Ĩhũrura moko ianyu ũgĩthĩinĩ wa ũtheru, na ithũrie ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ĩhũrura"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "moko ianyu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "na ithũrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:31.843796480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na nĩgũkuona, mũthenya ũcio, nĩngũcikitia ⟨את⟩ uta wa Yiceraeri thĩinĩ wa mũhoundo wa Yizereeri.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nĩgũkuona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "nĩngũcikitia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uta wa Yiceraeri"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "thĩinĩ wa mũhoundo"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizereeri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:18:07.126373671Z",
+  "model": "glm-5.3"
+}

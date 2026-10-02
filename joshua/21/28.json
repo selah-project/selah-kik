@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na kuuma mũhathe wa Yicakari, ⟨את⟩ Kiciyoni na ⟨את⟩ mĩgurasi yake, ⟨את⟩ Dabirathi na ⟨את⟩ mĩgurasi yake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na kuuma mũhathe wa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yicakari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiciyoni"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kiciyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgurasi yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgurasi yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabirathi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabirathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgurasi yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgurasi yake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:51:05.480158679Z",
+  "model": "glm-5.3"
+}

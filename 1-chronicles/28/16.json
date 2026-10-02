@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na ⟨את⟩ ndahabu mũcerere wa metha cia kũgũcanja, metha na metha; na rĩndĩ metha cia rĩndĩ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndahabu"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "mũcerere"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "metha cia"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "kũgũcanja"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "metha"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "na metha"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na rĩndĩ"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "metha cia"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "rĩndĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:11:44.751168589Z",
+  "model": "glm-5.3"
+}

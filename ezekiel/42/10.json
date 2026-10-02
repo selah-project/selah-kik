@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Mwena ũrĩa mũgĩrĩwa wa kĩguni ũratambĩra, tarĩ mĩena ya riũa kũamũra, gere kũgerera kĩcunjĩ kĩa kũhererithania na gere kũgerera nyũmba — nĩkwarĩ ĩcumba.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "mwena ũrĩa ũratambĩra"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "mũgĩrĩwa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wa kĩguni"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tarĩ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "mĩena ya riũa kũamũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kũgerera"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "kĩcunjĩ kĩa kũhererithania"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na gere"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kũgerera"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "nĩkwarĩ ĩcumba"
+    }
+  ],
+  "timestamp": "2026-10-02T02:09:43.565304475Z",
+  "model": "glm-5.3"
+}

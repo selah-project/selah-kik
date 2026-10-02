@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Na aana a Cimeoni: Yimueri, na Yamini, na Ohadi, na Yakini, na Cohari, na Cauri mũrũ wa mũka wa Kenaani.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na aana a"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeoni"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yimueri"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "na Yamini"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "na Ohadi"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "na Yakini"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "na Cohari"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "na Cauri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "mũka wa Kenaani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:45.944564159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Mwĩrĩ wakwa na ngoro yakwa nĩmakũranĩte; no ihũa rĩa ngoro yakwa na kĩgĩro gĩakwa nĩ Erohimu, io na io.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "nĩmakũranĩte"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "mwĩrĩ wakwa"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "na ngoro yakwa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ihũa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "rĩa ngoro yakwa"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "na kĩgĩro gĩakwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "io na io"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:28.855035129Z",
+  "model": "glm-5.3"
+}

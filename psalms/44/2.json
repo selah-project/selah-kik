@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Erohimu, nĩ twahĩĩtwo tiga na matwitũ; atheitũ witũ nĩmatũũrire ũndũ wakuucĩte mĩthenya yao, mĩthenya ya thaa ya kwa mbere.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "tiga na matwitũ witũ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nĩtwahĩĩtwo"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "aitheitũ witũ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nĩmatũũrire"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithũĩna"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ũrĩakuucĩte"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "mĩthenya yao"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mĩthenya ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "thaa ya kwa mbere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:39.988415631Z",
+  "model": "glm-5.3"
+}

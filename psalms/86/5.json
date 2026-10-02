@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Nĩgũkorwo we, Adonai, nĩwe mwega na ũnyorerererĩa, na we mũnene wa hecedi kũrĩ arĩa othe makũhoyagĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "na ũnyorerererĩa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na mũnene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ arĩa othe"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "makũhoyagĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:53.576594538Z",
+  "model": "glm-5.3"
+}

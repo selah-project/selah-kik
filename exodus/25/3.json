@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ũyũ nĩguo kĩheo gĩa mũbate kuuma ⟨את⟩ haro: ndahabu, na feza, na cuma.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "na ũyũ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gĩa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mũbate"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kuuma ⟨את⟩ haro",
+      "marks": "haro"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na feza"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "na cuma"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:17.887736938Z",
+  "model": "glm-5.3"
+}

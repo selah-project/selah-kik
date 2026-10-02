@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 17:23",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Ithĩna rĩrĩa Yahwe aniongereire ⟨את⟩ Yiceraeri kuuma mbere yake, ta ũrĩa oigire moko-inĩ marũa ake othe, a-mĩrathi; na Yiceraeri nĩiguũrirwo kuuma ithaka ciake, kĩrĩra Acuru, ithĩna ũmũthenya ũyũ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ithĩna rĩrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "aniongereire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "marũa ake"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a-mĩrathi"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "nĩiguũrirwo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ithaka ciake"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "kĩrĩra Acuru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ithĩna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthenya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:18:08.999882182Z",
+  "model": "glm-5.3"
+}

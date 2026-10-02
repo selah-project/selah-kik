@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 15:26",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na hĩndĩ ĩrĩa Erohimu athĩtie wanini ũteithio ⟨את⟩ Alevi, arĩa marehithagia cingo ya kĩrĩkanĩro kĩa Yahwe, nĩmathinjire ng'ombe rwacũ na ng'ombe rwacũ iria ikerũ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na hĩndĩ ĩrĩa"
+    },
+    {
+      "surface": "בעזר",
+      "gloss": "thĩtie wanini ũteithio"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "arĩa marehithagia"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "cingo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya kĩrĩkanĩro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "nĩmathinjire"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "rwacũ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "na rwacũ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ng'ombe iria ikerũ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:29:19.911537377Z",
+  "model": "glm-5.3"
+}

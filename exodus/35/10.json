@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na arĩa menete ngoro mũno wa mũoyo? Na arĩa mari amami a ngoro hakuhĩ na inyuĩ, moimire, na magĩte ⟨את⟩ maũndũ mothe arĩa Yahwe wahothĩtie.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na arĩa othe"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "amami"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mũno wa mũoyo? hakuhĩ na inyuĩ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "moimire"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "na magĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maũndũ mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wahothĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:34.635288798Z",
+  "model": "glm-5.3"
+}

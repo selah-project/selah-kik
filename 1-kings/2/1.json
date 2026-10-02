@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mĩthenya ya Dawidi ĩkaarĩo ĩgĩthiĩ kũrĩ gũkũa, akaruta watho ⟨את⟩ Colomoho mũrũ wake, na akĩuga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ĩkaarĩo ĩgĩthiĩ hakuhĩ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "gũkũa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "akaruta watho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Colomoho mũrũ wake"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Colomoho"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na akĩuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:49:02.225908437Z",
+  "model": "glm-5.3"
+}

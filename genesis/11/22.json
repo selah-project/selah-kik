@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Cerugi aatũũra mĩaka mĩrongo ĩthano, na akaciarithia ⟨את⟩ Nahori.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "aatũũra"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Cerugi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mĩrongo ĩthano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akaciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:57.786709690Z",
+  "model": "glm-5.3"
+}

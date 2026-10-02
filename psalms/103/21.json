@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Thayai Yahwe, ⟨the⟩ mbũtũ ciake ciothe, atumia ake, arĩa mehikĩra kĩĩgĩrĩra kĩake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "thayai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "mbũtũ ciake"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "arĩa mehikĩra"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kĩĩgĩrĩra kĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:57.943076092Z",
+  "model": "glm-5.3"
+}

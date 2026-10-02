@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ũhũririe muoyo wakwa kuuma thĩarũ; kuuma moko ma ngui, wakwa ũmwe.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Ũhũririe"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kuuma thĩarũ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "muoyo wakwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ma ngui"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "wakwa ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:16.518792029Z",
+  "model": "glm-5.3"
+}

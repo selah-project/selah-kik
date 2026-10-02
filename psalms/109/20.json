@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Ĩno nĩyo kĩbarari kĩa acucĩ akwa kuuma thĩinĩ wa ⟨את⟩ Yahwe, na arĩa maugaga maũndũ marũ harĩ mũoyo wakwa.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ĩno"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "kĩbarari"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "acucĩ akwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "na arĩa maugaga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "maũndũ marũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:16.589029568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 53,
+  "translation": "Kũu nĩmagoyire goya — goya gũtarĩko — nĩgũkorwo Erohimu nĩacunjirie mahiũũrũ ma arĩa mamũrũmagĩrĩra; nĩwathingithirie ⟨arĩa⟩, nĩgũkorwo Erohimu nĩwareire ⟨arĩa⟩.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "nĩmagoyire"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "goya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kũkorwo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "goya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "nĩacunjirie"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mahiũũrũ"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "arĩa mamũrũmagĩrĩra"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "nĩwathingithirie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "nĩwareire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:38.966319155Z",
+  "model": "glm-5.3"
+}

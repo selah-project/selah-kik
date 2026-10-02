@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "O thĩnjĩte ndũrĩrĩ nyingĩ, nĩakuire athamaki aingĩ hinya.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "o thĩnjĩte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyingĩ"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "nĩakuire"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "aingĩ hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.411407649Z",
+  "model": "glm-5.3"
+}

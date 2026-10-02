@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Wenda ũcereere nĩkũcereera kwiyo wĩkoyo; no ũmenete, we mwene ũgũiceta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Wenda"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ũcereere"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nĩkũcereera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwiyo wĩkoyo"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "no ũmenete"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "we mwene"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ũgũiceta"
+    }
+  ],
+  "timestamp": "2026-10-02T03:49:01.325037496Z",
+  "model": "glm-5.3"
+}

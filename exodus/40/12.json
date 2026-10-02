@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Nĩũũmĩte ⟨את⟩ Aharoni na ⟨את⟩ aana make kũngĩrĩa mũrongoro wa kĩamba kĩa kũhĩranĩra; ũmakaruge ⟨את⟩ nao na maaĩ.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "nĩũũmĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana make"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũngĩrĩa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrongoro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kĩa kũhĩranĩra"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ũmakaruge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nao"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:32.957723092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Mũthingo nĩkuona na gũkena ihia; meno make nĩagĩcang'ania, na nĩagũcimbarika; gwendi kwa athingo kũgũithia kũhoro.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "mũthingo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nĩkuona"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "na gũkena ihia"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "meno make"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "nĩagĩcang'ania"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "na nĩagũcimbarika"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "gwendi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "athingo"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "kũgũithia kũhoro"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:35.666858365Z",
+  "model": "glm-5.3"
+}

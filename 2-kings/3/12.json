@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Yehocafati akiuga: Kiugo kĩa Yahwe kĩrĩ kũrĩ we. Nĩ ũndũ ũcio mwathi wa Yiceraeri, na Yehocafati, na mwathi wa Edomu, magĩthiĩ kũrĩ we.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kĩrĩ kũrĩ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "na Yehocafati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "wa Edomu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:47.612986077Z",
+  "model": "glm-5.3"
+}

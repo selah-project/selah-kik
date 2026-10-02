@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 14:2",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na nĩngĩcokerera ⟨את⟩ ndũrĩrĩ ciothe elĩ Yerucarayimu mahũa-inĩ; mwĩrĩ nĩgũcwatwo, njuĩra nĩcikohwo, athaki nĩmakorũo maharĩirio na mahinya; ithaa ya mwĩrĩ nĩyakĩrĩra gũthiĩ ibere, na andũ arĩa methĩtirĩ matiigĩkũrũithio kuuma mwĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ואספתי",
+      "gloss": "nĩngĩcokerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũrĩrĩ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elĩ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mahũa-inĩ"
+    },
+    {
+      "surface": "ונלכדה",
+      "gloss": "nĩgũcwatwo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "ונשסו",
+      "gloss": "nĩcikohwo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "njuĩra"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "na athaki"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "maharĩirio na mahinya"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nĩyakĩrĩra gũthiĩ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ithaa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "ibere"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "arĩa methĩtirĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "gũkũrũithio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mwĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:07.056391566Z",
+  "model": "glm-5.3"
+}

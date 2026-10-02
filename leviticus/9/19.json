@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ matuta kuuma ng'ombe na kuuma ng'ondũ njarũ — mũkoroto wa gũthia, na ũrĩa ũhumbĩrĩte mara, na nyongo igĩrĩ, na kĩhũmbo kĩa anjũ —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matuta"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "matuta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ng'ondũ njarũ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "mũkoroto wa gũthia"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "na ũrĩa ũhumbĩrĩte mara"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "na nyongo igĩrĩ"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "na kĩhũmbo kĩa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "anjũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:14.049180938Z",
+  "model": "glm-5.3"
+}

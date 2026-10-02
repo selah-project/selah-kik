@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na rĩrĩ, ihirie mĩgambo yao; no tu, ũthiithie ũmenye, na ũmenyeere ao ciira wa mũthamaki ũrĩa gũtũamĩrĩra kuothana nao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩrĩ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ihirie"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "mĩgambo yao"
+    },
+    {
+      "surface": "אך",
+      "gloss": "no"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tu"
+    },
+    {
+      "surface": "העד",
+      "gloss": "ũthiithie ũmenye"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "ũmenyeere"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "na ũruithĩrie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "gũtũamĩrĩra"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kuothana nao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:23.451033334Z",
+  "model": "glm-5.3"
+}

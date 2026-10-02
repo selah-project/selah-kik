@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Mũthenya nĩwaku, na ũthingu nĩwaku ũmwe; nĩwe ũtheretie ⟨את⟩ ũthiũri na ⟨את⟩ ciũa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "nĩwaku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩwaku"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ũthingu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ũtheretie"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ũthiũri"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "na ciũa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:45.243170350Z",
+  "model": "glm-5.3"
+}

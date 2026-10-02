@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na arĩa a Korachi nĩmo Aciri, Erekanahi, na Abiacafi; ici nĩcie mĩciĩ ya akorachi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "arĩa a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Aciri"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "Erekanahi"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "Abiacafi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "akorachi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:11:10.645729895Z",
+  "model": "glm-5.3"
+}

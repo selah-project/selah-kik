@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ndĩmũthunya nao mũciare wa cuma; ta thiguru ya mũũngũri nĩmũhenanithia.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "mũthunya"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "mũciare"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "wa cuma"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "ta thiguru"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ya mũũngũri"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "mũhenanithia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:25.917160916Z",
+  "model": "glm-5.3"
+}

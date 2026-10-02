@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Farao akĩona atĩ kwarĩ kũhorereruo, akahoromokia ⟨את⟩ ngoro yake, ndaigũkũhĩrĩra cio, ta ũrĩa Yahwe aarĩkĩtie.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwarĩ"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "kũhorereruo"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "akahoromokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nd"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "aigũkũhĩrĩra"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "cio"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aarĩkĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:38.336924367Z",
+  "model": "glm-5.3"
+}

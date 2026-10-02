@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩamũrire atĩrĩ: Ndiithũire kũcooka ⟨את⟩ na wee kana kũingĩra ⟨את⟩ na wee; ndingĩhota kũrĩa irio kana kũnyua maĩ na wee harĩ kũndũ ũku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndiithũire"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ndingĩhota"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kũcooka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩na wee"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "kana kũingĩra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩na wee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "kũnyua"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩na wee"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "harĩ kũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũku"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:41.994502919Z",
+  "model": "glm-5.3"
+}

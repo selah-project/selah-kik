@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את]] Hadiorami, na ⟨את⟩ Uzari, na ⟨את]] Dirikahi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hadiorami"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadiorami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Uzari"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dirikahi"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dirikahi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:40.067676152Z",
+  "model": "glm-5.3"
+}

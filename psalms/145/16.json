@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Ũkarũngũra ⟨את⟩ guoko gwakwa, na ũkĩmĩhoiguura riiko rĩa kĩndũ o gĩothe kĩrĩa kĩrĩ mwoyo.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Ũkarũngũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guoko gwakwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "guoko gwakwa"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "na ũkĩmĩhoiguura"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kĩndũ o gĩothe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kĩrĩa kĩrĩ mwoyo"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "riiko"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:28.569926021Z",
+  "model": "glm-5.3"
+}

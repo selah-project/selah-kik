@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mũoyo wakwa nĩwĩ moko-inĩ makwa hĩndĩ ciothe, na Tora yaku nĩndĩrĩganĩte kũiyũra.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "moko-inĩ makwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Tora yaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nĩndĩrĩganĩte kũiyũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:13.439990167Z",
+  "model": "glm-5.3"
+}

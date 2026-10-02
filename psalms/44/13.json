@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Ũgũthĩĩra andũ awkwa ata utonga, na ndũongererwo na mbeca cio.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "ũgũthĩĩra"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ awkwa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ata"
+    },
+    {
+      "surface": "הון",
+      "gloss": "utonga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ũongererwo"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "na mbeca cio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:05.561514326Z",
+  "model": "glm-5.3"
+}

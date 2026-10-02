@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Kwa mũcũnjia, ndembo ya Dawidi. Mũthũru akiuga thiini wa ngoro yake: Erohimu ti arĩko; maharĩtie, mekeerie maũndũ ma kũheanie; gũtirĩ mũndũ ũrĩa ũkaga wega.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũcũnjia"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ndembo ya Dawidi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mũthũru"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "thiini wa ngoro yake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti arĩko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "maharĩtie"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "mekeerie"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mũndũ ũrĩa ũkaga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:34.102983185Z",
+  "model": "glm-5.3"
+}

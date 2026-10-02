@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mwathi akĩhahe ⟨את⟩ thiri na ⟨את⟩ ndahabu thĩinĩ wa Yerucarayimu ta mahiga, na ⟨את⟩ mĩtĩ ya cedari nĩake ta cicumi -rĩa irĩ cefeera, ngũrũ mũno.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akĩhahe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thiri"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "thiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ndahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndahabu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "ta mahiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtĩ ya cedari"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "mĩtĩ ya cedari"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩake"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "ta cicumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-rĩa"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "cefeera"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngũrũ mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T05:39:15.919894936Z",
+  "model": "glm-5.3"
+}

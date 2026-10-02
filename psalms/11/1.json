@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Kũingĩra kwa mũthaki; ngwĩra ya Dawidi. Thĩinĩ wa Yahwe nĩniikarahĩtie; mũrutegwĩ atĩa mwarĩ mwĩuge ngoro-inĩ yakwa: Thiĩ, rĩrĩa njohi, kĩrĩma-inĩ kĩanyu?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũingĩra kwa mũthaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ngwĩra ya Dawidi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "thĩinĩ wa Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nĩniikarahĩtie"
+    },
+    {
+      "surface": "איך",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mwarĩ mwĩuge"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ngoro-inĩ yakwa"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "thiĩ"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "kĩrĩma-inĩ kĩanyu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "rĩrĩa njohi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:50.734339086Z",
+  "model": "glm-5.3"
+}

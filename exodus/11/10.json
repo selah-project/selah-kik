@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Moce na Aharoni meerĩkĩtie ⟨את⟩ mĩrarĩ yothe ĩyo mbere ya Farao; na Yahwe amamĩrĩirie ⟨את⟩ ngoro ya Farao, na ndaatĩrĩkire ⟨את⟩ aana a Yiceraeri kuuma thĩ yake.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "meerĩkĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩrarĩ yothe ĩyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "mĩrarĩ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "amamĩrĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro ya Farao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "-atĩrĩkire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kuuma thĩ yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:03:55.214902425Z",
+  "model": "glm-5.3"
+}

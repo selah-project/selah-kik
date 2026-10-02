@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Nĩgũkorua aciehirie mirigate ya macĩgi maku, akĩrathimire ciana ciaku mĩeno-inĩ mwaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorua"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "aciehirie"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "mirigate"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ya macĩgi maku"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akĩrathimire"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ciana ciaku"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mĩeno-inĩ mwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:43.176655114Z",
+  "model": "glm-5.3"
+}

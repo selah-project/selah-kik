@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Yahwe Cebaoti, Erohimu wa Yiceraeri, woigĩte ũguo: Ĩtheri mĩtugo yanyu na mikũranĩre yanyu, nĩngũtũmĩ ⟨את⟩ nyinyi mũikare kĩhandũ gĩkũ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "woigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "Ĩtheri"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mĩtugo yanyu"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "na mikũranĩre yanyu"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "nĩngũtũmĩ mũikare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kĩhandũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkũ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:04:22.768819107Z",
+  "model": "glm-5.3"
+}

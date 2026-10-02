@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Ndũrĩrĩ ciothe nĩciathiire, mũndũ o mũrĩkũ nyũmba yake; nao Dawidi agarũkire guciokia iratho cia ⟨את⟩ nyũmba yake.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "nĩciathiire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mũrĩkũ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "agarũkire"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "guciokia iratho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    }
+  ],
+  "timestamp": "2026-10-02T07:10:50.467451630Z",
+  "model": "glm-5.3"
+}

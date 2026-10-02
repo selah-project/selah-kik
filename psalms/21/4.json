@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩgũkorwo ndũmũkorerete na cihũthĩre cia mbere-cia mbona, na ũĩkĩte ciũrũrũ cia thahabũ theru thĩinĩ wa gĩtũ kĩake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "ndũmũkorerete"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "na cihũthĩre"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "cia mbere-cia mbona"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "ũĩkĩte"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "thĩinĩ wa gĩtũ kĩake"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ciũrũrũ"
+    },
+    {
+      "surface": "פז",
+      "gloss": "cia thahabũ theru"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:57.471547597Z",
+  "model": "glm-5.3"
+}

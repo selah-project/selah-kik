@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na makeni micikani ĩrĩ ya zahabu, na thĩini cia ĩrĩ cia zahabu; na mehia ⟨את⟩ ithĩrĩ cia kĩng'ethia thĩinĩ wa ithĩrĩ cia mahiga ma hosheni.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Na makeni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "micikani ĩrĩ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya zahabu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na ĩrĩ"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "thĩini cia"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "na mehia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩini cia kĩng'ethia"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ithĩrĩ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "cia kĩng'ethia"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ithĩrĩ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mahiga ma"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosheni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:10.385660841Z",
+  "model": "glm-5.3"
+}

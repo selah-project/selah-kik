@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Arũrũ nĩ ũrĩa towakũmeera ⟨את⟩ ciugo cia Tora ĩno kũciithikia; na andũ othe mage Ameni.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Arũrũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "towa"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "kũmeera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia Tora ĩno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kũciithikia"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo icio"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nage"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    }
+  ],
+  "timestamp": "2026-10-01T22:33:23.194439234Z",
+  "model": "glm-5.3"
+}

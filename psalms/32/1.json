@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩ ya Dawidi, kĩegeranio. Ũhoro mũkũĩku nĩ wa mũndũ ũrĩa wĩohi wake wĩtigĩtwo, ũrĩa mahĩtia make moambĩtwo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kĩegeranio"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ũhoro mũkũĩku"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "wĩtigĩtwo"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "wĩohi"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "moambĩtwo"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "mahĩtia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:11.592135583Z",
+  "model": "glm-5.3"
+}

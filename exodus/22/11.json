@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na angĩkorwo nĩ ĩibũo kuuma kũrĩ-ini wake, acokia kwa mwene nyamũ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na angĩkorwo"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ĩibu"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ĩibũo"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kuuma kũrĩ-ini wake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "acokia"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kwa mwene nyamũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:17.646586301Z",
+  "model": "glm-5.3"
+}

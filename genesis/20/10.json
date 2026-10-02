@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Abrĩmeleki ndagĩrĩria akiũra Abarahamu atĩrĩ: Nĩkĩ waona, waenereria kana ũndũ ũyũ ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiũra"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abrĩmeleki"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "waona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waenereria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũndũ ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:17.910809263Z",
+  "model": "glm-5.3"
+}

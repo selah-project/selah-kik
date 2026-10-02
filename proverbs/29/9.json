@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Mũndũ mũthagũ arua ciira na ⟨את⟩ mũndũ wa menga; na gũthĩka kana gũhĩka, ti kũgĩa kũhũrũka.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mũthagũ"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "arua ciira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ wa menga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wa menga"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "gũthĩka"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "gũhĩka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ti kũgĩa"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kũhũrũka"
+    }
+  ],
+  "timestamp": "2026-10-02T04:02:07.656998496Z",
+  "model": "glm-5.3"
+}

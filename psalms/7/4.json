@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Yahwe Erohimu wakwa, nginya nĩngĩteithĩtie ũndũ ũcio; nginya harĩ mboco makwa harĩ ũhoro mũoru;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nĩngĩteithĩtie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "יש",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ũhoro mũoru"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "mboco makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:36.423650694Z",
+  "model": "glm-5.3"
+}

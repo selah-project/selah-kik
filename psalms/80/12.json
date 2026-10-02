@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Nĩyatumĩire mahuti mayo ngurũno ya ĩria, na mĩrĩrĩa yayo na rũĩ.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "nĩyatumĩire"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "mahuti mayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngurũno ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ĩria"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na na"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rũĩ"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "mĩrĩrĩa yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:31.366274080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Nawe wamenete kũrigicithia, na ũcioire ciugo cĩakwa thutha wĩyakwa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "wamenete"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kũrigicithia"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ũcioire"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cĩakwa"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "thutha wĩyakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:50.610671146Z",
+  "model": "glm-5.3"
+}

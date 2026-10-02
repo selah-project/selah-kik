@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na akĩhũrĩra nĩciatuũra nyũmba, thutha wake kuona ndarĩ marĩ mageherũku kuuma irĩma rĩa thĩ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na akĩhũrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciatuũra"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩-wĩra wake"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona ndarĩ"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "mageherũku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mari"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ĩrĩma rĩa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:02.605055047Z",
+  "model": "glm-5.3"
+}

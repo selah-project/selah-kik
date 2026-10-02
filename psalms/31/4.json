@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "NĩgũkorwoŨwe nĩwe cera yakwa na gĩtikũrĩ kakwa; na nĩ ũndũ wa rĩĩtwa rĩaku nĩndũnjĩrĩirie na ũndũrĩrĩirie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "cera yakwa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "gĩtikũrĩ kakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ũwe nĩwe"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na nĩ ũndũ wa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nĩndũnjĩrĩirie"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ũndũrĩrĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:51.988529362Z",
+  "model": "glm-5.3"
+}

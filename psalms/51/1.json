@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Kũrĩ mũcũngĩri, kĩimbro kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcũngĩri"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:12.312147608Z",
+  "model": "glm-5.3"
+}

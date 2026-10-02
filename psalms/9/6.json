@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Ũkũrire matũũra, ũhootithie mũndũ woigu; rĩĩtwa rwao warĩimithire hou na hĩndĩ ya tene na tene.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Ũkũrire"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "matũũra"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "ũhootithie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũndũ woigu"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "rĩĩtwa rwao"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "warĩimithire"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hou"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na hĩndĩ ya tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:56.385933503Z",
+  "model": "glm-5.3"
+}

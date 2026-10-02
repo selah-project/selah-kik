@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Othe maatũire, hamwe nahuo maharĩtie; gũtirĩ mũndũ ũrĩa ũkaga wega, gũtirĩ o na ũmwe.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Othe"
+    },
+    {
+      "surface": "סר",
+      "gloss": "maatũire"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "maharĩtie"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mũndũ ũrĩa ũkaga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:34.108177324Z",
+  "model": "glm-5.3"
+}

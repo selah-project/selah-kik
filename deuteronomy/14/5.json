@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Aiyari na cibi na yahamuri, na aqu na dicioni, na teo na zamari.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "aiyari"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "na cibi"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "na yahamuri"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "na aqu"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "na dicioni"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "na teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "na zamari"
+    }
+  ],
+  "timestamp": "2026-10-01T22:25:58.825332645Z",
+  "model": "glm-5.3"
+}

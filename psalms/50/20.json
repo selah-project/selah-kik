@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Ũkĩikara ũroreta mũrũ wa ithe waku, na mũrũ wa nyina waku nĩũcaaria.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ũkĩikara"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "mũrũ wa ithe waku"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ũroreta"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nyina waku"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nĩũcaaria"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ciira mwaganu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:50.616437218Z",
+  "model": "glm-5.3"
+}

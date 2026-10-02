@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Yahwe oigĩte kwa Moce, na kuuga atĩrĩ,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Na ... oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kuuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:51.507208812Z",
+  "model": "glm-5.3"
+}

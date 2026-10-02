@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nawũ akĩmũũria atĩrĩ: Nĩũũ? Nawĩcie atĩa: Nĩngĩ, mũndũ wa Aramaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nawũ akiuga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nawĩcie akiuga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "mũndũ wa Aramaka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:28:51.819865111Z",
+  "model": "glm-5.3"
+}

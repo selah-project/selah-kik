@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 146,
+  "translation": "Ruaki wake ĩgũa hĩndĩ ya gũkua, agĩcooka gĩthĩko-inĩ kĩa thĩ yakwa; mũthenya ũcio ũrĩa, mĩcoki make nĩonanĩtio na ũgima.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "ĩgũa hĩndĩ ya gũkua"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaki wake"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agĩcooka"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "gĩthĩko-inĩ kĩa thĩ yakwa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũcio"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "nĩonanĩtio na ũgima"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "mĩcoki make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:05.149962284Z",
+  "model": "glm-5.3"
+}

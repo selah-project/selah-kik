@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Magĩhũrĩtie, mũndũ o mwene manithia ⟨את⟩ kionje giake gĩthĩ, na mũndũ o mwene agĩtwarũa kionje giake.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "magĩhũrĩtie"
+    },
+    {
+      "surface": "ויורידו",
+      "gloss": "manithia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mwene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kionje giake"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "kionje giake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "gĩthĩ"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "magĩtwarũa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mwene"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "kionje giake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:04.446315492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Iro ya aciano ake ĩkwarikĩtwo kũrĩ Yahwe; na ihũdũ ya nyina nda ĩecanjĩrwo.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ĩkwarikĩtwo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iro"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ya aciano ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "na ihũdũ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ya nyina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nda"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ĩecanjĩrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:38.775291595Z",
+  "model": "glm-5.3"
+}

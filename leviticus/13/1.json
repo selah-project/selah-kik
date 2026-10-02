@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Yahwe anarĩaria na Moce na na Aharoni, akiuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anarĩaria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga:"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:05.226918473Z",
+  "model": "glm-5.3"
+}

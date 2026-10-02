@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 87,
+  "translation": "Yahwe agatanya rĩngĩrĩria-inĩ rĩa mabũrũri-rĩ: ũyũ nĩakuhirwo kuo. Cera.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "agatanya"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "rĩngĩrĩria-inĩ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rĩa mabũrũri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩakuhirwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:26.641595476Z",
+  "model": "glm-5.3"
+}

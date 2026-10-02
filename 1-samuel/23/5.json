@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Dawidi na andũ ake magiĩ Keara, mahũrana na Afericiti, mathĩra ⟨את⟩ ng'ombe cia ao, makũringa kĩguni kĩnene, na Dawidi ahoonokithire ⟨את⟩ andũ a Keara.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "magiĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "na andũ ake"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keara"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "mahũrana"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "na Afericiti"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "mathĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe cia ao"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ng'ombe cia ao"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "makũringa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kĩguni"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kĩnene"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "ahoonokithire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Keara"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "a Keara"
+    }
+  ],
+  "timestamp": "2026-10-02T06:29:51.348984714Z",
+  "model": "glm-5.3"
+}

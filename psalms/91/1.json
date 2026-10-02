@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Mwĩhoko wa kũikara kĩhũthĩrĩ-inĩ kĩa Ũrĩa-ĩ-Igũrũ; mboco-inĩ cia Cadai agũikara agĩthĩĩ na hinya.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "mwĩhoko wa kũikara"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kĩhũthĩrĩ-inĩ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ũrĩa-ĩ-Igũrũ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mboco-inĩ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Cadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "agũikara agĩthĩĩ na hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:59.762607416Z",
+  "model": "glm-5.3"
+}

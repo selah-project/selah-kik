@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Ecitoni aaciarire ⟨את⟩ Beti-Rafa, na ⟨את⟩ Paeci, na ⟨את⟩ Techinaha, ita wa Iri-Nahaci; acio nĩ andũ a Recaha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Na Ecitoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "aaciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Paeci"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paeci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Techinaha"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techinaha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ita wa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iri"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahaci"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Recaha"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:14.017340279Z",
+  "model": "glm-5.3"
+}

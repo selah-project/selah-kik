@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 21:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩagĩthiĩ, agĩikara kwerũ mwena ũrĩa ũngĩ, harĩ kũrĩ hana kĩmwe kĩa ũthiũ wa ũta, nĩgũkorwo oigĩte atĩrĩ: Ndingĩona kũrwa kwa mũriĩ. Nĩagĩikara kwerũ mwena ũrĩa ũngĩ, na akĩnyĩtĩrĩra ⟨את⟩ mũgambo wake, na akĩrĩra.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwerũ iyũ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mwena ũrĩa ũngĩ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "harĩ kũrĩ"
+    },
+    {
+      "surface": "כמטחוי",
+      "gloss": "hana kĩmwe kĩa ũthiũ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ũta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ngĩona"
+    },
+    {
+      "surface": "במות",
+      "gloss": "kũrwa kwa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mũriĩ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mwena ũrĩa ũngĩ"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "akĩnyĩtĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo wake"
+    },
+    {
+      "surface": "קלה",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "akĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:57.219636970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũthenya ũcio mũndũ nĩakĩrenga ⟨את⟩ mahĩtia make ma riiri, na ⟨את⟩ mahĩtia make ma thahabu, arĩa amenyetie kĩwe kũhotithia, akĩthũŋa kwa thimũngũ na kwa ciuta.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "nĩakĩrenga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahĩtia make ma riiri"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "make ma riiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mahĩtia make ma thahabu"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "make ma thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "amenyetie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kĩwe"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kũhotithia"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "akĩthũŋa kwa"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "thimũngũ"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "na kwa ciuta"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:06.620263627Z",
+  "model": "glm-5.3"
+}

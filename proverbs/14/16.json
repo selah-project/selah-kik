@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Mũkenũ nĩagĩrĩru, na agathii na thutha kuma mũtheno; na mũũrũ nĩarahũkĩra mĩena yothe, na agĩhoka mũno.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "mũkenũ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nĩagĩrĩru"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "na agathii na thutha"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kuma mũtheno"
+    },
+    {
+      "surface": "וככסיל",
+      "gloss": "na mũũrũ"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "nĩarahũkĩra mĩena yothe"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "na agĩhoka mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:52:29.919360696Z",
+  "model": "glm-5.3"
+}

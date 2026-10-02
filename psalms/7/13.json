@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ndaacookaga, nĩagĩrĩire kũgita rwara rwa ita wake; ũta wake nĩorutĩte, na nĩaguĩkĩte ũrĩa wĩ ngombo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tit"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "acooka"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "rwara rwa ita wake"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "nĩagĩrĩire kũgita"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ũta wake"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nĩorutĩte"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "na nĩaguĩkĩte ngombo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:01.639268786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Ere nĩiguaga akaniinia, na ũrĩa ũikarĩte tene. Cera. Nĩgũkorwo ti magwĩtwo mĩtabarũku, na matirĩ kũgwĩra Erohimu.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "nĩiguaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "akaniinia"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "na ũrĩa ũikarĩte"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "mĩtabarũku"
+    },
+    {
+      "surface": "למו",
+      "gloss": "magwĩtwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matirĩ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kũgwĩra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:38.659381938Z",
+  "model": "glm-5.3"
+}

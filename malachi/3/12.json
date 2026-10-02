@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ndũĩ ciothe cĩkũrore thĩĩ ⟨את⟩ inwe ũrĩa mũrĩ mũkenio, nĩgũkorwo inwe nĩmũkorũo thĩ ĩrĩa ĩrĩ mwerĩ, nĩ Yahwe Cebaoti oigĩte.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "na cĩkũrore thĩĩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "nĩmũkorũo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ĩrĩa ĩrĩ mwerĩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:35.726923206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Erohimu tu ⟨nĩ⟩rĩa nyina wakwa ĩhũngagĩra ũũ na ndũkorũo ĩiyũrũte; kuuma wurĩ ⟨nĩ⟩ ũhonokio wakwa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ĩhũngagĩra ũũ na thĩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyina wakwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma wurĩ"
+    },
+    {
+      "surface": "יְשׁוּעָתִי",
+      "gloss": "ũhonokio wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:25.447115222Z",
+  "model": "glm-5.3"
+}

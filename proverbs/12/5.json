@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mĩcoko ya arĩa maceru nĩ ciira; mĩtaratara ya arĩa maagu nĩ mbũri.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Mĩcoko"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa maceru"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "mĩtaratara"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa maagu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mbũri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:50:50.412977756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Ĩyakwa ⟨nĩ⟩ igũrũ, ĩno na thĩ nĩ ĩyakwa; thĩ yothe na mũcingire wayo, wĩe nĩwathikĩrire ⟨cio⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ĩyakwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ĩno na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ĩyakwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na mũcingire wayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wĩe"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "nĩwathikĩrire"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:53.412860200Z",
+  "model": "glm-5.3"
+}

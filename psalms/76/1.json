@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Kũrĩ mũcũrĩri, na ithano cia thari; kĩmera kĩa Acaf, wĩra wa kũiniĩra.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũcũrĩri"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na ithano cia thari"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩmera"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩa Acaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wĩra wa kũiniĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:35.960450029Z",
+  "model": "glm-5.3"
+}

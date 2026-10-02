@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Kũrĩ mũcũnjĩri-wa kĩama, ciĩrwo cia kũheania, cia Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũcũnjĩri-wa kĩama"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ciĩrwo cia kũheania"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cia Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:38.488687195Z",
+  "model": "glm-5.3"
+}

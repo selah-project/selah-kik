@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Ũguo thĩ muoroto ũrĩa ũthĩnjĩkaga ta mũhũmũ, arĩa marũru maihe kuuma mbere ya Erohimu, ta ũguo ũrĩa mbacũ ĩhĩagĩrĩaga njahĩ ya mũaka.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Ũguo thĩ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "muoroto"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ũrĩa ũthĩnjĩkaga ta mũhũmũ"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "ta ũguo ũrĩa"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "mbacũ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "njahĩ ya mũaka"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "maihe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa marũru"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:10.241425551Z",
+  "model": "glm-5.3"
+}

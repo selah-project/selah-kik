@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Kuma thĩinĩ wa kũũthagũkia kwaku, Eroha wa Yaakobu, rũciaro na mũthĩombie na ng'ombe makĩgwatwo nĩ gwatũũkĩra nyũmba.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "kũũthagũkia kwaku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eroha wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "makĩgwatwo nĩ gwatũũkĩra nyũmba"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "na mũthĩombie"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "na ng'ombe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:08.119086102Z",
+  "model": "glm-5.3"
+}

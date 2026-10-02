@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩ aarũmĩte abatumwa kinya kũrĩ Ahabu mwathi wa Yiceraeri, mucĩĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "aarũmĩte"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abatumwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya kũrĩ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "mucĩĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:03:42.051689951Z",
+  "model": "glm-5.3"
+}

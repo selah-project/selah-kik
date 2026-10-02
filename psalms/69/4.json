@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nĩngĩthĩ nĩgwĩte ngwatiro kwa gwĩtura; kĩngoro gĩakwa nĩgakangĩtwo kũnina; maitho makwa magĩkũranĩnga rĩrĩ ndĩcungĩririe Erohimu wakwa.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "nĩngĩthĩ nĩgwĩte ngwatiro"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kwa gwĩtura"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "nĩgakangĩtwo"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "kĩngoro gĩakwa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "magĩkũranĩnga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho makwa"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "ndĩcungĩririe"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Erohimu wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:13.071777478Z",
+  "model": "glm-5.3"
+}

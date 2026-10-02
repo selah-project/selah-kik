@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Mafuta mao maathĩkĩrĩte ⟨ĩrĩa⟩ na kanua kao maina na kĩhooto kĩnene.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mafuta mao"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "maathĩkĩrĩte"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "kanua kao"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "na kĩhooto kĩnene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:53.229873621Z",
+  "model": "glm-5.3"
+}

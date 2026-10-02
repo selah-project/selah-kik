@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Kĩgarũ gĩa kĩhaarĩ ndĩkĩgai nene-inĩ, na guoko kwa arĩa mahũthĩri ndĩkĩnjũkangĩre.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "kĩgai"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kĩgarũ"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kĩa kĩhaarĩ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "na guoko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwa arĩa mahũthĩri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "kĩnjũkangĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:10.644384689Z",
+  "model": "glm-5.3"
+}

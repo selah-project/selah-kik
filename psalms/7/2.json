@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Yahwe Erohimu wakwa, thĩinĩ wawe nĩngĩcokiĩringe; ũrũmĩrĩre kuuma arĩa marĩndũkũnjĩte mathi, na ũrũmĩrĩre ũngĩe ng'ania wakwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "thĩinĩ wawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nĩngĩcokiĩringe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ũrũmĩrĩre"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma othe"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "arĩa marĩndũkũnjĩte mathi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "na ũngĩe ng'ania wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:36.422215686Z",
+  "model": "glm-5.3"
+}

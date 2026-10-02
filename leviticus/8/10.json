@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Moce akĩinya ⟨את⟩ maguta ma kũhanĩra, akĩhanĩra ⟨את⟩ Micikani na ⟨את⟩ indo ciothe irĩ thĩinĩ wakĩo, akĩmũtherithia ⟨את⟩ icio.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩinya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta ma kũhanĩra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ma kũhanĩra"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "akĩhanĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "thĩinĩ wakĩo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akĩmũtherithia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ icio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:22.439055294Z",
+  "model": "glm-5.3"
+}

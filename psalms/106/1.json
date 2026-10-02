@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Igoothagĩrani Yah, ithuthagĩrani Yahwe, nĩwe mũkwego, nĩ hĩndĩ ciothe hecedi wakwa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Igoothagĩrani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ithuthagĩrani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mũkwego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:32.225722755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Ũka othe kwa nyũmba ya Recabite, ũrorote ⟨את⟩ arĩa, na ũcoke ũingĩte ⟨את⟩ arĩa nyũmba-inĩ ya Yahwe, kwa ĩmwe ya cĩceni ciaayo, na ũnywecie ⟨את⟩ arĩa njohi.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Ũka othe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Recabite"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ũrorote"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ arĩa",
+      "marks": "arĩa (Recabite)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "na ũingĩte arĩa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa ĩmwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "cĩceni ciaayo"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "ũnywecie"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ arĩa",
+      "marks": "arĩa (Recabite)"
+    },
+    {
+      "surface": "יין",
+      "gloss": "njohi"
+    }
+  ],
+  "timestamp": "2026-10-02T01:24:57.951275250Z",
+  "model": "glm-5.3"
+}

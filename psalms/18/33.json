@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ere nĩomborerera hinya, na nĩatũmĩte mĩcĩro yakwa yothe ĩkorere ya ma.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "nĩomborerera"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nĩatũmĩte"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yothe ĩkorere ya ma"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mĩcĩro yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:47.999435605Z",
+  "model": "glm-5.3"
+}

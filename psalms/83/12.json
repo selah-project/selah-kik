@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Ĩka atong'oria ao ta Orebu na ta Ceebu; na athamaki ao aothe ta Cebeha na ta Carmuna.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Ĩka"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "atong'oria ao"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "ta Orebu"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "na ta Ceebu"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "na ta Cebeha"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "na ta Carmuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "athamaki ao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:41.947893640Z",
+  "model": "glm-5.3"
+}

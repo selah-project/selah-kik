@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Moabu nĩ nyungu yakwa ya kwontha; he Edomu nĩngũaita muruto wakwa; iguru wa Perethi nĩngũgamba kũingĩha.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "nyungu"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ya kwontha kwakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "he"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nĩngũaita"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "muruto wakwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iguru wa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Perethi"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "nĩngũgamba kũingĩha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:17.293623383Z",
+  "model": "glm-5.3"
+}

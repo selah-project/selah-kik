@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nĩrĩa nĩ ũndũ wa wĩe nĩnaratĩire cuka, na ithĩmi nĩĩĩgĩirie gĩathi kĩakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩrĩa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nĩ ũndũ wa wĩe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nĩnaratĩire"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cuka"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "nĩĩĩgĩirie"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ithĩmi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gĩathi kĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:10.116078972Z",
+  "model": "glm-5.3"
+}

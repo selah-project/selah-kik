@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Giradi nĩyakwa, Menace nĩyakwa; Ebarayimu nĩ hinya wa mutwe wakwa; Yehuda nĩ mũcokayi wakwa wa watho.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "nĩyakwa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giradi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩyakwa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menace"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Ebarayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wa mutwe wakwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mũcokayi wakwa wa watho"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:17.291138169Z",
+  "model": "glm-5.3"
+}

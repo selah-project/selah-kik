@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Mĩcĩĩ yakwa mĩarũmbũiyũ — andũ a mĩcingi makũrĩ thañũ wakwa maragwo — thĩinĩ wa ngoro cia athũ a mũthamaki.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "mĩcĩĩ yakwa"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "mĩarũmbũiyũ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ a mĩcingi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "thañũ wakwa"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "maragwo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "thĩinĩ wa ngoro"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "cia athũ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:01.145120127Z",
+  "model": "glm-5.3"
+}

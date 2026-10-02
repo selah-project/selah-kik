@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Ngoro wake nĩĩgĩte kĩgũa thĩinĩ wa njira cia Yahwe, na gĩtheri nĩaahonokithie ⟨את⟩ macunurũ ma ng'ania na ⟨את⟩ matĩ ma Acerimu kuuma Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "nĩĩgĩte kĩgũa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro wake"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "thĩinĩ wa njira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "na gĩtheri"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nĩaahonokithie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macunurũ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "macunurũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matĩ Acerimu"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Acerimu"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "kuuma Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T05:51:38.877863296Z",
+  "model": "glm-5.3"
+}

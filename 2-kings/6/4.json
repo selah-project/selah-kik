@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩagĩthiĩ ⟨את⟩ hamwe nao, makĩinjira Yordani, makĩgeta mĩtĩ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Nĩagĩthiĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe nao"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "makĩinjira"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "makĩgeta"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mĩtĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:09:38.908036470Z",
+  "model": "glm-5.3"
+}

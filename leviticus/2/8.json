@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na ũroonge ⟨את⟩ minaha ũrĩa ũthondekagwa kuuma macio, kĩa Yahwe; ũnyũre kwa mũciiri, na amũgere harĩ gĩcũrũ kĩa thahau.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Na ũroonge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minaha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ũthondekagwa"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kuuma macio"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ũnyũre kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũciiri"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "amũgere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gĩcũrũ kĩa thahau"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:00.178337303Z",
+  "model": "glm-5.3"
+}

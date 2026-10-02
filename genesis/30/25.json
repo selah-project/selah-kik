@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na ikinya rĩrĩa Raheri aarĩirire ⟨את⟩ Yoceri, Yaakobu akĩuga kwa Rabani: Nditũmire ũndũ ndigakinya harĩ kũndĩ kwakwa na gũcũ kwakwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikinya"
+    },
+    {
+      "surface": "כאשׁר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "aarĩirire"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoceri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoceri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabani"
+    },
+    {
+      "surface": "שׁלּחני",
+      "gloss": "Nditũmire"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ndigakinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "kũndĩ kwakwa"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "na gũcũ kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T20:45:33.754887804Z",
+  "model": "glm-5.3"
+}

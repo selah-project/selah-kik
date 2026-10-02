@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩmwathi Dawidi ndarĩmĩra, nakĩmũhĩkũra kuuma nyũmba ya Makiri mũrũ wa Amieri, kuuma Rodebari.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ndarĩmĩra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "akĩmũhĩkũra"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma nyũmba ya"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amieri"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Rodebari"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:19.940237860Z",
+  "model": "glm-5.3"
+}

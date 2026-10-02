@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Adonai, kĩendo gwakwa gothe gĩtũũkĩte mbere yakwe; na kĩhuhũko gwakwa ti kwaamũranĩka kuuma iwe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mbere yakwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gothe"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "kĩendo gwakwa"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "na kĩhuhũko gwakwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuuma iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "kwaamũranĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:03.045600497Z",
+  "model": "glm-5.3"
+}

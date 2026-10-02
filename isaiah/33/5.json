@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Yahwe nĩmũnene, nĩgũkorwo aikaraga kĩgongona kĩrĩ igũrũ; aciĩirie ⟨את⟩ Cioni ciira na cedeki.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "nĩmũnene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "aikaraga"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kĩgongona kĩrĩ igũrũ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "aciĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cioni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:38:25.799719319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Ŋũrĩa nĩrĩmĩtĩtie ⟨the⟩ gũtũ, kana ⟨ĩ⟩ ndangĩigua? Ũrĩa nĩthondekĩtie ⟨the⟩ ithie, kana ⟨ĩ⟩ ndangĩona?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "nĩrĩmĩtĩtie"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gũtũ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ndangĩigua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nĩthondekĩtie"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ithie"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ndangĩona"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.444527397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩgũkorwo thĩinĩ wakĩo ngoro itũ ĩgũkũnga-gũa, nĩgũkorwo rĩĩtwa rwake rĩa ũtheru nĩtwĩciirie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "thĩinĩ wakĩo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ĩgũkũnga-gũa"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ngoro itũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rĩĩtwa rwake rĩa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "nĩtwĩciirie"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:00.399530424Z",
+  "model": "glm-5.3"
+}

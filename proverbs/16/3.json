@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Gũtũũra kwĩga kwa Yahwe ciĩgĩra cia rĩngĩ; na maũndũ ma meciririe maku makonererwo.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "gũtũũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ciĩgĩra cia rĩngĩ"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "na makonererwo"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "maũndũ ma meciririe maku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:23.224041493Z",
+  "model": "glm-5.3"
+}

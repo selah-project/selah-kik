@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Rĩngiĩni Yahwe na ngatho; imburani kĩnoro kĩa Erohimu witũ.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "rĩngiĩni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "na ngatho"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imburani"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kĩnoro"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:00.954009466Z",
+  "model": "glm-5.3"
+}

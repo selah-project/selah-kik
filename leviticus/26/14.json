@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "No rĩrĩ, ndĩmũthĩkĩrĩririe, na ndĩmũrendere macira ⟨את⟩ othe maya;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "no rĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mũthĩkĩrĩririe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndakwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũrendere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macira othe maya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "macira"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "maya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:44.681383533Z",
+  "model": "glm-5.3"
+}

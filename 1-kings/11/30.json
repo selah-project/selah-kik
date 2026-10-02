@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩũndũ ũcio Ahia agĩkũra nguo njerũ ĩrĩa aarĩ na yake igũrũ rwake, na agĩikararia magũrũ ikũmi na iĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "agĩkũra"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahia"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "njerũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ĩrĩa aarĩ na yake igũrũ rwake"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "na agĩikararia"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iĩrĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "magũrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:02.259882911Z",
+  "model": "glm-5.3"
+}

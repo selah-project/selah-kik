@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Nĩmoonie ⟨את⟩ rĩĩtwa rĩa Yahwe, nĩgũkorwo nĩwe atĩire amwĩra, na ⟨⟨acio⟩⟩ nĩombwo.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Nĩmoonie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atĩire amwĩra"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "na nĩombwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:04.671074692Z",
+  "model": "glm-5.3"
+}

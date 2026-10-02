@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Kũgwatithia gwacakĩrĩirie ⟨arĩa⟩ kuo, na rwambi, ta rwa mũciari.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "kũgwatithia"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "gwacakĩrĩirie ⟨arĩa⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rwambi"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "ta rwa mũciari"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:40.001378239Z",
+  "model": "glm-5.3"
+}

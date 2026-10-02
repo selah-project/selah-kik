@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ũrĩa ũrirĩtie nĩagĩrĩirwo kũĩhoya ngeithi yake, nĩgũkorwa nĩatũkĩtie ⟨את⟩ ũtheru wa Yahwe; na mũndũ ũcio nĩakuũtwo kuuma andũ make.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ũrĩa ũrirĩtie"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ngeithi yake"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nĩagĩrĩirwo kũĩhoya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũtheru"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nĩatũkĩtie"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "nĩakuũtwo"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "kuuma andũ make"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:21.158658519Z",
+  "model": "glm-5.3"
+}

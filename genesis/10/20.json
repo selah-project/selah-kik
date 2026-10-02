@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Aya nĩma arĩa a Hamu, harĩ mĩciĩ yawe, harĩ rũthiomi rwao, thĩinĩ wa matũũra mao, mwena-inĩ wa ndũrĩrĩ ciao.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "harĩ mĩciĩ yawe"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "harĩ rũthiomi rwao"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "thĩinĩ wa matũũra mao"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "mwena-inĩ wa ndũrĩrĩ ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:56.150851193Z",
+  "model": "glm-5.3"
+}

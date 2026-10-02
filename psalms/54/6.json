@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Ona! Erohimu nĩwe ũteithĩtie ine; Adonai arĩ hamwe na arĩa mũnyitiire ngoro yakwa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona!"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "nĩwe ũteithĩtie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "hamwe na arĩa mũnyitiire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:08.201392664Z",
+  "model": "glm-5.3"
+}

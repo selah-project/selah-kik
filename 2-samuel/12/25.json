@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na akĩthoma kuuma moko-inĩ ma Natani mũrathi, akĩita ⟨את⟩ rĩĩtwa rĩaguo Yedidiriahu, nĩ ũndũ wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩthoma"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩaguo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩaguo"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidiriahu"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:34.630785842Z",
+  "model": "glm-5.3"
+}

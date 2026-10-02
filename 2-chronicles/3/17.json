@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na akĩimũkithia ⟨את⟩ ngari cia thĩ mbere ya tempiri, ĩmwe ya ũthiũ wa kwĩyo, na ĩmwe ya ũthiũ wa kũmuyo; akĩĩhaita rĩĩtwa rĩa rĩa kwĩyo Yakini, na rĩĩtwa rĩa rĩa kũmuyo Boazi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akĩimũkithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngari cia thĩ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ngari cia thĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempiri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ya ũthiũ wa kwĩyo"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "na ĩmwe"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ya ũthiũ wa kũmuyo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩĩhaita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "rĩa kwĩyo"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakini"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "rĩa kũmuyo"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:40:38.634100586Z",
+  "model": "glm-5.3"
+}

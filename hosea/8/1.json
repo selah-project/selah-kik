@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Kinya mũrwa-inĩ waku rũa rĩa ng'ombe; ta kĩgũrũ kĩrĩa ĩgwatĩte igũrũ rĩa nyũmba ya Yahwe, nĩgũkorwo gũcookerire kĩrĩkanĩro kĩaugu, na thĩinĩ wa Tora yaugu macokire kũigua watho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "mũrwa-inĩ waku"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "rũa rĩa ng'ombe"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "ta kĩgũrũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩgwatĩte igũrũ rĩa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gũcookerire"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩaugu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yaugu"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "macokire kũigua watho"
+    }
+  ],
+  "timestamp": "2026-10-02T02:19:56.617859106Z",
+  "model": "glm-5.3"
+}

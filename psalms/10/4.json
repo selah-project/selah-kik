@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Mũhiki, thĩinĩ wa kũinĩka kwa cĩĩrĩ yake, ndakenagĩrĩragĩra ⟨Erohimu⟩; \"Ngitirĩ Erohimu\" nĩcio mĩhangore yake yothe.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Mũhiki"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "thĩinĩ wa kũinĩka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kwa cĩĩrĩ yake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ndakenagĩrĩragĩra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ngitirĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "mĩhangore yake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:15.557651785Z",
+  "model": "glm-5.3"
+}

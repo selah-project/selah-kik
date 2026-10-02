@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Moce akĩmwĩra mũthuuri wake: Nĩgũkorwo andũ moiga kũnyĩĩra kũrora ũhoro wa Erohimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmwĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "mũthuuri wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "moiga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũnyĩĩra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "kũrora ũhoro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:03.248400655Z",
+  "model": "glm-5.3"
+}

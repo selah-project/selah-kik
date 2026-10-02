@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Ũteithio wakwa kuuma kũrĩ Yahwe, ũrĩa wonjirie ⟨את⟩ igũrũ na ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "ũteithio wakwa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuuma kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũrĩa wonjirie"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:00.001894430Z",
+  "model": "glm-5.3"
+}

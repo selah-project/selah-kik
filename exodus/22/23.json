@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩgũcana mũhũmũ wakwa, nĩngĩkuua ⟨את⟩ inywe na cembĩ, atumia anyu makagĩra acari, ciana cianyu ciagĩra imũci.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "nĩgũcana"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mũhũmũ wakwa"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "nĩngĩkuua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na cembĩ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "makagĩra"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "atumia anyu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "acari"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ciana cianyu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "imũci"
+    }
+  ],
+  "timestamp": "2026-10-02T06:13:44.654542509Z",
+  "model": "glm-5.3"
+}

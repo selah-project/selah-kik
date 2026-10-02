@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Rĩrĩ, Yahwe agĩhe kĩndũ kĩa wega, na thĩ yĩgũtu na ĩhe maciaro make.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "agĩhe"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kĩndũ kĩa wega"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "na thĩ yĩgũtu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ĩhe"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "maciaro make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:55.258898081Z",
+  "model": "glm-5.3"
+}

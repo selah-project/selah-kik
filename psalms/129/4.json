@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 129,
+  "translation": "Yahwe nĩ Mũcedeki: nĩagetheire mĩcenchie ya arĩa marũru.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Mũcedeki"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "nĩagetheire"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "mĩcenchie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa marũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:52.306781394Z",
+  "model": "glm-5.3"
+}

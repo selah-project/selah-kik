@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na mũkoringa ⟨את⟩ kiugo ũyũ nĩgeetha watho waku na wa aana aku kinya thaai iyothe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "na mũkoringa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "nĩgeetha watho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "waku"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "na wa aana aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "thaai iyothe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:08.247091046Z",
+  "model": "glm-5.3"
+}

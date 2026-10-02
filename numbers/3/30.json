@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na mũthamaki wa nyũmba ya ithe, wa cĩĩmba cia akwa Kehati, nĩ Elicaban, mũrũ wa Eziyeri.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Na mũthamaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ya ithe"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "wa cĩĩmba"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "cia akwa Kehati"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elicaban"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Eziyeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:56.451143499Z",
+  "model": "glm-5.3"
+}

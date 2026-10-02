@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Makĩtera ⟨את⟩ kabũthi ka Yahwe ng'ombe-inĩ ndara-inĩ, na ⟨את⟩ ⟨the⟩ ithengi rĩa mbeba cia thahabu, na ⟨את⟩ igwa cia mikongo yao iria ya thahabu.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Makĩtera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabũthi ka Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kabũthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ng'ombe-inĩ"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ndara-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ithengi"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "ithengi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbeba cia thahabu"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "mbeba"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cia thahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igwa cia mikongo yao"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "igwa"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "cia mikongo yao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:54.706796806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mũcoke ⟨את⟩ mawatho makwa, na ⟨את⟩ ciira ciakwa mũcereere na mũcoke ⟨את⟩ macio; mũikare thĩinĩ wa ⟨the⟩ thĩ kwa ũtĩĩro.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mũcoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho makwa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mawatho makwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciira ciakwa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira ciakwa"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "mũcereere"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mũcoke macio"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ macio",
+      "marks": "mawatho na ciira"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mũikare"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kwa ũtĩĩro"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:58.815840844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ Esau nĩmenete, na nĩngĩthikĩrĩthia ⟨את⟩ irembo ciake kũtuĩka igwatĩrĩra, na ⟨את⟩ iĩthagĩro rĩake nĩngĩhithia enyũ cia kĩenyũ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nĩmenete"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "na nĩngĩthikĩrĩthia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irembo ciake"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "irembo ciake"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "igwatĩrĩra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "iĩthagĩro rĩake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "iĩthagĩro rĩake"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "enyũ cia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kĩenyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:13.938048188Z",
+  "model": "glm-5.3"
+}

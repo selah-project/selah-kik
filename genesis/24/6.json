@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Abarahamu akiuga nakĩre: Ihũrĩra mwĩrĩ, ũrenda kũcokia ⟨את⟩ mwana wakwa kuo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nakĩre"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ihũrĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ũrenda"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kũcokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wakwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wakwa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:28.869927702Z",
+  "model": "glm-5.3"
+}

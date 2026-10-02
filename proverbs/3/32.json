@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩgũkoruo mũhĩtũku nĩ kĩooro kĩa Yahwe, no arĩa me rũngĩrĩri me na ⟨את⟩ mũthingi wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kĩooro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "mũhĩtũku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa me rũngĩrĩri"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "arĩa me rũngĩrĩri"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "mũthingi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:03.755396755Z",
+  "model": "glm-5.3"
+}

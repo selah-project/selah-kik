@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Erohimu, wĩnĩrigethĩtie kuuma mbere yanjũ yakwa, na kinya rĩu nĩngotaũra wanda waku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "wĩnĩrigethĩtie"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuuma mbere yanjũ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kinya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nĩngotaũra"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "wanda waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:52.584447311Z",
+  "model": "glm-5.3"
+}

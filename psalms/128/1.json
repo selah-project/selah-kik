@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 128,
+  "translation": "Kĩĩmani kĩa maũndũ marũũru mathakũ. Ũgeni wĩrĩgĩtwo mũndũ o wothe ũrĩ mũgothe Yahwe, ũrĩ mũthii magũrũ-inĩ make.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩmani"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "kĩa maũndũ marũũru mathakũ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ũgeni wĩrĩgĩtwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mũgothe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ũrĩ mũthii"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "magũrũ-inĩ make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:50.036937431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Kiugo kĩu nĩkĩonekire kĩega thĩinĩ wa macho ma mũthamaki, na thĩinĩ wa macho ma mũthingi wothe.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "nĩkĩonekire kĩega"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo kĩu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa macho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "na thĩinĩ wa macho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mũthingi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:01:26.277590766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na nĩngĩtũma ⟨את⟩ thwĩ mbere yaku, nao nĩgũcirũra ⟨את⟩ Ahivi, ⟨את⟩ Kenaani, na ⟨את⟩ Hiti kuuma mbere yaku.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "na nĩngĩtũma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thwĩ"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "thwĩ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "nao nĩgũcirũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ahivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "kuuma mbere yaku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:17.689407892Z",
+  "model": "glm-5.3"
+}

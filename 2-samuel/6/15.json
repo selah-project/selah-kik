@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Dawidi na nyũmba ya Yiceraeri yothe makĩigua ⟨את⟩ aroni ya Yahwe na ũteerethe na mũgambo wa copora.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Na Dawidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... yothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "makĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na ũteerethe"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "na mũgambo wa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "copora"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:42.197787709Z",
+  "model": "glm-5.3"
+}

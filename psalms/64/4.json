@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Arĩa mematie ndimi ciao ta cego, na maraarĩtie cembe ciao — kiugo kĩa kũnena.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Arĩa"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "mematie"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ta cego"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ndimi ciao"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "maraarĩtie"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "cembe ciao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "מר",
+      "gloss": "kĩa kũnena"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:40.189092105Z",
+  "model": "glm-5.3"
+}

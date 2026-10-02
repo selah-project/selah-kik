@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 53,
+  "translation": "Nĩ ndamenya, arĩa marũmagĩra ũthũ — arĩa mengĩra andũ akwa, menjarĩta mũgũcũ; Erohimu ndamahoye.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ndamenya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "arĩa marũmagĩra"
+    },
+    {
+      "surface": "און",
+      "gloss": "ũthũ"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "arĩa mengĩra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "menjarĩta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mũgũcũ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kũhoya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:38.965726295Z",
+  "model": "glm-5.3"
+}

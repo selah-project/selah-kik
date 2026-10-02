@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Nĩngũgũcookia ithayo, Adonai Erohimu wakwa, na ngoro yakwa yothe; na nĩngũguna rĩĩtwa rĩaku hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Nĩngũgũcookia ithayo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "na ngoro yakwa"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "nĩngũguna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:23.877263826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Athamaki a thĩ na ndũrĩrĩ ciothe; atongoria, na acoci aothe a thĩ.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ndũrĩrĩ ciothe"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "acoci aothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:01.791519509Z",
+  "model": "glm-5.3"
+}

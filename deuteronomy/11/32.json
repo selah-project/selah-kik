@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na mũthingĩke gwĩka ⟨את⟩ mahũ marĩa othe na ⟨את⟩ mĩtaratara ĩrĩa nĩndĩ mũrekerera mbere yanyu ũmũthĩ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mũthingĩke"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahũ marĩa othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "marĩa othe"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mahũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtaratara"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mĩtaratara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mũrekerera"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbere yanyu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:52.791615426Z",
+  "model": "glm-5.3"
+}

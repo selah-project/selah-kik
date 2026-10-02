@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Aciari a Erfacari nĩo: Eberi, na Miciami, na Camedi; ũcio nĩwe ũacirie kũaka ⟨את⟩ Ono na ⟨את⟩ Roti hamwe na mĩgi yacio.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "aciari a"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Erfacari"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberi"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Miciami"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Camedi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio nĩwe ũacirie"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kũaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Roti"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Roti"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "na mĩgi yacio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:33.043878121Z",
+  "model": "glm-5.3"
+}

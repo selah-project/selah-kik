@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na o ũguo, ũhurithie maitho maku harĩ mũndũ ũyo, na ⟨את⟩ wĩnjĩrire thĩinĩ wa ciira hamwe na iwe?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Na o ũguo"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mũndũ ũyo"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ũhurithie maitho"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "maku"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "wĩnjĩrire"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "wĩnjĩrire"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "thĩinĩ wa ciira"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe na iwe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:10:50.411063062Z",
+  "model": "glm-5.3"
+}

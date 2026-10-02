@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ mafũta, na ⟨את⟩ njuũrũ, na ⟨את⟩ cianyi kĩa rora, kuma rora-inĩ, kuma kĩheo-inĩ gĩa thahũ, nĩatũũrire thĩinĩ wa mataru, ta ũrĩa Yahwe aanyitĩrire ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafũta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafũta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njuũrũ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "njuũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cianyi kĩa rora"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "cianyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "rora"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kĩheo gĩa thahũ"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "nĩatũũrire"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "thĩinĩ wa mataru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aanyitĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:27.497939586Z",
+  "model": "glm-5.3"
+}

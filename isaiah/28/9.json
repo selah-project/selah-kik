@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "⟨את⟩ anĩ ndatuĩrire kumenya? na ⟨את⟩ anĩ ndamwerethia ũhoro ũguo? Aria mamenyereruo kuuma iria, aria macokio kuuma mabere-inĩ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anĩ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ndatuĩrire"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kumenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anĩ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ndamwerethia"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ũhoro ũguo"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "aria mamenyereruo"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kuuma iria"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "aria macokio"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "mabere-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:03.240039129Z",
+  "model": "glm-5.3"
+}

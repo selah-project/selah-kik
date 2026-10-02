@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Menyo yakwa nĩyatuĩkĩte irio ciakwa mũthenya na gĩkẽro, rĩrĩa magĩuga atĩrĩ: 'O mũthenya wothe — Erohimu waku arĩ kũ he?'",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "nĩyatuĩkĩte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ciakwa"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "menyo yakwa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na gĩkẽro"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "rĩrĩa magĩuga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya wothe"
+    },
+    {
+      "surface": "איה",
+      "gloss": "arĩ kũ he"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:34.696741137Z",
+  "model": "glm-5.3"
+}

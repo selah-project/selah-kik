@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na kuuma kĩinjambo kĩa ciana cia Yiceraeri agatuũra ⟨את⟩ ndume ibiri cia mbũri thĩinĩ wa kĩheo kĩa mahĩtia, na thĩnjĩ ĩmwe ya kĩheo kĩa kũninika.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "kuuma ⟨את⟩",
+      "marks": "kĩinjambo kĩa ciana cia Yiceraeri"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kĩinjambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "agatuũra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ndume cia mbũri"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mbũri"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kĩheo kĩa mahĩtia"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na thĩnjĩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kĩheo kĩa kũninika"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:28.659311389Z",
+  "model": "glm-5.3"
+}

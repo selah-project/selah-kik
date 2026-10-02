@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩamũigire ⟨את⟩ thaku yake kĩrĩro-inĩ kĩake, na magĩkĩĩra haana: Ee, mũrũ wa nyina!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Nĩamũigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaku yake"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "thaku yake"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "kĩrĩro-inĩ kĩake"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "magĩkĩĩra haana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "-"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mũrũ wa nyina"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:12.562500043Z",
+  "model": "glm-5.3"
+}

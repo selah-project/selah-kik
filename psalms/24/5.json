@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Rora, nĩwenda ma ⟨את⟩ mĩhĩtũkĩre-inĩ; na thigũrũ-inĩ nĩũũmenyithia ũgeni wa mawĩra.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Rora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "⟨את⟩ mĩhĩtũkĩre-inĩ"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "na thigũrũ-inĩ"
+    },
+    {
+      "surface": "תודיני",
+      "gloss": "nĩũũmenyithia"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgeni wa mawĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:48.373240841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Erohimu nĩiguĩte, akĩthinga, na agĩnyenjera mũno Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nĩiguĩte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "akĩthinga"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "agĩnyenjera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:36.630240473Z",
+  "model": "glm-5.3"
+}

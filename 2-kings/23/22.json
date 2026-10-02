@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩgũkorwo Pecaha ya ta ĩyo ndĩagĩrĩtwo kuuma mĩthenya ya acĩira iria macĩirĩte ⟨את⟩ Yiceraeri, na mĩthenya yothe ya athamaki a Yiceraeri na a Yehuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "agĩrĩtwo"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "ta Pecaha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "kuuma mĩthenya"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "acĩira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "macĩirĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "na athamaki a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T00:21:58.089872392Z",
+  "model": "glm-5.3"
+}

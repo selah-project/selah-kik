@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Na Yiceraeri akiuga kũri Yoceti: Kũona gwa ciĩrũ ciaku ndakwĩrĩkĩrire; na rũũru ⟨את⟩ rũrĩ Erohimu anyonĩrire o ⟨את⟩ ciana ciaku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoceti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ciĩrũ ciaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "ndakwĩrĩkĩrire"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũũru"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "anyonĩrire"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu anyonĩrire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciaku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ciana ciaku"
+    }
+  ],
+  "timestamp": "2026-10-01T20:56:45.199983738Z",
+  "model": "glm-5.3"
+}

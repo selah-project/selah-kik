@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩmenete arĩa marĩ na ngoro ya mĩena ĩĩrĩ, na Tora yaku nĩyendete.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "arĩa marĩ na ngoro ya mĩena ĩĩrĩ"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nĩmenete"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "na Tora yaku"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nĩyendete"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:37.072833642Z",
+  "model": "glm-5.3"
+}

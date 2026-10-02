@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ nĩndĩ Yahwe, ndingaũngĩrĩirie; na inwe, ciana cia Yaakobu, matihĩtwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "ngaũngĩrĩirie"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na inwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "hĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:05.470948229Z",
+  "model": "glm-5.3"
+}

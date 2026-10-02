@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na mũciĩ hiũ theru-inĩ nĩmũrarĩirie ⟨את⟩ ĩyo, nĩgũkorwo nĩ gera rĩaku na gera rĩa ciana ciaku, kuuma mbigwa cia Yahwe; nĩgwĩtĩkĩria ũguo nĩnowethwo.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "nĩmũrarĩirie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hiũ theru-inĩ ĩyo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "theru-inĩ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "theru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "gera rĩaku"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "na gera"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "rĩa ciana ciaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "kuuma mbigwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgwĩtĩkĩria"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nĩnowethwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:35:12.808523755Z",
+  "model": "glm-5.3"
+}

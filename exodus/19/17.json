@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Moce agĩhetania ⟨את⟩ andũ kũonana na Erohimu, akiuma kambi-inĩ; nao magĩikara mĩrĩ thĩ ya kilima icio.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "agĩhetania"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kũonana na"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kambi-inĩ"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "magĩikara mĩrĩ"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kilima icio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:58.323374595Z",
+  "model": "glm-5.3"
+}

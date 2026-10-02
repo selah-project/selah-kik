@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na aingĩ marĩ kũigũrũra harĩ ico, magũe, magũrukwo, mahũthĩrwo nĩ mĩtego, na manyitwo.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "marĩ kũigũrũra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "harĩ ico"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aingĩ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "magũe"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "magũrukwo"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "mahũthĩrwo nĩ mĩtego"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "manyitwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:49.690865945Z",
+  "model": "glm-5.3"
+}

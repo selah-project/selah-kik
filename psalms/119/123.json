@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mĩitho yakwa ĩrahoota nĩ ũũrori waku, na nĩ kĩugo gĩaku gĩa cedeki.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mĩitho yakwa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ĩrahoota"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "nĩ ũũrori waku"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "na nĩ kĩugo gĩaku"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "gĩa cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:07.741863001Z",
+  "model": "glm-5.3"
+}

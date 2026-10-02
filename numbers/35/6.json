@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 35:6",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na mace arĩa mũhe Ariuthi, mũthĩmĩtie ⟨את⟩ mace ⟨את⟩ matandatũ ma kũrũngĩra kũo mũũri; na thutha wa macio mũhe mace mĩrongo ina na igĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mace"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mace"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "reria"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mũhe"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Ariuthi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mace matandatũ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "matandatũ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mace"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "ma kũrũngĩra kũo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "reria"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mũhe"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "kũrũnga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mũũri"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "na thutha wa macio"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mũhe"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mĩrongo ina"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na igĩrĩ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mace"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:08.984385266Z",
+  "model": "glm-5.3"
+}

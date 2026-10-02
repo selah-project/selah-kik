@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Kĩkari kĩmwe kĩa ndahabu theru ⟨את⟩ kĩgĩthondekwo, hamwe na ⟨את⟩ icunjĩ iria ciothe.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kĩkari kĩmwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kĩa ndahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "theru"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kĩgĩthondekwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ kĩgĩthondekwo",
+      "marks": "kĩgĩthondekwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icunjĩ iria ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "icunjĩ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iria"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:03.292868437Z",
+  "model": "glm-5.3"
+}

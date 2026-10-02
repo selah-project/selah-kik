@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Cũgara thĩinĩ wakwa, ũndũheere neeni, nĩngĩ nĩ mũndũ mwĩrĩ na mũkenyo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "cũgara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ũndũheere neeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "mũndũ mwĩrĩ"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "mũkenyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:10.938721025Z",
+  "model": "glm-5.3"
+}

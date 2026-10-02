@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Rĩngĩ aonya ⟨את⟩ ũtonga mũnene wa ũthamaki wake, na ⟨את⟩ ũthemani mũnene wa kĩonero kĩa kĩnene kĩake, mĩthenya mĩingĩ — mĩrongo ĩnana na igana rĩa mũthenya.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "rĩngĩ aonya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũtonga"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ũtonga"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "wa ũthamaki wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũthemani"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ũthemani mũnene"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "wa kĩonero"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kĩa kĩnene kĩake"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mĩingĩ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "mĩrongo ĩnana"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na igana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rĩa mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T04:47:06.472157278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mũtũũria wa Yahwe akĩarĩria Eriyahu atĩrĩ: Rũgama ⟨את⟩ yĩo; ndũkaatinya kũmũona; ũkahĩtũka akanĩra rũgama na yĩo kũrĩ mũthamaki.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩarĩria"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mũtũũria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "rũgama"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yĩo",
+      "marks": "mũkuru wa gatatũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũkaa-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tinya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kũmũona"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ũkahĩtũka"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akanĩra rũgama"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yĩo",
+      "marks": "mũkuru wa gatatũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:07:44.014872115Z",
+  "model": "glm-5.3"
+}

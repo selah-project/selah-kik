@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Cedeki nĩgũiyũra mbere yakĩwe, na ĩtikarĩrie njĩra ya ngerekano make.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cedeki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yakĩwe"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "nĩgũiyũra"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na ĩtikarĩrie"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "njĩra ya"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ngerekano make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:55.260468241Z",
+  "model": "glm-5.3"
+}

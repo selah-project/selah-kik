@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ndũinĩrie ⟨את⟩ ng'ombe thĩinĩ wa hema ya kũhiranĩra, na Aharoni na ciana wake makĩiganĩra ⟨את⟩ maku mao igũrũ rĩa ng'ombe ũcio.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ndũinĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiranĩra"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "makĩiganĩra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ciana wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maku mao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maku mao"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wa ng'ombe ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:31.543017440Z",
+  "model": "glm-5.3"
+}

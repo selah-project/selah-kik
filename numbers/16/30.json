@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 16:30",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Erohimu akĩrathimira ⟨את⟩ makĩria, akiuga: Ciarai, mĩnyiĩkai, ⟨את⟩ mwarie ⟨את⟩ mĩena cia maĩ thayĩ, na ⟨את⟩ mbũrũcũ ĩnyiĩke thayĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akĩrathimira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "makĩria"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ciarai"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mĩnyiĩkai"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "⟨את⟩ mwarie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩena cia maĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mĩena cia maĩ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "⟨את⟩ thayĩ"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "⟨את⟩ mbũrũcũ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ĩnyiĩke"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thayĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:19:05.158404223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Kĩrĩro kĩa kũinĩra, cimbura, cia aana a Korahi, kwa mũcũngĩri ũrĩa ecoka mawĩra, thĩinĩ wa Macarati, gwĩtua na kũhinga; gwĩririkania kĩrĩa gĩa kũhunjurwo, kĩandĩkĩtwo nĩ Heimani, mũrũ wa Ezeraahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩrĩro kĩa kũinĩra"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "cimbura"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cia aana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũcũngĩri ũrĩa ecoka mawĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Macarati"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "gwĩtua na kũhinga"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "gwĩririkania kĩrĩa gĩa kũhunjurwo"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "kĩandĩkĩtwo nĩ Heimani"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "mũrũ wa Ezeraahi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:22.235857220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Njira ⟨את⟩ inanjĩra ⟨את⟩ Rĩbani, mũgĩoni wakwa, ⟨את⟩ injĩra ⟨את⟩ Rĩbani, ũciĩrwo kuuma mũthĩĩnda wa Amana, kuuma mũthĩĩnda wa Ceniri na Heremoni, kuuma mataaro ma thĩmbĩ, kurĩ rĩiyũra rĩa ngari.",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ inanjĩra"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Rĩbani"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mũgĩoni wakwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ injĩra",
+      "marks": "Rĩbani"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Rĩbani"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "ũciĩrwo"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "ũroore"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kuuma mũthĩĩnda"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Amana"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kuuma mũthĩĩnda"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Ceniri"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "na Heremoni"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "kuuma mataaro"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "thĩmbĩ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "kurĩ rĩiyũra"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "ngari"
+    }
+  ],
+  "timestamp": "2026-10-02T07:04:34.718417755Z",
+  "model": "glm-5.3"
+}

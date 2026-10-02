@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Mũthenya, riũa ndĩngũkũhota; na mweri gũkĩro.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Mũthenya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngũ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "kũhota we"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "na mweri"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "gũkĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:29.265645311Z",
+  "model": "glm-5.3"
+}

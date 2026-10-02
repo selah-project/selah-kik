@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Adonai Yahwe angethee ndĩ rũgendo rwa arutwo, ndĩmenye kũhonia ⟨את⟩ mũwarũ kiugo; ethĩro kwa ethĩro aamũkĩrĩra, aamũkĩrĩra gũtũ kwakwa ngotheka ta arutwo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "angethee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rũgendo"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "rwa arutwo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ndĩmenye"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "kũhonia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũwarũ"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "mũwarũ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "aamũkĩrĩra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ethĩro"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ethĩro kwa ethĩro"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "aamũkĩrĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gũtũ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ngotheka"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "ta arutwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:53:30.843765314Z",
+  "model": "glm-5.3"
+}

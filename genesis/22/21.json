@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uci mũceerũ wake, na ⟨את⟩ Buzi mũrũ wa nyina, na ⟨את⟩ Kemueri ithe wa Aramu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uci"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uci"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mũceerũ wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Buzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũ wa nyina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kemueri"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemueri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:45.364892493Z",
+  "model": "glm-5.3"
+}

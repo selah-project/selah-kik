@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 28:9",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Ĩrĩa ũkuuga — nĩndĩ Erohimu — mbere wa ũrĩa ũkũhũra? No wĩ mũndũ, ti Ere, moko-inĩ ma arĩa makũhoora.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Ĩrĩa ũkuuga"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ũkuuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere wa"
+    },
+    {
+      "surface": "הרגך",
+      "gloss": "ũrĩa ũkũhũra"
+    },
+    {
+      "surface": "ויתה",
+      "gloss": "no wĩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "מחלליך",
+      "gloss": "arĩa makũhoora"
+    }
+  ],
+  "timestamp": "2026-10-02T01:59:03.620865507Z",
+  "model": "glm-5.3"
+}

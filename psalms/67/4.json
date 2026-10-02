@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 67,
+  "translation": "Ndũrĩrĩ ikũcoore, Erohimu; ndũrĩrĩ ciothe cia thĩ ikũcoore.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ikũcoore"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Ndũrĩrĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ikũcoore"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ciothe cia thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:58.274764569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Rĩrora, nĩngĩheetire rĩĩtwa rĩa Becarayeri, mũrũ wa Uri, mũrũ wa Huri, wa matabari ma Yehuda.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Rĩrora"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nĩngĩheetire"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becarayeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Huri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "matabari ma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:44.051601049Z",
+  "model": "glm-5.3"
+}

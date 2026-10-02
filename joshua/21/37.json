@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemoti hamwe na ⟨את⟩ migraša yake, na ⟨את⟩ Mefaati hamwe na ⟨את⟩ migraša yake — miciĩ inya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemoti"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migraša yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mefaati"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migraša yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša yake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miciĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:45.313738899Z",
+  "model": "glm-5.3"
+}

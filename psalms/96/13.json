@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Beterĩ Yahwe, nĩgũkorwo nĩakĩrĩ kũũra, nĩgũkorwo nĩakĩrĩ kũũra agũcie ciira ⟨את⟩ thĩ; nĩagũcie ⟨את⟩ thĩ ya andũ o yothe na cedeki, na ndũrĩrĩ na ũiguano wake.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Beterĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩakĩrĩ kũũra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩakĩrĩ kũũra"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "agũcie ciira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "nĩagũcie"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ ya andũ o yothe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na ndũrĩrĩ"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "na ũiguano wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:38.064507911Z",
+  "model": "glm-5.3"
+}

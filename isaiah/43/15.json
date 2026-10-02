@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Nĩ niĩ Yahwe, Mũtheru wanyu, Mũothe wa Yiceraeri, Mũthamaki wanyu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩ niĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Mũtheru wanyu"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Mũothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Mũthamaki wanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:40:37.912988608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩkũũ mũtheru ta Yahwe, nĩgũkorwo nĩkũũ ũngĩ waku, na kũũ ngombo ta Erohimu waitũ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nĩkũũ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ta Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nĩkũũ"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "ũngĩ waku"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na kũũ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ngombo"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "ta Erohimu waitũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:09:54.297739322Z",
+  "model": "glm-5.3"
+}

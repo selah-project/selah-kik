@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na makĩuga kwa Moce, na meega: Andũ marĩ o kũciinia mũno, kũreigana na ũndũ wa wĩra ũrĩa Yahwe aahoothĩrie gwĩka ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na meega"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "marĩ o kũciinia mũno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kũciinia"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "kũreigana na"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ũndũ wa wĩra"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aahoothĩrie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wĩra ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:59.685452727Z",
+  "model": "glm-5.3"
+}

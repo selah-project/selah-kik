@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Ūrĩ wa ndirĩrio mũciĩ-inĩ, na ũrĩ wa ndirĩrio mũndũ-inĩ wa mĩena.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ūrĩ wa ndirĩrio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mũciĩ-inĩ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "na ũrĩ wa ndirĩrio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mũndũ-inĩ wa mĩena"
+    }
+  ],
+  "timestamp": "2026-10-01T22:33:33.000645154Z",
+  "model": "glm-5.3"
+}

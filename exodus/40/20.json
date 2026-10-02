@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Nĩanyakire Moce, akĩgera ⟨את⟩ ng'aragu thĩinĩ wa Aroni, akĩgĩcokia ⟨את⟩ mĩbari igũrũ rĩa Aroni, akĩgera ⟨את⟩ kĩhotoro igũrũ rĩa Aroni kuuma igũrũ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nĩanyakire"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'aragu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ng'aragu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akĩgĩcokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩbari"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mĩbari"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhotoro"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kĩhotoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kuuma igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:55.240552882Z",
+  "model": "glm-5.3"
+}

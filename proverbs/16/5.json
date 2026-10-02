@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Gero rĩa Yahwe nĩ mũndũ wona wa ngoro njĩrũ; ĩko yĩrĩ ĩrĩa ĩngĩ, ndakenagwo.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "gero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wona"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "njĩrũ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ĩko"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "yĩrĩ ĩrĩa ĩngĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "kenagwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:25.527017268Z",
+  "model": "glm-5.3"
+}

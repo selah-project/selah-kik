@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩarathĩrire nao ⟨אתם⟩ agĩrĩra atĩrĩ: Nĩrĩcoke thĩinĩ wanyu kũhikia mũrũ wakwa wĩkuwe ⟨את⟩ kuuma mbere yakwa, niĩngwĩtigĩria, na mũũngĩre ũhoro Eperoni, mũrũ wa Cohari, ũhorerie.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nĩarathĩrire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nao ⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩrĩra atĩrĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nĩrĩcoke"
+    },
+    {
+      "surface": "יש",
+      "gloss": "thĩinĩ wanyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wanyu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "moyo wanyu"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "kũhikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wakwa wĩkuwe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mũrũ wakwa wĩkuwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere yakwa"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "niĩngwĩtigĩria"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "na mũũngĩre ũhoro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ũhorerie"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Eperoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Cohari"
+    }
+  ],
+  "timestamp": "2026-10-01T20:40:37.727085650Z",
+  "model": "glm-5.3"
+}

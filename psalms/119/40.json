@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Ona, nĩrĩrenda maũndũ makwa makũhota, macedeki-inĩ makwa ũtũmũrĩhe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "nĩrĩrenda"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "maũndũ makwa makũhota"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "macedeki-inĩ makwa"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ũtũmũrĩhe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:57.328706089Z",
+  "model": "glm-5.3"
+}

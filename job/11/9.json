@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Kĩgeranio kĩayo nĩ kĩraha kũrenda thĩ, na kĩrahũ kũrenda ria.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "kĩraha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kũrenda thĩ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "kĩgeranio kĩayo"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "kĩrahũ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kũrenda"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ria"
+    }
+  ],
+  "timestamp": "2026-10-02T04:09:38.081910346Z",
+  "model": "glm-5.3"
+}

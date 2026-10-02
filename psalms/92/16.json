@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Gũcũrania atĩ Yahwe nĩmũthingu mwamũrũ, na thĩinĩ wake kũrirĩ kĩhooto.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "gũcũrania"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "mũthingu mwamũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mwamũrũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na kũrirĩ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "thĩinĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:22.655371419Z",
+  "model": "glm-5.3"
+}

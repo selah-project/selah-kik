@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Kuuma igũrũ nĩwarĩrĩrĩtie ciira; thĩ nĩyoigwetie gũoya, na ĩkĩhĩrĩra.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "nĩwarĩrĩrĩtie"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nĩyoigwetie gũoya"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "na ĩkĩhĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:54.464787164Z",
+  "model": "glm-5.3"
+}

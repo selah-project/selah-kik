@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na mwĩhũrĩre mũno ngoro ciano, kũienda ⟨את⟩ Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "mwĩhũrĩre"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ngoro ciano"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kũienda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:56.027259513Z",
+  "model": "glm-5.3"
+}

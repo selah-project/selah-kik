@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ nyama ya ndũrũme ũĩ, na ⟨את⟩ kĩgũa kĩayo, na ⟨את⟩ thũtha yake, ũmũtherie mwaki-inĩ, ainĩ gĩa kĩamba; kĩheo kĩa guoko nĩkĩo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "nyama ya ndũrũme"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya ndũrũme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgũa kĩayo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kĩgũa kĩayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thũtha yake"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "thũtha yake"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ũmũtherie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mwaki-inĩ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ainĩ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "gĩa kĩamba"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kĩheo kĩa guoko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩkĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:13.939139606Z",
+  "model": "glm-5.3"
+}

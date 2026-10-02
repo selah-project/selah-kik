@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Thikĩrĩra, andũ akwa, nĩngakũrĩkĩrĩra; Yiceraeri, no ũthikĩrĩre ngathĩ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Thikĩrĩra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "nĩngakũrĩkĩrĩra"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ũthikĩrĩre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngathĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:15.263299046Z",
+  "model": "glm-5.3"
+}

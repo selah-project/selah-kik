@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Ũrora kũng'ĩra kuuma wanjĩ, nĩngĩthererwo kwa ngombo, mbere ya gũthiĩ na gũtikũikara.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Ũrora kũng'ĩra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuuma wanjĩ"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "nĩngĩthererwo kwa ngombo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gũthiĩ"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "na gũtikũikara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:26.180750010Z",
+  "model": "glm-5.3"
+}

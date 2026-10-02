@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Mũbariki nĩ kĩcege gĩaku, na mũbariki nĩ mũgate waku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "mũbariki"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "kĩcege gĩaku"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "na mũgate waku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:33:39.238900166Z",
+  "model": "glm-5.3"
+}

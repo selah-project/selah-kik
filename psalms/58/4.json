@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Arĩa marũo magĩthiĩ nakũ makĩgera kuuma kĩgũnda-inĩ; magecoka thĩinĩ wa irũa-rũo, maciũga mahenia.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "magĩthiĩ nakũ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Arĩa marũo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kuuma kĩgũnda-inĩ"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "magecoka"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "thĩinĩ wa irũa-rũo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maciũga"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mahenia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:52.566644093Z",
+  "model": "glm-5.3"
+}

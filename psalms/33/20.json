@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mwoyo witũ nĩwagwetete kũrĩ Yahwe; nĩwe ũteithanĩri witũ na cibũrũku witũ.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Mwoyo witũ"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "nĩwagwetete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũrĩ Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ũteithanĩri witũ"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "na cibũrũku witũ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:48.357794353Z",
+  "model": "glm-5.3"
+}

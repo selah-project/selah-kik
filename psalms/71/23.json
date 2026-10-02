@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Moro jakwa nĩjĩkwĩrĩgĩrĩra hĩndĩ ĩnjĩkuhiĩra Wee, na mũoyo wakwa, ũrĩa ũkĩhwĩtie.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "nĩjĩkwĩrĩgĩrĩra"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "moro jakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hĩndĩ ĩ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "njĩkuhiĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "na mũoyo wakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "ũkĩhwĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:22.203548724Z",
+  "model": "glm-5.3"
+}

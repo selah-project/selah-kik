@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Akayoita ⟨את⟩ igũrũ rĩrĩa rĩngĩrĩru, na ⟨את⟩ thĩ, athĩnjĩre andũ ake.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Akayoita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨rĩngĩrĩru⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ rĩrĩa rĩngĩrĩru"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "rĩngĩrĩru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "athĩnjĩre"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:41.687716612Z",
+  "model": "glm-5.3"
+}

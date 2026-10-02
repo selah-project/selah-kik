@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Kĩrĩkanĩro kĩa mwega waku mũnene nĩmahakanania na kwarahũra ngemi, na cedeki yaku nĩmegũcinĩra kũina.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "mwega waku"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "nĩmahakanania na kwarahũra ngemi"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na cedeki yaku"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nĩmegũcinĩra kũina"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:37.423295443Z",
+  "model": "glm-5.3"
+}

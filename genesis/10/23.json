@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na aana a Aramu: Uci, na Huri, na Getheri, na Mashi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na aana a"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uci"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "na Huri"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "na Getheri"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "na Mashi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:42.892588053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "No ⟨את⟩ Natani mũrathi, na Benayahu, na ⟨את⟩ andũ a hinya, na ⟨את⟩ Ceromoho mũrũwake, ndaahaita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natani mũrathi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "na Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a hinya"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "andũ a hinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ceromoho mũrũwake"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nidaa-"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ndaahaita"
+    }
+  ],
+  "timestamp": "2026-10-01T23:46:11.251032743Z",
+  "model": "glm-5.3"
+}

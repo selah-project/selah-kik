@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mĩthenya mũgwanja ũkamenya mĩcabĩ ĩtherũ, na mũthenya-inĩ wa mũgwanja nĩ ⟨kĩrĩ⟩ kĩrooto kĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ũkamenya"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mĩcabĩ ĩtherũ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "na mũthenya-inĩ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa mũgwanja"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kĩrooto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kĩa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:28.366315554Z",
+  "model": "glm-5.3"
+}

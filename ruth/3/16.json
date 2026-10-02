@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩaingĩte kwa mũka wa mũrũ wake, na akiuga: Nĩũũ wĩwe, mũrũ wakwa? Nĩamũrĩire ⟨את⟩ macio mothe arĩa mũndũ ũyũ nĩagĩte ĩ.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "nĩaingĩte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mũka wa mũrũ wake"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "wĩwe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "nĩamũrĩire"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "macio mothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩagĩte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:23.569712252Z",
+  "model": "glm-5.3"
+}

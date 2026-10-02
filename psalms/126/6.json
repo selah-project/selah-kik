@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 126,
+  "translation": "Mũndũ ũrĩa athiĩ na akĩina, atharutaga mbeũ yake ĩrĩa yaarutithio, atarĩkia gũcooka na kĩĩro, atharutaga icumba ciake.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ũrĩa athiĩ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "athiĩ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "akĩina"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atharutaga"
+    },
+    {
+      "surface": "משך",
+      "gloss": "mbeũ ĩrĩa yaarutithio"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "mbeũ yake"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atarĩkia gũcooka"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "acooka"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "na kĩĩro"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atharutaga"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "icumba ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:12.381808030Z",
+  "model": "glm-5.3"
+}

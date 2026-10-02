@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Ngĩambata igũrũ na gĩtĩrĩma, na thanda nĩngĩtua kĩgũrĩ kĩacio.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "ngĩambata"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "na gĩtĩrĩma"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "na thanda"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nĩngĩtua"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "kĩgũrĩ kĩacio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:53:30.843591046Z",
+  "model": "glm-5.3"
+}

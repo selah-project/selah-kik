@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Moza nĩarĩriria ⟨את⟩ Binea; na Refayahi mũrũ wake, Erecaha mũrũ wake, Azeri mũrũ wake.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "Na Moza"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩarĩriria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binea"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Binea"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "na Refayahi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Erecaha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Azeri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:25:53.581999885Z",
+  "model": "glm-5.3"
+}

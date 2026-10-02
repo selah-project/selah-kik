@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na matũũra ma mĩrango nĩmacookire kũinũika na mũgambo wao arĩa mahũũraga, na nyũmba nĩĩrayũrũkĩte na thũũri.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "nĩmacookire kũinũika"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "matũũra"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "mĩrango"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "na mũgambo wao"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "arĩa mahũũraga"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyũmba"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "nĩĩrayũrũkĩte"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "thũũri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:17.033103506Z",
+  "model": "glm-5.3"
+}

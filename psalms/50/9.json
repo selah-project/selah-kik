@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Ndingĩtokora ndatu kuuma nyũmba yaku, wala ndũrũme cia mbũri kuuma macingo maku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndingĩ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "tokora"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "kuuma nyũmba yaku"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ndatu"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "kuuma macingo maku"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ndũrũme cia mbũri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:46.041702655Z",
+  "model": "glm-5.3"
+}

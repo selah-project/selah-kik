@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 10:31",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Yehu ndaregire kũyenda kũyuala thĩinĩ wa Tora ya Yahwe, Erohimu wa Yiceraeri, na ngoro yake yothe; ndaahũrire kũma thutha wa mahĩtia ma Yarobehamu, arĩa wahothĩtie ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Na Yehu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "regire kũyenda"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kũyuala"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "thĩinĩ wa Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ngoro yake yothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "סר",
+      "gloss": "hũrire"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kũma"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobehamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wahothĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:12:42.938880817Z",
+  "model": "glm-5.3"
+}

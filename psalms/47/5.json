@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Nĩagũthiũra ⟨את⟩ ithigĩ rĩngetha rwitũ, ⟨את⟩ gĩikaro kĩa Yaakobu, arĩa aendete. Cera.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "nĩagũthiũra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rĩngetha rwitũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithigĩ rĩngetha rwitũ"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ithigĩ rĩngetha rwitũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩikaro kĩa Yaakobu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gĩikaro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kĩa Yaakobu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aendete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:47.460436235Z",
+  "model": "glm-5.3"
+}

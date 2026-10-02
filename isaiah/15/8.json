@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Nĩgũkorwo kĩheni kĩarĩitĩkĩirie ⟨את⟩ mũmbare wa Moabu; nginya Egerayimu nĩkũigua kwa mahűrűro mane, na hau Beri-Erimu nĩkũigua kwa mahűrűro mane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "kĩarĩitĩkĩirie"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "kĩheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũmbare wa Moabu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mũmbare"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Egerayimu"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "mahűrűro mane"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "na hau"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Beri-Erimu"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "mahűrűro mane"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:51.287079220Z",
+  "model": "glm-5.3"
+}

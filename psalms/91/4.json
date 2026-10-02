@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Mboco-inĩ make agũkũkenga; thĩinĩ ya mapanga make ũgũhoka; ma wake nĩ kĩamba na kĩhingo kĩa gũcukĩra.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "mboco-inĩ make"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "agũkũkenga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "thĩinĩ ya"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "mapanga make"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ũgũhoka"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "na kĩhingo kĩa gũcukĩra"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ma wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:59.767960838Z",
+  "model": "glm-5.3"
+}

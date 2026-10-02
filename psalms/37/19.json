@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Matina gũkoretwo magũrũo hĩndĩ ya mwamũro mũũru, na mĩthenya ya gũkwa kwa irio nĩmakĩrora kĩrĩmbũ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "matina"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "gũkoretwo magũrũo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hĩndĩ ya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mwamũro mũũru"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "na mĩthenya ya"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "gũkwa kwa irio"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nĩmakĩrora kĩrĩmbũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:59.393872387Z",
+  "model": "glm-5.3"
+}

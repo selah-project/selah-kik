@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Kũrĩ akuua nĩũkora maũndũ manene? Kana Refaimi nĩmagĩcooka maiyũrũo makũgooca? Cena.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "kũrĩ akuua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkora"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "maũndũ manene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaimi"
+    },
+    {
+      "surface": "יוקמו",
+      "gloss": "nĩmagĩcooka maiyũrũo"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "makũgooca"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cena"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:10.227045576Z",
+  "model": "glm-5.3"
+}

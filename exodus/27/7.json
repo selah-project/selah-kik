@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na mahuti make nĩmekurerwo ⟨את⟩ thĩinĩ wa mĩriũra, na mahuti marĩkũgĩa ibara ĩrĩ cia mwaki-inĩ hĩndĩ ya kũigũa.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "nĩmekurerwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahuti make"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mahuti make"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "thĩinĩ wa mĩriũra"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na marĩkũgĩa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mahuti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibara"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "cia mwaki-inĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa mwaki"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "hĩndĩ ya kũigũa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wĩyenie (mwaki)"
+    }
+  ],
+  "timestamp": "2026-10-02T06:13:21.133736610Z",
+  "model": "glm-5.3"
+}

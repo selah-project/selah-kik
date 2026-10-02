@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Warĩ na ũtheri, wawe, mũnene kũrĩ milima ya mahũra.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "warĩ na ũtheri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wawe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "kũrĩ milima"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ya mahũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:08.116448471Z",
+  "model": "glm-5.3"
+}

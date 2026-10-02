@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na andũ a Micirayimu nĩmahootithie ⟨את⟩ aana a Yiceraeri na hinya mũkuru.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "nĩmahootithie"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "andũ a Micirayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "na hinya mũkuru"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:45.812008762Z",
+  "model": "glm-5.3"
+}

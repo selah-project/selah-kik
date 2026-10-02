@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Yahwe nĩendete, nĩ ũndũ wa cedeki yake, agatuĩkĩra Tora nene na kũiyahũra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "cedeki yake"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "agatuĩkĩra nene"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "na kũiyahũra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:40:35.784650338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Tũhe teithia kuuma thinema-inĩ; na wũhinga nĩũrĩa kũteithia kwa mũndũ.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Tũhe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithie"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "teithia"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kuuma thinema-inĩ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "na wũhinga"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "kũteithia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kwa mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.427160210Z",
+  "model": "glm-5.3"
+}

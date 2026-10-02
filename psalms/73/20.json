@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Ta ndoto ĩrĩa mũndũ aciarũkĩragia — Adonai, rĩrĩa we ũciarũkĩrĩra, nĩũregaga mũhianĩre wao.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Ta ndoto"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ĩrĩa mũndũ aciarũkĩragia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "rĩrĩa we ũciarũkĩrĩra"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "mũhianĩre wao"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "nĩũregaga"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:28.847154319Z",
+  "model": "glm-5.3"
+}

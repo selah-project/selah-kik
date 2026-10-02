@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩ waathirekĩra thutha wa mĩaka makũmi rĩrĩa Ceromoni aarĩĩrire ⟨את⟩ nyũmba igĩrĩ: ⟨את⟩ nyũmba ya Yahwe na ⟨את⟩ nyũmba ya mũthamaki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩ waathirekĩra"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aarĩĩrire"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba igĩrĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya mũthamaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:05.061661440Z",
+  "model": "glm-5.3"
+}

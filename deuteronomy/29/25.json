@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na magĩenda, makĩhoya ngai ingĩ, makĩiguũithia icio — ngai iria mamenete, na iria ⟨Iwe⟩ ndaacigĩrĩirie icio.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "na magĩenda"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "makĩhoya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "makĩiguũithia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "icio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "mamenete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ndaacigĩrĩirie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "icio"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:45.887450547Z",
+  "model": "glm-5.3"
+}

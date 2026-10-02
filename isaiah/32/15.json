@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "nginya ruaki ĩtheretwo tũnyũ kuuma igũrũ, na gĩthaka kĩgĩtuĩka kĩanda gĩa mĩmera, na kĩanda gĩa mĩmera kĩgĩciirwo ta gĩcagi gĩa mĩtĩ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ĩtheretwo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "tũnyũ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na kĩgĩtuĩka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gĩthaka"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "kĩanda gĩa mĩmera"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "na kĩanda gĩa mĩmera"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "gĩcagi gĩa mĩtĩ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "kĩgĩciirwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:37:59.113452495Z",
+  "model": "glm-5.3"
+}

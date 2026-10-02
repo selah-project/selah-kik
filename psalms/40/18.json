@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "No nĩndĩ mũkenyo na mũthingu; Adonai akĩnjirikagĩra; we nĩwe mũteithia wakwa na mũcokia wakwa — Eroha wakwa, ndũkĩhĩa kũnjĩra.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "No nĩndĩ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkenyo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũthingu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "akĩnjirikagĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-nj-"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mũteithia wakwa"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na mũcokia wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we nĩwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eroha wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "kũhĩa kũnjĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:53.826895918Z",
+  "model": "glm-5.3"
+}

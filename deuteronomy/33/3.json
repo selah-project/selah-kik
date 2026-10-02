@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Oigire-hĩ, ũrĩa-endete ndũrĩrĩ; atheru ake othe macro moko maku, nao maniĩte thĩ mbere ya magũrũ maku, o mũndũ angĩingĩra ciugo ciĩrĩa ũkorwo ũugite.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "oigire-hĩ"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "ũrĩa-endete"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "atheru ake"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "macro moko maku"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "maniĩte thĩ"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "mbere ya magũrũ maku"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "angĩingĩra"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "ciugo ciĩrĩa ũkorwo ũugite"
+    }
+  ],
+  "timestamp": "2026-10-01T22:37:20.809948624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na thĩnjĩ ĩcokagĩra mĩcĩĩ-inĩ yake, ĩhĩthithia mĩthemba yake, ĩriria, nginya ĩhĩthithitio kuuma mĩcĩgĩrĩra mao.",
+  "tokens": [
+    {
+      "surface": "וְחָלָה",
+      "gloss": "ĩcokagĩra"
+    },
+    {
+      "surface": "חֶרֶב",
+      "gloss": "thĩnjĩ"
+    },
+    {
+      "surface": "בְּעָרָיו",
+      "gloss": "mĩcĩĩ-inĩ yake"
+    },
+    {
+      "surface": "וְכִלְּתָה",
+      "gloss": "ĩhĩthithia"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "mĩthemba yake"
+    },
+    {
+      "surface": "וְאָכֲלָה",
+      "gloss": "ĩriria"
+    },
+    {
+      "surface": "מִמֹּעֲצֹתֵיהֶם",
+      "gloss": "kuuma mĩcĩgĩrĩra mao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:06.343522910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Na cedeki yaku ndũmũkirie na ũnengithie; ndũrũrĩ thogo yaku makĩria, ũngĩhonokire.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "na cedeki yaku"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "ndũmũkirie"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "na ũnengithie"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ndũrũrĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "makĩria"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "thogo yaku"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ũngĩhonokire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:00.860439994Z",
+  "model": "glm-5.3"
+}

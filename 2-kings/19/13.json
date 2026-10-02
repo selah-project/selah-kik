@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Arĩ kũrĩ mwathi wa Hamati, na mwathi wa Arpadi, na mwathi wa ⟨the⟩ gĩtarũ kĩa Cefaravayimu, Hena, na Iva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "arĩ kũrĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadi"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wa gĩtarũ"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Cefaravayimu"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "na Iva"
+    }
+  ],
+  "timestamp": "2026-10-02T00:19:15.415066233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Mwĩrire Erohimu: Nĩũtigethũka nĩ maũndũ makwa! Nĩ ũgima wa hinya waku, arĩa makũmena nĩmakwĩhĩhania kũu wee.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mwĩrire"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mũtigethũka"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "maũndũ makwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Nĩ ũgima wa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hinya waku"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "nĩmakwĩhĩhania"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũu wee"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "arĩa makũmena"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:32.641172747Z",
+  "model": "glm-5.3"
+}

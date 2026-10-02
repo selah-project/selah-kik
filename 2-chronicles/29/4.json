@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na akoyia ⟨את⟩ athembi na ⟨את⟩ Arawi, akĩhũrũranĩra harĩ kĩgunĩ kĩeneene kĩa irathĩro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akoyia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athembi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "athembi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Arawi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Arawi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "akĩhũrũranĩra"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "harĩ kĩgunĩ kĩeneene"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "kĩa irathĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T05:59:15.421479635Z",
+  "model": "glm-5.3"
+}

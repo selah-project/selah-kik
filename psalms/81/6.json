@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Kĩhooto kĩrĩa kwa Yocifa aikĩte ⟨kĩ⟩, rĩrĩa aciokia ĩrĩ thĩ ya Micirayimu; rũthiomi ndĩnjũĩ, ngĩkĩhoya.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "kwa Yocifa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "aikĩte"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "rĩrĩa aciokia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rũthiomi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "njũĩ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ngĩkĩhoya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:36.486293655Z",
+  "model": "glm-5.3"
+}

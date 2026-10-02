@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na Moce aarĩ na mĩaka mĩrongo ĩnana, Aharoni nao aarĩ na mĩaka mĩrongo ĩtatu na mĩrongo ĩnana, rĩrĩa maakĩoiga na Parao.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Na Moce"
+    },
+    {
+      "surface": "בן",
+      "gloss": "aarĩ na"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "mĩrongo ĩnana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni nao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "aarĩ na"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mĩrongo ĩtatu"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na mĩrongo ĩnana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "rĩrĩa maakĩoiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:32.902492879Z",
+  "model": "glm-5.3"
+}

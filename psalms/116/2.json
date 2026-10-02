@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Nĩgũkĩra ainiinĩtie gũtikũ kaye nakwa; na mĩthenya yakwa ĩmwe nĩngahoya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkĩra"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ainiinĩtie"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "gũtikũ kaye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "na mĩthenya yakwa ĩmwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩngahoya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:27.127588030Z",
+  "model": "glm-5.3"
+}

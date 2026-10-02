@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Abarahamu arĩ mũkaũ, anyĩte mĩthenya ya mĩarĩgũrũ; na Yahwe nĩramũgoikiye ⟨את⟩ Abarahamu thĩinĩ wa indo ciothe.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "arĩ mũkaũ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anyĩte"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mĩthenya ya mĩarĩgũrũ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nĩramũgoikiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa indo ciothe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:40:46.813851322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Ndimenya, na ndimaĩ bata; nĩgũkorwo nĩhĩrĩtwo kuona kwa macho mao, na kũmenya bata kwa ngoro ciao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mamenya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "maĩ bata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "טח",
+      "gloss": "nĩhĩrĩtwo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "kwa macho mao"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "kũmenya bata"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "ngoro ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:48:52.907631514Z",
+  "model": "glm-5.3"
+}

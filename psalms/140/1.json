@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Kũrĩa wanamũkĩra. Kĩimwe kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩa wanamũkĩra"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩimwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:28.490068727Z",
+  "model": "glm-5.3"
+}

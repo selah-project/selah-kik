@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na mũtarũ nĩũmĩte kuuma mũgĩcũhĩa kwa Yeşi, na mũcũmbe kuuma mĩrĩ yake nĩgũciĩra mbuto.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "na nĩatũũire"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "mũtarũ"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "kuuma mũgĩcũhĩa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "kwa Yeşi"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "na mũcũmbe"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "kuuma mĩrĩ yake"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "nĩgũciĩra mbuto"
+    }
+  ],
+  "timestamp": "2026-10-02T00:31:33.248203263Z",
+  "model": "glm-5.3"
+}

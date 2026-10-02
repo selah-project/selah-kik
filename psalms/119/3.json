@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "O na kũrĩ ũguo, matĩkũgĩa na wĩciu; njĩra ciake nĩcio mathiiagamo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "O na kũrĩ ũguo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matĩkũ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "gĩa na"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "wĩciu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "njĩra ciake"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mathiiagamo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:30.567764605Z",
+  "model": "glm-5.3"
+}

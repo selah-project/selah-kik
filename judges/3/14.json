@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ciana cia Yiceraeri cikĩhotora ⟨את⟩ Egironi, mwathi wa Moabu, mĩaka ikũmi na inyanya.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "cikĩhotora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egironi"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Egironi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "inyanya"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-01T22:58:04.129105839Z",
+  "model": "glm-5.3"
+}

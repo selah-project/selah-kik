@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Kwa mũneng'eria, harĩ ya Yedutuni; nĩ gĩcoko kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũneng'eria"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ ya"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "gĩcoko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:25.445632720Z",
+  "model": "glm-5.3"
+}

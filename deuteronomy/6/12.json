@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ĩrũraga rĩrĩ nĩgũũra ⟨את⟩ Yahwe, ũrĩa wakuunjĩire thĩ ya Micirayimu, nyũmba ya mũthingo.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ĩrũraga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rĩrĩ nĩgũũra"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nĩgũũra"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kũigua Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "wakuunjĩire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mũthingo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:29.963943947Z",
+  "model": "glm-5.3"
+}

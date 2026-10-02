@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Yahwe akiuga kĩa Moce: Mũnene ũmwe mũthenya ũmwe, mũnene ũmwe mũthenya ũmwe, nĩmakareha ⟨את⟩ kĩheo kĩao gũkĩa kwa mathabu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "Mũnene"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mũthenya ũmwe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mũnene ũmwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "—"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mũthenya ũmwe"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "nĩmakareha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo kĩao"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "kĩheo kĩao"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "gũkĩa kwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mathabu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:54:03.355988116Z",
+  "model": "glm-5.3"
+}

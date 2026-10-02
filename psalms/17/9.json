@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Kuuma thũinĩ wa arĩa mathĩni ⟨את⟩ ngoro yĩgũa ihũra; thũ cia amanyanĩru kuuma mwoyo iri mũgũnda ikaminie.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "kuuma thũinĩ wa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "aría mathĩni"
+    },
+    {
+      "surface": "זו",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "ngoro yĩgũa ihũra"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "thũ cia amanyanĩru"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kuuma mwoyo"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "iri mũgũnda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ikaminie"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:53.228826404Z",
+  "model": "glm-5.3"
+}

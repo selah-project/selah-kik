@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "No agĩtiga ⟨את⟩ mwarĩre wa akũrũ aría mamwarĩrire, agĩtonganĩra na ⟨את⟩ arũme a mĩriko aría makũrire ⟨את⟩ hamwe nake, arĩa maiguaga mbere yakwe.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "agĩtiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwarĩre wa akũrũ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "mwarĩre"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "wa akũrũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "mamwarĩrire"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "agĩtonganĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arũme a mĩriko"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "arũme a mĩriko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "makũrire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe nake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "arĩa maiguaga"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yakwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:11.435230069Z",
+  "model": "glm-5.3"
+}

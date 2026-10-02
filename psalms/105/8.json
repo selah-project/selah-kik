@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Nĩamemere tene na tene kĩrĩkanĩro gĩake, kĩugo kĩo athagĩtie kĩharo-inĩ kĩa mĩrongo kĩa ng'ano.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Nĩamemere"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kĩrĩkanĩro gĩake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩugo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kĩo athagĩtie"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "kĩharo-inĩ kĩa mĩrongo kĩa ng'ano"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ng'ano"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:04.191347776Z",
+  "model": "glm-5.3"
+}

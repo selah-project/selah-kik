@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na Yaakobu agĩendia thĩinĩ wa mũgoro wake, atĩmĩ a Erohimu nĩmaamũkũrire.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Na Yaakobu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "agĩendia"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "thĩinĩ wa mũgoro wake"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "nĩmaamũkũrire"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-mũ-"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "atĩmĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:48.262180231Z",
+  "model": "glm-5.3"
+}

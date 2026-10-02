@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nake akiuga: Nĩnie ndaagĩrire mwana kwa mwathi wakwa? Ndĩngĩkwĩra atĩ: Ũtikamũndũmĩrĩra?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "ndaagĩrire"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kwa mwathi wakwa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Ndĩngĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kwĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atĩ tĩ"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "kamũndũmĩrĩra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ni",
+      "marks": "ni (yendĩrire — 'ni')"
+    }
+  ],
+  "timestamp": "2026-10-02T00:09:30.969636462Z",
+  "model": "glm-5.3"
+}

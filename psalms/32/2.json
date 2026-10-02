@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Ũhoro mũkũĩku nĩ wa mũndũ Yahwe ndamũcikagĩrĩra kĩeha, na harĩ ruaki wakwe kũrirĩkana ũhihi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ũhoro mũkũĩku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "gũcikagĩrĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-mũ-"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kĩeha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na kũrirĩkana"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruaki wakwe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ũhihi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:11.593831325Z",
+  "model": "glm-5.3"
+}

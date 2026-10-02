@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Mwĩrĩgĩrĩirie-thĩinĩwawe, Yahwe, niĩ nĩngĩhoka; ndĩngĩcatũkire kuuma hĩndĩ iria ciothe; na thĩinĩ wa cedeki waku ũmũte.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "thĩinĩwawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nĩngĩhoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nĩngĩcatũkire"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuuma hĩndĩ iria ciothe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "thĩinĩ wa cedeki waku"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ũmũte"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:51.985797654Z",
+  "model": "glm-5.3"
+}

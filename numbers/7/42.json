@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mũthenya wa gatandatũ, mũthamaki wa ciana cia Gadi, Eriacapi mũrũ wa Deueri.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mũthenya wa"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "gatandatũ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ciana cia"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eriacapi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deueri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:19:29.920079152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 22:30",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na Pinihaci mũcirithi, na atong'ori a kĩama, na mĩtwe ya ngiri cia Yiceraeri aria ⟨את⟩ arĩ hamwe nake, magĩigua ⟨את⟩ ciugo icio aria ciana cia Reubeni, na ciana cia Gadi, na ciana cia Manaci maugĩte, na kĩu kĩneneetie meso mao.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "magĩigua"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinihaci"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũcirithi"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "na atong'ori a"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kĩama"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "na mĩtwe ya"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ngiri cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo icio"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo icio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ária"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "maugĩte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ciana cia"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ciana cia"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manaci"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "kĩneneetie"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "meso mao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:20.308056615Z",
+  "model": "glm-5.3"
+}

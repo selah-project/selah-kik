@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na mweru, nĩũiyũragĩria mweru; na mũndũ mũkũngũrũrio, nĩũnyitagĩria na kũngũrũrio.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "mweru"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "nĩũiyũragĩria mweru"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "mũkũngũrũrio"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "nĩũnyitagĩria na kũngũrũrio"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:05.016381995Z",
+  "model": "glm-5.3"
+}

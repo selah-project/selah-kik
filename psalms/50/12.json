@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Nĩngĩonania ndakwa, ndingĩkwĩra; nĩgũkorwo thĩ nĩ yakwa na ũcuanjĩre wayo wothe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nĩngĩonania"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ndakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndingĩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩ yakwa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "na ũcuanjĩre wayo wothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:46.044020804Z",
+  "model": "glm-5.3"
+}

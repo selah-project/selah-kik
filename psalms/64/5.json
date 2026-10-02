@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Gũcuna mbați thĩinĩ wa mahenia mũtheru; magĩcuna ithemba, na matiigua kĩeha.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "gũcuna mbați"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "thĩinĩ wa mahenia"
+    },
+    {
+      "surface": "תם",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ithemba"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "magĩcuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matiĩ"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "kũigua kĩeha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:14.750363325Z",
+  "model": "glm-5.3"
+}

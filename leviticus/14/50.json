@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na akainjia ⟨את⟩ cipurũ ĩmwe thĩinĩ wa kĩrĩtu kĩa thagana, igũrũ rĩa mairũ ma ũcuuba.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "akainjia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cipurũ ĩmwe"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "cipurũ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kĩrĩtu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "kĩa thagana"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mairũ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ma ũcuuba"
+    }
+  ],
+  "timestamp": "2026-10-01T21:36:39.946781949Z",
+  "model": "glm-5.3"
+}

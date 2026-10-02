@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na arũmi macio nĩmahũthĩkire mũcingĩrĩre mũru, na aciarie mũrũ, na kĩndũ gĩtĩga mũkonĩ mwake.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "nĩmahũthĩkire"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "arũmi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "macio"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "mũcingĩrĩre-inĩ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mũru"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "naciairie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mũkonĩ mwake"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kĩndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:18.170557699Z",
+  "model": "glm-5.3"
+}

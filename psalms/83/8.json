@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Gebaru na Amoni na Amareki,Pereseti hamwe na a ikarĩri a Curi.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebaru"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "na Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "na Amareki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pereseti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "a ikarĩri"
+    },
+    {
+      "surface": "צור",
+      "gloss": "a Curi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:28.696736112Z",
+  "model": "glm-5.3"
+}

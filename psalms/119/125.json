@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩ mũtumia waku; nĩndũmenyeke, wee, nĩngeetha manya ⟨⟨ihota⟩⟩ ciaku.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "nĩndũmenyeke"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "na nĩnganyĩre"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ihota ciaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:39.548793745Z",
+  "model": "glm-5.3"
+}

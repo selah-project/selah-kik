@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ti gũrũagwo na unyuuru; kĩgĩrĩ kĩao ndĩheire ⟨את⟩ kĩu kuuma heo cia mwaki cĩakwa; mũtheru wa mathutheru nĩuo, ta Hatat na ta Acam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "gũrũagwo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "unyuuru"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "kĩgĩrĩ kĩao"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndĩheire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kĩu"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "kuuma heo cia mwaki cĩakwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wa mathutheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩuo"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "ta Hatat"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "na ta Acam"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:36.068067709Z",
+  "model": "glm-5.3"
+}

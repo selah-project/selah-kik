@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩi nĩnjũĩcie nyambura-inĩ, bũrũri-inĩ wa kũomeha kũnene.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩi nĩnjũĩcie"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "nĩnjũĩcie"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nyambura-inĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "wa kũomeha kũnene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:20:57.673665193Z",
+  "model": "glm-5.3"
+}

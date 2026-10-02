@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na mũthenya ũngĩ, Moce aamenyete gũciira ⟨את⟩ andũ, na andũ maayĩmirĩte hakuhĩ na Moce, kuuma kĩambĩrĩria kĩa mũthenya gĩkinya mũthia wakĩo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na mũthenya ũngĩ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mũthenya ũngĩ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aamenyete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "gũciira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na maayĩmirĩte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kĩambĩrĩria kĩa mũthenya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkinya"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mũthia wa mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:03.247432296Z",
+  "model": "glm-5.3"
+}

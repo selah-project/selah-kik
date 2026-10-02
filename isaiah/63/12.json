@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 63:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Ũrĩa watarĩirie na kũmoonyo kwĩga kwa Moce moko-inĩ wa kĩhooti wake, ũgatereta maaĩ kuma mbere ciao, agĩkora kwe rĩĩtwa kwa ithĩranĩ?",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "watarĩirie"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "kũmoonyo kwĩga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kwa Moce"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "moko"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "wa kĩhooti wake"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ũgatereta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kuma mbere ciao"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "agĩkora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kwa ithĩranĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:54:58.181990428Z",
+  "model": "glm-5.3"
+}

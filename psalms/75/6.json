@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Mũtikahũgũrũre ⟨את⟩ mwena-inĩ wanyu wa gũthinga igũrũ rĩa njamba; mũtikahũra maũndũ na ithingo ikuhĩte.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mũtika"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "hũgũrũre"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "igũrũ rĩa njamba"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "mwena-inĩ wanyu wa gũthinga"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "mũtikahũra maũndũ"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "na ithingo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ikuhĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:50.781489741Z",
+  "model": "glm-5.3"
+}

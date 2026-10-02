@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ari a Aharoni nĩmaheire ⟨את⟩ cĩĩ cia ngũrũro: ⟨את⟩ Heberoni, na ⟨את⟩ Ribinah na ⟨את⟩ mĩgirũci yayo, na ⟨את⟩ Yatiri, na ⟨את⟩ Ectemoa na ⟨את⟩ mĩgirũci yayo.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "na ari a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nĩmaheire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cĩĩ cia ngũrũro"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cĩĩ"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "cia ngũrũro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heberoni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Heberoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ribinah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ribinah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgirũci yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mĩgirũci yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yatiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ectemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Ectemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgirũci yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mĩgirũci yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:51.164718936Z",
+  "model": "glm-5.3"
+}

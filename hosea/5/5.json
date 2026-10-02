@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na ũrathiini wa Yiceraeri nĩũrangĩre thĩinĩ wa ngũndũ ũrĩa mwĩhoke, na Yiceraeri na Eparayimu nĩmacetagwo nĩ ihĩtia ciacio; Yehuda nao nĩgũketagwo hamwe na macio.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "nĩũrangĩre"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ũrathiini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "thĩinĩ wa ngũndũ ũrĩa mwĩhoke"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Eparayimu"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "nĩmacetagwo"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "nĩ ihĩtia ciacio"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "nĩgũketagwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hamwe na macio"
+    }
+  ],
+  "timestamp": "2026-10-02T02:17:31.291610382Z",
+  "model": "glm-5.3"
+}

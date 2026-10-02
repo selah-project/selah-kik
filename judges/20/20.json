@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na andũ a Yiceraeri magĩtũma ita Beniyamini, na andũ a Yiceraeri makĩgũania ⟨אתם⟩ mahinda ma ita kũhinga Gibea.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "magĩtũma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ita-inĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rĩa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Beniyamini"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "makĩgũania"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "andũ a Beniyamini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mahinda ma ita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũhinga"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    }
+  ],
+  "timestamp": "2026-10-01T23:08:44.340038665Z",
+  "model": "glm-5.3"
+}

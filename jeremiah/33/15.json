@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 33:15",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mĩthenya ĩyo, na hĩndĩ ĩyo, nĩngĩemera Dawidi kĩgũci kĩa cedeki, na gĩkaanakĩra ciira na cedeki thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Mĩthenya ĩyo"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "na hĩndĩ ĩyo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "nĩngĩemera"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "kĩgũci"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kĩa cedeki"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na gĩkaanakĩra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:23:35.487180993Z",
+  "model": "glm-5.3"
+}

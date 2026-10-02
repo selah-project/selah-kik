@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩgetha Reu akĩtũara mĩaka ĩgĩrĩ na mĩrongo ĩtatũ, nĩamũciara ⟨את⟩ Cerugi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akĩtũara"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nĩamũciara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cerugi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Cerugi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:20.368568273Z",
+  "model": "glm-5.3"
+}

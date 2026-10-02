@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Yahwe nĩ hakuhĩ kũrĩ arĩa mahoyaga ⟨yakĩ⟩, kũrĩ arĩa othe mahoyaga ⟨yakĩ⟩ na ũtheri.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nĩ hakuhĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ arĩa othe"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "mahoyaga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ arĩa othe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "mahoyaga yakĩ"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "na ũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:49.699027404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na Yahwe nĩamũrire ⟨את⟩ mwathi wakwa mũno, nawe nĩatuĩte mũnene; nĩamũheire ng'ondu na ng'ombe, ithaanda na kahabu, atumia arume na atumia ake acio, ngamĩra na ndagũ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi wakwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "nawe nĩatuĩte mũnene"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nĩamũheire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ithaanda"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kahabu"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "atumia arume"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "atumia ake acio"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ngamĩra"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ndagũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:14.565362618Z",
+  "model": "glm-5.3"
+}

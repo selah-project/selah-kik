@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Nĩ ũndũ Farao akiuga na acake iria: Ciarĩ ciugo cia nyumu cianyu? Makĩcookerera kũrĩ Farao: Acozi a mbũri nĩ acũmarĩ awkwa, ithuĩ na marĩ a ithe ithuũ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "acake iria"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ciani"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "ciugo cia nyumu cianyu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩcookerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "acozi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "a mbũri"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "acũmarĩ awkwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "a ithe ithuũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:10:48.023356215Z",
+  "model": "glm-5.3"
+}

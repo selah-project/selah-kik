@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩndĩrĩ nĩngĩhũra, nĩgũkorwo ũngĩcookia mũgambo, Ere; thutha gũtũ kwaku thĩinĩ wakwa, ũthĩĩge ciugo ciakwa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩndĩrĩ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nĩngĩhũra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ũngĩcookia mũgambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "הט",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gũtũ kwaku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ũthĩĩge"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ciugo ciakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:28.709709972Z",
+  "model": "glm-5.3"
+}

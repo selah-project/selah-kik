@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Mwe nĩ andũ a macio maĩ, Yahwe oigĩte, na mũtarĩki wakwa ũrĩa nthakurĩte; nĩgeetha mũmenye, na mũnyitanĩrie nĩndĩ, na mũyĩke atĩ nĩĩ ndĩ; mbere yakwa ti Ere ya kuumbwo; na thutha wakwa tigatũũka ũndũ.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "andũ a macio maĩ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "na mũtarĩki wakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nthakurĩte"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "mũmenye"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "na mũnyitanĩrie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "na mũyĩke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "ya kuumbwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na thutha wakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tũũka ũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:35.893954190Z",
+  "model": "glm-5.3"
+}

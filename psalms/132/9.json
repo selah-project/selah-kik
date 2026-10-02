@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "Makahani mako makengĩre cedeki, na arĩa me wendo wako nĩmakũiganĩra na gũkeno.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Makahani mako"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "makengĩre"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "arĩa me wendo wako"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nĩmakũiganĩra na gũkeno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:52.512941055Z",
+  "model": "glm-5.3"
+}

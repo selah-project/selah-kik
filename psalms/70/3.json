@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 70,
+  "translation": "Magĩrwo nĩ kũmenewa na kũirwo nĩ thĩni arĩa moigĩte barĩkĩtie mũoyo wakwa; matũũre thutha magĩrwo nĩ kũnyamarara arĩa mamendarĩte mbĩa yakwa.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "magĩrwo nĩ kũmenewa"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "na kũirwo nĩ thĩni"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arĩa barĩkĩtie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "matũũre thutha"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "magĩrwo nĩ kũnyamarara"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "arĩa mamendarĩte"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mbĩa yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:35.956183868Z",
+  "model": "glm-5.3"
+}

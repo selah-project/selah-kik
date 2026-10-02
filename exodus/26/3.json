@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ngiri ithano ciakoragwo cĩhuranĩte ĩmwe na mwarah wake, na ithano ingĩ cĩhuranĩte ĩmwe na mwarah wake.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "Ngiri"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ciakoragwo"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "cĩhuranĩte"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "mwarah wake"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ithano ingĩ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "cĩhuranĩte"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "cĩhuranĩte"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "mwarah wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:41.504612746Z",
+  "model": "glm-5.3"
+}

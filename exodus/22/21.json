@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Mũthũri o wothe na mũciari wa ithe, ndĩmũkahũthagia.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mũthũri"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "na mũciari wa ithe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "mũkahũthagia"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:16.386727339Z",
+  "model": "glm-5.3"
+}

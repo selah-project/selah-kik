@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 68:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Mĩa mũrĩthĩnjia mĩrĩma ya minja? Mũrĩma ũyũ Erohimu anendete gũikara ho; rwĩmbo na Yahwe agĩkĩikara hau tene na tene.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mĩa"
+    },
+    {
+      "surface": "תרצדון",
+      "gloss": "mũrĩthĩnjia"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mĩrĩma"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ya minja"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mũrĩma ũyũ"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "anendete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לשבתו",
+      "gloss": "gũikara ho"
+    },
+    {
+      "surface": "אף",
+      "gloss": "rwĩmbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "agĩkĩikara"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:41.966818484Z",
+  "model": "glm-5.3"
+}

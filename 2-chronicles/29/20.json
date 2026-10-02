@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na Hizikiahu mũthamaki aikarĩgĩra kĩenjĩ, akĩrũmĩrĩria ⟨את⟩ athamaki a mwĩrigwi, na akĩrũa nyũmba ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "aikarĩgĩra kĩenjĩ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizikiahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akĩrũmĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athamaki a mwĩrigwi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mwĩrigwi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akĩrũa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:59:21.209609308Z",
+  "model": "glm-5.3"
+}

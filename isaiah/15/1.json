@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Masa ya Moabu: nĩ ũgũthĩ kwa ũtuku Ari ya Moabu yaingĩtwo, na yĩhoro; nĩ ũgũthĩ kwa ũtuku Kiri ya Moabu yaingĩtwo, na yĩhoro.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ũgũthĩ kwa ũtuku"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yaingĩtwo"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "yĩhoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ũgũthĩ kwa ũtuku"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yaingĩtwo"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kiri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "yĩhoro"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:55.405879939Z",
+  "model": "glm-5.3"
+}

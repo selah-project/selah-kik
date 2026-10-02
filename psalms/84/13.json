@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Yahwe Cebaoti, ũkwendeka gw'ũndũ mũndũ ũhothĩte wega akĩhĩtahĩtie wĩĩ nawe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ũkwendeka gw'ũndũ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ũhothĩte wega akĩhĩtahĩtie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wĩĩ nawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:50.435700413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Erohimu anyonire ⟨את⟩ ciana cia Yiceraeri, na Erohimu nĩamenire.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anyonire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "nĩamenire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:57:50.182086597Z",
+  "model": "glm-5.3"
+}

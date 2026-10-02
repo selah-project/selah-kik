@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Moko wakwa nĩũkahĩtaga hakuhĩ nawe; na kooko yakwa nĩĩkamũhoota hinya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moko wakwa"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "nĩũkahĩtaga hakuhĩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "kooko yakwa"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "nĩĩkamũhoota hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:05.973379169Z",
+  "model": "glm-5.3"
+}

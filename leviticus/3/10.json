@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ nyungu igĩrĩ, na ⟨את⟩ mafuta arĩa mayo, arĩa merĩ thĩinĩ wa hinga, na ⟨את⟩ kĩgĩrĩ kĩrĩa kĩrĩ igũrũ wa igicũ, hamwe na nyungu agĩkamura.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyungu igĩrĩ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nyungu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "mayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "merĩ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "hinga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgĩrĩ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "kĩgĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kĩrĩ igũrũ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "igicũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nyungu"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "agĩkamura"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:12.258607037Z",
+  "model": "glm-5.3"
+}

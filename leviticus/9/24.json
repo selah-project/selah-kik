@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na mũaki waitĩire kuuma mbere ya Yahwe, ũkahĩa itaara-inĩ ⟨את⟩ cihĩa na ⟨את⟩ mafuta ma wonjoria; na andũ othe maona, magĩreta mũgambo, makagwa magĩkoma ndũrũ ciao.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "waitĩire"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ũkahĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "itaara-inĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "itaara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihĩa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "cihĩa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ma wonjoria"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta ma wonjoria"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "maona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "magĩreta mũgambo"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "makagwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "magĩkoma"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ndũrũ ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:11.479837705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kĩng'arĩro kĩa magũrũ makwa nĩ Kiugo kwako, na ũtheri kĩanja-inĩ gĩakwa.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "kĩng'arĩro"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "kĩa magũrũ makwa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Kiugo kwako"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "na ũtheri"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "kĩanja-inĩ gĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:35.629508272Z",
+  "model": "glm-5.3"
+}

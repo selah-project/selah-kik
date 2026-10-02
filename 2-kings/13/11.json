@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na akĩgĩta ⟨את⟩ ũrĩa mwĩrũ thĩinĩ wa maitho ma Yahwe; ndaahũrũkire kuma thĩinĩ wa mahĩtia othe a Yiroboamu mũrũ wa Nebati, ũrĩa watũmire ⟨את⟩ Yiceraeri ihĩtũkia; mĩno nĩacio aoĩtekayo.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "akĩgĩta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ũrĩa mwĩrũ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "aahũrũkire"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuma thĩinĩ wa othe"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "a Yiroboamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "watũmire ihĩtũkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mĩno"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nĩaoĩtekayo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:30.513165910Z",
+  "model": "glm-5.3"
+}

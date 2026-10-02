@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Ithaa na ithaa ithiĩna, efa na efa ithiĩna — ibiri-inĩ cia cio nĩ ibonyi njũru cia Yahwe.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ithaa"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na ithaa ithiĩna"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "na efa ithiĩna"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "nĩ ibonyi njũru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o ciothe"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ibiri-inĩ cia cio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:56:24.458643433Z",
+  "model": "glm-5.3"
+}

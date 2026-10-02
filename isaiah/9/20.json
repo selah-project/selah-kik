@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Manace atũire ⟨את⟩ Efurayimu, na Efurayimu atũire ⟨את⟩ Manace; ũmwe-wa-kũu hamwe magĩrĩire Yahuda. Nginya maũndũ macio othe, thĩĩ ya Yahwe ntĩookire, na mkono wake nĩgũtikũo kwa kũgĩa gatĩrĩirie.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Manace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efurayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efurayimu"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "na Efurayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manace"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manace"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "magĩrĩire"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Nginya maũndũ macio othe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ntĩ-"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ookire"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "thĩĩ ya Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "na nĩgũtikũo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "gatĩrĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:28.125990480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "No tu thĩinĩ wa Tora ya Yahwe nĩkĩo kĩenda gĩake, na Tora yake amamũrira hĩndĩ ciothe mũthenya na ũgũrũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "thĩinĩ wa Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "kĩenda gĩake"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "na Tora yake"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "amamũrira"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na ũgũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:19.694689709Z",
+  "model": "glm-5.3"
+}

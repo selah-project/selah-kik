@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Aninungũrire ⟨את⟩ mĩena ciacio ĩkaŵa thagana, na akĩhũra ⟨את⟩ thĩcia cia mĩroro yao.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "aninungũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩena ciacio"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "mĩena ciacio"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ĩkaŵa thagana"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akĩhũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩcia cia mĩroro yao"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "thĩcia cia mĩroro yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:37.239420552Z",
+  "model": "glm-5.3"
+}

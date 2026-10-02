@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 87,
+  "translation": "Ciani cia Korachi — kĩimbo, ngwĩra. Kĩrĩgĩro kĩayo kĩarĩ milima-inĩ ya ũtheru.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ciani cia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ngwĩra"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "kĩrĩgĩro kĩayo"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "milima-inĩ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:38.480344093Z",
+  "model": "glm-5.3"
+}

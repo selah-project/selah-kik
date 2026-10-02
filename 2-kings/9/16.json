@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yehu agĩwaya na gari rĩa ng'ombe, agĩthĩĩ Yizereeri; nĩgũkorwo Yoramu aarĩ oigire kuo. Na Ahaziahu mũthamaki wa Yehuda arĩĩtheri kũona ⟨את⟩ Yoramu.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "agĩwaya na gari"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agĩthĩĩ"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizereeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoramu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "aarĩ oigire"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "na Ahaziahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "arĩĩtheri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoramu"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoramu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:57.560740960Z",
+  "model": "glm-5.3"
+}

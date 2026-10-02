@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Nĩmatũire ⟨את⟩ mwerũ wa efode, wa maũndũ ma mũthembi, tekeleti yothe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩmatũire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwerũ wa efode"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mwerũ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "wa efode"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wa maũndũ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ma mũthembi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekeleti"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:48.276691105Z",
+  "model": "glm-5.3"
+}

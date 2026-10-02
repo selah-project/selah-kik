@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩ mwega kwĩhumbana ngoro hamwe na ⟨את⟩ arĩa mahĩnĩka, kũgeria gũcatanĩra ⟨את⟩ ĩhoa hamwe na arĩa mei.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ mwega"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "kwĩhumbana ngoro"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mahĩnĩka"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "arĩa mahĩnĩka"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "gũcatanĩra"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ĩhoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ĩhoa"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "arĩa mei"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:45.748079359Z",
+  "model": "glm-5.3"
+}

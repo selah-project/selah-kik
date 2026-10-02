@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "na aere kĩyũruro kĩa ⟨את⟩ mĩaka ya gũgũro kĩu, na ahoirie ⟨את⟩ kĩrĩa kĩingĩhĩtie mũndũ ũrĩa agũrire nakĩe, na agocoke kĩraya kĩake.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "na aere kĩyũruro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩaka ya gũgũro kĩu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "ya gũgũro kĩu"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na ahoirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩa kĩingĩhĩtie"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "kĩrĩa kĩingĩhĩtie"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "agũrire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nakĩe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na agocoke"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "kĩraya kĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:43.144175792Z",
+  "model": "glm-5.3"
+}

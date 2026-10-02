@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Periciti nĩmakĩrũmĩririe, magĩcooka magĩcenja Cunemu; Cauri akĩrũmĩriria ⟨את⟩ Yiceraeri othe, makĩcenja Giriboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nĩmakĩrũmĩririe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Periciti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "magĩcooka"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "magĩcenja"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Cunemu"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "akĩrũmĩriria"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "makĩcenja"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Giriboa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:39.495665351Z",
+  "model": "glm-5.3"
+}

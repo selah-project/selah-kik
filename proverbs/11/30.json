@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Mbembe ya mũthingu nĩ mutĩ wa miaka; na ũrĩa wonanagira nĩgua nĩ mũmenyerenu.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya mũthingu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mutĩ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa miaka"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "na ũrĩa wonanagira"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nĩgua"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nĩ mũmenyerenu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:51:07.279305639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "O ũrĩa ũthiagathĩra mĩgũa ya kũhĩga kwake harĩ maĩ, o ũrĩa ũcookia mbura kuuma igũrũ ta ngari yake, na ũrĩa ũthereraga harĩ kahũa ka ruaki.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "O ũrĩa ũthiagathĩra mĩgũa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "harĩ maĩ"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "ya kũhĩga kwake"
+    },
+    {
+      "surface": "השם",
+      "gloss": "o ũrĩa ũcookia"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "mbura"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "ta ngari yake"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "na ũrĩa ũthereraga"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "kahũa ka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:06.318033548Z",
+  "model": "glm-5.3"
+}

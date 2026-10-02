@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Mũcuba wao nĩ ta mũcuba wa njoka, ta cobra ya tuguru ĩnyitagĩrĩra guoya kwayo.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "mũcuba"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wao"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "nĩ ta"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mũcuba"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "cobra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ya tuguru"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ĩnyitagĩrĩra"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "guoya kwayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:13.036157522Z",
+  "model": "glm-5.3"
+}

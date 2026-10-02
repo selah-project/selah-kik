@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Kiugo kĩhanyu kĩa Baberi, ũrĩa Yecayahu mwana wa Amoti aonire.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "kiugo kĩhanyu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baberi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "aonire"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoti"
+    }
+  ],
+  "timestamp": "2026-10-02T00:31:34.642516804Z",
+  "model": "glm-5.3"
+}

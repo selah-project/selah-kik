@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Icio twagĩigua nao twamanyĩ; na acĩa-itu makĩhootora ithũĩ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Icio"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "twagĩigua"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "nao twamanyĩ"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "na acĩa-itu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "makĩhootora"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithũĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:31.626980144Z",
+  "model": "glm-5.3"
+}

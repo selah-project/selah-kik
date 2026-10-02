@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na akarĩa ⟨את⟩ kĩng'ethĩrio kĩa keheni, na ⟨את⟩ kĩĩgĩrĩ kĩayo kĩa keheni, na mirongo ya andũ-a-aru cia arũme-akeru arĩa maarũmagĩrĩre mweremo-inĩ wa hema ya kũhĩrĩria.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akarĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩng'ethĩrio"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kĩng'ethĩrio"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kĩa keheni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩĩgĩrĩ kĩayo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kĩĩgĩrĩ kĩayo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kĩa keheni"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "na mirongo"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "andũ-a-aru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "maarũmagĩrĩre"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mweremo-inĩ wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhĩrĩria"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:04.294098356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na mũthenya wa gwanja, wa gũtherio kwake, ndakĩmana kũrĩ mũthambi, kũrĩ mũrango wa hema ya kũonana, mbere ya Yahwe ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "darĩkũmana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kĩheo icio"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wa gwanja"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "wa gũtherio kwake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthambi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũonana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:37:50.096744239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩgũkorwa mĩthũ ĩgũrũ rĩaku yĩmũkĩte mbara-inĩ yaku, na ĩgũkĩrĩra igũrũ rĩaku java rĩaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mĩthũ ĩgũrũ rĩaku"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "yĩmũkĩte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mbara-inĩ yaku"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "na ĩgũkĩrĩra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "java rĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:15.327869197Z",
+  "model": "glm-5.3"
+}

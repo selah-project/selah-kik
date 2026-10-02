@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩgũkoruo mũcuranji wao arĩ mũnene wa hinya, nĩwe ũngĩhotania ⟨את⟩ ciĩra ciao ⟨את⟩ na we.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mũcuranji wao"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mũnene wa hinya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ũngĩhotania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩra ciao"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ciĩra ciao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na we"
+    }
+  ],
+  "timestamp": "2026-10-02T03:59:03.211551695Z",
+  "model": "glm-5.3"
+}

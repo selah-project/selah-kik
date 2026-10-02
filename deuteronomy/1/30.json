@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Yahwe Erohimu wanyu, ũrĩa ũthiĩ mbere yanyu, nĩwe ũgũkũhana mbaara inĩ, ta wega wothe ũrĩa waakorire inĩ ⟨את⟩ thĩinĩ wa Micirayimu, machoni maku mose.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ũrĩa ũthiĩ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbere yanyu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "gũkũhana mbaara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ta wega wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waakorire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inĩ",
+      "marks": "inĩ (nĩindo ya andũ athomagio)"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micirayimu-inĩ"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "machoni maku mose"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:51.834855296Z",
+  "model": "glm-5.3"
+}

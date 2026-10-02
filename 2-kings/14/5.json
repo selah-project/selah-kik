@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Ikũrĩa rĩrĩa ũthamaki wĩrahotorie moko-inĩ make, Amacia nĩamũkire ⟨את⟩ atũmia ake arĩa mainĩire ⟨את⟩ mũthamaki ithe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ikũrĩa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wĩrahotorie"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko-inĩ make"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nĩamũkire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atũmia ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atũmia ake"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "arĩa mainĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki ithe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:15:59.912917403Z",
+  "model": "glm-5.3"
+}

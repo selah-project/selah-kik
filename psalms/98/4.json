@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 98,
+  "translation": "Rĩringa kwa Yahwe, thĩ yothe; ũrĩringĩre kũigua njoka na kũina na kũĩmba.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "rĩringa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ũrĩringĩre"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "kũigua njoka"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "na kũĩmba"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:42.144765394Z",
+  "model": "glm-5.3"
+}

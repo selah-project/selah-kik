@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Ĩhĩrĩranĩ ciigũrũ, nĩngũrora, na thĩ ĩigua ciugo cia kanua wakwa.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Ĩhĩrĩranĩ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ciigũrũ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "nĩngũrora"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ĩigua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua wakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T22:37:19.413853601Z",
+  "model": "glm-5.3"
+}

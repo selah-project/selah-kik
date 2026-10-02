@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Ha Yahwe ũtheri wa rĩĩtwa rakĩo; igĩrĩra minaha, na ũkai thĩinĩ wa macara make.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rakĩo"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "igĩrĩra"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "na ũkai"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "thĩinĩ wa macara make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:14.755825951Z",
+  "model": "glm-5.3"
+}

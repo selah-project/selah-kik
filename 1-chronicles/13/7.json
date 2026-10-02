@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Magĩcokia ⟨את⟩ aruni ya Erohimu igũrũ wa gari njerũ, kuuma nyũmba ya Abinadabu; na Uza na mũrũ wa nyina wake maarĩ ndaarĩga gari ĩyo.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "magĩcokia igũrũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aruni ya Erohimu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aruni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "gari"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "njerũ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma nyũmba ya"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabu"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "na Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "na mũrũ wa nyina wake"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "maarĩ ndaarĩga"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "gari ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:30:22.509048223Z",
+  "model": "glm-5.3"
+}

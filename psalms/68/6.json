@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Ĩthe wa iyathomi na mũira wa ciira wa akĩhumio ⟨nĩ⟩ Erohimu, ũrĩa ũikaraga thĩinĩ wa mũciĩ ũtheru wake.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Ĩthe wa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "iyathomi"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "na mũira wa ciira"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "akĩhumio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "thĩinĩ wa mũciĩ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ũtheru wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:12.721989948Z",
+  "model": "glm-5.3"
+}

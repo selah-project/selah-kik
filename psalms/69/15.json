@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Nduria kuuma dingiti-inĩ, ngoro ndĩkahũre; nĩhonokio kuuma arĩa makamenenda na kuuma mĩena mĩnene ya maaĩ.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "nduria"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "kuuma dingiti-inĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ndĩkahũre"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "nĩhonokio"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kuuma arĩa makamenenda"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "na kuuma mĩena mĩnene"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:35.912668098Z",
+  "model": "glm-5.3"
+}

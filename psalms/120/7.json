@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 120,
+  "translation": "Nĩnĩ ndĩ wa theri; no rĩrĩa ndĩŋĩra ũhoro, macio nĩmakeire mbaara.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩnĩ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa theri"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "no rĩrĩa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndĩŋĩra ũhoro"
+    },
+    {
+      "surface": "המה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "nĩmakeire mbaara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:31.771859631Z",
+  "model": "glm-5.3"
+}

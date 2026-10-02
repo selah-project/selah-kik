@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na thutha wa mĩthenya ĩrĩ ikũmi na inyanya ĩrĩ, Nocii atiguũrire ⟨את⟩ diranda ya itie irĩa ayombete.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na thutha wa"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "thutha wa mĩthenya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ĩrĩ ikũmi na inyanya ĩrĩ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "atiguũrire"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nocii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diranda"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "diranda"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ya itie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayombete"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:02.604671448Z",
+  "model": "glm-5.3"
+}

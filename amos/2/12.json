@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũkahenia anaziri ⟨את⟩ waini, na mũkacĩhĩtie arathi mũgoa atĩrĩ: Mũtikũratha.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "mũkahenia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "anaziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "arathi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "mũkacĩhĩtie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mũgoa atĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mũti"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "kũratha"
+    }
+  ],
+  "timestamp": "2026-10-02T02:23:58.963212604Z",
+  "model": "glm-5.3"
+}

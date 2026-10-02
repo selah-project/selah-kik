@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mutĩkwendete kwĩrĩga, na nĩmũhĩtũkĩte ⟨את⟩ kanua ka Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na mutĩ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kwendete"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "kwĩrĩga"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "nĩmũhĩtũkĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanua ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:17:37.644875145Z",
+  "model": "glm-5.3"
+}

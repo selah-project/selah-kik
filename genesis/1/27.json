@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu nĩombire ⟨את⟩ mũndũ mwĩhianĩre wayo; mwĩhianĩre wa Erohimu nĩmuombire ⟨את⟩; mũndũ-rũme na mũndũ-ka nĩmaombire ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "mwĩhianĩre wayo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "mwĩhianĩre wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nĩmuombire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mũndũ-rũme"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "na mũndũ-ka"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nĩmaombire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:40.060836414Z",
+  "model": "glm-5.3"
+}

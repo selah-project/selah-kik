@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 110,
+  "translation": "Adonai rĩa kwoyo kwako; nĩahunjurire ⟨the⟩ athamaki mũthenya-inĩ wa mũrico wake.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kwoyo kwako"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "nĩahunjurire"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ wa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mũrico wake"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:03.583807933Z",
+  "model": "glm-5.3"
+}

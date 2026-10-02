@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Ũendete kĩoya kũgera kĩa wega, kĩhoya kũgera kũratha cedeki. Ceraha.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Ũendete"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kĩoya"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kũgera kĩa wega"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kĩhoya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kũgera kũratha"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ceraha"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:55.104825632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Yocifu akĩũmbũka harĩ macio kuma mũciĩ, akĩrora ⟨את⟩ macio, na rũciarũ — nĩmathĩnĩ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩũmbũka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "harĩ macio"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocifu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kuma mũciĩ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akĩrora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "na rũciarũ"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "nĩmathĩnĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:06.107980269Z",
+  "model": "glm-5.3"
+}

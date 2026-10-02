@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Nĩũ ũrĩa wendekĩte na wakĩĩte, oigĩte mĩrĩango ya mĩthango kuuma mbere? Nĩ nĩ, Yahwe, wa mbere, na ⟨את⟩ arĩa mambele Nĩ nĩ We.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nĩũ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "wendekĩte"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wakĩĩte"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "mĩrĩango ya mĩthango"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kuuma mbere"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nĩ nĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mambele"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "arĩa mambele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nĩ nĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "We"
+    }
+  ],
+  "timestamp": "2026-10-02T00:46:45.082938878Z",
+  "model": "glm-5.3"
+}

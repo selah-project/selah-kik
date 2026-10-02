@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Arokore minaha yaku yothe, na oraha yaku aĩke ũtheri wayo, Ceraha.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Arokore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "minaha yaku"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "na oraha yaku"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "aĩke ũtheri wayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ceraha"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:44.209999822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩngĩmenya kűgerera arĩa methamakĩte mĩaka mĩnene; nĩgũkorwo amabara yaku nĩngĩĩrĩragĩrĩra.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kűgerera arĩa methamakĩte mĩaka mĩnene"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nĩngĩmenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "amabara yaku"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "nĩngĩĩrĩragĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:25.349292869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Nĩagĩrĩire ⟨את⟩ thĩ thĩinĩ wa mĩthingi yayo; itĩkĩrĩka atĩ nĩgũtetereka tene na tene.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "nĩagĩrĩire"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "mĩthingi yayo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "itĩkĩrĩka atĩ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "nĩgũtetereka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:43.140052563Z",
+  "model": "glm-5.3"
+}

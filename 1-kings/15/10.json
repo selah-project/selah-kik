@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na mĩaka ĩrĩ na ĩmwe anathamaka Yerucarayimu; na rĩĩtwa rĩa nyina ⟨nĩ⟩ Maaka, mũirĩtu wa Abicalomu.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Na mĩaka ĩrĩ"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "na ĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anathamaka"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "rĩa nyina"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũirĩtu wa"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abicalomu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:32:43.322661892Z",
+  "model": "glm-5.3"
+}

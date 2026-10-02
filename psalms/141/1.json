@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 141,
+  "translation": "Kĩrĩra kĩa Dawidi. Yahwe, nĩngũkũhiitithia; ũmũhĩrie naku; thikĩrira mũgambo wakwa rĩrĩa ndĩkũhiitithia.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "kĩrĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nĩngũkũhiitithia"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ũmũhĩrie naku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "naku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "thikĩrira"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "rĩrĩa ndĩkũhiitithia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:02.401283243Z",
+  "model": "glm-5.3"
+}

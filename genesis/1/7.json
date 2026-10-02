@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgo Erohimu ambĩrire ⟨את⟩ gĩtheremo kĩa igũrũ, nĩgatũanagĩra gatagatĩ ka maaĩ arĩa maarĩ thĩ ya gĩtheremo, na ka maaĩ arĩa maarĩ igũrũ rĩa gĩtheremo; nĩgwetĩkĩte ũguo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ambĩrire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩtheremo kĩa igũrũ"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "gĩtheremo kĩa igũrũ"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "agĩtũanagĩra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "gĩtheremo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na gatagatĩ ka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "gĩtheremo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgwetĩkĩte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:37.242974178Z",
+  "model": "glm-5.3"
+}

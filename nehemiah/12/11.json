@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Yoyada nĩamũrire ⟨את⟩ Yonatani; na Yonatani nĩamũrire ⟨את⟩ Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Na Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "na Yonatani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-10-02T05:17:48.265548506Z",
+  "model": "glm-5.3"
+}

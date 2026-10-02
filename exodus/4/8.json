@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na nĩgũkuona kana matihokĩte kũrĩ we, na matiigua mũgambo wa kĩondeo gĩa mbere, nĩmakĩhokĩra mũgambo wa kĩondeo gĩa gĩthutha.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "nĩgũkuona"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יַאֲמִינוּ",
+      "gloss": "matihokĩte"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "יִשְׁמְעוּ",
+      "gloss": "matiigua"
+    },
+    {
+      "surface": "לְקוֹל",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "הָאֹת",
+      "gloss": "kĩondeo"
+    },
+    {
+      "surface": "הָרִאשׁוֹן",
+      "gloss": "gĩa mbere"
+    },
+    {
+      "surface": "וְהֶאֱמִינוּ",
+      "gloss": "nĩmakĩhokĩra"
+    },
+    {
+      "surface": "לְקוֹל",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "הָאֹת",
+      "gloss": "kĩondeo"
+    },
+    {
+      "surface": "הָאַחֲרוֹן",
+      "gloss": "gĩa gĩthutha"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:27.954109948Z",
+  "model": "glm-5.3"
+}

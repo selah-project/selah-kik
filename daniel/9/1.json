@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 9:1",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Mwaka-inĩ wa ĩmwe wa Darayiwo, mũrũ wa Ahacuerochi, wa iria ya Madayi, ũrĩa atwarĩiriokuo ethamaki igũrũ rĩa thambo ya Kacadimi,",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka-inĩ wa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "wa Darayiwo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahacuerochi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wa iria ya"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "atwarĩiriokuo ethamaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "thambo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ya Kacadimi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:58:25.969358714Z",
+  "model": "glm-5.3"
+}

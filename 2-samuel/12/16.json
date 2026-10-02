@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Dawidi agĩthinga ⟨את⟩ Erohimu nĩ ũndũ wa mũhana ũcio; Dawidi agĩikara ndĩahĩa kũría, agĩingĩra, agĩcenjerera, na agĩrĩra thĩ.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "agĩthinga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mũhana ũcio"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "agĩikara ndĩahĩa kũría"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kũría gũkũrũ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "agĩingĩra"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "agĩcenjerera"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "agĩrĩra"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:35:20.571523218Z",
+  "model": "glm-5.3"
+}

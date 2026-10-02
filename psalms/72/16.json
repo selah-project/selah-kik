@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Ĩkorwo na mĩgego ya mbembe thĩinĩ wa thĩ, mũguru-inĩ wa miima; matunda make marĩndũke ta Rebanoni, na mathũmbũre kuma gĩcũi ta mũrĩa wa thĩ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ĩkorwo"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "mĩgego"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa thĩ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "mũguru-inĩ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "wa miima"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "marĩndũke"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "ta Rebanoni"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "matunda make"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "na mathũmbũre"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kuma gĩcũi"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ta mũrĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:43.210923798Z",
+  "model": "glm-5.3"
+}

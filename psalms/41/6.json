@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Thũ ciakwa cĩugaga ũru hetĩ akuare, na rĩĩtwa rĩake rĩahĩtwo?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "thũ ciakwa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "cĩugaga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩrĩkwa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hetĩ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akuare"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "na rĩahĩtwo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:52.773142468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na kuuma mĩhere ya Binyamini, ⟨את⟩ Gibioni hamwe na magũrũragwo ake, ⟨את⟩ Geba hamwe na magũrũragwo ake.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na kuuma mĩhere ya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibioni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibioni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magũrũragwo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "magũrũragwo ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magũrũragwo ake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "magũrũragwo ake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:46.600849221Z",
+  "model": "glm-5.3"
+}

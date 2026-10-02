@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Tora ya kanua gaku nĩ yambĩrire kwandĩ kũgũra njĩga cia dahabu na feza.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ yambĩrire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandĩ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ya kanua gaku"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kũgũra njĩga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "na feza"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:32.525325482Z",
+  "model": "glm-5.3"
+}

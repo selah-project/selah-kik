@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Aana a andũ, thutha wa kĩingĩ woyo wakwa ũgĩtuĩka ithĩini? Nĩmwendete ũtheri, na nĩmũrokooria ũheni. Cela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩingĩ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "woyo wakwa"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "kĩgĩtuĩka ithĩini"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "nĩmwendete"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "nĩmũrokooria"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ũheni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cela"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:06.679022368Z",
+  "model": "glm-5.3"
+}

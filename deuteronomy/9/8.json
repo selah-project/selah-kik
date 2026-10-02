@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Horebi-inĩ nĩmũtũkĩrire ⟨את⟩ Yahwe, na Yahwe agĩkũciria nĩguo amũnyoomore ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Horebi-inĩ"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "nĩmũtũkĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "agĩkũciria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "wanyu"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "nĩguo amũnyoomore"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:04.031223568Z",
+  "model": "glm-5.3"
+}

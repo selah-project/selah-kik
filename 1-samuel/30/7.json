@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Dawidi nĩoigire kwa Ebiathari mũthanjĩri, mũri wa Ahimeleki, atĩrĩ: Nakwa, ũhũrithie efodi ĩngĩhakwa. Na Ebiathari nĩehuurithirie ⟨את⟩ efodi kwa Dawidi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩoigire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebiathari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjĩri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũri"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleki"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "ũhũrithie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩngĩhakwa"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "nĩehuurithirie"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebiathari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:02.408963895Z",
+  "model": "glm-5.3"
+}

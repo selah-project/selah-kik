@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Nĩgũkũrĩa nĩwe, ũkaĩte maũndũ ma kũigana; nĩwe Erohimu, we mwene wone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ũkaĩte"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "maũndũ ma kũigana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "we mwene wone"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:23.875332697Z",
+  "model": "glm-5.3"
+}

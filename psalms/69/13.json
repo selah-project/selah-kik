@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Arĩa moikaraga mbaria-inĩ makũra ũhoro wakwa; ndĩtwo kĩĩro kĩa arĩa minyumĩra ũtheewa.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "makũra ũhoro"
+    },
+    {
+      "surface": "בי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa moikaraga"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mbaria-inĩ"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "kĩĩro"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "arĩa minyumĩra"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ũtheewa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:35.907959854Z",
+  "model": "glm-5.3"
+}

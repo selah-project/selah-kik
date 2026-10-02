@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Thigĩri cia cimba na cia njoka nĩcĩokire handũ ha kũiga; cia cimba irĩa njorua na monjoro nĩcĩokire thĩ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "cimba"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "na njoka"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "nĩcĩokire handũ ha kũiga"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "nĩcĩokire thĩ"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "cimba irĩa njorua"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "na monjoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:38.150795787Z",
+  "model": "glm-5.3"
+}

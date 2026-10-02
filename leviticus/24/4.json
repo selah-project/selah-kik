@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Thutha wa mũgunĩko ũtheru, nĩarangĩrire amũ thiomi njirũ thĩinĩ, mbere ya Yahwe, ithĩĩro tu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "mũgunĩko"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "arangĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athiomi njirũ"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "athiomi njirũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ithĩĩro tu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:46.472212706Z",
+  "model": "glm-5.3"
+}

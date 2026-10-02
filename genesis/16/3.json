@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na Sarai, mũka wa Abaramu, atũire ⟨את⟩ Hagari wa Micirayimu, mũtumia wake, thutha wa mĩaka ikũmi ya Abaramu gwĩikara thĩinĩ wa bũrũri wa Kenani, na amũheire ⟨את⟩ Abaramu, mwana-wa-mwathani wake, we mũka wake.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "atũire"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũka wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abaramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagari"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagari"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ya gwĩikara"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abaramu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa bũrũri"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "wa Kenani"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "amũheire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Abaramu"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Abaramu"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mwana-wa-mwathani wake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mũka wake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:52.061917386Z",
+  "model": "glm-5.3"
+}

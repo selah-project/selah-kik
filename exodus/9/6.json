@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yahwe agĩkora ⟨את⟩ ũhoro ũyũ mũthenya ũrĩa ũkũgĩa, na ndũrũ ciothe cia Micirayimu ciakuĩte; no thĩinĩ wa ng'ombe cia ciana cia Yiceraeri, nĩya kuoneka ithie na ĩmwe kuora.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "agĩkora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mũthenya ũrĩa ũkũgĩa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ciakuĩte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ndũrũ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cia Micirayimu"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "no thĩinĩ wa ng'ombe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cia ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩya kuoneka"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuora"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ithie na ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:58.860093537Z",
+  "model": "glm-5.3"
+}

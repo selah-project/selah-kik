@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Moce na Aharoni nĩmanyitire ⟨את⟩ andũ acio arĩa maatĩrĩtwo mĩrata-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nĩmanyitire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ acio"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "maatĩrĩtwo"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "mĩrata-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:57.339966963Z",
+  "model": "glm-5.3"
+}

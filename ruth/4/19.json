@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Cetzeroni akĩciarĩra ⟨את⟩ Rami, na Rami akĩciarĩra ⟨את⟩ Aminadabi.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "na Cetzeroni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rami"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rami"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "na Rami"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabi"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:39.256720346Z",
+  "model": "glm-5.3"
+}

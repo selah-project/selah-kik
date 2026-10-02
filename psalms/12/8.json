@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "We, Yahwe, nĩũgĩcokĩria arĩa makuo; nĩũkahota me kuuma rũciaro ũrĩ-ũũ, kwa tene na tene.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "nĩũgĩcokĩria arĩa makuo"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "nĩũkahota me"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "rũciaro"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ũrĩ-ũũ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:02.346138730Z",
+  "model": "glm-5.3"
+}

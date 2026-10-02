@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Mahoya ma Dawidi mũrũ wa Yeci nĩmacĩirũo.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "nĩmacĩirũo"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "Mahoya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yeci"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:44.351540365Z",
+  "model": "glm-5.3"
+}

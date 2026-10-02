@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩgũkorũo arĩa mamenete nĩmagũrũtwo, na arĩa maũthĩkĩrĩra Yahwe, me nĩmathĩra ⟨thĩ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "arĩa mamenete"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "nĩmagũrũtwo"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "na arĩa maũthĩkĩrĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "me"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "nĩmathĩra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨thĩ⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:49.711054655Z",
+  "model": "glm-5.3"
+}

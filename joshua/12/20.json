@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mwathi wa Cimeroni-Meroni, ũmwe; mwathi wa Akecafi, ũmwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Cimeroni-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akecafi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:45:10.888065821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Hacuba, na Oheri, na Berekja, na Hacedaja, Yucab-hecedi — ithano.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "Na Hacuba"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "na Oheri"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "na Berekja"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "na Hacedaja"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Yucab-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:13.682499721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na nĩcibithage ⟨את⟩ yo na thahabu mĩtheru, na nĩthuthuthage kĩraya kĩa thahabu gĩikarĩirie kũnene kwayo.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "nĩcibithage"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yo (meza)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mĩtheru"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "nĩthuthuthage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kĩraya kĩa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kĩraya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gĩikarĩirie kũnene kwayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:41.452899913Z",
+  "model": "glm-5.3"
+}

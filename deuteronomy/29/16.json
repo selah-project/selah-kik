@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na nimwoone ⟨את⟩ maũndũ manini macio na ⟨את⟩ mĩhianano yacio — mũtĩ na jiĩ, fetha na thahabu — irĩa cĩaarĩ hamwe nacio.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "na nimwoone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maũndũ manini macio"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "maũndũ manini macio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩhianano yacio"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "mĩhianano yacio"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na jiĩ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fetha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "hamwe nacio"
+    }
+  ],
+  "timestamp": "2026-10-01T22:34:09.941877994Z",
+  "model": "glm-5.3"
+}

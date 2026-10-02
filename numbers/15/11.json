@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Ũguo nĩgũo gwĩkagwo wa ng'ombe ĩmwe, kana wa thimbirĩrĩ ĩmwe, kana wa mũrũgo wa kondogũ kana wa mbũri.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Ũguo nĩgũo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gwĩkagwo"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "wa thimbirĩrĩ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "wa mũrũgo"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "wa kondogũ"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "wa mbũri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:00:41.151226385Z",
+  "model": "glm-5.3"
+}

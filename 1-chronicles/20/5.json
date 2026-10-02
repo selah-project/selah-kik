@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na nĩkoragwo na mũthingũ ũngĩ ⟨את⟩ harĩ na Afilisti; na Erehanani mũrũ wa Yairi arwanitio ⟨את⟩ Rahami, mũrũ wa nyina wa Gariyati, wa Gati; na gĩcĩgo kĩa cĩeri yake kĩaigurũko ta mũromo wa arĩa morugi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "nĩkoragwo na"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mũthingũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ harĩ na",
+      "marks": "Afilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilisti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "arwanitio"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Erehanani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yairi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahami"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Rahami"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mũrũ wa nyina wa"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Gariyati"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Gati"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "na gĩcĩgo kĩa"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "cĩeri yake"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "ta mũromo wa"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "arĩa morugi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:31.983523224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩ ũndũ mũndũ ũrĩkũ ndarĩ woga wa Yahwe? O ũcio Yahwe amũrutanagĩra mũhĩca ũrĩa ũgĩcagĩra.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ũrĩkũ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ndarĩ woga wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "amũrutanagĩra"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mũhĩca"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ũrĩa ũgĩcagĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:13.440466125Z",
+  "model": "glm-5.3"
+}

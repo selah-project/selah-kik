@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 25:4",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Rĩrĩ, mũndũ angĩhoota cedeki nao Ere? Na rĩrĩ, mwarĩ wa mũka angĩtua mũtherũ atĩa?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "angĩhoota cedeki"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "angĩtua mũtherũ"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "mwarĩ wa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũka"
+    }
+  ],
+  "timestamp": "2026-10-02T04:16:20.595406926Z",
+  "model": "glm-5.3"
+}

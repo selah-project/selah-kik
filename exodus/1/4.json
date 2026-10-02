@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Dani, na Nafutari, Gadi, na Aceri.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "na Nafutari"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na Aceri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:17.948698046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ici nĩmarĩĩtwa ma ciana cia Aharoni: mũcyiaro-inĩ wambere Nadabi, na Abihua, Ereazari, na Yitimari.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ici"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "marĩĩtwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "mũcyiaro-inĩ wambere"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "na Abihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ereazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "na Yitimari"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:11.359011826Z",
+  "model": "glm-5.3"
+}

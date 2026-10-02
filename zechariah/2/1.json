@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ndĩĩthingie ⟨את⟩ maitho makwa, ndĩkaona, na rĩrĩ: iria inya.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Ndĩĩthingie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maitho makwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho makwa"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ndĩkaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "iria inya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:43:36.687441672Z",
+  "model": "glm-5.3"
+}

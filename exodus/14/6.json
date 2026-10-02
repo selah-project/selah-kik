@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Akagĩrĩria ⟨את⟩ gari lake gĩa ita, akaheo ⟨את⟩ andũ ake hamwe nake.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "akagĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gari lake gĩa ita"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "gari lake gĩa ita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ ake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akaheo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:37.824047139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ Oferi, na ⟨את⟩ Haviraha, na ⟨את⟩ Yobabi; aya othe nĩ ciana cia Yokatani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Oferi"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Oferi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haviraha"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Haviraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yobabi"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yokatani"
+    }
+  ],
+  "timestamp": "2026-10-02T07:08:57.623654762Z",
+  "model": "glm-5.3"
+}

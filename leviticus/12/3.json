@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na mũthenya wa kanyanya, nĩgũtuwo nyama ya kĩhamũ kĩake.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Na mũthenya wa"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kanyanya"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "nĩgũtuwo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ya kĩhamũ kĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:35:28.076149176Z",
+  "model": "glm-5.3"
+}

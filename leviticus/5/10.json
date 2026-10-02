@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na ⟨את⟩ ĩrĩa keerĩ nĩekaga heo ya kũhiũrwo ta ciira ĩrĩa yerekĩtwo; na mũthathaiya nĩhunganaga kũrĩ rĩrĩa, ethĩra kĩoco wake rĩrĩa oocire, na nĩehererio.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ĩrĩa keerĩ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ĩrĩa keerĩ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nĩekaga"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "heo ya kũhiũrwo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ta ciira"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "na nĩhunganaga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kũrĩ rĩrĩa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthathaiya"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ethĩra kĩoco wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "oocire"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "na nĩehererio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ rĩrĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:04.541387491Z",
+  "model": "glm-5.3"
+}

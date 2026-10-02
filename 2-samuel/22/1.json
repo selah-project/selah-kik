@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Dawidi akarĩra kwa Yahwe ⟨את⟩ ciugo cia ngwĩko ĩno, mũthenya ũrĩa Yahwe amũhonokirie ⟨את⟩ ywe kuuma rinini rĩa thũ ciake ciothe, na kuuma rinini rĩa Caori.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akarĩra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia ngwĩko ĩno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "cia ngwĩko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "amũhonokirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ywe"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kuuma rinini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rĩa ciothe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "thũ ciake"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "na kuuma rinini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    }
+  ],
+  "timestamp": "2026-10-01T23:42:37.179158211Z",
+  "model": "glm-5.3"
+}

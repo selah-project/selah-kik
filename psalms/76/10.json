@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Rĩrĩa Erohimu aratũũra kũgerera ciira, agakĩria o arĩa mochema arĩa me thĩ. Cerarĩ.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "rĩrĩa aratũũra"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kũgerera ciira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "agakĩria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "arĩa mochema"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "arĩa me thĩ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerarĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:54.466846672Z",
+  "model": "glm-5.3"
+}

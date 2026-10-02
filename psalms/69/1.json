@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Kũrĩ ⟨the⟩ mũrungithia, rĩ Cocanĩmũ; ndũngũrĩre ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũrungithia"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩ"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Cocanĩmũ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ndũngũrĩre ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:13.065355818Z",
+  "model": "glm-5.3"
+}

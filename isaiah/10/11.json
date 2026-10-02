@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ti o ta ndĩrekire ⟨את⟩ Comerono na mĩhianano yayo, nĩngwatũire ⟨את⟩ Yerucarayimu na cithingu ciayo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ti o"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndĩrekire"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Comerono"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "na mĩhianano yayo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ta"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nĩngwatũire"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "na cithingu ciayo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:29.246003695Z",
+  "model": "glm-5.3"
+}

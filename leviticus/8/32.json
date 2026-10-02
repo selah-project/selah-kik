@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na kĩrĩa gĩcĩĩte thĩinĩ wa kĩongo gĩa nyama na mũgate, mũcienagĩre na mũaki.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "na kĩrĩa gĩcĩĩte"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "thĩinĩ wa kĩongo gĩa nyama"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "na thĩinĩ wa mũgate"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũaki"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "mũcienagĩre"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:27.416782126Z",
+  "model": "glm-5.3"
+}

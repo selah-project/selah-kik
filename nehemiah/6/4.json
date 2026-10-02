@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Magĩcithĩkĩria kwĩringa kwakwa ngatho ĩno ndĩrĩ inya; nĩndĩcookire ⟨את⟩ kuo ngatho ĩno ya makĩrĩhota.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "magĩcithĩkĩria kwĩringa kwakwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwĩringa kwakwa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngatho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ndĩrĩ"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "nĩndĩcookire"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kuo",
+      "marks": "ngatho ĩno"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngatho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    }
+  ],
+  "timestamp": "2026-10-02T05:13:55.372441864Z",
+  "model": "glm-5.3"
+}

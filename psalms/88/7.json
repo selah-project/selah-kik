@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Nĩũnĩte boro-inĩ buũ nĩ ĩnya mũno, thĩinĩ wa mĩrirũ na maaĩ ma gũthĩ.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "nĩũnĩte"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "boro-inĩ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "buũ nĩ ĩnya mũno"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "thĩinĩ wa mĩrirũ"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "maaĩ ma gũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:47.774733166Z",
+  "model": "glm-5.3"
+}

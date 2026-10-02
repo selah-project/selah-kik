@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Erohimu, ithũrikio kũrĩ ngũrũ-inĩ, na kĩeegi kĩu igũrũ thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ithũrikio"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ngũrũ-inĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na igũrũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kĩeegi kĩu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:04.474253584Z",
+  "model": "glm-5.3"
+}

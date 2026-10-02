@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Gũkũra kwa mahua kwagireetera thĩ, ndeto wakwa itonyaga ta mũrũrubu, ta mbura nene irĩ igũrũ wa nyungu, na itonyagĩra igũrũ wa morathi.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "itonyaga"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ta mbura"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "gũtheri wakwa"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "inathĩra"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ta mũrũrubu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndeto wakwa"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "ta mbura nene"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "nyungu"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "na itonyagĩra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "morathi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:37:19.419339179Z",
+  "model": "glm-5.3"
+}

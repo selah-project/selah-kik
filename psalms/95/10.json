@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 95,
+  "translation": "Mĩaka ĩrĩkũ nĩndĩmenetie mũciaro ũyũ, nĩngĩĩra: Nĩ mũndũ mũnyiti metha ya ngoro, na makamenyana maciaro akwa.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "ĩrĩkũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "nĩndĩmenetie"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mũciaro ũyũ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nĩngĩĩra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "mũnyiti metha"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ya ngoro"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na makamenyana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "makamenya"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "maciaro akwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:26.845476889Z",
+  "model": "glm-5.3"
+}

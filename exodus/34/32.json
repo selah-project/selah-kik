@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Na thutha wa ũguo, ciana ciothe cia Yiceraerinĩ cianĩgũcĩrĩra, nĩamahote watho ⟨את⟩ indo ciothe arĩa Yahwe ndawarĩrire ⟨את⟩ kilima-inĩ wa Cinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "na thutha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wa ũguo"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "nĩmagũcĩrĩire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o the"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "akahote watho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o indo ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndawarĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kilima-inĩ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Cinai"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:06.485484120Z",
+  "model": "glm-5.3"
+}

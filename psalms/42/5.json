@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Ici nĩngakwĩrĩkaga, na mũoyo wakwa nĩngakathĩkira-inĩ kwakwa; nĩgũkĩra nĩngathambĩra hamwe na mũigana, ngĩcookereria arĩa nyũmba ya Erohimu, na mũgambo wa kũrĩna ngatho, mũigana wĩ kũhũrania gwa ciĩro.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "nĩngakwĩrĩkaga"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "na nĩngakathĩkira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkĩra"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "nĩngathambĩra"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "hamwe na mũigana"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ngĩcookereria arĩa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na mũgambo wa"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kũrĩna"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "ngatho"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mũigana"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "wĩ kũhũrania gwa ciĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:23.817272277Z",
+  "model": "glm-5.3"
+}

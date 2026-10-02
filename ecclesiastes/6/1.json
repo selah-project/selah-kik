@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Kwĩ ũru nĩngĩona thĩinĩ wa riũa, na nĩnene ⟨ĩrĩ⟩ mũndũ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Kwĩ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩngĩona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "na nĩnene"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:43:44.088316509Z",
+  "model": "glm-5.3"
+}

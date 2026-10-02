@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 21:24",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Mũthamaki Dawidi akiuga kwa Aranan: Ndarĩ, ti ũguo; nĩndĩgũira nĩgũgĩra nĩ cekeri njũru; nĩndĩkoretwo ndĩhĩa Yahwe kĩndũ gĩaku na kũinĩra mĩhero kinya ndarĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "kwa Aranan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti ũguo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "nĩgũgĩra"
+    },
+    {
+      "surface": "אקנה",
+      "gloss": "nĩndĩgũira"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "nĩ cekeri"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "njũru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩkahĩa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndĩhĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gĩaku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "na kũinĩra"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mĩhero"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "kinya ndarĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:33:09.050740534Z",
+  "model": "glm-5.3"
+}

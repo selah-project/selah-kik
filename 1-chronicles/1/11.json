@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Micirayimu nĩarutire ⟨את⟩ arĩa a Rudi, na ⟨את⟩ arĩa a Anami, na ⟨את⟩ arĩa a Rehabi, na ⟨את⟩ arĩa a Naftũki.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Na Micirayimu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩarutire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa a Rudi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "arĩa a Rudi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa a Anami"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "arĩa a Anami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa a Rehabi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "arĩa a Rehabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa a Naftũki"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "arĩa a Naftũki"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:26.654936302Z",
+  "model": "glm-5.3"
+}

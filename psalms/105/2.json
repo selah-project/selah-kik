@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Mũinĩre, mũcinĩre; nĩrĩmĩrĩrĩri mwagĩrire-inĩ wake ciothe.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "mũinĩre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yũ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mũcinĩre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yũ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "nĩrĩmĩrĩrĩri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mwagĩrire-inĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:38.992331429Z",
+  "model": "glm-5.3"
+}

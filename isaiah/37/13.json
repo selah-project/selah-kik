@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩ he mũthamaki wa Hamati, na mũthamaki wa Arapadi, na mũthamaki wa mucĩ wa Ceparavayimu, Hena, na Iva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Nĩ he"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mũthamaki"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arapadi"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mũthamaki"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wa mucĩ"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Ceparavayimu"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "na Iva"
+    }
+  ],
+  "timestamp": "2026-10-02T00:42:50.941949270Z",
+  "model": "glm-5.3"
+}

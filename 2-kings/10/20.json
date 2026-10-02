@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Yehu akiuga: Ithetherie kĩgunĩ kĩa Bacari. Nao maithĩrĩra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ithetherie"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "kĩgunĩ kĩa gũcunjanĩra"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kĩa Bacari"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "maithĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:54.784140751Z",
+  "model": "glm-5.3"
+}

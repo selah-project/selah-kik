@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Mũthenya ũyũ Yahwe Erohimu waku nĩgũkuhere watho wa gũkora ⟨את⟩ mathondeko ano na ⟨את⟩ maciira; na ũthĩnĩkie, na ũkorecio na ngoro yaku yothe na na mwoyo waku wothe.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Mũthenya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nĩgũkuhere watho"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "wa gũkora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathondeko ano"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mathondeko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maciira"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "maciira"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "na ũthĩnĩkie"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na ũkore"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ cio"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngoro yaku yothe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na na"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mwoyo waku wothe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:33:23.692934580Z",
+  "model": "glm-5.3"
+}

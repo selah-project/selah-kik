@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Kũrĩ mũnene w' kĩĩmbo; kĩĩmbo kĩa ciana cia Korahi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũnene w' kĩĩmbo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kĩa ciana cia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩĩmbo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:07.182404658Z",
+  "model": "glm-5.3"
+}

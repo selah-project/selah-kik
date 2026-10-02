@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 17:8",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na agamĩte, akagweterera thigari cia Yiceraeri, akiuga maari: Nĩkĩ mũciĩrie gũcunja ũhunja? Ndĩ nĩĩwe Mũ-Bareciti, na inyuĩ mũcooke cia Cauru? Thuurani inyuĩ mũndũ, na mũndũ ũcio anoke akũrĩ nĩ.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "agamĩte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akagweterera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מערכת",
+      "gloss": "thigari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maari"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "mũciĩrie"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "gũcunja"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ũhunja"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ndĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩĩwe"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mũ-Bareciti"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "na inyuĩ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mũcooke"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "cia Cauru"
+    },
+    {
+      "surface": "ברו",
+      "gloss": "Thuurani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyuĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "anoke"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "akũrĩ nĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:19:01.125940854Z",
+  "model": "glm-5.3"
+}

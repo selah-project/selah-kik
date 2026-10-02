@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Akĩteithia ⟨את⟩ macembe, akĩcema ⟨את⟩ ndumatũ, akagitha thĩinĩ wa macembe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "akĩteithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macembe"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "macembe"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "akĩcema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndumatũ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ndumatũ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akagitha"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "macembe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:02:30.394249540Z",
+  "model": "glm-5.3"
+}

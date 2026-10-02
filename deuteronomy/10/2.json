@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩngĩandĩka thĩinĩ wa matua ⟨את⟩ ciugo iria ciarĩ thĩinĩ wa matua arĩa ma mbere, arĩa wahinyire, na nĩwe ũgĩregeta matua aroni-inĩ.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Nĩngĩandĩka"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo iria ciandĩkĩtwo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matua"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "arĩa ma mbere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wahinyire"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "nĩwe ũgĩregeta"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "aroni-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:48.342201063Z",
+  "model": "glm-5.3"
+}

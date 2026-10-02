@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 87,
+  "translation": "Na arĩa megũinĩra ta arĩa menaka magĩkoigua-rĩ: mĩena yĩa maĩ makwa yothe irĩ We.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "na arĩa megũinĩra"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "ta arĩa menaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mĩena yĩa maĩ makwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "irĩ We"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:26.642126732Z",
+  "model": "glm-5.3"
+}

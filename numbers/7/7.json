@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "⟨את⟩ magari merĩ na ⟨את⟩ ng'ombe inya nĩahethe ana a Gereshoni, kũgeria ngatho yao.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magari merĩ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "merĩ"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "magari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe inya"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "inya"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩahethe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ana a"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshoni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kũgeria"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ngatho yao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:52:59.466348716Z",
+  "model": "glm-5.3"
+}

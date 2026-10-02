@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na kĩndũ kĩa akoire gĩakoragwo kĩoru thĩinĩ wa maso ma Yahwe, akamũthinja ⟨את⟩ yũ o na.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "gĩakoragwo kĩoru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akoire"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akamũthinja"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yũ (Onani)"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:38.865097398Z",
+  "model": "glm-5.3"
+}

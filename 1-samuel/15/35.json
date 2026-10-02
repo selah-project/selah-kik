@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 15:35",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na Cemueri ti kũongerera kũona ⟨את⟩ Cauri ngiya mũthenya wa gũkwa kwake; nĩgũkorwo Cemueri aarĩ mũhoi kũrĩ Cauri, na Yahwe nĩ aiguithirie, atĩ ⟨⟨nĩ⟩⟩ aamũthamakirie ⟨את⟩ Cauri harĩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "kũongerera"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cauri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngiya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "wa gũkwa kwake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "התאבל",
+      "gloss": "aarĩ mũhoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nĩ aiguithirie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "aamũthamakirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cauri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:16:37.693419829Z",
+  "model": "glm-5.3"
+}

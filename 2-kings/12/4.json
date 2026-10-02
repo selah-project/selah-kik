@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Acio tu, ibama itĩrahũrangĩka; andũ nĩmagĩthĩna kũritha ng'ano na kũtheria minaha ibama-inĩ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "acio tu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ibama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "itĩ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "rahũrangĩka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nĩmagĩthĩna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "kũritha ng'ano"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na kũtheria minaha"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ibama-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:55.860078095Z",
+  "model": "glm-5.3"
+}

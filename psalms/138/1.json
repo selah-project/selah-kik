@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 138,
+  "translation": "Kĩa Dawidi. Nĩngokũhoyagĩra na ngoro yakwa yothe; mbere ya Erohimu nĩngokũinĩra ⟨rĩĩtwa rĩaku⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kĩa Dawidi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nĩngokũhoyagĩra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "nĩngokũinĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:37.292851369Z",
+  "model": "glm-5.3"
+}

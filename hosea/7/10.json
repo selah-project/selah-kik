@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ũrutani wa Yiceraeri nĩwamenyethe thĩinĩ wĩra wawo; matiriĩkire gũcookerera Yahwe Erohimu wao, matatumire o na hamwe na macio mothe.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "nĩwamenyethe"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ũrutani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "thĩinĩ wĩra wawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matiriĩkire"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "gũcookerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matatumire"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "kũmũtuma"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "macio"
+    }
+  ],
+  "timestamp": "2026-10-02T02:19:29.831697161Z",
+  "model": "glm-5.3"
+}

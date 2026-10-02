@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Erohimu anarĩaria mũthero-inĩ wake: nĩngĩemooya, nĩngĩcũrania ⟨את⟩ Cekemu, na nĩngĩcenjera ⟨את⟩ kĩanja kĩa Cukoti.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anarĩaria"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "mũthero-inĩ wake"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "nĩngĩemooya"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "nĩngĩcũrania"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "na kĩanja kĩa"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Cukoti"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "nĩngĩcenjera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:04.478348835Z",
+  "model": "glm-5.3"
+}

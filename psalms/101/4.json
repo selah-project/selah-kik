@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Ngoro ĩrĩa ihũranĩte ĩgũtũũra kuuma harĩ nji; kĩoru ti kĩndũ nĩndĩmanya.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ĩrĩa ihũranĩte"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ĩgũtũũra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuuma harĩ nji"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kĩoru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nĩndĩmanya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:49.086787238Z",
+  "model": "glm-5.3"
+}

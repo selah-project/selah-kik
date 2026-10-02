@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩrie, rora, kĩrĩkanĩro kĩakwa nĩkĩrĩ na ⟨את⟩we, na ũgakorwo wĩ ithe wa mũingĩ wa ndũrĩrĩ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩrie"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rora"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩakwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "na ⟨את⟩we",
+      "marks": "kĩrĩkanĩro kĩakwa nĩkĩrĩ na we"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ũgakorwo"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "wĩ ithe wa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mũingĩ wa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:38:33.754584751Z",
+  "model": "glm-5.3"
+}

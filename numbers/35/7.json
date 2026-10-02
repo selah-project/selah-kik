@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "O mace arĩa mũhe Ariuthi — mĩrongo ina na inana — ⟨את⟩ macio na ⟨את⟩ mĩcanda yacio.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mace"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "reria"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mũhe"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Ariuthi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mĩrongo ina"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na inana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mace"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcanda yacio"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mĩcanda yacio"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:08.984556391Z",
+  "model": "glm-5.3"
+}

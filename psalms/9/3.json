@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩngĩkena na kũngĩa na gĩkeno gwakwa; nĩngĩimbĩra rĩĩtwa rwaku, Wĩ mũnene thĩiniĩ wa andũ othe.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Nĩngĩkena"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "na kũngĩa na gĩkeno"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gwakwa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nĩngĩimbĩra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rwaku"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Wĩ mũnene thĩiniĩ wa andũ othe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:57.594432800Z",
+  "model": "glm-5.3"
+}

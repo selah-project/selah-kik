@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Thĩ yanyu nĩ ya thayũ, mĩtũrũre yanyu nĩmahĩtio na mũrata; bũrũri wanyu arĩa makũrũa-inĩ moihaga ⟨את⟩ mbere ya maitho manyu, nĩ thayũ ta kũgũcwo nĩ andũ a kũrũa.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Thĩ yanyu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nĩ ya thayũ"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "mĩtũrũre yanyu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "nĩmahĩtio"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na mũrata"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "bũrũri wanyu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "mbere ya maitho manyu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "arĩa makũrũa-inĩ"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "moihaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "bũrũri wanyu (ithũĩnĩ yanyu)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "nĩ thayũ"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "ta kũgũcwo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "nĩ andũ a kũrũa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:55.262412092Z",
+  "model": "glm-5.3"
+}

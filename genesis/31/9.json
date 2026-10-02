@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Erohimu nĩeethire ⟨את⟩ nyũmbũ cia ithethe cia itheanyu, akĩhe ndĩ.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "nĩeethire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmbũ cia ithethe cia itheanyu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "nyũmbũ cia ithethe"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "itheanyu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:30.800290957Z",
+  "model": "glm-5.3"
+}

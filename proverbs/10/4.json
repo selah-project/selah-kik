@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Mwoko wa kũthirithiria nĩwatuĩkithia mũkeni; na mwoko mũhinya nĩwatuĩkithia mũnungu.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "mũkeni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩwatuĩkithia"
+    },
+    {
+      "surface": "כף",
+      "gloss": "mwoko"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "wa kũthirithiria"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "na mwoko"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "mũhinya"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "nĩwatuĩkithia mũnungu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:49:48.352377104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Farao nowĩhokete ⟨את⟩ ũhoro ũyũ, nĩathĩĩte kũrũrania kũũra ⟨את⟩ Moce; Moce agĩciara kuuma thutha wa Farao, agĩikara thĩ-inĩ ya Midiyani, agĩikara hau ũhoro wa mũcĩĩ wa maaĩ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nowĩhokete"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "nĩathĩĩte kũrũrania"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "kũũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "agĩciara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma thutha wa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ ya"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agĩikara hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũhoro wa"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "mũcĩĩ wa maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:46.161489639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Erohimu akiuga na Noke, aguaga,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noke"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aguaga"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:50.938906893Z",
+  "model": "glm-5.3"
+}

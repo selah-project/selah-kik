@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩagĩkĩra agĩinjĩra, akĩgeta kwa mwathi wake atĩrĩ: mũirĩtu ũrĩa kuuma thĩiniĩ ya Yiceraeri nĩaugĩte ũguo na ũguo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nĩagĩkĩra agĩinjĩra"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akĩgeta"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "kwa mwathi wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "na ũguo"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "nĩaugĩte"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "mũirĩtu ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩiniĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:10:54.725270454Z",
+  "model": "glm-5.3"
+}

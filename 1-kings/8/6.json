@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩmacio, athanjari nĩmaingĩcie ⟨את⟩ aroni ya kĩrĩkanĩro kĩa Yahwe kũrĩ handũ wayo, kũrĩ Dabiri wa nyũmba, kũrĩ ũtheru wa mĩtheru, kũrĩ thĩiniĩ wa makĩrũa ma akerubi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nĩmaingĩcie"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "athanjari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni ya kĩrĩkanĩro"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "handũ wayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dabiri"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyũmba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "wa mĩtheru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩiniĩ wa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "makĩrũa"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "akerubi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:18.369931205Z",
+  "model": "glm-5.3"
+}

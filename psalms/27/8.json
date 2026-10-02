@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Kwa We goro yakwa yaoigĩre: Thagarĩrai kĩngoro wakwa; ⟨את⟩ kĩngoro gwaku, Yahwe, nĩndĩthagarĩra.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kwa We"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yaoigĩre"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "goro yakwa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "thagarĩrai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kĩngoro wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩngoro gwaku"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kĩngoro gwaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "nĩndĩthagarĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:29.729942796Z",
+  "model": "glm-5.3"
+}

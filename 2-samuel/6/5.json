@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Dawidi na yo nyumba ya Yiceraeri makĩina mbere ya Yahwe, na mĩtĩ yothe ya mbakara, na thinari, na nyatiti, na matũmbũrĩria, na mahurura, na cimbaci.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Na Dawidi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "makĩina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mĩtĩ yothe"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ya mbakara"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "na thinari"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "na nyatiti"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "na matũmbũrĩria"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "na mahurura"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "na cimbaci"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:02.465548356Z",
+  "model": "glm-5.3"
+}

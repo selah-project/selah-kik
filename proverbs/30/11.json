@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Njiarwa ĩrĩa ĩhũraga ithe, na ⟨את⟩ ndina wayo ĩtigĩrĩria.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "njiarwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ĩhũraga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndina wayo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ndina wayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩti"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ĩtigĩrĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T04:00:59.207756949Z",
+  "model": "glm-5.3"
+}

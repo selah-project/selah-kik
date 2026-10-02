@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Akĩgũtetia ⟨את⟩ igũrũ rĩayorokire, akĩrũka, na gĩtũũ kĩnene kĩarĩ thĩ wa magũrũ make.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "akĩgũtetia"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ rĩayorokire"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akĩrũka"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "na gĩtũũ kĩnene"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ wa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "magũrũ make"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:27.513312103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Cedeki yaku nĩ ta mirĩma ya Ere; ciira ciaku nĩ ta ihumbo rĩnene; mũndũ na nyamũ, Yahwe, nĩũhonorĩkĩragia.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "cedeki yaku"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "nĩ ta mirĩma ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ciira ciaku"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ihumbo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "rĩnene"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "na nyamũ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "nĩũhonorĩkĩragia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:40.459845964Z",
+  "model": "glm-5.3"
+}

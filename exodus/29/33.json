@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na makiĩra macio ⟨את⟩, iria kũhĩa kuonanĩtio nacio, gũkinya ⟨את⟩ moko mao kiroho-inĩ, gwĩtheria o ⟨את⟩; na mũnji ndarĩagĩrĩa, nĩgũo nĩ ũtheru macio.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "makiĩra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio (iria kũhĩa kuonanĩtio)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "kũhĩa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nacio"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "gũkinya kiroho-inĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko mao"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "gwĩtheria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni na aana ake"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "mũnji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "arĩagĩrĩa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "הם",
+      "gloss": "macio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:56.195942796Z",
+  "model": "glm-5.3"
+}

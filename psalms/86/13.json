@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Nĩgũkorwo hecedi wakwa nĩ mũnene igũrũ rwakwa, ũkĩhũthira mũoyo wakwa kuuma Ceori ya hĩndĩrĩro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi wakwa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nĩ mũnene"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ũkĩhũthira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "kuuma Ceori"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ya hĩndĩrĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:50.959429106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Yahwe arathĩkĩra Moce na Aharoni, akamũruta watho kũrĩ ciana cia Yiceraeri na kũrĩ Farao mwathi wa Micirayimu, ngotho kũhothe ⟨את⟩ ciana cia Yiceraeri kuuma thĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "arathĩkĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũrĩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "akamũruta watho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũrĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ngotho kũhothe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:58.084493068Z",
+  "model": "glm-5.3"
+}

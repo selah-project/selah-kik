@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Kĩega kwa kũonerera, kĩigĩrĩro kĩa thĩ yothe, nĩ kilima kĩa Cioni, cigĩrĩro cia rũraya, mucĩ wa mwathi mũnene.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Kĩega kwa"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "kũonerera"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kĩigĩrĩro kĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kilima kĩa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioni"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "cigĩrĩro cia"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "rũraya"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "mucĩ wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũnene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:31.240324938Z",
+  "model": "glm-5.3"
+}

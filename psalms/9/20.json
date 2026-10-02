@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Ĩkũrũ, Yahwe; ndũkĩre mũndũ aciarĩkie hinya; ndũrĩrĩ cihe ciira mbere ya thayo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ĩkũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "aciarĩkie hinya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "cihe ciira"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thayo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:18.230353632Z",
+  "model": "glm-5.3"
+}

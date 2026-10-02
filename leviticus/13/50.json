@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na mũhakanĩ anyonire ⟨את⟩ ng'eno, na agĩcihĩrĩra ⟨את⟩ ng'eno mĩthenya mũgwanja.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "anyonire"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũhakanĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'eno"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ng'eno"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "acihekĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'eno"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ng'eno"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:37:50.105924091Z",
+  "model": "glm-5.3"
+}

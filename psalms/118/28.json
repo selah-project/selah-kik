@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Nĩwe Ere wakwa, ngĩkuŋgorota; Erohimu wakwa, ngĩkũinũra.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Ere wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ngĩkuŋgorota"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ngĩkũinũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:03.340110305Z",
+  "model": "glm-5.3"
+}

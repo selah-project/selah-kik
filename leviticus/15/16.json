@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na mũndũ rĩrĩa mbembe ya kũhikanĩra ĩmũtĩkĩrĩka, oge ⟨את⟩ mbere yake yothe na mĩciĩ, na atĩĩ mũtheru wa thĩ ũgĩkĩa harĩ o kana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ĩmũtĩkĩrĩka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma ihunũ rĩake"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ya kũhikanĩra"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "oge"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mĩciĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbere yake yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "atĩĩ mũtheru wa thĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ũgĩkĩa harĩ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "o kana"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:56.288317401Z",
+  "model": "glm-5.3"
+}

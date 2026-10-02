@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Rorithia, ng'oigare, Yahwe Erohimu wakwa; ũthererie maitho makwa, ringi ndĩrorwo kwa kũrwo.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Rorithia"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ng'oigare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ũthererie"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho makwa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ringi"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ndĩrorwo"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kwa kũrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:33.838819244Z",
+  "model": "glm-5.3"
+}

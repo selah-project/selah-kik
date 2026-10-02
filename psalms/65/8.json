@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Ũĩnyamũrĩra kĩguna kĩa irĩa, kĩguna kĩa mawĩra macio, na mũthingo wa ndũrĩrĩ.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Ũĩnyamũrĩra"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kĩguna kĩa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kĩguna kĩa"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "mawĩra macio"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "na mũthingo wa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:03.248068953Z",
+  "model": "glm-5.3"
+}

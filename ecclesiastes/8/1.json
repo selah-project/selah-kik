@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩ ũrĩkũ tuĩte mũũgi? Na nĩ ũrĩkũ añĩrĩ kũmenya kũcookia kwa ũhoro? Ũũgĩ wa mũndũ nĩũmũrethia ũtheri kĩenoinĩ kĩake, na hinya wa kĩeno gĩake nĩgũtuũka kĩngĩ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũrĩkũ"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "tuĩte mũũgi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na nĩ ũrĩkũ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "añĩrĩ kũmenya"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "kũcookia"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwa ũhoro"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Ũũgĩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "nĩũmũrethia ũtheri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kĩenoinĩ kĩake"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na hinya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wa kĩeno gĩake"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nĩgũtuũka kĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:44.835437619Z",
+  "model": "glm-5.3"
+}

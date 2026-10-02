@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mũthĩnjĩri-ngai ũrĩa waitĩrĩirio maguta agĩthiinga thakame wa mũirũ ũcio thĩinĩ wa yũmba ya kũhiranwo.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "agĩthiinga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ũrĩa waitĩrĩirio maguta"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "thakame wa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mũirũ ũcio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yũmba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiranwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:20.410952530Z",
+  "model": "glm-5.3"
+}

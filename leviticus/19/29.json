@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Nĩgũkorwo-nda mũthererithia ⟨את⟩ mũritũ waku amwĩre kũrĩ ũhoya; thĩ yikahoye na yĩhore mĩcenetie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nĩgũkorwo-nda"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "mũthererithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũritũ waku"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "mũritũ waku"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "amwĩre kũrĩ ũhoya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nda (thĩ yikahoye)"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "yikahoye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "yĩhore"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mĩcenetie"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:23.774177161Z",
+  "model": "glm-5.3"
+}

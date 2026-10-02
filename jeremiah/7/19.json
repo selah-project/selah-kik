@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩĩ ⟨nĩĩ⟩ macio magĩhinyananga iraũ, Yahwe oigĩte — kana ti ⟨את⟩ macio mwene, nĩ wenji wĩ mĩrĩ-inĩ yao?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "nĩĩ ⟨את⟩",
+      "marks": "nĩĩ (Yahwe mwene)"
+    },
+    {
+      "surface": "הם",
+      "gloss": "macio"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "magĩhinyananga iraũ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kana ti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ macio mwene",
+      "marks": "macio mwene"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "wenji"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mĩrĩ ya macio"
+    }
+  ],
+  "timestamp": "2026-10-02T01:05:57.152623155Z",
+  "model": "glm-5.3"
+}

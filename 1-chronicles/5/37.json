@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Azaraya nĩmurathire ⟨את⟩ Amaraya, na Amaraya arathire ⟨את⟩ Ahitubu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nĩmurathire"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaraya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaraya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "na Amaraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "arathire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahitubu"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitubu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:47.045469118Z",
+  "model": "glm-5.3"
+}

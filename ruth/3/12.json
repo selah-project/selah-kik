@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na rĩũthĩ, nĩ kwĩhoka atĩ nĩinĩ mũhokia; no na kũrĩ ũguo, harĩ mũhokia ũrĩa mũkarũ kũrĩ inĩ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩũthĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "nĩ kwĩhoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mũhokia"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩinĩ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "no na kũrĩ ũguo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mũhokia"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "mũkarũ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kũrĩ inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:31:40.076566718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na inyi mũke, muume mbarũ ya kũhĩnga, mũcegere ⟨את⟩ mucĩ; na Yahwe Erohimu wanyu agĩkũhe ⟨agĩkũhe⟩ moko-inĩ manyu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na inyi"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "mũke muume"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "mbarũ ya kũhĩnga"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "mũcegere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucĩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "agĩkũhe ⟨agĩkũhe⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "moko-inĩ manyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:42:45.008397915Z",
+  "model": "glm-5.3"
+}

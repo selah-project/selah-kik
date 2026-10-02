@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgo Erohimu agĩcoita mũtheri Mũthenya, na gĩtherũ agĩcoita Ũthĩ; nĩwaarĩ kwinja, nĩwaarĩ mũciĩ — mũthenya ũmwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "agĩcoita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "mũtheri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Mũthenya"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "na gĩtherũ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "agĩcoita"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Ũthĩ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩwaarĩ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kwinja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩwaarĩ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:37.242484271Z",
+  "model": "glm-5.3"
+}

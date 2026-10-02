@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Rĩngĩ nĩndĩnyita nyũmba yaku, thĩinĩ wa mĩnĩ ĩrĩa ĩraya wa hecedi waku; nĩnjagũinya kũũmbũkĩra ere heikari ya ũtheru waku, thĩinĩ wa kũigua kwaku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Rĩngĩ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "thĩinĩ wa mĩnĩ ĩrĩa ĩraya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nĩndĩnyita"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyũmba yaku"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "nĩnjagũinya kũũmbũkĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ere"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ũtheru waku"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "thĩinĩ wa kũigua kwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:21.417348844Z",
+  "model": "glm-5.3"
+}

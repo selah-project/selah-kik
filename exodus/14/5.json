@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩciarangĩrio mũthamaki wa Michirayimu atĩ andũ marahũkire; nĩgo ngoro ya Farao na ya atumia ake atũũkĩte yagĩthĩ na mbere ya andũ aya, nao makĩuga: Ũũ nĩkĩ tũmakĩre, atĩ nĩtũmũcire ⟨את⟩ Yiceraeri kuma mũrimũ witũ?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nĩciarangĩrio"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mũthamaki wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Michirayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "marahũkire"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "atũũkĩte"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ aya"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũũ"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "tũmakĩre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "tũmũcire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "kuma mũrimũ witũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:37.823214143Z",
+  "model": "glm-5.3"
+}

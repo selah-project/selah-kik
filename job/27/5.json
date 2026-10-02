@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Ĩgũa rĩrĩ, nĩgũo nĩndĩcookia ⟨את⟩ inywe arĩ arĩa mena cedeki, ginya ndĩhoye; ndingĩigua ũtheru wakwa kuma thĩinĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "ĩgũa rĩrĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ngĩcookia arĩ mũthingu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ndĩhoye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndingĩ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "igua"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "ũtheru wakwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuma thĩinĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T07:03:16.965849383Z",
+  "model": "glm-5.3"
+}

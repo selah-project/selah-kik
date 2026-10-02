@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na nĩne o ũguo nĩndĩĩhĩte ⟨את⟩ inywe mũteete na akũi mbere ya andũ othe, ta ũrĩa mũtarĩ gũcokerera ⟨את⟩ njĩra ciaakwa, na mũnyitaga mĩena thĩinĩ wa Tora.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na o ũguo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩne"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩĩhĩte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "mũteete"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "na akũi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "harĩ o"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "mũtarĩ"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "kũcokerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njĩra ciaakwa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njĩra ciaakwa"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "na mũnyitaga"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "thĩinĩ wa Tora"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:23.917285667Z",
+  "model": "glm-5.3"
+}

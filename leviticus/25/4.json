@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na mĩaka ya mũgwanja nĩgũkorwa Cabati ya mahũrũkio ya bũrũri — Cabati ya Yahwe; shamba rĩwaku ndũgakaria, na mboco rĩwaku ndũgakethia.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "na mĩaka ya"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "mahũrũkio"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya bũrũri"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "shamba rĩwaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "gũkaria"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "na mboco rĩwaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "gũkethia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:58.986405525Z",
+  "model": "glm-5.3"
+}

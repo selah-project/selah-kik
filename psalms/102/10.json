@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩ maciaru nĩndĩrirĩte ta mũgati, na kĩunjo gwakwa nĩngĩcanganĩthie na keloo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "maciaru"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "ta mũgati"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "nĩndĩrirĩte"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "kĩunjo gwakwa"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "na keloo"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nĩngĩcanganĩthie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:32.183847761Z",
+  "model": "glm-5.3"
+}

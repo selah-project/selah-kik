@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Na ruaki rwa ithũiro ũciaraga ⟨maciarũ⟩ ma Taricichi.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "na ruaki rwa"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ithũiro"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ũciaraga"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "⟨maciarũ⟩"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taricichi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:40.001836993Z",
+  "model": "glm-5.3"
+}

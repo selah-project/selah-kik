@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Ng'ombe ithuĩ ciarũmagĩra mĩmera; gũtirĩ kũnyamara kana kũingĩra, na gũtirĩ kũhiũra, na gũtirĩ kũhenania mĩbarabara-inĩ ithuĩ.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ng'ombe ithuĩ"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ciarũmagĩra mĩmera"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "kũnyamara kana kũingĩra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "kũhiũra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "kũhenania"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "mĩbarabara-inĩ ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:39.225392559Z",
+  "model": "glm-5.3"
+}

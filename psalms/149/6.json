@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 149,
+  "translation": "Kũringa kwa Ere nĩguo kwa thigoni ciacio, na hĩnga ya meno igĩrĩ moko-inĩ macio.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "kũringa kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "thigoni ciacio"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na hĩnga"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ya meno igĩrĩ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "moko-inĩ macio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:43.175095775Z",
+  "model": "glm-5.3"
+}

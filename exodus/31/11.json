@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na ⟨את⟩ maguta ma kũciakia, na ⟨את⟩ minaha ya biũrũ warũ kuuma ũtheru-inĩ; ta ũrĩa nakwĩhokeire nĩmakora.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maguta ma kũciakia"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ma kũciakia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minaha ya biũrũ warũ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya biũrũ warũ"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "kuuma ũtheru-inĩ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ta ũrĩa wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "nakwĩhokeire"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "nĩmakora"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:51.704860874Z",
+  "model": "glm-5.3"
+}

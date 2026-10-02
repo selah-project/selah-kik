@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Kiramu akĩtũma kwa Ceromo akuuga: Niiguonete ⟨את⟩ ũrĩa waniitũmita kwa ine; ine nĩngakora ⟨את⟩ kĩenda gĩaku wona, na mĩtĩ ya ereci na mĩtĩ ya beroci.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩtũma"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Kiramu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuuga"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "niiguonete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa waniitũmita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "waniitũmita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa ine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nĩngakora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩenda gĩaku wona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wona"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "kĩenda gĩaku"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "mĩtĩ ya"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ereci"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "na mĩtĩ ya"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beroci"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:13.501921585Z",
+  "model": "glm-5.3"
+}

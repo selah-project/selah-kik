@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na atahĩ wake meamũkire, magithondoke mũkano, makagũka ⟨את⟩ Yowaci, harĩ Bethi-Miro, thĩinĩ wa mũciarĩro ũrĩa ũthiĩ makũhĩ Cira.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "meamũkire"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atahĩ wake"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "magithondoke"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "mũkano"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makagũka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowaci"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowaci"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Miro"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ũrĩa ũthiĩ makũhĩ"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Cira"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:02.023958962Z",
+  "model": "glm-5.3"
+}

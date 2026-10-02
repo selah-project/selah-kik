@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Mĩtĩ ya Yahwe ĩrĩkĩte kũiora — mĩtĩ ithanĩnda cia Rebanoni, iria ⟨he⟩ arĩmirie.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ĩrĩkĩte kũiora"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mĩtĩ ithanĩnda cia"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Rebanoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "arĩmirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:50.237985639Z",
+  "model": "glm-5.3"
+}

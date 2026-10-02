@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na mũndũ anyamanyanie ⟨את⟩ mũrũane wake, no mũtinye Erohimu yanyu; nĩ ndĩ Yahwe, Erohimu yanyu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "kũnyamanya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũane wake"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "mũrũane wake"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "mũtinye"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Erohimu yanyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:58.815522344Z",
+  "model": "glm-5.3"
+}

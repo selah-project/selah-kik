@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Na magĩcookia hĩndĩ ya kĩtheri, magĩtambĩra ta ngui, magĩtherereeria mucĩĩ.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "magĩcookia"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "hĩndĩ ya kĩtheri"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "magĩtambĩra"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ta ngui"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "magĩtherereeria"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mucĩĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:03.389954205Z",
+  "model": "glm-5.3"
+}

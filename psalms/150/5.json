@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 150,
+  "translation": "Mũgooceni Yahwe na macimbara ma mahũa ma kũigua; mũgooceni Yahwe na macimbara ma kũtherũka.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Mũgooceni Yahwe"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "na macimbara ma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mahũa ma kũigua"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mũgooceni Yahwe"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "na macimbara ma"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "kũtherũka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:22.130041558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Ũthire mũthingu, ũmacayarĩthe; ũthure mĩciaro yaku, ũmanũranie.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Ũthire mũthingu"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "ũmacayarĩthe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ũthure"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mĩciaro yaku"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "ũmanũranie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:45.138512751Z",
+  "model": "glm-5.3"
+}

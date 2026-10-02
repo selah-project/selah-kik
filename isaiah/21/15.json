@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩgũku, kuuma ĩhĩtĩkũ ya ncamba nĩmathiũrire; kuuma ĩhĩtĩkũ ya ncamba ĩrĩa yahothetwo, na kuuma ĩhĩtĩkũ ya ũuta wa kũgũrũo, na kuuma ĩhĩtĩkũ ya kiumia kĩa mbaara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma ĩhĩtĩkũ ya"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ncamba (cia ncamba)"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nĩmathiũrire"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma ĩhĩtĩkũ ya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ncamba ĩmwe"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "ĩrĩa yahothetwo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "na kuuma ĩhĩtĩkũ ya"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ũuta"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "wa kũgũrũo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "na kuuma ĩhĩtĩkũ ya"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "kiumia"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mbaara"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:41.258202097Z",
+  "model": "glm-5.3"
+}

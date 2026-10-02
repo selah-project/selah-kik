@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Kũrĩ mũcũranji, ciugo-inĩ cia kana; kĩama kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcũranji"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ciugo-inĩ cia kana"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩama"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:12.873940087Z",
+  "model": "glm-5.3"
+}

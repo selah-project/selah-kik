@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Kwa mũnene wa ndĩci, ciarĩ Yedutuni; kĩĩmanĩro kĩa Acaphi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũnene wa ndĩci"
+    },
+    {
+      "surface": "על",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutuni"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩa Acaphi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩĩmanĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:06.842696193Z",
+  "model": "glm-5.3"
+}

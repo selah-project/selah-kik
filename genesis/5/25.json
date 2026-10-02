@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Methuceraeri aikaraga ngima mĩana ĩmwe na mĩrongo ĩnana na mũgwanja, akĩciarithia ⟨את⟩ Remechi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "aikaraga ngima"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Methuceraeri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na mĩrongo ĩnana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩana ĩmwe"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na mĩana ĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Remechi"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Remechi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:02.852240082Z",
+  "model": "glm-5.3"
+}

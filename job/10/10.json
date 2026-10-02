@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩwathĩkĩte ngũ ta mũrũ wa ng'ombe, ũnaciokeirie ta ũgĩ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "ta mũrũ wa ng'ombe"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "wathĩkĩte"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "ta ũgĩ"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "ũnaciokeirie"
+    }
+  ],
+  "timestamp": "2026-10-02T04:08:36.092692816Z",
+  "model": "glm-5.3"
+}

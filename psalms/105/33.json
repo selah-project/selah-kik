@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Akĩhoota mĩraĩ yao ya mpũrete na ngoma ciao, akĩmemeta miti ya mĩthenya ciao.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "mĩraĩ yao ya mpũrete"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "na ngoma ciao"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "akĩmemeta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ya mĩthenya ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:41.331773874Z",
+  "model": "glm-5.3"
+}

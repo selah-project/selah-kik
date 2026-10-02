@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na kũgũara kwao kuuma Meca, rĩrĩa ũthiĩ kũgera Cefara, kirima gĩa irathĩro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na nĩmaakoragwo"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "kũgũara kwao"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "kuuma Meca"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "rĩrĩa ũthiĩ kũgera"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Cefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kirima"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "gĩa irathĩro"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:53.530360424Z",
+  "model": "glm-5.3"
+}

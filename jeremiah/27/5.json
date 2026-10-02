@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Nĩnie ndamũmbĩre ⟨את⟩ thĩ, ⟨את⟩ mũndũ, na ⟨את⟩ nyamũ irĩ igũrũ rĩa thĩ, na hinya wakwa ũnene na kĩooki wakwa kĩegũrĩte; na nĩngĩhe ⟨את⟩ ũrĩa woigĩte kweo maka-inĩ makwa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "nĩnie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndamũmbĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyamũ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyamũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "na hinya wakwa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ũnene"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "na kĩooki wakwa"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "kĩegũrĩte"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "nĩngĩhe"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "woigĩte kweo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maka-inĩ makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T01:19:12.483473631Z",
+  "model": "glm-5.3"
+}

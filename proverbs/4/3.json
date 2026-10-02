@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩgũkorwa nĩngaarĩ mũana wa ithe wakwa, mũnoru mũmwe-thayũ mbere ya nyina yakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩngaarĩ"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "wa ithe wakwa"
+    },
+    {
+      "surface": "רך",
+      "gloss": "mũnoru"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "mũmwe-thayũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nyina yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:41.136803868Z",
+  "model": "glm-5.3"
+}

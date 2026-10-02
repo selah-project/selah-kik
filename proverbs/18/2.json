@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Mũgũrũ ndakenda ũmenyo, no kũringana na kũonekanĩa kwa ngoro yake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kenda"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mũgũrũ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ũmenyo-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kũringana na"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "kũonekanĩa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:54:52.166304974Z",
+  "model": "glm-5.3"
+}

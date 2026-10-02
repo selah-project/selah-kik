@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 125,
+  "translation": "Yerucarayimu — imera ĩrĩ gũtheri ndani-inĩ make na Yahwe akĩgutheri andũ-make, kuuma rĩũũkũ ithũrano rĩa ngero ĩyũ.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "imera"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ĩrĩ gũtheri"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nani-inĩ make"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "akĩgutheri"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "andũ-make"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuuma rĩũũkũ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ithũrano rĩa ngero ĩyũ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngero ĩyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:57.329788015Z",
+  "model": "glm-5.3"
+}

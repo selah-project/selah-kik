@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Bireamu akĩuga kwa Baraki: Thora kwakwa hĩndĩ ĩno mĩthingĩ mũgwanja, na ũteithĩrie kwakwa hĩndĩ ĩno ng'ombe mũgwanja na ndatũ mũgwanja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bireamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Baraki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "thora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hĩndĩ ĩno"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "mĩthingĩ"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "ũteithĩrie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hĩndĩ ĩno"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "na mũgwanja"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ndatũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:07:03.890936815Z",
+  "model": "glm-5.3"
+}

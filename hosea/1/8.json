@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na akĩkanyũrĩra ⟨את⟩ Ri-Ruamaha, na akĩmwarĩra, na akĩciarĩra mũrungu.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "akĩkanyũrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ri-Ruamaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ri-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruamaha"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akĩmwarĩra"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrungu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:18:07.126953959Z",
+  "model": "glm-5.3"
+}

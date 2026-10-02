@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Kũmbatagana na ⟨את⟩ achuma kũgĩa mũcere; ũrĩa ũrĩonanaga na arĩa mamenete nĩarĩkĩgwa nĩ ũru.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "kũmbatagana na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "achuma"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "achuma"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "nĩagĩa mũcere"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "na ũrĩa ũrĩonanaga na"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "arĩa mamenete"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "nĩarĩkĩgwa nĩ ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T07:01:40.273067538Z",
+  "model": "glm-5.3"
+}

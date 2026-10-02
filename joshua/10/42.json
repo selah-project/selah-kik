@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ⟨את⟩ athamaki aothe aria, na ⟨את⟩ matũũra mao, Yehocua anatire ihinda ĩmwe, nĩgũkorwo Yahwe Erohimu wa Yiceraeri aarĩ kũrirĩrana thĩinĩ wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "athamaki aothe aria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matũũra mao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "matũũra mao"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "anatire"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ihinda"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "aarĩ kũrirĩrana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:45:24.235820884Z",
+  "model": "glm-5.3"
+}

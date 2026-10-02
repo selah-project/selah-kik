@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na makĩrũmbũnya nacio, mũingĩ wothe nĩmakũonana nawe kũrirĩria mũromo wa hema ya kũonana.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "makĩrũmbũnya"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nacio"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "nĩmakũonana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũingĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrirĩria"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũromo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũonana"
+    }
+  ],
+  "timestamp": "2026-10-01T21:56:41.566394511Z",
+  "model": "glm-5.3"
+}

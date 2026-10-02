@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nao ruaki wa Erohimu nĩĩiguĩte Cauru igũrũ arĩ o ĩkuũga ⟨את⟩ ciugo ici; nao mweenyo wake ũnyuurĩte mũno.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "nĩĩiguĩte"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauru"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "arĩ o ĩkuũga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ici"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "nao ũnyuurĩte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mweenyo wake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-01T23:15:03.380102413Z",
+  "model": "glm-5.3"
+}

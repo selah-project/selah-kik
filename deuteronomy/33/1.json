@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na ũyũ nĩ ciroto icio Moce, mũndũ wa Erohimu, arothagĩrĩire ⟨את⟩ ciana cia Yiceraeri, mbere ya gũkũa kwake.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Na ũyũ"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ciroto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "arothagĩrĩire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "gũkũa kwake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:37:20.806352130Z",
+  "model": "glm-5.3"
+}

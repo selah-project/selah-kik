@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩrĩkũhoyaga na mbere ya Yahwe hĩndĩ nene, Eri akĩmũrora munwa wake ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nĩramanyĩke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "hĩndĩ nene"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "kũhoya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "na mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "na Eri"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "akĩmũrora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munwa wake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "munwa wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:08:28.776317598Z",
+  "model": "glm-5.3"
+}

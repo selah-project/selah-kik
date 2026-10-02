@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Amiramu aikaretie ⟨את⟩ Yokbedi, mwarĩ wa mũrũ wa ithe wake, akĩmũtoria mũtumia; nakamũciarĩra ⟨את⟩ Aharoni na ⟨את⟩ Moce; na mĩaka ya miaka ya Amiramu nĩ igana na mĩrongo ĩtatũ na mũgwanja.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aikaretie"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amiramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokbedi"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokbedi"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "mwarĩ wa mũrũ wa ithe wake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akĩmũtoria"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nakamũciarĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akĩmũciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na mĩaka ya"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ya Amiramu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na igana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:31.014486130Z",
+  "model": "glm-5.3"
+}

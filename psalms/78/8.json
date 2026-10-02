@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩgũkoruo ti ta asee ao: mbarĩ ĩnyamu na ĩrĩa ĩũrĩte, mbarĩ ĩtarĩkĩirie ngoro yayo, na ruaki wayo wĩtarĩ kĩoome kĩa ⟨את⟩ Ere.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nĩgũkoruo ti"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "gũkoruo"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "ta asee ao"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbarĩ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ĩnyamu"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ĩrĩa ĩũrĩte"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbarĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩta-"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "rĩkĩirie"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na wĩtarĩ"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "kĩoome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaki wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:27.163741249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 21:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na andũ nĩciarĩtie kũingĩra Erohimu na kwa Moce, magĩtha: Nĩ kĩ mweteree tũra Micirayimu nĩguo tũkue gĩcaũ-inĩ? Tondũ ti kũonekana mũgati, na ti kũonekana mai, na ngoro yitũ nĩyĩthereretie irio icio ithenya.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nĩciarĩtie kũingĩra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nĩ kĩ"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "mweteree tũra"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "gũkua"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩcaũ-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tondũ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti kũonekana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mũgati"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ti kũonekana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ונפשנו",
+      "gloss": "ngoro yitũ"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "nĩyĩthereretie"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "הקלקל",
+      "gloss": "icio ithenya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:04:57.262612130Z",
+  "model": "glm-5.3"
+}

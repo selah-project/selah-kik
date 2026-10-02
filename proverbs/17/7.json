@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Kiugo kĩa kĩguni ti kĩega kwa kĩmũrũ; na ũguo wĩra, mũnene ndaarĩ na romo rĩa ubaya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "kwa kĩmũrũ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "romo rĩa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kĩguni"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ũguo wĩra"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "romo rĩa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubaya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:55:17.691577597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Na meirĩre mawĩra make, na macinĩgie make, arĩa wonire ⟨arĩ⟩.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Na meirĩre"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mawĩra make"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "macinĩgie make"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "wonire ⟨arĩ⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:53.553245930Z",
+  "model": "glm-5.3"
+}

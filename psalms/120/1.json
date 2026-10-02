@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 120,
+  "translation": "Kĩini kĩa mahũa. Kũrĩ Yahwe, thĩinĩ wa wĩgũrũ wakwa, nĩndahũĩrire, nakĩhooka.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kĩini"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "kĩa mahũa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "thĩinĩ wa wĩgũrũ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nĩndahũĩrire"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "nakanĩhooka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:15.652837034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Ala ndũnjatie rĩrĩa ndĩnyuura; rĩrĩa hinya wakwa ũthereraga, ala ndũnkaage.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ndũnjatie"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ndĩnyuura"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "rĩrĩa...ĩthereraga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ndũnkaage"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:53.093076269Z",
+  "model": "glm-5.3"
+}

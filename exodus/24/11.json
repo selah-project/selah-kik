@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na harĩ atong'oria a ciana cia Yiceraeri nĩndarute kĩe; nao nĩmaonire ⟨את⟩ Erohimu, nao makamenya ũkũrĩa na kwĩnywa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na harĩ"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "atong'oria"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩ... rũciũ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nĩdarute"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kĩe"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "nĩmaonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "makamenya ũkũrĩa"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "na kwĩnywa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:52.801900744Z",
+  "model": "glm-5.3"
+}

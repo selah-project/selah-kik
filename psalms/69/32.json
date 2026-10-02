@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Na kĩu nĩkĩgũtikĩra Yahwe kũrenda ng'ombe, mwana wa ng'ombe, iria ĩĩ na minyurũ na igũrũ rĩa mahiũ.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Na kĩu nĩkĩgũtikĩra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kũrenda ng'ombe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mwana wa ng'ombe"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "iria ĩĩ na minyurũ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "na igũrũ rĩa mahiũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:57.687466037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Rarĩ, wĩenda ũtheri thĩinĩ wa kĩndũ kĩnihĩte kwa ndani, na thĩinĩ wa kĩnihĩte nĩgũkũmenyithia ũgeni.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Rarĩ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "wĩenda"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "thĩinĩ wa kĩndũ kĩnihĩte kwa ndani"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "na thĩinĩ wa kĩnihĩte"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgeni"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "nĩgũkũmenyithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:23.774468015Z",
+  "model": "glm-5.3"
+}

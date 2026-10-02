@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩmathĩĩre ⟨את⟩ indo cĩake cĩa mbaara nyũmba-inĩ ya Actaroti, na ⟨את⟩ mwĩrĩ wake mathĩĩkĩtie mbocoini ya Beti-Cani.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "nĩmathĩĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo cĩake cĩa mbaara"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "indo cĩake cĩa mbaara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba-inĩ ya"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Actaroti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwĩrĩ wake"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "mwĩrĩ wake"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "mathĩĩkĩtie"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "mbocoini ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Cani"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:08.543741900Z",
+  "model": "glm-5.3"
+}

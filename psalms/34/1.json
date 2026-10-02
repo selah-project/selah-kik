@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩ ya Dawidi, rĩrĩa ahetũkĩrire mĩthero yake mbere ya Abimeleki, ⟨את⟩ namũcegereria, na akĩthiĩ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nĩ ya Dawidi"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "rĩrĩa ahetũkĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthero yake"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "mĩthero yake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleki"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "namũcegereria"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na akĩthiĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:32.526377057Z",
+  "model": "glm-5.3"
+}

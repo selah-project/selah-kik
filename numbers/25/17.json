@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "İkaranithanĩ ⟨את⟩ arĩa Micirayimu, na mũthemete ⟨את⟩ arĩa.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "İkaranithanĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa Micirayimu"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "arĩa Micirayimu"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "na mũthemete"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ arĩa",
+      "marks": "arĩa (Micirayimu)"
+    }
+  ],
+  "timestamp": "2026-10-01T22:05:28.534356142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na mũbarĩre kanyu kuuma mũthenya ũrĩa ũkũhĩkĩte wa Cabati, kuuma mũthenya ĩrĩa mũcookerire ⟨את⟩ omeri wa kũnyamũra; Cabati mũgwanja ciagĩrĩkuo cithondekete.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "mũbarĩre"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanyu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mũthenya ũrĩa ũkũhĩkĩte wa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuuma mũthenya"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "ĩrĩa mũcookerire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeri"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omeri"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "wa kũnyamũra"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "cithondekete"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ciagĩrĩkuo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:05.881054199Z",
+  "model": "glm-5.3"
+}

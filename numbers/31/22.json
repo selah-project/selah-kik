@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "No ⟨את⟩ ndahabu na ⟨את⟩ thambi, ⟨את⟩ cegera, ⟨את⟩ cuma, ⟨את⟩ thini, na ⟨את⟩ rĩra —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndahabu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thambi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "thambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cegera"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "cegera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuma"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "cuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thini"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "thini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "rĩra"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "rĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:10:59.032606439Z",
+  "model": "glm-5.3"
+}

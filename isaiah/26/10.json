@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Mũndũ mwamba arathĩkwo, na ndaona cedeki; thĩ ya ma nĩagendera mwamba, na ndarora ũkũrũ wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "arathĩkwo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwamba"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nda"
+    },
+    {
+      "surface": "למד",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ya ma"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "nĩagendera mwamba"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "na ndarora"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ũkũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:35:10.112281957Z",
+  "model": "glm-5.3"
+}

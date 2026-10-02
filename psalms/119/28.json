@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Moyo wakwa wĩthĩnjagĩra thĩna-inĩ; nĩndĩhote ta ũhoro waku.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "wĩthĩnjagĩra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wakwa"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "thĩna-inĩ"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "nĩndĩhote"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ta ũhoro waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:33.368760948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩrĩo Dawidi amũkĩte, mũthenya ũyũ ũcio agĩcũngĩrĩra mbere ya Cauro, na agĩthiĩ kũnyĩrĩra Akici, mwathani wa Gathi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "amũkĩte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "agĩcũngĩrĩra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũyũ ũcio"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩthiĩ kũnyĩrĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akici"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "גת",
+      "gloss": "wa Gathi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:24:49.342022442Z",
+  "model": "glm-5.3"
+}

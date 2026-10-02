@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Mîromo ya mahenia nĩithĩnjĩke, ĩrĩa ĩyooga maũndũ manene thĩinĩ wa mũthingu, na kĩhooto na kũhenia.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "ithĩnjĩke"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mîromo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mahenia"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "ĩrĩa ĩyooga"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "maũndũ manene"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "na kĩhooto"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "na kũhenia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:46.070272006Z",
+  "model": "glm-5.3"
+}

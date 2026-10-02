@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Boazi nĩaciarũra ⟨את⟩ Obedi; na Obedi nĩaciarũra ⟨את⟩ Yicai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Na Boazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩaciarũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "na Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩaciarũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yicai"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:39.375292704Z",
+  "model": "glm-5.3"
+}

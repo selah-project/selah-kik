@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Cokera hecedi yaku arĩa maamenya, na cedeki yaku arĩa mari amahũa-moko thĩinĩ wa ngoro.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "cokera"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi yaku"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "arĩa maamenya"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "na cedeki yaku"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "arĩa mari amahũa-moko"
+    },
+    {
+      "surface": "לב",
+      "gloss": "thĩinĩ wa ngoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:10.642942702Z",
+  "model": "glm-5.3"
+}

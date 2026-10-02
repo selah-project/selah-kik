@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Yahwe ⟨nĩ⟩ mũthamaki wa tene na tene hinya; ndũrĩrĩ nĩciarĩkũire thĩ-inĩ yake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na tene hinya"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "nĩciarĩkũire"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "thĩ-inĩ yake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:56.840812103Z",
+  "model": "glm-5.3"
+}

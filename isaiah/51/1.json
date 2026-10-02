@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ĩhũrũkanĩri inyiũ, arĩa moronjora cedeki, arĩa monjokaga Yahwe; mũroringore kwa ⟨the⟩ ihiga ũrĩa mwaranĩrĩtwo, na kwa ⟨the⟩ kĩhumbo kĩa hondi ũrĩa mwahingĩtwo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ĩhũrũkanĩri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "inyiũ"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "arĩa moronjora"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arĩa monjokaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "mũroringore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ihiga"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "ũrĩa mwaranĩrĩtwo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "kĩhumbo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hondi"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "ũrĩa mwahingĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:53.715866349Z",
+  "model": "glm-5.3"
+}

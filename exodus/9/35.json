@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Ngoro ya Farao nĩĩagĩrĩirie gwĩkĩra ikuũ, na ndathĩkĩrĩtie ⟨את⟩ ciana cia Yiceraeri, ta ũrĩa Yahwe aarathĩrire makĩra moko ma Moce.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nĩĩagĩrĩirie gwĩkĩra ikuũ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "thĩkĩrĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aarathĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makĩra moko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:03:46.867529001Z",
+  "model": "glm-5.3"
+}

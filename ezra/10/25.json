@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na kuuma kwa Yiceraeri, kuma ciana cia Paroci: Ramaya, na Yiziya, na Malkiya, na Miyamin, na Eriezari, na Malkiya, na Benaya.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "kuuma kwa Yiceraeri"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kuma ciana cia"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroci"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramaya"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "na Yiziya"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "na Malkiya"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "na Miyamin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "na Eriezari"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "na Malkiya"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "na Benaya"
+    }
+  ],
+  "timestamp": "2026-10-02T05:07:03.912278040Z",
+  "model": "glm-5.3"
+}

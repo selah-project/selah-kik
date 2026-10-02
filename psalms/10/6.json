@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Aoigire thĩinĩ wa ngoro yake atĩrĩ: Ndi kũgũũrũka kana kũhĩrwo, kuma mĩthemba ĩmwe kinya ĩngĩ ndikayingĩra thĩinĩ wa kĩuru.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aoigire"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "thĩinĩ wa ngoro yake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kũgũũrũka kana kũhĩrwo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mĩthemba ĩmwe-inĩ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kinya mĩthemba ĩngĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndikayingĩra"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "thĩinĩ wa kĩuru"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:10.297089909Z",
+  "model": "glm-5.3"
+}

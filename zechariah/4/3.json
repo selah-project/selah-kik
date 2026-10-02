@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na mĩembe ĩrĩ kũrĩ kũu — ĩmwe kuuma mwena wa kwoko ya murũngu wa gĩthombe kĩu, na ĩmwe kuuma mwena wa kwoko ya motho wayo.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "mĩembe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kũrĩ kũu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "mwena wa kwoko ya murũngu"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "wa gĩthombe kĩu"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "na ĩmwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuuma mwena"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "wa kwoko ya motho"
+    }
+  ],
+  "timestamp": "2026-10-02T02:43:02.394929640Z",
+  "model": "glm-5.3"
+}

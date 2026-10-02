@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Ũguo Yahwe oigĩte: ũguo nĩngũhooria ⟨את⟩ kĩeego kĩa Yahuda na ⟨את⟩ kĩeego kĩa Yerucarayimu kĩingĩ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "nĩngũhooria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩeego kĩa Yahuda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kĩeego"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩeego kĩa Yerucarayimu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kĩeego"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "kĩingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:10:55.656976921Z",
+  "model": "glm-5.3"
+}

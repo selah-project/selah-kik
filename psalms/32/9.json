@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Mũtikai mũre ta ndingo kana ta ndamathia, arĩ ⟨arĩ⟩ atarĩ na ũmenyo; ndũcĩ na mũcengo, mathanju macio, nĩmahotagĩra kũmanwo, matige kũgĩa hakuhĩ nawe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mũtikai"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mũre"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ta ndingo"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "ta ndamathia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "atarĩ"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ũmenyo"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ndũcĩ"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "mũcengo"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "mathanju macio"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "kũmanwo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "matige"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kũgĩa hakuhĩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:33.153674637Z",
+  "model": "glm-5.3"
+}

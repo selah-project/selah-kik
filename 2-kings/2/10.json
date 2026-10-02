@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩake akiuga: Nĩwathayĩire kĩndũ gĩkũrũ gũthayĩ; na rĩrĩa ũkĩona ini rĩrĩa nĩ ⟨את⟩ njigĩturwo kuuma ⟨את⟩ hakuhĩ nawe, nĩguo gĩtuhĩkĩra kwaku; na kana, gĩtihĩkĩkĩra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩake akiuga"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "nĩwathayĩire kĩndũ gĩkũrũ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "gũthayĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ũkĩona"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini (njigĩturwo)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gĩturwo"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kuuma ⟨את⟩ hakuhĩ nawe"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "nĩguo gĩtuhĩkĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gĩti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gĩtihĩkĩkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:52.009460995Z",
+  "model": "glm-5.3"
+}

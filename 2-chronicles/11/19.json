@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na akamũciarĩra aana: ⟨את⟩ Yeuci, na ⟨את⟩ Cemaria, na ⟨את⟩ Zahamu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akamũciarĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "aana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeuci"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeuci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cemaria"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Cemaria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zahamu"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:46:43.819304951Z",
+  "model": "glm-5.3"
+}

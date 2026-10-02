@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nake Dawidi akĩgeria ũguo, ũrĩa Yahwe amwoigĩrire; na akĩhoora ⟨את⟩ mbũtũ cia Afilicti, kuuma Geba nginya ũkinya Gezeri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩgeria ũguo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "amwoigĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akĩhoora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbũtũ cia Afilicti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mbũtũ cia Afilicti"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "kuuma Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ũkinya"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:31:13.326991879Z",
+  "model": "glm-5.3"
+}

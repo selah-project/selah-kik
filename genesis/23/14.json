@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na Efroni akĩcookia ⟨את⟩ Abarahamu, akĩmũambia ake:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akĩcookia"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩmũambia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:52.529260255Z",
+  "model": "glm-5.3"
+}

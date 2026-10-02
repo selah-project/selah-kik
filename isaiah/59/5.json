@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Maĩ a ciponi manarurũka, na mathari manarũa ma kanini; ũrĩa ũrĩra maĩ macio nĩakuua, na marĩa marehĩtio nĩmacokanagĩra na njoka.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "ciponi"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "manarurũka"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "na mathari"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "wa kanini"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "manarũa"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ũrĩa ũrĩra"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "maĩ macio"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "nĩakuua"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "na marĩa marehĩtio"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "nĩmacokanagĩra"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "na njoka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:56:29.556784970Z",
+  "model": "glm-5.3"
+}

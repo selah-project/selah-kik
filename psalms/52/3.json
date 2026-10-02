@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Nĩkĩ gũkuhĩtie mwanya-inĩ wa ũru, wĩ wa hinya? Hecedi ya Ere ĩikaraga mũthenya wothe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "gũkuhĩtie"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "mwanya-inĩ wa ũru"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "wĩ wa hinya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hecedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:38.490771986Z",
+  "model": "glm-5.3"
+}

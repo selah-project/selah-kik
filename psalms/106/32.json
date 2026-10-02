@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩmakamũnakania harĩ maaĩ ya Meriba, na mũrimũ ũkũrĩ Moce nĩ ũndũ wa ao.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "nĩmakamũnakania"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "na mũrimũ ũkũrĩ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "nĩ ũndũ wa ao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:17.452515273Z",
+  "model": "glm-5.3"
+}

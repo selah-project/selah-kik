@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na andũ makauma, makahitha ⟨את⟩ gĩkundi kĩa ita kĩa Aramu; ĩkĩgĩa gĩkũrure kĩmwe kĩa ũgũci nĩ cekeri ĩmwe, na gĩkũrure kerĩ kĩa njerũ nĩ cekeri ĩmwe, ta kiugo kĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "makauma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "makahitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩkundi kĩa ita kĩa Aramu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "gĩkundi kĩa ita"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ĩkĩgĩa"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "gĩkũrure kĩmwe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "kĩa ũgũci"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "nĩ cekeri ĩmwe"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "gĩkũrure kerĩ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "kĩa njerũ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "nĩ cekeri ĩmwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ta kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:12:21.168059515Z",
+  "model": "glm-5.3"
+}

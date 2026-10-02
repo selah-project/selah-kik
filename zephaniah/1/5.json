@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ⟨את⟩ arĩa mainamithira igũrũ wa nyũmba kwa mbũtũ cia igũrũ, na ⟨את⟩ arĩa mainamithira arĩa marahĩkĩra Yahwe, na arĩa marahĩkĩra Mirkamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mainamithira"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "arĩa mainamithira"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kwa mbũtũ cia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mainamithira"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "arĩa mainamithira"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "arĩa marahĩkĩra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "na arĩa marahĩkĩra"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Mirkamu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:39:55.038807559Z",
+  "model": "glm-5.3"
+}

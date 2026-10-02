@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Kwaku, ũthĩna ũrĩa wĩ na ũgoke wĩ kũu, Erohimu, thĩinĩ wa Cioni; na kwaku ndere ĩgĩcookerwo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kwaku"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ũthĩna ũrĩa wĩ na ũgoke wĩ kũu"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ũgoke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "thĩinĩ wa Cioni"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na kwaku"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ĩgĩcookerwo"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ndere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:12.121870446Z",
+  "model": "glm-5.3"
+}

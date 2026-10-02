@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ndũmũkage kuuma kwarĩ ⟨את⟩ nece na ⟨את⟩ maranyathi; ũgĩtũũra Erohimu waku, na mũrũ wanyu e hamwe nanyu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ndũkage"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mũkage"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kuuma kwarĩ ⟨את⟩",
+      "marks": "nece na maranyathi"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nece"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "na maranyathi"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ũgĩtũũra"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wanyu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:14.672594079Z",
+  "model": "glm-5.3"
+}

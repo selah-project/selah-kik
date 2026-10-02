@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Thiurani ciira, na nĩgũcokwo nacio; ũgeni kiugo, na kĩngĩtigĩkĩrĩka, nĩgũkũria Ere arĩ hacwacu.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "thiurani"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "na nĩgũcokwo nacio"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ũgeni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na kĩngĩ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tigĩkĩrĩka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũria"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "arĩ hacwacu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:49.354870500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na mũkĩrũnga ⟨את⟩ Yorudani, mũkaarĩ thĩ-inĩ ũrĩa Yahwe Erohimu wanyu a kũheega ⟨את⟩ nyinyi kĩrĩkanĩro, na akĩmũhũrũkĩra kũrĩ nyinyi kuma arĩa mamenyete nyinyi othe, arĩa mĩena yothe, na mũkaarĩ geha.",
+  "tokens": [
+    {
+      "surface": "וַעֲבַרְתֶּם",
+      "gloss": "na mũkĩrũnga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "na mũkaarĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "a kũheega kĩrĩkanĩro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyinyi"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "na akĩhũrũkĩra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kũrĩ nyinyi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuma othe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "arĩa mamenyete nyinyi"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "mĩena yothe"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "na mũkaarĩ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "geha"
+    }
+  ],
+  "timestamp": "2026-10-01T22:27:17.237025403Z",
+  "model": "glm-5.3"
+}

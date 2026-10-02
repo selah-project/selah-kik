@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nake arĩona atĩ yeye eiũrire kũthĩ ⟨את⟩ nayo, akahota kũmwarĩria.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "arĩona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "eiũrire"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kũthĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nayo",
+      "marks": "nayo"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "akahota"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwarĩria"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "nake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:33:21.054911724Z",
+  "model": "glm-5.3"
+}

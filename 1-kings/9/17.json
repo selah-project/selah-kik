@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩarũmbirie Ceromoni ⟨את⟩ Gatzeri, na ⟨את⟩ Bethi-Coroni ya thĩ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nĩarũmbirie"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gatzeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gatzeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Bethi-Coroni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Coroni"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:53.978503445Z",
+  "model": "glm-5.3"
+}

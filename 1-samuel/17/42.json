@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Mperisiti anyĩtirĩo na amaũra ⟨את⟩ Dawidi, nĩmemenithania; nĩgũkorwo arĩ mwanake, mũtheri wa mara, na wenjine mũthemba kũona.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "anyĩtirĩo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mperisiti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "na amaũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "nĩmemenithania"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwanake"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "mũtheri wa mara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mũthemba"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kũona"
+    }
+  ],
+  "timestamp": "2026-10-01T23:19:37.557753912Z",
+  "model": "glm-5.3"
+}

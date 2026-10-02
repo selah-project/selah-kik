@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩakananĩra ⟨את⟩ nyũmba cia kutheru iria ciarĩ nyũmba-inĩ ya Yahwe, iria atumia kuohothagia kuo nyũmba cia Acera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "akananĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba cia kutheru"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "cia kutheru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "kuohothagia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "cia Acera"
+    }
+  ],
+  "timestamp": "2026-10-02T00:22:53.942315064Z",
+  "model": "glm-5.3"
+}

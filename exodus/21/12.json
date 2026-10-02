@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Mũthinja mũndũ na mũndũ akuua, rũru nĩakuurũwo.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "mũthinja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "na akuua"
+    },
+    {
+      "surface": "מות",
+      "gloss": "rũru"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nĩakuurũwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:56.206848590Z",
+  "model": "glm-5.3"
+}

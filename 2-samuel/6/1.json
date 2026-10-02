@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩgo Dawidi acokirie kamarũngĩra ⟨את⟩ andũ arĩa othe baathĩti a Yiceraeri, aarĩ ngiri ithathatũ.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "acokirie kamarũngĩra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ongẽri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ arĩa othe baathĩti a Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "baathĩti"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ithathatũ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "cia ngiri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:56.462851139Z",
+  "model": "glm-5.3"
+}

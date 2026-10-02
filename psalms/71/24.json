@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Na rurimi rwakwa rwĩhiũhe cedeki yaku mũthenya wothe; nĩmaũragwo nĩ ihenya, nĩmahonokĩte arĩa barĩ kũrora mwanya wakwa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "rurimi rwakwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "rwĩhiũhe"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "cedeki yaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũ"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "maũragwo nĩ ihenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũ"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "mahonokĩte"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arĩa barĩ kũrora"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mwanya wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:22.205774118Z",
+  "model": "glm-5.3"
+}

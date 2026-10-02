@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "O! O! Rĩĩrwo kuma thĩ-inĩ ya Cafoni, Yahwe oigĩte; nĩgũkĩra nĩngĩkaharanyĩra ⟨אתכם⟩ ta ruaki ĩna cia igũrũ, Yahwe oigĩte.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "O!"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "O!"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "Rĩĩrwo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuma thĩ-inĩ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ya Cafoni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkĩra"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "ta ĩna"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cia igũrũ"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "nĩngĩkaharanyĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:42:05.501726151Z",
+  "model": "glm-5.3"
+}

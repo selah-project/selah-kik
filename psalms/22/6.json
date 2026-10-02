@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩmagĩkĩrĩtie kũrĩ We, nĩmaheanĩte kũhonoka; nĩmahokĩte kũrĩ We, matirĩ kũnyihwo ngoro.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ We"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "nĩmagĩkĩrĩtie"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "nĩmaheanĩte kũhonoka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kũrĩ We"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nĩmahokĩte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matirĩ"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "kũnyihwo ngoro"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:26.780106684Z",
+  "model": "glm-5.3"
+}

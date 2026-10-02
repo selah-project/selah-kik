@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "No Yiceraeri yĩthe na Yuda maarĩ endani na ⟨את⟩ Dawidi, nĩgũkorwo ũcio akĩhota na akĩingĩra mbere yao.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yĩthe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "maarĩ endani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "akĩhota"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "akĩingĩra"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbere yao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:13.514664796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "na nĩngĩciarikĩra ⟨את⟩ kĩrĩkanĩro kĩangũ kĩrĩa kĩrĩ hakuhĩ nĩngũ na inywe, na hakuhĩ na mũoyo wona wĩ mũrĩire mwĩrĩ-inĩ wothe; na mai tigaagĩra gũtuĩka mbũra nene ya kũhotha mwiri wona.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "na nĩngĩciarikĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩangũ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩangũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa kĩrĩ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakuhĩ nĩngũ"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "na inywe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hakuhĩ na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wona"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "wĩ mũrĩire"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mwĩrĩ-inĩ wothe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwĩrĩ-inĩ wothe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tigaagĩra"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gũtuĩka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tigaagĩra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "mbũra nene"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ya kũhotha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wona"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mwiri wona"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:32.016904962Z",
+  "model": "glm-5.3"
+}

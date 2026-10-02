@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 70,
+  "translation": "Na ndĩ mũkenyu na mũhoi; Erohimu, ũhĩrĩhĩra ngatho; nĩwe wĩwe ũteithia wakwa na mũcokithi wakwa; Yahwe, ndũhĩrĩhĩre kũiga.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na ndĩ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkenyu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũhoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ũhĩrĩhĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngatho"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ũteithia wakwa"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "na mũcokithi wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe wĩwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "hĩrĩhĩre kũiga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:49.929073015Z",
+  "model": "glm-5.3"
+}

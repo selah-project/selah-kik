@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Nĩandũ ũrĩkũ e mwathĩkie Ere, kana agĩcie mũhianano wa gũtheretha, ũtarĩ na nyarara iothe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩandũ ũrĩkũ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mwathĩkie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "kana mũhianano"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wa gũtheretha"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ũtarĩ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "na nyarara iothe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:47:37.995345584Z",
+  "model": "glm-5.3"
+}

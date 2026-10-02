@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Yahwe akiuga kwa Moce: Nginya rĩkĩ mũmenete gũikaraira mathwĩko makwa na Tora cakwa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Nginya"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "rĩkĩ"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "mũmenete"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "gũikaraira"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mathwĩko makwa"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na Tora cakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:36.252603568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Yerucarayimu, himbĩrĩra ⟨את⟩ Yahwe; Cioni, himbĩrĩra Erohimu waku.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "himbĩrĩra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "himbĩrĩra"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:57.219389536Z",
+  "model": "glm-5.3"
+}

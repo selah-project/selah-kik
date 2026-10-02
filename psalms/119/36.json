@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Gũcokia ngoro yaku ĩgũthiĩ kũrĩ ciĩra caku, ti kũrĩ kũrĩha indo cia ũthũ.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "gũcokia ĩgũthiĩ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ciĩra caku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ti kũrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kũrĩha indo cia ũthũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:35.953419788Z",
+  "model": "glm-5.3"
+}

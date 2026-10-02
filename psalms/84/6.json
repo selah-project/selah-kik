@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Marĩ na ũgima mũndũ ũrĩa hinya wake wĩ mawĩra; arĩa njĩra icio ciarĩ ngoro-inĩ ciao.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Marĩ na ũgima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mawĩra"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "njĩra icio"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ngoro-inĩ ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:10.753132167Z",
+  "model": "glm-5.3"
+}

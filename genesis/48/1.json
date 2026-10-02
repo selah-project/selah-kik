@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Na thutha wa maũndũ macio, nĩmoimire kwa Yocẽfu rĩrĩ: Ithe waku arĩ mũrwarie. Nĩacakire ⟨את⟩ mũrũ wake berĩ hamwe nake, ⟨את⟩ Menace na ⟨את⟩ Eferayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩikarĩire"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩmoimire"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kwa Yocẽfu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ithe waku"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "arĩ mũrwarie"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nĩacakire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wake berĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "berĩ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menace"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menace"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Eferayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Eferayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:57:38.707857801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu ahingithia ⟨את⟩ Daniyeri hecedi na njatha, imbeere ya mwathi wa carici.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ahingithia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniyeri"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeri"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "na njatha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "imbeere ya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "wa carici"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:01.069130673Z",
+  "model": "glm-5.3"
+}

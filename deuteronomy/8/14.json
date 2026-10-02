@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ngothi ciao cikĩriganu na mũkagaya Yahwe Erohimu wanyu, ũrĩa wakũhiũra ⟨את⟩ thĩ ya Micirayimu, kuuma nyũmba ya athũnjĩri ng'ombe",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "cikĩriganu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngothi ciao"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "na mũkagaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu wanyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ũrĩa wakũhiũra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma nyũmba ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "athũnjĩri ng'ombe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:20.710159432Z",
+  "model": "glm-5.3"
+}

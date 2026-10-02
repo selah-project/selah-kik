@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Akĩrũmbũiya kũrĩ we ⟨את⟩ ciana cia Amoni na ⟨a⟩ Amareki; na akĩthiĩ, akĩtua ⟨את⟩ Yiceraeri; nao makĩkera ⟨את⟩ mucii wa macembe.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "akĩrũmbũiya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Amoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "na Amareki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "na akĩthiĩ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akĩtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "nao makĩkera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucii wa macembe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mucii"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "wa macembe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:58:04.128797256Z",
+  "model": "glm-5.3"
+}

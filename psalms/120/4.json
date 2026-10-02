@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 120,
+  "translation": "Mĩthũ ya mũwanjiki, iria ciarahũkĩte, hamwe na makara ma retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Mĩthũ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya mũwanjiki"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "iria ciarahũkĩte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "makara ma"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "retama"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:15.658662956Z",
+  "model": "glm-5.3"
+}

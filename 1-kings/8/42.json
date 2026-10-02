@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "nĩgũkorwo o amenuũ ⟨את⟩ rĩĩtwa rĩaku rinene, na ⟨את⟩ mboko yako ya hinya, na ciuko yako ĩgĩtũũra; na akĩya akĩhoya kũgeria nyũmba ĩno —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "amenuũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "rinene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mboko yako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mboko yako"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ya hinya"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "na ciuko yako"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ĩgĩtũũra"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "akĩya"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "akĩhoya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũgeria"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    }
+  ],
+  "timestamp": "2026-10-01T23:55:40.200895048Z",
+  "model": "glm-5.3"
+}

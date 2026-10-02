@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Akĩthaara ⟨את⟩ mĩbatũ ya mũtĩ wa cĩtĩ, akĩhumbĩra ⟨את⟩ ĩyo na thahabu, ya gũcuhia ⟨את⟩ meza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩthaara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩbatũ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mĩbatũ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "cĩtĩ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "akĩhumbĩra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ĩyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "gũcuhia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:21.562604219Z",
+  "model": "glm-5.3"
+}

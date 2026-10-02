@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Anatumira kuuma igũrũ, agĩkũra, na kũmũrũra kuuma maaĩ maingĩ.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Anatumira"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "agĩkũra"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "kũmũrũra"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "kuuma maaĩ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:54.777792297Z",
+  "model": "glm-5.3"
+}

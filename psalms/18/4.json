@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Arĩa mũhũranĩtwo, nĩngaitĩra Yahwe, na nĩngacũranjio kuuma athũ makwa.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Arĩa mũhũranĩtwo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩngaitĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "athũ makwa"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "nĩngacũranjio"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:09.451811176Z",
+  "model": "glm-5.3"
+}

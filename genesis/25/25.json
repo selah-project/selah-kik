@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩgetha ũrĩa wa mbere atonye arĩ mũtherũ wa mũtune, o mwĩthe wake ta kanyũga gatangĩka, nao makĩhoota rĩĩtwa rake Ecacu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "atonye"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ũrĩa wa mbere"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "mũtherũ wa mũtune"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "ta kanyũga"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gatangĩka"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "nao makĩhoota"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rake"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ecacu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:42:15.112528173Z",
+  "model": "glm-5.3"
+}

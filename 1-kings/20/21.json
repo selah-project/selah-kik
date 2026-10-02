@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Mũthamaki wa Yiceraeri akĩuma, akarũa ⟨את⟩ farasi na ⟨את⟩ magari ma ita, akambũra Aramu kũgũcha nene.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akĩuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akarũa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farasi"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magari ma ita"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "magari ma ita"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "akambũra"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kũgũcha"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nene"
+    }
+  ],
+  "timestamp": "2026-10-02T00:03:30.869901853Z",
+  "model": "glm-5.3"
+}

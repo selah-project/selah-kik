@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 26:44",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Aana a Aceri kũ mbari ciao: kũ Yimna, mbari ya ayimna; kũ Yicvi, mbari ya ayicvi; kũ Beriya, mbari ya aberiya.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Aana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aceri"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "kũ mbari ciao"
+    },
+    {
+      "surface": "לימנה",
+      "gloss": "kũ Yimna"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbari ya"
+    },
+    {
+      "surface": "הימנה",
+      "gloss": "ayimna"
+    },
+    {
+      "surface": "לישוי",
+      "gloss": "kũ Yicvi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbari ya"
+    },
+    {
+      "surface": "הישוי",
+      "gloss": "ayicvi"
+    },
+    {
+      "surface": "לבריעה",
+      "gloss": "kũ Beriya"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbari ya"
+    },
+    {
+      "surface": "הבריעי",
+      "gloss": "aberiya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:08:19.167785900Z",
+  "model": "glm-5.3"
+}

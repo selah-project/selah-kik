@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩguo Yeremiayahu mũrathi akĩoigire ciugo ⟨את⟩ ciothe ici kũrĩ Cidikiayahu mũthamaki wa Yuda, Yerucarayimu-inĩ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩoigire"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidikiayahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:24:35.452555758Z",
+  "model": "glm-5.3"
+}

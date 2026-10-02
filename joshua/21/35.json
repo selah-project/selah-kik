@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimina na ⟨את⟩ mĩtaro wayo, ⟨את⟩ Naharari na ⟨את⟩ mĩtaro wayo — mĩciĩ inya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimina"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtaro wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩtaro wayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naharari"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Naharari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtaro wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩtaro wayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:15.577753458Z",
+  "model": "glm-5.3"
+}

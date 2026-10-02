@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Moce akiuga kũrĩ Erohimu: Nĩnjũ nĩwe njĩ? Nĩgũkũra nĩthiĩ kũrĩ Farao, na nĩngĩcooka njĩhĩũra ⟨את⟩ ciana cia Yiceraeri kuuma Micirayimu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩnjũ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩwe njĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũra"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nĩthiĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na nĩngĩcooka"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "njĩhĩũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:06.289835284Z",
+  "model": "glm-5.3"
+}

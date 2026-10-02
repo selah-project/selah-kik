@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Na ⟨את⟩ kĩombe kĩagu, kĩombe kĩa ceceri, ũthieke kwa mũnano wa mbaka ya mũnini, hamwe na ⟨את⟩ ceceri ya igĩthiaro yake. Nĩgekũra o ta kiugo kĩa Yocifu kĩo oigĩte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩombe kĩagu"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "kĩombe kĩagu"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "kĩombe"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kĩa ceceri"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ũthieke"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "kwa mũnano"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "wa mbaka"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ya mũnini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ceceri ya igĩthiaro yake"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ceceri"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ya igĩthiaro yake"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nĩgekũra"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ta kiugo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kĩa Yocifu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:46.770925449Z",
+  "model": "glm-5.3"
+}

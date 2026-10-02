@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Yahwe nĩagethĩtie mũthigo wa arĩa macoci, na kĩando gĩa arĩa mathamagĩra.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "nĩagethĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũthigo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa macoci"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kĩando"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "arĩa mathamagĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:38:38.824025448Z",
+  "model": "glm-5.3"
+}

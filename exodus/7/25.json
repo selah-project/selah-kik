@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mĩthenya ĩrĩtaano na ĩmwe nĩcihota, thutha wa Yahwe kũhũmũrũkia ⟨את⟩ Nairi.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "nĩcihota"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ĩrĩtaano na ĩmwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kũhũmũrũkia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nairi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nairi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:24.719550941Z",
+  "model": "glm-5.3"
+}

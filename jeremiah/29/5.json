@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Ĩkai nyũmba na mwikarire mũhĩa, na mũrime mĩgũnda, mũrie ⟨את⟩ ibere yacio.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ĩkai"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "na mwikarire mũhĩa"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "mũrime"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mĩgũnda"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mũrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibere yacio"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ibere"
+    }
+  ],
+  "timestamp": "2026-10-02T01:21:06.177147649Z",
+  "model": "glm-5.3"
+}

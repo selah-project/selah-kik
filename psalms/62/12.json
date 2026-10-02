@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Ĩmwe Erohimu nĩarokire; irĩ, yai nĩngĩĩthĩkĩirie: atĩ hinya nĩwa Erohimu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Ĩmwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nĩarokire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yai"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nĩngĩĩthĩkĩirie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "wa Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:07.686023462Z",
+  "model": "glm-5.3"
+}

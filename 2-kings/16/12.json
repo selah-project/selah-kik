@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Mũthingu agĩcooka kuuma Damaci, na mũthingu akĩona ⟨את⟩ mwaki ũcio, na mũthingu agĩthĩĩrĩra mwaki-inĩ ũcio, na agĩtũma ithĩrimũ igũrũ rĩake.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "agĩcooka kuuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damaci"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwaki ũcio"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mwaki ũcio"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "agĩthĩĩrĩra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mwaki-inĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "agĩtũma ithĩrimũ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T00:17:26.976980858Z",
+  "model": "glm-5.3"
+}

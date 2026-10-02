@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na rwĩ rwaatũire kuuma Edeni rĩgũcithĩkĩrĩra ⟨את⟩ mũgũnda, na kuuma harĩa rĩrĩ nĩrucĩthagĩka, nĩrutuĩka mĩtwe ĩnya.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Na rwĩ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "rwaatũire"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "kuuma Edeni"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "rĩgũcithĩkĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgũnda"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "mũgũnda"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "na kuuma harĩa"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "nĩrucĩthagĩka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nĩrutuĩka"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "Ĩnya"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mĩtwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:24.686280694Z",
+  "model": "glm-5.3"
+}

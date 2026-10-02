@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩ ũguo nĩndĩcookire, nĩndĩcũranĩte maũndũ matukũ macio-inĩ, gwĩkĩra wega ⟨את⟩ Yerucarayimu na ⟨את⟩ nyũmba ya Yahuda; mũtĩrĩre kũigua thiya.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "nĩ ũguo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nĩndĩcookire"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "nĩndĩcũranĩte"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "matukũ macio-inĩ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "gwĩkĩra wega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucarayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ya Yahuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũtĩrĩre"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kũigua thiya"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:10.351376921Z",
+  "model": "glm-5.3"
+}

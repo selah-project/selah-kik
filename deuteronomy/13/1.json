@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "⟨את⟩ kiugo gwĩhiũ ũrĩa nĩndĩmwamũkĩrĩtie, kĩyo nĩmũkingĩre gũkũra; ndũmũongere kĩnginya rĩake, na ndũmũkarehe kuma harĩa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo gwĩhiũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gwĩhiũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mwamũkĩrĩtie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩyo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nĩmũkingĩre"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũkũra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "mũongere"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kĩnginya rĩake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "mũkarehe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuma harĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T22:26:28.905761646Z",
+  "model": "glm-5.3"
+}

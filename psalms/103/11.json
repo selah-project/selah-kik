@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Nĩgũkoruo ta ũgima wa igũrũ rĩri harĩ thĩ, nĩ ũguo hecedi wake nĩ mũnene harĩ arĩa amũtĩmũkaga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ta ũgima"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩri harĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nĩ mũnene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "arĩa amũtĩmũkaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:19.129294138Z",
+  "model": "glm-5.3"
+}

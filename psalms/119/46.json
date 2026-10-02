@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Na nĩngĩũra mbari cia watho waku mbere ya athamaki, na ndĩngĩcokerio ithaka.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "na nĩngĩũra"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "mbari cia watho waku"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩngĩ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "cokerio ithaka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:50.742552453Z",
+  "model": "glm-5.3"
+}

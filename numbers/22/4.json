@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 22:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Moabu nĩwoigire na akũmĩrĩri a Midiyani atĩrĩ: Rĩu mũthingo ũyũ nĩgũciara ⟨את⟩ irĩa ikuhĩte na ithuĩ, o ta ng'ombe ikuhĩtie ⟨את⟩ mboco cia gĩcunjĩ. Nĩ rĩrĩ, Baraki mũrũ wa Cipori, mwathi wa Moabu, aarĩ mwathi wa Moabu hĩndĩ ĩyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩwoigire"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "akũmĩrĩri a"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Rĩu"
+    },
+    {
+      "surface": "יילחכו",
+      "gloss": "nĩgũciara"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mũthingo ũyũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "סביבתינו",
+      "gloss": "irĩa ikuhĩte na ithuĩ"
+    },
+    {
+      "surface": "כלחך",
+      "gloss": "o ta ikuhĩtie"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboco cia gĩcunjĩ"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cia gĩcunjĩ"
+    },
+    {
+      "surface": "ובלק",
+      "gloss": "Nĩ rĩrĩ, Baraki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Cipori"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:05:09.271804995Z",
+  "model": "glm-5.3"
+}

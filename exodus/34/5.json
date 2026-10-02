@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Yahwe akĩthererũka mũrigo-inĩ, na agĩikara hamwe nake kuo, na agĩita rĩĩtwa rĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akĩthererũka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "mũrigo-inĩ"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "agĩita"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rĩĩtwa-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:49.404371769Z",
+  "model": "glm-5.3"
+}

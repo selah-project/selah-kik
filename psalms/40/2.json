@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Nĩndĩtegereete, nĩndĩtegereete Yahwe, akĩgũcĩra ithũĩro, akĩigua kwarahũura kwakwa.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Nĩndĩtegereete"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nĩndĩtegereete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "akĩgũcĩra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ithũĩro"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kwarahũura kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:49.780719845Z",
+  "model": "glm-5.3"
+}

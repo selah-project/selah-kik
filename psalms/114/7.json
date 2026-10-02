@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 114,
+  "translation": "Thĩ, kĩnĩnĩka kuuma mbere ya Adonai, kuuma mbere ya Eroha wa Yaakobu!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "kĩnĩnĩka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Thĩ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eroha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:09.034289243Z",
+  "model": "glm-5.3"
+}

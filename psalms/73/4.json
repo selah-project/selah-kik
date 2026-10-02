@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Nĩgũtirĩ minyamaro kũrĩ rwatĩre rwao, na mĩrĩ yao ĩrĩ hinya na mĩhangũ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "minyamaro"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "kũrĩ rwatĩre rwao"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "na ĩrĩ mĩhangũ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:52.815696742Z",
+  "model": "glm-5.3"
+}

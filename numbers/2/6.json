@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũgate wayo na arĩa maathomithio, ngiri mirongo itano na inya na magana mana.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Na mũgate wayo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "na arĩa maathomithio"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "inya"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo itano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ו ארבע",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana mana"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:50.087973269Z",
+  "model": "glm-5.3"
+}

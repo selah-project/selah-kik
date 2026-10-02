@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Magĩmũkũra, magĩmũroinga ⟨את⟩ gĩthima-inĩ; na gĩthima gĩu kĩarĩ kĩengĩ, maaĩ matarĩ thĩinĩ wakĩo.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "magĩmũkũra"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "magĩmũroinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gĩthima"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "gĩthima-inĩ"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "gĩthima gĩu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kĩengĩ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "matarĩ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "thĩinĩ wakĩo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:54.581459269Z",
+  "model": "glm-5.3"
+}

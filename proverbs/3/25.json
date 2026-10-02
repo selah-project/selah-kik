@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ndũkĩige kĩeha kĩa gũthererũka kwa hĩndĩ, kana kũhĩrania kwa andũ mathuku, rĩrĩa kĩngĩkũũra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kwenda"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kũigua kĩeha"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kĩeha"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "kĩa gũthererũka kwa hĩndĩ"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "na kũhĩrania"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwa andũ mathuku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kĩngĩkũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:26.315477383Z",
+  "model": "glm-5.3"
+}

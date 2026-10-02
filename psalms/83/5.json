@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Maũndũ magĩrwo manga:Ũthiĩ,tũnyihithie kuuma kũgaĩ rũrĩrĩ,na rĩĩtwa rĩa Yiceraeri rĩtikoorwo kũririkana na gũtheri.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "magĩrwo manga"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ũthiĩ"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "tũnyihithie"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kuuma kũgaĩ rũrĩrĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na rĩtikoorwo"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "kũririkana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rĩa Yiceraeri"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na gũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:28.691460151Z",
+  "model": "glm-5.3"
+}

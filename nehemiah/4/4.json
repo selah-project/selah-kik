@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Yuda akiuga atĩ hinya wa arĩa mambararĩta mĩgũgo nĩwahũhĩtie, na mũcatha nĩ mũingĩ, na ithuĩ ti twaingĩa kũaka ngĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "nĩwahũhĩtie"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "wa arĩa mambararĩta mĩgũgo"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "na mũcatha"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mũingĩ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na ithuĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "twaingĩa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kũaka"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "ngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:12:54.152939163Z",
+  "model": "glm-5.3"
+}

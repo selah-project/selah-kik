@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na ndũngũ ciao ciamũeninia; no ithatũ wake akĩrũmagĩrĩra ⟨את⟩ kiugo kĩu.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ciamũeninia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kũrĩ-iwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndũngũ ciao"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ithatũ wake"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "akĩrũmagĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo kĩu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo kĩu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:03.404075242Z",
+  "model": "glm-5.3"
+}

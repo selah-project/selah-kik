@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩrĩo Yahwe aikĩrire kũuga kũrĩ ng'ũrũ, na ĩyo ĩkamũra ⟨את⟩ Yona ithũĩro rĩa kũma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩrĩo...aikĩrire kũuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "kũrĩ ng'ũrũ"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "na ĩkamũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ithũĩro"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "rĩa kũma"
+    }
+  ],
+  "timestamp": "2026-10-02T02:30:11.445629237Z",
+  "model": "glm-5.3"
+}

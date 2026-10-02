@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Umahirie irio ya maithori, na ũmanyesa maithori ya gatatũ.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Umahirie"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ya maithori"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "na ũmanyesa"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "maithori"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "ya gatatũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:56.038746820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Mwaka nĩwũtikirie wego waku; na njĩra cia waku ciatonyanagia amara.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "nĩwũtikirie"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "wego waku"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "njĩra cia waku"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ciatonyanagia"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "amara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:45.250925184Z",
+  "model": "glm-5.3"
+}

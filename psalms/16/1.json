@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Mictamu ya Dawidi. Ere, rindĩra nĩngĩ, nĩgũkorwo nĩndĩhokete kũcoka thĩinĩ wawe.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mictamu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "rindĩra nĩngĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nĩndĩhokete kũcoka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "thĩinĩ wawe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:11.529914032Z",
+  "model": "glm-5.3"
+}

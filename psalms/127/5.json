@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 127,
+  "translation": "Oriĩria murũume ũrĩa nĩiyũragĩte ⟨את⟩ kĩhunjia kĩake nao: ndangĩkorwo nyihithio, nĩgũkorwo marĩkanĩaga na ⟨את⟩ athũ kĩama-inĩ.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Oriĩria"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "murũume"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "nĩiyũragĩte"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhunjia kĩake"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "kĩhunjia kĩake"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ndangĩkorwo"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "nyihithio"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "marĩkanĩaga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "athũ"
+    },
+    {
+      "surface": "אוֹיְבִ֣ים",
+      "gloss": "athũ"
+    },
+    {
+      "surface": "בַּשָּֽׁעַר",
+      "gloss": "kĩama-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:29.018777495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 5:13",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ndarĩ kũigua mũgambo wa arĩa makwirutaga, na kũrĩ arĩa mathomagithania ndĩkahingithia gũtũ kwakwa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ndarĩ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "arĩa makwirutaga"
+    },
+    {
+      "surface": "ולמלמדי",
+      "gloss": "na kũrĩ arĩa mathomagithania"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndakahingithia ndarĩ"
+    },
+    {
+      "surface": "הטיתי",
+      "gloss": "ndĩkahingithia"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "gũtũ kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:41.835654785Z",
+  "model": "glm-5.3"
+}

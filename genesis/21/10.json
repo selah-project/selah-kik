@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Akĩuga na Abarahamu: Ũkahingũre mũtumia ũyũ na ⟨את⟩ mũrũ wake; nĩgũkorwo mũrũ wa mũtumia ũyũ ndacumagĩra hamwe na mũrũ wakwa, na Yicaki.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Abarahamu"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Ũkahingũre"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "acumagĩra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa mũtumia"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:30.256878929Z",
+  "model": "glm-5.3"
+}

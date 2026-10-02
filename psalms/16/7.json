@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩngathayo Yahwe ⟨את⟩ ũrĩa wathĩkĩrĩirie na ciira; ee, hĩndĩ cia ũtũkũ ng'anya yakwa ndũkunania.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "nĩngathayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "wathĩkĩrĩirie na ciira"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "hĩndĩ cia ũtũkũ"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ndũkunania"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ng'anya yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:04.534302189Z",
+  "model": "glm-5.3"
+}

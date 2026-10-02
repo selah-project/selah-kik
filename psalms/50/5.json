@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Chunganĩ inĩ andũ athayo wakwa, arĩa mahĩra kĩrĩkanĩro kĩakwa harĩ kũthīnjia.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Chunganĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "andũ athayo wakwa"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "mahĩra"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩakwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kũthīnjia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:19.924522894Z",
+  "model": "glm-5.3"
+}

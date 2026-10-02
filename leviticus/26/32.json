@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na nĩndĩhoonithia ⟨את⟩ thĩ ĩyo mwene, na thũ cirĩa ciitĩkagĩra icio nĩciĩgũa kũgwatĩrĩra.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "nĩndĩhoonithia"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩndĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩyo"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "nĩciĩgũa kũgwatĩrĩra"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "thĩ ĩyo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "thũ cirĩa ciitĩkagĩra"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "arĩa maarĩ kuura"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuo thĩ ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:03.611401082Z",
+  "model": "glm-5.3"
+}

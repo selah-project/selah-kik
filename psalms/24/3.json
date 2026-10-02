@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩũrĩkũ o ũrĩa angĩingatia kĩrĩma kĩa Yahwe, na ũrĩa angĩikara ũtheru-inĩ wake?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩũrĩkũ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "angĩingatia"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kĩrĩma kĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na ũrĩa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "angĩikara"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ũtheru wake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.267532410Z",
+  "model": "glm-5.3"
+}

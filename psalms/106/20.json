@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Magĩtambũrũkia ⟨את⟩ ũtheri wao na kĩonekwa kĩa ng'ombe ũrĩa ũriria minjie.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Magĩtambũrũkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũtheri wao"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ũtheri wao"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "na kĩonekwa kĩa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ũriria"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "minjie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:13.343033457Z",
+  "model": "glm-5.3"
+}

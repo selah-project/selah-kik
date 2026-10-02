@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na mũndũ ũrĩa agahũra ⟨את⟩ mũka na ⟨את⟩ nyina, wũru mũnene ⟨nĩguo⟩; na mũciara nĩmathakairio ⟨את⟩-yũe na ⟨את⟩-cio; na kũreho wũru mũnene gũtikũgĩa gatagatĩ-inĩ inyu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "agahũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyina"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "wũru mũnene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nĩguo⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũciara"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "nĩmathakairio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-yũe"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "na ⟨את⟩-cio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na kũreho ... gũtikũgĩa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "gũtikũgĩa"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "wũru mũnene"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "gatagatĩ-inĩ inyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:45:17.435560758Z",
+  "model": "glm-5.3"
+}

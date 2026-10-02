@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩ ũndũ ũcio nĩrĩ ngĩria atĩrĩ: Thĩrĩkĩra iyo, nĩngĩheanire ⟨the⟩ ũmenyi wakwa, iyo we mũmwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩrĩ ngĩria atĩrĩ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "thĩrĩkĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "nĩngĩheanire"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "ũmenyi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iyo we"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mũmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:19:27.070089897Z",
+  "model": "glm-5.3"
+}

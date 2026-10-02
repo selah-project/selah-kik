@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩ ũndũ Abarahamu nĩathĩĩrire ciugo ciakwa, na akarũmagĩra ũthingu wakwa, watho wakwa, ciĩra ciakwa, na Tora yakwa.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nĩathĩĩrire"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ciugo ciakwa"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "akarũmagĩra"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ũthingu wakwa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "watho wakwa"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ciĩra ciakwa"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "na Tora yakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T20:42:51.372182550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Dawidi agĩthĩkĩrĩra, akathĩnya ⟨את⟩ Yoabu na ⟨את⟩ ethimbũ rĩa arĩa me hinya wothe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "agĩthĩkĩrĩra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akathĩnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ethimbũ rĩa arĩa me hinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ethimbũ"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "arĩa me hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T05:33:48.685248839Z",
+  "model": "glm-5.3"
+}

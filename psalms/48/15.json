@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Nĩgũkorwo ũyũ nĩ Erohimu, Erohimu witũ, kuuma tene na thutha ũcio; nĩwe ũgatũtũngatĩra igũrũ rĩa kũũru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuuma tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na thutha ũcio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ũgatũtũngatĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kũũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:38.689155689Z",
+  "model": "glm-5.3"
+}

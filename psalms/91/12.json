@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Maboko-inĩ mao nĩmagũkũambe, ũrendire gũthĩnja kiguu gwaku na jiĩ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "maboko-inĩ mao"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "nĩmagũkũambe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ũrendire"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "gũthĩnja"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "na jiĩ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kiguu gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:13.321529059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "Kũo nĩngĩmerithia ĩgũrũ ya Dawidi; nĩnategereire kĩthembo kĩa Maciaki wakwa.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Kũo"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "nĩngĩmerithia"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ĩgũrũ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "nĩnategereire"
+    },
+    {
+      "surface": "נר",
+      "gloss": "kĩthembo"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "kĩa Maciaki wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:24.463487171Z",
+  "model": "glm-5.3"
+}

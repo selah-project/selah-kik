@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ⟨את⟩ mũthingũ wothe mũkũrũkũranie kũrĩ mũromo wa thĩĩmba ya kũonana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "mũthingũ wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũthingũ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mũkũrũkũranie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũromo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "thĩĩmba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũonana"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:44.223643149Z",
+  "model": "glm-5.3"
+}

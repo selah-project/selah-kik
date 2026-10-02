@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Micayahu mũrĩ wa Gemarayahu, mũrĩ wa Cafani, nĩaguĩrĩte ⟨את⟩ ciugo ciothe cia Yahwe kuuma igũrũ wa ibuku.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nĩaguĩrĩte"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Micayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrĩ wa"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "Gemarayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrĩ wa"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Cafani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma igũrũ wa"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:45:49.372470742Z",
+  "model": "glm-5.3"
+}

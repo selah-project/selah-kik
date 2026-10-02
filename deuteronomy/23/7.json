@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ndũrorage thayũ yao kana wega wao mĩthiya yakwa yoothe, thutha wa tene na tene.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ndũrorage"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "thayũ yao"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "kana wega wao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yoothe"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mĩthiya yakwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "thutha wa tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:18.366618250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 110,
+  "translation": "Kĩanjari kĩa Dawidi. Yahwe oigĩte kwa mwathi wakwa: Ikara makĩrĩ-inĩ wakwa ũgĩkinya ndĩhoote thũ ciake kĩgũtĩkĩro kĩa magũrũ make.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩanjari"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kwa mwathi wakwa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Ikara"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "makĩrĩ-inĩ wakwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ũgĩkinya"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndĩhoote"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "thũ ciake"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kĩgũtĩkĩro"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "kĩa magũrũ make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:32.973592305Z",
+  "model": "glm-5.3"
+}

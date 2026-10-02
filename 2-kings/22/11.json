@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na hĩndĩ ĩrĩa mũthamaki aiguithĩtia ⟨את⟩ ciugo cia kĩbuku kĩa Tora, akĩrĩha ⟨את⟩ nguo ciake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na hĩndĩ ĩrĩa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "aiguithĩtia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia kĩbuku kĩa Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kĩbuku"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "kĩa Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akĩrĩha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo ciake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "nguo ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:35:08.605657716Z",
+  "model": "glm-5.3"
+}

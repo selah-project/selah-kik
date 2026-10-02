@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Ihũrũra ⟨את⟩ iria Yahwe Erohimu wayoingire Miriamu, hĩndĩ ya mũcerũ, rĩrĩa mũciokeire kuuma Micirayimu.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ihũrũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iria wayoingire Miriamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayoingire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriamu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "hĩndĩ ya mũcerũ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "rĩrĩa mũciokeire"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:30:30.150326259Z",
+  "model": "glm-5.3"
+}

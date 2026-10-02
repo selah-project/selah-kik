@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Nĩacio ciana cia Alevi mathĩĩte ⟨את⟩ caje ya Erohimu, ta ũrĩa Moce anaagĩrĩrĩirie, ta ũhoro wa Yahwe, marwĩga-inĩ mao na makeethe igũrũ rwao.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "nĩmathĩĩte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caje ya Erohimu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "caje"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anaagĩrĩrĩirie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ta ũhoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "marwĩga-inĩ mao"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "na makeethe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ rwao"
+    }
+  ],
+  "timestamp": "2026-10-02T05:29:58.650959110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Njarĩ ĩgũgaũra hakuhĩ nakĩwe, na magana ikũmi bũrũri-inĩ waku; no nĩgũkorũo nĩgũtikĩra nakĩwe.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "ĩgũgaũra"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "hakuhĩ nakĩwe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "njarĩ"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "na magana ikũmi"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "bũrũri-inĩ waku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nakĩwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "nĩgũtikĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:22.776034584Z",
+  "model": "glm-5.3"
+}

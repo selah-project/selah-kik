@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 141,
+  "translation": "Rũmĩrĩra nĩgo ndĩringwo nĩ macũmi arĩa mamenete ngatho cia kũnyita, na nĩgo ndĩringwo nĩ ngatho cia arĩa maruta ũthĩna.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Rũmĩrĩra nĩgo ndĩringwo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "kuuma mĩoko"
+    },
+    {
+      "surface": "פח",
+      "gloss": "macũmi"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "arĩa mamenete ngatho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kũnyita"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "na ngatho"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "cia arĩa maruta"
+    },
+    {
+      "surface": "און",
+      "gloss": "ũthĩna"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:38.906043496Z",
+  "model": "glm-5.3"
+}

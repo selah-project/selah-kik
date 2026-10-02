@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Nĩ tondũ atumia make nĩmahĩtie wathũ kwaku, matũũre makũrĩngĩrĩra njĩra ikothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ tondũ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "atumia make"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "nĩmahĩtie wathũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "gũkũrĩngĩrĩra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thaanĩ-inĩ ciothe"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "njĩra ikothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:13.319856434Z",
+  "model": "glm-5.3"
+}

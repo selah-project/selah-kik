@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Andũ arĩa othe a andũ a Yehuda manĩitire ⟨את⟩ Uziyahu, na ⟨ĩwe⟩ arĩ mũri wa mĩaka ikũmi na ithano ĩrĩ, namo magĩcookerithĩra ⟨את⟩ kuuga arĩ mwathi handũ ha ithe wake Amaciayahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "manĩitire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ⟨ĩwe⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũri"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ikũmi na ithano ĩrĩ — funanĩke"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na ithano ĩrĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "magĩcookerithĩra kuuga arĩ mwathi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuuga arĩ mwathi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amaciayahu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:57:59.724461687Z",
+  "model": "glm-5.3"
+}

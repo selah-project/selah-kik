@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na aana a Yavani: Eliciaha, na Tarceci, Citimi, na Dodanimu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavani"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Eliciaha"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "na Tarceci"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Citimi"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "na Dodanimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:52.626415162Z",
+  "model": "glm-5.3"
+}

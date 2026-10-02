@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 23:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Yahwe Cebaoti nĩaecĩrire ũndũ ũcio, gũthingithia hihĩna wa kahũa gothe, na gũhĩhĩrĩria arĩa methĩtwo marĩ a kĩhuruto thĩ-inĩ yothe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "יעצה",
+      "gloss": "nĩaecĩrire"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "gũthingithia"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "hihĩna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa gothe"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "kahũa"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "gũhĩhĩrĩria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa gothe"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "arĩa methĩtwo marĩ a kĩhuruto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ-inĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:34:56.564377587Z",
+  "model": "glm-5.3"
+}

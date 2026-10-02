@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Kũrĩ mũhunjia wa ngwataniro, wa mũteithia wa Yahwe, wa Dawidi, ũrĩa oigire kwa Yahwe ⟨את⟩ ciugo cia gwata ĩno, hĩndĩ ĩrĩa Yahwe atmũrire ⟨את⟩ yũ kuuma moko-inĩ ma arĩa mamenerĩte makĩo mwĩrĩ na kuuma moko-inĩ ma Caori.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũhunjia wa ngwataniro"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "wa mũteithia wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia gwata ĩno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "gwata"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "hĩndĩ ĩrĩa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "atmũrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yũ",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kuuma moko-inĩ ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "arĩa mamenerĩte makĩo mwĩrĩ"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "na kuuma moko-inĩ ma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:09.450396363Z",
+  "model": "glm-5.3"
+}

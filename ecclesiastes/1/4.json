@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mũīthingi ũkĩenda, na mũīthingi ũngĩ ũkĩĩgĩra; na thĩ ĩgĩtũũra ĩĩyayũkĩte tene na tene.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "mũīthingi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ũkĩenda"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na mũīthingi ũngĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ũkĩĩgĩra"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ĩĩyayũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:29.009973407Z",
+  "model": "glm-5.3"
+}

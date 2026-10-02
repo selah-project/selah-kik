@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Nĩgũkoruo nĩendete-inĩ wakwa, nĩndĩmũteithagĩria; nĩndĩmũiguaigia, nĩgũkoruo anamenya Rĩĩtwa rĩakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "nĩndĩmũteithagĩria"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "nĩndĩmũiguaigia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anamenya"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Rĩĩtwa rĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:38.152328998Z",
+  "model": "glm-5.3"
+}

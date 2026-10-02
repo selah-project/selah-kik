@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Nĩndĩkuuna ihũgũ rĩacio na mũthingi, na rĩegotho rĩao na njorua.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "nĩndĩkuuna"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "na mũthingi"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ihũgũ rĩacio"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "na njorua"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "rĩegotho rĩao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:48.698869730Z",
+  "model": "glm-5.3"
+}

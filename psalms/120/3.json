@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 120,
+  "translation": "Nĩkĩ kĩgatuĩkaga, na nĩkĩ kĩongagwo kũrĩ we, rũrũmĩ rwa kũhunja?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kĩgatuĩkaga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na nĩkĩ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "kĩongagwo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rũrũmĩ rwa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "kũhunja"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:15.656651088Z",
+  "model": "glm-5.3"
+}

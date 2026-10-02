@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na nĩndĩmahe ⟨את⟩ watho wakwa, na ⟨את⟩ ciira cianji nĩndĩmacĩmenyereria ⟨את⟩, arĩa mũndũ akoragĩra ⟨את⟩ nĩamũra nacio.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "nĩndĩmahe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watho wakwa"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "watho wakwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciira cianji"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira cianji"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "nĩndĩmacĩmenyereria"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ciira cianji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akoragĩra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "nĩamũra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nacio"
+    }
+  ],
+  "timestamp": "2026-10-02T01:52:23.895827439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩ nĩngũhota atĩa, na ndĩkũona ⟨את⟩ ũru ũrĩa ũngĩmũkũra andũ akwa? Na nĩngũhota atĩa, na ndĩkũona wonji wa kũciarũo kwakwa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "nĩngũhota atĩa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nĩngũhota"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "na ndĩkũona"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ũngĩmũkũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "na nĩngũhota atĩa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nĩngũhota"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "na ndĩkũona"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "wonji"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "wa kũciarũo kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:50:26.088623894Z",
+  "model": "glm-5.3"
+}

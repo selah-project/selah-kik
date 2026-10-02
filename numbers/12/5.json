@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Yahwe akĩitherũka thĩ mũgongo-inĩ wa ira, agĩikara mũthingi wa ⟨hema⟩, akĩita Aharoni na Miriami, nao me igĩrĩ makĩiya hanini.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akĩitherũka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "mũgongo-inĩ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wa ira"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũthingi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "וירים",
+      "gloss": "na Miriami"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "makĩiya hanini"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "me igĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:58:24.360851468Z",
+  "model": "glm-5.3"
+}

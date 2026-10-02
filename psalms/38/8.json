@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩgũkorwo thiguo cia ngima cia ngerengeri njacio nĩcĩjihote, na gũtirĩ kĩtheru thĩinĩ wa mwĩrĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "thiguo cia ngima"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "nĩcĩjihote"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ngerengeri njacio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kĩtheru"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "thĩinĩ wa mwĩrĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:42.670717875Z",
+  "model": "glm-5.3"
+}

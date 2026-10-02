@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Ereasai nĩorotire ⟨את⟩ Cicimai, na Cicimai nĩorotire ⟨את⟩ Carumu.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Na Ereasai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cicimai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Cicimai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "na Cicimai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Carumu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Carumu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:05.998971634Z",
+  "model": "glm-5.3"
+}

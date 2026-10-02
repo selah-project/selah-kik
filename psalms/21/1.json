@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Kwa mũcũranji. Ngereto ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũcũranji"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ngereto"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:57.464922009Z",
+  "model": "glm-5.3"
+}

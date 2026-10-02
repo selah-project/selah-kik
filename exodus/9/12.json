@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yahwe agĩcũngĩrĩria ⟨את⟩ ngoro ya Farao, na ndaiguithia macio, ta ũrĩa Yahwe aoigire Moce.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "agĩcũngĩrĩria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndaiguithia"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "macio"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aoigire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:05.326573573Z",
+  "model": "glm-5.3"
+}

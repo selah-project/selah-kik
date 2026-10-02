@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Dawidi agĩthii nagĩtaũra, ũrĩa na andũ aana arĩa; na andũ agacĩrĩ mbĩrĩcũ matĩngĩra, nĩmetirĩrũo ngoro gũthambĩra ⟨את⟩ mũrongoro wa Becori.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "agĩthii nagĩtaũra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na aana"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "matĩngĩra"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "agacĩrĩ mbĩrĩcũ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "metirĩrũo ngoro"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "gũthambĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrongoro wa Becori"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mũrongoro"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "wa Becori"
+    }
+  ],
+  "timestamp": "2026-10-01T23:26:03.526624987Z",
+  "model": "glm-5.3"
+}

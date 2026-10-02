@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nao magĩkũĩra mawĩge make, magĩcoora gooco ciake.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "magĩkũĩra"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "mawĩge make"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "magĩcoora"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "gooco ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:42.941736340Z",
+  "model": "glm-5.3"
+}

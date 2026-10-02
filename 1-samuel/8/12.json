@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na gũtũma kũrĩ iwe atongoria cia ngiri na atongoria cia mirongo ĩtaano, na kũcima kũcima gwake, na kũheha irĩa riaki, na gũteithia ibiaro cia ita riaki na ibiaro cia gari giake.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "na gũtũma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ iwe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "cia ngiri"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na atongoria"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cia mirongo ĩtaano"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "na kũcima"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "kũcima gwake"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "na kũheha"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "irĩa riaki"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "na gũteithia"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ibiaro"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "cia ita riaki"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na ibiaro"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "cia gari giake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:23.451915781Z",
+  "model": "glm-5.3"
+}

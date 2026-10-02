@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũndũ agĩthũkĩra, na mũndũ agĩhinga; nĩ ũndũ ũcio ndũkahoye ⟨arĩa⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "agĩthũkĩra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "agĩhinga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "-hoye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:23:28.239464366Z",
+  "model": "glm-5.3"
+}

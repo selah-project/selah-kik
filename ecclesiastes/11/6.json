@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Kĩroko-inĩ thagithia ⟨את⟩ mbembe yaku, na thũkũ-inĩ ĩtĩka guoko gwaku kũhũra, nĩgũkorwo nĩũtakũmenya kũrĩ kĩa gũkĩra kĩega, kana ũyũ kana ũyũ, na angĩ geha ĩrĩ ikũyũanĩtie ta imwe nĩ njega.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Kĩroko-inĩ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "thagithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbembe yaku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbembe yaku"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "na thũkũ-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩtĩka"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "aletia kũhũra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "guoko gwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ũtarĩ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ũmenya"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "gũkĩra kĩega"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na angĩ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "geha ĩrĩ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ta imwe"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "njega"
+    }
+  ],
+  "timestamp": "2026-10-02T04:43:33.481336401Z",
+  "model": "glm-5.3"
+}

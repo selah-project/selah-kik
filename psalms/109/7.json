@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Rĩrĩa aathĩkĩrĩirio ciira, mũũru ahoote, na thayo make ituĩke ihĩtia.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "rĩrĩa aathĩkĩrĩirio ciira"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ahoote"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũũru"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "na thayo make"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ituĩke"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "ihĩtia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:33.926370856Z",
+  "model": "glm-5.3"
+}

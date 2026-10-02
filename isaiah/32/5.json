@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Ndarĩ mũndũ-mwoya gũcookerwo ũtĩrũgĩ, na mũkenyahari ndacakoorerwo ũtonga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "gũcookerwo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ndarĩ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "mũndũ-mwoya"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ũtĩrũgĩ"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "na mũkenyahari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "acakoorerwo"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ũtonga"
+    }
+  ],
+  "timestamp": "2026-10-02T00:39:09.632084398Z",
+  "model": "glm-5.3"
+}

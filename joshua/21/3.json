@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na ciana cia Yiceraeri nĩciheetie Arewi kuuma thĩ ciao, ta ũrĩa kanywa kwa Yahwe kwagĩrĩirie: ⟨את⟩ mĩtaro ĩno na ⟨את⟩ migiraci ciao.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "nĩciheetie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Arewi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "kuuma thĩ ciao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanywa kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtaro ĩno"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mĩtaro"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migiraci ciao"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "migiraci ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:51:16.680758443Z",
+  "model": "glm-5.3"
+}

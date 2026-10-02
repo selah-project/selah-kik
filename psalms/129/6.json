@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 129,
+  "translation": "Mathĩke ta rwatũ rwa igũrũ cia nyũmba, rũrĩa tarĩ kũmera nĩrwarungĩtwo nĩrũmĩire.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mathĩke"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ta rwatũ"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "rwa igũrũ cia nyũmba"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "rũrĩa tarĩ kũmera"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "nĩrwarungĩtwo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "nĩrũmĩire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.495364923Z",
+  "model": "glm-5.3"
+}

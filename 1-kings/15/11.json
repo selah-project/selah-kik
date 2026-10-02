@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na Aca anĩgĩca kĩoĩ thĩinĩ wa metho ma Yahwe, ta Dawidi ithe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "anĩgĩca"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aca"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "kĩoĩ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa metho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "ta Dawidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:14.567816107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Nĩ nĩĩ Yahwe Erohimu waku, ũrĩa wkũhiũrire thĩinĩ wa cio ya Micirayimu, thĩinĩ wa nyũmba ya mahũa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "nĩ nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "wkũhiũrire"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "thĩinĩ wa cio"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "thĩinĩ wa nyũmba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mahũa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:03.333142846Z",
+  "model": "glm-5.3"
+}

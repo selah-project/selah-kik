@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Akĩthũca akauga: Mũcarũgi waku nĩ ũrĩkũ, ũrĩa wĩrĩtie kũroreta ngũi ĩyo yaakuire, ĩrĩa ĩngĩhĩrĩka ta ĩĩ?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "akĩthũca"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akauga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩ ũrĩkũ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũcarũgi waku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "wĩrĩtie kũroreta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ngũi ĩyo"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yaakuire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ta ĩĩ — ingĩhĩrĩka ta iyo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:19.940926970Z",
+  "model": "glm-5.3"
+}

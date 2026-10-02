@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na Dawidi akiuga kwa Yehonatani: Nĩ ũngũ gũtigwo kũmanyĩtwo nakwa, kana maũndũ macio, rĩrĩa ithe waku akũyakuurĩria na ndaka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũngũ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kũgania"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "maũndũ macio"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "akũyakuurĩria"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ithe waku"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "na ndaka"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:30.756116970Z",
+  "model": "glm-5.3"
+}

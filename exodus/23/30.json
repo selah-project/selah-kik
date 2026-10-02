@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Gĩtenge gĩtenge ndi kũceesa kuuma mbere yaku, nginya wĩcooke, na ũcirĩke ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "gĩtenge"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gĩtenge"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ndĩceesa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kuuma mbere yaku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "wĩcooke"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "na ũcirĩke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:43.252062753Z",
+  "model": "glm-5.3"
+}

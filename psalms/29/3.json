@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Mũgambo wa Yahwe nĩ ũrĩ igũrũ rĩa mĩena; Ere wa egeti nĩarĩkĩtie kĩũmbo; Yahwe ũrĩ igũrũ rĩa mĩena mĩnene.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mũgambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa egeti"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "nĩarĩkĩtie kĩũmbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mĩnene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:06.358995761Z",
+  "model": "glm-5.3"
+}

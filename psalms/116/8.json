@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Nĩgũkorwo ũnjihiirie ⟨את⟩ mũoyo wakwa ũkuu-inĩ, ⟨את⟩ rĩitho rĩakwa mĩtheri-inĩ, ⟨את⟩ magũrũ makwa gũtheremananio-inĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "ũnjihiirie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ũkuu-inĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩitho rĩakwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "rĩitho rĩakwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "mĩtheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magũrũ makwa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "magũrũ makwa"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "gũtheremananio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:52.356703478Z",
+  "model": "glm-5.3"
+}

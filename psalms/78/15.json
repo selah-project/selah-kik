@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Agethire ibere thĩiniĩ wamũkundu, akĩnywetha ta ciyũĩ cianini cia maaĩ maingĩ.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "agethire"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ibere"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩiniĩ wamũkundu"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akĩnywetha"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "ta ciyũĩ cianini cia maaĩ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "maingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:51.552666964Z",
+  "model": "glm-5.3"
+}

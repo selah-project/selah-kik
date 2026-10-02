@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩngĩtũa mũndũ-wa-kũfĩra o mũkũranĩku ta thahi, na mũndũ wamũthenya ta thathi ĩrĩa ĩthathi ya Oferi.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Nĩngĩtũa o mũkũranĩku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ-wa-kũfĩra"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "ta thahi"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "na mũndũ wamũthenya"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ta thathi ĩrĩa ĩthathi"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Oferi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:26.919452687Z",
+  "model": "glm-5.3"
+}

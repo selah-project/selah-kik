@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Yahwe akiuga na Moce na na Aharoni, akĩrathĩra atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩrathĩra atĩrĩ:"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:32.905496999Z",
+  "model": "glm-5.3"
+}

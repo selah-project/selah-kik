@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Yahwe agũkũrindithia kuuma mbeca ciothe; arindithagia ⟨את⟩ mũoyo waku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "agũkũrindithia"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma mbeca ciothe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mbeca"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "arindithagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũoyo waku"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mũoyo waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:29.267062433Z",
+  "model": "glm-5.3"
+}

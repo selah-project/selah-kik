@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩngatha mĩbũrũ ya thĩ yanyu kwa hĩndĩ yayo — ya mbere na ya magegũ — nĩmũkoretwo mũkũringithia ibacĩrĩa rĩaku, na mbũrũ njerũ rĩaku, na maĩ ma mũkindũ rĩaku.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩngatha"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mĩbũrũ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "thĩ yanyu"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "kwa hĩndĩ yayo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "na ya magegũ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mũkũringithia"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "ibacĩrĩa rĩaku"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "na mbũrũ njerũ rĩaku"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "na maĩ ma mũkindũ rĩaku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:10.352046727Z",
+  "model": "glm-5.3"
+}

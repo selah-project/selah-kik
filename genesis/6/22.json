@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Noahi nĩekire; o ta ila ciothe iria Erohimu woimĩrire ⟨את⟩, o ũguo nĩekire.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩekire"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ta ila ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "woimĩrire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Noahi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩekire"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:54.780288955Z",
+  "model": "glm-5.3"
+}

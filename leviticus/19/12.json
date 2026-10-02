@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na ndũkĩriria kĩra rĩĩtwa-inĩ rwakwa maheni, na ũthekĩre rĩĩtwa rĩa Erohimu waku; nĩwe Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ndũ"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kĩriria kĩra"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "rĩĩtwa-inĩ rwakwa"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "maheni"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "na ũthekĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa Erohimu waku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "rĩa Erohimu waku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:49.851324693Z",
+  "model": "glm-5.3"
+}

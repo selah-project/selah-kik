@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Yahwe, thĩinĩ wa mĩthingĩ nĩmo hecedi waku ĩrĩ; gwĩtĩkĩria kwaku nĩgũkinya mĩthingĩ-inĩ mĩtheru.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "thĩinĩ wa mĩthingĩ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "gwĩtĩkĩria kwaku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nĩgũkinya"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mĩthingĩ-inĩ mĩtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:40.457636080Z",
+  "model": "glm-5.3"
+}

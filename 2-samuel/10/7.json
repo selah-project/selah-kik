@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Dawidi aiguĩte, akĩrũma ⟨את⟩ Yowabu na ⟨את⟩ mbũtũ ciothe ya andũ arĩa me hinya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "aiguĩte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akĩrũma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mbũtũ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "arĩa me hinya"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:45.595265229Z",
+  "model": "glm-5.3"
+}

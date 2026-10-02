@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Na Erohimu, Mũthamaki wakwa, kuuma mbere, nĩekũra mĩhonokia thĩinĩ wa ⟨the⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Na Erohimu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mũthamaki wakwa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kuuma mbere"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nĩekũra"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mĩhonokia"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:02.497151431Z",
+  "model": "glm-5.3"
+}

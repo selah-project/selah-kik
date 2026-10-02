@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩ ũndũ ũcio, rĩrĩ, nĩngĩhinga ⟨את⟩ njĩra yaku na miatha, na ngatũũra ⟨את⟩ rirũa rĩaku, na njĩra ciake atakũnyita.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "rĩrĩ, nĩngĩ"
+    },
+    {
+      "surface": "שך",
+      "gloss": "kũhinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njĩra yaku"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njĩra yaku"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "na miatha"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "na ngatũũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rirũa rĩaku"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "rirũa rĩaku"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "na njĩra ciake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ata"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kũnyita"
+    }
+  ],
+  "timestamp": "2026-10-02T02:17:24.398790056Z",
+  "model": "glm-5.3"
+}

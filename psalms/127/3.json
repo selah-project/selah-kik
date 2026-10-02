@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 127,
+  "translation": "Rorera, ciana nĩcio gĩcĩĩro kĩa Yahwe; mĩtheri ya igua nĩyo kĩheo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rorera"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "gĩcĩĩro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mĩtheri"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ya igua"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:21.112163103Z",
+  "model": "glm-5.3"
+}

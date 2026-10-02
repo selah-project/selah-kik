@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Yahwe, ndũkanjũrie mũrimũ-inĩ waku, wĩra ndũkanjongore thĩenĩ waku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũk"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mũrimũ-inĩ waku"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "njũrie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wĩra ndũk"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "thĩenĩ waku"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "njongore"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:01.918494293Z",
+  "model": "glm-5.3"
+}

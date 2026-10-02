@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Mweri wa mbere, mũthenya wa mbere wa mweri, nĩũgĩrĩrie ⟨את⟩ Micikani, oheri wa gĩkũmanwo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ wa"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mũthenya wa mbere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "nĩũgĩrĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "oheri"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wa gĩkũmanwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:02.333954530Z",
+  "model": "glm-5.3"
+}

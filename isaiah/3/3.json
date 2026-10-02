@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mwathi wa mĩrongo ĩrĩ, na mũrutithithani wa andũ a mbaara, na mũhootani, na mũmenyereri wa arĩmi, na mũhootani wĩna mĩhangũ, na mũnyiti mũgambo wa ng'ania-rũhuho.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "wa mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "na mũrutithithani"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wa andũ a mbaara"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "na mũhootani"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "na mũmenyereri"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "wa arĩmi"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "na mũhootani wĩna mĩhangũ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "wa ng'ania-rũhuho"
+    }
+  ],
+  "timestamp": "2026-10-02T00:25:42.929644800Z",
+  "model": "glm-5.3"
+}

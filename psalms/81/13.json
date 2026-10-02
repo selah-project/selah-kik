@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Nĩndamũheere kĩng'ania kĩa ngoro yao, magĩcoka magĩthii na mĩhang'o yao.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "nĩndamũheere"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "kĩng'ania"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kĩa ngoro yao"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magĩthii"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "na mĩhang'o yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:48.903524216Z",
+  "model": "glm-5.3"
+}

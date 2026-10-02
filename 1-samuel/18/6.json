@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 18:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na hĩndĩ ĩrĩa makĩinya, rĩrĩa Dawidi akĩcooka kuuma kũhoora ⟨את⟩ Ũmũcereciti, atumia nĩmathiũra kuma mĩcĩ yothe ya Yiceraeri, kũgĩthaithia na kũina, gũkũrania na Caori mũthamaki, na ngĩcwa, na gũkena, na metha ĩtatũ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "hĩndĩ ĩrĩa makĩinya"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "rĩrĩa akĩcooka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "kuuma kũhoora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ũmũcereciti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Ũmũcereciti"
+    },
+    {
+      "surface": "ותצאנה",
+      "gloss": "nĩmathiũra"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuma … othe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mĩcĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "kũgĩthaithia"
+    },
+    {
+      "surface": "והמחלות",
+      "gloss": "na kũina"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gũkũrania na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "na ngĩcwa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na gũkena"
+    },
+    {
+      "surface": "ובשלשים",
+      "gloss": "na metha ĩtatũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:54.713848916Z",
+  "model": "glm-5.3"
+}

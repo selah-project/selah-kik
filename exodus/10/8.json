@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩmoiguĩriruo ⟨את⟩ Moce na ⟨את⟩ Aharoni nakĩrĩhũriruo harĩ Faraoni; nakĩmũuga atĩrĩ: 'Thingai, reherei ⟨את⟩ Yahwe Erohimu wanyu icũgĩ. Nindo nĩ ũrĩkũ, nĩ andũ arĩkũ arĩa maathii?'",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "nĩmoiguĩriruo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nakĩmũuga atĩrĩ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "thingai"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "reherei icũgĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nindo nĩ ũrĩkũ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nĩ andũ arĩkũ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "arĩa maathii"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:53.156606995Z",
+  "model": "glm-5.3"
+}

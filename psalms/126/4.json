@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 126,
+  "translation": "Cokera ⟨את⟩ mũgũ witũ, Yahwe, ta maĩ me twĩri twĩceku thĩ-inĩ ya Neceri.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "cokera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgũ witũ"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "mũgũ witũ"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "ta maĩ me twĩri twĩceku"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "thĩ-inĩ ya Neceri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:38:31.096114456Z",
+  "model": "glm-5.3"
+}

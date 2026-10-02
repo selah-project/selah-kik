@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na ⟨את⟩ thĩa cia gĩcũgĩ kĩa Dawidi nĩmũonire, atĩrĩ nĩ ingĩ, na nĩmũrirũnyire ⟨את⟩ maa ya yaibere ya thĩ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thĩa cia gĩcũgĩ kĩa Dawidi"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "thĩa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gĩcũgĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nĩmũonire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nĩ ingĩ"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "na nĩmũrirũnyire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ya yaibere"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:23.914700710Z",
+  "model": "glm-5.3"
+}

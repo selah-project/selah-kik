@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Rehabeamu agĩthĩ Cekemu, nĩgũkũra Cekemu Yiceraeri wothe nĩ ũkũrire kũmũthamakia ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agĩthĩ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeamu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũra"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩ ũkũrire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kũmũthamakia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Rehabeamu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:48.527227563Z",
+  "model": "glm-5.3"
+}

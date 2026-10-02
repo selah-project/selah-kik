@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Ĩhoro njega cia arĩa maikaragia ciira, ũndũ wa gũthaama cedeki hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ĩhoro njega cia"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "arĩa maikaragia"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũndũ wa gũthaama"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:32.228839590Z",
+  "model": "glm-5.3"
+}

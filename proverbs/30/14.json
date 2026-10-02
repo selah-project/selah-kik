@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Mũkũrũ ũrĩkũ ũrĩa marũnga make nĩ ta macemane, na menyo make makenenie nĩ mahĩnjĩ, kũrĩa ⟨את⟩ arĩa mĩhĩtĩku kuuma thĩ, na ⟨את⟩ arĩa mekũoya kuuma andũ.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "mũkũrũ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "macemane"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "marũnga make"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "na mahĩnjĩ ga kũrĩa"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "menyo make makenenie"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "arĩa mĩhĩtĩku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "na arĩa mekũoya"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuuma andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:01:55.503722158Z",
+  "model": "glm-5.3"
+}

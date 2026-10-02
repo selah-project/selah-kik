@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Cabati ya mahũa nĩyo yanywe; na mũninie ⟨את⟩ ngere cianywe — watho wa tene na tene.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya-mahũa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yanywe"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "na-mũninie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngere cianywe"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ngere-cianywe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "watho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa-tene-na-tene"
+    }
+  ],
+  "timestamp": "2026-10-01T21:42:18.134019230Z",
+  "model": "glm-5.3"
+}

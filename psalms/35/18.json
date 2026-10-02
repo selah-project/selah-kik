@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Mũthingĩ mũnene-inĩ nĩngũkũrigicĩria, na harĩ andũ arĩa me hinya mũno nĩngũkũhimbĩria.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "nĩngũkũrigicĩria"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mũthingĩ mũnene-inĩ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "harĩ andũ"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "arĩa me hinya mũno"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "nĩngũkũhimbĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T06:53:59.081107922Z",
+  "model": "glm-5.3"
+}

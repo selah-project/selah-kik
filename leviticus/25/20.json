@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na rĩmwe mũroire: Nĩkĩ tũrarĩa mwaka-inĩ wa mũgwanja? Rĩrĩ, ndũtũrĩmera na ndũtũgera ⟨את⟩ mĩmera yitũ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "na rĩmwe"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mũroire"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tũrarĩa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mwaka-inĩ"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wa mũgwanja"
+    },
+    {
+      "surface": "הן",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "tũrĩmera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "tũgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩmera yitũ"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "mĩmera yitũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:46:58.816229400Z",
+  "model": "glm-5.3"
+}

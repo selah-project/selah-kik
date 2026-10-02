@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Ae Yahwe, tondũ nĩndĩ mũtumia wakwa; nĩndĩ mũtumia wakwa, mũrũ wa mũtumia-wa-ĩgũrũ wakwa; ũnjathiire mĩnyũrũ yanjũ.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ae"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tondũ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia wakwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia wakwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mũtumia-wa-ĩgũrũ wakwa"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ũnjathiire"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mĩnyũrũ yanjũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:33.624749193Z",
+  "model": "glm-5.3"
+}

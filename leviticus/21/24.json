@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩũrĩre Moce akĩwĩra Aharoni, na akĩwĩra anake ake, na akĩwĩra aana arĩa a Yiceraeri othe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩwĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake ake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana arĩa a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:03.713498457Z",
+  "model": "glm-5.3"
+}

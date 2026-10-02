@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Kanũa gakwa nĩgakorota cedeki yaku, ihinda rĩothe kũhonokia kwaku; nĩndĩtikamenya ihűmi ciao.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "kanũa gakwa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "nĩgakorota"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "cedeki yaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rĩothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ihinda"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "kũhonokia kwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nĩndĩtikamenya"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ihűmi ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:04.044670113Z",
+  "model": "glm-5.3"
+}

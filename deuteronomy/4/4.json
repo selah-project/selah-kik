@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na inywe arĩa mũcokanĩte na Yahwe Erohimu wanyu, mũikarage othe anyu ũmũthĩ.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Na inywe"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "arĩa mũcokanĩte"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mũikarage"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "othe anyu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:19:19.619935376Z",
+  "model": "glm-5.3"
+}

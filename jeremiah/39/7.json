@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na ⟨את⟩ maitho macio ya Cedekiahu akĩmũhĩra, na akĩmũgota na mĩthero ya cithahi, agukenyerwo Baberu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maitho macio ya Cedekiahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ya Cedekiahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akĩmũhĩra"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "akĩmũgota"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "na mĩthero ya cithahi"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "agukenyerwo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Cedekiahu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Baberu"
+    }
+  ],
+  "timestamp": "2026-10-02T01:27:28.252677897Z",
+  "model": "glm-5.3"
+}

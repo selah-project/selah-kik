@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Akĩmeeria atĩrĩrĩ: Tĩî; nĩ mwĩĩte kũona kũhũrwo kwa thĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩî"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kũhũrwo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mwĩĩte"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũona"
+    }
+  ],
+  "timestamp": "2026-10-01T20:53:44.695103597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 99,
+  "translation": "Moce na Aharoni harĩ athahũ ciake, na Samueri harĩ arĩa makohaga Rĩĩtwa rake; makohĩte kũrĩ Yahwe, na we akĩmacokia.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "harĩ athahũ ciake"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "na Samueri"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "harĩ arĩa makohaga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Rĩĩtwa rake"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "makohĩte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "akĩmacokia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:17.081146418Z",
+  "model": "glm-5.3"
+}

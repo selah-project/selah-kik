@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 95,
+  "translation": "İthĩrai, tũkunamĩre tũhĩtwo, na tũkunamĩre magũrũ tunyamĩre thayũ thayũ harĩ Yahwe, Mũrĩkĩria witũ.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "İthĩrai"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "tũkunamĩre tũhĩtwo"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "na tũkunamĩre magũrũ"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "tunyamĩre thayũ thayũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Mũrĩkĩria witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:11.292769450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "O ũguo nĩnarakuona harĩ ũtheru-inĩ waku, ngĩhota kũona hinya waku na ũtheri waku.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "O ũguo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "harĩ ũtheru-inĩ waku"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "nĩnarakuona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngĩhota kũona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hinya waku"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "na ũtheri waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:24.091482306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Nĩgũko Yahwe ndagatiga andũ ake, na ithaka rĩake ndagatũũra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "-gatiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "na ithaka rĩake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "-gatũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:08.045018466Z",
+  "model": "glm-5.3"
+}

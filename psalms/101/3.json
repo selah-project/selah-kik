@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Ndĩngĩgũta kiugo kĩa beryeri mbere ya ithenya rĩakwa; wĩra wa arĩa mahee nĩngĩmenete; ti ũgũkomerana na nji.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nĩngĩgũta"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ithenya rĩakwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "kĩa beryeri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wĩra wa"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "arĩa mahee"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nĩngĩmenete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "kũkomerana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na nji"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:49.085016210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 25:30",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ĩgĩkora rĩrĩa Yahwe agĩkora kwa mwathi wakwa o ta ũrĩa woigĩte ⟨את⟩ wega hakuhĩ na wee, na agĩkũteekithia wĩ mũtongoria wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na ĩgĩkora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "agĩkora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kwa mwathi wakwa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "o ta ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woigĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wega"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wega"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hakuhĩ na wee"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "na agĩkũteekithia"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "wĩ mũtongoria"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:26:32.062464251Z",
+  "model": "glm-5.3"
+}

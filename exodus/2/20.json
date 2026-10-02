@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩakĩria atĩrĩri ciana ciake icarĩ: Nĩ arĩ kũ? Nĩ gĩtũmĩ kĩa gĩkĩkĩ mũrire ⟨את⟩ mũndũ ũcio? Mwĩhoke ũcio arĩ kũ, arĩ we theta igũrũ rĩngi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩakĩria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atĩrĩri"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ciana ciake icarĩ"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Nĩ arĩ kũ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nĩ gĩtũmĩ kĩa gĩkĩkĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "mũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũcio"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Mwĩhoke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "arĩ we theta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:03.696102347Z",
+  "model": "glm-5.3"
+}

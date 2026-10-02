@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Mũthondeki wa mũtheri, na mũomboki wa ng'inia, mũhooti wa thayũ, na mũomboki wa ũru; nĩĩ Yahwe, mũhooti wa macio mothe.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "mũthondeki"
+    },
+    {
+      "surface": "אור",
+      "gloss": "wa mũtheri"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "na mũomboki"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "wa ng'inia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mũhooti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa thayũ"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "na mũomboki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wa ũru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mũhooti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "macio"
+    }
+  ],
+  "timestamp": "2026-10-02T06:39:42.957175090Z",
+  "model": "glm-5.3"
+}

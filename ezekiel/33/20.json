@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na mũnoonie atĩrĩ: 'Ũra wa Adonai ntiũmĩtwo mwanya.' O mũndũ o ũmwe thutha wa mbere cĩake nĩngakuciirania inywe, wee nyũmba ya Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "mũnoonie atĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nti"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "ũmĩtwo mwanya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ũra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "o mũndũ o ũmwe"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "thutha wa mbere cĩake"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nĩngakuciirania"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:50:21.158631311Z",
+  "model": "glm-5.3"
+}

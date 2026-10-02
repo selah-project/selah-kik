@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩngũathira kanũa gwakwa mũhiano-inĩ; nĩngĩhurũkĩrĩra mĩtereko ya tene.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "nĩngũathira"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "mũhiano-inĩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanũa gwakwa"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "nĩngĩhurũkĩrĩra"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "mĩtereko"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:31.625776402Z",
+  "model": "glm-5.3"
+}

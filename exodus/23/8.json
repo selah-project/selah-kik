@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na ndega ndũkanyita; nĩgũkorũo ndega ĩthĩnjĩra maitho ma arĩa me maraũ, na ĩhindagithia ciugo cia arĩa a theru.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "ndega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kũnyita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ndega"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ĩthĩnjĩra maitho"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "arĩa me maraũ"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ĩhindagithia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa a theru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:15.767355830Z",
+  "model": "glm-5.3"
+}

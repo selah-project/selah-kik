@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Ũrĩa ũhorehorerithagia micithĩrio yaku yothe, ũrĩa ũhoretia mĩrima yaku yothe.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Ũrĩa ũhorehorerithagia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "micithĩrio yaku"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "Ũrĩa ũhoretia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "mĩrima yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:09.811988816Z",
+  "model": "glm-5.3"
+}

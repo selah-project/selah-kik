@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Na athamaki othe magakuura magũrũ kũmũ; ndũrĩrĩ ciothe cigamũtungata.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "na magakuura magũrũ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũmũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "cigamũtungata"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:45.063122366Z",
+  "model": "glm-5.3"
+}

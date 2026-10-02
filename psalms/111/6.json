@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Hinya wa mawĩra make nĩamwĩrire andũ ake, nĩgeetha mahethe ⟨⟨את⟩⟩ itherero ya ndũrĩrĩ.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "wa mawĩra make"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "nĩamwĩrire"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nĩgeetha mahethe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨⟨ma⟩⟩"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "itherero"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:57.717833042Z",
+  "model": "glm-5.3"
+}

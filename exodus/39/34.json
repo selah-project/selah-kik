@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na ⟨את⟩ kĩgũci kĩa mahũa ma ng'ondu iria cĩahũrwo rwaro, na ⟨את⟩ kĩgũci kĩa mahũa ma thehashi, na ⟨את⟩ kĩgambi kĩa kĩgũci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgũci kĩa mahũa ma ng'ondu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kĩgũci"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "mahũa ma"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ng'ondu iria"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "cĩahũrwo rwaro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgũci kĩa mahũa ma thehashi"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kĩgũci"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "mahũa ma"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "thehashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgambi"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kĩgambi"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "kĩa kĩgũci"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:08.668874663Z",
+  "model": "glm-5.3"
+}

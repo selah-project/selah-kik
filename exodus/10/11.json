@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ndi ũguo; ithuĩ arũme thiĩi rĩu, mũtũmĩrĩre ⟨את⟩ Yahwe, nĩ ũndũ ũcio nĩmũrenda. Nĩamũringitĩte kuma mbere ya theetha ya Parao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "thiĩi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ithuĩ arũme"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mũtũmĩrĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nĩmũrenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nĩmũrenda"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "mũrenda"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "Nĩamũringitĩte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuma mbere"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuma ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya theetha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:35.788976268Z",
+  "model": "glm-5.3"
+}

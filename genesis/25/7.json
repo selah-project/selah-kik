@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ici nĩ mĩthenya ya mĩaka ya miaka ya Abarahamu arĩakayarĩirie: mĩaka igana na mĩrongo iri na ikũmi na ithano.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ici"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya mĩaka"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya miaka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ya Abarahamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩakayarĩirie"
+    },
+    {
+      "surface": "חי",
+      "gloss": "arĩakayarĩirie"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "igana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mĩrongo iri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ikũmi na ithano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:42:07.557420159Z",
+  "model": "glm-5.3"
+}

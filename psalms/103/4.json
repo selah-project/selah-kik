@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Ũrĩa ũguũnitia mĩoyo yaku kuuma kĩgwa-inĩ kĩa mwaki, ũrĩa ũkuuhĩtie heca na njatha cia kũiguithia.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Ũrĩa ũguũnitia"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "kuuma kĩgwa-inĩ kĩa mwaki"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "mĩoyo yaku"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "Ũrĩa ũkuuhĩtie"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heca"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "njatha cia kũiguithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:09.813729403Z",
+  "model": "glm-5.3"
+}

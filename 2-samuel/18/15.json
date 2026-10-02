@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩmgwete andũ a mbaara arĩa ikũmi arĩa maatumĩtĩgĩra iria riĩ Yoabu nĩmagocire handũ, makĩhota ⟨את⟩ Abicaromu, makĩmũkua.",
+  "tokens": [
+    {
+      "surface": "ובסבו",
+      "gloss": "nĩmagocire handũ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "arĩa ikũmi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "andũ a mbaara"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "arĩa maatumĩtĩgĩra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "iria riĩ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ya Yoabu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makĩhota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abicaromu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abicaromu"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "makĩmũkua"
+    }
+  ],
+  "timestamp": "2026-10-01T23:41:53.387493725Z",
+  "model": "glm-5.3"
+}

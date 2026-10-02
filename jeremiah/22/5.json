@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na rĩngĩ mũtikiguigua ⟨את⟩ ciugo icio, nĩ nĩngĩhonia nĩ nĩndĩmwe, Yahwe oigĩte, atĩ nyũmba ĩno nĩgĩtuĩka kĩgaya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na rĩngĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mũtikiguigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo icio"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "icio"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nĩ nĩndĩmwe"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nĩngĩhonia"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "kĩgaya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgĩtuĩka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    }
+  ],
+  "timestamp": "2026-10-02T01:13:04.308448293Z",
+  "model": "glm-5.3"
+}

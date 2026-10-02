@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na atũmire ⟨את⟩ Elyakimu ũrĩa warĩ igũrũ rĩa nyũmba, na Shebna mũandĩki, na ⟨את⟩ athĩki a aathani, macokio na caki, kinya kwa Yecayiahu mũrathi, mũrũ wa Amoti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atũmire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakimu"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "na Shebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mũandĩki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "athĩki a aathani"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "athĩki a"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aathani"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "macokio"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "na caki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya kwa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecayiahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoti"
+    }
+  ],
+  "timestamp": "2026-10-02T00:19:38.003473078Z",
+  "model": "glm-5.3"
+}

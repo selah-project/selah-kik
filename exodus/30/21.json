@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩmagũcĩre moko mao na magũrũ mao, matī na kũrĩkũra; ũcio nĩgũtuĩka kĩrĩa kĩhingagĩrio: watho wa tene na tene, harĩ we na harĩ ciana ciake, nginya mirũ ya ciana ciao.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "nĩmagũcĩre"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "na magũrũ mao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matī"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "na kũrĩkũra"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "nĩgũtuĩka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "harĩ ao"
+    },
+    {
+      "surface": "חק",
+      "gloss": "watho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa tene na tene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "harĩ we"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "na harĩ ciana ciake"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nginya mirũ ya ciana ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:53.834180783Z",
+  "model": "glm-5.3"
+}

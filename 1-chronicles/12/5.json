@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Yirimeya, na Yahaciyeri, na Yohanani, na Yozabadi, wa Gedera.",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "Na Yirimeya"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "na Yahaciyeri"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "na Yohanani"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "na Yozabadi"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "wa Gedera"
+    }
+  ],
+  "timestamp": "2026-10-02T05:26:44.370966046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Aba ithuacio Micirayimu-inĩ matiigĩanĩrĩite maũndũ manene thayakwa; matiirikire ⟨את⟩ ũingĩ wa hecedi ciao; nacio makamenete thĩinĩ wa rua, rũa Cufi.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Aba ithuacio"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micirayimu-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "matiigĩanĩrĩite"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "maũndũ manene thayakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "matiirikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũingĩ wa hecedi ciao"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ũingĩ"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hecedi ciao"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "nacio makamenete"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "rua"
+    },
+    {
+      "surface": "בים",
+      "gloss": "rũa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Cufi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:18.543717687Z",
+  "model": "glm-5.3"
+}

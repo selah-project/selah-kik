@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Kana nĩ kwagĩrĩ maitho ma thĩarĩme? Kana ũkonaga ta ũrĩa mũndũ-wa-kũfwĩ akonaga?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "kana nĩ maitho"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ma thĩarĩme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ-wa-kũfwĩ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ũkonaga"
+    }
+  ],
+  "timestamp": "2026-10-02T04:10:43.090908560Z",
+  "model": "glm-5.3"
+}

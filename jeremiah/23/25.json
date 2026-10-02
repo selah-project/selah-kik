@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩngĩmwothe ⟨את⟩ ũrĩa arathi macokagĩra mbatarĩro cia manyathi arathi a kwaria kũratha ũcuuhĩ ũtarĩ wa ma, na makuga: Nĩmenyetie, nĩmenyetie.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Nĩngĩmwothe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa arathi macokagĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "macokagĩra"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "arathi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "arathi a kwaria kũratha"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ũcuuhĩ ũtarĩ wa ma"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kũratha ũcuuhĩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na makuga"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Nĩmenyetie"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nĩmenyetie"
+    }
+  ],
+  "timestamp": "2026-10-02T01:17:33.823721991Z",
+  "model": "glm-5.3"
+}

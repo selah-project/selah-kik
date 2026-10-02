@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Ndĩmũkanaga hamwe na inywe ⟨את⟩ ngai cia feuta, kana ngai cia ndahabu; ndĩmũkanaga akwenda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndĩ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mũkanaga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "hamwe na inywe ⟨את⟩",
+      "marks": "ngai cia feuta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cia feuta"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kana ngai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "cia ndahabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũkanaga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "akwenda"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:05.093627581Z",
+  "model": "glm-5.3"
+}

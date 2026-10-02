@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "No nĩnjua kũikara kwaku, na kũuma kwaku, na kũingia kwaku, na ⟨את⟩ gũthirithiria kwaku kirĩa ndĩĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "kũikara kwaku"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "kũuma kwaku"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "kũingia kwaku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nĩnjua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gũthirithiria kwaku kirĩa ndĩĩrĩ"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "gũthirithiria kwaku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kirĩa ndĩĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:20:56.431332499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Ĩrĩmĩkĩra ⟨את⟩ mweri wa Abibi, na ũce Peca kwa Yahwe Erohimu waku; nĩ mweri wa Abibi Yahwe Erohimu waku nĩweherĩte ũ kuuma Micirayimu injora.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ĩrĩmĩkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweri wa Abibi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "wa Abibi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na ũce"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Peca"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mweri-inĩ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "wa Abibi"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "nĩweherĩte ũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "injora"
+    }
+  ],
+  "timestamp": "2026-10-01T22:26:44.483827307Z",
+  "model": "glm-5.3"
+}

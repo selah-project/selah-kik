@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu anyiite ⟨את⟩ mũtherũ, atĩ nĩ mũega; na Erohimu atatanyithania hagatiya mũtherũ na ciĩku.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Na Erohimu anyiite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtherũ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "mũtherũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ mũega"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "na Erohimu atatanyithania"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagatiya"
+    },
+    {
+      "surface": "האור",
+      "gloss": "mũtherũ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ciĩku"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:43.972222960Z",
+  "model": "glm-5.3"
+}

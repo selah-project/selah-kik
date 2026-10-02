@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Aoigire ngoro yake-inĩ atĩrĩ: Ere nĩehererĩtie; nĩeigĩire ⟨ũndũ⟩ kĩongo kĩake ihiga; tene tene ndarona.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aoigire"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ngoro yake-inĩ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "nĩehererĩtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "nĩeigĩire ihiga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kĩongo kĩake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "itina"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "tene tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:11.365087149Z",
+  "model": "glm-5.3"
+}

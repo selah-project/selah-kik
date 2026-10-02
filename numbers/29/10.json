@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "kĩganyi kĩa ikũmi kĩmwe kwa kondoo ĩmwe, kwa kondoo cio mũgwanja.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "kĩganyi kĩa ikũmi"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "kĩmwe kwa"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "kondoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "kwa kondoo cio"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mũgwanja"
+    }
+  ],
+  "timestamp": "2026-10-02T06:20:39.117624401Z",
+  "model": "glm-5.3"
+}

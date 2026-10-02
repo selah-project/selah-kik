@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Nĩgũkorwo we nĩũkuire ⟨את⟩ nyeri ciakea; kĩnungĩ-inĩ kĩa nyina wakwa nĩwagũcũkĩtie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "nĩũkuire"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nyeri ciakea"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "nĩwagũcũkĩtie"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "kĩnungĩ-inĩ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nyina wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:14.898176616Z",
+  "model": "glm-5.3"
+}

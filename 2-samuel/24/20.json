@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na Arawuna akĩrorera, akĩona ⟨את⟩ mũthamaki na ⟨את⟩ ateithĩrĩria ake makĩhũthagĩra nakĩe; na Arawuna akĩiya nja, akĩhumba mũthamaki, mũso wake thĩ.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "akĩrorera"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Arawuna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ateithĩrĩria ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ateithĩrĩria ake"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "makĩhũthagĩra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nakĩe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akĩiya nja"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Arawuna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akĩhumba"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "mũso wake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:45:57.905724787Z",
+  "model": "glm-5.3"
+}

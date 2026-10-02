@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 27:31",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na arĩ mũndũ acookia na thogora kĩmwe kĩake kĩa ikũmi, nĩongerera kĩanya kĩa gĩtano igũrũ rĩake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na arĩ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "acookia"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "na thogora"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ממעשרו",
+      "gloss": "kĩmwe kĩake kĩa ikũmi"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "kĩanya kĩake kĩa gĩtano"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "nĩongerera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:44.956911735Z",
+  "model": "glm-5.3"
+}

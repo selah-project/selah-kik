@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nguu cia matu-inĩ, na ciũa cia mari, na iria ihĩtũkĩra thori cia mari.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "nguu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matu-inĩ"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "na ciũa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "cia mari"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ihĩtũkĩra"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "thori"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "cia mari"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:07.373281671Z",
+  "model": "glm-5.3"
+}

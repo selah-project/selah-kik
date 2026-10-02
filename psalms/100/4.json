@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 100,
+  "translation": "Injĩrĩia makũrũ-inĩ make na ngatho, na kĩambĩrĩrianĩ-inĩ kĩake na kunania; mũrongorere ngatho, mũrathĩkĩre rĩĩtwa rĩake.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Injĩrĩia"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "makũrũ-inĩ make"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "na ngatho"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "kĩambĩrĩrianĩ-inĩ kĩake"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "na kunania"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mũrongorere ngatho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mũrathĩkĩre"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:14.389664358Z",
+  "model": "glm-5.3"
+}

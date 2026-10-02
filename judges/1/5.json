@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na makĩmena ⟨את⟩ Adoni-Bezeki Bezeki-inĩ, makĩrũa nayo, makĩigua ⟨את⟩ Mũkanaani na ⟨את⟩ Mũperizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "makĩmena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezeki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezeki"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezeki-inĩ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "makĩrũa nayo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mũkanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mũkanaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mũperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Mũperizi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:52.076609335Z",
+  "model": "glm-5.3"
+}

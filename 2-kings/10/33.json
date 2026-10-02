@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 10:33",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Kuuma Yardeni, harĩa riũa inathuura mwena wa mbocoini, ⟨את⟩ thĩ yothe ya Giricadi, ya agaci a Gadi, na arĩa a Rubeni, na arĩa a Manaci, kuuma Aroeri, ĩrĩa ĩrĩ kinya mũrongoro wa Arnoni, na Giricadi na Bacani.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "harĩa riũa inathuura"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yothe ya Giricadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giricadi"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "agaci a Gadi"
+    },
+    {
+      "surface": "והראובני",
+      "gloss": "na arĩa a Rubeni"
+    },
+    {
+      "surface": "והמנשי",
+      "gloss": "na arĩa a Manaci"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "kuuma Aroeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mũrongoro"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnoni"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "na Giricadi"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "na Bacani"
+    }
+  ],
+  "timestamp": "2026-10-02T00:12:52.874216988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na nĩĩkĩte kuo ⟨את⟩ ciatũmbĩrĩ, kuo kũrĩ kĩrĩkanĩro kĩa Yahwe, kĩa agacĩirie na ciana cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "nĩĩkĩte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciatũmbĩrĩ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ciatũmbĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "agacĩirie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:41:40.848333016Z",
+  "model": "glm-5.3"
+}

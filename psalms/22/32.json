@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩmakĩya na marĩria cedeki yake kũrĩ andũ arĩa maciaranagio, nĩgũko nĩagĩtire.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "nĩmakĩya"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "na marĩria"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "cedeki yake"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kũrĩ andũ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "arĩa maciaranagio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩagĩtire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:35.060057961Z",
+  "model": "glm-5.3"
+}

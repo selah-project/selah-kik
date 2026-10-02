@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Yahwe anagwo kahĩĩ aria Moce, na amũugĩra atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anagwo kahĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aria"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na amũugĩra atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:30:34.834927861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Dawidi akĩthiĩ na akĩcoka kuuma kwa Cauru, kũcũriria ⟨את⟩ ng'ombe cia ithe wake Beti Recemu.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Na Dawidi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akĩthiĩ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "na akĩcoka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauru"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kũcũriria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe cia ithe wake"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cia ithe wake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Recemu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:18:48.877231129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Ndĩrĩa andũ a thĩ magĩkũraga mikono ya andũ a Yehuda, na makĩmarĩthinga ⟨את⟩ mwaki-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndĩrĩa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "nĩmagĩkũraga"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya andũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "na nĩmakĩmarĩthinga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Yehuda"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mwaki-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:05:54.203043322Z",
+  "model": "glm-5.3"
+}

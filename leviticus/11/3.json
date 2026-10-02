@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "O wothe ũrĩa ũratambũra kĩo kĩa magũrũ, na gĩcunjĩ kĩarĩ kĩmwe kĩa magũrũ marĩa, na ũrahũthagia thutha-inĩ, harĩ nyamũ — ⟨את⟩ ĩyo nĩmũrirĩka kũrĩa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "O wothe"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ũratambũra kĩo kĩa magũrũ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kĩa magũrũ"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "na gĩcunjĩ kĩarĩ kĩmwe"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "gĩcunjĩ kĩmwe"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kĩa magũrũ marĩa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ũrahũthagia thutha-inĩ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "thutha-inĩ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "harĩ nyamũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ĩyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nĩmũrirĩka kũrĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:33.316632828Z",
+  "model": "glm-5.3"
+}

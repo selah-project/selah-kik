@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Ĩinĩrĩa Yahwe, hoyagia rĩĩtwa rĩake; tang'ania ng'otho wake kuuma mũthenya ginya mũthenya.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ĩinĩrĩa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hoyagia"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tang'ania"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuuma mũthenya"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ginya mũthenya"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ng'otho wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:38.170335125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Maaĩ macrooka, makĩtinga ⟨את⟩ ngarari na ⟨את⟩ aendi — watho wothe wa gethia kwa Paraoho, arĩa maathiĩ ithũĩrĩ-inĩ wao thĩinĩ wa iriĩa; ndokoretwo ũmwe o na ũmwe murĩ.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "macrooka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "makĩtinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngarari"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ngarari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aendi"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "aendi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wothe wa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gethia"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoho"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "arĩa maathiĩ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ithũĩrĩ-inĩ wao"
+    },
+    {
+      "surface": "בים",
+      "gloss": "thĩinĩ wa iriĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndokoretwo"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "okoretwo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "murĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "o na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:57.139582876Z",
+  "model": "glm-5.3"
+}

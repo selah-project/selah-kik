@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Mũndũ ũcio, mwathi wa thĩ ĩyo, aanaria tũhũ ngũrũ, akatuiga tũharĩ a kuroria thĩ ĩyotheri ⟨את⟩ thĩ ĩyo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "aanaria"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa thĩ ĩyo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ tũhũ"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ngũrũ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akatuiga"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ tũ"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "tũharĩ a kuroria thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩyotheri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:22.600099133Z",
+  "model": "glm-5.3"
+}

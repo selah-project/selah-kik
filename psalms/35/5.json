@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Mahota kũhaana ta macũ mbere ya ruaki, na mũraika wa Yahwe akĩmahũngũra.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mahota kũhaana"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ta macũ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "na mũraika wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "akĩmahũngũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:19.293588092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mũcirũrũ nĩmũtire kũmũnyitithia kana kũmũnyamarithia; nĩgũkorwa nĩmũarĩ acirũrũ thĩ-inĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "na mũcirũrũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩmũtire"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "kũmũnyitithia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana nĩmũtire"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "kũmũnyamarithia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "acirũrũ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "nĩmũarĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:01.525773118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Teraci araiguithia mĩarũng'ananahĩ ya mĩaka, na aciarire ⟨את⟩ Abaramu, ⟨את⟩ Nahori, na ⟨את⟩ Harani.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "araiguithia"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraci"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mĩarũng'ananahĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "aciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abaramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abaramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:05.085496343Z",
+  "model": "glm-5.3"
+}

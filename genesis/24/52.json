@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na ikamenywa, rĩrĩa mũndũ-ũthũũni wa Abarahamu ũũrire ⟨את⟩ ciugo cio, akĩgũa thĩ na gũcokia thĩ kuuma Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikamenywa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ũũrire"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũndũ-ũthũũni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cio"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ciugo cio"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akĩgũa thĩ na kũcokia"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuuma Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:04.369969903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Moce akiuga akĩona ⟨את⟩ andũ, atĩ nĩmareerĩte; nĩgũ Aharoni amareerithirie kũigua ũgoco thĩinĩ wa arĩa makĩrĩĩna ihiro nao.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "nĩmareerĩte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "amareerithirie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "kũigua ũgoco"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "thĩinĩ wa arĩa makĩrĩĩna ihiro nao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:41.947847035Z",
+  "model": "glm-5.3"
+}

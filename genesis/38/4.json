@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na agĩkora akĩyũrwo ringĩ, akĩciarĩra mũriũ, akĩhoota ⟨את⟩ riĩtwa rĩake Onani.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akĩyũrwo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ringĩ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũriũ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riĩtwa rĩake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "riĩtwa rĩake"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:44.864874016Z",
+  "model": "glm-5.3"
+}

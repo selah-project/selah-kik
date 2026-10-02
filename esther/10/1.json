@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na mũthamaki Ahashuerochi nĩwekĩte maci igũrũ rĩa ⟨the⟩ thĩ, na igũrũ rĩa cigũa cia iria.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nĩwekĩte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ahashuerochi"
+    },
+    {
+      "surface": "מס",
+      "gloss": "maci"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "na cigũa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    }
+  ],
+  "timestamp": "2026-10-02T04:48:23.995899926Z",
+  "model": "glm-5.3"
+}

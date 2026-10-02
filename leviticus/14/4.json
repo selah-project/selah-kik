@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Mũthanjari nĩateithĩrĩirie ũrĩa ũgĩtherio atwarũo: ndege igĩrĩ irĩ ng'ĩhota na itheru, na mũti wa erezi, na rũtherũ rwa cegere, na ecobu.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "nĩateithĩrĩirie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjari"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "atwarũo"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "ũrĩa ũgĩtherio"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "irĩ ng'ĩhota"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "itheru"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mũti"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "wa erezi"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "rũtherũ rwa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "cegere"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ecobu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:37:16.454670263Z",
+  "model": "glm-5.3"
+}

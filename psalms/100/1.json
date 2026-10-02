@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 100,
+  "translation": "Kĩĩngeranio kĩa ngatho. Cirĩanĩria Yahwe, thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "kĩĩngeranio"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "kĩa ngatho"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "cirĩanĩria"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:14.383453005Z",
+  "model": "glm-5.3"
+}

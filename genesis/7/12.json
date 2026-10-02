@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩkĩgĩa mbura igũrũ wa thĩ mĩrongo ĩĩrĩ ya mĩthenya, na mĩrongo ĩĩrĩ cia ũgoro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkĩgĩa"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mbura"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mĩrongo ĩĩrĩ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na mĩrongo ĩĩrĩ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ũgoro"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:39.155404067Z",
+  "model": "glm-5.3"
+}

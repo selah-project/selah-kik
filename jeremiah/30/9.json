@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na makĩteithia ⟨את⟩ Yahwe Erohimu wao, na ⟨את⟩ Dawidi mwathi wao, ũrĩa nĩngamũũra wao.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "na makĩteithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu wao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dawidi mwathi wao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mwathi wao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nĩngamũũra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:20:25.969728607Z",
+  "model": "glm-5.3"
+}

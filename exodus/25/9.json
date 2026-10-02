@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ta othingo wothe ũrĩa nĩndĩkũroraithia ⟨את⟩ we — ⟨את⟩ mũhianĩre wa Micikani na ⟨את⟩ mũhianĩre wa indo ciake ciothe — na ũguo mũome.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ta othingo wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kũroraithia"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũhianĩre wa Micikani"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mũhianĩre"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Micikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũhianĩre wa indo ciake ciothe"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mũhianĩre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "indo ciake"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na ũguo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũome"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:59.972386576Z",
+  "model": "glm-5.3"
+}

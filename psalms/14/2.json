@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Yahwe kuuma igũrũ nĩronithirie andũ othe, aguĩtirĩrĩa gũona kana harĩ mũmara, mũndũ ũrĩa ũcaariaga ⟨את⟩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nĩronithirie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "gũona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kana harĩ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mũmara"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ũcaariaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:34.105803240Z",
+  "model": "glm-5.3"
+}

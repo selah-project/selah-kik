@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũka akĩgũcithia andũ ⟨את⟩ erĩ, akĩmabĩra; akĩaria atĩrĩ: Nĩgũo, andũ nĩmakũinyĩrĩte kũrĩ ngwĩ, no ndaamenya makũrĩ kũrĩ.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "akĩgũcithia"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ erĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "erĩ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "akĩmabĩra"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akĩaria"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩgũo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩmakũinyĩrĩte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ ngwĩ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndaamenya"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "makũrĩ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kũrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:40:55.617488761Z",
+  "model": "glm-5.3"
+}

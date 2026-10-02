@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Nĩcĩmũreithĩrĩirio na tha na gũkeno; nginya hagĩe hekalu-inĩ wa mũthamaki.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "Nĩcĩmũreithĩrĩirio"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "na gũkeno"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "na kũheha"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "hekalu-inĩ wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:14.212591010Z",
+  "model": "glm-5.3"
+}

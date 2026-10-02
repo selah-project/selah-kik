@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na mĩaka ĩtandatũ ũrahũra ⟨את⟩ thĩ yawe, na ũkorũkane ⟨את⟩ mĩmera yayo.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "ĩtandatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Na mĩaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ũrahũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yawe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "thĩ yawe"
+    },
+    {
+      "surface": "וואספת",
+      "gloss": "na ũkorũkane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩmera yayo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mĩmera yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:45.098842273Z",
+  "model": "glm-5.3"
+}

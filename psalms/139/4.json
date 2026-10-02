@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Nĩgũkorwo ti kiugo kĩrĩkũ thĩinĩ wa rurimi rwakwa; rĩngĩ, Yahwe, nĩũmenye kwothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "thĩinĩ wa rurimi rwakwa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nĩũmenye"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kwothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:49.864538906Z",
+  "model": "glm-5.3"
+}

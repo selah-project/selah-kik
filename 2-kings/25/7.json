@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na macuure ⟨את⟩ aana a Cidikiyahu mbere ya maitho make, na mehootirie ⟨את⟩ maitho a Cidikiyahu, mamũhootirie na mĩnyorerero ya cuma, namũtwĩra Baberu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana a Cidikiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidikiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "macuure"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "mbere ya maitho make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maitho a Cidikiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidikiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "mehootirie"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "mamũhootirie"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "na mĩnyorerero ya cuma"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "namũtwĩra"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baberu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:18.325403791Z",
+  "model": "glm-5.3"
+}

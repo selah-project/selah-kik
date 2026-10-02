@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Yahwe ⟨arĩ⟩ mũheca na mũcedeki, ee, Erohimu witũ ⟨arĩ⟩ mũrĩkia tha.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "mũheca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "na mũcedeki"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "na Erohimu witũ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mũrĩkia tha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:52.351036602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mũndũ wonje ũrĩa tarĩ wa mũciĩ wa mũciũi atahĩtie kĩndũ gĩa ũtheru; mũtũũragani wa mũciũi na mũcarĩkani maatihĩtie kĩndũ gĩa ũtheru.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na mũndũ wonje"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ũrĩa tarĩ wa mũciĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hĩtie"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kĩndũ gĩa ũtheru"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "mũtũũragani"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wa mũciũi"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "na mũcarĩkani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maati"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hĩtie"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kĩndũ gĩa ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:07.918921080Z",
+  "model": "glm-5.3"
+}

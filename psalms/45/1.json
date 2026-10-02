@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Kwa mũrutanithia, thĩinĩ wa maroro, kwa aana a Korachi; gĩcunjĩ kĩa gũkwĩrute; ciĩrwa cia ng'endo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũrutanithia"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "maroro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa aana a"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "gĩcunjĩ kĩa gũkwĩrute"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ciĩrwa"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "cia ng'endo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:56.151375774Z",
+  "model": "glm-5.3"
+}

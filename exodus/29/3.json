@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ũkahĩtiga ⟨אתם⟩ igũrũ rĩa kiondo kĩmwe, na ũkahakuhĩrĩria ⟨אתם⟩ kiondo-inĩ, na ⟨את⟩ nyati ĩyo na ⟨את⟩ ndũrũme icio ĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Na ũkahĩtiga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kiondo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "ũkahakuhĩrĩria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "kiondo-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "nyati ĩyo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nyati ĩyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "ndũrũme icio ĩrĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ndũrũme icio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:21:27.264112496Z",
+  "model": "glm-5.3"
+}

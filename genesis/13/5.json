@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Roti o mo, ũrĩa wathĩite hamwe na ⟨את⟩ Abarahamu, aarĩ ng'ondu, na ng'ombe, na mahema.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Na"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Roti"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ũrĩa wathĩite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "na mahema"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:53.885568991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Andũ arĩa makenagĩrĩthia ⟨את⟩ nĩngĩ mbere yakwa mũthenya wothe; arĩa mathinjagĩra mĩcĩndĩrĩ-inĩ, na makoonĩagĩra juu cia matũmbĩ.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "arĩa makenagĩrĩthia"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ nĩngĩ",
+      "marks": "nĩngĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu cia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mũthenya wothe"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mathinjagĩra"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "mĩcĩndĩrĩ-inĩ"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "na makoonĩagĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu cia"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "matũmbĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:59:01.264091375Z",
+  "model": "glm-5.3"
+}

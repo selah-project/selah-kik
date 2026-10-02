@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na macokire kũmara kũo mĩthero ĩnya cia mawe: mũthero wa odemu, pitida na bareketi — ũcio nĩ mũthero wa mbere.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "na macokire kũmara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ĩnya"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "mĩthero"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "טור",
+      "gloss": "mũthero"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odemu"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "pitida"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "na bareketi"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "mũthero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wa mbere"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:51.975128829Z",
+  "model": "glm-5.3"
+}

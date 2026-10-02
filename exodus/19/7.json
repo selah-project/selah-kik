@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Moce anookire, akĩita athuri a ndemwa, akĩĩkĩra mbere yao ⟨את⟩ ciugo ici ⟨את⟩ ciothe iria Yahwe amwarĩirie.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anookire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩita"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "kũ athuri a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndemwa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akĩĩkĩra mbere yao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ici ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩ ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "amwarĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:56.305696802Z",
+  "model": "glm-5.3"
+}

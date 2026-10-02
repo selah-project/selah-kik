@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 150,
+  "translation": "Himbĩrĩni ũrĩa na mũgambo wa mpala; himbĩrĩni ũrĩa na nebera na kinora.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Himbĩrĩni ũrĩa"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "na mũgambo wa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "mpala"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "himbĩrĩni ũrĩa"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nebera"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kinora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:08.309868188Z",
+  "model": "glm-5.3"
+}

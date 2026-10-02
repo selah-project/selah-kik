@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Rĩrĩ, Ere ntagatũũra mũthĩngũ, na ndagakwatanĩra mbere-inĩ ya arĩa marũmbũiya.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nta-"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "-gatũũra"
+    },
+    {
+      "surface": "תם",
+      "gloss": "mũthĩngũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "-gakwatanĩra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mbere-inĩ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "arĩa marũmbũiya"
+    }
+  ],
+  "timestamp": "2026-10-02T07:03:28.831951808Z",
+  "model": "glm-5.3"
+}

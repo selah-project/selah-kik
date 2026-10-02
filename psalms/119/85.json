@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Arĩa mamenete maakarĩtie meciria ma kũgũa nĩngĩ, maũndũ matarĩ ta Tora yaku.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "maakarĩtie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩngĩ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "arĩa mamenete"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "maũndũ ma kũgũa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "Tora yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:13.601046172Z",
+  "model": "glm-5.3"
+}

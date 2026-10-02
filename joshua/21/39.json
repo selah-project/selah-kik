@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "⟨את⟩ Heceboni hamwe na ⟨את⟩ migraša yake, ⟨את⟩ Yazeri hamwe na ⟨את⟩ migraša yake — miciĩ yothe inya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heceboni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heceboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migraša yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazeri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migraša yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miciĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:45.314312343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Ũnĩonje mwerĩ, nĩngĩtheruka; ũnĩarĩrie, nĩngĩererũ gũkĩra nyĩga wa mbura.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "Ũnĩonje mwerĩ"
+    },
+    {
+      "surface": "בחסא",
+      "gloss": "mwerĩ"
+    },
+    {
+      "surface": "ואחטא",
+      "gloss": "Ũnĩonje"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ũnĩarĩrie"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "Ũnĩarĩrie"
+    },
+    {
+      "surface": "ואלבן",
+      "gloss": "nĩngĩererũ"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "gũkĩra nyĩga wa mbura"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:48.374632188Z",
+  "model": "glm-5.3"
+}

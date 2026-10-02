@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 1:11",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Daniyeri akiuga kwa hamelcar, ũrĩa mwathi wa carici oigĩte athĩkĩrire handũ ha Daniyeri, Hanania, Micaeri na Azaria,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "hamelcar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "oigĩte athĩkĩrire"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "wa carici"
+    },
+    {
+      "surface": "על",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeri"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hanania"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Micaeri"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "na Azaria"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:01.075122085Z",
+  "model": "glm-5.3"
+}

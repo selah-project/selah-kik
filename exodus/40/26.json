@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Akĩweka ⟨את⟩ kĩhingo kĩa ndahabũ hema-inĩ ya kũhĩrana, mbere ya thũngũ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akĩweka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhingo kĩa ndahabũ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kĩhingo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kĩa ndahabũ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hema-inĩ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhĩrana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "thũngũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:48.131316444Z",
+  "model": "glm-5.3"
+}

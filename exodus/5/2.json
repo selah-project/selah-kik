@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Farao akĩuga: Yahwe nĩ ũũ, undũ ndĩngĩigua mũgambo wake ngĩcoire ⟨את⟩ Yiceraeri? Ndikũũĩ Yahwe, na ⟨את⟩ Yiceraeri o ndĩngĩcoira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "undũ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndĩngĩigua"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ngĩcoire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndikũũĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ndĩngĩcoira"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:03.257086747Z",
+  "model": "glm-5.3"
+}

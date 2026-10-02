@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Cekemu, mwana wa Hamori, Muhivi, mũthamaki wa ⟨the⟩ gĩthĩ, akĩmũona ⟨את⟩; akĩmũbatara, akĩmũikara hamwe, na akĩmũhenania.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akĩmũona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we (Dina)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamori"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Muhivi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa gĩthĩ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akĩmũbatara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akĩmũikara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "akĩmũhenania"
+    }
+  ],
+  "timestamp": "2026-10-02T06:09:47.380589009Z",
+  "model": "glm-5.3"
+}

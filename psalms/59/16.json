@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Ao maarĩ gũtũngũũra gũkora irio; rĩrĩa matĩhĩtie kũkora, magĩikara hĩndĩ ya ũgĩcĩĩ.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "gũtũngũũra"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "gũkora irio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matĩhĩtie"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kũkora"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "magĩikara hĩndĩ ya ũgĩcĩĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:03.391495099Z",
+  "model": "glm-5.3"
+}

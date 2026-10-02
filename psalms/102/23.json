@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Rĩrĩa ndũrĩrĩ ciakũgũkana hamwe, na ithambo, gũteerera ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "rĩrĩa…ciakũgũkana"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "na ithambo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "gũteerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:00.343268022Z",
+  "model": "glm-5.3"
+}

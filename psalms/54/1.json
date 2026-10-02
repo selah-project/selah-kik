@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Kũrĩ mũcambi, ciigĩ cĩa nyĩmbo, wĩra wa kwigĩrĩiria, wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũcambi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ciigĩ cĩa nyĩmbo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wĩra wa kwigĩrĩiria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:18.164596390Z",
+  "model": "glm-5.3"
+}

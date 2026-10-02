@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 98,
+  "translation": "Nĩarangĩrire ⟨את⟩ hecedi yake na kwĩhootania kwake nyumbu-inĩ ya Yiceraeri; mahiũ mothe ma thĩ maonire ⟨את⟩ hongũrũrio ya Erohimu witũ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "nĩarangĩrire"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi yake"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "na kwĩhootania kwake"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyumbu-inĩ ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "maonire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mahiũ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ma thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hongũrũrio ya Erohimu witũ"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "hongũrũrio"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Erohimu witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:42.142761065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Ĩno njarũa nĩyonire nyũmba, na ndunyoru kĩgĩrĩ kĩayo, harĩa yaikarĩrĩte ane ũciĩ wayo, hĩndĩĩrĩ ⟨את⟩ mĩthagani yaku, Yahwe Cebaoti, Mũthamaki wakwa na Erohimu wakwa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ĩno"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "njarũa"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nĩyonire"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "na ndunyoru"
+    },
+    {
+      "surface": "קן",
+      "gloss": "kĩgĩrĩ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kĩayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "yaikarĩrĩte"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ane ũciĩ wayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthagani yaku"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "mĩthagani yaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mũthamaki wakwa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Erohimu wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:23.951229358Z",
+  "model": "glm-5.3"
+}

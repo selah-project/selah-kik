@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ nyũmba yake Ceromoha nĩamware ngiri ithatũ na ikũmi, na akamataria ⟨את⟩ nyũmba yake yothe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nĩamware"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ithatũ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "na akamataria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba yake yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:52.481927156Z",
+  "model": "glm-5.3"
+}

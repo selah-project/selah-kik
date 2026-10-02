@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mũndũ ndangĩthamĩrĩiruo na wũthũ; na mũrĩ wa acedeki ndũngĩihũrũka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "thamĩrĩiruo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "na wũthũ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "na mũrĩ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wa acedeki"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ndũngĩ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ihũrũka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:51:58.250573481Z",
+  "model": "glm-5.3"
+}

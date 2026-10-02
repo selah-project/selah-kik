@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Nĩndũ wa kũgereria ⟨את⟩ ruaki wa Yahwe? Na mũndũ nĩwĩrĩ mũcamanĩri wa ciira wakwe, akamwĩhokecia?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩndũ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "wa kũgereria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaki"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ nĩwĩrĩ"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "mũcamanĩri wa ciira wakwe"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "akamwĩhokecia"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:13.536020948Z",
+  "model": "glm-5.3"
+}

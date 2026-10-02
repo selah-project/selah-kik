@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Thutha ũcio, aana a Yiceraeri magũcokoora, makarora Yahwe Erohimu wao, na ⟨את⟩ Dawidi mwathani wao; makĩgũa kinya kwa Yahwe na kwa wega wake mĩthenya ya mũthia.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "thutha ũcio"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "magũcokoora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "makarora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu wao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Dawidi mwathani wao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mwathani wao"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "makĩgũa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "wega wake"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mĩthenya ya mũthia-inĩ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:15:46.256602002Z",
+  "model": "glm-5.3"
+}

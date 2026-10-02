@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Yahwe Erohimu Cebaoti, ihũrira thayo yakwa; tũgũrĩ maitho, Ee Erohimu wa Yaakobu. Cera.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ihũrira"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thayo yakwa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tũgũrĩ maitho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:47.679007898Z",
+  "model": "glm-5.3"
+}

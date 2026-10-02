@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na kuuma mũciĩ-inĩ wa mũkũrũ wa Yicaakari, ⟨את⟩ Kedeci hamwe na minica yacio, ⟨את⟩ Daberathi hamwe na minica yacio.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kuuma mũciĩ-inĩ wa mũkũrũ wa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yicaakari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeci"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minica yacio"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "minica yacio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberathi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minica yacio"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "minica yacio"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:44.369570068Z",
+  "model": "glm-5.3"
+}

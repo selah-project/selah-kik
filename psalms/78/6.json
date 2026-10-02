@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩgeetha mbarĩ ĩrĩa ĩgũũka ĩmenye, ciana iria cibarĩtwo; makĩrĩka makĩcoke mahũrĩrie ciana ciao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Nĩgeetha"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ĩmenye"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbarĩ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ĩrĩa ĩgũũka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "iria cibarĩtwo"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "makĩrĩka"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "makĩcoke mahũrĩrie"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ciana ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:27.159866907Z",
+  "model": "glm-5.3"
+}

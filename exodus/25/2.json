@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ĩrora kũ ciana cia Yiceraeri, na bake bĩhe kĩheo kwakwa; kuuma ⟨את⟩ mũndũ o wothe arĩa ngoro yake ĩiyamũte, mũbate ⟨את⟩ kĩheo gĩakwa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ĩrora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "na bake bĩhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩",
+      "marks": "mũndũ o wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "ĩiyamũte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mũbate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo gĩakwa"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "kĩheo gĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:17.887521809Z",
+  "model": "glm-5.3"
+}

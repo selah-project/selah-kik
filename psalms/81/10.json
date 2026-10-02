@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Ere wĩra ndagakorwo thĩinĩ waku, na ndũthagathagĩte kũEre wa ndũrĩrĩ ĩngĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agakorwo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "thagathagĩte"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kũEre"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wa ndũrĩrĩ ĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:15.264371197Z",
+  "model": "glm-5.3"
+}

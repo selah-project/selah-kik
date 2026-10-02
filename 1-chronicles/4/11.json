@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Kerubu, mũrũ wa nyina wa Cũha, aaciarire ⟨את⟩ Meheri; ũyũ nĩwe ita wa Ecitoni.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Na Kerubu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mũrũ wa nyina wa"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Cũha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "aaciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meheri"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Meheri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ita wa"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Ecitoni"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:14.017127386Z",
+  "model": "glm-5.3"
+}

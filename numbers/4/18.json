@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mũtikorehe kũringa ⟨את⟩ mbarĩ ya mĩcyaro ya a-Kahati, kuuma hagati ya Ariwi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Mũti"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "korehe kũringa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbarĩ ya mĩcyaro ya a-Kahati"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mbarĩ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ya mĩcyaro"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ya a-Kahati"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kuuma hagati"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ya Ariwi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:18:24.454008751Z",
+  "model": "glm-5.3"
+}

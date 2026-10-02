@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Rĩngĩ nĩndĩkũũra atĩrĩ: Nĩngĩrũmaga kwa oore, hinya wakwa nĩnyihĩtie kwa ũgĩa na ũhũmũ; no ciira wakwa nĩrĩ ⟨nĩ⟩ ⟨את⟩ Yahwe, na wĩra wakwa nĩrĩ ⟨nĩ⟩ ⟨את⟩ Erohimu witũ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "rĩngĩ nĩndĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩndĩkũũra atĩrĩ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "kwa oore"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "nĩngĩrũmaga"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "kwa ũgĩa"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "na ũhũmũ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nĩnyihĩtie"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "no"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "na wĩra wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:50:22.187554025Z",
+  "model": "glm-5.3"
+}

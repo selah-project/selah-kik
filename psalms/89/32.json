@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Rĩrĩa mathĩna makwa makoragwo na mahũthagĩrwo na mahiũ, amu mawatho makwa ndĩmoome ngatho na makĩuga ũndũ mũingĩ harĩ o kĩrĩndĩ kĩu gĩa kũgeria.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mawatho makwa"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "makoragwo na mahũthagĩrwo na mahiũ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "na mawatho-inĩ makwa makĩrũngĩrĩria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "maarĩ ikũmi ihĩndĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:09.803414691Z",
+  "model": "glm-5.3"
+}

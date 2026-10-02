@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na mweri-inĩ wa keerĩ, mũthenya-inĩ wa mũgwanja na ikũmi wa mweri, thĩ nĩĩmahe.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Na mweri-inĩ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa keerĩ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "nĩĩmahe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:50.938782077Z",
+  "model": "glm-5.3"
+}

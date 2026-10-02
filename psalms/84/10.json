@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Rora, Ee Erohimu, thingithi witũ; na ũrore maitho-inĩ ma Maciaki wau.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "thingithi witũ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "na ũrore"
+    },
+    {
+      "surface": "פני",
+      "gloss": "maitho-inĩ ma"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Maciaki wau"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:47.680470913Z",
+  "model": "glm-5.3"
+}

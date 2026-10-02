@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Ĩrĩa ya mbere ya ũgima wanyu, mũgate kĩmwe mũnyamure ta kĩheo; o ta kĩheo kĩa gĩcara, o ũguo mũnyamure ⟨את⟩ kĩu.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Ĩrĩa ya mbere"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "ya ũgima wanyu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "mũgate kĩmwe"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mũnyamure"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ta kĩheo"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "o ta kĩheo kĩa"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gĩcara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mũnyamure"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kĩu (mũgate ũcio)"
+    }
+  ],
+  "timestamp": "2026-10-01T22:01:03.120028491Z",
+  "model": "glm-5.3"
+}

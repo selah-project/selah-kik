@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Thĩinĩ wa mawatho maku nĩngĩigua gĩkeno; ndĩngĩhũrũka kiugo gĩaku.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "thĩinĩ wa mawatho maku"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "nĩngĩigua gĩkeno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ-"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "hũrũka"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kiugo gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:12.574392362Z",
+  "model": "glm-5.3"
+}

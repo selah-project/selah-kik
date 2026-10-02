@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Akĩmaheera kĩria mamoĩrie, akĩtuma kwarara thĩinĩ wa mĩoyo yao.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akĩmaheera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-ma-"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "kĩria mamoĩrie"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akĩtuma"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kwarara"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "thĩinĩ wa mĩoyo yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:01.247366237Z",
+  "model": "glm-5.3"
+}

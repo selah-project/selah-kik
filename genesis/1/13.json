@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgũkorwo kĩtheri, nĩgũkorwo mboco — mũthenya wa gatatũ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kĩtheri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "wa gatatũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:17.172956643Z",
+  "model": "glm-5.3"
+}

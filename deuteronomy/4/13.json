@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩamwetĩrĩrie nyinyi ⟨את⟩ kĩrĩkanĩro kĩake, ũrĩa akawara ⟨את⟩ nyinyi kũruta, macokio ikũmi, nĩakĩandĩka cio cianandĩkĩro ibiri-inĩ cia mahiga.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nĩamwetĩrĩrie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩake"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kĩrĩkanĩro kĩake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akawara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nyinyi",
+      "marks": "kũruta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kũruta"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "macokio"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "nĩakĩandĩka cio"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ibiri"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "cianandĩkĩro"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mahiga"
+    }
+  ],
+  "timestamp": "2026-10-02T06:22:56.338363397Z",
+  "model": "glm-5.3"
+}

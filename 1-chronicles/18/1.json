@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na thutha wa ũguo, Dawidi aĩnire ⟨את⟩ Bilesiti, akĩmĩnyamũkithia, agĩkũra ⟨את⟩ Gati na mĩciĩ yayo kuuma moko-inĩ ma Bilesiti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgwĩkĩkire"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wa ũguo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "aĩnire"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilesiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bilesiti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "akĩmĩnyamũkithia"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "agĩkũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gati"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "na mĩciĩ yayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bilesiti"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:15.736623070Z",
+  "model": "glm-5.3"
+}

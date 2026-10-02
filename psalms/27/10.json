@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Nĩgũkorwo ithe wakwa na nyina wakwa makĩheera, na Yahwe aciakũnyunganĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "na nyina wakwa"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "makĩheera"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "aciakũnyunganĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:25.951841295Z",
+  "model": "glm-5.3"
+}

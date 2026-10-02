@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na mũndũ o wothe ⟨את⟩ matheru make nĩmake; kĩrĩa mũndũ o wothe ahaa mũthenge, nĩgũokĩrĩra mũthenge nĩ wake.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mũndũ o wothe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matheru make"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "matheru make"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nĩmake"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nĩguo ĩĩe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ahaa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "mũthenge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũthenge"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:52:46.147047327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Kĩũngĩrĩro na ũthiũ nĩ icukĩra wiaku; na cedeki wiaku ĩiyũrire ĩikaraga hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "kĩũngĩrĩro"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "na ũthiũ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "icukĩra wiaku"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na cedeki wiaku"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ĩiyũrire ĩikaraga"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:43.864967309Z",
+  "model": "glm-5.3"
+}

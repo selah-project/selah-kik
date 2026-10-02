@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "na ⟨את⟩ Daa, na ⟨את⟩ Aya, o ũmwe wa mbarĩ yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Daa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "Daa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "o ũmwe wa mbarĩ yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:29.502661210Z",
+  "model": "glm-5.3"
+}

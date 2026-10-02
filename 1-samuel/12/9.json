@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na makigareira ⟨את⟩ Yahwe Erohimu wao, nĩagũcithie ⟨אתם⟩ mikono-inĩ mwa Cisera, mũtĩthagani wa mbũtũ cia Hazori, na mikono-inĩ mwa Wafiriti, na mikono-inĩ mwa mũthamaki wa Moabu; nao makĩruta ithua nao.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "makigareira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wao"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "nĩagũcithie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "mikono-inĩ mwa Cisera"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mikono-inĩ mwa"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Cisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũtĩthagani"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hazori"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na mikono-inĩ mwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Wafiriti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "na mikono-inĩ mwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "makĩruta ithua"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:28:36.199701883Z",
+  "model": "glm-5.3"
+}

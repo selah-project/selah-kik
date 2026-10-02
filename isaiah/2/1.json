@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Kiugo kĩrĩa Yecayahu mwana wa Amoci anonire harĩ Yahuda na Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "anonire"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "wa Amoci"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:06.459040105Z",
+  "model": "glm-5.3"
+}

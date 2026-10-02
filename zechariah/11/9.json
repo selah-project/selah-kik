@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩrakiũga: Ndingĩcũrĩra ⟨את⟩ inywe; ũrĩa ekũkwa, akũkue; ũrĩa egũthimangwo, athimangike; na arĩa methĩirie makĩrĩe, mũndũ arĩe ⟨את⟩ nyama ya mwena wake ũrĩa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nĩrakiũga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndingĩ"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "cũrĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "arĩa ekũkwa"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "arĩa ekũkwa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "akũkue"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "arĩa egũthimangwo"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "athimangike"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "arĩa methĩirie"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "makĩrĩe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "ya mwena wake ũrĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:45:13.674546318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Rũngĩrĩra kũmba kwaku thutha ũrĩa wĩnakwa; nĩngĩhĩta nĩ hinya wa woko waku.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "rũngĩrĩra"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "thutha ũrĩa wĩnakwa"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "kũmba kwaku"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "wa woko waku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nĩngĩhĩta"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:36.544243590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 121,
+  "translation": "Yahwe nĩwe ũgũkũrindithia; Yahwe nĩ mũthingi waku, harĩ ũthoko wa guoko wakwa wa kwao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "nĩwe ũgũkũrindithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "mũthingi waku"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ ũthoko"
+    },
+    {
+      "surface": "יד",
+      "gloss": "wa guoko"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wakwa wa kwao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:29.264043444Z",
+  "model": "glm-5.3"
+}

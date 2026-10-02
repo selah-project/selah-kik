@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Njamba iyothe ya theru mũhiĩe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "iyothe"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "njamba"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "theru"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũhiĩe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:21:48.622305789Z",
+  "model": "glm-5.3"
+}

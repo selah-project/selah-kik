@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nao Yahwe akahĩtia ⟨את⟩ andũ a Kuci mbere ya Aca na mbere ya Yahuda, nao andũ a Kuci makĩũra.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "akahĩtia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Kuci"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "andũ a Kuci"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aca"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na mbere ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "makĩũra"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "andũ a Kuci"
+    }
+  ],
+  "timestamp": "2026-10-02T05:50:59.097667539Z",
+  "model": "glm-5.3"
+}

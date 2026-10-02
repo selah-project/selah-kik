@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na nĩĩkoretwo ũguo, arĩa a thwanjiki acokanĩtio wothe gũkua kuuma ithuiro-inĩ ya andũ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na nĩĩkoretwo ũguo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "acokanĩtio wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "arĩa a"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "thwanjiki"
+    },
+    {
+      "surface": "למות",
+      "gloss": "gũkua"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kuuma ithuiro-inĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:26.539942452Z",
+  "model": "glm-5.3"
+}

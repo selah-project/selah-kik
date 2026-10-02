@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩngwendete thĩna wakwa nyuma yaku na ngoro yakwa yothe; nĩkũhe tha, ta ũrĩa woigire.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "nĩngwendete thĩna wakwa nyuma yaku"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nyuma yaku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nĩkũhe tha"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "ta ũrĩa waoigire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:08.045163496Z",
+  "model": "glm-5.3"
+}

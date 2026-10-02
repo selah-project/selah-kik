@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩ ũndũ wa kĩgunĩ Mwami Ceromo anathira, akĩhota ⟨את⟩ Hiramu kuuma Cori.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anathira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mwami"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akĩhota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiramu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kuuma Cori"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:35.413314896Z",
+  "model": "glm-5.3"
+}

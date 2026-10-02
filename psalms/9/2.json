@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩngũcoora Yahwe na ngoro yakwa yothe; nĩngũrĩra maũndũ manena makwa othe.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Nĩngũcoora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... yothe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "nĩngũrĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "maũndũ manena makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:57.593585212Z",
+  "model": "glm-5.3"
+}

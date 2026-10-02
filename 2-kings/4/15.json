@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩakuuga: Mwĩtire ⟨את⟩ ywe. Nĩamwĩta ⟨את⟩ ywe, akĩyemera kĩhingo-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩakuuga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "mwĩtire"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ywe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nĩamwĩta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ywe"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akĩyemera"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "kĩhingo-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:48.891968982Z",
+  "model": "glm-5.3"
+}

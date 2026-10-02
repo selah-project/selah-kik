@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Nĩmenyeti atĩ Yahwe nĩgekora ⟨את⟩ ciira cia mũkenye, ⟨na⟩ watho wa athingu.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Nĩmenyeti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nĩgekora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "עני",
+      "gloss": "cia mũkenye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "watho"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "wa athingu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:40.637122139Z",
+  "model": "glm-5.3"
+}

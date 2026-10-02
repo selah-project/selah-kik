@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na kuuma mũrũ wa mĩaka mirongo ĩtano, nĩagũcooka ũtuĩria-inĩ wa tũuma, na ndagũtũma tũuma ringingi.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "Na kuuma mũrũ wa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo ĩtano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "nĩagũcooka"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "ũtuĩria-inĩ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "wa tũuma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "gũtũma tũuma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ringingi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:55:12.267518724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "kĩrĩkanĩro kĩayogete na ⟨את⟩ Abarahamu, na kĩraya kĩake kĩa Yicaki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩkanĩro kĩa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kĩayogete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "na kĩraya kĩake"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kĩa Yicaki"
+    }
+  ],
+  "timestamp": "2026-10-02T05:29:44.619520919Z",
+  "model": "glm-5.3"
+}

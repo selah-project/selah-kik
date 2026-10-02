@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Kana nĩmũũĩ? Kana nĩmũiguithia? Kana nĩkwambĩrirwo kuuma mbere kwa nyũmũ? Kana nĩmũmenithia mĩthingi ya thĩ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "nĩmũũĩ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nĩmũiguithia"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "nĩkwambĩrirwo"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kuuma mbere"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa nyũmũ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "nĩmũmenithia"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "mĩthingi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:50.158845648Z",
+  "model": "glm-5.3"
+}

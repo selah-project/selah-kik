@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ĩhauranĩria ⟨את⟩ mũtwe wa mũthingu wonhe wa ciana cia Yiceraeri, ni mĩcũgĩ ciao, ni nyũmba cia athathe ao, na mũtarĩre wa mĩthiya ciao; ndũmwe ya arũme aothe, mũndũ mũndũ ũmwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ĩhauranĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mũtwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonhe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "wa mũthingu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ni mĩcũgĩ ciao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ni nyũmba cia"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "athathe ao"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na mũtarĩre wa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mĩthiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ndũmwe ya"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "arũme aothe"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "mũndũ mũndũ ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:58.124101514Z",
+  "model": "glm-5.3"
+}

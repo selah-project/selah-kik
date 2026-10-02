@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na mũthamaki akĩhoota ⟨את⟩ gĩciĩ kĩake, akĩrahũkira ⟨את⟩ mũciĩ wothe wa Yiceraeri, na mũciĩ wothe wa Yiceraeri wĩ mahĩa.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩciĩ kĩake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "gĩciĩ kĩake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akĩrahũkira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũciĩ wothe wa Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "ו כל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "wĩ mahĩa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:32:25.712867248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na ici nĩ carĩ ciana cia Ohoribamahi, mũrũ wa Anahi, mũrũ wa Cibeani, mũka wa Ecawu; na akiamũrire kwa Ecawu ⟨את⟩ Yerici, na ⟨את⟩ Yeramu, na ⟨את⟩ Korahi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "na ici"
+    },
+    {
+      "surface": "היו",
+      "gloss": "carĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana cia"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Ohoribamahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Cibeani"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũka wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ecawu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "na akiamũrire"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kwa Ecawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerici"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yerici"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yeramu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yeramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Korahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:19.531122917Z",
+  "model": "glm-5.3"
+}

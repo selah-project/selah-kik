@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Thĩ yothe ti ĩrĩ mbere yaku? Nĩndakwĩhoya, niukanithia na ngwĩ; rĩrĩa ũgĩthii kũmoonyo, nĩngĩthii kũonina; na rĩrĩa ũgĩthii kũonina, nĩngĩthii kũmoonyo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ti-atĩrĩrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "niukanithia"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nĩndakwĩhoya"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "na ngwĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "kũmoonyo"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "na nĩngĩthii kũonina"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kũonina"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "na nĩngĩthii kũmoonyo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:08:41.698677638Z",
+  "model": "glm-5.3"
+}

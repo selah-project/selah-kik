@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩkaatheethekire na Hodeci, mũka wake, ⟨את⟩ Yobabi, na ⟨את⟩ Cibya, na ⟨את⟩ Mece, na ⟨את⟩ Makamu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nĩkaatheethekire"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeci"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũka wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yobabi"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobabi"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cibya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Cibya"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mece"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mece"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Makamu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Makamu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:33.043166032Z",
+  "model": "glm-5.3"
+}

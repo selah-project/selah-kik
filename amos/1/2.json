@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Yahwe akiuga: Kuuma Cioni ndĩagĩga ta mũrwamba, na kuuma Yerucarayimu ndĩheaga mũgambo wake; na mĩcaro ya arĩi nyomo nĩyagayaga, na mũtwe wa Karmari nĩumamenete.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Na akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Kuuma Cioni"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ndĩagĩga ta mũrwamba"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "na kuuma Yerucarayimu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ndĩheaga"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "nĩyagayaga"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mĩcaro"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ya arĩi nyomo"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "nĩumamenete"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mũtwe"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "wa Karmari"
+    }
+  ],
+  "timestamp": "2026-10-02T02:26:18.274531216Z",
+  "model": "glm-5.3"
+}

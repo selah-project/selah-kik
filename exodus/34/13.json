@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩgũkorwo ⟨את⟩ mihibũrio yao mũnĩgũcũngũkĩra, na ⟨את⟩ mahiga mamĩrĩro mao mũnĩgũmenya, na ⟨את⟩ maciocĩ ma Acera mũnĩgũcinta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mihibũrio yao"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mihibũrio yao"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "mũnĩgũcũngũkĩra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mahiga mamĩrĩro mao"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "mahiga mamĩrĩro mao"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "mũnĩgũmenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maciocĩ ma Acera"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "maciocĩ ma Acera"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "mũnĩgũcinta"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:41.525575585Z",
+  "model": "glm-5.3"
+}

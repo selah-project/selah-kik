@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Nĩĩhũrĩtie, ũcookerie; nĩndĩhĩtũkĩra thĩinĩ wa kwenja kwakwa, na nĩndĩĩhooma.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "nĩĩhũrĩtie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "na ũcookerie"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "nĩndĩhĩtũkĩra"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "thĩinĩ wa kwenja kwakwa"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "na nĩndĩĩhooma"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:58.481794547Z",
+  "model": "glm-5.3"
+}

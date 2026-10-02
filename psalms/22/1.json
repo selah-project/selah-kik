@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Mũcũrania-rĩa, thĩinĩ wa 'Aiereti Hacahari' — kĩna kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mũcũrania-rĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Aiereti"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Hacahari"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:33.577736009Z",
+  "model": "glm-5.3"
+}

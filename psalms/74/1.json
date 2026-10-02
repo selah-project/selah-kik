@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Kĩhooto kĩa Acaph. Nĩkĩ, Erohimu, wĩtigĩte ngiya thutha, na keni gĩaku gĩarũa mũkĩ harĩ ng'ombe cia gwĩthomagĩra gwaku?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩa Acaph"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "wĩtigĩte"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ngiya thutha"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "gĩarũa mũkĩ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "keni gĩaku"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "harĩ ng'ombe"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "cia gwĩthomagĩra gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:05.534927812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Mwendĩ-waũ nĩonekaka ta kĩndũ kĩhinya metho-inĩ make, no ⟨את⟩ arĩa erĩ thĩna Yahwe nĩmakĩrũmagĩrĩra; agĩĩra kiugo kĩmonereta ũndũ mũru, na ndagatũũkĩra.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "nĩonekaka ta kĩndũ kĩhinya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "metho-inĩ make"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "mwendĩ-waũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa erĩ thĩna Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "arĩa erĩ thĩna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "nĩmakĩrũmagĩrĩra"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "agĩĩra kiugo"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kĩmonereta ũndũ mũru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "gatũũkĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:17.224420915Z",
+  "model": "glm-5.3"
+}

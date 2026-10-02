@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Iigana kwanyua kũthiora ⟨את⟩ kirima gĩkĩ; thĩarũrĩranĩ nyũmba ya maka rĩrĩa mbere.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "iigana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwanyua"
+    },
+    {
+      "surface": "סב",
+      "gloss": "kũthiora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirima gĩkĩ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kirima"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "thĩarũrĩranĩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwanyua"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "maka rĩrĩa mbere"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:06.292997370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Rũrai, aĩ nĩmakũũ kuuma kũraya makũgũa; na rũrai, aĩ kuuma itherero na kuuma harĩa riũa rĩgathĩka; na aĩ kuuma thĩ ya Cini.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "rũrai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aĩ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kuuma kũraya"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "nĩmakũũ makũgũa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũrai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aĩ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kuuma itherero"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "na kuuma harĩa riũa rĩgathĩka"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na aĩ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "ya Cini"
+    }
+  ],
+  "timestamp": "2026-10-02T06:39:40.019056951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩgũkorwo niĩwe ũrĩ igũrũ rũyanya rwina mĩena, waatha thĩ ĩyo, na thĩinĩ wa mĩrĩra ya maĩ ndakarũmagĩrĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niĩwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rũa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rũyanya rwina mĩena"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "waatha thĩ ĩyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mĩrĩra ya maĩ"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ndakarũmagĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.266097828Z",
+  "model": "glm-5.3"
+}

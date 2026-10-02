@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Abarahamu nĩagĩregeta ⟨את⟩ mkono wake, na agĩcoka agĩīra ⟨את⟩ thimũ, ĩgĩtũkĩra hĩndĩ ĩgĩcoka ĩhũrĩte ⟨את⟩ mũrũ wake igũrũ ya magũrũ make nĩgetha ⟨את⟩ mũrũ wake athĩnjĩre.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "agĩregeta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "agĩīra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thimũ"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thimũ"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "nĩgetha athĩnjĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:40:05.226899568Z",
+  "model": "glm-5.3"
+}

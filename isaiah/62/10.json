@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 62:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Ĩthiĩrai, ĩthiĩrai mĩrango-inĩ; mwarĩraini mũhanda wa andũ; mũtĩrĩrai, mũtĩrĩrai mũhanda ũcio; rũngwo mahiga; mũcani bendera igũrũ wa ndũrĩrĩ.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "Ĩthiĩrai"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Ĩthiĩrai"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "mĩrango-inĩ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "mwarĩraini"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mũhanda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa andũ"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "mũtĩrĩrai"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "mũtĩrĩrai"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "mũhanda ũcio"
+    },
+    {
+      "surface": "סקלו",
+      "gloss": "rũngwo"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "mũcani"
+    },
+    {
+      "surface": "נס",
+      "gloss": "bendera"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:55:12.100628470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "Ngimbo ya mahiga-inĩ. Yahwe, ũcirikire nĩ ya Dawidi ⟨את⟩ o mĩnyamaro yake.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ngimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya mahiga-inĩ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ũcirikire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nĩ ya Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o mĩnyamaro yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "mĩnyamaro yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.409182748Z",
+  "model": "glm-5.3"
+}

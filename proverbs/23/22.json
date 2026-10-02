@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ĩthĩranĩ baba waku ũrĩa akũrire, ũndũ ũgũte ũhonohe mami waku kana arĩ mũruku.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ĩthĩranĩ"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "baba waku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "akũrire"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ũndũ ũgũte"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ũhonohe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "arĩ mũruku"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mami waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:59:03.382637069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩamenya thĩinĩ wa nyũmba ya ũtheru wa maũtheru akerubu eerĩ, watho wa kũunda mĩthianĩre, na nĩmahingĩrie ⟨את⟩ ao na zahabu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩamenya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thĩinĩ wa nyũmba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "wa maũtheru"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "akerubu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "watho"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "wa kũunda mĩthianĩre"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "nĩmahingĩrie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:41:11.154180799Z",
+  "model": "glm-5.3"
+}

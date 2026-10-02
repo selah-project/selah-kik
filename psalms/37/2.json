@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩgũkorwo ta ũrĩrĩ nĩmagethekwo mantie, na ta mĩmera ya nthĩ nĩmahothagwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ta ũrĩrĩ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "mantie"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "nĩmagethekwo"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "na ta mĩmera ya nthĩ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "mĩmera"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "nĩmahothagwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:21.106969082Z",
+  "model": "glm-5.3"
+}

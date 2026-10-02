@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Athaahu nĩmahũrire mũnyito wakwa; na thĩinĩ wa amũrũme waku ndĩnyarerete.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "nĩmahũrire"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "athaahu"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mũnyito"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "amũrũme waku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "kũrerera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:13.441628074Z",
+  "model": "glm-5.3"
+}

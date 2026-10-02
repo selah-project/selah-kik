@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Nĩmakũgoyete hamwe na riũa, na mbere ya mweri, mĩhiano na mĩhiano.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Nĩmakũgoyete"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na mbere ya"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mĩhiano"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "na mĩhiano"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:33.026938115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Mwathi akĩcooka agĩkinya mbere ya Yardeni, na Yuda ikinya Girigari, gũthiĩ kũonana na mwathi, gũthĩĩra mwathi ⟨את⟩ mwathi aciire ⟨את⟩ Yardeni.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akĩcooka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩkinya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ikinya"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Girigari"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gũthiĩ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kũonana na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "gũthĩĩra mwathi aciire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:41:49.482516322Z",
+  "model": "glm-5.3"
+}

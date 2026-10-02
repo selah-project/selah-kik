@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mbũtũ yakĩo, na arĩa me kĩbarĩ-inĩ kĩao: ngiri ithano na ikũmi na ithatũ, na mia inya.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na mbũtũ yakĩo"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na arĩa me kĩbarĩ-inĩ kĩao"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na ikũmi na ithatũ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na inya"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:50:05.600825269Z",
+  "model": "glm-5.3"
+}

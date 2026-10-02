@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ iothe eria wamenya thĩinĩ wa athamaki eerĩ a Emori, eria arĩ thĩinĩ wa mũhandũ wa Yorudani — Cihoni mwathi wa Heciboni, na Ogi mwathi wa Habacani, eria arĩ Acetarothi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wamenya"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "athamaki eerĩ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "a athamaki"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eria"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "thĩinĩ wa mũhandũ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "wa Yorudani"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Cihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "wa Heciboni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "wa Habacani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eria"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "arĩ Acetarothi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:42:58.316480748Z",
+  "model": "glm-5.3"
+}

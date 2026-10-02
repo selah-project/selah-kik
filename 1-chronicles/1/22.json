@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ Ebari, na ⟨את⟩ Abimaeri, na ⟨את⟩ Cebaa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ebari"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abimaeri"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimaeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cebaa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cebaa"
+    }
+  ],
+  "timestamp": "2026-10-02T07:09:31.432857488Z",
+  "model": "glm-5.3"
+}

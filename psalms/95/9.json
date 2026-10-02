@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 95,
+  "translation": "Rĩrĩa aciari anyu maakĩgeria Yahwe, maakĩreria Yahwe, na kũona gĩtwa kĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "maakĩgeria Yahwe"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "aciari anyu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "maakĩreria Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "maakĩona"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gĩtwa kĩa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:26.843162929Z",
+  "model": "glm-5.3"
+}

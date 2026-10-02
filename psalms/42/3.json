@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Mũoyo wakwa nĩwetekire Erohimu, Ere Mũirũ — rĩrĩa nĩngĩinjĩra, mbone thoko wa Erohimu?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "nĩwetekire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Mũirũ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nĩngĩinjĩra"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mbone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "thoko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:34.696151071Z",
+  "model": "glm-5.3"
+}

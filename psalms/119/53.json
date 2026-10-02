@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Kwaka kwa ngoro kũnyitire kwĩ nĩ ũndũ wa arĩa mathũ, arĩa matigare Tora yaku.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "kwaka kwa ngoro"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "kũnyitire kwĩ"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "arĩa mathũ"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "arĩa matigare"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:27.129902332Z",
+  "model": "glm-5.3"
+}

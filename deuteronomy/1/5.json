@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Enene ya Yaredani, thĩ-inĩ ya Moabi, Moce akamĩrĩra kũgĩrĩkĩra ⟨את⟩ Tora ĩno, na kũuga:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "enene ya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaredani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "akamĩrĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kũgĩrĩkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora ĩno"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:26.416132680Z",
+  "model": "glm-5.3"
+}

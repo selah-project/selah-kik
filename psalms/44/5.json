@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Nĩwe mũthamaki wakwa, Erohimu; amĩra mĩteithio ya Yaakobu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nĩwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mũthamaki wakwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amĩra"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mĩteithio"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:32.675915888Z",
+  "model": "glm-5.3"
+}

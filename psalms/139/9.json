@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Nĩngĩita mapanga gwa kĩtheri kĩa mũthenya, nĩngĩikara mũthia-inĩ wa iwurugo rĩa mai —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "nĩngĩita"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapanga"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "kĩtheri kĩa mũthenya"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "nĩngĩikara"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mũthia-inĩ wa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iwurugo rĩa mai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:32.826188103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩndakuga kweri hihi-inĩ ĩyo, ngĩkuga: Ndĩngĩhota mwerĩ kũgũũcĩra ⟨את⟩ inywi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nĩndakuga"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kweri inywi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hihi-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngĩkuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "hota"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "mwerĩ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kũgũũcĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:20.907948886Z",
+  "model": "glm-5.3"
+}

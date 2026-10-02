@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ũguo nĩakuire kũrĩ mũromo wa heikari: mĩcogi ya mĩti ya macendai, kuuma ⟨את⟩ kĩana kĩa kana.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "na ũguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩakuire"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "kũrĩ mũromo"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "wa heikari"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mĩcogi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mĩti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ya macendai"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩",
+      "marks": "kĩana kĩa kana"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "kĩana kĩa kana"
+    }
+  ],
+  "timestamp": "2026-10-01T23:50:41.732119392Z",
+  "model": "glm-5.3"
+}

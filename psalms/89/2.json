@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Hecedi cia Yahwe ndĩkũimba ngondu ya nthĩro; kuma mĩthenya-inĩ ngĩkinya mĩthenya, nĩngamenyithia ũthingu waku na kanua wakwa.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hecedi cia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngondu ya nthĩro"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndĩkũimba"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuma mĩthenya-inĩ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngĩkinya mĩthenya"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "nĩngamenyithia"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ũthingu waku"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na kanua wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:38.206017396Z",
+  "model": "glm-5.3"
+}

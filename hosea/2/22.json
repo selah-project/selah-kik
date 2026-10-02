@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na nĩngakũringa nakwa kwĩhoka; nawe ũgamenya ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "nĩngakũringa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "kwĩhoka"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "nawe ũgamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:16:45.916522504Z",
+  "model": "glm-5.3"
+}

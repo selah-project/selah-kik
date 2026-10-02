@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Cimamaria ⟨את⟩ mũthenya wa Cabati, ũgĩtherie; o ta ũrĩa Yahwe Erohimu waku akuhĩtie.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "cimamaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya wa Cabati"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wa Cabati"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ũgĩtherie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ta ũrĩa"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "wakuhĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:15.770223698Z",
+  "model": "glm-5.3"
+}

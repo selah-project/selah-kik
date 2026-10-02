@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Rĩrĩa thũ cĩakwa cĩgũcokerera thutha, cĩigũthuthũka na kũhiũrwo kuuma mbere yaku.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Rĩrĩa ... cĩgũcokerera"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "thũ cĩakwa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "cĩigũthuthũka"
+    },
+    {
+      "surface": "ואאבדו",
+      "gloss": "na kũhiũrwo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kuuma mbere yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:57.595526528Z",
+  "model": "glm-5.3"
+}

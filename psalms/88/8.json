@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Kĩenge gĩaku kĩnĩkĩrĩirie igũrũ rwakwa, na mahũa maku othe nĩũmanyamũkire. Cera.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "kĩnĩkĩrĩirie"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "kĩenge gĩaku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mahũa maku"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "nĩũmanyamũkire"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:47.775950949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩ Yahwe enyumirie ⟨את⟩ ngoro ya Parao, na we ndaakĩhota kũmarũmbũiya.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "enyumirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro ya Parao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndaa-"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kĩhota"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "kũmarũmbũiya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:28.117000507Z",
+  "model": "glm-5.3"
+}

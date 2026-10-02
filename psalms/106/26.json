@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩrĩa Yahwe ainũkĩte mkono wake kuruo wi makoruo ũgĩhũrwo-inĩ mathinĩ-inĩ ya kĩenyũ kĩa kĩgwa.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nĩainũkĩte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuruo wi"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "gũkahũrwo-inĩ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mathinĩ-inĩ ya kĩenyũ kĩa kĩgwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:41.535040363Z",
+  "model": "glm-5.3"
+}

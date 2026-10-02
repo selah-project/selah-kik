@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ aana wake ũcokeirie hakuhĩ, na ũmĩkĩrie nguo cia kutoneti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana wake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana wake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ũcokeirie hakuhĩ"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "na ũmĩkĩrie"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "nguo cia kutoneti"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:36.695123191Z",
+  "model": "glm-5.3"
+}

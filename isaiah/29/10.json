@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nĩgũkoruo Yahwe angĩĩra thĩinĩ wanyu ruaki wa mahinya ma gũthinga, na atĩũhire ⟨את⟩ matũ manyu — ⟨את⟩ arĩa marathi, na ⟨את⟩ matwe manyu arĩa maona macio nĩacokanirie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "angĩĩra"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "thĩinĩ wanyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "wa mahinya ma gũthinga"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "na atĩũhire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matũ manyu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "matũ manyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa marathi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "arĩa marathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matwe manyu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "matwe manyu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "arĩa maona macio"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nĩacokanirie"
+    }
+  ],
+  "timestamp": "2026-10-02T00:38:35.559692976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Arĩa mahota matirĩ o ũguo; no nĩma ta mbũrũ ya maciaro irĩa ruaki ĩhothaga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "matirĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "arĩa mahota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nĩma"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ta mbũrũ ya maciaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ĩhothaga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:19.696152725Z",
+  "model": "glm-5.3"
+}

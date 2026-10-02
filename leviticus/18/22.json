@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na ⟨את⟩ mwanamũrũ ndũkaikaraga irĩ-inĩ ũrĩa ũikaragwo na mũka; nĩ kĩhooto kĩnene kũo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mwanamũrũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ikaraga irĩ-inĩ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ũrĩa ũikaragwo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "na mũka"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kĩhooto kĩnene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ kũo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:00.158505806Z",
+  "model": "glm-5.3"
+}

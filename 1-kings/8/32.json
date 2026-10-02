@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na we ũkigue igũrũ, na ũkore, na ũciirie ⟨את⟩ atumĩa aku — gũtonya mũihuani mũihuoni ũrĩa mũihuoni, gũhe ũrĩa wake ciara-inĩ yake, na gũtonya mũthingu mũthingu, kũmũhe ta ũtheru wake.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "na we"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ũkigue"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "na ũkore"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "na ũciirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atumĩa aku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "atumĩa aku"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "gũtonya mũihuani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũihuoni ũrĩa mũihuoni"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "gũhe"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ũrĩa wake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ciara-inĩ yake"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "na gũtonya mũthingu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "gũhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũmũ"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "ta ũtheru wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:55:06.355013258Z",
+  "model": "glm-5.3"
+}

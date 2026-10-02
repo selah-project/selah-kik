@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Wa Dawidi. Yahwe, ciara wakwa, arĩreĩtwo, ũrĩa ũrĩrĩthia makono makwa mbarari na minyinya yakwa mbarari.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Wa Dawidi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "arĩreĩtwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ciara wakwa"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ũrĩa ũrĩrĩthia"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makono makwa"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "mbarari"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "minyinya yakwa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mbarari"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:57.599678429Z",
+  "model": "glm-5.3"
+}

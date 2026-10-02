@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Na akĩmĩna mana heenda rwao gũa kũrĩa, na mbembe ya igũrũ akĩmaheao.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "na akĩmĩna"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heenda rwao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "gũa kũrĩa"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "na mbembe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ya igũrũ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akĩmahe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:00.356125185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ ndege ĩgĩkũrũkĩra mũgũnyo-inĩ wa ⟨את⟩ thĩ, na mũgũnyo ndũonainio? Nĩ mũgũnyo ũgĩcoka kuuma thĩ-inĩ, na kĩndũ ndũkanyitĩte?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "ĩgĩkũrũkĩra?"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mũgũnyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "na mũgũnyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ndũonainio"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yayo"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "nĩũĩcokera?"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mũgũnyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "na kũniana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "kĩnyitithia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:25:15.212641530Z",
+  "model": "glm-5.3"
+}

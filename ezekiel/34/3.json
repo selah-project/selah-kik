@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "⟨את⟩ Mũciĩĩra mũriaga, na ⟨את⟩ gĩcũmbĩ mũmambaragia; irĩa nene mũinjaga; ci mbũri ti mũrĩithia.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũciĩĩra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "Mũciĩĩra"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũriaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩcũmbĩ"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "gĩcũmbĩ"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "mũmambaragia"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "irĩa nene"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "mũinjaga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ci mbũri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "mũrĩithia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:04:45.981702257Z",
+  "model": "glm-5.3"
+}

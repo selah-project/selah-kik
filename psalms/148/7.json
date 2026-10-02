@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Mwĩhoke ⟨את⟩ Yahwe kurĩ thĩ, nyamũ cia maĩ eenini, na mĩringa ya maĩ yothe:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Mwĩhoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kurĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "nyamũ cia maĩ eenini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... yothe"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "mĩringa ya maĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:04.671615028Z",
+  "model": "glm-5.3"
+}

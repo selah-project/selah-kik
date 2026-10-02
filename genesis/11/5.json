@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩgwĩkĩra Yahwe akĩthera arĩ ũguo akuona ⟨את⟩ mucii ũcio na ⟨את⟩ mũkĩrĩndĩ-inĩ ũrĩa ciana cia andũ arĩa maombire.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akĩthera arĩ ũguo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "akuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucii ũcio"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucii ũcio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũkĩrĩndĩ-inĩ ũcio"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "mũkĩrĩndĩ-inĩ ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "maombire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:53.452062076Z",
+  "model": "glm-5.3"
+}

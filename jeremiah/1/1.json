@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ciugo cia Yirimiahu mũrũ wa Hirikiyahu, kuuma harĩ acohani arĩa mwaki-inĩ wa Anatoti, thĩinĩ wa bũrũri wa Binyamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ciugo cia"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hirikiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "arĩa acohani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "Anatoti-inĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa bũrũri"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "wa Binyamin"
+    }
+  ],
+  "timestamp": "2026-10-02T00:59:51.524213402Z",
+  "model": "glm-5.3"
+}

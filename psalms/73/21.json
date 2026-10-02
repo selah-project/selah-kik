@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Kwoguo ngoro yakwa yaaturũkire mũraru, na figo ciakwa cĩahuhio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kwoguo"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "yaaturũkire mũraru"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "na figo ciakwa"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "cĩahuhio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:54.188563935Z",
+  "model": "glm-5.3"
+}

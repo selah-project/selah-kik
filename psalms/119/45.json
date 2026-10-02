@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Na nĩngĩendaga mahũa-inĩ ma kĩhũra, nĩgũkorwo mĩtaratara yaku nĩndarondire.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "na nĩngĩendaga"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "mahũa-inĩ ma kĩhũra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "mĩtaratara yaku"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nĩndarondire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:50.740382803Z",
+  "model": "glm-5.3"
+}

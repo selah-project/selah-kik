@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Mwathi wa Yiceraeri akĩhokia akiuga: Nĩ ta ũrĩa woigĩte, mwathi wakwa mwathi: nĩwakwa ine, na wothe ũrĩa nĩnĩ njihĩ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akĩhokia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Nĩ ta ũrĩa woigĩte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩwakwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩnĩ njihĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:03:42.052262418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "translation": "⟨את⟩ mweri na ⟨את⟩ nyeni kũthamakia ũtukũ, nĩgũko hecedi wake kĩrĩkana hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweri"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "na nyeni"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "kũthamakia"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ũtukũ-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kĩrĩkana hĩndĩ ciothe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:50.916263993Z",
+  "model": "glm-5.3"
+}

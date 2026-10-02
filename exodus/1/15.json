@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mwathani wa Micirayimu akiuga na aciari aria a Ahibiria; rĩĩtwa rĩa ĩmwe nĩrĩo Cifiraha, na rĩĩtwa rĩa ya kerĩ nĩrĩo Puayaha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "na aciari"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "a Ahibiria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aria"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "rĩa ĩmwe"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Cifiraha"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rĩa ya kerĩ"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puayaha"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:45.816474151Z",
+  "model": "glm-5.3"
+}

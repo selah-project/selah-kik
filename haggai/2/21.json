@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ruga Cerubabeli, mwathi wa Yeruda, ugoote: Nĩndĩkũhĩngĩca ⟨את⟩ igũrũ na ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ruga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Cerubabeli"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yeruda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ugoote"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nĩndĩ"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "kũhĩngĩca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igũrũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:11.550372800Z",
+  "model": "glm-5.3"
+}

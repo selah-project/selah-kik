@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na Cemueri akiuga: Hiunganĩri ⟨את⟩ Yiceraeri yothe Micifa, na nĩndĩguũrire kwa enyinyi kwa Ere Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Hiunganĩri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Micifa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "nĩndĩguũrire"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "kwa enyinyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa Ere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:24.028438751Z",
+  "model": "glm-5.3"
+}

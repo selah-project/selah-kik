@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Cerugi aatũũra thutha wa kũciarithia ⟨את⟩ Nahori mĩaka magana igĩrĩ, na akaciarithia arũme na ake.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "aatũũra"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Cerugi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "magana igĩrĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akaciarithia"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arũme"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na ake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:57.787295008Z",
+  "model": "glm-5.3"
+}

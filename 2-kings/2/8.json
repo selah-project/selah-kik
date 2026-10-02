@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Erijahu atĩĩra ⟨את⟩ gũo kwa make, akamenyanga, akagũcha ⟨את⟩ amathi, amathiũkaga me icunjĩ mbere na icunjĩ ya thutha, arĩa eerĩ makĩambata handũ he mĩng'e.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatĩĩra"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Erijahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gũo kwa make"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "gũo kwa make"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "akamenyanga"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "akagũcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amathi"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "makatanĩra"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kũu na kũu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na kũngĩ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "makĩambata"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "arĩa eerĩ"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "handũ he mĩng'e"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:04.443668832Z",
+  "model": "glm-5.3"
+}

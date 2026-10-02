@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 23:3",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na nĩ ndĩ ngũkũnyanĩra ⟨את⟩ arĩa methĩkĩte thĩinĩ wa ng'ondu cakwa, kuuma thiiniĩ thĩ ciothe rĩrĩa nĩndĩcire ⟨את⟩ cio kũo; na nĩngũcookerithia ⟨את⟩ cio kwa kũonde kwacio, na meciara, na meongerio.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na nĩ ndĩ"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "ngũkũnyanĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa methĩkĩte"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "arĩa methĩkĩte"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ng'ondu cakwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma thiiniĩ"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "thĩ ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "הדחתי",
+      "gloss": "nĩndĩcire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "cio (ng'ondu cakwa)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "na nĩngũcookerithia"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "cio"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נוהן",
+      "gloss": "kũonde kwacio"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "na meciara"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "na meongerio"
+    }
+  ],
+  "timestamp": "2026-10-02T01:15:42.540738583Z",
+  "model": "glm-5.3"
+}

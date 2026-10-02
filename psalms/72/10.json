@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Athamaki a Taricici na a_mathĩra ma rũciĩ magacootha minaha; athamaki a Ceba na Ceba magacĩriria kĩheo kĩa thũmo.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taricici"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "na a_mathĩra ma rũciĩ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "magacootha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ceba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Ceba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "kĩheo kĩa thũmo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "magacĩriria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:45.061329813Z",
+  "model": "glm-5.3"
+}

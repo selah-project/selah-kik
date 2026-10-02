@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 23:24",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mũndũ angĩkorwo e nyihĩrĩtwo mũnyihĩri-inĩ, na ndĩ ndamũona, Yahwe oigĩte? Ndi ndĩnyĩhĩa ⟨את⟩ igũrũ na ⟨את⟩ thĩ, Yahwe oigĩte?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "angĩkorwo"
+    },
+    {
+      "surface": "יסתתר",
+      "gloss": "nyihĩrĩtwo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "mũnyihĩri-inĩ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na ndĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "-mũona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kana ti…?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igũrũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ndĩnyĩhĩa \/ ndĩnĩrĩte"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:16:27.299903816Z",
+  "model": "glm-5.3"
+}

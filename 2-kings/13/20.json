@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Erisha aakuire, na maamũciirie. Amũci a Moabu macĩĩgĩrĩraga nthĩ-inĩ ⟨kwa⟩ kwinjia kwa mwaka.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "aakuire"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Erisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "maamũciirie"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "amũci"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "a Moabu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "macĩĩgĩrĩraga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nthĩ-inĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwa kwinjia"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kwa mwaka"
+    }
+  ],
+  "timestamp": "2026-10-02T06:35:06.221571799Z",
+  "model": "glm-5.3"
+}

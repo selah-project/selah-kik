@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 53,
+  "translation": "Kwa mũnini-wa-inyambaro, ciarĩ thiomi cia Makhirati, wĩra wa gweterera, wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũnini-wa-inyambaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Makhirati"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wĩra wa gweterera"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:59.216882141Z",
+  "model": "glm-5.3"
+}

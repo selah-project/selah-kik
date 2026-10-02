@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Rĩrĩa Adonai agakũrũra ⟨את⟩ thooka cia aarĩ a Cioni, na ⟨את⟩ thakari cia Yerucarayimu agacĩhaanĩra kuma thĩinĩ wayo, na ruaki wa ciira na ruaki wa gũthaanja.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Rĩrĩa"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "agakũrũra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thooka cia aarĩ a Cioni"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "thooka"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "cia aarĩ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "a Cioni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thakari cia Yerucarayimu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "thakari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "cia Yerucarayimu"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "agacĩhaanĩra"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "kuma thĩinĩ wayo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "na ruaki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wa ciira"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "na ruaki"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wa gũthaanja"
+    }
+  ],
+  "timestamp": "2026-10-02T00:27:26.183356799Z",
+  "model": "glm-5.3"
+}

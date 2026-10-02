@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Kũhinya-rora-inĩ kwa andũ matirĩ kĩndũ; na hamwe na thĩ yothe andũ-rĩ, matirĩ kũhũrwo kana kũnyitwo.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "kũhinya-rora-inĩ kwa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "andũ matirĩ"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "kĩndũ (ti-rĩ)"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na hamwe na"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ-rĩ, andũ a thĩ yothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matirĩ"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "kũhũrwo kana kũnyitwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:07.459109328Z",
+  "model": "glm-5.3"
+}

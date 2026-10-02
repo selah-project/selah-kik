@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 29:6",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nĩ gĩtirĩ asee anyu maagĩire ũũru, na maakorerera kĩuru thĩinĩ wa machoni ma Yahwe Erohimu witũ, na makamũreka, na makagarũra ngocio ciacio kuuma Micikani wa Yahwe, na makamũheera mũgongo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "maagĩire ũũru"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "asee anyu"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "maakorerera"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kĩuru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa machoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "ויעזבהו",
+      "gloss": "makamũreka"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "makagarũra"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ngocio ciacio"
+    },
+    {
+      "surface": "ממשכן",
+      "gloss": "kuuma Micikani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "makaheera"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "mũgongo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:59:01.176620872Z",
+  "model": "glm-5.3"
+}

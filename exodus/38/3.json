@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Akĩria ⟨את⟩ icomba cia mathaga othe: ⟨את⟩ ndungu, na ⟨את⟩ nyuo, na ⟨את⟩ thingithi, ⟨את⟩ cĩcwanjĩ cia nyama, na ⟨את⟩ cianja cia moto; icomba ciake othe akĩria nĩ cuma.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icomba cia mathaga othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "icomba"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cia mathaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndungu"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "ndungu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyuo"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "nyuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thingithi"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "thingithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cĩcwanjĩ cia nyama"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "cĩcwanjĩ cia nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "cianja cia moto"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "cianja cia moto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icomba ciake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akĩria"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cuma"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:47.694678083Z",
+  "model": "glm-5.3"
+}

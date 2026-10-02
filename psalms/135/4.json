@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Nĩgũkorwa Yah nĩagĩthũũra Yaakobu yũrĩ mwene, Yiceraeri nĩagĩthũũra yothe ũrĩ kĩhaaro gĩake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "nĩagĩthũũra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yũrĩ mwene"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "kĩhaaro gĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:48.936750664Z",
+  "model": "glm-5.3"
+}

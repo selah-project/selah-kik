@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Maji make mahũmaga makorerera, mirĩma ĩcagũrũka nĩ kĩene-gwĩkĩrĩra kwake. Cera.",
+  "tokens": [
+    {
+      "surface": "יֶהֱמוּ",
+      "gloss": "mahũmaga"
+    },
+    {
+      "surface": "יֶחְמְרוּ",
+      "gloss": "makorerera"
+    },
+    {
+      "surface": "מֵימָיו",
+      "gloss": "maji make"
+    },
+    {
+      "surface": "יִרְעֲשׁוּ",
+      "gloss": "ĩcagũrũka"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "mirĩma"
+    },
+    {
+      "surface": "בְגַאֲוָתוֹ",
+      "gloss": "nĩ kĩene-gwĩkĩrĩra kwake"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:15.549286352Z",
+  "model": "glm-5.3"
+}

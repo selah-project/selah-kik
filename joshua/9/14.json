@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Andũ arĩa magĩcokire ciao ithũrania, na ⟨את⟩ kanua kĩa Yahwe ndĩmakarĩirie.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nĩmacrokire"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ arĩa"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "ciao ithũrania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanua kĩa Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "makarĩirie"
+    }
+  ],
+  "timestamp": "2026-10-01T22:42:18.433580784Z",
+  "model": "glm-5.3"
+}

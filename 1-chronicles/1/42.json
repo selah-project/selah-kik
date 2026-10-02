@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Aana a Eceri: Bihami, na Zaawani, Yaakani; aana a Dicioni: Uci na Arani.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Eceri"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bihami"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "na Zaawani"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Yaakani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Dicioni"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uci"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "na Arani"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:14.696020888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩ gĩa hatĩ akwarikĩtie gwĩka hecedi, na akĩtheremeta mũndũ mũkenũrio na mũkeni, na wonekete ngoro, gwĩthĩnjia.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatĩ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akwarikĩtie"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "akĩtheremeta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkenũrio"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũkeni"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "wonekete"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "gwĩthĩnjia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:38.779440420Z",
+  "model": "glm-5.3"
+}

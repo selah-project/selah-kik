@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ũmenya ⟨את⟩ Abineri mwana wa Neri, atĩ nĩokire gũkũgeretha, na gũmenya ũciari waku na kũgera kwaku, na gũmenya ⟨את⟩ indo ciothe ũrĩa wĩĩga.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ũmenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abineri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wa Neri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "gũkũgeretha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩokire"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "na gũmenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũciari waku"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ũciari waku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kũgera kwaku"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "kũgera kwaku"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "na gũmenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wĩĩga"
+    }
+  ],
+  "timestamp": "2026-10-01T23:30:21.133476087Z",
+  "model": "glm-5.3"
+}

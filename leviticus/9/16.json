@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Akĩheania ⟨את⟩ kĩheo kĩa kũnyuachio, naagĩĩkĩra ta ciira.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Akĩheania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo kĩa kũnyuachio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kĩheo kĩa kũnyuachio"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "naagĩĩkĩra"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ta ciira"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:54.077177865Z",
+  "model": "glm-5.3"
+}

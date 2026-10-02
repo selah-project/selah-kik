@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na acĩ a Kehathi: Amiramu, na Yicahari, na Hebironi, na Uziieri; na mĩaka ya miaka ya Kehathi nĩ igana na mĩrongo ĩtatũ na ithatũ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na acĩ a"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehathi"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amiramu"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "na Yicahari"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "na Hebironi"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "na Uziieri"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na mĩaka ya"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ya Kehathi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ĩtatũ na ithatũ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na igana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:31.003181950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩngũkũrata ⟨את⟩ aacĩ arĩa makarĩa mucii ũyũ, na ⟨את⟩ mũndũ nyonje na ⟨את⟩ nyamũ nyonje; ndwari ya nene-inĩ nĩmakũa.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "nĩngũkũrata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aacĩ arĩa makarĩa mucii ũyũ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "aacĩ arĩa makarĩa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucii"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ nyonje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyamũ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyamũ nyonje"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ndwari-inĩ ya nene"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya nene"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "nĩmakũa"
+    }
+  ],
+  "timestamp": "2026-10-02T01:15:14.343362911Z",
+  "model": "glm-5.3"
+}

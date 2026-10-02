@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Ũwe agaakũhĩkĩria nyũmba ndĩrĩre, na nĩngatikaria ⟨את⟩ kĩgĩrĩ kĩawe kwa tene ĩtarĩ mũthia.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ũwe"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "agaakũhĩkĩria"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩrĩre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "nĩngatikaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgĩrĩ kĩawe"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kĩgĩrĩ kĩawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene ĩtarĩ mũthia"
+    }
+  ],
+  "timestamp": "2026-10-02T05:31:35.050369802Z",
+  "model": "glm-5.3"
+}

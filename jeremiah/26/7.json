@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na aathani na mĩrathi na andũ aothe makĩthĩra ⟨את⟩ Yeremia arĩkuuga ⟨את⟩ ciugo icio nyumbainĩ ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "makĩthĩra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aathani"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "na mĩrathi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeremia"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "arĩkuuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo icio"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "icio"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyumbainĩ ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:18:02.004515266Z",
+  "model": "glm-5.3"
+}

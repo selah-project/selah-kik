@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "⟨את⟩ Aiyaroni na ⟨את⟩ mĩgũra yayo, ⟨את⟩ Gathi-Rimoni na ⟨את⟩ mĩgũra yayo — mcũrũ inya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aiyaroni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aiyaroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũra yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgũra yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gathi-Rimoni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũra yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgũra yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mcũrũ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:23.748683800Z",
+  "model": "glm-5.3"
+}

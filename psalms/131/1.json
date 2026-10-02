@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 131,
+  "translation": "Kĩĩreranio kĩa magũrũro, kĩa Dawidi. Yahwe, ngoro yakwa ndĩgĩtwo kĩenere, na macho makwa matiguĩtwo kũrĩa igũrũ; ndĩngĩĩire maũndũ manene kana maũndũ marĩkũ kurĩ iyo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kĩĩreranio"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "magũrũro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "gĩtwo kĩenere"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na mati"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "guĩtwo kũrĩa igũrũ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho makwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ngĩĩire"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "maũndũ manene"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "na maũndũ marĩkũ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kurĩ iyo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:52.436955390Z",
+  "model": "glm-5.3"
+}

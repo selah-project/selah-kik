@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Gũcunga mĩcungo, gũkora na thahabu, na feza, na kĩcũmbĩri.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "Gũcunga"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mĩcungo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũkora"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "na thahabu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "na feza"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "na kĩcũmbĩri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:44.052088302Z",
+  "model": "glm-5.3"
+}

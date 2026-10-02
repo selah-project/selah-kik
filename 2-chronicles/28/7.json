@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na Zikiri, mũthingu wa Efrayimu, anire ⟨את⟩ Maaceyahu mwana wa mwathi, na ⟨את⟩ Azirikamu mũtũngĩri wa nyũmba, na ⟨את⟩ Erekana ũrĩa warĩ thayũ ya mwathi.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "anire"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikiri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "wa Efrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaceyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaceyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mwathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azirikamu"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azirikamu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mũtũngĩri"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyũmba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Erekana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Erekana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ũrĩa warĩ thayũ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:58:18.151120400Z",
+  "model": "glm-5.3"
+}

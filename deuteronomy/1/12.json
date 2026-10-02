@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Atĩa ndĩngĩhota mwerĩ kũgũũcĩra mũthembo wanyu, na kĩhinda kĩanyu, na mĩrĩro yanyu?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndĩngĩhota kũgũũcĩra"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "mwerĩ"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "mũthembo wanyu"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "na kĩhinda kĩanyu"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "na mĩrĩro yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:15:20.908613410Z",
+  "model": "glm-5.3"
+}

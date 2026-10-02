@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Akĩora ⟨את⟩ ngari ĩrĩ cia kooperi; ama makũmi nĩ mũnani mũgima wa ngari ĩmwe, na mũco wa ama makũmi na ĩrĩ ũgĩtũũra ngari ya kerĩ.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "akĩora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngari ĩrĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kooperi"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nĩ mũnani"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "makũmi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "mũgima"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "wa ngari"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "ויחוט",
+      "gloss": "na mũco"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "na ĩrĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "makũmi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "gĩtũũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngari ya kerĩ"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya kerĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:35.414037253Z",
+  "model": "glm-5.3"
+}

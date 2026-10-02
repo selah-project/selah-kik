@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ahabu akĩtũma kũringĩra andũ othe a Yiceraeri, na akĩcoranĩrĩra ⟨את⟩ mĩrathi kũrĩ kĩrĩma gĩa Karmelu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩtũma"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kũringĩra othe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "na akĩcoranĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩrathi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "mĩrathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma gĩa"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:01:37.452446732Z",
+  "model": "glm-5.3"
+}

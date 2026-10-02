@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 5:1",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ndũkĩhũthĩre mũno nĩ kanua gwaku, na ngoro yaku ndĩkenage kũhiũra kũinihĩria ciugo thĩinĩ wa Erohimu; nĩgũkorwo Erohimu arĩ igũrũ rĩa ng'etũ, na we ũrĩ thĩ, nĩ ũndũ ũcio ciugo ciao cihe na ũnini.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũkĩ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "kũhũthĩra mũno"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kanua gwaku"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "na ngoro yaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩkenage"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "kũhiũra"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kũinihĩria"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "igũrũ rĩa ng'etũ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na we"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũrĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "cihe"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ciugo ciao"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "na ũnini"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:05.452158579Z",
+  "model": "glm-5.3"
+}

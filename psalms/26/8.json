@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Yahwe, nĩndĩendete kũikarania kwa nyũmba yaku, na kũndũ kwa Micikani wa ũgwati waku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nĩndĩendete"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "kũikarania"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyũmba yaku"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "na kũndũ kwa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ũgwati waku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:46.100367291Z",
+  "model": "glm-5.3"
+}

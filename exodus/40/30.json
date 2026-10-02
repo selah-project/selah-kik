@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Nao akĩika ⟨את⟩ nyũngũ gatagatĩ ka hema ya kũhana na kĩgĩro, na akĩkonya kũo mahĩa ma kũhunjia.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akĩika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũngũ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nyũngũ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kĩgĩro"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩkonya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mahĩa"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "ma kũhunjia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:17.934476915Z",
+  "model": "glm-5.3"
+}

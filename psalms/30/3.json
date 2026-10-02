@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Yahwe Erohimu wakwa, nĩng'etĩtie gwanya, na ũnĩretherethie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nĩng'etĩtie gwanya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwanya"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "na ũnĩretherethie"
+    }
+  ],
+  "timestamp": "2026-10-02T06:53:46.381718762Z",
+  "model": "glm-5.3"
+}

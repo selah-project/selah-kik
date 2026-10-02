@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩgũkorwo kanua gwa mũthiaŋani na kanua gwa ũitherani nĩmegũturũma igũrũ rwakwa; nĩmarĩrire na nĩ ⟨את⟩ mĩario ya kĩhotoro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gwa mũthiaŋani"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "na kanua"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "gwa ũitherani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwakwa"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "nĩmegũturũma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nĩmarĩrire"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na nĩ",
+      "marks": "mĩario ya kĩhotoro"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "mĩario"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya kĩhotoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:47.519608677Z",
+  "model": "glm-5.3"
+}

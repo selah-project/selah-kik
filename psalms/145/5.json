@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Ũtheremi wa ũkũrũ wa ũkĩrĩti waku nĩngĩciria na kũhakanania, na mĩario ya maũndũ mako makwaragũa nĩngĩrathia.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ũtheremi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ũkũrũ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ũkĩrĩti waku"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "na mĩario"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "maũndũ mako makwaragũa"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nĩngĩrathia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:37.415119516Z",
+  "model": "glm-5.3"
+}

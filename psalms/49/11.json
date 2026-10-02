@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Kwari nĩmaonire arĩa me mena magego makũrũa; hamwe kĩngerũ na mũũkwĩ mahũthũkĩka, nao makĩreka andũ arĩa angĩ utonga wao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kwari"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nĩmaonire"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "arĩa me mena magego"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "makũrũa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kĩngerũ"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "mũũkwĩ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mahũthũkĩka"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "makĩreka"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "andũ arĩa angĩ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "utonga wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:59.676262478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Mĩaka yothe ya Enocu nĩmaikarĩte igana kenda na ithano, na akũrĩte.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "nĩmaikarĩte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya Enocu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "kenda"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akũrĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:44.941594606Z",
+  "model": "glm-5.3"
+}

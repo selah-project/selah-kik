@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Nĩngwĩra atĩrĩ: Hecedi nĩgũkorwo gĩakĩtwo ngondu ya nthĩro; igũrũ nĩũgĩkĩra ũthingu waku ndani yacio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩngwĩra atĩrĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩngwĩra"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngondu ya nthĩro"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "nĩgũkorwo gĩakĩtwo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "nĩũgĩkĩra"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ũthingu waku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndani yacio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:38.207321858Z",
+  "model": "glm-5.3"
+}

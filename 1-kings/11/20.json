@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na mũrarwa wa Tahapeneci amũciarire ⟨את⟩ Genubati mũrũ wake, Tahapeneci akĩmũhĩrĩria nyũmba-inĩ ya Farao; na Genubati agĩtũa nyũmba-inĩ ya Farao, gĩkĩro-inĩ kĩa ciana cia Farao.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "amũciarire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mũrarwa wa"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahapeneci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubati"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "akĩmũhĩrĩria"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahapeneci"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Farao"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "agĩtũa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Farao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gĩkĩro-inĩ kĩa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "cia Farao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:44.089177084Z",
+  "model": "glm-5.3"
+}

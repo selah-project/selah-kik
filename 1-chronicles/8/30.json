@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na mũrũ wake mũtuanĩre nĩ Abudoni, na Curi, na Kici, na Baari, na Nadabu.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Na mũrũ wake"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "mũtuanĩre"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abudoni"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "na Curi"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "na Kici"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "na Baari"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "na Nadabu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:40.355883922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Yahwe ndaakorire kũtherura ⟨את⟩ Yehuda, nĩ ũndũ wa Dawidi mũtumia wake, ta arĩa aamũrire kũmũheeria mũthingu wa nyũmba yake mĩaka yothe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ndaakorire"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ndaakorire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "kũtherura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta arĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aamũrire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũmũheeria"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kũheera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũmũheeria"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "wa nyũmba yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mĩaka yothe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:40.994810881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩnjĩire gwakwa mabatha ma maĩ, ngwetereire gũkĩnĩra makũo gĩthĩka kĩa mĩmera ĩrĩa ĩmeraga.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Nĩnjĩire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gwakwa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "mabatha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "gũkĩnĩra"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "makũo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "gĩthĩka"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ĩrĩa ĩmeraga"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mĩmera"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:30.564128321Z",
+  "model": "glm-5.3"
+}

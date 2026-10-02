@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Na maĩ maĩkũrĩre ithũ ciao; ũmwe wao ndaarĩ ũthiũrũtwo.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "maĩkũrĩre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ithũ ciao"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti\/ndaarĩ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ũthiũrũtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:42.939910690Z",
+  "model": "glm-5.3"
+}

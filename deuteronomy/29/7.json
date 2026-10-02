@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nao nĩtũmakĩbataria ⟨את⟩ thĩ yao, nao nĩtũmakĩhe yĩthingĩrĩirie ciao ya mbarĩ — arubeni, agadi, na ithĩro ya mbarĩ ya Manaci.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "nĩtũmakĩbataria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yao"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "thĩ yao"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "nĩtũmakĩhe"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ciao ya mbarĩ"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "arubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "agadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ithĩro ya mbarĩ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mbarĩ"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ya Manaci"
+    }
+  ],
+  "timestamp": "2026-10-02T06:22:19.205181675Z",
+  "model": "glm-5.3"
+}

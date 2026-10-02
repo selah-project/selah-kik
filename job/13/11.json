@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Ndĩ kwĩrĩ atĩ kũiguũra kwake kũnyitithagia na gwatĩtie, na gwatĩtie kwake kũgũa igũrũ rwanyũ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ndĩ kwĩrĩ atĩ"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "kũiguũra kwake"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "kũnyitithia na gwatĩtie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "na gwatĩtie kwake"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "kũgũa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "igũrũ rwanyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:02:59.214970830Z",
+  "model": "glm-5.3"
+}

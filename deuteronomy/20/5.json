@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 20:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na atĩũri magũcooka makarathia na andũ makĩuga: Nĩ mũndũ ũrĩkũ ũrĩa waathĩire nyũmba njerũ na ndĩendete kũnyihakĩra? Arĩamwe ndathĩke aguuko nyũmba yake, aria ahũrũke mbarari-inĩ na mũndũ ũngĩ ndamũnyihakĩrie.",
+  "tokens": [
+    {
+      "surface": "ודברו",
+      "gloss": "magũcooka makarathia"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "atĩũri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũrĩkũ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "waathĩire"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "njerũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩendete"
+    },
+    {
+      "surface": "חנכו",
+      "gloss": "kũnyihakĩra"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ndathĩke"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aguuko"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aria"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ahũrũke"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mbarari-inĩ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "יחנכנו",
+      "gloss": "ndamũnyihakĩrie"
+    }
+  ],
+  "timestamp": "2026-10-01T22:30:07.037147955Z",
+  "model": "glm-5.3"
+}

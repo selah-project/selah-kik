@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩngĩroreria inywe, na nĩngĩnyinyithia ⟨את⟩ inywe, na nĩngĩnengithia ⟨את⟩ inywe, na nĩngĩthĩkĩrĩra ⟨את⟩ kĩrĩkanĩro kwakwa hamwe na inywe.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "nĩngĩroreria"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "nĩngĩnyinyithia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "nĩngĩnengithia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "nĩngĩthĩkĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kwakwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:25.435377396Z",
+  "model": "glm-5.3"
+}

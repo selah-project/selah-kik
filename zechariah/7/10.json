@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mũhĩrĩnga na mũcyi na mũcenji na mũhĩnĩti ndĩmũnyamarithie, na ũru wa mũndũ mũrũ wake wa nyina ndĩmũetererie ngoroini yanyu.",
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "Mũhĩrĩnga"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "na mũcyi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mũcenji"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "na mũhĩnĩti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "mũnyamarithie"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "na ũru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũ wake wa nyina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "mũetererie"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ngoroini yanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:41:54.732585322Z",
+  "model": "glm-5.3"
+}

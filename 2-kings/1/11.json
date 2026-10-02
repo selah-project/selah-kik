@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 1:11",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Akĩcookia gũkũ na gũkũ, akĩmũthĩtia mũnene ũngĩ wa mĩrongo ĩtano hamwe na mĩrongo ĩtano yake; akĩcookia, akĩmũruta ũhoro: Wee mũndũ wa Erohimu, ũguo nĩguo mũthamaki oigĩte: Yũ hĩtũka hasi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akĩcookia gũkũ na gũkũ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akĩmũthĩtia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "wa mĩrongo ĩtano"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "na mĩrongo ĩtano yake"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "akĩcookia"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akĩmũruta ũhoro"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũguo nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "yũ"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "hĩtũka hasi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:06:30.870062973Z",
+  "model": "glm-5.3"
+}

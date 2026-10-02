@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Kĩama kĩa Yiceraeri kĩothe gĩkahinga ⟨את⟩ kĩu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kĩothe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Kĩama kĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "gĩkahinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:38.733290483Z",
+  "model": "glm-5.3"
+}

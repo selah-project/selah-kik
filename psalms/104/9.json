@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Bũnda nĩwĩĩte, nĩgeetha matikĩhĩra ũhoro; matikĩcookerera gũcũnga thĩ.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "bũnda"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "nĩwĩĩte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "matikĩ"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "kũhĩra ũhoro"
+    },
+    {
+      "surface": "בל",
+      "gloss": "matikĩ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "kũcookerera"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "gũcũnga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:49.957119233Z",
+  "model": "glm-5.3"
+}

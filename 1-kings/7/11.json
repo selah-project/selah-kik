@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na igũrũ nĩ mawe ma thamani, ta mĩeo ya mawe magĩrũtwo, na cedari.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "na igũrũ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mawe"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ma thamani"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "ta mĩeo"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "mawe magĩrũtwo"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "na cedari"
+    }
+  ],
+  "timestamp": "2026-10-01T23:50:10.490170665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ũgĩtake ⟨את⟩ maguta ma kũcaba, na ũme na igũrũ wa mutwe wake, na ũmũcabe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na ũgĩtake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta ma kũcaba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ma kũcaba"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "na ũme na"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutwe wake"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "na ũmũcabe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Aharoni)"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:36.694856305Z",
+  "model": "glm-5.3"
+}

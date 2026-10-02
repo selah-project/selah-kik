@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "⟨את⟩ Herikati na ⟨את⟩ migirasha yayo, ⟨את⟩ Recobi na ⟨את⟩ migirasha yayo — mĩciĩ inya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Herikati"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Herikati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migirasha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migirasha yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Recobi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Recobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "migirasha yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migirasha yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:54.533606306Z",
+  "model": "glm-5.3"
+}

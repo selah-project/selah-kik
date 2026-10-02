@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩgũkorwo rĩrĩa nĩndĩĩhoma, mahũri makwa nĩmanjũrire, kuuma kũgamba kwakwa mũthenya wothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "nĩndĩĩhoma"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "kunjũra"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mahũri makwa"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "kũgamba kwakwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:11.595699588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩ kĩega kũgũata ũyũ, na kuuma ũyũ ũngĩ ũtikare ⟨את⟩ moko makũ; nĩgũkorwo ũrĩ wa kũgũtĩra Erohimu nĩokaga na ⟨את⟩ macio mothe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kĩega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kũgũata"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ũgũate"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuuma ũyũ ũngĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũtika"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ũtikare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko makũ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "moko makũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ũrĩ wa kũgũtĩra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩokaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio mothe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "macio mothe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:55.818951007Z",
+  "model": "glm-5.3"
+}

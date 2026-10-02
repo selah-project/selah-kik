@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Rĩrĩkani maũndũ manene make arĩa ameire, ng'ano ciake na ciira iria muira wake wonania.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Rĩrĩkani"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "maũndũ manene make"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ameire"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ng'ano ciake"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "na ciira iria"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "muira wake wonania"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:04.186591012Z",
+  "model": "glm-5.3"
+}

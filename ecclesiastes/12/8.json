@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Heberi, cia Heberi, Kohereeti oigĩte; ũndũ wothe nĩ Heberi.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Heberi"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "cia Heberi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohereeti"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ũndũ wothe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Heberi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:45:12.893679103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Thou mwathi wa Hamati akiigua atĩ Dawidi ainjirie ⟨את⟩ mgambi wothe wa Hadadezeri mwathi wa Coba.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akiigua"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Thou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "wa Hamati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ainjirie"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mgambi wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mgambi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "wa Hadadezeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "wa Coba"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:03.005371537Z",
+  "model": "glm-5.3"
+}

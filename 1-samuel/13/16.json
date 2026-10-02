@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Cauri na Yonatani mũrũ wake, na andũ arĩa makamũkĩte hamwe nao, maikaragĩra Gibea ya Binyamini; na Pereciti mahandĩte kambĩ Micimaci.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Na Cauri"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "na Yonatani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "arĩa makamũkĩte"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hamwe nao"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "maikaragĩra"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na Pereciti"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "mahandĩte kambĩ"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "Micimaci"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:32.848963740Z",
+  "model": "glm-5.3"
+}

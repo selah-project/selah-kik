@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Nĩ ndũ? Thĩinĩ wa mĩru yo mũgima, ũngĩng'anĩra na Yahwe? Ũngĩhanania na Yahwe thĩinĩ wa aana a ngai?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "thĩinĩ wa mĩru yo mũgima"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ũngĩng'anĩra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ũngĩhanania"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "thĩinĩ wa aana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "a ngai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:20.854798915Z",
+  "model": "glm-5.3"
+}

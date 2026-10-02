@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na mũthiĩji athage ⟨את⟩ thakame igũrũ wa mũkiri wa Yahwe, kĩgera kĩa hema ya mũtheranio, na athĩnjĩrĩre maruta makwa nĩgeetha yĩgũe nĩtheri kwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "na athage"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthiĩji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mũkiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kĩgera kĩa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mũtheranio"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "na athĩnjĩrĩre"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "maruta makwa"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "nĩgeetha yĩgũe"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nĩtheri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:21.702858544Z",
+  "model": "glm-5.3"
+}

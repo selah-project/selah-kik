@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na akamathĩkĩria ⟨את⟩ harĩ kĩrũndĩ, thĩinĩ wa nyũmba ya mũkuru wa athĩnjĩri, ahĩtũkĩra nyũmba ya kĩgũrũ-ndani, harĩa Yocẽfu ahotĩtwo kũu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Na akamathĩkĩria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio amatha kĩrũndĩ"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "harĩ kĩrũndĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũkuru"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa athĩnjĩri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahĩtũkĩra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ya kĩgũrũ-ndani"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocẽfu"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ahotĩtwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:29.869107008Z",
+  "model": "glm-5.3"
+}

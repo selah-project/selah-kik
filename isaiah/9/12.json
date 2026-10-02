@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na andũ ndĩmagwatĩirie kũrĩ ũrĩa wamakũrire, na ⟨את⟩ Yahwe Cebaoti ndĩmakenda.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "magwatĩirie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "ũrĩa wamakũrire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Cebaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "makenda"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:43.123933922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na mũri ⟨את⟩ nyama ĩyo ũthiũ ũyũ wa ũgima; ĩgĩcĩĩrĩrio mũaki-inĩ; na harĩ ng'ũcũ ĩtarĩ mĩthia, hamwe na mbembe iria mĩninie mũciĩ mũkĩmĩrĩire.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Na mũri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama ĩyo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama ĩyo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ũthiũ ũyũ wa ũgima"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ĩgĩcĩĩrĩrio"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki-inĩ"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ng'ũcũ ĩtarĩ mĩthia"
+    },
+    {
+      "surface": "על",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "mbembe mĩninie mũciĩ"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "mũkĩmĩrĩire"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:54.420995103Z",
+  "model": "glm-5.3"
+}

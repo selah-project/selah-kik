@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Kĩa mĩena ĩnna nĩkĩgaakorwo, kĩikĩtwo kabiri; kĩuga kĩa guoko kũraha kwayo, na kĩuga kĩa guoko gĩterũ kĩayo.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "kĩa mĩena ĩnna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kĩgaakorwo"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kĩikĩtwo kabiri"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "kĩuga kĩa guoko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kũraha kwayo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "na kĩuga kĩa guoko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gĩterũ kĩayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:33.666309870Z",
+  "model": "glm-5.3"
+}

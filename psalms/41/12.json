@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Nĩ ũhoro ũyũ nĩngĩmenya atĩ wendonete nakwa, nĩgũkorwo thũ yanjĩ ndĩgĩtũũra ĩgĩkuhania ũthiinĩ wanjĩ.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "nĩ ũhoro ũyũ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nĩngĩmenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "wendonete"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "gĩkuhania"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "thũ yanjĩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ũthiinĩ wanjĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:38.067167140Z",
+  "model": "glm-5.3"
+}

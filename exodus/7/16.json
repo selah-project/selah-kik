@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ũkoige naye: Yahwe, Erohimu wa Ahibirania, nĩanarũmitaũngĩ akĩuga: Hota ⟨את⟩ andũ akwa, nĩmake ndarũgĩthe macio-inĩ yakwa; na rorua, ndaiguithĩria nginya ũgu no.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na ũkoige"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ahibirania"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "nĩanarũmitaũngĩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Hota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "nĩmake ndarũgĩthe yakwa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "macio-inĩ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rorua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "iguithĩria"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũgu no"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:56.975132972Z",
+  "model": "glm-5.3"
+}

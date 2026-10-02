@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Erohimu wakwa, mũoyo wakwa nĩwĩthũkĩtie ndani yakwa; nĩrĩo nĩndakũrĩkĩra kuuma thĩ ya Yerudani na Heremoni, kuuma kĩrĩma kĩa Micari.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rĩkwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "nĩwĩthũkĩtie"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩrĩo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩrĩo"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "nĩndakũrĩkĩra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yerudani"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "na Heremoni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kuuma kĩrĩma"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Micari"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:23.818325987Z",
+  "model": "glm-5.3"
+}

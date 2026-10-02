@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Na rĩu thinga, Ei Yaakobu mũtarũ wakwa, na ei Yiceraeri, ũrĩa nĩndamũcagura.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "thinga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mũtarũ wakwa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nĩndamũcagura"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-10-02T00:46:55.847459882Z",
+  "model": "glm-5.3"
+}

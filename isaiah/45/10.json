@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Ũgwe! Mũrĩa oiga kĩseea: Nĩwĩkũriria kĩ? na kĩrĩgũ kĩa mũndũ-wa-nyamu: Nĩwĩkũmĩra kĩ?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ũgwe!"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mũrĩa oiga"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "kĩseea"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "nĩwĩkũriria"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "na kĩrĩgũ kĩa mũndũ-wa-nyamu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "nĩwĩkũmĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:47:58.528356851Z",
+  "model": "glm-5.3"
+}

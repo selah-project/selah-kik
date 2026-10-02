@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 134,
+  "translation": "Kĩĩndĩ kĩa ngaruro. Ona, ithũrie ⟨את⟩ Yahwe, inyui arĩa muhĩtũka a Yahwe othe, arĩa mahĩtũranĩ nyũmba-inĩ ya Yahwe hĩndĩ cia ciũthĩ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩndĩ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "kĩa ngaruro"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ithũrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inyui arĩa muhĩtũka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "arĩa mahĩtũranĩ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "hĩndĩ cia ciũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:31.841050453Z",
+  "model": "glm-5.3"
+}

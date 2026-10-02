@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Oigĩtie gũka ithuũ dawĩ na kwa mamake: Ndarĩmũona; na ⟨את⟩ mũrũwanyina wake ndamũmenya, na ⟨את⟩ ciana ciake ndamenya; nĩgũkorwo maikaragĩrire kiugo gĩaku, na kĩrĩkanĩro gĩaku makĩrĩngĩrĩra.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Oigĩtie"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kwa ithuũ dawĩ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "na kwa mamake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ndarĩmũona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũwanyina wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũwanyina wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ndamũmenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ndamenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "maikaragĩrire"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kiugo gĩaku"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "na kĩrĩkanĩro gĩaku"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "makĩrĩngĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:36:28.496366901Z",
+  "model": "glm-5.3"
+}

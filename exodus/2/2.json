@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũtumia ũcio akwarĩra, na amũciarĩa mũrũ; arĩmũrora ⟨אתו⟩ atĩ nĩ mũega, nao amũũnia mĩeri ĩtatu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akwarĩra"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũtumia ũcio"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "amũciarĩa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "arĩmũrora"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mũrũ ũcio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mũega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "amũũnia"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ĩtatu"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "mĩeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:39.882421609Z",
+  "model": "glm-5.3"
+}

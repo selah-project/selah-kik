@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩ mogete Moce na Aharoni, makĩkorũkanya ⟨את⟩ arĩa athaanzũ a ciana cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nĩ mogete"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "makĩkorũkanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa athaanzũ a ciana cia Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "athaanzũ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:41.585252057Z",
+  "model": "glm-5.3"
+}

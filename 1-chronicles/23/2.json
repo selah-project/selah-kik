@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Akĩkorita andũ arĩa athamakaga Yiceraeri ⟨את⟩ yothe, hamwe na athungati-ngai na arevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "akĩkorita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ arĩa athamakaga Yiceraeri yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "arĩa athamakaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "hamwe na athungati-ngai"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na arevi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:11:07.201152499Z",
+  "model": "glm-5.3"
+}

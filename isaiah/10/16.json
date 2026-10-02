@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩ ũndũ ũcio Adonai, Yahwe Cebaoti, nĩaratumĩra ũgoe thĩinĩ wa amami make, na thutha wa njata yake nĩgũkunywo mwaki, nĩgũkunywo ta ũkunyo wa mwaki.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "nĩaratumĩra"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "thĩinĩ wa amami make"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ũgoe"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na thutha wa"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "njata yake"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "nĩgũkunywo mwaki"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "nĩgũkunywo"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "ta ũkunyo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wa mwaki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:30:44.859139434Z",
+  "model": "glm-5.3"
+}

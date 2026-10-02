@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Wathani wa ng'ombe cia Yiceraeri, tiga orĩe; ũrĩa ũthagĩririe Yocifu ta ng'ombe, ũrĩa ũikaraga hagatĩ-inĩ ka akerubim, ũrathĩrire ũtheri.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Wathani wa ng'ombe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tiga orĩe"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ũthagĩririe"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ta ng'ombe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocifu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ũikaraga"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "akerubim"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "ũrathĩrire ũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:04.073691284Z",
+  "model": "glm-5.3"
+}

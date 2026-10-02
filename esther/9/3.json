@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na athamaki othe a matũngĩ, na acarapani, na maandĩkũri, na arĩa marĩkaria wĩra wa mwathi, maaheanĩirie ⟨את⟩ Yahudi, nĩgũkorwo kũigua kwa Moredakai kwaingĩra harĩ ao.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "a matũngĩ"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "na acarapani"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "na maandĩkũri"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "na arĩa marĩkaria"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "maaheanĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahudi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kwaingĩra"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "kwa Moredakai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "harĩ ao"
+    }
+  ],
+  "timestamp": "2026-10-02T04:49:18.486688099Z",
+  "model": "glm-5.3"
+}

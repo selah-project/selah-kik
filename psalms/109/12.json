@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Ndũkore hamwe ũrĩa ũmũcokia hecedi, na ndũkore hamwe ũrĩa ũheaga tha nthigũ ciake.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ndũkore"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ũrĩa ũmũcokia"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ũmũcokia"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndũkore"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ũheaga tha"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "nthigũ ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:19.428024211Z",
+  "model": "glm-5.3"
+}

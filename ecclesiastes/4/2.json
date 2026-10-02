@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩndĩgoima ⟨את⟩ arĩa makĩa, arĩa kũrarĩ me kuura, kũrĩ he nginya arĩa arĩa megũkorũo nĩmo ariũ o na ũngi.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Nĩndĩgoima"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa makĩa"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "arĩa makĩa"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "kũrarĩ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "me kuura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kũrĩ he nginya"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "arĩa megũkorũo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nĩmo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ariũ"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "o na ũngi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:16.216443958Z",
+  "model": "glm-5.3"
+}

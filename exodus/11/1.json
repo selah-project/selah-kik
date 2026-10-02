@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Yahwe agĩra Moce: Ngarũro ĩmwe nĩngĩnja thĩinĩ wa Paraoni na thĩinĩ wa Micirayimu; thutha ũcio, nĩakũmũheere ⟨אתכם⟩ kūruhumĩre ha ũyũ — arĩkia kũmũheera, aciothe nĩakũrereta ⟨אתכם⟩ harĩa ha ũyũ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ndagĩkonja"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ngarũro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nĩngĩnja"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "nĩakũmũheere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ĩmwe nĩakũmũheere"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "harĩa ha ũyũ"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "arĩkia kũmũheera"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "aciothe"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "kũrereta"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "nĩakũrereta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "nĩakũrereta"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "harĩa ha ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:37.255836203Z",
+  "model": "glm-5.3"
+}

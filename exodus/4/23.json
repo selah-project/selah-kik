@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na nĩngwĩra ndũme: Heera ⟨את⟩ mwanĩ wakwa agatumĩre; na ũkaaga kũmũheera — ona, nĩngĩthinja ⟨את⟩ mwanĩ wau, wambere waku gũciarwo",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nĩngwĩra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwiyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "heera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanĩ wakwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanĩ wakwa"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "agatumĩre"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "ũkaaga kũmũheera"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kũmũheera"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "nĩngĩthinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanĩ wau"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanĩ wau"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "wambere waku gũciarwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:48.414170472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Handũ ha kĩĩga gĩkũ nĩmũnyihagwo ũgĩthĩ? Nĩmũongereraga gũthera: mutwe wothe nĩ ⟨wĩ⟩ marĩa, na ngoro yothe nĩ ⟨ĩ⟩ ya kũhara.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩĩga gĩkũ"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "nĩmũnyihagwo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na gũthera"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "nĩmũongereraga"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "gũthera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "marĩa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "kũhara"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:55.261862955Z",
+  "model": "glm-5.3"
+}

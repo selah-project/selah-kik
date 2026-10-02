@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "No andũ akwa matiathikĩrĩrire mũgambo wakwa, na Yiceraeri matieyũrire ngathĩ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "No mati"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "athiikĩrĩrire"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "tieyũrire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngathĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:15.266124845Z",
+  "model": "glm-5.3"
+}

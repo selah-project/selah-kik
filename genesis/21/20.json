@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Erohimu aarĩ hamwe na ⟨את⟩ mũciĩ-mwanake; we nĩagĩrĩire, akĩikara gĩthĩini-inĩ kwa gĩthee, agĩtuĩka mũgũthi wa ũthari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũciĩ-mwanake"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mũciĩ-mwanake"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "nĩagĩrĩire"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthĩini-inĩ kwa gĩthee"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "agĩtuĩka"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mũgũthi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ũthari"
+    }
+  ],
+  "timestamp": "2026-10-01T20:40:23.242314329Z",
+  "model": "glm-5.3"
+}

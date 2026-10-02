@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "akahũrĩra nganja hamwe na atamia-ake na acĩũ ake ũhoro wa gũcibithia ⟨את⟩ mameni ma macĩngĩ arĩa ma mbere wa mucĩ; na makamũteithia.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "akahũrĩra nganja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "atamia-ake"
+    },
+    {
+      "surface": "וגיבריו",
+      "gloss": "na acĩũ ake"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "gũcibithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mameni ma macĩngĩ"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mameni ma"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "macĩngĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ma mbere"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wa mucĩ"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "makamũteithia"
+    }
+  ],
+  "timestamp": "2026-10-02T06:02:48.542057101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Reayaha mwana wa Cobari nabiarĩ ⟨את⟩ Yahati; na Yahati nabiarĩ ⟨את⟩ Ahumai na ⟨את⟩ Lahadi. Ici nĩ mĩcemanio ya arĩa ba Ceraati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Na Reayaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Cobari"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nabiarĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahati"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahati"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "na Yahati"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nabiarĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Lahadi"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahadi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mĩcemanio ya"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "arĩa ba Ceraati"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:04.246629909Z",
+  "model": "glm-5.3"
+}

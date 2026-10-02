@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mindĩ cia thahabu mĩrongo ĩmwe na ithano, mindĩ cia iri cia mĩhiano keerĩ migana inya na ikũmi, icomba iciũrĩku ngiri ĩmwe.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "mindĩ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mĩrongo ĩmwe na ithano"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "mindĩ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iri"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "cia mĩhiano keerĩ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "migana"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "icomba"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "iciũrĩku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:01:27.523345539Z",
+  "model": "glm-5.3"
+}

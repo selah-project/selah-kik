@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na ciana cia Ceroni arĩa aaciarĩtwo ibuku rĩake: ⟨את⟩ Yerahamaeri, na ⟨את⟩ Rama, na ⟨את⟩ Kerubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na ciana cia"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Ceroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "aaciarĩtwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ibuku rĩake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerahamaeri"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerahamaeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Kerubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kerubai"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:39.374709832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Eriyahu akiuga kũrĩ andũ othe: Ũka nakwa. Na andũ othe makĩũka nakĩe; akĩhorerithia ⟨את⟩ ciatũa ca Yahwe, ĩrĩa yari ithiurũkĩte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ andũ othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Ũka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "makĩũka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nakĩe"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "akĩhorerithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciatũa ca Yahwe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ciatũa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "ĩrĩa yari ithiurũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T00:02:38.935816366Z",
+  "model": "glm-5.3"
+}

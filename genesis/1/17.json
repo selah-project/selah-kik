@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩmake Erohimu ⟨את⟩ thĩinĩ wa rĩkeera rĩa matũ-inĩ, kũrathima igũrũ wa thĩ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Nĩmake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "icio ciũtheri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "thĩinĩ wa rĩkeera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "rĩa matũ-inĩ"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "kũrathima"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:47.505750326Z",
+  "model": "glm-5.3"
+}

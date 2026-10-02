@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Ũkaharĩre ndungata kwa mwathi waya, nĩgũkorwo akũhũrage, na we nĩũkuhoe ihũ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "ũkaharĩre"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ndungata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "mwathi waya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "akũhũrage"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "nĩũkuhoe ihũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:00:59.205813381Z",
+  "model": "glm-5.3"
+}

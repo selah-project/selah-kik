@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Thĩinĩ wa ng'eno cĩakwa nĩngĩiyũria, na nĩngĩrora njĩra cĩaku.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "thĩinĩ wa ng'eno cĩaku"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nĩngĩiyũria"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "na nĩngĩrora"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "njĩra cĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:12.572782743Z",
+  "model": "glm-5.3"
+}

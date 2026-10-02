@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na angĩ kĩheo gĩake gĩa kũriũka kĩuma ũndũgate — kuma thombe kana kuma mbũri — atũĩkĩre nĩgethahe mũtheru.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na angĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ũndũgate"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kĩheo gĩake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "thombe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mbũri"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "gĩa kũriũka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nĩgethahe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "atũĩkĩre"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:45.286066739Z",
+  "model": "glm-5.3"
+}

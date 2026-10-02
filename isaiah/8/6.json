@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩ ũndũ atĩ andũ aya methaũkĩtie ⟨את⟩ maci ma Ciroaci, arĩa maĩtharĩkaga nakĩe-betũ, na makĩigua na gũkena na ⟨את⟩ Recini na mũrũ wa Ramarayahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "methaũkĩtie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maci ma Ciroaci"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maci"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Ciroaci"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "arĩa maĩtharĩkaga"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "nakĩe-betũ"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "na gũkena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Recini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recini"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "na mũrũ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ramarayahu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:28:18.266478621Z",
+  "model": "glm-5.3"
+}

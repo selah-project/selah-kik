@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Yahwe nĩwe ũiyũhĩragia mbere yaku; nĩwe arĩkũkorwo nawe: ti akũhithia, na ti akũtireka; ndĩkuona woga, na ndĩkwenenyera.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ũiyũhĩragia"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "arĩkũkorwo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "akũhithia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "akũtireka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩkũ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ona woga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩkũ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "enenyera"
+    }
+  ],
+  "timestamp": "2026-10-01T22:38:39.653427877Z",
+  "model": "glm-5.3"
+}

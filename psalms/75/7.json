@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Nĩgũkorwo kũiguũra kwĩya kũumĩte ti kuuma mbere ya ithũĩro, na ti kuuma thutha ya ithũĩro, na ti kuuma eneta ya mĩcinga ĩrĩa mĩhiano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "kuuma mbere ya ithũĩro"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "na kuuma thutha ya ithũĩro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kuuma eneta ya mĩcinga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kũiguũra kwĩya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:50.783010030Z",
+  "model": "glm-5.3"
+}

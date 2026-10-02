@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 110,
+  "translation": "Andũ ako nĩmarũmiire mwĩhoko kwa mũthenya wa hinya waku, marĩ haica-inĩ cia ũtheru; kuuma kĩndũ-gũa-inĩ kwa mũthenyo-rĩu, nĩwĩ na ũruhu wa mĩaka yako mĩnene.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "andũ ako"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "nĩmarũmiire mwĩhoko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kwa mũthenya wa"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "hinya waku"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "marĩ haica-inĩ cia"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kuuma kĩndũ-gũa-inĩ"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "kwa mũthenyo-rĩu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩwĩ na"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ũruhu"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "wa mĩaka yako mĩnene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:32.977638734Z",
+  "model": "glm-5.3"
+}

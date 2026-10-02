@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 100,
+  "translation": "Nĩgũkorwo Yahwe nĩ mwega, hecedi wake nĩ wa rũo, na kuma riika na riika wĩigũ wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wa rũo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na kuma"
+    },
+    {
+      "surface": "דר",
+      "gloss": "riika"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na riika"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "wĩigũ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:45.023404515Z",
+  "model": "glm-5.3"
+}

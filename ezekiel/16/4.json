@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na gũciarwo gwaku, mũthenya ũrĩa woiciarire ⟨את⟩, mũrũ wa matu waku ndũatatwo; na mai nĩndũarũcio kũyererwa; munyu ndũacookio; na nguo ndũagũoĩtwo.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Na gũciarwo gwaku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "ũrĩa woiciarire"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "we mũciarwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "atatwo"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "mũrũ wa matu waku"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "na mai-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "arũcio"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "kũyererwa"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "na munyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "acookio"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "na kũgũa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "agũoĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T01:48:58.771077802Z",
+  "model": "glm-5.3"
+}

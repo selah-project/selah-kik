@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Mũthũni nĩniĩ, na ndĩhikarokarire kũfũ, kuuma mwariki-inĩ wakwa; nĩndĩrĩire kĩtheri Gĩaku — nĩnoonanirie.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "mũthũni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩniĩ"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "na ndĩhikarokarire kũfũ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "kuuma mwariki-inĩ wakwa"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nĩndĩrĩire"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "kĩtheri Gĩaku"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "nĩnoonanirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:19.098923146Z",
+  "model": "glm-5.3"
+}

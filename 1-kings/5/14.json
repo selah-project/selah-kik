@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na makĩya kuuma ndũrĩrĩ ciothe gũigua ⟨את⟩ ũgeni wa Ceromo, kuuma ⟨את⟩ athamaki aothe a thĩ, arĩa maiguĩte ⟨את⟩ ũgeni wake.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "na makĩya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndũrĩrĩ ciothe"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "gũigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgeni wa Ceromo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ũgeni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Ceromo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kuuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maiguĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgeni wake"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ũgeni wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:50:34.414840466Z",
+  "model": "glm-5.3"
+}

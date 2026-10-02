@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mĩatwo ya mũtwe, na nyũmbo cia magũrũ, na mĩkanda, na irora cia mahĩa, na cirimũ cia gũtheca.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "Mĩatwo ya mũtwe"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "na nyũmbo cia magũrũ"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "na mĩkanda"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "na irora"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "mahĩa"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "na cirimũ cia gũtheca"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:05.612228656Z",
+  "model": "glm-5.3"
+}

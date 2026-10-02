@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Na mahota ma kũmena nĩmaning'inĩrĩirie; nĩmanarũanĩra na nĩ ⟨את⟩ nĩ ihooto itharia.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Na mahota"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ma kũmena"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "nĩmaning'inĩrĩirie"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "nĩmanarũanĩra na"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ihooto itharia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:47.521562499Z",
+  "model": "glm-5.3"
+}

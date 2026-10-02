@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Ama ĩmwe nĩyo ũraihu wayo, na ama ĩmwe nĩyo ũrugarĩ wayo; ĩkahana kĩguni kĩa kũigana; na ama erĩ nĩyo mũthingu wayo; mathembi make nĩmamoimĩte kuo.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "Ama ĩmwe"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ũraihu wayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na ama ĩmwe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ũrugarĩ wayo"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kĩguni kĩa kũigana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ĩkahana"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "na ama erĩ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "mũthingu wayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "mathembi make"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:15.235483127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 30:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Aharoni nĩgũcokia mũũro wa macemio igũrũ rĩayo kĩroko na kĩroko, arĩ ahoonania ⟨את⟩ matiri, nĩguũcokia mũũro ũcio.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "nĩgũcokia mũũro"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩayo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mũũro"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "wa macemio"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩroko"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na kĩroko"
+    },
+    {
+      "surface": "בהיטיבו",
+      "gloss": "arĩ ahoonania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matiri"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "matiri"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "nĩguũcokia mũũro ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:55.032495162Z",
+  "model": "glm-5.3"
+}

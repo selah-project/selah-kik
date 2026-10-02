@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "⟨את⟩ Hema ya Kũhĩrania, na ⟨את⟩ ngarĩra ya ũira, na ⟨את⟩ kĩcunjĩ kĩa kũhereherera kĩrĩa kĩrĩ igũrũ wayo, na ⟨את⟩ icemia ciothe cia ⟨the⟩ hema.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hema ya Kũhĩrania"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kũhĩrania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngarĩra ya ũira"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ngarĩra"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ya ũira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩcunjĩ kĩa kũhereherera"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kĩcunjĩ kĩa kũhereherera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kĩrĩ igũrũ wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icemia ciothe cia hema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "icemia"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cia ⟨the⟩ hema"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:49.980639700Z",
+  "model": "glm-5.3"
+}

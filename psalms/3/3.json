@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Aingĩ makĩuga ma mũoyo wanjĩ: Ntarĩ kũhotorio kwake kwa Erohimu. Cera.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Aingĩ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ma mũoyo wanjĩ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ntarĩ"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "kũhotorio kwake"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kwa Erohimu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:26.031319139Z",
+  "model": "glm-5.3"
+}

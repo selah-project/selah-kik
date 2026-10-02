@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩguo Yahwe anakĩra Moce, akiuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anakĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga:"
+    }
+  ],
+  "timestamp": "2026-10-01T21:56:10.469561410Z",
+  "model": "glm-5.3"
+}

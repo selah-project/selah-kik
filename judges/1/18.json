@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Yehuda akĩnora ⟨את⟩ Aca hamwe na mĩtara yayo, na ⟨את⟩ Ackeloni hamwe na mĩtara yayo, na ⟨את⟩ Ekeroni hamwe na mĩtara yayo.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "akĩnora"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aca"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtara yayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mĩtara yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ackeloni"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ackeloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtara yayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mĩtara yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ekeroni"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekeroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtara yayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "mĩtara yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:54:35.188772960Z",
+  "model": "glm-5.3"
+}

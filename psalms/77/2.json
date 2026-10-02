@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Mũgambo wakwa gĩkĩiga Erohimu, nĩngĩhuhĩrĩra; mũgambo wakwa gĩkĩiga Erohimu, na ⟨ĩ⟩ nĩigũkagua.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gĩkĩiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "nĩngĩhuhĩrĩra"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gĩkĩiga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "nĩigũkagua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ĩgwĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:06.844717075Z",
+  "model": "glm-5.3"
+}

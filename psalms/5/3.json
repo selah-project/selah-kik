@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Ĩthikĩrĩrĩ mũgambo wa kĩhooya gĩakwa, mũthamaki wakwa na Erohimu wakwa; nĩgũkũ ndĩhooyaga.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ĩthikĩrĩrĩ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kĩhooya gĩakwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mũthamaki wakwa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "na Erohimu wakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kukũ"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ndĩhooyaga"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:13.945483357Z",
+  "model": "glm-5.3"
+}

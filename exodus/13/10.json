@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩ ũĩngĩrie ⟨את⟩ watho ũyũ hĩndĩ ĩrĩa yaigĩrũo, kuuma mĩthenya kinya mĩthenya.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "nĩ ũĩngĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watho ũyũ"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "watho"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "hĩndĩ ĩrĩa yaigĩrũo"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "kuuma mĩthenya"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "kinya mĩthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:54.506683367Z",
+  "model": "glm-5.3"
+}

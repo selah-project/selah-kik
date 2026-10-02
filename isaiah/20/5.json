@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na nĩmekoretwo na mekũmenithia thĩinĩ wa Kuci — ũtari wao — na thĩinĩ wa Micirayimu — wĩra wao.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "nĩmekoretwo"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "mekũmenithia"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kuci"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ũtari wao"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "wĩra wao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:06.154002136Z",
+  "model": "glm-5.3"
+}

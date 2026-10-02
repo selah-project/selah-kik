@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩmwerindĩre gũcĩthĩkĩra ũrĩa Yahwe Erohimu wanyu woirĩra ⟨את⟩ nyinyi; ndĩmũciithererũkĩte kana ũthĩĩ wa ũguni kana wa ũmanyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Nĩmwerindĩre"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũcĩthĩkĩra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "woirĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "mũciithererũkĩte"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ũthĩĩ wa ũguni"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "kana wa ũmanyo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:19:17.445344029Z",
+  "model": "glm-5.3"
+}

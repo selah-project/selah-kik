@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na arĩa mamenya rĩĩtwa rĩaku nĩmahota gwĩhoka mũno gwĩkĩra wĩwe, nĩgũkorwo we, Yahwe, ndũkaherere arĩa makũrenda.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "nĩmahota gwĩhoka mũno"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gwĩkĩra wĩwe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "arĩa mamenya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ndũkaherere"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "arĩa makũrenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:52.717573177Z",
+  "model": "glm-5.3"
+}

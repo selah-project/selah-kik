@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ciana cia Yediaeri: Birihani; na ciana cia Birihani: Yeuci, na Binyamini, na Ehudi, na Kenacana, na Zetani, na Tarcici, na Ahicahari.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na ciana cia"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediaeri"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Birihani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ciana cia"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Birihani"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeuci"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamini"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "na Ehudi"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "na Kenacana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "na Zetani"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "na Tarcici"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "na Ahicahari"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:29.372435115Z",
+  "model": "glm-5.3"
+}

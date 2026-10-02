@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Noaci angĩigua mũrũ wa mĩaka mĩgwanja ithano mĩaka, na Noaci akĩsora ⟨את⟩ Cemi, ⟨את⟩ Cami, na ⟨את⟩ Yefeti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "angĩigua"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mĩgwanja"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩsora"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cami"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yefeti"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeti"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:14.813404070Z",
+  "model": "glm-5.3"
+}

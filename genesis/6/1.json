@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ikamba rĩa kũhota, rĩrĩa amũndũ maambĩrĩirie kũingĩhĩra igũrũ rĩa thĩinĩ wa thĩ, na cianĩ ciarĩiruo arĩa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikamba rĩa kũhota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "maambĩrĩirie"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "amũndũ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kũingĩhĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na cianĩ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ciarĩiruo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:21.938419359Z",
+  "model": "glm-5.3"
+}

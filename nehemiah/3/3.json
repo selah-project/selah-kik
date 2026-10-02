@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ⟨את⟩ kĩgĩrĩini kĩa nyamacia maĩ nĩmarũmitie aana a Hasenaahi; ao nĩmakĩrũra, na makĩimũkĩra matembe make, marĩĩgĩ make na mĩcenge yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgĩrĩini kĩa nyamacia maĩ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kĩgĩrĩini"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "kĩa nyamacia maĩ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nĩmarũmitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaahi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "nĩmakĩrũra"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "na makĩimũkĩra"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "matembe make"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "marĩĩgĩ make"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "na mĩcenge yake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:12:41.802157326Z",
+  "model": "glm-5.3"
+}

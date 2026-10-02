@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩguo Yahwe, Erohimu wa Yiceraeri, eetagĩra: Nĩgũcandĩkĩra ciugo ⟨את⟩ ciothe iria ndĩngĩrire, mbere ya kĩbuku.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "eetagĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuuga"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Nĩgũcandĩkĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndĩngĩrire"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kĩbuku"
+    }
+  ],
+  "timestamp": "2026-10-02T01:21:32.881012839Z",
+  "model": "glm-5.3"
+}

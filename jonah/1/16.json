@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Arĩa andũ acio nĩmagĩgooca gooco gwa nene kũrĩ ⟨את⟩ Yahwe, magĩciana cianio kũrĩ Yahwe, na magĩhĩtĩra makũriria mĩharo.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "nĩmagĩgooca"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "arĩa andũ acio"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "gooco"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gwa nene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "magĩciana cianio"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "cianio"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũrĩ Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "na magĩhĩtĩra makũriria"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "mĩharo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:16.384104720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 66:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "O ũguo Yahwe oigĩte: igũrũ nĩ kĩgĩrĩro kĩagu, na thĩ nĩ kĩigĩrĩro kĩa magũrũ maku. Nĩ handũ hega nyũmba ĩrĩa mũakũaka yakwa ĩrĩ? Na nĩ handũ hega kũndũ kwa kũhũrũka kwaku?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "O ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "kĩgĩrĩro kĩagu"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kĩigĩrĩro"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kĩa magũrũ maku"
+    },
+    {
+      "surface": "אי",
+      "gloss": "handũ hega"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hega"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "תבנו",
+      "gloss": "mũakũaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yakwa"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "na handũ hega"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hega"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "kwa kũhũrũka kwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T01:00:34.088243907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Nyimbo ya Dawidi. Heani Yahwe, eni ciana cia Ere; heani Yahwe egeti na hinya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Heani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "heani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "egeti"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "na hinya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:06.355448522Z",
+  "model": "glm-5.3"
+}

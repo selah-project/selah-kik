@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 2:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na andũ aingĩ nĩmagũthiĩ, na magĩtua rĩngĩ rĩngĩ: Ithĩrai, tũrũnge kũ kilima kĩa Yahwe, kũ nyũmba ya Erohimu wa Yaakobu, na atũrongore mĩtĩrũke yake, na tũnyĩte thĩinĩ wa nthiũ ciake; nĩgũkorwa kuuma Cioni nĩgũtiga Tora, na kiugo kĩa Yahwe kuuma Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "nĩmagũthiĩ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aingĩ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "na magĩtua"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ithĩrai"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "tũrũnge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Erohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakobu"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "na atũrongore"
+    },
+    {
+      "surface": "מדרכיו",
+      "gloss": "mĩtĩrũke yake"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "na tũnyĩte"
+    },
+    {
+      "surface": "בארחתיו",
+      "gloss": "thĩinĩ wa nthiũ ciake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuuma Cioni"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "nĩgũtiga"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kuuma Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:06.459649800Z",
+  "model": "glm-5.3"
+}

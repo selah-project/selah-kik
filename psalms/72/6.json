@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Atuĩka ta mbura igũrũ ha ũrĩa wacokanĩtio, ta mĩmbura ya kũunĩka thĩ.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Atuĩka"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ta mbura"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ ha"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ũrĩa wacokanĩtio"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "ta mĩmbura"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "kũunĩka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:33.028689457Z",
+  "model": "glm-5.3"
+}

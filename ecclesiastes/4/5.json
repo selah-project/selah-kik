@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mũkinju arĩgũũra ⟨את⟩ mãkoro make, na arĩria ⟨את⟩ nyama yake.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "mũkinju"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "arĩgũũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mãkoro make"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "mãkoro make"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "na arĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:51.204229423Z",
+  "model": "glm-5.3"
+}

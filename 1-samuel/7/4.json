@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩrĩo aana a Yiceraeri makĩhenania ⟨את⟩ Baari na ⟨את⟩ Astarothi, makĩcokĩrĩra gũcata ⟨את⟩ Yahwe we o mwene.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "makĩhenania"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baari"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Astarothi"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Astarothi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "makĩcokĩrĩra gũcata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "we o mwene"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:56.147797571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Na igũrũ rĩciarĩ kĩrĩndĩ-inĩ, ruaki wake wĩmĩririe, ndakĩrũmagĩrĩra ahũthĩte akahĩita andũ a higa cia Micirayimu othe, na arĩa amenyete aruaa othe; Parao akĩmenyereria roto wake; na gũtirĩ mũtaũri wa macio kwa Parao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na igũrũ rĩciarĩ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩrĩndĩ-inĩ"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "wĩmĩririe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaki wake"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ndakĩrũmagĩrĩra ahũthĩte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akahĩita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a higa cia Micirayimu othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "andũ a higa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "cia Micirayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa amenyete aruaa othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "arĩa amenyete aruaa"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "akĩmenyereria"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwa ao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roto wake"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "roto wake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "mũtaũri"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ macio",
+      "marks": "macio (macio matũrĩtwo)"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kwa Parao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:21.456052142Z",
+  "model": "glm-5.3"
+}

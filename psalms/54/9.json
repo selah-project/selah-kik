@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Nĩgũkorwo kuuma ũthĩna wothe anĩnjĩkũrĩtie, na rĩtha ciakwa ciĩonire ⟨arĩa⟩ thũ ciakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma wothe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ũthĩna"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "anĩnjĩkũrĩtie"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "na thũ ciakwa"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ciĩonire"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "rĩtha ciakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:13.563647254Z",
+  "model": "glm-5.3"
+}

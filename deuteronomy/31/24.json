@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩgũkorũo rĩrĩa Moce amaũrĩte kũandĩka ⟨את⟩ ciugo cia Tora ĩno thĩinĩ wa kĩbuku, hamwe na kĩmaũrĩte kĩmũrĩkĩtie kĩothe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "rĩrĩa amaũrĩte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "kũandĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia Tora ĩno"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kĩbuku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kĩmaũrĩte kĩmũrĩkĩtie kĩothe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:38:03.063264154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Bata ⟨את⟩ kuuma harĩ ao, na rĩtũkũ ĩhũkĩte gwĩka ngatho ya ohori ya mũhiũranĩra; ũmakahetha ao Alevi-inĩ, mũndũ o mũndũ kũgeria ngatho yake.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Bata"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ kuuma harĩ ao"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na rĩtũkũ ĩhũkĩte"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngatho"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ngatho"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohori"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mũhiũranĩra"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ũmakahetha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ao",
+      "marks": "Alevi-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Alevi-inĩ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mũndũ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kũgeria"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ngatho yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:52:59.465880324Z",
+  "model": "glm-5.3"
+}

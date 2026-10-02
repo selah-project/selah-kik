@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩagethire ⟨את⟩ iriwa, akĩmanyithia aria maire hĩndĩ ĩyo; na akĩmũtikithia matũũra ta mũkũrũ wa maaĩ.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "nĩagethire"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iriwa"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "akĩmanyithia aria maire"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "akĩmũtikithia matũũra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נד",
+      "gloss": "mũkũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:51.548355869Z",
+  "model": "glm-5.3"
+}

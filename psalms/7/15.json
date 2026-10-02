@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Rũrĩ! Nĩahĩtĩtie na kwarũo kwa ũru; nĩamwĩkĩte ngombo ya marũa ma ngoro, amũciara kĩhumi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rũrĩ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "nĩahĩtĩtie na kwarũo kwa kũciara"
+    },
+    {
+      "surface": "און",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "na nĩamwĩkĩte ngombo ya kũciara"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "marũa ma ngoro"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "nĩaciara"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kĩhumi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:01.640500539Z",
+  "model": "glm-5.3"
+}

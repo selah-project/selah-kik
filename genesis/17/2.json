@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩngĩhonia kĩrĩkanĩro kĩakwa hakuhĩ yakwa na wĩrĩ-inĩ waku, na nĩngĩonjeeria ⟨את⟩we mũno mũno.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nĩngĩhonia"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩakwa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakuhĩ yakwa"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na wĩrĩ-inĩ waku"
+    },
+    {
+      "surface": "וירבה",
+      "gloss": "nĩngĩonjeeria"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩we",
+      "marks": "nĩngĩonjeeria we"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-01T20:38:33.754342941Z",
+  "model": "glm-5.3"
+}

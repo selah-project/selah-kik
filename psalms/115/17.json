@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Ti arĩa maitũ magooca Yah, na ti arĩa othe maniaria ⟨gũkũ⟩ kĩĩhoro-inĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "arĩa maitũ"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "magooca"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "arĩa maniaria"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "kĩĩhoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:19.630354173Z",
+  "model": "glm-5.3"
+}

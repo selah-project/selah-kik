@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na kuuma Tibahathi na kuuma Kuni, mĩcii ya Hadadezeri, Dawidi nĩanyiite necetheti nyingĩ mũno; na Ceromoni nĩayagĩcoire nayo ⟨את⟩ riũa rĩa necetheti na ⟨את⟩ ngarari na ⟨את⟩ indo cia necetheti.",
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "kuuma Tibahathi"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "na kuuma Kuni"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mĩcii"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nĩanyiite"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "necetheti"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nyingĩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩayagĩcoire"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riũa rĩa necetheti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "rĩa necetheti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngarari"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ngarari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indo cia necetheti"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indo"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "cia necetheti"
+    }
+  ],
+  "timestamp": "2026-10-02T05:33:06.390725385Z",
+  "model": "glm-5.3"
+}

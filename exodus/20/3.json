@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Ndũgĩkũgĩra Erohimu arĩa kũrĩ kũhũra thĩinĩ waku igũrũ rĩa werũkwĩre",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gĩkũgĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũrĩ thĩinĩ waku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "arĩa kũrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "werũkwĩre"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:03.333483001Z",
+  "model": "glm-5.3"
+}

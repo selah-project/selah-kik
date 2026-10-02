@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Yahwe nĩiguũkire atĩ nĩombire ⟨את⟩ mũndũ thĩ-inĩ, na nĩarethire thĩinĩ wa ngoro yake.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nĩiguũkire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "nĩarethire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:42.122339462Z",
+  "model": "glm-5.3"
+}

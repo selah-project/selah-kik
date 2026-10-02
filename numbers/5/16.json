@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Mũkohani nĩamũreete ⟨את⟩ mũtumia ũcio, na nĩamũĩyũrĩte hakuhĩ mbere ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "nĩamũreete hakuhĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mũtumia ũcio (mũkohani nĩamũreete)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkohani"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "nĩamũmĩrĩkĩte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:53:40.399032392Z",
+  "model": "glm-5.3"
+}

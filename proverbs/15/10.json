@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Mũtarere nĩ wa gũtherũ kwa ũrĩa ũtirekaga mũhanda, na ũrĩa ũmenete kũregereria nĩakuona gũkwa.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "mũtarere"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wa gũtherũ"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kwa ũrĩa ũtirekaga"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "mũhanda"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ũrĩa ũmenete"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "kũregereria"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "nĩakuona gũkwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:05.672541006Z",
+  "model": "glm-5.3"
+}

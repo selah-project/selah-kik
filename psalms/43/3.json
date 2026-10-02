@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Tũma ⟨ũ⟩ũtheri waku na gwĩa kwaku; ico nĩcionĩrĩire, nĩcinjitagĩra ginya kilima gĩa ũtheru waku, na ginya Micikani yaku.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "tũma"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ũtheri waku"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "na gwĩa kwaku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ico"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "nĩcionĩrĩire"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "nĩcinjitagĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ginya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "gĩa ũtheru waku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ginya"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Micikani yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:22.970077497Z",
+  "model": "glm-5.3"
+}

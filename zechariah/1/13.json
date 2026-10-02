@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Yahwe agĩcookia ⟨את⟩ mũrathe ũrĩa ũrathaga thĩinĩ wakwa, ciugo njega, ciugo cia kũhoota.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "agĩcookia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrathe ũrĩa ũrathaga thĩinĩ wakwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mũrathe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũrĩa ũrathaga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "njega"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "cia kũhoota"
+    }
+  ],
+  "timestamp": "2026-10-02T02:41:31.986794992Z",
+  "model": "glm-5.3"
+}

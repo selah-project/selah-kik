@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Akĩhoota kũrũa kwothe kwa mbere bũrũri-inĩ wao, mbere ya hinya wao wothe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwothe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "kũrũa kwa mbere"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "bũrũri-inĩ wao"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya … wothe"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "hinya wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:41.337297620Z",
+  "model": "glm-5.3"
+}

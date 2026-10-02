@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 127,
+  "translation": "Ta mĩtũ moko-inĩ wa mwamakanu, ũguo nĩguo ciana ca mĩaka mĩnini.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Ta mĩtũ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wa mwamakanu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo nĩguo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ca mĩaka mĩnini"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:21.113980378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Ta marûra ma nyama na mafuta mũoyo wakwa ũgĩkogetha; na milenyo ya kũinĩra mũromo wakwa nĩgũhamithia.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "marûra ma nyama"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ũgĩkogetha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "na milenyo"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ya kũinĩra"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "nĩgũhamithia"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mũromo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:26.762886468Z",
+  "model": "glm-5.3"
+}

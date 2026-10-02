@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Yahwe mũcedeki thĩinĩ wayo, ndareka ũthĩni; kĩroko na kĩroko ciira yake anatuŋa kinya mwanya wa mũtherere, ndihekagĩrwo; na mũrekia ũthĩni ndamenya ncayio.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "thĩinĩ wayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "reka"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ũthĩni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩroko"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na kĩroko"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ciira yake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anatuŋa"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kinya mwanya wa mũtherere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "ihekagĩrwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "damenya"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mũrekia ũthĩni"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ncayio"
+    }
+  ],
+  "timestamp": "2026-10-02T02:41:07.931050500Z",
+  "model": "glm-5.3"
+}

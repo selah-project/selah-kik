@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "na nginya ndingĩhota kũona mũthia-inĩ wa kĩrĩma kĩu; ndĩgũkua ndakĩona mĩena yakwa ĩraya na harĩa mbaara ĩrakinya; ũguo nĩguo ndĩamũruta; ũkaona mĩena ĩraya yakwa — o na mĩena ĩraya ndĩonagwo.",
+  "tokens": [
+    {
+      "surface": "וַהֲסִרֹתִי",
+      "gloss": "na nginya ndingĩhota kũona mũthia-inĩ wa kĩrĩma kĩu; ndĩgũkua ndakĩona mĩena yakwa ĩraya"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "handũ haguũ"
+    },
+    {
+      "surface": "כַּפִּי",
+      "gloss": "handũ haguũ"
+    },
+    {
+      "surface": "וְרָאִיתָ",
+      "gloss": "ũkaona"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩena ĩraya yakwa"
+    },
+    {
+      "surface": "אֲחֹרָי",
+      "gloss": "mĩena ĩraya yakwa"
+    },
+    {
+      "surface": "וּפָנַי",
+      "gloss": "mĩena yakwa ĩrĩa monekaga"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ndĩonagwo o na"
+    },
+    {
+      "surface": "יֵרָאוּ",
+      "gloss": "ndĩonagwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:21:49.152139963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Ndingĩkũũra, no nĩngĩhota kuua, na nĩngĩhootora ndagĩrĩ cia Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndi-"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngĩkũũra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "nĩngĩhota kuua"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "na nĩngĩhootora"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ndagĩrĩ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:42.501827995Z",
+  "model": "glm-5.3"
+}

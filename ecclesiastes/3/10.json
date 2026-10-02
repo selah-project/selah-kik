@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩnonete ⟨את⟩ thingo irĩa Erohimu aheire aana a mũndũ, mengĩhĩrwo nacio.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩnonete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thingo"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "thingo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aheire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "mengĩhĩrwo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nacio"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:37.190310749Z",
+  "model": "glm-5.3"
+}

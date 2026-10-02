@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na ⟨את⟩ Hori kũ iria-inĩ rĩao rĩa Ceiri, nginya Ere-Parani, irĩa rĩa igũrũ wa gĩthaka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "kũ iria-inĩ rĩao"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Ceiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gĩthaka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:02.235090880Z",
+  "model": "glm-5.3"
+}

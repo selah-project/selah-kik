@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Yahwe akĩmeeria Moce: Ĩgũrũkĩra guoko kũrĩa thĩ ya Micirayimu nĩ cĩũmbũ, na irĩike thĩinĩ ya thĩ ya Micirayimu, na irĩe ⟨את⟩ mboco ciothe cia thĩ, ⟨את⟩ ciothe acio mbũra ya kĩumbũ ĩtigĩte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeeria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ĩgũrũkĩra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "guoko"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "nĩ cĩũmbũ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "na irĩike"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "na irĩe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboco ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cia thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciothe acio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "acio"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ĩtigĩte"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "mbũra ya kĩumbũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:35.789249230Z",
+  "model": "glm-5.3"
+}

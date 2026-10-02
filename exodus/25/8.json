@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na mathondeke kĩtheru kwanya; nĩngĩikaraga mĩena-inĩ wao.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Na mathondeke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwanya"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "kĩtheru"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "nĩngĩikaraga"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mĩena-inĩ wao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:15:54.780769634Z",
+  "model": "glm-5.3"
+}

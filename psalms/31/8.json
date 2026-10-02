@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩngĩgembera na kũgema hecedi-inĩ rwaku, watho ũrĩa woona ⟨את⟩ thĩna wakwa; wamenye thĩinĩ wa mĩtugo mĩthũ na mũoyo wakwa.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "nĩngĩgembera"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "na kũgema"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "hecedi-inĩ rwaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "watho ũrĩa"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "woona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩna wakwa"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "thĩna wakwa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wamenye"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "thĩinĩ wa mĩtugo mĩthũ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:01.150276719Z",
+  "model": "glm-5.3"
+}

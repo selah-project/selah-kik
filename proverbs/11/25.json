@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Mũoyo mũrĩ na baraka nĩgũkũinĩra, na ũrĩa ũnyũagĩra, nĩwe na we agĩkũo na mai.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "nĩgũkũinĩra"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "na ũrĩa ũnyũagĩra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "agĩkũo na mai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:50:56.576933343Z",
+  "model": "glm-5.3"
+}

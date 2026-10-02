@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Ithuthukie Yahwe na kinora; na nebero ya mĩcangĩ ikũmi muranĩrire; imaranĩrire ndemo.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ithuthukie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nebero"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya mĩcangĩ ikũmi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "muranĩrire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "imaranĩrire ndemo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:25.065081005Z",
+  "model": "glm-5.3"
+}

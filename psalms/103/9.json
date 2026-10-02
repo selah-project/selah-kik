@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Ti kuunini Yahwe arĩtanagĩria, na ti hĩndĩ ciothe ndaguithĩkaga iciũra yake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuunini"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "arĩtanagĩria"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ndaguithĩkaga iciũra yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:19.125143272Z",
+  "model": "glm-5.3"
+}

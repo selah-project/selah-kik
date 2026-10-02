@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na ũgima wa gĩthingo, hĩndĩ ya mbere ya rũgongo rwa thĩ, ciigo cia kũgũrũka igĩrĩ kana makĩria makĩrĩ njuũrĩ cia mahiga; mĩtirĩ yake nĩ ĩkũmi, na mabati macio nĩ ĩkũmi.",
+  "tokens": [
+    {
+      "surface": "וְרֹחַב",
+      "gloss": "ũgima"
+    },
+    {
+      "surface": "הֶחָצֵר",
+      "gloss": "kĩgeranio kĩa mbere"
+    },
+    {
+      "surface": "לִפְאַת",
+      "gloss": "hĩndĩ ya mbere ya"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "rũgongo rwa thĩ"
+    },
+    {
+      "surface": "קְלָעִים",
+      "gloss": "marũngĩ"
+    },
+    {
+      "surface": "חֲמִשִּׁים",
+      "gloss": "mırongo ĩtaano"
+    },
+    {
+      "surface": "אַמָּה",
+      "gloss": "rora-inĩ kĩndũ"
+    },
+    {
+      "surface": "עַמֻּדֵיהֶם",
+      "gloss": "mĩtirĩ yao"
+    },
+    {
+      "surface": "עֶשֶׂר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "וְאַדְנֵיהֶם",
+      "gloss": "na mabati macio"
+    },
+    {
+      "surface": "עֶשֶׂר",
+      "gloss": "ikũmi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:13:31.732371666Z",
+  "model": "glm-5.3"
+}

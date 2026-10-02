@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Kũingĩhĩria ⟨את⟩ baba waku na ⟨את⟩ maa waku, nĩgeetha mĩthenya yaka ĩmĩraarahire thĩinĩ wa thĩ ĩrĩa Yahwe Erohimu waku nĩakũhe.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Kũingĩhĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba waku"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba waku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maa waku"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "maa waku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "ĩmĩraarahire"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mĩthenya yaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩakũhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:37.414392131Z",
+  "model": "glm-5.3"
+}

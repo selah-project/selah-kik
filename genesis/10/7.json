@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na aana a Kuci nĩ: Cebaa, na Havira, na Cabata, na Raama, na Cabatekaa; na aana a Raama nĩ: Cebaa na Dedani.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuci"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Cebaa"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "na Havira"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "na Cabata"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "na Raama"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "na Cabatekaa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "Raama"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Cebaa"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "na Dedani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:44.775273832Z",
+  "model": "glm-5.3"
+}

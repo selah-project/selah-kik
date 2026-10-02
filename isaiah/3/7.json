@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũthenya ũcio mũndũ nĩagĩĩhoya akiuga atĩrĩ: Ndi mũhonyi; nyũmba yakwa ina ti irio na ti nguo; nĩndĩmũnokere mũthamaki wa andũ.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "agĩĩhoya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga atĩrĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndi mũhonyi"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "mũhonyi"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "nyũmba yakwa ina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩndĩ-"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "mũnokere"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wa andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:07.341387754Z",
+  "model": "glm-5.3"
+}

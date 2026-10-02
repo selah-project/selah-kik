@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Naakĩria ⟨את⟩ nyũmba ya ũtheru wa mathako ma theru; ũraihu wayo niĩ kũringana na ũgarũrũku wa nyumba, mbote makũmi gĩĩrĩ, na ũgarũrũku wayo mbote makũmi gĩĩrĩ; nakĩgũingĩra thahu wa kũrũa, mbote ithano makũmia.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Naakĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya ũtheru wa mathako ma theru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "wa ũtheru"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "mathako ma theru"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ũraihu wayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũringana na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "niĩ kũringana na"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ũgarũrũku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyumba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mbote"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi gĩĩrĩ"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "na ũgarũrũku wayo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mbote"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi gĩĩrĩ"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "nakĩgũingĩra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wa kũrũa"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "mbote ithano makũmia"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makũmia"
+    }
+  ],
+  "timestamp": "2026-10-02T05:41:13.262419194Z",
+  "model": "glm-5.3"
+}

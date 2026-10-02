@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Ĩmũkũrũka kwa hĩndĩ ĩtarĩ kũmenyekana, na rũtherere rwaake ũrĩa wahĩĩthĩrĩirie rũmũnyote; na mũrakũ rũcio aiyũre marĩe.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ĩmũkũrũka kwa"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "mũrakũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩtarĩ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kũmenyekana"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "na rũtherere rwaake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "wahĩĩthĩrĩirie"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "rũmũnyote"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "na mũrakũ rũcio"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "aiyũre marĩe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "rũcio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:19.299357091Z",
+  "model": "glm-5.3"
+}

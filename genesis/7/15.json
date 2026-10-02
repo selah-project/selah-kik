@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Magĩkũra kũrĩ Noa, magĩthiĩ gĩtumbĩ-inĩ, hirĩ na hirĩ, kuuma nyama ciothe iria ciina ruaki wa mwoyo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "gĩtumbĩ-inĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hirĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "na hirĩ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma ciothe"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ciina"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa mwoyo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:25.675443184Z",
+  "model": "glm-5.3"
+}

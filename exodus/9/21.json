@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ũrĩa atiĩkĩtie ngoro yake kũ kiugo kĩa Yahwe nĩarekire ⟨את⟩ atumia ake na ⟨את⟩ nyamu ciake shũani-inĩ.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Na ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ĩkĩte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "arekire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atumia ake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyamu ciake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "nyamu ciake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shũani-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:10.727242062Z",
+  "model": "glm-5.3"
+}

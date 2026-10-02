@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mwandĩre-inĩ wa kĩrĩkanĩro gĩa mawega maku nĩ ũtheri; na tene na tena, ciira ciao cia cedeki ciamũkĩraga ithũĩro ũcio.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Mwandĩre-inĩ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "kĩrĩkanĩro gĩa mawega maku"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nĩ ũtheri"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "na tene na tena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "cedeki ciamũkĩraga ithũĩro ũcio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:03.777055374Z",
+  "model": "glm-5.3"
+}

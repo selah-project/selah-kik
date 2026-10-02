@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na nĩwekage ⟨את⟩ Kĩhumanĩro igũrũ rĩa cithanda, na thĩinĩ wa cithanda nĩwekage ⟨את⟩ ng'arachi ñrĩa nĩngakũhe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "nĩwekage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kĩhumanĩro"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kĩhumanĩro"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "cithanda"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "cithanda"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nĩwekage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'arachi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ng'arachi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ñrĩa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nĩngakũhe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwawe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:41.452270661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na mũkuru wa athĩnjĩri akĩrora ⟨את⟩ Yocẽfu ⟨את⟩ atung'ane nao, akĩnyitana nao thĩinĩ, na mamari mĩrongo ĩrĩ kĩrũndĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "akĩrora"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũkuru"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa athĩnjĩri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yocẽfu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocẽfu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ atung'ane nao"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "akĩnyitana nao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio akĩnyitana nao"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na mamari"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "kĩrũndĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:29.869493611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Thĩ nĩyoarũkĩte, na igũrũ narĩ nĩrigũkũrũkũũria mbura thĩinĩ wa Erohimu; ici ni Sinai, thĩinĩ wa Erohimu, Erohimu wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Thĩ"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "nĩyoarũkĩte"
+    },
+    {
+      "surface": "אף",
+      "gloss": "narĩ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nĩrigũkũrũkũũria mbura"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ni Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:28.066565791Z",
+  "model": "glm-5.3"
+}

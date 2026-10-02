@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mũri wakwa, thorĩka, ĩka ciugo ciakwa; na mĩaka ya kuora nĩgeithionyo nyĩnde.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "thorĩka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mũri wakwa"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ĩka"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo ciakwa"
+    },
+    {
+      "surface": "וירבu",
+      "gloss": "nĩgeithionyo nyĩnde"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "שנות",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya kuora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:03.242116081Z",
+  "model": "glm-5.3"
+}

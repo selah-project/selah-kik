@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Mahema ma Edomu na a Yicimaeli,Moabu na a Hagari;",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Mahema"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ma Edomu"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "na a Yicimaeli"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "na a Hagari"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:28.695415026Z",
+  "model": "glm-5.3"
+}

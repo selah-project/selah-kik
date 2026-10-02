@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Kũrinda ndũmũrindaga ⟨את⟩ mawatho ma Yahwe Erohimu wanyu, na ngararia make, na mĩtugo make, ũrĩa yakũambĩte.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "kũrinda"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ndũmũrindaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mawatho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "na ngararia make"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "na mĩtugo make"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "yakũambĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T22:19:50.423436847Z",
+  "model": "glm-5.3"
+}

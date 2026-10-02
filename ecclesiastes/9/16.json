@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩrĩ nĩndĩũrire: ũgĩ nĩmwega kũrĩ hinya; no ũgĩ wa mũkenyu nĩũthũkĩtie, na ciugo make ti ciiguĩke.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "nĩndĩũrire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "nĩmwega"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "kũrĩ hinya"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "no ũgĩ"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "wa mũkenyu"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "nĩũthũkĩtie"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "na ciugo make"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ciiguĩke"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:34.262740397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Mũrĩ wendo wa mbeça nĩtarĩhĩagwo na mbeça; na ũrĩa wenda kĩingĩ nĩtarĩhunguragwo; o ũyũ nĩ hewiri.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mũrĩ wendo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbeça"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "rĩhĩagwo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbeça"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "na ũrĩa wenda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wenda"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "kĩingĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "rĩhunguragwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hewiri"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:13.630057577Z",
+  "model": "glm-5.3"
+}

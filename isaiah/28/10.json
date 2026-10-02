@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Nĩgũkorwo wathu rĩrĩa na wathu, wathu rĩrĩa na wathu; mũtara rĩrĩa na mũtara, mũtara rĩrĩa na mũtara; kĩnini gĩkũ, kĩnini kũu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "wathu"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "rĩrĩa na wathu"
+    },
+    {
+      "surface": "צו",
+      "gloss": "wathu"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "rĩrĩa na wathu"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mũtara"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "rĩrĩa na mũtara"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mũtara"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "rĩrĩa na mũtara"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kĩnini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gĩkũ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kĩnini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:03.240387875Z",
+  "model": "glm-5.3"
+}

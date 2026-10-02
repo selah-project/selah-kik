@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Adonai akekũra ⟨ĩwe⟩; nĩguo aonire atĩ mũthenya wake ũrĩ gũkũũra.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "akekũra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ĩwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aonire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ũrĩgũkũũra"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "mũthenya wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:20.573689819Z",
+  "model": "glm-5.3"
+}

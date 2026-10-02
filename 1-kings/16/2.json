@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Erekũ nĩgũo ndĩgũkũinũithia kuuma mũthingu, ngakũta mũthamaki wa andũ akwa a Yiceraeri; no nĩwathiĩte thĩinĩ wa thioro wa Yeroboamu, ũkahotinga ⟨את⟩ andũ akwa a Yiceraeri, ũkanengithia nĩ mahitia mao.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "erekũ nĩgũo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "ndĩgũkũinũithia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ngakũta"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "nĩwathiĩte"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "thĩinĩ wa thioro"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "wa Yeroboamu"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "ũkahotinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa a Yiceraeri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "ũkanengithia"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "nĩ mahitia mao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:00:17.117286231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na mwaka wa kana, maciaro make mothe nĩmaĩtuĩka ũtheru, nĩ mahooteri ma kũgooca Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Na mwaka"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "wa kana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩmaĩtuĩka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "maciaro make"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "mahooteri ma kũgooca"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:08.865035736Z",
+  "model": "glm-5.3"
+}

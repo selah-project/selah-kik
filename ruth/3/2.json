@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na rĩu, ndarĩ Boazi mũthuuri witũ, ũrĩa wetĩte hamwe na ⟨את⟩ mabara make? Roria, nĩwe ũgĩcegeta ⟨את⟩ kiongo kĩa mbembe nĩ ũndũrũ wa ũgoro.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ndarĩ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "mũthuuri witũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wetĩte hamwe na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabara make"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "mabara make"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Roria"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ũgĩcegeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiongo kĩa mbembe"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "kiongo kĩa mbembe"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nĩ ũndũrũ wa ũgoro"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:40.710819705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "Ũcokorere ngoro yakwa, Ere, na ũmenye ⟨yakwa⟩; ũroorie, na ũmenye mĩcieri yakwa.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Ũcokorere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na ũmenye"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ũroorie"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "na ũmenye"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mĩcieri yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:26.610997945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Cooka, Yahwe; ũrũnge mũoyo wakwa; ũrũhĩrie nĩ ũndũ wa hecedi waku.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Cooka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ũrũnge"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ũrũhĩrie"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:35.890744357Z",
+  "model": "glm-5.3"
+}

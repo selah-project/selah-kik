@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Rũruaki rwaahunjĩte ⟨את⟩ ⟨we⟩ na mbĩra ciake; na nĩmahĩtĩkĩrĩra thutha wa mĩcaro yao.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "rwaahunjĩte"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rũruaki"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "na mbĩra ciake"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "na nĩmahĩtĩkĩrĩra"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "thutha wa mĩcaro yao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:16:09.454575643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Mwathi wake amũringithira kũ Erohimu, amũringithira kĩrĩra-inĩ kana mũthiyũro-inĩ wa irĩgĩ; mwathi wake agĩcimbithia ⟨את⟩ gutĩ rĩake na ceco, nake acumarĩkĩra wake na mbere na mbere.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "amũringithira"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mwathi wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "amũringithira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩra-inĩ"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "kĩrĩra"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũthiyũro-inĩ"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "mũthiyũro wa irĩgĩ"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "agĩcimbithia"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mwathi wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gutĩ rĩake"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "gutĩ rĩake"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "na ceco"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "acumarĩkĩra wake"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na mbere na mbere"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:33.116278312Z",
+  "model": "glm-5.3"
+}

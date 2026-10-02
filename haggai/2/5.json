@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩgũkũranĩra ⟨את⟩ ũhoro ũrĩa nĩnakĩcanjuranĩra ⟨את⟩ inywe rĩrĩa mũatũire Micirayimu; na ruaki wakwa nĩũikaraga gatagatĩ kanyu — ndĩmũkenarie.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "nĩnakĩcanjuranĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "rĩrĩa mũatũire"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "na ruaki wakwa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nĩũikaraga"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "gatagatĩ kanyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mũkenarie"
+    }
+  ],
+  "timestamp": "2026-10-02T02:39:45.088508737Z",
+  "model": "glm-5.3"
+}

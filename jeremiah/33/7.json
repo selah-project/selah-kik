@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Na ngĩcookerithia ⟨את⟩ mahũthagũko ma Yuda na ⟨את⟩ mahũthagũko ma Yiceraeri, na nĭngĩmamba ta hĩndĩ ya mbere.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Na ngĩcookerithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahũthagũko ma Yuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "mahũthagũko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ma Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mahũthagũko ma Yiceraeri"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "mahũthagũko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ma Yiceraeri"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "na nĭngĩmamba"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ta hĩndĩ ya mbere"
+    }
+  ],
+  "timestamp": "2026-10-02T01:23:37.312900749Z",
+  "model": "glm-5.3"
+}

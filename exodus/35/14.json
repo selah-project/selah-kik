@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "na ⟨את⟩ menora ya mwaki na ⟨את⟩ icunga ciayo na ⟨את⟩ matukũ mayo, na ⟨את⟩ maguta ma mwaki;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "menora ya mwaki"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "menora"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ya mwaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icunga ciayo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "icunga ciayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matukũ mayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "matukũ mayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maguta ma mwaki"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ma mwaki"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:19.472697646Z",
+  "model": "glm-5.3"
+}

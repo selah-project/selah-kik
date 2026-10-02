@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Arĩa maiguithania matigagwo kũgema-inĩ kwaku; nĩumenete arĩa othe arĩa mahota kĩhĩtũka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "matigagwo kũgema"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "arĩa maiguithania"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mahĩtĩte na"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matu maku"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "nĩumenete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "arĩa mahota"
+    },
+    {
+      "surface": "און",
+      "gloss": "kĩhĩtũka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:21.416493357Z",
+  "model": "glm-5.3"
+}

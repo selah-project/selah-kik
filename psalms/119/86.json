@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Amiri-inĩ ciano ciothe nĩ cianyitanĩte na kwĩhoka; na ciĩkaũro nĩcĩnjokerete; ũndũrire.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amiri-inĩ ciano"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kwĩhoka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na ciĩkaũro"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "cĩnjokerete"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ũndũrire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:13.602653207Z",
+  "model": "glm-5.3"
+}

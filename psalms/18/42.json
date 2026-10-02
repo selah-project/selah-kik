@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Magĩtega kũringa, no gũtirĩ mũcoketi; kũringa Yahwe, no ndaakorire.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "magĩtega kũringa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "no gũtirĩ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mũcoketi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũringa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ndaakorire"
+    }
+  ],
+  "timestamp": "2026-10-02T06:54:43.589874312Z",
+  "model": "glm-5.3"
+}

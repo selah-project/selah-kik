@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Akĩmeera: Ndũka gwĩtĩra, nĩ arĩa marĩ hamwe na ithuĩ ⟨את⟩ nĩ maingĩ kũrĩ arĩa marĩ hamwe nao ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akĩmeera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "gwĩtĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maingĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "hamwe na ithuĩ ⟨את⟩"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kũrĩ aría"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nao"
+    }
+  ],
+  "timestamp": "2026-10-02T00:09:56.365698091Z",
+  "model": "glm-5.3"
+}

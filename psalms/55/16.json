@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Macungũ make mathĩkĩke igũrũ rĩao; makĩrĩre Ceori arĩ me hai; nĩgũkorwo mĩoyo mĩtherũ ĩĩ thĩinĩ wa mĩcii yao, mũno thĩinĩ wao mene.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "macungũ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "igũrũ rĩao"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "makĩrĩre"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "arĩ me hai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mĩoyo mĩtherũ"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "thĩinĩ wa mĩcii yao"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "thĩinĩ wao mene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:21.872459024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩmũciarie irio ithenya cia kũhĩtĩka, na ithenya nĩmũkuohore thĩ mbere ya ĩrĩa njerũ.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "nĩmũciarie"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ithenya"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "cia kũhĩtĩka"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "na ithenya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ĩrĩa njerũ"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "nĩmũkuohore"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:25.436398972Z",
+  "model": "glm-5.3"
+}

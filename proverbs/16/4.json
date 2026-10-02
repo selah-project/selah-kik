@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Yahwe nĩombire ciĩgĩra ciothe yaharĩirie mwĩhĩtwa wake; na o mũmeneti nĩ wa mũthenya wa ikuũ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nĩombire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "yaharĩirie mwĩhĩtwa wake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũmeneti"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "wa mũthenya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "wa ikuũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:23.225811414Z",
+  "model": "glm-5.3"
+}

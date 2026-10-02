@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Na agĩtonga kuuma iria gatĩka iria, na kuuma mũrathe kinya mĩena ya thĩ.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Na agĩtonga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kuuma iria"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gatĩka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "na kuuma mũrathe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mĩena ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:33.031653064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Igua gwakwa nĩngũkũmenyithia, na kĩũrũ gwakwa ndĩngĩhingithia; nĩngwĩra: Nĩngũrora Yahwe harĩ mahĩtũku makwa; na ũcio we, nĩwaturungĩte kĩũrũ gĩa igua rwakwa. Cera.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "igua gwakwa"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "nĩngũkũmenyithia"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "na kĩũrũ gwakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "hingithia"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩngwĩra"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "nĩngũrora"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mahĩtũku makwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na ũcio we"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "nĩwaturungĩte"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kĩũrũ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "igua rwakwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:35.770990932Z",
+  "model": "glm-5.3"
+}

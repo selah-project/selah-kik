@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ĩtheru cianjakwa wĩrĩirie hathĩ, na ⟨את⟩ Cabati cianjakwa wĩgĩtie ũtheru.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Ĩtheru cianjakwa"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "wĩrĩirie hathĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cabati cianjakwa"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Cabati cianjakwa"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wĩgĩtie ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T01:53:21.855704723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩgũko Erohimu nĩgũkana ⟨את⟩ ciĩgĩrwa ciothe ciira-inĩ, igũrũ rĩa kĩndũ o gĩthondeki, kĩrĩ kĩega kana kĩoru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩgĩrwa ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ciĩgĩrwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nĩgũkana"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ciira-inĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kĩndũ o gĩ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "gĩthondeki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kĩoru"
+    }
+  ],
+  "timestamp": "2026-10-02T04:44:14.420072651Z",
+  "model": "glm-5.3"
+}

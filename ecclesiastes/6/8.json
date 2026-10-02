@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩ gĩkuũ kĩrĩkũ mũũgĩ ana kũrĩ mũthũũri? Kĩrĩkũ mũkeni ana — mũndũ ũrĩa amenete gũthii makĩrĩa ya arĩa maciirie?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩrĩkũ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "gĩkuũ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "mũũgĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "mũthũũri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩrĩkũ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "mũkeni"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "amena"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "gũthii"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "makĩrĩa ya"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "arĩa maciirie"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:18.047909316Z",
+  "model": "glm-5.3"
+}

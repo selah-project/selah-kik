@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 67,
+  "translation": "Thĩ yaheetire mbegu yayo; Erohimu, Erohimu witũ, atũrĩkirie.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "yaheetire"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "mbegu yayo"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "atũrĩkirie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:21.552622818Z",
+  "model": "glm-5.3"
+}

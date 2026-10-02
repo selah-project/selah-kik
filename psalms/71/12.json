@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Erohimu, ala ũkorũo ũrakĩra nakwa; Erohimu wakwa, ũhĩrĩha kũnĩteithia.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ala"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ũrakĩra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kũnĩteithia"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ũhĩrĩha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:53.113492534Z",
+  "model": "glm-5.3"
+}

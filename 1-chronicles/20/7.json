@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na rĩrĩa agenire ⟨את⟩ Yiceraeri, Yehonatani mũrũ wa Cimea, mũrũ wa nyina wa Dawidi, amũrwanirie.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "agenire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "amũrwanirie"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Cimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mũrũ wa nyina wa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:31.984008660Z",
+  "model": "glm-5.3"
+}

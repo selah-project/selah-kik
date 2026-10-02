@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Mwĩ wakwa, Yahwe, nĩnihokete; ndĩngĩcoonwo kwa ithũra na ithũra.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "mwĩ wakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nĩnihokete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩngĩ-"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "-coonwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa ithũra na ithũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:00.858788812Z",
+  "model": "glm-5.3"
+}

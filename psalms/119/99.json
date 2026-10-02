@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩnĩhootanĩte bũgima kűgerera arĩa maanyĩrĩrĩtwo nakwa othe; nĩgũkorwo ithoro ciaaku nĩregetio cirokio cĩakwa.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kűgerera ... othe"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "arĩa maanyĩrĩrĩtwo nakwa"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "nĩnĩhootanĩte bũgima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ithoro ciaaku"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "regetio cirokio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:25.347558295Z",
+  "model": "glm-5.3"
+}

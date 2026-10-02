@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Tondũ nĩokoririe ⟨את⟩ mũoyo ũrĩa wonjiria kĩndũ, na mũoyo ũrĩa waring'a nĩmwarĩhĩtie wega.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tondũ"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "nĩokoririe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ũrĩa-wonjiria-kĩndũ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "na-mũoyo"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ũrĩa-waring'a"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nĩmwarĩhĩtie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:41.398748668Z",
+  "model": "glm-5.3"
+}

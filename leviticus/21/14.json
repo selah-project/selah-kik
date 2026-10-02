@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Mũthũni, na mũcarwo, na mũkonwo, mũhooci — ⟨arĩa⟩ ndarĩ gwĩka kũigua; no mũirĩtu mũtherũ kuuma andũ make ndĩagĩrĩirwo kũigua mũka.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mũthũni"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "na mũcarwo"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "na mũkonwo"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "mũhooci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa (mũthũni, mũcarwo, mũkonwo, mũhooci)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndarĩ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "gwĩka kũigua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mũirĩtu mũtherũ"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "kuuma andũ make"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ndĩagĩrĩirwo kũigua"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mũka"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:13.388961085Z",
+  "model": "glm-5.3"
+}

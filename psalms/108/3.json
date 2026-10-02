@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Amũkĩra, kinanda na kĩgandi; nĩngamũkĩrithia ⟨את⟩ kĩambĩrĩria-inĩ kĩa mũthenya.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "amũkĩra"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "kinanda"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "na kĩgandi"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "nĩngamũkĩrithia"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "kĩambĩrĩria-inĩ kĩa mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:28.516738572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na kuuma kĩongo kĩmwe kĩa mũhathe wa Manace, ⟨את⟩ Tanaki na ⟨את⟩ mĩgurasi yake, na ⟨את⟩ Gathi-rimoni na ⟨את⟩ mĩgurasi yake — mĩciĩ iĩrĩ.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "kuuma kĩongo kĩmwe kĩa mũhathe wa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũhathe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tanaki"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Tanaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgurasi yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgurasi yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gathi-rimoni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "rimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgurasi yake"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgurasi yake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:51:05.479309339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "O na mũtumia waku nĩmenyithĩtwo nĩmacio; harĩ kũrũngĩria macio kuna gĩtheonĩ gĩkĩnene.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nĩmenyithĩtwo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nĩmacio"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "harĩ kũrũngĩria macio"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gĩkĩnene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:27.016416675Z",
+  "model": "glm-5.3"
+}

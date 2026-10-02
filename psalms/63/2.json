@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Erohimu, nĩwe Ere wakwa; na mũthero nĩngakuona; mũoyo wakwa ũnyota wewe, mwĩri wakwa ũkĩenda wewe, thĩ-inĩ ĩkũrũ na gĩkuũ, ĩtarĩ mai.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ere wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "na mũthero nĩngakuona"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ũnyota"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ũkĩenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mwĩri wakwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ĩkũrũ"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "na gĩkuũ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ĩtarĩ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:24.089449271Z",
+  "model": "glm-5.3"
+}

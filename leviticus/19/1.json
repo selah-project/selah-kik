@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Yahwe akiuga na Moce, akiuga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:14.962234677Z",
+  "model": "glm-5.3"
+}

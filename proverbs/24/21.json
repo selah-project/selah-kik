@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Mũrũ wakwa, ehera ⟨את⟩ Yahwe na mwathi, ũndĩkohania na arĩa maharĩtie kũhindana.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ehera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "arĩa maharĩtie kũhindana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũndĩ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ikarania"
+    }
+  ],
+  "timestamp": "2026-10-02T03:58:43.662029573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 141,
+  "translation": "Tũũra Yahwe mũirĩri harĩ kanua gwakwa; rĩngĩcie mũrango wa mathee makwa.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "tũũra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "mũirĩri"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "harĩ kanua gwakwa"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "rĩngĩcie"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mathee makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:02.404172528Z",
+  "model": "glm-5.3"
+}

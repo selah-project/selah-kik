@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩgũkorũo mũgambo ũrĩ kũhũrĩra kuuma Dani, na ũrĩ kũhiũhĩria wũru kuuma kĩrĩma kĩa Eperayimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorũo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "wa kũhũrĩria"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kuuma Dani"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "na ũrĩ kũhiũhĩria"
+    },
+    {
+      "surface": "און",
+      "gloss": "wũru"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kuuma kĩrĩma"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "kĩa Eperayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T01:01:37.303572323Z",
+  "model": "glm-5.3"
+}

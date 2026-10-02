@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na mũrũŋĩrire mawatho makwa, mũkaore ⟨את⟩; nĩĩwe Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Na mũrũŋĩrire"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mawatho makwa"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mũkaore"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho makwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:44:15.376438889Z",
+  "model": "glm-5.3"
+}

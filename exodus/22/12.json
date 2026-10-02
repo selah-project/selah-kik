@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Angĩkorwo nĩ ĩnyagũrũtwo, aĩthĩkĩria mũira wa kũnyagũrũka kũo; kwa ĩrĩa ĩnyagũrũtwo ndacokagĩra.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "angĩkorwo"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "kũnyagũrũka"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ĩnyagũrũtwo"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "aĩthĩkĩria"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mũira"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ĩrĩa ĩnyagũrũtwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "cokagĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:17.646694145Z",
+  "model": "glm-5.3"
+}

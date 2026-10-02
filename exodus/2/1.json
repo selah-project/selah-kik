@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩgũcooka mũndũ wa mũciĩ wa Revi, na akĩhikia ⟨את⟩ mũrirũ wa Revi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nĩgũcooka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa mũciĩ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na akĩhikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrirũ wa Revi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũrirũ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:39.878878689Z",
+  "model": "glm-5.3"
+}

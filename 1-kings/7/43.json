@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ mageero ikũmi, na ⟨את⟩ maheenia ikũmi igũrũ rĩa mageero ayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "mageero"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mageero"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maheenia"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "maheenia"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mageero ayo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:49:50.375658591Z",
+  "model": "glm-5.3"
+}

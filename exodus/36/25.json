@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na ya hĩnga ya kerĩ ya Micikani, ihũrũkĩte rũgongo rwa mbere, akĩĩma makongo makũmi mbiri.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "na ya hĩnga ya kerĩ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Micikani"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya kerĩ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ihũrũkĩte"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "rũgongo rwa mbere"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akĩĩma"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi mbiri"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "makongo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:50.994200128Z",
+  "model": "glm-5.3"
+}

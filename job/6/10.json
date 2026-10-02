@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 6:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na daũ kĩhotorio gĩakwa gĩigere, nĩngĩrũga harĩ rirũ rĩrĩa ũti ũkahota kũhe tha; nĩndĩnjirithe ciugo cia Mũtheru.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "na gĩigere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daũ"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "kĩhotorio gĩakwa"
+    },
+    {
+      "surface": "ואסלדה",
+      "gloss": "nĩngĩrũga"
+    },
+    {
+      "surface": "בחילה",
+      "gloss": "harĩ rirũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ũti"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "ũkahota kũhe tha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "njirithe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T04:05:59.443160831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "O mũndũ murĩku ũrĩa ũciĩĩtie Yahwe thĩ yakwa ya kwĩhokia, ũtanyitĩrĩo kũona kũrĩ arĩa methĩnĩte, kana arĩa maciĩhĩrĩtie ciugo cia ũrongo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "murĩku"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ũciĩĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "thĩ yakwa ya kwĩhokia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "arĩa methĩnĩte"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "kana arĩa maciĩhĩrĩtie"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ũrongo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:58.568879212Z",
+  "model": "glm-5.3"
+}

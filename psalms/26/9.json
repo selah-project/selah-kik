@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Ndũkore mogwo wakwa hamwe na arĩa mehithia, na mioyo yakwa hamwe na andũ arĩa meinjithagia andũ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũko-"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "-re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "arĩa mehithia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mogwo wakwa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na hamwe na"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "arĩa meinjithagia andũ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mioyo yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.696607282Z",
+  "model": "glm-5.3"
+}

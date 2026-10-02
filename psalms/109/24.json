@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Miro yagwa yagwetete nĩgwĩka irio, na mwiri wakwa wathĩkĩtie na mafuta.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Miro yagwa"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "yagwetete"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "nĩgwĩka irio"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "na mwiri wakwa"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "wathĩkĩtie"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "na mafuta"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:59.471417481Z",
+  "model": "glm-5.3"
+}

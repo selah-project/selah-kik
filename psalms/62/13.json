@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Na harĩ Iwewe, Adonai, nĩkuo hecedi irĩ; nĩgũkorwo We ũrorota mũndũ o wothe o ũrĩa wĩra wake witũĩte.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Na harĩ Iwewe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ũrorota"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "o ũrĩa wĩra wake witũĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:47.077719664Z",
+  "model": "glm-5.3"
+}

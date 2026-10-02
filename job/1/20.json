@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgũo Ayobu agĩikara, agacuna ⟨את⟩ nguo yake ya njohera, agageera ⟨את〕 mutwe wake, agagwa thĩ, agaicĩria.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayobu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "agacuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo yake ya njohera"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "nguo yake ya njohera"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "agageera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutwe wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutwe wake"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "agagwa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "agaicĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T04:05:14.025896354Z",
+  "model": "glm-5.3"
+}

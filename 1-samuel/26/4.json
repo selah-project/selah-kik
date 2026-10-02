@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Dawidi akĩrĩma arĩa marĩ magũcũrĩtie ũhoro, agĩkĩmenya atĩ Sawuri nĩgekũmbe Nakoni.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩrĩma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "arĩa marĩ magũcũrĩtie ũhoro"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "agĩkĩmenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩgekũmbe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawuri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nakoni"
+    }
+  ],
+  "timestamp": "2026-10-02T06:28:57.183133452Z",
+  "model": "glm-5.3"
+}

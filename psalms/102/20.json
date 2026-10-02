@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩgũkorwo nĩeeriitie kuuma kĩgongona kĩa ũtheru wake; Yahwe kuuma igũrũ agĩcoora thĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nĩeeriitie"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kuuma kĩgongona"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kĩa ũtheru wake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "agĩcoora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:28.994316720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ũgĩkorũo ũrĩ cee theru mwendwa kulika ndũrĩrĩ ciothe: ndĩkaakorũo na mũndũ wandũ kana mũka wandũ, kana nyamũ ĩrĩ wandũ harĩ nyamũ cĩaku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ũrĩ cee theru"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "Ũgĩkorũo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kulika"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ndũrĩrĩ ciothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩkaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "korũo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "harĩ we"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "mũndũ wandũ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "kana mũka wandũ"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "kana harĩ nyamũ cĩaku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:21:52.094931740Z",
+  "model": "glm-5.3"
+}

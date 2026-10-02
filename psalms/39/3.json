@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Nĩndĩnyamũkĩrĩte, ndĩhingĩtie; nĩnjiikaririe ngũhũka, o kuva kĩega, na marĩra makwa nĩmahurũkire.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Nĩndĩnyamũkĩrĩte"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ndĩhingĩtie"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "nĩnjiikaririe ngũhũka"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "o kuva kĩega"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "na marĩra makwa"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "nĩmahurũkire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:23.605974Z",
+  "model": "glm-5.3"
+}

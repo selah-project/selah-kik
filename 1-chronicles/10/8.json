@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ndagĩkĩra mũthenya ũrĩa ũngĩ, Pilitini magaiya kũingata ⟨את⟩ arĩa meatũire; magakũora ⟨את⟩ Cauri na ⟨את⟩ aana ake me thĩinĩ wa kĩrĩma kĩa Giriboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndagĩkĩra"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mũthenya ũrĩa ũngĩ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "magaiya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilitini"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "kũingata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aría meatũire"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "aría meatũire"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "magakũora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cauri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "me"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thĩinĩ wa kĩrĩma kĩa"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Giriboa"
+    }
+  ],
+  "timestamp": "2026-10-02T05:26:59.463501659Z",
+  "model": "glm-5.3"
+}

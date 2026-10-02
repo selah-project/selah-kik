@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na Moce awĩhokire kwaria ciugo ⟨את⟩ ciothe ici kuuma o Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "awĩhokire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:36:33.843506306Z",
+  "model": "glm-5.3"
+}

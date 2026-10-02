@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩ kĩega gatonye hamwe na cedeki, kũingĩ kwa mbũgĩ hĩndĩ ya ciira kwa kũhĩa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gatonye"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "hamwe na cedeki"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kũingĩ kwa"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "mbũgĩ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "hĩndĩ ya kũhĩa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:53:25.532892232Z",
+  "model": "glm-5.3"
+}

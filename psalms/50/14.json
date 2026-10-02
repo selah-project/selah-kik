@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Hĩa Erohimu gooco, na cokerethia Elyoni mĩahĩre yaku.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Hĩa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "gooco"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "na cokerethia"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyoni"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "mĩahĩre yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:41.899096269Z",
+  "model": "glm-5.3"
+}

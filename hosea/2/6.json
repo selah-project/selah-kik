@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na ⟨את⟩ ciana ciake ndĩngĩmũhe tha, nĩgũkorwo nĩciana cia mahahĩri ao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciake"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "kũmũhe tha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nĩciana cia"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "mahahĩri"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:17:24.398451927Z",
+  "model": "glm-5.3"
+}

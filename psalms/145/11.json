@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Kĩeego kĩa ũthamaki waku nĩkiuga, na hinya waku nĩkĩrĩta ũhoro.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Kĩeego kĩa"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ũthamaki waku"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nĩkiuga"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "na hinya waku"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nĩkĩrĩta ũhoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:28.842079426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũirũ wa Farao akĩrũhũka arĩ kũoga kũrĩa mũrĩĩ, arĩa airũ aitũ magĩrĩoka mageganyĩte moko make harĩa mũrĩĩ gũtikĩra. Akĩona ⟨את⟩ getembe kĩrĩ gatagatĩ ka macũbi, akĩrĩhĩrĩrwo ⟨את⟩ mũgarũ wake, nao makĩikara.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "akĩrũhũka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũirũ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "arĩ kũoga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mũrĩĩ"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "arĩa airũ aitũ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "magĩrĩoka"
+    },
+    {
+      "surface": "על",
+      "gloss": "mageganyĩte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mũrĩĩ"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getembe"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "getembe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "macũbi"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "akĩrĩhĩrĩrwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgarũ wake"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "mũgarũ wake"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "makĩikara"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:33.962561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Erohimu nĩngĩiguĩte ⟨את⟩ kũhũrũka kwao, Erohimu nao nĩakeerĩtie ⟨את⟩ kĩrĩkanĩro kĩake, ⟨את⟩ Abarahamu, ⟨את⟩ Yicaki, na ⟨את⟩ Yaakobu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nĩngĩiguĩte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũhũrũka kwao"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "kũhũrũka kwao"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "nĩakeerĩtie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩake"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kĩrĩkanĩro kĩake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yaakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:29.640532794Z",
+  "model": "glm-5.3"
+}

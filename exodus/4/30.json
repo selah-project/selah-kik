@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩrĩ Aharoni ainũkĩte ⟨את⟩ ciugo ciothe iria Yahwe aarĩkĩtie kũrĩ Moce, nao makĩĩngania ⟨את⟩ ng'aracia thĩinĩ wa maitho marĩa andũ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nĩrĩ...ainũkĩte"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aarĩkĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "makĩĩngania"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "⟨את⟩ ng'aracia"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "thĩinĩ wa maitho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "marĩa andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:41.588043493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Yahwe akiuga kwa Moce: Farao ndagũthikĩrĩra inyui, nĩgeetha mĩrarĩ yagu ĩnyiitie mũingĩ thĩinĩ wa thĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "-gũthikĩrĩra"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "inyui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ĩnyiitie mũingĩ"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mĩrarĩ yagu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:03:55.210801776Z",
+  "model": "glm-5.3"
+}

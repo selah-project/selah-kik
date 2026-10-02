@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na mũthanjari ahe atĩri a mĩrongo igĩrĩ ikumi ⟨את⟩ cűĩri na ⟨את⟩ ngari iria cia mwathani Dawidi, iria ciarĩ thayathaya-inĩ ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ahe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjari"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "atĩri a"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "mĩrongo igĩrĩ ikumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cűĩri"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "cűĩri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngari"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cia mwathani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thayathaya-inĩ ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:22.953370914Z",
+  "model": "glm-5.3"
+}

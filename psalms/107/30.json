@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Nĩmekoenya rĩrĩa gĩkĩnyuũka, nacio akĩboithia kinya ithuĩro rĩa maaĩ rĩrĩa baakenda.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "nĩmekoenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "gĩkĩnyuũka"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akĩboithia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "ithuĩro rĩa maaĩ"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "rĩrĩa baakenda"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:58.089610028Z",
+  "model": "glm-5.3"
+}

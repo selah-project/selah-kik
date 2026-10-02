@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Nĩndĩkucookeria ciugo, na ⟨את⟩ ariũ arĩa makwamokere hamwe nawe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ndĩkucookeria"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ariũ arĩa makwamokere"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ariũ arĩa makwamokere"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nawe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:21:23.541650435Z",
+  "model": "glm-5.3"
+}

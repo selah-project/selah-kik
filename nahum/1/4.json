@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Akagera iria, na rĩkoma gũtambũka; na mĩrũ yothe ayerũkithia: Bacan nĩyereyerũka, na Carimeri, na ngũa ya Lebanoni nĩyereyerũka.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "akagera"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "rĩkoma gũtambũka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na mĩrũ yothe"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "mĩrũ"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "ayerũkithia"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nĩyereyerũka"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bacan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "na Carimeri"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "na ngũa ya"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nĩyereyerũka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:37:10.323043192Z",
+  "model": "glm-5.3"
+}

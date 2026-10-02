@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Dawidi agĩĩkenya Yahwe mũthenya ũcio, na akiuga: Nĩgũkuona gĩtĩmbe kĩa Yahwe kĩngĩĩkĩra ithũĩ? — yaaguĩte aroni ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "agĩĩkenya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "איך",
+      "gloss": "nĩgũkuona"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kĩngĩĩkĩra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:02.363449584Z",
+  "model": "glm-5.3"
+}

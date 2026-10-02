@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Erohimu-inĩ nĩnĩikarĩtie wĩtĩkio; ndĩngĩtinya — mũndũ angĩgĩka kĩ ndĩwe?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Erohimu-inĩ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nĩnĩikarĩtie wĩtĩkio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩtinya"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tinya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "angĩgĩka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:40.228052871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Indo ciothe cia kũrĩa nĩcĩmenetwo nĩ mĩoyo mabanyũ, na makagera ũgima wa irigithi cia kũfũ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "indo cia kũrĩa"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "nĩcĩmenetwo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nĩ mĩoyo mabanyũ"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "na makagera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ũgima wa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "irigithi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kũfũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:59.772254605Z",
+  "model": "glm-5.3"
+}

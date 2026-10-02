@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Ahazi nĩarĩriria ⟨את⟩ Yarahi; na Yarahi nĩarĩriria ⟨את⟩ Aremeti, na ⟨את⟩ Azimaveti, na ⟨את⟩ Zimri; na Zimri nĩarĩriria ⟨את⟩ Moza.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Na Ahazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩarĩriria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarahi"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yarahi"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "na Yarahi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩarĩriria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aremeti"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Aremeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Azimaveti"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azimaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "na Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩarĩriria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moza"
+    }
+  ],
+  "timestamp": "2026-10-02T05:25:53.581484275Z",
+  "model": "glm-5.3"
+}

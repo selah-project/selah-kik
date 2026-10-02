@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na andũ makĩugira kũrĩ Yehocua: Yahwe Erohimu witu nĩtũkahotora ⟨את⟩, na mũgambo wake nĩtũkathikĩra.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩugira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witu"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "nĩtũkahotora"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nĩtũkathikĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:52:49.389028027Z",
+  "model": "glm-5.3"
+}

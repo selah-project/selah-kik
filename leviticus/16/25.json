@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na ⟨את⟩ mafuta ma kĩheo kĩa ihũ nĩake macũranĩra thĩinĩ wa kĩonekĩro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "mafuta ma kĩheo kĩa ihũ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kĩheo kĩa ihũ"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "nĩake macũranĩra"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "kĩonekĩro"
+    }
+  ],
+  "timestamp": "2026-10-01T21:42:03.490498586Z",
+  "model": "glm-5.3"
+}

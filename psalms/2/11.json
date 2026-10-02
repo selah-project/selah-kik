@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mũtũme ⟨את⟩ Yahwe na nyumbacũ; na mũgĩe na gĩkeno na gũthũngũrũku.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "mũtũme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "na nyumbacũ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mũgĩe na gĩkeno"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "na gũthũngũrũku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:25.919424729Z",
+  "model": "glm-5.3"
+}

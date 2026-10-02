@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Ndũkaine andũ a mbĩgũ, na ndũkanjere kũyenda kũigwo ⟨את⟩ hamwe nao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ndũka"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ine"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbĩgũ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndũka"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "njere"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kũigwo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hamwe nao",
+      "marks": "andũ a mbĩgũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:58:39.740254479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Ũrĩa gũkanyumana ⟨את⟩ naguo harĩ acuarĩtia aku, nĩakuwe, na ithuĩ na ithuĩ tũtuĩ acuarĩtia a mwathi wĩu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gũkanyumana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naguo",
+      "marks": "naguo"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "acuarĩtia aku"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "nĩakuwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tũtuĩ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "a mwathi wĩu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "acuarĩtia"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:04.441480193Z",
+  "model": "glm-5.3"
+}

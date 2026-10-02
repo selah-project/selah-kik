@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ rũrambo rũu ũgĩcunganĩrĩria mĩcoro yake, ũkarakara ciongo cĩake na magũrũ make, ũkahĩkĩra ha mĩcoro yake na ha mutwe wake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "rũrambo rũu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "rũrambo rũu"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "ũgĩcunganĩrĩria"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "mĩcoro yake"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ũkarakara"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ciongo cĩake"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ũkahĩkĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "mĩcoro yake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ha"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutwe wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:51.472225109Z",
+  "model": "glm-5.3"
+}

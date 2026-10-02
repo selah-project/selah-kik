@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na magĩtua: Nĩtũhe, na nĩtũhe. Magĩtambũra ⟨את⟩ nguo, magĩcigũra kuo; mũndũ ũmwe gĩathi kĩa mìnhĩ kĩa huboora wawe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Na magĩtua"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "Nĩtũhe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "na nĩtũhe"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "magĩtambũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "magĩcigũra kuo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ ũmwe"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "gĩathi kĩa mìnhĩ"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "kĩa huboora wawe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:00:50.832247238Z",
+  "model": "glm-5.3"
+}

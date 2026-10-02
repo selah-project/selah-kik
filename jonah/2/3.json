@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩakuga: Nĩndarayira Yahwe thĩinĩ wa gĩtherũ gwakwa, na akĩcookia rĩgito; kuuma tũmbĩ-inĩ wa Ceori nĩndahorerera, nawe wathĩkĩtie mũgambo wakwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩakuga"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Nĩndarayira"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "thĩinĩ wa gĩtherũ gwakwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gwakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "akĩcookia rĩgito"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuuma tũmbĩ-inĩ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Ceori"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nĩndahorerera"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wathĩkĩtie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mũgambo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:21.036687951Z",
+  "model": "glm-5.3"
+}

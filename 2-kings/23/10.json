@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na akĩtherithia ⟨את⟩ Tofeti, ĩrĩa ĩĩ kĩharo-inĩ kĩa ciana cia Hinoni, nĩgeetha mũndũ ndahĩtie ⟨את⟩ mũrũ wake na ⟨את⟩ mũkarũ wake mwaki-inĩ kwa Moleki.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Na akĩtherithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofeti"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa ĩĩ"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "kĩharo-inĩ kĩa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinoni"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nĩgeetha gũtirĩ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kũhĩtia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũkarũ wake"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mũkarũ wake"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mwaki-inĩ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa Moleki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:22:29.699340181Z",
+  "model": "glm-5.3"
+}

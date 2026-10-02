@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩĩĩ Yahwe, Erohimu wanyu, ũrĩa wakĩhũrĩte kuuma thĩ ya Micirayimu, kuuma nyũmba ya kũtuwo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "nĩĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "wakĩhũrĩte"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma nyũmba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya kũtuwo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:45.038352812Z",
+  "model": "glm-5.3"
+}

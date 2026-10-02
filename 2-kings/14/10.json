@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩũkwendia kũhoora ⟨את⟩ Edomu, nĩgeetho ngoro yaku ĩgũtuĩkire mũnene; ĩhota na kĩeegano kĩu, ĩikarire nyũmba yaku-inĩ; nĩkĩ ũkwendie kũhungũka nĩ ũru, na ũgwe, na we ũmwe, na Yehuda hamwe na we?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "nĩũkwendia kũhoora"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ũhooire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ĩgũtuĩkire mũnene"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ĩhota na kĩeegano kĩu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ĩikarire"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "nyũmba yaku-inĩ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "nĩkĩ ũkwendie"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "kũhungũka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nĩ ũru"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "na ũgwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "na we ũmwe"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe na we"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:15.503916081Z",
+  "model": "glm-5.3"
+}

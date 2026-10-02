@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Hĩndĩ ĩcio mũndũ o wothe akĩtinya, akĩheana ũhoro wa ngwatio cia Erohimu, na icũranĩro ciake akĩcoora na ũgĩ.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "akĩtinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "akĩheana ũhoro"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ngwatio"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "icũranĩro ciake"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "akĩcoora na ũgĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:25.936824151Z",
+  "model": "glm-5.3"
+}

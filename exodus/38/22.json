@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na Becereri mũrũ wa Uri, mũrũ wa Huri, wa mũciĩ wa Yehuda, nĩekire ⟨את⟩ o ũrĩa Yahwe agĩthĩkĩrĩtie ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "Na Becereri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Huri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa mũciĩ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩekire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "agĩthĩkĩrĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:03.238894993Z",
+  "model": "glm-5.3"
+}

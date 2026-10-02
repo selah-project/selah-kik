@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩakĩmeeria arĩ: Theni na mbee ya mĩthenya ĩtatũ, nĩmũcookere kwakwa. Nĩgũo andũ magĩthie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩakĩmeeria"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "theni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na mbee"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "nĩmũcookere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nĩmagĩthie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:11.434563101Z",
+  "model": "glm-5.3"
+}

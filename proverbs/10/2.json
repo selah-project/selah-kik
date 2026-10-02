@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ithemba cia ũrũa itirĩ mahota; na cedeki ĩrũmagĩrĩra mũndũ kuuma mũthiya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "itirĩ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "mahota"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ithemba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "cia ũrũa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ĩrũmagĩrĩra kuuma"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "mũthiya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:49:48.349000076Z",
+  "model": "glm-5.3"
+}

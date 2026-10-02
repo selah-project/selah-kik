@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Hesedi na ma nĩmacokanĩte; cedeki na thayu nĩmanyitanĩte.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ma"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "nĩmacokanĩte"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "na thayu"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "nĩmanyitanĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:03.973549363Z",
+  "model": "glm-5.3"
+}

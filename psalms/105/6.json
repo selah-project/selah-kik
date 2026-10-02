@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Ĩwe mũbango wa Abarahamu, mũcirũ wake; aana a Yaakobu, arĩa oigire.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "mũbango"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mũcirũ wake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "aría oigire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:04.188545320Z",
+  "model": "glm-5.3"
+}

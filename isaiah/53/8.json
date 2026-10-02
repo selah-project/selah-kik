@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 53,
+  "translation": "Kuma gũthingatwo na ciira nĩeatwo, na ⟨את⟩ mbaara yake ũngĩ aaria kũmĩrĩkia atĩa? Nĩgũturwo kuuma thĩ ya mĩoyo — nĩ mahĩtia ma andũ ake nĩararumitwo.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "kuma gũthingatwo"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "na ciira"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nĩeatwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbaara yake"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "mbaara yake"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "aaria kũmĩrĩkia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "nĩgũturwo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya mĩoyo"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "nĩ mahĩtia"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ma andũ ake"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ararumitwo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "andũ oc"
+    }
+  ],
+  "timestamp": "2026-10-02T00:53:13.707170528Z",
+  "model": "glm-5.3"
+}

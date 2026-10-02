@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na ⟨את⟩ ariũ ake eerĩ, ũrĩa rĩĩtwa rĩa ũmwe nĩ Gericomu, nĩgũkorua oigire atĩ nĩwarĩ wagi thĩ ya andũ a kũingĩ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ariũ ake eerĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ariũ ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rĩa ũmwe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gericomu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorua"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "גר",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩwarĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ya andũ a kũingĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:08.397708167Z",
+  "model": "glm-5.3"
+}

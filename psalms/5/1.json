@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Kũ mũcũranji wa mahũthagĩro, ũhoro wa Nehirothi; nĩ kĩĩmbo kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũ mũcũranji wa mahũthagĩro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũhoro wa"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehirothi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩĩmbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:13.943042970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Moce akĩbata ⟨את⟩ magari na ⟨את⟩ ng'ombe, akĩmaheta Alevi-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩbata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magari"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "magari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩmaheta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ -ma",
+      "marks": "Alevi-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Alevi-inĩ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Alevi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:52:59.466153984Z",
+  "model": "glm-5.3"
+}

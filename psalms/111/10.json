@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Kwĩtigĩra kwa Yahwe nĩguo mbere ya ũmenyo; ũmenyo mwega mĩarĩ-inĩ nĩ wa arĩa moima maũndũ macio mathĩkĩte; ũgoomi wakwo gĩtikĩraga tene na thutha.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũmenyo"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kwĩtigĩra kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ũmenyo mwega"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "moima macio"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ũgoomi wakwo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "gĩtikĩraga"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tene na thutha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:59.956305489Z",
+  "model": "glm-5.3"
+}

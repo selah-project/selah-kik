@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Erohimu cia ndũrĩrĩ, arĩa aciaitũ-inĩ makwĩhĩturĩte, nĩciakīhoketie ⟨את⟩ maciaro marĩa makwĩhĩturĩte — ⟨את⟩ Gocani, na ⟨את⟩ Harani, na Recefi, na aana a Edeni, arĩa matabarĩkĩte Telacari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "nĩciakīhoketie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maciaro marĩa makwĩhĩturĩte"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu cia"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "makwĩhĩturĩte"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "aciaitũ-inĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gocani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gocani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "na Recefi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "matabarĩkĩte Telacari"
+    }
+  ],
+  "timestamp": "2026-10-02T00:17:34.692362546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Nĩũkũra ⟨את⟩ mahiga matuaĩ ma kohami, na nĩũgĩcokia maĩrũga a ciana cia Yiceraeri igũrũ rwacio.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "nĩũkũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahiga matuaĩ ma kohami"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "matuaĩ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mahiga ma"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "kohami"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "nĩũgĩcokia"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ rwacio"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maĩrũga a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:56.271330523Z",
+  "model": "glm-5.3"
+}

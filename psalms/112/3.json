@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Ũndũ mũnene na utonga mo thĩinĩ wa nyũmba yake; na cedeki yake ĩmire kuma thaaha kinya thaaha.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Ũndũ mũnene"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "na utonga"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "thĩinĩ wa nyũmba yake"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "na cedeki yake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ĩmire"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuma thaaha kinya thaaha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:56.872112503Z",
+  "model": "glm-5.3"
+}

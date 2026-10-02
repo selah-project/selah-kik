@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Rĩu nĩngĩrĩmĩra, Yahwe oigĩte; rĩu nĩngĩeegerera; rĩu nĩngĩnyararia.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nĩngĩrĩmĩra"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "nĩngĩeegerera"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "nĩngĩnyararia"
+    }
+  ],
+  "timestamp": "2026-10-02T00:37:18.094126106Z",
+  "model": "glm-5.3"
+}

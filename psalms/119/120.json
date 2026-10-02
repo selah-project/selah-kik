@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nyama yagĩrĩirie ĩthagĩrĩra kwa gũtinya kwaku, na nĩndĩtinia ciira ciaku.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "ĩthagĩrĩra"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "kwa gũtinya kwaku"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Nyama yagĩrĩirie"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "na kwa ciira ciaku"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "nĩndĩtinia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:38.838695791Z",
+  "model": "glm-5.3"
+}

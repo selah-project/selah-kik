@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Mũrnũkire ndahongerethia, na mũhoi ndakenagĩrĩria, kuuma ng'arũro ya cekeri imwe, mogĩhe ⟨את⟩ kĩheo kĩa Yahwe, gũkorerera mohoro mage mugũ-inĩ wanyu.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Mũrnũkire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "hongerethia"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "na mũhoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "kenagĩrĩria"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "kuuma ng'arũro"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ya cekeri"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mogĩhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo kĩa Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "gũkorerera mohoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "mage"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mugũ-inĩ wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:49.456544918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Ũtũheaga ta ng'ombe cia kũriwo, na mĩndũ ĩgĩrĩ ĩthingu ũtũcirĩranagia mĩena ya ĩgĩrĩ.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Ũtũheaga"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ta ng'ombe cia kũriwo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kĩrĩa kĩri kĩarĩo"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "mĩndũ ĩgĩrĩ ĩthingu"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "ũtũcirĩranagia mĩena ya ĩgĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:49.663018913Z",
+  "model": "glm-5.3"
+}

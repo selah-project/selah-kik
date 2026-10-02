@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Nĩ ũndũ ũrĩa ũmenya hinya wa irĩũ rwaku? Na gũtirĩ kũiguithia kwaku nĩkuo kĩrumĩ gĩaku gĩkũrĩra.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũndũ ũrĩa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ũmenya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "irĩũ rwaku"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "na gũtirĩ kũiguithia kwaku"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kĩrumĩ gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:13.966258989Z",
+  "model": "glm-5.3"
+}

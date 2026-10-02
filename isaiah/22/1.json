@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ciothe ciatĩtwo kĩharo kĩa kuonwa. Nĩũgũkĩra ũhoro wakwa rĩngĩ, nĩgũkorwo mũndũ wothe waku ũthiĩte igũrũ rũthingo-inĩ?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ciothe ciatĩtwo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "kĩharo"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "kĩa kuonwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩũgũkĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ũhoro wakwa"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "wathiĩte igũrũ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "mũndũ wothe waku"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "rũthingo-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:34:02.936135524Z",
+  "model": "glm-5.3"
+}

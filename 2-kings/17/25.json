@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩmekaugire atĩa mĩucie ya mbere ya kũikara kuo, matigukũigua kĩhoto kwa Yahwe; ndĩrĩagĩrĩirwo, Yahwe nĩaratumire harĩ io ⟨את⟩ thĩayo, na cĩakũũranĩria cio.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mĩucie ya mbere"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ya kũikara"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kũikara kwao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tigukũigua"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kũigua kĩhoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nĩaratumire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "harĩ io"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩayo"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "thĩayo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nĩmekaugire"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "kũũranĩria"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "cio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:18:41.376735858Z",
+  "model": "glm-5.3"
+}

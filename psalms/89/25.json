@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Ũguo wakwa wa kwĩhoka na hecedi wakwa nĩguo ũkoragĩra hamwe nake, na rĩĩtwa rĩakwa-inĩ ndemwa yakĩo yao igũtuĩkio igũrũ.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "ũguo wakwa wa kwĩhoka"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "na hecedi wakwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "na rĩĩtwa rĩakwa-inĩ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "igũtuĩkio igũrũ"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ndemwa yakĩo yao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:47.262148634Z",
+  "model": "glm-5.3"
+}

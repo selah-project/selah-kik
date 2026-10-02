@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 67,
+  "translation": "Nĩgeetha thĩ-inĩ njĩa yaku ĩmenyekane, na mboce yaku harĩ ndũrĩrĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Nĩgeetha ... ĩmenyekane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "njĩa yaku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "harĩ ... ciothe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "mboce yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:58.266926135Z",
+  "model": "glm-5.3"
+}

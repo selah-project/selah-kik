@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Mĩthingi nĩĩhumbĩte ⟨⟨ao⟩⟩; nĩmanjire thĩiniĩ wa mĩthingi ta ibe.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "mĩthingi"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "nĩĩhumbĩte"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nĩmanjire"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "thĩiniĩ wa mĩthingi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ibe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:06.720395848Z",
+  "model": "glm-5.3"
+}

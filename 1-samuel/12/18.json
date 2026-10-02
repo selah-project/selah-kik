@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nace Cemueri akarayaira kwa Yahwe, na Yahwe akaheringa mĩgambo na mbura mũthenya ũcio; andũ othe magwetetie ⟨את⟩ Yahwe na ⟨את⟩ Cemueri mũno.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akarayaira"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaheringa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "mĩgambo"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "na mbura"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "magwetetie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cemueri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:15:15.574489573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Yocefu nĩonerie ⟨את⟩ Yaakobu ithe wake, na akamũmirikira mbere ya Parao; na Yaakobu akarathimira ⟨את⟩ Parao.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nĩonerie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "akamũmirikira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akarathimira"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:57:04.671887010Z",
+  "model": "glm-5.3"
+}

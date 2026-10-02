@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩngĩarokia arĩa moigane-inĩ gũtwaruo ⟨את⟩ ciugo ciothe cia Yahwe, ũrĩa angoimirie.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "nĩngĩarokia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "arĩa moigane-inĩ gũtwaruo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "angoimirie"
+    }
+  ],
+  "timestamp": "2026-10-02T01:44:43.194534047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 2:33",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũndũ ũrĩa ndangĩrũmbũiya kuuma ciambarĩro-inĩ yakwa nĩwe ⟨ũgĩhĩrĩra⟩ ⟨את⟩ maitho maku na gũkenengeria ⟨את⟩ mũoyo waku; na arĩa macokagĩra nyũmba yaku yothe nĩmakua marĩ andũ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "ndangĩrũmbũiya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwa we"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ciambarĩro-inĩ yakwa"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "gũhĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maitho maku"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maitho maku"
+    },
+    {
+      "surface": "ולאדיב",
+      "gloss": "na gũkenengeria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũoyo waku"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mũoyo waku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "arĩa macokagĩra"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyũmba yaku"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "nĩmakua"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "marĩ andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:28:18.377340482Z",
+  "model": "glm-5.3"
+}

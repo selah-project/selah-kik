@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na thĩinĩ wa Yerucarayimu maikaraga amwe kuuma ciana cia Yahuda, na kuuma ciana cia Binyamini, na kuuma ciana cia Efrayimu na cia Menache.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Na thĩinĩ wa Yerucarayimu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "maikaraga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na Menache"
+    }
+  ],
+  "timestamp": "2026-10-02T05:27:02.837167982Z",
+  "model": "glm-5.3"
+}

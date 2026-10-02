@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Nĩ ta ũrĩa igũrũ rĩingĩhĩte thĩ, ũguo nĩ mĩhĩtũko yakwa ĩingĩhĩte mĩhĩtũko yenyu, na magestũrũ makwa maingĩhĩte gestũrũ menu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ ta ũrĩa"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "rĩingĩhĩte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ĩingĩhĩte"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mĩhĩtũko yakwa"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "mĩhĩtũko yenyu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "na magestũrũ makwa"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "gestũrũ menu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:42.059481249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩ nĩrenda mwana amanyere kũita 'Ĩthabwa' na 'Ndiabwa', ⟨את⟩ cihenia cia Damaciko na ⟨את⟩ thabari rĩa Someroni cĩahĩtwo mbere ya mũthamaki wa Acuri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "renda"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "amanyere"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kũita"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ĩthabwa"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "na Ndiabwa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "cĩahĩtwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihenia cia Damaciko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "cihenia"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaciko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thabari rĩa Someroni"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "thabari"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Someroni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acuri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:36:22.025643997Z",
+  "model": "glm-5.3"
+}

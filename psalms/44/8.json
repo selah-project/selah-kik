@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Tondũ nĩũtũteithirie kuma thũ ciaitũ, na arĩa matũmena nĩwamarĩtie ithoni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tondũ"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "nĩũtũteithirie"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "kuma thũ ciaitũ"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "na arĩa matũmena"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "nĩwamarĩtie ithoni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:32.677456082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩndaherire ⟨את⟩ nyũmba yakwa, nĩndaaherithia ⟨את⟩ thigĩro yakwa; nĩndahēere ⟨את⟩ wendo wa mũoyo wakwa moko-inĩ ma thũ ciayo.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "nĩndaherire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba yakwa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nyũmba yakwa"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "nĩndaaherithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thigĩro yakwa"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "thigĩro yakwa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndahēere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wendo wa mũoyo wakwa"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "wendo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wa mũoyo wakwa"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "moko-inĩ ma"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "thũ ciayo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:41:59.724892320Z",
+  "model": "glm-5.3"
+}

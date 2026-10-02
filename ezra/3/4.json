@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Magĩkũraya ⟨את⟩ kiumia kĩa cianje ta ũrĩa kiandĩkĩtwo, na gũkĩrũmĩra igoota rĩa mũthenya mũthenya ũrĩa, hamwe na mũrongo, ta ciira ciagĩrĩire mũthenya o wothe mũthenyanĩ wake.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "magĩkũraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiumia kĩa cianje"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kiumia"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "kĩa cianje"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ta ũrĩa kiandĩkĩtwo"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "gũkĩrũmĩra igoota"
+    },
+    {
+      "surface": "יום",
+      "gloss": "rĩa mũthenya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "hamwe na mũrongo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ta ciira"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ciagĩrĩire"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya o wothe"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "mũthenyanĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:05:17.387236636Z",
+  "model": "glm-5.3"
+}

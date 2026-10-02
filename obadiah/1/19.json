@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na andũ a kweri mamenyĩtĩra ⟨את⟩ kelima ya Ecowu, na andũ a gĩthimba ⟨את⟩ Afilistini; mamenyĩtĩra ⟨את⟩ shamba rĩa Efrayimu, na ⟨את⟩ shamba rĩa Comeroni; na Beniamini ⟨את⟩ Ngıkıradi.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "mamenyĩtĩra"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "andũ a kweri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelima ya Ecowu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kelima"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ecowu"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "andũ a gĩthimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Afilistini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afilistini"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "mamenyĩtĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamba rĩa Efrayimu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "shamba rĩa Comeroni"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shamba"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comeroni"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Beniamini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ngıkıradi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Ngıkıradi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:30:08.458767952Z",
+  "model": "glm-5.3"
+}

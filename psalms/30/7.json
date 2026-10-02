@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na iwĩ, ndĩiguaga atĩa: thĩinĩ wɛ wɛ mwakĩ, tindĩgũthĩnjũkaga tene.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na iwĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndĩiguaga atĩa"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "thĩinĩ wɛ wɛ mwakĩ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tindĩ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "gũthĩnjũkaga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:15.662511338Z",
+  "model": "glm-5.3"
+}

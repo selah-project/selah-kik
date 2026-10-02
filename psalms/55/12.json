@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Njamba irĩ hakuhĩ nake mwena-inĩ wake, na kũgerera njĩra-nĩ kwa gĩcigo kĩake kĩnene nĩtikwĩgũrũka, ũthingu ti ũrĩa wonagia na ũrirũ.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "njamba"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "irĩ hakuhĩ nake mwena-inĩ wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nĩtikwĩgũrũka"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kĩnene nĩtikwĩgũrũka kĩingĩra"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "kuuma gĩcigo kĩake kĩnene"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ũthingu ti ũrĩa wonagia"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "na ũrirũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:37.180896286Z",
+  "model": "glm-5.3"
+}

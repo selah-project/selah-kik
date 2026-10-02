@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na thĩinĩ wa Cucani, mũciĩ mũkũrigũ, Yahudi nĩmainjire na kũnyiita andũ magana matano.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Na thĩinĩ wa Cucani"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "mũciĩ mũkũrigũ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nĩmainjire"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudi"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "na kũnyiita"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:47:46.545955321Z",
+  "model": "glm-5.3"
+}

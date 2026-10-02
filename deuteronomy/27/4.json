@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na rĩrĩa mũciara ⟨את⟩ Yorodani, mũciamate ⟨את⟩ mawa macio ũrĩa nĩndakuhunjagĩria ⟨את⟩ inyui ũmũthenya ũyũ, kĩrĩma-inĩ wa Ebari, nawũrorwo na cidi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "mũciara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodani"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "mũciamate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawa macio"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndũ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nĩndakuhunjagĩria"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthenya ũyũ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "wa Ebari"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "nawũrorwo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mawa macio"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "na cidi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:32:41.388730708Z",
+  "model": "glm-5.3"
+}

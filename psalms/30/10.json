@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Nĩ marũmbi me gĩkĩ thakame-inĩ yakwa, rĩrĩa ndĩkwarũhũkaga mũthumbĩ-inĩ? Nĩ thithi ĩgũkũruta thayo? Nĩyo kuga ma waku?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nĩ gĩkĩ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "marũmbi"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "thakame-inĩ yakwa"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "rĩrĩa ndĩkwarũhũkaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũthumbĩ-inĩ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "mũthumbĩ"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ĩgũkũruta thayo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "thithi"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "nĩyo kuga"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ma waku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:27.402393654Z",
+  "model": "glm-5.3"
+}

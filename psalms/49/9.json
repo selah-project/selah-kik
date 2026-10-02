@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Na kũhingwo kwa moyo wao nĩ kĩngĩ kĩa thaaha, na gĩthingĩka hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "kĩngĩ kĩa thaaha"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "kũhingwo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "gĩthingĩka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:59.675020670Z",
+  "model": "glm-5.3"
+}

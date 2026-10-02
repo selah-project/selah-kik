@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 129,
+  "translation": "Mũgongo-inĩ wanjũ arĩa marema maarema, na magateretie marima mao.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "mũgongo-inĩ wanjũ"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "maarema"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "arĩa marema"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "magateretie"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "marima mao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:52.305036969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩmahekire ⟨את⟩ mĩena yothe ya Aemori, kuuma Arnoni gĩkĩro kĩa Yaboko, na kuuma gĩthaka gĩkĩro kĩa Yeredeni.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "nĩmahekire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩena yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Aemori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "kuuma Arnoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gĩkĩro kĩa"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yaboko"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gĩthaka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gĩkĩro kĩa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yeredeni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:02:34.951246422Z",
+  "model": "glm-5.3"
+}

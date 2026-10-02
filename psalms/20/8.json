@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Aciu mario ngari, na aciu mario mbari; no ithuĩ nĩtũcocoragia rĩĩtwa rĩa Yahwe Erohimu witũ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aciu"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "mario ngari"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na aciu"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "mario mbari"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "no ithuĩ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "nĩtũcocoragia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:00.632652831Z",
+  "model": "glm-5.3"
+}

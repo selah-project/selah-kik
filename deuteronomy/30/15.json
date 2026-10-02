@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Rora, narua nĩndĩheĩte mbere yaku ⟨את⟩ miaka na ⟨את⟩ ũga, na ⟨את⟩ thii na ⟨את⟩ ũru.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Rora"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩheĩte"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "narua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miaka"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũga"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ũga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thii"
+    },
+    {
+      "surface": "המות",
+      "gloss": "thii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũru"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ũru"
+    }
+  ],
+  "timestamp": "2026-10-01T22:34:50.401060029Z",
+  "model": "glm-5.3"
+}

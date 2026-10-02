@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Thĩinĩ wa mĩringe ya aroni nĩmabandi makĩkaraga; matikahetwo kuuma kwaro.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "Thĩinĩ wa mĩringe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ya aroni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nĩmakĩkaraga"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mabandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matika"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "hetwo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma kwaro"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:13.374336720Z",
+  "model": "glm-5.3"
+}

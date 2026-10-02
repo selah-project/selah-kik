@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Giriyadi nĩyakwa, na Menaci nĩyakwa; Efrayimu nĩ mũgumo wa gĩtũũro gĩanjũ; Yuda nĩ mũrunganĩri wa watho wanjũ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "nĩyakwa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giriyadi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na nĩyakwa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaci"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mũgumo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wa gĩtũũro gĩanjũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mũrunganĩri wa watho wanjũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:41.182760657Z",
+  "model": "glm-5.3"
+}

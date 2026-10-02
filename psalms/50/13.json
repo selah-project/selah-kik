@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Rĩrĩ, ndĩngĩrĩa nyama cia ng'ombe makũrũ, kana ngĩnyũa thakame cia mbũri irima?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "ndĩngĩrĩa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "cia ng'ombe makũrũ"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "kana ngĩnyũa thakame"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "cia mbũri irima"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ngĩnyũa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:41.897622569Z",
+  "model": "glm-5.3"
+}

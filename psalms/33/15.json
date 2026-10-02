@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mũwonjori wa ngoro ciacio o hamwe, mũmenyi wa ciĩro ciacio ciothe.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Mũwonjori"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "o hamwe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ngoro ciacio"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "mũmenyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ciĩro ciacio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:42.240034522Z",
+  "model": "glm-5.3"
+}

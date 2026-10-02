@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩ rĩngĩ nĩndeekire mĩcĩĩre ya Yahwe, na ndikarahukaga na ũru kũhiũ Erohimu yakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ rĩngĩ"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nĩndeekire"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mĩcĩĩre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndikarahukaga"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "na ũru"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "kũhiũ Erohimu yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:26.084413032Z",
+  "model": "glm-5.3"
+}

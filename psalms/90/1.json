@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Kũira kwa Moce, mũndũ wa Erohimu. Adonai, nĩwatuikĩte mũciĩ witũ, kuuma mũthemba ũmwe kinya mũthemba ũngĩ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "kũira"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kwa Moce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "היית",
+      "gloss": "nĩwatuikĩte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "witũ"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "mũthemba-inĩ ũmwe"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na mũthemba ũngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:21.286836905Z",
+  "model": "glm-5.3"
+}

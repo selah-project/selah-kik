@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Na arĩa a cedeki makonie, matũũrwoke mbere ya Erohimu, na makenio na gũkenia.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Na arĩa a cedeki"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "makonie"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "matũũrwoke"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "na makenio"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na gũkenia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:10.242705915Z",
+  "model": "glm-5.3"
+}

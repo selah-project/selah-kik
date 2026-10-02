@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ciana cia Azigadi, ngiri imwe, mĩgana igiri, na mirongo igiri na igiri.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azigadi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri imwe"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mĩgana igiri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo igiri"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na igiri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:01:27.837977707Z",
+  "model": "glm-5.3"
+}

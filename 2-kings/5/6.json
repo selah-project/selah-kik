@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Akĩiyũrĩra rĩandĩkĩre rĩu kũrĩ mũthamaki wa Yiceraeri, ũgo ũgĩrĩkĩra: Na rĩũtuĩku, rĩandĩkĩre rĩu rĩkĩya kũrĩ we, ona, nĩndĩtũmĩte kũrĩ we ⟨את⟩ Naamani mũtumia wakwa, ũmũhoote kuuma gĩcũũranĩ kĩake.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "akĩiyũrĩra"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "rĩandĩkĩre rĩu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ũgo ũgĩrĩkĩra"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩũtuĩku"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "rĩkĩya kũrĩ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "rĩandĩkĩre"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nĩndĩtũmĩte"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naamani"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamani"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mũtumia wakwa"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "ũmũhoote"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "kuuma gĩcũũranĩ kĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:34:13.296858351Z",
+  "model": "glm-5.3"
+}

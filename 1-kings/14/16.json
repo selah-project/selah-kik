@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na nagĩtũra ⟨את⟩ Yiceraeri thĩ handũ, nĩ ũndũ wa ihĩtia cia Yarobohamu, irĩa oigĩte ihĩtia, na irĩa moigĩte ⟨את⟩ Yiceraeri ihĩtia.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nagĩtũra thĩ handũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ihĩtia"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "cia Yarobohamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "oigĩte ihĩtia"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na irĩa"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "moigĩte ihĩtia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:08.409802033Z",
+  "model": "glm-5.3"
+}

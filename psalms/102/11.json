@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩ ũndũ wa kihuno gwaku na kiherehere gwaku; nĩwĩnaninũkĩte, ũngĩcooka ũnthinũkĩra thĩ.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kihuno gwaku"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "kiherehere gwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "wĩnaninũkĩte"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ũnthinũkĩra thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:32.185349890Z",
+  "model": "glm-5.3"
+}

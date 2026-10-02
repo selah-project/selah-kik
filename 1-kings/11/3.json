@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na nĩaarĩ kwake atumia a ũthamaki mia mũgwanja, na picageci mia ithatũ; na atumia make nĩmacokire na ⟨את⟩ ngoro yake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na nĩaarĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "a ũthamaki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "na picageci"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ithatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "nĩmacokire gũtigithia"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "atumia make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:26.338160183Z",
+  "model": "glm-5.3"
+}

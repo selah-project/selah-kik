@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Mũgũmbe wa thayũ na mũgambo wa thayũ mũkũrũ, na meno ma aana a thayũ magũũrwo.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "Mũgũmbe"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "wa thayũ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na mũgambo"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "wa thayũ mũkũrũ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na meno"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "aana a thayũ"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "magũũrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T07:00:52.011469947Z",
+  "model": "glm-5.3"
+}

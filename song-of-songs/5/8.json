@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩmũithĩgĩtie ⟨את⟩-mwe, ciana cia Yerucarayimu: rĩrĩa mũonire ⟨את⟩ mwendwa wakwa, mũmũugaga atĩa? Atĩ nĩ ndwari ya wendo nĩnĩ.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "nĩmũithĩgĩtie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-mwe",
+      "marks": "ciana cia Yerucarayimu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "cia Yerucarayimu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "mũonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwendwa wakwa"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mwendwa wakwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "mũmũugaga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "ndwari ya wendo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ya wendo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩnĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:30:15.155342045Z",
+  "model": "glm-5.3"
+}

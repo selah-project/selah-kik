@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Makĩrĩma nĩmagĩrĩirie kĩenhĩrĩa kĩayo, na mahuti mayo nĩ macokanie na tamarindi cia Ere.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "nĩmagĩrĩirie"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makĩrĩma"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "kĩenhĩrĩa kĩayo"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "na mahuti mayo"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "tamarindi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cia Ere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:31.364609278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na mwaka wa ikũmi na inya, Kedararaoomeri nĩokire, na athamaki aria ⟨את⟩ aari hamwe nakĩo, nao makĩhoota ⟨את⟩ Refaiti kũ Acatarota-Karnayimu, na ⟨את⟩ Zuziti kũ Hamu, na ⟨את⟩ Emiti kũ Cawehi-Kiriyathayimu.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "Na mwaka wa ikũmi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "inya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩokire"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedararaoomeri"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "na athamaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aari hamwe nakĩo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Refaiti"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaiti"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "kũ Acatarota"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "Karnayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zuziti"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "Zuziti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kũ Hamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Emiti"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "Emiti"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "kũ Cawehi"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiriyathayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:02.234681576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na mũndũ ũrĩa agaheana kũgara kwake na nyamu, agũa nĩmakũagwo; na ⟨את⟩ nyumu ĩyo mũkorge.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Na mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "agaheana"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "kũgara kwake"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "na nyamu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "agũa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "nĩmakũagwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyumu ĩyo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyumu ĩyo"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "mũkorge"
+    }
+  ],
+  "timestamp": "2026-10-01T21:45:17.435778469Z",
+  "model": "glm-5.3"
+}

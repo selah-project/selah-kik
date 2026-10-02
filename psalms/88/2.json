@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Yahwe, Erohimu wa gũcokera kwakwa, mũthenya ndĩnihuũrirĩtie, na mutĩa kwa ũrĩa kĩrĩndĩ gĩa thaa iria mbere yaku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "gũcokera kwakwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ndĩnihuũrirĩtie"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "na mutĩa kwa ũrĩa kĩrĩndĩ gĩa thaa iria"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mbere yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:22.236112720Z",
+  "model": "glm-5.3"
+}

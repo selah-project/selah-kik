@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mũringire kuo ihinya rĩanyu, na igooti cianyu, na ⟨את⟩ cĩrathe cianyu, na ⟨את⟩ kĩheo kĩa mikono yanyu, na mĩhĩrĩgo yanyu, na mĩheo ya mwĩhooto, na ciana cia mbere cia ng'ombe yanyu na ngondu yanyu.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "Mũringire"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "ihinya rĩanyu"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "igooti cianyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "cĩrathe cianyu"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "cĩrathe cianyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩheo kĩa mikono yanyu"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "kĩa mikono yanyu"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "mĩhĩrĩgo yanyu"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "mĩheo ya mwĩhooto"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "ciana cia mbere"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "cia ng'ombe yanyu"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "ngondu yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:25:05.948578681Z",
+  "model": "glm-5.3"
+}

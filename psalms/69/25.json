@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Thĩra thaaceneko gwaku igũrũ rĩinĩ ha cio, na hinya wa ngoro yaku ũkahota cio.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "thĩra"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ rĩinĩ ha cio"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "thaaceneko gwaku"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "na hinya"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wa ngoro yaku"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ũkahota cio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:59.895404962Z",
+  "model": "glm-5.3"
+}

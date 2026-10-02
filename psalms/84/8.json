@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Magĩthii hinya kuuma hinya nginya hinya; ũrĩa o wothe agĩonekaga mbere ya Erohimu thĩinĩ wa Cioni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Magĩthii"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "kuuma hinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "agĩonekaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "thĩinĩ wa Cioni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:10.755519746Z",
+  "model": "glm-5.3"
+}

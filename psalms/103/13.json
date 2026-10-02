@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Ta ithe ũrĩa ũrenda ciana ciake, nĩguo Yahwe erenda arĩa amũũthĩraga.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "ta ũrĩa ũrenda"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ita"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "erenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "arĩa amũũthĩraga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:23.191500706Z",
+  "model": "glm-5.3"
+}

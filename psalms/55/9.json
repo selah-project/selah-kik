@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Nĩngĩhũtha kwĩhũra kwĩngĩra magũrũ, kuuma rũhuho rwa kũgenda, kuuma ciumbe.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "nĩngĩhũtha"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "kwĩhũra kwĩngĩra magũrũ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwĩngĩra magũrũ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "kuuma rũhuho"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "rwa kũgenda"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "kuuma ciumbe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:37.175096966Z",
+  "model": "glm-5.3"
+}

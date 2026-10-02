@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 25:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mwana wa mĩaka makũmi eerĩ na ithano Amaxiyahu nĩathamakire, na mĩaka makũmi eerĩ na kenda nĩathamakire Yerucarayimu-inĩ; na rĩĩtwa ra nyina nĩ Yehoadani, wa Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi eerĩ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nĩathamakire"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amaxiyahu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na makũmi eerĩ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "na kenda"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nĩathamakire"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ra nyina"
+    },
+    {
+      "surface": "יהועדן",
+      "gloss": "Yehoadani"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "wa Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:58:44.865217583Z",
+  "model": "glm-5.3"
+}

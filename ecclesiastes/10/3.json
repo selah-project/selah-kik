@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "O na rĩrĩa mũthũũ akĩenda thĩinĩ wa mũgambanie, ngoro yake ĩkũhirwo, na akiuga andũ arĩa othe atĩ nĩwe mũthũũ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "thĩinĩ wa mũgambanie"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ta mũthũũ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akĩenda"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ĩkũhirwo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "andũ arĩa othe"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "mũthũũ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:19.914242023Z",
+  "model": "glm-5.3"
+}

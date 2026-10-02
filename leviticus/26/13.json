@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩ niĩ Yahwe, Erohimu wanyu, ũrĩa wakũhĩtĩrĩire ⟨את⟩ inywi kuuma thĩ-inĩ ya Micirayimu, mwaki mũtikorwo atũa a andũ, na nĩngacĩire mĩgũrũ ya kĩongo gĩanyu, na nĩngatũmire ⟨את⟩ inywi mũyũe igũrũ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "niĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "wakũhĩtĩrĩire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi",
+      "marks": "inywi kuuma thĩ ya Micirayimu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ-inĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "mwaki mũtikorwo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a andũ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "atũa"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "na nĩngacĩire"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "mĩgũrũ"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ya kĩongo gĩanyu"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "na nĩngatũmire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi",
+      "marks": "inywi mũyũe igũrũ"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "kũyũa igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:44.681058677Z",
+  "model": "glm-5.3"
+}

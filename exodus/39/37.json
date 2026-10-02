@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "⟨את⟩ menora ya itheru, ⟨את⟩ marangi ayo, marangi ma kũikaranĩria, na ⟨את⟩ indo ciothe cia yo, na ⟨את⟩ mafuta ga mũtheri.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "itheru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marangi ayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "marangi ayo"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "marangi"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "kũikaranĩria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "indo cia yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "mũtheri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:54.311704737Z",
+  "model": "glm-5.3"
+}

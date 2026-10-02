@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mũndũ ũcio akimabonyora ⟨את⟩ mũcerere wa mwaki, nao makarua ⟨את⟩ mwaki na thabũ, na ⟨את⟩ mũndũ ũcio hamwe na ⟨את⟩ mbarĩ yake ya wonje mokamahota.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "akimabonyora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũcerere wa mwaki"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "mũcerere"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mwaki"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makarua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mwaki"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "thabũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũcio"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbarĩ yake ya wonje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya wonje"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "mbarĩ yake"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mokamahota"
+    }
+  ],
+  "timestamp": "2026-10-01T22:55:01.896385290Z",
+  "model": "glm-5.3"
+}

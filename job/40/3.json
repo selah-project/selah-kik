@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na Ayobu nĩacookerie ⟨את⟩ Yahwe, na akiuga:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nĩacookerie"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    }
+  ],
+  "timestamp": "2026-10-02T04:24:45.248290220Z",
+  "model": "glm-5.3"
+}

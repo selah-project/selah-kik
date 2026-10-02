@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Rubeni, na Gadi, na mothoni wa mbari ya Manaci, Yehocua akanaria, akĩmeera:",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Na Rubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "na Gadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "na mothoni wa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mbari"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "ya Manaci"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akanaria"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩmeera"
+    }
+  ],
+  "timestamp": "2026-10-01T22:39:46.024367530Z",
+  "model": "glm-5.3"
+}

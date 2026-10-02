@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Tũtuurĩre ũkeni ta mĩthenya ĩrĩa wĩtũnyitĩirie, na ta mina ĩrĩa twaonete ũru.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Tũtuurĩre ũkeni"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "ta mĩthenya"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "ĩrĩa wĩtũnyitĩirie"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ĩrĩa twaonete"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:07.632473124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ĩwe akiyũmbĩrĩirie gatagatĩ-inĩ ka gĩcunjĩ kĩu, akĩhonorokia kĩo, akamenya ⟨את⟩ Filiciti; Yahwe akoreretera coketheria neni.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "akĩyũmbĩrĩirie"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ-inĩ ka"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "gĩcunjĩ kĩu"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "akĩhonorokia kĩo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akamenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filiciti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiciti"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akoreretera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "coketheria"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "neni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:45:25.813414777Z",
+  "model": "glm-5.3"
+}

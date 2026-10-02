@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩahorithia mĩthenya yao na hewa, na mine yao na gũcinĩrwo.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nĩahorithia"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "na hewa"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "mĩthenya yao"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "na mine yao"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "na gũcinĩrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:11.175365472Z",
+  "model": "glm-5.3"
+}

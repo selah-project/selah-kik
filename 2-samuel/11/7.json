@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Uriya akĩũmbũkĩra kũu, Dawidi akĩũria thayama ya Yoabu, na thayama ya andũ, na thayama ya ita.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩũmbũkĩra"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "akĩũria"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "thayama ya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "na thayama ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "na thayama ya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ita"
+    }
+  ],
+  "timestamp": "2026-10-01T23:34:27.753772020Z",
+  "model": "glm-5.3"
+}

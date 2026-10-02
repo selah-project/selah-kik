@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩwe ũkahanda na ndũkame; nĩwe ũkagocerera ⟨the⟩ zaiti, na ndũkagita mũcarĩre wa mũthemba; na mbataro ya mvindi ũkanua, na ndũnywe mvindi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ũkahanda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "kame"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ũkagocerera"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "kagita"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mũcarĩre wa mũthemba"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "mbataro ya mvindi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "nywe"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mvindi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:35:11.802503011Z",
+  "model": "glm-5.3"
+}

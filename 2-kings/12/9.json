@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na aathĩnjĩri-Ngai nĩmaahĩĩrire kũreka gwĩcoka cekeeri kuuma ⟨את⟩ andũ, na kũreka gũtikaria ⟨את⟩ mbura cia nyumba.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "nĩmaahĩĩrire"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aathĩnjĩri-Ngai"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kũreka"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "gwĩcoka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cekeeri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "na kũreka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "gũtikaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbura"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mbura"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "cia nyumba"
+    }
+  ],
+  "timestamp": "2026-10-02T00:16:03.237113184Z",
+  "model": "glm-5.3"
+}

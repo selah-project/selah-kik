@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na mũthamaki wa Aramu nĩarĩ ng'ano-inĩ na Yiceraeri, akĩrora ciira na andũ make agĩuga atĩrĩ: Kũhandũ kwa ũgu na kwa ũgu nĩkũo kĩhingo kĩa ng'ano yakwa.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "na mũthamaki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wa Aramu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩarĩ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ng'ano-inĩ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "akĩrora ciira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "andũ make"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩuga atĩrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kũhandũ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ũgu"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "na kwa ũgu"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "kĩhingo kĩa ng'ano yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:08:31.808796984Z",
+  "model": "glm-5.3"
+}

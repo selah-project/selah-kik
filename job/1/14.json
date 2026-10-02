@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 1:14",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mũrũngĩri wa ũhoro akĩinya kwa Iyobu, na akĩmeera: Ng'ombe ciarĩ kũrima, na ngita cia thonje ciarĩ kũriria irĩ hau ha makuhĩ nacio.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "mũrũngĩri wa ũhoro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akĩinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "Ng'ombe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "חרשות",
+      "gloss": "kũrima"
+    },
+    {
+      "surface": "והאתנות",
+      "gloss": "ngita cia thonje"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kũriria"
+    },
+    {
+      "surface": "על",
+      "gloss": "hau ha makuhĩ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "nacio"
+    }
+  ],
+  "timestamp": "2026-10-02T07:01:06.344522738Z",
+  "model": "glm-5.3"
+}

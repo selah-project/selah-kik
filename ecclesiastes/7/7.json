@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩgũkorwo ũthingarĩ nĩgũtuĩkithia mũmenyereri mũhĩa; na kĩheo gĩkaaga ⟨את⟩ ngoro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ũthingarĩ"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "nĩgũtuĩkithia"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mũmenyereri"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "na gĩkaaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "kĩheo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:40:30.323308911Z",
+  "model": "glm-5.3"
+}

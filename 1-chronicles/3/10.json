@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na mũrũ wa Ceromoh nĩ Rechabamu, Abiya mũrũ wakwe, Aca mũrũ wakwe, Yehocafati mũrũ wakwe.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "na mũrũ wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoh"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabamu"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wakwe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aca"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wakwe"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wakwe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:56.977301754Z",
+  "model": "glm-5.3"
+}

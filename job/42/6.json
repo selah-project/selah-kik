@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Nĩ ũndũ ũcio nĩndĩhoota, na nĩnakeniore, mũyũyũ-inĩ na thũri.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ ũcio (harĩa)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "nĩndĩhoota"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "na nĩnakeniore"
+    },
+    {
+      "surface": "על",
+      "gloss": "-inĩ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mũyũyũ"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "na thũri"
+    }
+  ],
+  "timestamp": "2026-10-02T04:29:05.648856657Z",
+  "model": "glm-5.3"
+}

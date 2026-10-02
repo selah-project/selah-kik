@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Na Babironi nĩgũtwara ⟨את⟩ Cedekiyahu, na kuo agaakorwo nginya ngĩmũkorerera — Yahwe oigĩte — nĩrĩa mũrũanĩra na ⟨את⟩ Cacedimu, ndĩmũhota.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Na Babironi"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "nĩgũtwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cedekiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cedekiyahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na kuo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agaakorwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "ngĩmũkorerera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ndĩ (Yahwe)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩa"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "mũrũanĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cacedimu"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Cacedimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "mũhota"
+    }
+  ],
+  "timestamp": "2026-10-02T06:44:23.069651111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ⟨את⟩ kucu, na ⟨את⟩ calaki, na ⟨את⟩ yanacupu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "kucu"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kucu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "calaki"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "calaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "yanacupu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanacupu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:44.333134813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 113,
+  "translation": "Kuuma harĩa riua ithuĩkĩra gĩkũrũa, rĩĩtwa rĩa Yahwe nĩrĩgoocwo.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "kuuma harĩa riua ithuĩkĩra"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "riua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩro"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "gĩkũrũa kwayo"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "nĩrĩgoocwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:51.451609824Z",
+  "model": "glm-5.3"
+}

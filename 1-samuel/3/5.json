@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na akĩĩra kwa Eri, akiuga: Nĩngwĩ, nĩgũkorwo ũnĩgoire; nawe akiuga: Ndĩngũire; coka ucieke. Nĩagĩire, na aekiere.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "akĩĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nĩngwĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ũnĩgoire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndĩngũire"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "coka"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ucieke"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agĩa"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "aekiere"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:15.967013855Z",
+  "model": "glm-5.3"
+}

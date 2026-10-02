@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 70,
+  "translation": "Makeni na makĩĩkena thĩinĩ waku, arĩa makũrora othe, na makiuga hĩndĩ ciothe: Erohimu nĩeatuĩke mũnene, arĩa memenete ũgĩcokethia waku.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "Makeni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "na makĩĩkena"
+    },
+    {
+      "surface": "בך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "arĩa makũrora"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na makiuga"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "nĩeatuĩke mũnene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "arĩa memenete"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ũgĩcokethia waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:49.915944093Z",
+  "model": "glm-5.3"
+}

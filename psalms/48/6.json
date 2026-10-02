@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "⟨Arĩa⟩ maare ⟨hĩndĩ ĩyo⟩, na ⟨ndĩrĩmarũ⟩ maarĩ agwetũkĩtie; maarĩ igwetũ nginya, magiĩ na kĩhiarũ.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "⟨arĩa⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "maare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨hĩndĩ ĩyo⟩"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "maarĩ agwetũkĩtie"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "maarĩ igwetũ nginya"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "magiĩ na kĩhiarũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:40.000877297Z",
+  "model": "glm-5.3"
+}

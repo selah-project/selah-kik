@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 12:25",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Ndũkarĩa; nĩgeetha wega ũgĩhota we na ciana cĩaku thutha waku, rĩrĩa ũkaũma ⟨the⟩ ũtheru thĩinĩ wa maitho ma Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndũkarĩa"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ũkarĩa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "wega ũgĩhota"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "na ciana cĩaku"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "thutha waku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ũkaũma"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:26:48.361305252Z",
+  "model": "glm-5.3"
+}

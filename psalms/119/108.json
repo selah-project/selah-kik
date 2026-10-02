@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mĩheo ya kĩoyo kĩanjĩa gĩakwa, rora nĩ wayende, Yahwe, na ciira gwako nĩgo ũndũrĩre.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "mĩheo ya kĩoyo kĩanjĩa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kĩanjĩa gĩakwa"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "rora nĩ wayende"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nĩ ũndũ mũkũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "na ciira gwako"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nĩgo ũndũrĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:34:35.635722191Z",
+  "model": "glm-5.3"
+}

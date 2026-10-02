@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 126,
+  "translation": "Arĩa maharĩraga na minyuirũ, nĩmaharĩkĩraga na kĩĩro.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "arĩa maharĩraga"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "na minyuirũ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "na kĩĩro"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "nĩmaharĩkĩraga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:12.379658215Z",
+  "model": "glm-5.3"
+}

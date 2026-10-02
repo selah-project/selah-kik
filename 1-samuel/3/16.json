@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Eri akarayĩra ⟨את⟩ Cemueri, akiuga: Cemueri, mũrũ wakwa. Nake agĩcookia akiuga: Nĩngwĩrĩkũ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akarayĩra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemueri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nake akiuga"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nĩngwĩrĩkũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:22.061729553Z",
+  "model": "glm-5.3"
+}

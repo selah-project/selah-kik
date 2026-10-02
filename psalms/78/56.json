@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "No macĩrigeria, makĩenderera marĩ na ũtũũro, mathĩnakĩra ⟨את⟩ Erohimu ũrĩa arĩ kũigũrũ mũno; na mĩciarie yake matiikũrĩmĩrire.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "macĩrigeria"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "mathĩnakĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ũrĩa arĩ kũigũrũ mũno"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mĩciarie yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matii"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kũrĩmĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:10.522657198Z",
+  "model": "glm-5.3"
+}

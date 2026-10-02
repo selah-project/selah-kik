@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "O na kĩũmbe kĩa Igũrũ kĩngĩhoota kũarĩrĩrio, na mũcingĩ wa Iria kũmeeterwo: naguo mũciĩ wa ⟨את⟩ Dawidi mũthĩnjĩri-wakwa nĩngĩĩngĩĩhia, na ⟨את⟩ Arevi andũ arĩa makamenyerera ⟨את⟩ ũndũ-inĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "o na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kĩngĩhoota"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kũarĩrĩrio"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kĩũmbe kĩa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Igũrũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "kũmeeterwo"
+    },
+    {
+      "surface": "חול",
+      "gloss": "mũcingĩ wa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Iria"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naguo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "nĩngĩĩngĩĩhia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũciĩ wa Dawidi mũthĩnjĩri-wakwa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mũthĩnjĩri-wakwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Arevi andũ arĩa makamenyerera"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Arevi"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "andũ arĩa makamenyerera"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ũndũ-inĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:45:22.935901759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ Aharoni na ⟨את⟩ aana make nĩũkahakuhĩrĩria kũ mũrango wa kĩamba kĩa mũcemanio, na ũkathamba ⟨אתם⟩ maa-inĩ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "aana make"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "nĩũkahakuhĩrĩria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kĩa mũcemanio"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "na ũkathamba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    },
+    {
+      "surface": "במים",
+      "gloss": "maa-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:21:27.264344947Z",
+  "model": "glm-5.3"
+}

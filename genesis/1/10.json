@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu akĩyita thĩ ĩmara ⟨rĩa⟩ Thĩ; na kũgerũrũkwa kwa mĩcci akĩyita Cürai. Na Erohimu aonĩte atĩ nĩ kĩega.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩyita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "thĩ ĩmara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Thĩ"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "na kũgerũrũkwa kwa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mĩcci"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akĩyita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Cürai"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "aonĩte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kĩega"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:22.235147895Z",
+  "model": "glm-5.3"
+}

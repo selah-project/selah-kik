@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Kuo nĩguo betwo ⟨את⟩ Abarahamu na ⟨את⟩ Sara mũtumia wake; kuo nĩguo betwo ⟨את⟩ Yicaki na ⟨את⟩ Rĩbeka mũtumia wake; na kuo nĩ ndĩbibire ⟨את⟩ Rea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "kuo nĩguo"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "betwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo nĩguo"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "betwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Rĩbeka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rĩbeka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na kuo"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "nĩ ndĩbibire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Rea"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:55.935358812Z",
+  "model": "glm-5.3"
+}

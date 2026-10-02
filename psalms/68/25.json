@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Nĩmaonire mĩgũthĩ giaku, Erohimu, mĩgũthĩ gĩa Ere wakwa, mũthamaki wakwa, thĩinĩ wa ũtheru.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Nĩmaonire"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "mĩgũthĩ giaku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "mĩgũthĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gĩa Ere wakwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mũthamaki wakwa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "thĩinĩ wa ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:56.798583941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na nĩngĩhoota kwĩngĩraya arĩa maigua-ũhoro me hihiru: ⟨את⟩ Urija mũthĩnjĩri-Ngai, na ⟨את⟩ Zekaraja mũrũ wa Yeberekiahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "nĩngĩhoota kwĩngĩraya arĩa maigua-ũhoro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwĩngĩraya"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "arĩa maigua-ũhoro"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "me hihiru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-Ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zekaraja"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaraja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:36:27.365153363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Ĩno tu: ari a mũndũ nĩ maũvũ, na ari a mũndũ mũnene nĩ kirira; thĩinĩ wa mĩcangeeria makĩigũrũka, hamwe nĩ makeere gĩa ũvũ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ĩno tu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ũvũ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kirira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ mũnene"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "thĩinĩ wa mĩcangeeria"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "kũigũrũka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "kuma ũvũ-inĩ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:07.682928055Z",
+  "model": "glm-5.3"
+}

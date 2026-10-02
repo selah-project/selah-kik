@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Akĩmatuma ⟨את⟩ ariawa ake, nao makĩrĩma; akĩmeera atĩrĩ: Mũtire kũhĩnyaana njĩra-inĩ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩmatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ariawa ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ariawa ake"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "makĩrĩma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeera atĩrĩ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũtire"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kũhĩnyaana"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njĩra-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:56:28.190079426Z",
+  "model": "glm-5.3"
+}

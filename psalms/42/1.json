@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Mũcũngĩri-rĩ — gwĩciria-inĩ kĩega — kwa ciana cia Korahi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mũcũngĩri-rĩ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "gwĩciria-inĩ kĩega"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwa ciana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:34.695138221Z",
+  "model": "glm-5.3"
+}

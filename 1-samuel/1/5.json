@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na kũ Kũhana nĩamuheirie kĩheo kĩmwe kĩa iratumo rĩngĩ; nĩgũkorwo ⟨את⟩ Kũhana ndamwenda, na Yahwe aathĩkire kĩoombo kĩake.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Na kũ Kũhana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nĩamuheirie"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kĩa iratumo rĩngĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kũhana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Kũhana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ndamwenda"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "aathĩkire"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "kĩoombo kĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:27:58.181290601Z",
+  "model": "glm-5.3"
+}

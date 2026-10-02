@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 97,
+  "translation": "Makũrũ nĩmahĩĩkĩte ta donagi kuuma thuutha wa Yahwe, kuuma thuutha wa mwathi wa thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Makũrũ"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ta donagi"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "nĩmahĩĩkĩte"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma thuutha wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma thuutha wa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:17.313334920Z",
+  "model": "glm-5.3"
+}

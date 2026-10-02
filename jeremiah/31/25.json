@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩngĩrũa ngoro ya gũthira, na ngoro ilote ⟨yothe⟩ nĩngĩnyĩra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩngĩ"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "nĩngĩrũa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ya gũthira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨yothe⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ilote"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "nĩngĩnyĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T01:20:35.054951636Z",
+  "model": "glm-5.3"
+}

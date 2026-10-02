@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Nĩgekũhurũra ⟨את⟩ kembũrũ rĩa Yehuda, na we mũthenya ũcio ũrĩona kĩhoa kĩa nyũmba ya gĩthũũka.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "nĩgekũhurũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kembũrũ rĩa Yehuda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kembũrũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ũrĩona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "kĩhoa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "היער",
+      "gloss": "gĩthũũka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:58.350646868Z",
+  "model": "glm-5.3"
+}

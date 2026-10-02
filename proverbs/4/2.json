@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩgũkorwa gĩcũhio kĩega nĩnahetwo; Torayakwa ndũkaige.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gĩcũhio"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩnahetwo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwe"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torayakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ige"
+    }
+  ],
+  "timestamp": "2026-10-02T03:46:41.135492562Z",
+  "model": "glm-5.3"
+}

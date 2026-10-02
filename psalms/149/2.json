@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 149,
+  "translation": "Yiceraeri ekũhenaria Mũmbi wake; aana a Ciyoni makũgĩa na gũkeno mũthamaki-inĩ wao.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ekũhenaria"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "Mũmbi wake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "makũgĩa na gũkeno"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "mũthamaki-inĩ wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:34.744573217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ũwe nĩakuhotithania ⟨את⟩ thĩ yothe na cedeki, nĩakuhoota ndũrĩrĩ na ciira ithenya.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na ũwe"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "nĩakuhotithania"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "nĩakuhoota"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "na ciira ithenya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:52.710049741Z",
+  "model": "glm-5.3"
+}

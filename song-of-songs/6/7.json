@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ta gĩcunjĩ kĩa rĩmũna ihuhũ rĩaku, thutha wa kĩhungũ kĩaku.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "Ta gĩcunjĩ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "kĩa rĩmũna"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ihuhũ rĩaku"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "kĩhungũ kĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T04:28:27.973947904Z",
+  "model": "glm-5.3"
+}

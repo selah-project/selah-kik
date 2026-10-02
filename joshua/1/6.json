@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ĩhota na thĩna wa ngoro; nĩgũkorwo nĩwe ũgĩtuĩra andũ ariũ arũa-inĩ, ⟨את⟩ andũ ayũ, ⟨את⟩ thĩ ĩyo nĩnjahĩtie baabawao atĩ nĩnĩmabahe.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "ĩhota"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "na thĩna wa ngoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "ũgĩtuĩra arũa-inĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ayũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ ayũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ayũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nĩnjahĩtie"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "baabawao"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kũbahe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:41:26.975103740Z",
+  "model": "glm-5.3"
+}

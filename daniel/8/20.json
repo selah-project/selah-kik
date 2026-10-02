@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Mũthuuri wa ng'ondu ĩrĩa woneire ũrĩ na mahembe eerĩ, macio nĩ aathani a Madi na a Peresi.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "mũthuuri wa ng'ondu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "woneire"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ũrĩ na"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "mahembe eerĩ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "aathani"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "a Madi"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "na a Peresi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:57:01.396270421Z",
+  "model": "glm-5.3"
+}

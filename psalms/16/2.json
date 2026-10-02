@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩndĩoigire kwa Yahwe: We nĩ Adonai; ti ũndũ ũrĩa weri ũtheri wakwa ũgĩkũringa we rĩngĩ.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "nĩndĩoigire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "ũtheri wakwa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:11.531860097Z",
+  "model": "glm-5.3"
+}

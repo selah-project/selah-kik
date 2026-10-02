@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Murĩrire ndemo kĩĩmani kĩerũ; ithie kũgerera ngũo-inĩ ya kĩega; na mĩgamba wa kuigua kũigana.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Murĩrire ndemo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndemo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩmani"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kĩerũ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ithie kũgerera"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ngũo-inĩ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na mĩgamba wa kuigua kũigana"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:25.066725339Z",
+  "model": "glm-5.3"
+}

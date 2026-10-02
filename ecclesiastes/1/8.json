@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ciugo ciothe nĩ cĩgĩte thĩna; mũndũ ndangĩhota kũcirĩra; cicũra itĩkinya kũhora kũona, na gũtũ gitikinya kũjara kũigua.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "nĩ cĩgĩte thĩna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "hota"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kũcirĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "itĩkinya"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kũhora"
+    },
+    {
+      "surface": "עין",
+      "gloss": "cicũra"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na gitikinya"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "kũjara"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gũtũ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kũigua"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:38.495148213Z",
+  "model": "glm-5.3"
+}

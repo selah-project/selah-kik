@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nakahũranithia ⟨את⟩ macengi, nakagera ⟨את⟩ mĩti ya Acerati, nakahĩrĩrithia ⟨את⟩ handũ habo na mĩrĩmĩ ya andũ.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "nakahũranithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macengi"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "macengi"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "nakagera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩti ya Acerati"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "mĩti ya Acerati"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "nakahĩrĩrithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handũ habo"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "handũ habo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mĩrĩmĩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:22:57.329983529Z",
+  "model": "glm-5.3"
+}

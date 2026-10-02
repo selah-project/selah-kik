@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na thutha wa macio, Moce na Aharoni maingĩra, makĩmeeria Farao atĩrĩ: Ũguo nĩguo Yahwe, Erohimu wa Yiceraeri, oigĩte: Ũcoire ⟨את⟩ andũ aku, magĩthiĩ kũciara kũguũrĩra gĩthaka-inĩ.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Na thutha wa macio"
+    },
+    {
+      "surface": "באו",
+      "gloss": "maingĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩmeeria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ũguo nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ũcoire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ aku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ aku"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "magĩthiĩ kũciara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kũguũrĩra"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthaka-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:03.256811410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Dawidi akĩigua thĩinĩ wa gĩcunjini atĩ Nabari nĩkuugeera ⟨את⟩ ng'ondu ciake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩinĩ wa gĩcunjini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "nĩkuugeera"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ondu ciake"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ng'ondu ciake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:24:41.156163760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Kwa kũhumbwo kwa amĩhĩtũku, kwa kũguna kwa amwehera, rĩa ũcio nĩndĩrĩmĩkĩte, Yahwe oigĩte; nĩngĩmũikia mũndũ o ũrĩa ahota kũhĩũra ngumo ya ũguo.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "kwa kũhumbwo kwa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "amĩhĩtũku"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "kwa kũguna kwa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "amwehera"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "rĩa ũcio"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nĩndĩrĩmĩkĩte"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nĩngĩmũikia"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "mũkĩra-inĩ wa ũtheri"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ũrĩa ahota kũhĩũra ngumo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya ũguo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:02.343005692Z",
+  "model": "glm-5.3"
+}

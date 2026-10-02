@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Gũthukũza Yahwe nĩ kĩega, kũinĩra Erohimu witũ; nĩ kĩgunĩru, na ũthukũzi nĩ kĩng'eetĩru.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "gũthukũza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kũinĩra"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kĩgunĩru"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kĩng'eetĩru"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ũthukũzi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:46.440526266Z",
+  "model": "glm-5.3"
+}

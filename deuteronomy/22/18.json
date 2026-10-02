@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na athĩiki a mucĩ ũcio magĩkũra ⟨את⟩ mũndũ ũcio, nao nĩmogete ⟨את⟩ ũwe.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "athĩiki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a mucĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũcio"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "nao nĩmogete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ũwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:03.394734133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Mũndũ-wĩ-mĩthĩ, mĩthenya yake nĩ ta mũri; ta ciũa wa gĩthaka, nĩguo aciara.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ-wĩ-mĩthĩ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ta mũri"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mĩthenya yake"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ta ciũa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wa gĩthaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "aciara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:23.195402289Z",
+  "model": "glm-5.3"
+}

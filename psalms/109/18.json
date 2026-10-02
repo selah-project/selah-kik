@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩamĩbĩte mũtw'ĩko ta nguo yake, na nĩĩkaingĩra ta maĩ thĩinĩ wake, na ta mafuta mahihu-inĩ make.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "nĩamĩbĩte"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "mũtw'ĩko"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "ta nguo yake"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "nĩĩkaingĩra"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ta maĩ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "thĩinĩ wake"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "na ta mafuta"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "mahihu-inĩ make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:16.584589693Z",
+  "model": "glm-5.3"
+}

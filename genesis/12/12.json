@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na kĩgũkũgera: rĩrĩa a Micirayimu maona ⟨את⟩ nĩwe, makĩuga, Mũtumia ũyũ nĩ wake; magĩkuua ⟨את⟩ ndĩ, no ⟨את⟩ nĩwe magĩkũrekerera ũkuume.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na kĩgũkũgera"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יראו",
+      "gloss": "rĩrĩa maona"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "nĩwe (ũrĩa a Micirayimu mahota kũona)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "a Micirayimu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "magĩkuua"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndĩ"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "nĩwe"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "magĩkũrekerera ũkuume"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:54.814233645Z",
+  "model": "glm-5.3"
+}

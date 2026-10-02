@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Nĩũheetie andũ arĩa makũrirĩtie ⟨thiini⟩ ciara ĩrĩa ĩnyamũrũo igũrũ, nĩ ⟨bata⟩ wa ma. Ceraha.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "nĩũheetie"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "andũ arĩa makũrirĩtie"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ciara ĩrĩa ĩnyamũrũo"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ĩnyamũrũo igũrũ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nĩ bata wa"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "ma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ceraha"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:25.678015163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Yaakobu akĩiguo kũhĩtia muno, na gũtherema, akĩgatabatia ⟨את⟩ andũ arĩa ⟨את⟩ hamwe nayao, na ⟨את⟩ ng'ondu, na ⟨את⟩ ng'ombe, na ngamĩra, macoko eerĩ.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "akĩiguo kũhĩtia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "muno"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "gũtherema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "akĩgatabatia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nayao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ondu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "na ngamĩra"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "macoko"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:53.894286949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩgũkoruo Yahwe acookirie ⟨את⟩ wĩyathi wa Yaakobu, ta wĩyathi wa Yiceraeri; nĩgũkoruo arĩa maharĩtie maharĩtie o, na marũci macio mahũrĩtie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "acookirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wĩyathi wa Yaakobu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "wĩyathi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "ta wĩyathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "arĩa maharĩtie"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "maharĩtie o"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "na marũci macio"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "mahũrĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T02:37:28.732212927Z",
+  "model": "glm-5.3"
+}

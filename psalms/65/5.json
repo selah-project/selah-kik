@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Mahũrũko ma ũrĩa ũthagĩra na ũmũteithĩrĩra, agatuĩka mabarani ma kĩamba kĩaku; tũnĩhortwo nĩ wega wa nyumba yaku, heikanyũ yaku theru.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahũrũko ma"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "ũrĩa ũthagĩra"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ũmũteithĩrĩra"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "agatuĩka"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "mabarani ma kĩamba kĩaku"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "tũnĩhortwo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nĩ wega"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wa nyumba yaku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "theru"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "heikanyũ yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:03.242318314Z",
+  "model": "glm-5.3"
+}

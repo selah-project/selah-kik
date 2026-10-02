@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na makarĩa, no matirĩmĩra; marĩoina, no matanongorera; nĩ maingĩire macikĩrĩra ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "na makarĩa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no mati-"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "rĩmĩra"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "marĩoina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no mati-"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "nongorera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "marekire"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kũcikĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:16:39.604046268Z",
+  "model": "glm-5.3"
+}

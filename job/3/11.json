@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩkĩ ndaikuire nyondo-inĩ? Ndoikire kuuma nyondoni, na ndĩhooire.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "nyondo-inĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kũikua"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuuma nyondoni"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ndoikire"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "na ndĩhooire"
+    }
+  ],
+  "timestamp": "2026-10-02T04:03:48.843728930Z",
+  "model": "glm-5.3"
+}

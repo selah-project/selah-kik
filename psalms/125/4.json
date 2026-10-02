@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 125,
+  "translation": "Yahwe eekĩra maũndũ-marĩa-mega arĩa methĩkĩtie cedeki, na arĩa mĩena yao ĩrĩ theru.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "eekĩra maũndũ-marĩa-mega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "arĩa methĩkĩtie cedeki"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "na arĩa mĩena yao ĩrĩ theru"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "nani-inĩ mwao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:57.333609055Z",
+  "model": "glm-5.3"
+}

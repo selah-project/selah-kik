@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ Paricandata, na ⟨את⟩ Derifoni, na ⟨את⟩ Acipata —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paricandata"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Paricandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Derifoni"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Derifoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Acipata"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Acipata"
+    }
+  ],
+  "timestamp": "2026-10-02T04:47:46.547473237Z",
+  "model": "glm-5.3"
+}

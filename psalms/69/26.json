@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Kĩrindo kĩu kĩgĩe kĩthererĩtwo, na ndakorwo mũndũ ũngĩikaraga maberema mao.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "kĩgĩe"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kĩrindo kĩu"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "kĩthererĩtwo"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "maberema mao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndakorwo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ũngĩikaraga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mũndũ ũngĩikaraga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:59.897518531Z",
+  "model": "glm-5.3"
+}

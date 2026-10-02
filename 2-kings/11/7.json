@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na makĩa mawĩra ga nyinyi, o arĩa maatũũraga Cabati, makarinda ⟨את⟩ kũrinda nyũmba ya Yahwe igũrũ rĩa mwathi.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "na makĩa mawĩra"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "ga nyinyi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "arĩa maatũũraga"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "makarinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũrinda"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "kũrinda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:12:08.892475088Z",
+  "model": "glm-5.3"
+}

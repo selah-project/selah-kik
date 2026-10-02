@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Yocedefu akĩrĩuga, hamwe na arĩa aarĩ a irĩ nda ake ciothe, na ciumbe ciothe cia mũthingo ũcio.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akĩrĩuga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocedefu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arĩa aarĩ a irĩ nda ake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ciumbe cia mũthingo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:21.669383851Z",
+  "model": "glm-5.3"
+}

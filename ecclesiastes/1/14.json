@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩnoonire ⟨את⟩ ciĩndũ ciothe ciatũkĩtwo tha riũa; na rũũru, ciothe nĩ havari na kwenjera kwa ruaki.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nĩnoonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩndũ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ciĩndũ"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ciatũkĩtwo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũũru"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havari"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "na kwenjera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwa ruaki"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:54.314474563Z",
+  "model": "glm-5.3"
+}

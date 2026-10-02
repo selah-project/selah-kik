@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "O na ⟨את⟩ ũcio nĩguo ũngĩcookerwo Acuri — minaha kwa mwathi Yarebi; nĩcenethagia nĩgũatana na Eferayimu, na Yiceraeri agĩkĩithaithira mũtago wayo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ũcio",
+      "marks": "ũcio — ũrĩa ũngĩcookerwo Acuri"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Acuri"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "nĩguo ũngĩcookerwo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mwathi"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarebi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nĩcenethagia"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Eferayimu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nĩgũatana na"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "na gũkĩithaithira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "mũtago wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:52:57.431029959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Ihĩtia rĩa andũ akwa rĩarĩa barĩĩra, na mwoyo wao ũthiĩte igũrũ rĩa ihĩtia iao.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ihĩtia rĩa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "rĩarĩa barĩĩra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na gũkĩra"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "rĩa ihĩtia iao"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ũthiĩte igũrũ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mwoyo wao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:17:26.322649599Z",
+  "model": "glm-5.3"
+}

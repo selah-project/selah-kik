@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩndĩgotire ⟨את⟩ kĩbuku kĩa kũgũra, ⟨את⟩ kĩrĩa kĩaarĩirie — mĩtaratara na mĩthemba — na ⟨את⟩ kĩrĩa kĩkahĩtie.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "nĩndĩgotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩbuku kĩa kũgũra"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kĩbuku"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "kĩa kũgũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩa kĩaarĩirie"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "kĩrĩa kĩaarĩirie"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "mĩtaratara"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "na mĩthemba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩrĩa kĩkahĩtie"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "kĩrĩa kĩkahĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T01:23:47.814838342Z",
+  "model": "glm-5.3"
+}

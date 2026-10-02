@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Thaayũ nĩ andũ arĩa maũndũ macio macio makoragwo marĩ mawo; thaayũ nĩ andũ arĩa Yahwe ari Erohimu wao.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Thaayũ nĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ arĩa"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "maũndũ macio macio makoragwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marĩ mawo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "thaayũ nĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ arĩa"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ari Erohimu wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:39.226803186Z",
+  "model": "glm-5.3"
+}

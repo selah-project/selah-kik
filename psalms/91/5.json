@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Nditinyĩke kĩgũinĩ kwa ũtuko, kana uta ũrĩa ũcungaga mũthenya;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ũtinyĩke"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kĩgũinĩ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ũtuko"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "uta"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ũcungaga"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:22.772979058Z",
+  "model": "glm-5.3"
+}

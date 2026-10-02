@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "O na hiũ ũcio ndaonete na ndamenete; kũhorerwa gũa ũyũ nĩkũingĩ kũrĩ kũa ũcio.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "hiũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mena"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kũhorerwa"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "kũa ũyũ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kũa ũcio"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:18.047085050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Nĩgeetha nĩ watho wa Yiceraeri ⟨ni⟩, na ciira wa Erohimu wa Yaakobu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "חק",
+      "gloss": "watho"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:36.484470160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Ndarĩra: Ndingĩrunde njĩra ciakwa, nje ndĩhoke na rũimi rwakwa; ndĩrũnde kanua gwakwa na kĩhingo, rĩrĩa mũmenetwo arĩ mbere yakwa.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ndarĩra"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ndingĩrunde"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njĩra ciakwa"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "nje ndĩhoke"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "na rũimi rwakwa"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ndĩrũnde"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kanua gwakwa"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "na kĩhingo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũmenetwo"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "arĩ mbere yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:23.605560018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Nĩagethirie ⟨את⟩ metha ĩno, na ⟨את⟩ kĩgwa kĩu gĩothe, na ⟨את⟩ arĩa maikaraga metha ĩno, na mĩmera ya thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "nĩagethirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metha ĩno"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metha ĩno"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩgwa kĩu gĩothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gothe"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kĩgwa kĩu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa maikaraga metha ĩno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa ma"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "maikaraga"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metha ĩno"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "na mĩmera"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:52.114499394Z",
+  "model": "glm-5.3"
+}

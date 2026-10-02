@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Na iwĩ, ũyũ nĩguo kĩrĩkanĩro kĩakwa na ⟨את⟩ mba, Yahwe oigĩte: ruaki wakwa ũrĩa ũrĩ igũrũ rĩaku, na mairia makwa arĩa ndĩĩcire mũrũmũ-inĩ waku, ndimatikamũa kuuma mũrũmũ waku, na wa mũrũmũ wa thĩci yaku, na wa mũrũmũ wa thĩci ya thĩci yaku, Yahwe oigĩte, kuuma ũyũ na thagathi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Na iwĩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩakwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mba (andũ arĩa kĩrĩkanĩro gĩkoni)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaki wakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "na mairia makwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndĩĩcire"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "mũrũmũ-inĩ waku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi(matika)"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "matikamũa"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "kuuma mũrũmũ waku"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "na wa mũrũmũ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "thĩci yaku"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "na wa mũrũmũ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "thĩci"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "thĩci yaku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuuma ũyũ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "thagathi"
+    }
+  ],
+  "timestamp": "2026-10-02T06:39:42.525103439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ti ta Karkemici, Karano? Kana ti ta Arapadi, Hamati? Kana ti ta Demaceki, Comerono?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "ta Karkemici"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "ta Arapadi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "ta Demaceki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comerono"
+    }
+  ],
+  "timestamp": "2026-10-02T00:29:29.245455186Z",
+  "model": "glm-5.3"
+}

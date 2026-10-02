@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Erohimu anyĩtire ⟨את⟩ mĩarĩre yao, atĩrĩ macookire kuma mĩtheri yao ya ũru; Erohimu akĩhehereria ũru ũcio ũrĩa oigire atĩ nĩgũkĩka kũrĩ nao, na ndakĩgĩka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anyĩtire"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩarĩre yao"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mĩarĩre yao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "macookire"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "kuma mĩtheri yao"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ya ũru"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akĩhehereria"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ũru ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "atĩ nĩgũkĩka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kũrĩ nao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ndakĩgĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:30:42.358445264Z",
+  "model": "glm-5.3"
+}

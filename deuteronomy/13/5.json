@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nyuma ya Yahwe Erohimu wanyu nĩmũthiire, na ⟨את⟩ o nĩmũtĩmũ, na ⟨את⟩ mĩathĩake nĩmũrirĩra, na mũgambo wake nĩmũiguithania, na ⟨את⟩ o nĩmũtumaga, na iwathi nĩmũnyitanĩra.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "nyuma ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "nĩmũthiire"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ na o",
+      "marks": "nĩmũtĩmũ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nĩmũtĩmũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na",
+      "marks": "mĩathĩake nĩmũrirĩra"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mĩathĩake"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nĩmũrirĩra"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "na mũgambo wake"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nĩmũiguithania"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ na o",
+      "marks": "nĩmũtumaga"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "nĩmũtumaga"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "na iwathi"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "nĩmũnyitanĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:26:33.736689030Z",
+  "model": "glm-5.3"
+}

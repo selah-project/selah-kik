@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Ĩcio nĩcio ĩgũkua, na we ũgĩtikara; na iothe nĩitura ta nguo; ta kĩnguo ũgacituha, na nĩgũcooka cithiĩ.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ĩcio nĩcio"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ĩgũkua"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na we"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ũgĩtikara"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "na iothe"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ta nguo"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "nĩitura"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ta kĩnguo"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ũgacituha"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "na nĩgũcooka cithiĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:06.916637176Z",
+  "model": "glm-5.3"
+}

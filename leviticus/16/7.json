@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na atuũre ⟨את⟩ iberĩ cia mbũri, na agatumĩrĩra ⟨את⟩ ⟨iria⟩ mbere ya Yahwe, kĩambĩrĩria-inĩ kĩa hema ya kũhĩrana.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "atuũre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iberĩ cia mbũri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iberĩ"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "cia mbũri"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "agatumĩrĩra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨iria⟩",
+      "marks": "iberĩ cia mbũri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhĩrana"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:28.660241542Z",
+  "model": "glm-5.3"
+}

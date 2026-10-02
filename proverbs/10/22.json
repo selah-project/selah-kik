@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ĩrathimo ya Yahwe nĩyo ĩtũma mũndũ akoruo mũgathi, na gũtirĩ kĩndũ kĩrĩa kĩongagĩrwo kwa ũruoru hamwe nayo.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "Ĩrathimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ĩtũma akoruo mũgathi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kĩrĩa kĩongagĩrwo"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "kwa ũruoru"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hamwe nayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:50:30.028906435Z",
+  "model": "glm-5.3"
+}

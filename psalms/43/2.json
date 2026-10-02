@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Nĩgũkorwo nĩwe Erohimu, hinya wakwa ⟨nĩguo⟩; kĩ nĩũniigaire? Kĩ nĩndĩendeta nĩ gĩcunjĩ-inĩ kĩa gũnyitwo mbari kwa thũ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "nĩũniigaire"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nĩndĩeha"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "nĩndĩendeta"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "thĩinĩ wa kũnyitwo mbari"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kwa thũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:22.969620698Z",
+  "model": "glm-5.3"
+}

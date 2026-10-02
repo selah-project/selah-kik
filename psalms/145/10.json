@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Ngwĩ iria ciothe ciao nĩcĩkuŋmaka, we Yahwe, na arĩa othe amamũrũme nĩmakũrathimaga.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "nĩcĩkuŋmaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "we Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ngwĩ iria ciao"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "na arĩa othe amamũrũme nĩmakũrathimaga"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "nĩmakũrathimaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:28.840918012Z",
+  "model": "glm-5.3"
+}

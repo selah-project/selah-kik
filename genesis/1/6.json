@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgo Erohimu akĩuga: Kũrĩ gĩtheremo kĩa igũrũ gatagatĩ-inĩ ka maaĩ, nĩkĩgatũanagĩra maaĩ na maaĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "gĩtheremo kĩa igũrũ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ-inĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ka maaĩ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "gatũanagĩra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "na maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:37.242765545Z",
+  "model": "glm-5.3"
+}

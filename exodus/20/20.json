@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Moce akiuga andũ: Ndĩmweenageria; nĩgũkorũo Erohimu ũkũĩcire ⟨את⟩ inyũi makĩria, na kana kũgoco kwake kũikarage mbere ya maitho manyu, nĩgeetha mũtihĩtũkia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "(kĩa andũ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mweenageria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "kũĩca"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyũi",
+      "marks": "inyũi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ũkũĩcire makĩria"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "na nĩ ũndũ wa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kũikarage"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "kũgoco kwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "maitho manyu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nĩgeetha mũti"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "hĩtũkia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:52.532142521Z",
+  "model": "glm-5.3"
+}

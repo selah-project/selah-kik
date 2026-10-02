@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ceromone akĩmbaya ⟨את⟩ nyũmba, nĩamũthĩkĩirie.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akĩmbaya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "nĩamũthĩkĩirie"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:26.680295792Z",
+  "model": "glm-5.3"
+}

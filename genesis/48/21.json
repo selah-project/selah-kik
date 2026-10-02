@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Na Yiceraeri akiuga kwa Yoceri: Rĩrĩ, nĩndĩ kũruta, na Erohimu nĩgũkorwo hamwe nanyu, na akaregera ⟨את⟩ inyuũ kũhandĩ thĩ ya athatu inyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoceri"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kũruta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "hamwe nanyu"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "akaregera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyuũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũhandĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "athatu inyu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:04.908819239Z",
+  "model": "glm-5.3"
+}

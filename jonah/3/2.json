@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ũkĩra, thii kũrĩ Nineve, mcĩ ĩnene ĩyo, ũkahootanie kuo ⟨את⟩ kĩhooto kĩrĩa nĩĩ ndĩkwĩra.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ũkĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "thii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mcĩ ĩyo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ĩnene"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ũkahootanie"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhooto"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndĩkwĩra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwawo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:45.468039517Z",
+  "model": "glm-5.3"
+}

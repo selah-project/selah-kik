@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 28:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na ũkahĩnda honi ya ciira, mũhianĩre wa mũthomi; ta mũhianĩre wa efode nĩũkahĩnda ⟨את⟩: thahabu, naũcũ, na cianjau, na mcere, na rũgũci rwa gĩguna rwĩrĩ gũturwo nĩũkahĩnda ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "na ũkahĩnda"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "honi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mũhianĩre"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mũthomi"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ta mũhianĩre"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "תעשנו",
+      "gloss": "nĩũkahĩnda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "cũcũ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na cianjau"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "nyamu ya mcere"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mcere"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na gĩguna"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kĩturwo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkahĩnda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honi ya ciira"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:33.666130363Z",
+  "model": "glm-5.3"
+}

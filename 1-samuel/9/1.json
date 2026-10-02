@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 9:1",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩũkorũte mũndũ wa Biniamini, na rĩĩtwa rĩake nĩ Kici, mũrũ wa Abarieri, mũrũ wa Cerori, mũrũ wa Becorati, mũrũ wa Afiahi, mũrũ wa mũndũ wa Biniamini, mũthĩŋgi wa hinya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩũkorũte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "Biniamini"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "na rĩĩtwa rĩake"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kici"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Abarieri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "Cerori"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "בכורת",
+      "gloss": "Becorati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אפיח",
+      "gloss": "Afiahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "wa Biniamini"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mũthĩŋgi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wa hinya"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:56.416859277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 146,
+  "translation": "Yahwe ng'arũka tene na tene; Erohimu waku, Ciyoni, mĩrĩongo na mĩrĩongo; imũrigĩkĩrai Yah.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "ng'arũka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mĩrĩongo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na mĩrĩongo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "imũrigĩkĩrai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:32.321372118Z",
+  "model": "glm-5.3"
+}

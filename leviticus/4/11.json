@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na ⟨את]] gĩcuũ kĩa ndũmagĩrĩ, na ⟨את]] nyama yaoĩ kũringana na mũtwe ũcio, na magũrũ macio, na ng'arũro cia ciao, na mĩtwe ya ciao, na ciumbe cia ciao,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩcuũ kĩa ndũmagĩrĩ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gĩcuũ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "kĩa ndũmagĩrĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyama yaoĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yaoĩ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũringana na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mũtwe ũcio"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "magũrũ macio"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ng'arũro cia ciao"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ciumbe cia ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:30:19.408589617Z",
+  "model": "glm-5.3"
+}

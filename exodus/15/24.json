@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Ndũrĩrĩ nĩcionanĩirie na Moce, iria ngĩmagĩra: Nĩkĩ twĩnywe?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "nĩcionanĩirie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iria ngĩmagĩra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "twĩnywe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:11:10.612677747Z",
+  "model": "glm-5.3"
+}

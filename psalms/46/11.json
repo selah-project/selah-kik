@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Harya moko, na mũmenye atĩ nĩ ndĩ Erohimu; nĩngerekwo igũrũ harĩ ndũrĩrĩ, nĩngerekwo igũrũ thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "harya moko"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "mũmenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩ ndĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nĩngerekwo igũrũ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "harĩ ndũrĩrĩ"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nĩngerekwo igũrũ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:38.189562059Z",
+  "model": "glm-5.3"
+}

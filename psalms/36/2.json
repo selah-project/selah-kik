@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Uma wa kĩhooto kĩa mũgũteri, thĩinĩ wa ngoro yakwa: kũrirĩka kwa Erohimu nĩkũraya mbere ya ithenya rĩake.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kĩa mũgũteri"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nĩkũraya"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kũrirĩka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ithenya rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:12.713578891Z",
+  "model": "glm-5.3"
+}

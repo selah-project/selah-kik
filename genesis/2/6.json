@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "No mĩũũro ĩĩjakũmĩra kuuma thĩ, ĩnahonokia rũthingo ⟨את⟩ yothe wa arũmi.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "no mĩũũro"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ĩĩjakũmĩra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ĩnahonokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rũthingo yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rũthingo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wa arũmi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:18.747761607Z",
+  "model": "glm-5.3"
+}

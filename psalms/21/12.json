@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩgũkorwo nĩmathinjie kũrĩ wake ũrĩku mũnene; meenyĩte mĩgiro mĩthyaka, no ti mahota kũyĩhota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "nĩmathinjie"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kũrĩ waku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ũrĩku mũnene"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "meenyĩte"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "mĩgiro mĩthyaka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "no ti"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "mahota"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:01.357952555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Yahwe akĩigua mũgambo wa Yiceraeri, akĩheetia ⟨את⟩ Akenaani; nao makaharimithia ⟨את⟩ arĩa makũrĩ na ⟨את⟩ mĩtũũra yao; na rĩĩtwa rwa kũndũ ũcio rĩkĩitwo Harama.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩheetia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Akenaani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "makaharimithia"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa makũrĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtũũra yao"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mĩtũũra yao"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rĩkĩitwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "rwa kũndũ ũcio"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Harama"
+    }
+  ],
+  "timestamp": "2026-10-01T22:03:57.435909087Z",
+  "model": "glm-5.3"
+}

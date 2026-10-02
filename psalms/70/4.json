@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 70,
+  "translation": "Macoke thutha nĩrande ya ihĩtia wao, arĩa moigaga: Heaci, heaci.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "macoke thutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩrande ya"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ihĩtia"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "arĩa moigaga"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heaci"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heaci"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:35.957936957Z",
+  "model": "glm-5.3"
+}

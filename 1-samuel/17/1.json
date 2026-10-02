@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Birecitimu nĩmainũnganĩrĩte ⟨את⟩ majeshi mao ma mbaara, magĩcookia kũinũnganĩra Coko, irĩa ya Yuda, magĩhĩra hagatĩ-inĩ wa Coko na Azerakah, Eferi-Damimu.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "nĩmainũnganĩrĩte"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Birecitimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majeshi mao"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "majeshi mao"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ma mbaara"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "magĩcookia kũinũnganĩra"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Coko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "magĩhĩra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagatĩ-inĩ wa"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Coko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na hagatĩ-inĩ wa"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azerakah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Eferi-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damimu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:19:15.469086643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ũrĩendere ⟨את⟩ Yahwe Erohimu waku na ngoro yaku yothe, na na roho yaku yothe, na na hinya waku wothe.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Na ũrĩendere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu waku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na na yothe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "roho yaku"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na na yothe"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "hinya waku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:21.107153396Z",
+  "model": "glm-5.3"
+}

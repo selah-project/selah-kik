@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Akĩndĩrĩra kuuma kĩcigĩ kĩa kĩororo, kuuma ndaka ya ittĩ; akĩmũngĩrĩra magũrũ makwa kũigũrũ rĩa ciraara, ahonjie mĩcĩro yakwa.",
+  "tokens": [
+    {
+      "surface": "ועלני",
+      "gloss": "Akĩndĩrĩra"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "kuuma kĩcigĩ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kĩa kĩororo"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "kuuma ndaka"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ya ittĩ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akĩmũngĩrĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũigũrũ rĩa"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ciraara"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "magũrũ makwa"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ahonjie"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mĩcĩro yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:49.781779772Z",
+  "model": "glm-5.3"
+}

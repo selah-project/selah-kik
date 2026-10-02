@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Mahoya ma mũkene rĩrĩa ahũthĩkaga, na mbere ya Yahwe akũinũrania kĩhooto gĩake.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "mahoya"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ma mũkene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ahũthĩkaga"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "na mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "akũinũrania"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "kĩhooto gĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:24.370891849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 16:21",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩ ũndũ ũcio, rarĩ, nĩngũmamenyithia rĩngi ĩno; nĩngũmamenyithia ⟨את⟩ mkondu wakwa na ⟨את⟩ hinya wakwa; na mamenyie atĩ rĩĩtwa rwakwa nĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "rarĩ"
+    },
+    {
+      "surface": "מודיעם",
+      "gloss": "nĩngũmamenyithia"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "rĩngi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "אודיעם",
+      "gloss": "nĩngũmamenyithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkondu wakwa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkondu wakwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hinya wakwa"
+    },
+    {
+      "surface": "גבורתי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "na mamenyie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "rĩĩtwa rwakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:08:08.178505057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na rĩu ija, nĩngũkũrũmbũnya kũrĩ Farao, ũngĩhĩũra ⟨את⟩ andũ akwa, a ciana cia Yiceraeri, kuuma Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ija"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "nĩngũkũrũmbũnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ũngĩhĩũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:06.287385260Z",
+  "model": "glm-5.3"
+}

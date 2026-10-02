@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩ ũguo mũthamaki na andũ o the arĩa maarĩ ⟨אתו⟩ hamwe nake maingĩra me hinya-mũthe, na mahũrũkire kũu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "maingĩra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o the"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ (hamwe nake)",
+      "marks": "andũ arĩa maarĩ hamwe na mũthamaki"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "me hinya-mũthe"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "mahũrũkire"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:38:08.281634052Z",
+  "model": "glm-5.3"
+}

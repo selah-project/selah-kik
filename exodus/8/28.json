@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Paraau nĩagethie ⟨את⟩ ngoro yake gũtu rĩngi-inĩ ĩno, na ndaarũmĩte ⟨את⟩ andũ.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "nĩagethie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gũtu"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "hĩndĩ-inĩ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gũrũmia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:05:38.702561758Z",
+  "model": "glm-5.3"
+}

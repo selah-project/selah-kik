@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩmaĩyũrũranirie mahema-inĩ mao, matiguũthĩkĩria mũgambo wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "nĩmaĩyũrũranirie"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "mahema-inĩ mao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matiguũ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kũthĩkĩria"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:41.532862825Z",
+  "model": "glm-5.3"
+}

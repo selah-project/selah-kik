@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩgũkorwo mbeca icio nĩcio cĩheetwo arĩa marũa wĩra, nao nĩmagĩthiĩ nakĩo makamenya ⟨את⟩ thayamũ ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "arĩa marũa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "nĩcio cĩheetwo"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "nĩmakamenya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thayamũ ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "thayamũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:35.705287952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na rĩrĩa jũa ĩgĩiyũra na agĩtherio, na thutha ũcio ndangĩrĩa kuuma ibere cia theru; nĩcio kĩrĩo gĩake.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "rĩrĩa jũa ĩgĩiyũra"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "jũa"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "na agĩtherio"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na thutha ũcio"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ndangĩrĩa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ibere cia theru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "kĩrĩo gĩake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:17.479693068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 124,
+  "translation": "Hĩndĩ ĩyo makĩtĩmĩra ithuĩ maandũ moima, rĩrĩa mũrito wao ũrĩa wakĩtherũka wakĩhĩtiga ithuĩ.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Hĩndĩ ĩyo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "maandũ moima"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "makĩtĩmĩra ithuĩ"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "rĩrĩa ... ũrĩa wakĩtherũka wakĩhĩtiga"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "mũrito wao"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:45.911776214Z",
+  "model": "glm-5.3"
+}

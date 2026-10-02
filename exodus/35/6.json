@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na cera irathagwo-rĩ (thekereti), na cera ndune-rĩ (arigamani), na cera ya mũcũthi (thoaati-thani), na kĩraya kĩega (ceci), na mĩcengi ya mbũri.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "cera irathagwo-rĩ (thekereti)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "cera ndune-rĩ (arigamani)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ndũiya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya mũcũthi (thani)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "kĩraya kĩega"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ya mbũri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:20.340037144Z",
+  "model": "glm-5.3"
+}

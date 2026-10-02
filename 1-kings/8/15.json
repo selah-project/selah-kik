@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩakĩuga atĩrĩ: Yahwe, Erohimu wa Yiceraeri, arathimwo, ũrĩa woigĩte na kanua wake kwa ⟨את⟩ Dawidi ithe, na na mkono wake ũcio wahotithĩtie, na kũuga atĩrĩ,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩakĩuga"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "arathimwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woigĩte"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "na kanua wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "na na mkono wake"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wahotithĩtie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:32:58.656452584Z",
+  "model": "glm-5.3"
+}

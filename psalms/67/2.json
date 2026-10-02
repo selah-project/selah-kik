@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 67,
+  "translation": "Erohimu anĩtũnyenie, na atũrathimirie, ahũrĩkie ũtheri wa mwanya wake ⟨את⟩ ithuĩ. Ceraha.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "anĩtũnyenie"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "na atũrathimirie"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ahũrĩkie ũtheri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mwanya wake"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ithuĩ",
+      "marks": "ithuĩ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ceraha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:58.259049705Z",
+  "model": "glm-5.3"
+}

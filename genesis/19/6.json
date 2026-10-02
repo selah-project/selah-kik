@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Rothi nao akĩira ha mũrango ngũĩ mbere yao, akĩgarũra mũrango thutha wake.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akĩira"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "mbere yao"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Rothi"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ha mũrango"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akĩgarũra"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:47.022485362Z",
+  "model": "glm-5.3"
+}

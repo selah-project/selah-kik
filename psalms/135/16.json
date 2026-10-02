@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Kanua ciĩnĩ, no ndĩcooka ndĩugaga; maitho ciĩnĩ, no ndĩcooka ndĩona;",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Kanua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ciĩnĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no ndĩcooka"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ndĩugaga"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maitho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ciĩnĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no ndĩcooka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ndĩona"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:41.289116129Z",
+  "model": "glm-5.3"
+}

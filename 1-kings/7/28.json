@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ũguo nĩwo ũndũ wa kĩndũ ũrĩa wĩkĩtwo wa godero: ciatĩtie ithemba, na ithemba irĩ hagati ya macunjĩ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "na ũguo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ũndũ wa kĩndũ ũrĩa wĩkĩtwo"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "wa godero"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "ithemba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ciatĩtie"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "na ithemba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "macunjĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:52:00.305294635Z",
+  "model": "glm-5.3"
+}

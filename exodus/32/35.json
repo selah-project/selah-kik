@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩgoro Yahwe agĩtũma mũgarũro kũrĩ ⟨את⟩ andũ, nĩ ũndũ wa kũgĩa ⟨את⟩ mũndũ-mũciĩ, ndawa arĩa Aharoni agĩtũma.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "nĩgoro agĩtũma mũgarũro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwa kũgĩa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kũgĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ-mũciĩ"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mũndũ-mũciĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndawa arĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agĩtũma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:21:51.983653089Z",
+  "model": "glm-5.3"
+}

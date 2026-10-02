@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Wa Yeruda, Nacahoni mwana wa Aminadabu.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "wa Yeruda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nacahoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:48.530905810Z",
+  "model": "glm-5.3"
+}

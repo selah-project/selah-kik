@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Ũrĩa ũkaaga ũthĩĩnjĩrũkũ ndangĩikara thĩinĩ wa nyũmba yakwa; ũrĩa ũugaga mahũthĩ ndangĩgĩa kuonwo mbere ya maitho makwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ikara"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nyũmba yakwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũrĩa ũkaaga"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ũthĩĩnjĩrũkũ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũrĩa ũugaga"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "mahũthĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩgĩa"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "kuonwo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:16.129468251Z",
+  "model": "glm-5.3"
+}

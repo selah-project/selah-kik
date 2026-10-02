@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Nĩaciaranĩrĩra, nĩaheite arĩa ihoto, cedeki yakĩo ĩikaraga yothe na ithũra; ĩgũrũ wake nĩigũatũragĩra na mwega-ĩgũrũ.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "nĩaciaranĩrĩra"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩaheite"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "arĩa ihoto"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "cedeki yakĩo"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ĩikaraga"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "yothe na ithũra"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ĩgũrũ wake"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "nĩigũatũragĩra"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "na mwega-ĩgũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:35.666613552Z",
+  "model": "glm-5.3"
+}

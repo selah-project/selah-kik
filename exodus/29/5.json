@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ũgĩtake ⟨את⟩ nguo, na ũmĩkĩrĩre ⟨את⟩ Aharoni ⟨את⟩ kutoneti, na ⟨את⟩ meiri ya ebodi, na ⟨את⟩ ebodi, na ⟨את⟩ hoseni; na ũgĩcabanĩrie nayo na ceeri ya ebodi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na ũgĩtake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "na ũmĩkĩrĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutoneti"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutoneti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "meiri ya ebodi"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meiri"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya ebodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ebodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ebodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "hoseni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoseni"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "na ũgĩcabanĩrie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "na ceeri"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya ebodi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:36.694153295Z",
+  "model": "glm-5.3"
+}

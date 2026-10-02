@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Akahũnganithia ⟨את⟩ iyeria ithano, ĩmwe na ĩngĩ; na iyeria ithano ĩngĩ akahũnganithia ĩmwe na ĩngĩ.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "akahũnganithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyeria ithano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "iyeria"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩngĩ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "iyeria"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "akahũnganithia"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:46.773023642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Cũarikie, ũcoke ũthĩke ciira wakwa-inĩ, Erohimu wakwa na Adonai wakwa, kĩrĩkanĩro-inĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Cũarikie"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ũcoke ũthĩke"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ciira wakwa-inĩ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "na Adonai wakwa"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "kĩrĩkanĩro-inĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:12.281575872Z",
+  "model": "glm-5.3"
+}

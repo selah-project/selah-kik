@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yahwe akĩteithia nguge nene ya kũmĩra ⟨את⟩ Yona; na Yona agĩkũra tũmbĩ-inĩ wa ⟨ה⟩ ngugĩ mĩthenya ĩtatu na ira itatu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "akĩteithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "nguge"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ya kũmĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "agĩkũra"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "tũmbĩ-inĩ"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "wa ngugĩ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ĩtatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na ĩtatu"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ira"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:21.036218369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 114,
+  "translation": "Yuda nĩtuĩte ⟨ũtheru⟩ wakĩ, Yiceraeri nĩtuĩte bũrũri wa watho wakĩ.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "nĩtuĩte"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ũtheru wakĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "bũrũri wa watho wakĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:35.628503233Z",
+  "model": "glm-5.3"
+}

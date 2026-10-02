@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩngeretwo ta kaiona ka mwamba; nĩngĩtuĩka ta thũũ wa thingu.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "nĩngeretwo"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "ta kaiona"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ka mwamba"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩngĩtuĩka"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "ta thũũ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "wa thingu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:26.630805391Z",
+  "model": "glm-5.3"
+}

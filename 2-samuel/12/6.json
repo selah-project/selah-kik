@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na ⟨את⟩ gĩkũmbĩ kĩu agĩhoora marũnga inya, nĩgũkĩra ũrĩa wakĩire ⟨את⟩ kĩndũ gĩkũ, na nĩ ũrĩa atigĩte kũhora wendo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gĩkũmbĩ kĩu"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "gĩkũmbĩ kĩu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "agĩhoora"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "marũnga inya"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nĩgũkĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ gĩkũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkũ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na nĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "atigĩte"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "kũhora wendo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:30:30.946748145Z",
+  "model": "glm-5.3"
+}

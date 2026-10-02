@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Kwĩ nĩwe nĩnĩcirĩtwo kuuma tumbĩ; kuuma kĩgoro kĩa nyina wakwa, Ere wakwa nĩwĩwe.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kwĩ nĩwe"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "nĩnĩcirĩtwo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kuuma tumbĩ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuuma kĩgoro"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "kĩa nyina wakwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ere wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwĩwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:23.110481019Z",
+  "model": "glm-5.3"
+}

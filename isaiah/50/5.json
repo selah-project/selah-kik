@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Adonai Yahwe nĩambuuriire gũtũ kwakwa, na ndĩngĩĩhoota, thutha ndĩngĩcoora.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nĩambuuriire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gũtũ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ngĩĩhoota"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "ngĩcoora"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:30.235989320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na arutani magĩkũra ũguo na mahenania mao magĩcoora kũheana ⟨את⟩ kininĩ, na maĩndĩkana; na kininĩ nĩkĩaamĩrĩte harĩ mũndũ na harĩ ng'ombe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "arutani"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "na mahenania mao"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "magĩcoora kũheana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kininĩ"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kininĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "maĩndĩkana"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nĩkĩaamĩrĩte"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kininĩ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "harĩ mũndũ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na harĩ ng'ombe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:06:18.359649791Z",
+  "model": "glm-5.3"
+}

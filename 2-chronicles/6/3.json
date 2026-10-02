@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na mũthamaki agĩcokerithia ⟨את⟩ thaanja ciarĩa ciarĩ igũrũ rĩwe, akĩrahũkira ⟨את⟩ kĩrũngĩrĩro kĩothe kĩa Yiceraeri; na kĩrũngĩrĩro kĩothe kĩa Yiceraeri kĩaarĩ kĩĩyamba rĩĩrũ.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "agĩcokerithia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaanja ciarĩa ciarĩ igũrũ rĩwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "thaanja ciarĩa ciarĩ igũrũ rĩwe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akĩrahũkira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrũngĩrĩro kĩothe kĩa Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kĩothe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kĩrũngĩrĩro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kĩothe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kĩrũngĩrĩro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "kĩĩyamba rĩĩrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:12:06.860914988Z",
+  "model": "glm-5.3"
+}

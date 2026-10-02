@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Na mũrĩamũre ⟨את⟩ mũrũ wa nyina wanyu, na mũcooke mũthiĩ nginya harĩ mũndũ ũyũ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wa nyina wanyu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mũrũ wa nyina wanyu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mũrĩamũre"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "mũcooke mũthiĩ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "cokia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya harĩ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:09:38.147345404Z",
+  "model": "glm-5.3"
+}

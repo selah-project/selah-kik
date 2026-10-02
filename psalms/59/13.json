@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Kĩhooto kĩa kanua kiaro, kiugo kĩa mata maro — nĩmahatwe mwĩhoto-inĩ wao; na kwa kũraaya na kwa maheeni maro nĩmarĩĩragia.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "kanua kiaro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "mata maro"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "nĩmahatwe"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "mwĩhoto-inĩ wao"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "na kwa kũraaya"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "na kwa maheeni"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "nĩmarĩĩragia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:03.385965176Z",
+  "model": "glm-5.3"
+}

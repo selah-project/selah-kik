@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩagĩthiĩ, nĩahĩtie ⟨את⟩ Gomeri mũtumia wa Diberayimu, na akĩmĩyamba, akĩmũciarĩra mwana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nĩagĩthiĩ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nĩahĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomeri"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "wa Diberayimu"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akĩmĩyamba"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akĩmũciarĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-10-02T02:18:16.289519415Z",
+  "model": "glm-5.3"
+}

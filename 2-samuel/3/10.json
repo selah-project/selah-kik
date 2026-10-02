@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩgũcookia ũthamaki kuuma nyũmba ya Cauri, na kũmaũrire ⟨את⟩ kĩgongo kĩa Dawidi igũrũ rĩa Yiceraeri na rĩa Yahuda, kuuma Dani nginya Beri-ceba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "Nĩgũcookia"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma nyũmba ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "na kũmaũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgongo kĩa Dawidi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kĩgongo kĩa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na rĩa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kuuma Dani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beri-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ceba"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:49.002266063Z",
+  "model": "glm-5.3"
+}

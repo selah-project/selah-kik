@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Na mbembe ihunyuku ĩmĩirie ⟨את⟩ nduma njaa cia mbembe irĩ hoore na irĩ jũrũ; nao Parao akĩamũkĩra, na rũone rwake — nĩ roto.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "ĩmĩirie"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "ihunyuku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nduma njaa cia mbembe irĩ hoore"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nduma njaa"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "cia mbembe"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "irĩ hoore"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "na irĩ jũrũ"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "akĩamũkĩra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũone rwake"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "roto"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:21.455592199Z",
+  "model": "glm-5.3"
+}

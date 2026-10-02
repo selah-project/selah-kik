@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Kĩũngano kĩa Dawidi, rĩrĩa atheretie kuuma thutha wa Abecalomi mũrũ wake.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩũngano"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "rĩrĩa atheretie"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma thutha wa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abecalomi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:26.029922128Z",
+  "model": "glm-5.3"
+}

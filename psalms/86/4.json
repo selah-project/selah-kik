@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Tũmia gĩkeno mũoyo wa mũtumia waku, nĩ nĩ akũinĩ, Adonai, mũoyo wakwa nĩngũnyainĩra.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "tũmia gĩkeno"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wa mũtumia waku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "akũinĩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nĩngũnyainĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:26.076656441Z",
+  "model": "glm-5.3"
+}

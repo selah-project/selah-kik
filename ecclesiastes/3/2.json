@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Hĩndĩ ya kũciarwo, na hĩndĩ ya kũũruawo; hĩndĩ ya kũmera, na hĩndĩ ya kũcepkia ũrĩa wameretwo.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "kũciarwo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kũũruawo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "kũmera"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "kũcepkia"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ũrĩa wameretwo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:43.799844598Z",
+  "model": "glm-5.3"
+}

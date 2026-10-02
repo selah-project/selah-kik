@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "na ⟨את⟩ a-Arwadi, na ⟨את⟩ a-Cemari, na ⟨את⟩ a-Hamathi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "a-Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "a-Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "a-Cemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "a-Cemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "a-Hamathi"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "a-Hamathi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:26.084317319Z",
+  "model": "glm-5.3"
+}

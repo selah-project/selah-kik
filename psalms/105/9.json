@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Ĩrĩa nĩĩinĩte na ⟨את⟩ Abarahamu, na kiugo kĩayo gĩa kũhĩhia Yicaki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nĩĩinĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "na kiugo kĩayo gĩa kũhĩhia"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Yicaki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:40.429404505Z",
+  "model": "glm-5.3"
+}

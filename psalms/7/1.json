@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ngero ya kũciria kwa Dawidi, ũrĩa woimbire Yahwe, harĩ ciugo cia Kuci, mũrũ wa mũkũrũ wa Yamini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "ngero ya kũciria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "woimbire"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mũkũrũ wa Yamini"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:36.421469859Z",
+  "model": "glm-5.3"
+}

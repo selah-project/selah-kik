@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 144,
+  "translation": "Yahwe, mũndũ nĩ ũũkĩ, we ũmũmenya? Mũrũ wa mũndũ-wa-kũfwa, we ũmũciiria?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩ ũũkĩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "we ũmũmenya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "wa mũndũ-wa-kũfwa"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "we ũmũciiria"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:15.249699892Z",
+  "model": "glm-5.3"
+}

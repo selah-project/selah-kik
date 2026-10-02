@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Keinani agĩikarĩte mĩaka mĩrongo mũgwanja, akĩciarithia ⟨את⟩ Maharareeri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "agĩikarĩte"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keinani"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mĩrongo mũgwanja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maharareeri"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Maharareeri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:44.941749387Z",
+  "model": "glm-5.3"
+}

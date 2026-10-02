@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Yahwe Erohimu waku agakĩringithia ⟨את⟩ ngoro yaku na ⟨את⟩ ngoro ya mbẽu yaku, nĩgũo ũende ⟨את⟩ Yahwe Erohimu waku na ngoro yaku yothe na na mũoyo waku wothe, nĩgũo mĩoyo yaku ĩrahũke.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "agakĩringithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yaku"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro ya mbẽu yaku"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbẽu yaku"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "nĩgũo ũende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu waku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mũoyo waku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgũo"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "mĩoyo yaku ĩrahũke"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:09.643490625Z",
+  "model": "glm-5.3"
+}

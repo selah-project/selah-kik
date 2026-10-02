@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Moko waku nĩgũkũũma arĩa mameneete akothe; moko waku wa theru nĩgũkũũma arĩa makũmena.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "nĩgũkũũma"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "moko waku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akothe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "arĩa mameneete"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "moko waku wa theru"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nĩgũkũũma"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "arĩa makũmena"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:01.357224054Z",
+  "model": "glm-5.3"
+}

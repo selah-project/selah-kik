@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Cauri na Yiceraeri wothe makĩigua ⟨את⟩ ciugo ica cia Mũ-Piliti, magĩikara makĩnyitagwo nĩ kĩeha, na gũcokia makĩĩrũo nĩ thĩ hĩndĩ ĩno.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "magĩigua"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ica cia Mũ-Piliti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mũ-Piliti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ica"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "makĩnyitagwo nĩ kĩeha"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "magĩĩrũo nĩ thĩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hĩndĩ ĩno"
+    }
+  ],
+  "timestamp": "2026-10-01T23:18:12.943161540Z",
+  "model": "glm-5.3"
+}

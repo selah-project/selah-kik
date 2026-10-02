@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "O wothe nĩmagiĩ kũndũ kũmwe; o wothe nĩmakorũo kuuma thavara, na o wothe nĩmagooka kũ thavara.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nĩmagiĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kũmwe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩmakorũo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "thavara"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nĩmagooka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "thavara"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:56.453061113Z",
+  "model": "glm-5.3"
+}

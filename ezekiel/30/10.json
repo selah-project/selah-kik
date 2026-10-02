@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "KWOGUO Adonai Yahwe akiuga: Nĩngĩhorerera ⟨את⟩ mũthingi wa Micirayimu moko-inĩ ma Nebukadreneceri, mwathi wa Babeeri.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kwoguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "nĩngĩhorerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingi wa Micirayimu"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mũthingi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ ma"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadreneceri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Babeeri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:00:18.343651660Z",
+  "model": "glm-5.3"
+}

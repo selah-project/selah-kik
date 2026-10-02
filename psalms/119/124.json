@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Thinga na mũtumia waku ithĩinĩ wa hecedi waku, na mawatho maku ũrute.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "thinga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ithĩinĩ wa hecedi waku"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "na mawatho maku"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ũrute"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:07.743728678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na maciinjia na kwĩhoka ⟨את⟩ teruma na ma'acera na ĩthingu; na mũtĩrĩri wao akĩrĩ Konaniahu Mrevi, na Cimeyi mwarĩ wake wa kerĩ.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "maciinjia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teruma"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "ma'acera"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "ĩthingu"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "na kwĩhoka"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "na mũtĩrĩri wao"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mũtĩrĩri"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Konaniahu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Mrevi"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "na Cimeyi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "mwarĩ wake"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa kerĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:00:20.047024910Z",
+  "model": "glm-5.3"
+}

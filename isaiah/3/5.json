@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na andũ nĩmagethĩkĩraga, mũndũ nĩ mũndũ ũngĩ, na mũndũ nĩ mũraika wake; mũriũ nĩmarutaga wĩnja mũkũrũ-inĩ, na mũnini mũnene-inĩ.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "nĩmagethĩkĩraga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nĩ mũndũ ũngĩ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "nĩ mũraika wake"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "nĩmarutaga wĩnja"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mũriũ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "mũkũrũ-inĩ"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "na mũnini"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "mũnene-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:07.340897847Z",
+  "model": "glm-5.3"
+}

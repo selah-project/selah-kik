@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Mikaeri, mũirũ wa Cauri, aendete ⟨את⟩ Dawidi; na mekũgĩrirwo Cauri, na kĩndũ kĩu kĩĩrĩ kĩega thĩinĩ wa maitho make.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "aendete"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikaeri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũirũ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Cauri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "na mekũgĩrirwo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "kĩĩrĩ kĩega"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩndũ kĩu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "thĩinĩ wa maitho make"
+    }
+  ],
+  "timestamp": "2026-10-01T23:21:38.068618941Z",
+  "model": "glm-5.3"
+}

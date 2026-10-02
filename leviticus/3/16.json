@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũthathũ akĩmahĩa kĩoneki-inĩ kĩa kũhingia: nĩkĩrĩo kĩa kĩheo kĩa mwaki, kĩrĩa kĩna mũhũmũ mũega; mamarithi ma othe nĩ ma Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "akĩmahĩa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Mũthathũ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "kĩoneki-inĩ kĩa kũhingia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kĩrĩo kĩa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kĩheo kĩa mwaki"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kĩrĩa kĩna mũhũmũ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mũega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ma othe"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mamarithi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nĩ ma Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:40.636580201Z",
+  "model": "glm-5.3"
+}

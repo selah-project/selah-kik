@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ngoro ya mũgeni ĩrĩ igũrũ rĩa boko rĩake, na ngoro ya mũthũũ ĩrĩ rĩa amakũ rĩake.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mũgeni"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "igũrũ rĩa boko rĩake"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na ngoro"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mũthũũ"
+    },
+    {
+      "surface": "לשׂמאלו",
+      "gloss": "ĩrĩ rĩa amakũ rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:19.914081864Z",
+  "model": "glm-5.3"
+}

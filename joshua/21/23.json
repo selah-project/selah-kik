@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na kuuma mũbarĩ-inĩ wa Dani, ⟨את⟩ Erteke na ⟨את⟩ mĩgũra yayo, ⟨את⟩ Gibethoni na ⟨את⟩ mĩgũra yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na kuuma mũbarĩ-inĩ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "wa Dani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erteke"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Erteke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũra yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgũra yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibethoni"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibethoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgũra yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩgũra yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:23.748462944Z",
+  "model": "glm-5.3"
+}

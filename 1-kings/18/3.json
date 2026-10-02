@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Ahabu aahĩtitie Obadayahu, ũrĩa warĩ mwathi wa nyũmba ĩyo; na Obadayahu aarĩ mũetetere mũnene wa Yahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "aahĩtitie"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadayahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba ĩyo"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "na Obadayahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mũetetere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũnene wa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:00:30.727769520Z",
+  "model": "glm-5.3"
+}

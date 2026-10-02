@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 28:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na rĩũndũ rĩu, nĩ inyui mwarĩ mũgĩ kũcũnga ciana cia Yehuda na ⟨את⟩ Yerucarayimu hĩndĩ acũarĩ arũme na atumia acũarĩ anyu; ti ũguo — no mahĩtia moko-inĩ mwanyu mwĩenyu kũrĩ Yahwe Erohimu wanyu?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩũndũ rĩu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerucarayimu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inyui"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "mwarĩ mũgĩ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "kũcũnga"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "acũarĩ arũme"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "atumia acũarĩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anyu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ti ũguo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inyui mwĩenyu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "moko-inĩ mwanyu"
+    },
+    {
+      "surface": "אשמות",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũrĩ Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:59:54.620926236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Kwa mũthenji; wa ciana cia Kora; kĩimbe kĩa mĩcamio.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mũthenji"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa ciana cia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kora"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbe kĩa mĩcamio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:20.634361699Z",
+  "model": "glm-5.3"
+}

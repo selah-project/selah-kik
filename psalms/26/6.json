@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩngũthamba mikono yakwa na ũtheru, na ngĩgũũrũka harĩ ⟨את⟩ gũtũũkĩro gwakwa, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "nĩngũthamba"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "na ũtheru"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mikono yakwa"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "na ngĩgũũrũka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gũtũũkĩro gwakwa"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "gũtũũkĩro gwakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:46.097918184Z",
+  "model": "glm-5.3"
+}

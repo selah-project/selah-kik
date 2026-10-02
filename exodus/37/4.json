@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "akagwĩka mĩcako ya miti ya citim, akayinĩria ⟨את⟩ na thahabu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akagwĩka"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mĩcako ya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "citim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "akayinĩria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcako"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:16.735465628Z",
+  "model": "glm-5.3"
+}

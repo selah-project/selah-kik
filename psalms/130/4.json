@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Nĩ gũkorwo hamwe Nawe kũri kĩehere, nĩgeetha We ũgoocithĩkage.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkorwo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe Nawe"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "kĩehere"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ũgoocithĩkage"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:43.876552459Z",
+  "model": "glm-5.3"
+}

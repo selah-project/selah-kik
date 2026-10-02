@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Kannya gake nĩkĩjũritio ira na ũhunjĩ na kũharamaria; thĩ ya rũimi rwaake kũrĩ mawĩra ma hinya na kĩuru.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ira"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "kannya gake"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nĩkĩjũritio"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ũhunjĩ"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "kũharamaria"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "rũimi rwaake"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mawĩra ma hinya"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "kĩuru"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:10.298454292Z",
+  "model": "glm-5.3"
+}

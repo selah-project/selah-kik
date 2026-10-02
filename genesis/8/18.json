@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Noaki aarĩmũkĩte, na aana ake, na mũtumia wake, na atumia a aana ake, ⟨hakuhĩ⟩ nayũ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "aarĩmũkĩte"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaki"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana ake"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na mũtumia wake"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "na atumia"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "a aana ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hakuhĩ nayũ",
+      "marks": "Noaki"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:49.941602519Z",
+  "model": "glm-5.3"
+}

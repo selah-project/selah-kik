@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩgethanĩire mũthamaki wa Yiceraeri atĩrĩ: Mwaturi ⟨את⟩ Mikaiahu, mũcookerithie kwa Amoni, mũthamaki wa ⟨the⟩ mũciĩ, na kwa Yoaci mũrũ wa ⟨the⟩ mũthamaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩgethanĩire"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mwaturi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikaiahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaiahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "mũcookerithie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mũciĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoaci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T05:52:15.133694520Z",
+  "model": "glm-5.3"
+}

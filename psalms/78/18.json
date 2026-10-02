@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Magĩcooria Ere ngoro-inĩ yao, gucoka irio ngothe ya mũoyo wao.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "magĩcooria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ngoro-inĩ yao"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "gucoka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "irio"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "mũoyo wao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:53.183308611Z",
+  "model": "glm-5.3"
+}

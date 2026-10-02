@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Yahwe Erohimu waku agakũinjĩra thĩ ĩrĩa aciari aku maharũire-rĩ, na we ũgakaharũra; naku we agakũreinĩka wega na gũkũongererera kũrirĩ aciari aku.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "agakũinjĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "maharũire"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "aciari aku"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "ũgakaharũra"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "agakũreinĩka wega"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "agakũongererera"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "kũrirĩ aciari aku"
+    }
+  ],
+  "timestamp": "2026-10-01T22:35:09.642802562Z",
+  "model": "glm-5.3"
+}

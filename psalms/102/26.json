@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Kuuma mbere ndĩwe waherekirie ⟨את⟩ thĩ, na igũrũ nĩwĩra wa moko maku.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "kuuma mbere"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "waherekirie"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na wĩra"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wa moko maku"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:06.914722809Z",
+  "model": "glm-5.3"
+}

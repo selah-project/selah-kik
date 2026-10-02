@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na rĩũndũ ũyũ, ũgakĩra nĩngũkuhe marũa — ndakwĩhokĩra — ũgahonokia ⟨את⟩ muoyo waku na ⟨את⟩ muoyo wa mũrũ waku Ceromoho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩũndũ ũyũ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ũgakĩra"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "nĩngũkuhe marũa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakwĩhokĩra"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "marũa"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ũgahonokia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muoyo waku"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "muoyo waku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muoyo wa mũrũ waku"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "muoyo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mũrũ waku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoho"
+    }
+  ],
+  "timestamp": "2026-10-01T23:46:11.251470195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na nĩmũtuĩke andũ a ũtheru kwĩ iyo; na nyama ya kwaruhiwo mũgũnda-inĩ mũtikarĩa; mũkeeree ngui ⟨את⟩ iyo.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a ũtheru"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "nĩmũtuĩke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwĩ iyo"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mũgũnda-inĩ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "ya kwaruhiwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũtikarĩa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ngui"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "mũkeeree"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:55.410013415Z",
+  "model": "glm-5.3"
+}

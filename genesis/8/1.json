@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Erohimu nĩekumbicare ⟨את⟩ Noci, na ⟨את⟩ kĩndũ gĩothe kĩa mũoyo, na ⟨את⟩ nyamũ ciothe irĩa ⟨את⟩ zĩarĩ hamwe nake thĩinĩ wa tebahari; na Erohimu akĩhingia ruaki igũrũ rĩa thĩ, na mĩci ĩkahothoka.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "nĩekumbicare"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noci"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩndũ gĩothe kĩa mũoyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gĩothe"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kĩndũ kĩa mũoyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyamũ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyamũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "thĩinĩ wa tebahari"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akĩhingia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "ĩkahothoka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mĩci"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:21.266178060Z",
+  "model": "glm-5.3"
+}

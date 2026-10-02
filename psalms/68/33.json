@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Mathina ma thĩ, iimai kwa Erohimu, iinjĩrai Adonai. Cerã.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Mathina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "iimai"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwa Erohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "iinjĩrai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerã"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:51.355181741Z",
+  "model": "glm-5.3"
+}

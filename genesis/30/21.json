@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na thutha ũcio akĩarĩra muirũ, na akĩhĩtũkia ⟨את⟩ rĩĩtwa rĩake Dinahi.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "na thutha ũcio"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akĩarĩra"
+    },
+    {
+      "surface": "בת",
+      "gloss": "muirũ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akĩhĩtũkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinahi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:44:45.414905755Z",
+  "model": "glm-5.3"
+}

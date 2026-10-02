@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 87,
+  "translation": "Na wa Cioni kũgoagwo-rĩ: mũndũ na mũndũ nĩakuhirwo yooyũ; na We, Eleyoni, nĩWe oigĩre agatũũkĩra ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "na wa Cioni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kũgoagwo-rĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩakuhirwo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yooyũ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na We"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "agatũũkĩra"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eleyoni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:26.640694310Z",
+  "model": "glm-5.3"
+}

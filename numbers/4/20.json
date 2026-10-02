@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na makĩinya matagĩkũona o hanini ⟨את⟩ ũtheru, rĩrĩa ũgũciombwo, na makafũra.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "matagĩ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "makĩinya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "o hanini rĩrĩa ũgũciombwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũtheru"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "na makafũra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:18:39.439419408Z",
+  "model": "glm-5.3"
+}

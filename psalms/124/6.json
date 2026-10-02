@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 124,
+  "translation": "Yahwe arathimwo, ũrĩa ndatũheire ta kĩurũ gĩa kuuma meno mao thĩinĩ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "arathimwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "atũheire"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "kĩurũ"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "meno mao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:16.881867736Z",
+  "model": "glm-5.3"
+}

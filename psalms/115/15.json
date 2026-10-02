@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Nĩmwĩrathimiruo nĩ Yahwe, ũrĩa wombire ⟨את⟩ igũrũ na ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "nĩmwĩrathimiruo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mwĩ (arĩa marathimiruo)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nĩ Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũrĩa wombire"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:14.435089968Z",
+  "model": "glm-5.3"
+}

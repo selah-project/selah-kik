@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Shemueri akoragũhĩrĩrire ⟨את⟩ andũ othe kũrĩ Yahwe, kũ Hamasipa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akoragũhĩrĩrire"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ othe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Hamasipa"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:11.725695059Z",
+  "model": "glm-5.3"
+}

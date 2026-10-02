@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Nĩgũkorwo nĩmahũranirie mwanya-inĩ wa ngoro ũmwe,kũrĩ We nĩmahĩthirie kĩrĩkanĩro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nĩmahũranirie"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mwanya-inĩ wa ngoro"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kũrĩ We"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "nĩmahĩthirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:28.693648666Z",
+  "model": "glm-5.3"
+}

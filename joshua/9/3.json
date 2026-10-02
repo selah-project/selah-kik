@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na aandũ arĩa maarĩ Gibegoni nĩmaiguire ⟨את⟩ ũrĩa Yocua ambĩbiririe kwa Yeriko na kwa Hayi.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "aandũ arĩa maarĩ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibegoni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nĩmaiguire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa Yocua ambĩbiririe kwa Yeriko na kwa Hayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ambĩbiririe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yocua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "kwa Yeriko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "na kwa Hayi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:43:55.105728151Z",
+  "model": "glm-5.3"
+}

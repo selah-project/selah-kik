@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na Yahwe akĩraria na Moce, akĩmwĩra atĩrĩ,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩraria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩmwĩra atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:02.333689810Z",
+  "model": "glm-5.3"
+}

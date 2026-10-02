@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yahwe Erohimu athondekĩra ⟨את⟩ ithĩa ĩrĩa aacokethe kuuma mũndũ ahĩtũka mũka, namo moimĩkĩra kũrĩ mũndũ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "athondekĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithĩa"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ithĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aacokethe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ahĩtũka mũka"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "namo moimĩkĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:34.428670005Z",
+  "model": "glm-5.3"
+}

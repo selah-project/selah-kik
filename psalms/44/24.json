@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Ũcũkie, niĩ kũrara, Adonai? Ũĩhũrĩrie, ũtikatũgatie rioote.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ũcũkie"
+    },
+    {
+      "surface": "למה",
+      "gloss": "niĩ"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "kũrara"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Ũĩhũrĩrie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũtika"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ũtigatũgatie"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "rioote"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:11.053876734Z",
+  "model": "glm-5.3"
+}

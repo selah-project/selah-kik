@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "⟨את⟩ Cabati jakwa nĩmũrĩkagĩra, na Micikani wakwa nĩmũtiganĩra; nĩĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabati jakwa"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Cabati jakwa"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nĩmũrĩkagĩra"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "na Micikani wakwa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nĩmũtiganĩra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:47:45.337804909Z",
+  "model": "glm-5.3"
+}

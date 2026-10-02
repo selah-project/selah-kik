@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na iyambĩrĩria rĩa ũthamaki wake rĩakuirie Babirooni, na Ereki, na Akadi, na Karane, thĩinĩ wa thĩ ya Cinari.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "rĩakuirie"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "iyambĩrĩria"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ũthamaki wake"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babirooni"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Ereki"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akadi"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "Karane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa thĩ"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Cinari"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:01.470852176Z",
+  "model": "glm-5.3"
+}

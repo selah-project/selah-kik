@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na thutha wa maũndũ macio, Erohimu akĩgeria ⟨את⟩ Abarahamu, na akĩmũũra: Abarahamu. Nake akiuga: Ngaro, nĩngwĩra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na nĩithĩkĩte"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "akĩgeria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abarahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nake akiuga"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ngaro, nĩngwĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:34.841511157Z",
+  "model": "glm-5.3"
+}

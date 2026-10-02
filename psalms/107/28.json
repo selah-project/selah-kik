@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Magĩtherema kũrĩ Yahwe thĩna-inĩ wao, na kuuma mĩhangare yao akĩmamũra.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "magĩtherema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "thĩna-inĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "kuuma mĩhangare yao"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "akĩmamũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:44.359819772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na rĩu, rora, kĩgero kĩa ciana cia Yiceraeri kĩmũkĩĩte kũrĩ ini, na ningĩ ndaonire ⟨את⟩ kũrũngwo-inĩ kĩrĩa andũ a Micirayimu marũngaga ⟨את⟩ nao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rora"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kĩgero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kĩmũkĩĩte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ ini"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ningĩ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndaonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũrũngwo-inĩ"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "kũrũngwo-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "andũ a Micirayimu"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "marũngaga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:06.284948228Z",
+  "model": "glm-5.3"
+}

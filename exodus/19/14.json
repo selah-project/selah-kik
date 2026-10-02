@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Moce akĩrũnga akĩuma kĩrĩma-inĩ akĩhĩra andũ, akĩtherithia ⟨את⟩ andũ, na andũ makĩthambĩra nguo ciao.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akĩrũnga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מן",
+      "gloss": "akĩuma"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akĩhĩra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akĩtherithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "makĩthambĩra"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "nguo ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:45.461163191Z",
+  "model": "glm-5.3"
+}

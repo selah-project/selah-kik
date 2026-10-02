@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "na arĩa makurũ a mũtara ũcio mahĩta atumia, makĩnyita ⟨את⟩ ũcio kuo, mahe ⟨את⟩ ũcio moko-inĩ ma goeri wa thakame, nĩakuwe.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "mahĩta atumia"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "arĩa makurũ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "a mũtara ũcio"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "makĩnyita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ũcio (mũndũ ũrĩa wĩ mũhootani)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mahe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "goeri wa thakame"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goeri"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa thakame"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "nĩakuwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:29:08.577391879Z",
+  "model": "glm-5.3"
+}

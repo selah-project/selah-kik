@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũrũ wa gatanano Cefataya, wa Abitari; mũrũ wa gatandatũ Yitereamu, wa Egera mũtumia wake.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "mũrũ wa gatanano"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Cefataya"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "wa Abitari"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "mũrũ wa gatandatũ"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitereamu"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "wa Egera"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:23.071633714Z",
+  "model": "glm-5.3"
+}

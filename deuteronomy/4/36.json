@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Kuuma igũrũ anakuhe ũiguithĩtie ⟨את⟩ kĩongo gĩake gĩagĩtũũrĩra thĩ, na thĩ-inĩ anakuonethia ⟨את⟩ mũrimũ wake mũnene, na ciugo ciake nĩwĩiguithĩtie kuuma gĩtikũ-inĩ kĩa mũrimũ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kuuma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "anakuhe ũiguithĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩongo gĩake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "kĩongo gĩake"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "gĩagĩtũũrĩra thĩ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "anakuonethia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrimũ wake"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "mũrimũ wake"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "na ciugo ciake"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nĩwĩiguithĩtie"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kuuma gĩtikũ-inĩ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "kĩa mũrimũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:20:08.542332577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Ũrĩa ũrathĩmaga thi, na ĩgĩthingĩka; agĩkora mĩrĩma, na magĩtua mũratũ.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Ũrĩa ũrathĩmaga"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "na ĩgĩthingĩka"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "agĩkora"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mĩrĩma"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "na magĩtua mũratũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:38.740636591Z",
+  "model": "glm-5.3"
+}

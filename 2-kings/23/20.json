@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na nĩathĩnjĩte ⟨את⟩ athĩnjĩri-ngai othe a ibaku arĩa maarĩ kũu thĩinĩ wa macũgiro, na nĩacikĩte na mũrito ⟨את⟩ ĩa cia andũ igũrũ rĩacio, na nĩacookĩte Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "nĩathĩnjĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "athĩnjĩri-ngai othe a ibaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "athĩnjĩri-ngai"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "a ibaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maarĩ kũu"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "macũgiro"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "nĩacikĩte na mũrito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ĩa cia andũ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ĩa cia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ rĩacio"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nĩacookĩte"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:35:36.702923337Z",
+  "model": "glm-5.3"
+}

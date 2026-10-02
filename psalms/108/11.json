@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 108,
+  "translation": "Nĩwe mwĩrĩka agĩkĩra gĩcũjĩ kĩa kũhingithia? Nĩwe agĩtwarithia ithũĩ nginya Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nĩwe"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "mwĩrĩka agĩkĩra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gĩcũjĩ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "kĩa kũhingithia"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nĩwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "agĩtwarithia ithũĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:17.295561069Z",
+  "model": "glm-5.3"
+}

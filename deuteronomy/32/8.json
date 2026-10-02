@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Rĩrĩa Erioni ahaaga ndũrĩrĩ ciyao, rĩrĩa agohekithania ciana cia andũ, agatũũra mbici cia andũ o na mũtario wa ciana cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "rĩrĩa ahaaga"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Erioni"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "rĩrĩa agohekithania"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cia andũ"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "agatũũra"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "mbici"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "cia andũ"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "o na mũtario wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:36:31.972306553Z",
+  "model": "glm-5.3"
+}

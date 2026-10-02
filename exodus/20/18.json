@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na andũ aothe maĩguora ⟨את⟩ mĩgambo na ⟨את⟩ mĩaka ĩrĩa ĩrataũra, na ⟨את⟩ gambo rĩa gera rĩa ng'ombe, na ⟨את⟩ kilima kĩa mũũrĩ-inĩ; andũ rũciĩ magetha-hehererio na mahagĩrĩra kũrĩ ha ũtheri mũno.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "maĩguora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩgambo"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "mĩgambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩaka"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gambo rĩa gera"
+    },
+    {
+      "surface": "קול",
+      "gloss": "gambo"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "rĩa gera rĩa ng'ombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kilima"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "kĩa mũũrĩ-inĩ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "rũciĩ magetha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "hehererio"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "mahagĩrĩra"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kũrĩ ha ũtheri mũno"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:52.531515365Z",
+  "model": "glm-5.3"
+}

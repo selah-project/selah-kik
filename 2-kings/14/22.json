@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "He built ⟨את⟩ Erathi and returned it to Yuda, after the king slept with his fathers.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "he"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "built"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erathi"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Erathi"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "and returned it"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "to Yuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "after"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "the sleeping"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "of the king"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "his fathers"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:19.527864704Z",
+  "model": "glm-5.3"
+}

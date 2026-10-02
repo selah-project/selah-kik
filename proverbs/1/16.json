@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgũkorwo magũrũ mao maathiĩ maũngĩ; na me hinya-inĩ gwĩra meri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "magũrũ mao"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "maũngĩ"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "maathiĩ"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "me hinya-inĩ"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "gwĩra"
+    },
+    {
+      "surface": "דם",
+      "gloss": "meri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:17.826082306Z",
+  "model": "glm-5.3"
+}

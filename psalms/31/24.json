@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Ĩendai ⟨את⟩ Yahwe, arĩa othe a atheeru make; Yahwe nĩrũmagĩrĩra arĩa a mwĩhoke, na nĩrũgama mandĩ mũno mũndũ ũrĩa ũtũũraga na kĩene-ĩgũrũ.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Ĩendai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe a"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "atheeru make"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "arĩa a mwĩhoke"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "nĩrũmagĩrĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "na nĩrũgama"
+    },
+    {
+      "surface": "על",
+      "gloss": "mandĩ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũtũũraga"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "na kĩene-ĩgũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:45.314986520Z",
+  "model": "glm-5.3"
+}

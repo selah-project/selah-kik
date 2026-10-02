@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Na rĩu mũtikũigua thiũ: nĩndĩkũhotorithia ⟨את⟩ inywe na ⟨את⟩ ciana cianyu cikũrũ. Nakome rĩngĩ akĩmeeria ⟨את⟩ iria, na akiugithia maũndũ macokeriithe mĩgo-inĩ ciao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũti"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mũtikũigua thiũ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "kũhotorithia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciana cianyu cikũrũ"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ciana cianyu cikũrũ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akĩmeeria"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iria"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akiugithia"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "mĩgo-inĩ ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:02.511695307Z",
+  "model": "glm-5.3"
+}

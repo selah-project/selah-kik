@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Akũhe waku ũrĩa ngoro yaku ĩendete, na mawĩrano make mothe aterethe.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "akũhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "waku"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "ũrĩa ngoro yaku ĩendete"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "mawĩrano make"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "aterethe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:00.631466276Z",
+  "model": "glm-5.3"
+}

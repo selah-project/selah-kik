@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Ndũokore ciakame cia ng'ombe ũcio, ndĩcige kwa ng'aracĩ cia cihĩga nĩciara ciaku, na ⟨את⟩ thakame yothe ndĩthome kũrĩ itherero rĩa cihĩga.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ndũokore"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ciakame cia"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ng'ombe ũcio"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ndĩcige"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "ng'aracĩ cia"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cihĩga"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "nĩciara ciaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thakame yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "ndĩthome"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "itherero rĩa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cihĩga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:31.543324697Z",
+  "model": "glm-5.3"
+}

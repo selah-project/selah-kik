@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na akĩria ⟨את⟩ macereci ma Micikani; macereci makũmi mana gũthera kwa themantherura, kũrĩa mboco.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "na akĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macereci"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "macereci"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ma Micikani"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi mana"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "macereci"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "gũthera kwa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "themantherura"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kũrĩa mboco"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:16.018978266Z",
+  "model": "glm-5.3"
+}

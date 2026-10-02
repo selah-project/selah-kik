@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 14:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na Parowi nĩaheanĩtie hakuhĩ; ciana cia Yiceraeri ciarĩra ⟨את⟩ maithori mao, na rĩrĩ, Micirayimu nĩĩthiĩre thutha wao; magĩ kuoya mũno, ciana cia Yiceraeri magĩ kũgamba kũrĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ופרעה",
+      "gloss": "Na Parowi"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "nĩaheanĩtie hakuhĩ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ciarĩra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maithori mao"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "maithori mao"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "nĩĩthiĩre"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "thutha wao"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "magĩ kuoya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "magĩ kũgamba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:48.623532761Z",
+  "model": "glm-5.3"
+}

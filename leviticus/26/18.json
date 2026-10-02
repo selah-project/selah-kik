@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na rĩrĩ, arĩ o ũguo macio ndĩmũthĩkĩrĩra ithuĩ, nĩngĩonjechia kũrutu nyinyi mũgwanja mbere, nĩũndũ wa mahĩtia manu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na rĩrĩ arĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mũthĩkĩrĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "nĩngĩonjechia"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "kũrutu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja mbere"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩũndũ wa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "mahĩtia manu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:44.207606853Z",
+  "model": "glm-5.3"
+}

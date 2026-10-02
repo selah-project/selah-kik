@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩkwamũkĩra Yahwe na Moce na Aharoni, akiuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nĩkwamũkĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga"
+    }
+  ],
+  "timestamp": "2026-10-02T06:18:20.963503787Z",
+  "model": "glm-5.3"
+}

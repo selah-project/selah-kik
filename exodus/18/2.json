@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Yithiro, mũcometani wa Moce, ainata ⟨את⟩ Cipora, mũka wa Moce, thutha wa kũcohererwo kwake.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ainata"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yithiro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mũcometani"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moce"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kũcohererwo kwake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:08.397539137Z",
+  "model": "glm-5.3"
+}

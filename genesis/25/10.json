@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Gũcunda kũu Abarahamu akũũndire kwa ⟨את⟩ aana a Ceti; kũu nĩkuo Abarahamu aiikaririo, hamwe na Carai mũtumia wake.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "gũcunda kũu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "akũũndire"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "aana a Ceti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ceti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "aiikaririo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "na Carai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:52.595573512Z",
+  "model": "glm-5.3"
+}

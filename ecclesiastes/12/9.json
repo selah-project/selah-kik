@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na kuongereretha, kana Koheleti aarĩ mũmenyi, nĩrendũrire kũrathithia ⟨את⟩ andũ ũmenyi; nĩgerethie kũigua, arorire, na gũcooka nĩatungatirie metha nyingĩ.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Na kuongereretha"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mũmenyi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nĩrendũrire"
+    },
+    {
+      "surface": "למד",
+      "gloss": "kũrathithia"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ũmenyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "nĩgerethie kũigua"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "arorire"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "nĩatungatirie"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "metha"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nyingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:44:31.332619078Z",
+  "model": "glm-5.3"
+}

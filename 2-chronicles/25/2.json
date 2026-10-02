@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩakĩĩga kĩndũ gĩa theru mahĩtĩkoini ma Yahwe, no ti na ngoro ĩtheru.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩakĩĩga"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "kĩndũ gĩa theru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahĩtĩkoini ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "na ngoro"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ĩtheru"
+    }
+  ],
+  "timestamp": "2026-10-02T05:58:44.865525049Z",
+  "model": "glm-5.3"
+}

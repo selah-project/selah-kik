@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Na Weewe, Adonai, Ere wa tha na wa kũhe maciaro, mũraya ihũũra, mũnene wa hecedi na wa ma.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na Weewe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "wa tha"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "na wa kũhe maciaro"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mũraya"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ihũũra"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mũnene wa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na wa ma"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:50.961834636Z",
+  "model": "glm-5.3"
+}

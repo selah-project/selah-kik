@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Nĩwe ya macĩhĩra cia Yarobeamu kĩrĩa aacĩhĩra, na kĩrĩa acĩhĩrĩithie ⟨את⟩ Yiceraeri, nĩ thĩna wake wa kũinya, kĩrĩa acinyitirie kũnya ⟨את⟩ Yahwe, Erohimu wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "macĩhĩra"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "aacĩhĩra"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na kĩrĩa"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "acĩhĩrĩithie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "nĩ thĩna wake wa kũinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "acinyitirie kũnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:44.108385254Z",
+  "model": "glm-5.3"
+}

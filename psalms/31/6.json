@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Moko-inĩ maku nĩngĩcembania ruaki wakwa; nĩwe waũgũcie ⟨את⟩ nĩngĩ, Yahwe, Ere wa ma.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "moko-inĩ maku"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "nĩngĩcembania"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaki wakwa"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "nĩwe waũgũcie"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ nĩngĩ",
+      "marks": "nĩngĩ (arĩa ũgũcĩtwo)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "wa ma"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:01.146154921Z",
+  "model": "glm-5.3"
+}

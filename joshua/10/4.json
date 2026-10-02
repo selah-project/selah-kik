@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Itheri kũndũ kwakwa, mũnĩteithie, tũmũkuuge ⟨את⟩ Gibeoni, nĩgũkorwo nĩ yahoteranĩte na ⟨את⟩ Yehocua na ⟨את⟩ aana a Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Itheri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũndũ kwakwa"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "mũnĩteithie"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "tũmũkuuge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "yahoteranĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehocua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:44:55.901606018Z",
+  "model": "glm-5.3"
+}

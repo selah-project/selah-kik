@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ndĩndatumĩte ⟨את⟩ marathi, na mo mahote; ndĩndaarikirie nao, nao maaratha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndĩnda-"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "-tumĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marathi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "marathi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na mo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "mahote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩnda-"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "-aarikirie"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "maaratha"
+    }
+  ],
+  "timestamp": "2026-10-02T01:16:27.299152192Z",
+  "model": "glm-5.3"
+}

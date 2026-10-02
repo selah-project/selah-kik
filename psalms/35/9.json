@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na mũoyo wakwa ũkahĩnga thĩinĩ wa Yahwe, ũkehenere ⟨thĩinĩ wa⟩ kũhonokia kwake.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "nĩkahĩnga"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "thĩinĩ wa Yahwe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "nĩkehenere"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "kũhonokia kwake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:07.935638417Z",
+  "model": "glm-5.3"
+}

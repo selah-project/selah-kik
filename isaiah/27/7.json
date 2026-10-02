@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Ta ũrĩa amũhũra, kana amũhũraitie arĩa mamũhũra? kana ogũkuwo ta kũũĩra aakuũ ake?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Ta ũrĩa"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "mamũhũra"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "amũhũra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "ta kũũĩra"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "aakuũ ake"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ogũkuwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:35:56.021410749Z",
+  "model": "glm-5.3"
+}

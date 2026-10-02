@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Erohimu, ũtũcookithie, ũtheri wa thoni yaku ũrathĩrike, na ithuĩ nĩtũteithwo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ũtũcookithie"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ũtheri ũrathĩrike"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thoni yaku"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "nĩtũteithwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:04.077568769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Mũthingi wothe wa aana a Yiceraeri nĩmagũguna Moce na Aharoni thĩinĩ wa cĩaĩa.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "nĩmagũguna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mũthingi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩinĩ wa cĩaĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:36.851728893Z",
+  "model": "glm-5.3"
+}

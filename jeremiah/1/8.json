@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ndũkenwo ciĩthe ciao, nĩ niĩ ndĩ hamwe nawe, ngĩkũhonokia; Yahwe oigĩte.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũkenwo"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kukena ciĩthe"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ciao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨na⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ niĩ ndĩ hamwe nawe"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "ngĩkũhonokia"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:59:28.802518574Z",
+  "model": "glm-5.3"
+}

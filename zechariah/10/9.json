@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩndĩkahanda arĩ thĩinĩ wa ndũrĩrĩ, na mabanda-inĩ marĩ kũraya nĩmakĩrĩkĩra; nĩmakoruo me mũoyo na ⟨את⟩ ciana ciaco, na makĩcooka.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "nĩndĩkahanda arĩ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "thĩinĩ wa ndũrĩrĩ"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "na mabanda-inĩ marĩ kũraya"
+    },
+    {
+      "surface": "יזזכרוני",
+      "gloss": "nĩmakĩrĩkĩra"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "nĩmakoruo me mũoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana ciaco"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ciana ciaco"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "na makĩcooka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:44:58.977166786Z",
+  "model": "glm-5.3"
+}

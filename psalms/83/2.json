@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Erohimu, ndũkorwo ũceethekĩte kwĩrĩ; ndũhoro, na ndũtororoke, Ere.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũkorwo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ũceethekĩte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwĩrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũhoro"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ndũhoro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ndũtororoke"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ndũtororoke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:14.366547237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Na Yiceraeri aingĩra Micirayimu, na Yaakobu agĩikara ta mũthurani thĩinĩ wa thĩ ya Hami.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "na aingĩra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakobu"
+    },
+    {
+      "surface": "גר",
+      "gloss": "agĩikara ta mũthurani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa thĩ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ya Hami"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:51.660242766Z",
+  "model": "glm-5.3"
+}

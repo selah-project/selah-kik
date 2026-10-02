@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Gũkũmenyithia aana a andũ marĩa hinya wake, na kĩeego kĩa ũira wa gĩtĩyo kĩa ũthamaki wake.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Gũkũmenyithia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "hinya wake"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na kĩeego kĩa"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ũira wa gĩtĩyo"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ũthamaki wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:28.846493260Z",
+  "model": "glm-5.3"
+}

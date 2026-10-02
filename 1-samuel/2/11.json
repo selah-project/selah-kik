@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩrĩkũ Erekana agĩthii Rama, kũrĩ nyũmba yake; na mũriĩ ũcio aarĩ kũtumĩra ⟨את⟩ Yahwe, akĩtumĩra ⟨את⟩ mbere ya Eeri mũthĩnjĩri-ngai ũcio.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agĩthii"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Erekana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "na mũriĩ ũcio"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "kũtumĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbere ya Eeri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeri"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T23:08:40.899526522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Ecere wa mbere, Obadhaya wa kerĩ, Eriabu wa gatatũ.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ecere"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadhaya"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa kerĩ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eriabu"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "wa gatatũ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:26:13.952506011Z",
+  "model": "glm-5.3"
+}

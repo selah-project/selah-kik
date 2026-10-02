@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ere ũcio ũrĩ ũheanaga mahooro kwa wakwa, na ũnyitithagia ndũrĩrĩ thĩ ya wakwa.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ere ũcio"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ũrĩ ũheanaga"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "mahooro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa wakwa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "na ũnyitithagia"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "thĩ ya wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:54:32.347852478Z",
+  "model": "glm-5.3"
+}

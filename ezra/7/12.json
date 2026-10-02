@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 7:12",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Aratachaceta, mwathani wa athamaki, kũ Ezira mũthĩnjĩri-ngai, mũandĩki wa watho wa Ere wa igũrũ, mũtheru, na ⟨ũndũ ũngĩ⟩.",
+  "tokens": [
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Aratachaceta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "wa athamaki"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "kũ Ezira"
+    },
+    {
+      "surface": "כהנא",
+      "gloss": "mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mũandĩki"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "watho"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "גמיר",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "na ũndũ ũngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T05:05:38.544398712Z",
+  "model": "glm-5.3"
+}

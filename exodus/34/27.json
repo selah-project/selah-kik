@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩguo Yahwe akĩuga kĩa Moce: Andĩkĩra ciugo ici; nĩ ciugo ici nĩndaharanĩtie ⟨את⟩ nawe kĩrĩkanĩro, na ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩguo akĩuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Andĩkĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩra waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ici"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kuma kanua-inĩ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wa ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "nĩndaharanĩtie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:23:31.211428472Z",
+  "model": "glm-5.3"
+}

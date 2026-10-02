@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Kana gĩcũhio kĩa ũthĩini nĩgĩkũranagĩra na we, ũrĩa ũtambagĩra ũndũ wothe kana thibũi ya watho?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "nĩgĩkũranagĩra na we"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kĩgĩrĩkĩro kĩa ũthamaki"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ũthĩini"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ũtambagĩra"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ũndũ wothe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חק",
+      "gloss": "thibũi ya watho"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:46.724876221Z",
+  "model": "glm-5.3"
+}

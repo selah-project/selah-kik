@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Riitho rĩanjĩ nĩrĩonithia arĩa maamanĩte kũnyuumũra-inĩ, na gũtu makwanyĩthikĩra ũrĩa makwengera ũthomĩ-inĩ wa arĩa makũratanĩa nane.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "nĩrĩonithia"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Riitho rĩanjĩ"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "arĩa maamanĩte kũnyuumũra-inĩ"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "arĩa makũratanĩa nane"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nane"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "arĩa makwengera ũthomĩ"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "makwanyĩthikĩra"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "gũtu makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.293570122Z",
+  "model": "glm-5.3"
+}

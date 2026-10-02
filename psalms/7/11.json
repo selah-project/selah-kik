@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Ngaro yakwa nĩirĩ kwa Erohimu, mũciĩri-wa-mambo wa arĩa me ngoro ithie.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Ngaro yakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩirĩ kwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mũciĩri-wa-mambo wa"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "arĩa me ngoro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ithie"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:45.745534693Z",
+  "model": "glm-5.3"
+}

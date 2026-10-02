@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 124,
+  "translation": "Loo ti Yahwe warĩ ⟨na⟩ ithuĩ, rĩrĩa andũ makĩrũa makĩnyĩte ithuĩ;",
+  "tokens": [
+    {
+      "surface": "לוקי",
+      "gloss": "Loo ti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "warĩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "rĩrĩa makĩrũa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:45.910125524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Yahwe akĩũga kĩrĩa Moce na kĩrĩa Aharoni, thĩinĩ wa bũrũri wa Micirayimu, na kuuga atĩrĩ,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩũga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kĩrĩa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ wa bũrũri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kuuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:06:07.574478307Z",
+  "model": "glm-5.3"
+}

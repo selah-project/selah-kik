@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Dawidi akĩĩka ta Erohimu amwagĩrĩirie, nao mahĩtie ⟨את⟩ kĩama kĩa arĩa Pelishti kuuma Gibeoni gĩkĩra Gezeri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩĩka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "amwagĩrĩirie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mahĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩama"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kĩama"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "arĩa Pelishti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Gibeoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gĩkĩra"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezeri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:28:57.430943240Z",
+  "model": "glm-5.3"
+}

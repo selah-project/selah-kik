@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Kũrĩ mwathi-inĩ wa kĩama kĩa ndĩĩge, ciarĩ kĩgande-inĩ gia ngitari, kĩndũ gĩa kũinĩra nĩga kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mwathi-inĩ wa kĩama kĩa ndĩĩge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "kĩgande-inĩ gia ngitari"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩndũ gĩa kũinĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nĩga kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:50:07.448043605Z",
+  "model": "glm-5.3"
+}

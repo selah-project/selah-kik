@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 22:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Atariyahu, nyina wa Acaziyahu, anyitire kũona atĩ mũrũ wĩĩ nĩarũkĩte, nĩambĩrĩirie kũhĩtia gerũa ⟨את⟩ ciothe cia thambo, cia nyomba ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "ועתליהו",
+      "gloss": "Atariyahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nyina wa"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Acaziyahu"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "anyitire kũona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nĩarũkĩte"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mũrũ wĩĩ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "nĩambĩrĩirie"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "kũhĩtia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerũa ciothe cia thambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "gerũa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "cia thambo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "cia nyomba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T05:55:10.768355999Z",
+  "model": "glm-5.3"
+}

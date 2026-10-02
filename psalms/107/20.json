@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Anatumĩra kiugo kĩake, na akĩmarũmĩrĩria, na akĩmatabarĩra kuuma mahĩtia mabanyũ ma kũharũkia.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "anatumĩra"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kiugo kĩake"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "na akĩmarũmĩrĩria"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "na akĩmatabarĩra"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "kuuma mahĩtia mabanyũ ma kũharũkia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:59.775807214Z",
+  "model": "glm-5.3"
+}

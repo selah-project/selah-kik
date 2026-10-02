@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Thĩ yothe ĩgate Yahwe; kũrĩ ũrĩa nĩguo andũ arĩa mamakarĩra tevere magegerera.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ĩgate"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kũrĩ ũrĩa"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "magegerera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa aothe"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "arĩa mamakarĩra"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:19.347247822Z",
+  "model": "glm-5.3"
+}

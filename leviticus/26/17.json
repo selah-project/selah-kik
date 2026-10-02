@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩndĩgũtikia kĩngoro kĩakwa thĩinĩ wa nyinyi; mũkagũa mbere ya thũ cianyu; arĩa mamenete nyinyi mũkahĩhĩrwo nĩcicio; mũkarĩa, na gũtirĩ mũndũ ũkuhĩrĩra ⟨את⟩ nyinyi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩndĩgũtikia"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kĩngoro kĩakwa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "thĩinĩ wa nyinyi"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "mũkagũa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "thũ cianyu"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "mũkahĩhĩrwo nĩcicio"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "arĩa mamenete nyinyi"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "mũkarĩa"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ũkuhĩrĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:44.207226119Z",
+  "model": "glm-5.3"
+}

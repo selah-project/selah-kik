@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Nĩayũrĩte ⟨את⟩ mũgambo wake thĩinĩ wa kĩrĩro kĩu, na nĩmaiguũire aMicirayimu, na nĩiguũire nyũmba ya Parao.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nĩayũrĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo wake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "thĩinĩ wa kĩrĩro kĩu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "nĩmaiguũire"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "aMicirayimu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "nĩiguũire"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:57:37.157657070Z",
+  "model": "glm-5.3"
+}

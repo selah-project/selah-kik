@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kuma mwanake wa mĩaka mĩrongo ĩrĩ na gũtheri igũrũ, onthe oimaga mbũtũ-inĩ thĩinĩ wa Yiceraeri, mũtarĩre ⟨את⟩ o mbũtũ ciao, we na Aharoni.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Kuma mwanake wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na gũtheri igũrũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onthe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "oimaga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mbũtũ-inĩ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "mũtarĩre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mbũtũ ciao"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "mbũtũ ciao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:58.124354219Z",
+  "model": "glm-5.3"
+}

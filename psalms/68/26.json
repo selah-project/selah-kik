@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Aciani nĩmaambĩrire mbere, acini a ngoma na nyĩitĩranĩra thutha; hagatĩ-inĩ, aciana a ciana na ithando rĩrarĩmo kũgua ngoma.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "nĩmaambĩrire mbere"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "aciani"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "acini a ngoma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hagatĩ-inĩ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "aciana a ciana"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "kũgua ngoma"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:56.800600702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Arĩa ndaoigire atĩrĩ: Ũyũ nĩ kũhorerera; mũhorerereni arĩa maciara kũhĩa; na ũyũ nĩ kũhootorea; na maakũrenda kũigua.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndaoigire"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "kũhorerera"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "mũhorerereni"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "arĩa maciara kũhĩa"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "na ũyũ"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "kũhootorea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na maakũrenda"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kũrenda"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kũigua"
+    }
+  ],
+  "timestamp": "2026-10-02T00:36:03.240738717Z",
+  "model": "glm-5.3"
+}

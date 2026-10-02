@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na nĩngĩikia ⟨את⟩ mĩciĩ yanyu ĩtherũke, na nĩngĩhootania ⟨את⟩ matheeru manenyu, na nĩndahũũra meero wa mahĩa manyu ma kũgema.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "nĩngĩikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩciĩ yanyu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "mĩciĩ yanyu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ĩtherũke"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "nĩngĩhootania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matheeru manenyu"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "matheeru manenyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndahũũra"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "nĩngahũũra (kũmenyera)"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "meero"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "mahĩa manyu ma kũgema"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:03.611224440Z",
+  "model": "glm-5.3"
+}

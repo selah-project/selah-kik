@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Ahimaci arĩ Naftari; na ũwe no nĩaterire ⟨את⟩ Bacemati, mwana wa Ceromoni, agĩtuĩka mũtumia wake.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaci"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "arĩ Naftari"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũwe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nĩaterire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bacemati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bacemati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Ceromoni"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "agĩtuĩka mũtumia wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:22.235999634Z",
+  "model": "glm-5.3"
+}

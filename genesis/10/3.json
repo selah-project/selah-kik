@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na aana a Gomeri: Acikenazi, na Rifathi, na Togarmaha.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomeri"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Acikenazi"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "na Rifathi"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "na Togarmaha"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:52.626207507Z",
+  "model": "glm-5.3"
+}

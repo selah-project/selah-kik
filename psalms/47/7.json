@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "İĩmbani ngwatanĩro cia Erohimu, iĩmbani; iĩmbani mwathĩni witũ, iĩmbani.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "iĩmbani ngwatanĩro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "cia Erohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "iĩmbani"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "iĩmbani"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "mwathĩni witũ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "iĩmbani"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:47.462171023Z",
+  "model": "glm-5.3"
+}

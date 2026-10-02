@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Ho kũndũ gwa cahũra, irĩa ahingirie ho mwanzo; na Abarahamu aoitĩkĩra ho Rĩĩtwa rĩa Yahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ho kũndũ gwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cahũra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ahingirie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "mwanzo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "aoitĩkĩra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Rĩĩtwa rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:29.584343227Z",
+  "model": "glm-5.3"
+}

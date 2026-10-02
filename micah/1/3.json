@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩ thĩnĩ, Yahwe nĩatũĩra kuuma kũndũ kwake, na akĩrũkia, na akĩnyita harĩ mĩena ĩrĩa mĩrĩhi ya thĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "thĩnĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכא",
+      "gloss": "nĩatũĩra"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "kuuma kũndũ kwake"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "na akĩrũkia"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na akĩnyita"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "mĩena ĩrĩa mĩrĩhi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:32:38.653957639Z",
+  "model": "glm-5.3"
+}

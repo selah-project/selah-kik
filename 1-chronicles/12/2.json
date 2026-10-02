@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩmaakua kũruta ũthiũ, mokothe ĩrĩ — ũmanĩ na ũthiũ — na mahiga na mĩtwae, ũthiũ-inĩ; nĩarĩ a ithe Cauri, a kuuma Binyamin.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "nĩmaakua kũruta"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ũthiũ"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "mokothe ĩrĩ"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "ũmanĩ na ũthiũ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "na mahiga"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "na mĩtwae"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ũthiũ-inĩ"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "nĩarĩ a ithe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "a kuuma Binyamin"
+    }
+  ],
+  "timestamp": "2026-10-02T05:27:35.033094378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 99,
+  "translation": "Thĩinĩ wa mũtĩ wa mbura nĩakũrĩirie; mathiikĩirie ihoro ciake, na wathũ nĩawahĩte.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "thĩinĩ wa mũtĩ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wa mbura"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nĩakũrĩirie"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kũrĩ ao"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mathiikĩirie"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ihoro ciake"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "na wathũ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩawahĩte"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:17.083354979Z",
+  "model": "glm-5.3"
+}

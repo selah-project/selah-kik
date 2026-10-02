@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩ rĩngĩ ciira ciake ciothe irĩ mbere yakwa, na thirikari ciake ndindĩkura kuuma thĩinĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ rĩngĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ciira ciake"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "irĩ mbere yakwa"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "na thirikari ciake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ndindĩkura"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuuma thĩinĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:26.084678659Z",
+  "model": "glm-5.3"
+}

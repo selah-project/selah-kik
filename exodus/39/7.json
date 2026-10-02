@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na akĩĩkia ⟨את⟩ macio igũrũ rĩa mabega ma efoda — mabwabwa ma kĩrĩkano nĩ ciana a Yiceraeri — o ta Yahwe aangĩririe ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akĩĩkia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio (mabwabwa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mabega"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabwabwa"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ma kĩrĩkano"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nĩ ciana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aangĩririe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:20.725246245Z",
+  "model": "glm-5.3"
+}

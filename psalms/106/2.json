@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩ ũndũ ũhaanie cithingo cia Yahwe? Nĩũgĩte kũigua igoothi rĩakwa thĩinĩ wa rĩothe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nĩ ũndũ ũũ"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ũhaanie"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "cithingo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "agĩte kũigua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "thĩinĩ wa rĩothe"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "igoothi rĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:32.227608054Z",
+  "model": "glm-5.3"
+}

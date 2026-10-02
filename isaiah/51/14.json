@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Mũtheri na hinya nĩ etherera kũhurũkio, ndarakua irimo-inĩ, na irio ciaguo itirĩ kũhĩa.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "na hinya"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "mũtheri"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "kũhurũkio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndara-"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kua"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "irimo-inĩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na itirĩ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kũhĩa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "irio ciaguo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:52:29.331578745Z",
+  "model": "glm-5.3"
+}

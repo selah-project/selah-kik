@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Nĩgũkoruo nĩagweteka nakwa, nĩndĩmũcookia; nĩndĩmakoro nakwe mũthenya wa thaahu; nĩndĩmũhota, na kũmũthĩnjĩria.",
+  "tokens": [
+    {
+      "surface": "יקקאני",
+      "gloss": "nĩagweteka nakwa"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "nĩndĩmũcookia"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nakwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "mũthenya wa thaahu"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "nĩndĩmũhota"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "kũmũthĩnjĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:38.153531344Z",
+  "model": "glm-5.3"
+}

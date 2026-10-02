@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Hizikiya nĩahethe ⟨את⟩ rheha rũthe rũonete bũci-inĩ wa Yahwe, na thĩinĩ wa mathigari ma bũci wa mwathi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nĩahethe"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rheha rũthe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rũthe"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "rheha"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "rũonete"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bũci-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "na thĩinĩ wa mathigari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bũci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mwathi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:18:17.005430123Z",
+  "model": "glm-5.3"
+}

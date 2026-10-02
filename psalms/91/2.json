@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Nĩngĩmũkoria Yahwe: Nĩwe kĩhũthĩrĩ wakwa na gĩkungũro wakwa; Erohimu wakwa, nĩngĩhoka mũndũ-inĩ ⟨wake⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nĩngĩmũkoria"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "kĩhũthĩrĩ wakwa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "na gĩkungũro wakwa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nĩngĩhoka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mũndũ-inĩ ⟨wake⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:59.764488186Z",
+  "model": "glm-5.3"
+}

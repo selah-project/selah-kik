@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Wega nĩwakĩreta harĩ mũtumia waku, Yahwe, ta kĩugo gwaku.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nĩwakĩreta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ta kĩugo gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:00.552037516Z",
+  "model": "glm-5.3"
+}

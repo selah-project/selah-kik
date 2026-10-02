@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na mũndũ ũrĩa agĩkuura mũndũ na kũmũthengeria, na agĩtuonwo nĩwe moko make, agĩrĩire gũkuo nĩ andũ.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "agĩkuura"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "na kũmũthengeria"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "na agĩtuonwo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "מות",
+      "gloss": "agĩrĩire"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "gũkuo nĩ andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:43.475250678Z",
+  "model": "glm-5.3"
+}

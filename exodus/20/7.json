@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Ndũkanyiita rĩĩtwa rĩa Yahwe Erohimu waku kwa mũgũmba; nĩ Yahwe ndagatigarĩka mũhĩtĩku mũndũ o wothe ũrĩa ũnyiitaga rĩĩtwa rake kwa mũgũmba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ũranyiita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa Yahwe Erohimu waku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kwa mũgũmba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ndagatigarĩka mũhĩtĩku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ o wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ũnyiitaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rake"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kwa mũgũmba"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:45.292377399Z",
+  "model": "glm-5.3"
+}

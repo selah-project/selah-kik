@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Kana keheniethe ndakagetha, na mũaka ũraihĩte ndakainia; ciira ndĩahothagĩra na ma.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "keheniethe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "kugetha"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "na mũaka"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ũraihĩte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "kuainia"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "na ma"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kuhoithagĩra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T00:46:44.970344232Z",
+  "model": "glm-5.3"
+}

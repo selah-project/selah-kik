@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Kĩingo kĩa Arabu. Gĩthaka-inĩ, Arabu-inĩ, nĩmũkaikarĩra ũtũĩ, eni magũrũngo ma Dedani.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "kĩingo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "Arabu-inĩ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "gĩthaka-inĩ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "Arabu-inĩ"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "nĩmũkaikarĩra ũtũĩ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "arĩa mahiaga (magũrũngo)"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "Dedani"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:41.257776519Z",
+  "model": "glm-5.3"
+}

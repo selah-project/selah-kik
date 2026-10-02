@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩ ng'ombe ciacio na ng'ombe nini ciacio cia gũthia maciĩ, magĩthĩ kũrora ⟨את⟩ Yahwe, no matiakũmona; nĩndakinyithia kũuma harĩ ao.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ng'ombe ciacio"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "na ng'ombe nini ciacio cia gũthia"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magĩthĩ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kũrora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "matiakũmona"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "nĩndakinyithia"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kũuma harĩ ao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:17:31.291880410Z",
+  "model": "glm-5.3"
+}

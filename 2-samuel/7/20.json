@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na kĩrĩa Dawidi angĩeterera kwararĩria nawe? Na we nĩwamenye ⟨את⟩ mũtumĩrũ waku, Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "na kĩrĩa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "angĩeterera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwararĩria"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwararĩria"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na we"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nĩwamenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtumĩrũ waku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumĩrũ waku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:32.045098975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Naa ng'ombe cianyu na ithanccio cianyu mũreng'e, ta ũrĩa mwareire, mũthiĩ; na mũrehe mĩgũnda inji na ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "naa"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ithanccio cianyu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naa"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ng'ombe cianyu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mũreng'e"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "mwareire"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mũthiĩ"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "mũrehe mĩgũnda inji"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ inji"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:45.015339275Z",
+  "model": "glm-5.3"
+}

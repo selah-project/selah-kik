@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩgũthingĩtio ⟨the⟩ igũrũ na ⟨the⟩ thĩ, hamwe na mbũtũ ciao ciothe.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "nĩgũthingĩtio"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "mbũtũ ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:28.655662950Z",
+  "model": "glm-5.3"
+}

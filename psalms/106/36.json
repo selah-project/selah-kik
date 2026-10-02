@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Magĩcokĩra kũhĩa ⟨את⟩ ciigirwa cia mĩhianano ciacio, ihĩtũkĩtwo ikuu nĩguo cĩabacĩirie.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "magĩcokĩra kũhĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciigirwa cia mĩhianano ciacio"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ciigirwa cia mĩhianano ciacio"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ihĩtũkĩtwo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ikuu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "nĩguo cĩabacĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:38.069808180Z",
+  "model": "glm-5.3"
+}

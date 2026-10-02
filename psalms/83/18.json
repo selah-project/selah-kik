@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Magĩe na mahĩtia na maiguĩge gũtetereka tene-na-tene, na mahũre, na mahũrũkwo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "magĩe na mahĩtia"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "na maiguĩge gũtetereka"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tene-na-"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tene"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "na mahũre"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "na mahũrũkwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:44.549163549Z",
+  "model": "glm-5.3"
+}

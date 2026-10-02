@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Kĩrĩma kĩa Erohimu nĩ kĩrĩma kĩa Bacani; kĩrĩma kĩa magĩrũini nĩ kĩrĩma kĩa Bacani.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kĩa Erohimu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "kĩa Bacani"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "kĩa magĩrũini"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "kĩa Bacani"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:20.966118503Z",
+  "model": "glm-5.3"
+}

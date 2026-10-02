@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩmaciahire ⟨את⟩ aana arũa nao na ⟨את⟩ aana ake arũa nao kũ cethĩri.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "nĩmaciahire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana arũa nao"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "aana arũa nao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana ake arũa nao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "aana ake arũa nao"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kũ cethĩri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:20.085016467Z",
+  "model": "glm-5.3"
+}

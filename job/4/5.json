@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "No rĩrĩ nĩkĩũkĩra kwaku, na ⟨rĩ⟩ ũhĩtĩkĩtie; kĩnyĩtigĩra kũraku, na ũtĩranwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "No"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "nĩkĩũkĩra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "ũhĩtĩkĩtie"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "kĩnyĩtigĩra"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kũraku"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "ũtĩranwo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:04:12.636172012Z",
+  "model": "glm-5.3"
+}

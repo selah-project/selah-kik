@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na Yahwe akorwo mũciiri, na athĩkĩtie ciira hakuhĩ nakwa na hakuhĩ nawe, na one, na arĩranĩ ⟨את⟩ ciira wakwa, na athĩkĩtire ciira yakwa kuuma moko waku.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na akorwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mũciiri"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "na athĩkĩtie ciira"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakuhĩ nakwa"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na hakuhĩ nawe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na one"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "na arĩranĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciira wakwa"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ciira wakwa"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "na athĩkĩtire ciira yakwa"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kuuma moko waku"
+    }
+  ],
+  "timestamp": "2026-10-01T23:23:00.019905492Z",
+  "model": "glm-5.3"
+}

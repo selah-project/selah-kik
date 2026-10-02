@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Atong'oria ayo harĩ o na ũthamaki wothe nĩmagatua, no gũtirĩ mũndũ kuo; na atong'oria awo wothe nĩmahotwo kabisa.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "atong'oria ayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "no gũtirĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "nĩmagatua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "atong'oria awo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nĩmakaa"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "o ng'ania kabisa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:41:57.615373336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na Yahwe anoigire na Moce, na kuuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "anoigire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kuuga"
+    }
+  ],
+  "timestamp": "2026-10-01T22:09:32.348870635Z",
+  "model": "glm-5.3"
+}

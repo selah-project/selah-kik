@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Ũthamaki wakwo nĩ ⟨⟨ũthamaki⟩⟩ wa tene na tene, na ũtonganĩri wakwo mĩhĩndĩ yothe na mĩhĩndĩ.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Ũthamaki wakwo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "tene na tene"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "na ũtonganĩri wakwo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mĩhĩndĩ yothe harĩa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mĩhĩndĩ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na mĩhĩndĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:28.564431446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Moyo wakwa wĩnyĩtĩte nyũkũrũ-inĩ; nĩhonokie ta ũhoro waku.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "wĩnyĩtĩte"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "nyũkũrũ-inĩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wakwa"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "nĩhonokie"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ta ũhoro waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:33.363859033Z",
+  "model": "glm-5.3"
+}

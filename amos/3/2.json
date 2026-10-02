@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Inĩwe tu ⟨את⟩ nĩnjũũrire kuuma mĩcĩ ciothe cia thĩ; nĩrĩ ũndũ ũcio nĩngakwĩrĩhĩrĩria mĩhĩtia yanyu yothe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ Inĩwe",
+      "marks": "nĩnjũũrire Inĩwe"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nĩnjũũrire"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuoma ũcio wothe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mĩcĩ ciothe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "cia thĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩrĩ ũndũ ũcio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩrĩ ũndũ ũcio"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "nĩngakwĩrĩhĩrĩria"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩhĩtia yanyu yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "mĩhĩtia yanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:25:30.450691043Z",
+  "model": "glm-5.3"
+}

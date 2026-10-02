@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na akĩhĩtũkĩra gũthingaria ⟨את⟩ ũtheru, na ⟨את⟩ Micikani ya kũhiũrania, na ⟨את⟩ mwĩgwa, nĩagĩĩhĩrĩrĩa ⟨את⟩ ngioro ĩrĩ mũoyo.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "na akĩhĩtũkĩra"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "gũthingaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũtheru"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Micikani ya kũhiũrania"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiũrania"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwĩgwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mwĩgwa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "nĩagĩĩhĩrĩrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngioro ĩrĩ mũoyo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ngioro"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ĩrĩ mũoyo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:42:30.702983987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na nĩũngereta ⟨את⟩ mũeme, na nĩũcangĩrĩrĩa ⟨את⟩ mĩcango yayo; na nĩũngereta ⟨את⟩ mũratĩri, na nĩũringa mwaki ⟨את⟩ mĩratĩ yayo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "na nĩũngereta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũeme"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mũeme"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "na nĩũcangĩrĩrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcango yayo"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "mĩcango yayo"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "na nĩũngereta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũratĩri"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "mũratĩri"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "na nĩũringa mwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩratĩ yayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "mĩratĩ yayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:02.334345813Z",
+  "model": "glm-5.3"
+}

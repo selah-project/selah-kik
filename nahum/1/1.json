@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kĩroho kĩa Ninewe; kĩbuku kĩa kĩonekĩro kĩa Nahu, wa Erkoshi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "kĩroho"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kĩbuku"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "kĩonekĩro"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Nahu"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "wa Erkoshi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:37:10.321623689Z",
+  "model": "glm-5.3"
+}

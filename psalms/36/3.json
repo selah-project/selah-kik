@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Nĩgũkorwo anagembania mũene thĩinĩ wa ithenya rĩake, ndangĩona kĩhooto gĩake, kana kuĩmena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "anagembania"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mũene"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "thĩinĩ wa ithenya rĩake"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kũona"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kĩhooto gĩake"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "kũmena"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:12.715131726Z",
+  "model": "glm-5.3"
+}

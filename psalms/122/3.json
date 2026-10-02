@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 122,
+  "translation": "Yerucarayimu, ⟨rĩĩtwa⟩ ĩrĩa yombĩtwo, ta gĩtĩ kĩrĩa kĩhotoranĩte hamwe kĩrĩa kĩmwe.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "ĩrĩa yombĩtwo"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "ta gĩtĩ"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "kĩrĩa kĩhotoranĩte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kĩrĩa kĩmwe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:25.779723485Z",
+  "model": "glm-5.3"
+}

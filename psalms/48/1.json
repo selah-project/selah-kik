@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Kĩina, cebo, cia ciana cia Kora.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "cebo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cia ciana cia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:31.237100944Z",
+  "model": "glm-5.3"
+}

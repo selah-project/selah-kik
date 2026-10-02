@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Magĩithanagania rurimi rwao ta njoka; rũru rwa nyoka-njarũo rĩrĩ hasi ya mgambo wao. Cerakai.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Magĩithanagania"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rurimi rwao"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "rũru"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "rwa nyoka-njarũo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rĩrĩ hasi ya"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "mgambo wao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerakai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:28.495458041Z",
+  "model": "glm-5.3"
+}

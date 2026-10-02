@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩngĩmwagĩrĩirie hĩndĩ ĩyo ⟨את⟩ inyuĩ maũndũ mothe ⟨את⟩ arĩa mũkahĩtũkĩra.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "nĩngĩmwagĩrĩirie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyuĩ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hĩndĩ ĩyo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mũkahĩtũkĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:49.731854175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 139,
+  "translation": "o gĩtuiki ti kĩngĩhĩnganĩra we waku; na ũtukũ, ta mũthenya, nĩgũo gũkutherera — ta gĩtuiki, ta mũtheri.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gĩtuiki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "kĩngĩhĩnganĩra"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "we waku"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na ũtukũ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ta mũthenya"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "gũkutherera"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ta gĩtuiki"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ta mũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:32.833140659Z",
+  "model": "glm-5.3"
+}

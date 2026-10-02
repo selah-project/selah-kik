@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Thĩna ya wendo wakwa nĩmamanang'etheera; na nĩinĩ ⟨nĩ⟩ ngatiaro.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Thĩna ya"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "wendo wakwa"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "nĩmamanang'etheera"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩinĩ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ngatiaro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:47.523041364Z",
+  "model": "glm-5.3"
+}

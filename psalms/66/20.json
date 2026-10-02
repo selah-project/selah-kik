@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Erohimu arathimwo, ũrĩa ndadũũranĩriria thayo yakwa, na hecedi wake kuuma ⟨kũrĩ⟩ inyakwa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "arathimwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "dũũranĩriria"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thayo yakwa"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "na hecedi wake"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kuuma ⟨את⟩ inyakwa",
+      "marks": "inyakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:52.385864878Z",
+  "model": "glm-5.3"
+}

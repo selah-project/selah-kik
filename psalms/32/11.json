@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Ikenai thĩinĩ wa Yahwe, mũrĩranai, arĩa a cedeki; mũcoorire na gũkũiga gwanyu, andũ othe arĩa mĩtheri wa ngoro.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Ikenai"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "thĩinĩ wa Yahwe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mũrĩranai"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa a cedeki"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "mũcoorire na gũkũiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "andũ othe"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "mĩtheri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wa ngoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:33.157428066Z",
+  "model": "glm-5.3"
+}

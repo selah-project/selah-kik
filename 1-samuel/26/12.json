@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩrĩa Dawidi atekire ⟨את⟩ njora na ⟨את⟩ gĩcũhĩra kía mai kuuma kĩongo-inĩ kĩa Ceori, na magĩthiĩ maũndũ-inĩ mao; na gũtirĩ ũrĩa ona, na gũtirĩ ũrĩa menya, na gũtirĩ ũrĩa ĩkaũra, nĩgũkorwo othe mahota, nĩgũkorwo kũhota kwa kũrundũra kwa Yahwe nĩkwagĩĩrĩte igũrũ rĩao.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Nĩrĩa atekire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njora"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "njora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩcũhĩra kía mai"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "gĩcũhĩra"
+    },
+    {
+      "surface": "המים",
+      "gloss": "kía mai"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "kuuma kĩongo-inĩ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kĩa Ceori"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "na magĩthiĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maũndũ-inĩ mao"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ ũrĩa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ ũrĩa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "menya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ ũrĩa"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "ĩkaũra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "othe"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "mahota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "kũhota kwa kũrundũra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "nĩkwagĩĩrĩte"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ rĩao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:28:57.596891262Z",
+  "model": "glm-5.3"
+}

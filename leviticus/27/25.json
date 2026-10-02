@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na kĩgeranio gĩaku gĩothe kĩgĩte na cekeri ya ũtheru; mirongo ĩrĩ geraha nĩyo cekeri.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na gĩothe"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "kĩgeranio gĩaku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kĩgĩte"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "na cekeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya ũtheru"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo ĩrĩ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geraha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "cekeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:35.058473821Z",
+  "model": "glm-5.3"
+}

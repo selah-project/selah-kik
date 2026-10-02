@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Maharareru nĩaarĩtie miaka mĩrongo ithathatu na ithano, akaciara ⟨את⟩ Yeredi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nĩaarĩtie"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Maharareru"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mĩrongo ithathatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akaciara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeredi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:49.921501244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Mwathi-wa-mbeca arige indo ciothe irĩ ciake, na arĩa macokire kũhĩrĩria makorwo mathĩkĩte gĩthemba gĩake.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "arige"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "mwathi-wa-mbeca"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ciake"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "mathĩkĩte"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "arĩa macokire kũhĩrĩria"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "gĩthemba gĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:19.427764940Z",
+  "model": "glm-5.3"
+}

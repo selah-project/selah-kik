@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "⟨את⟩ Ariki na ⟨את⟩ mĩcara yayo, ⟨את⟩ kĩhohoreri, na ⟨את⟩ thari ya gũcukithia.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ariki"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Ariki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩcara yayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mĩcara yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhohoreri"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kĩhohoreri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thari ya gũcukithia"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "thari"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ya gũcukithia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:34.635644738Z",
+  "model": "glm-5.3"
+}

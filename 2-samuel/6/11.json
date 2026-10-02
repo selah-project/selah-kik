@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na aroni ya Yahwe ĩikarĩte thĩinĩ wa nyũmba ya Ocede-Edomu mũgikuni mĩeri ĩtatũ; na Yahwe nĩamũrathĩirie ⟨את⟩ Ocede-Edomu na ⟨את⟩ ndũmĩrĩre yake yothe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nĩĩikarĩte"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya Ocede-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "mũgikuni"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mĩeri"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nĩamũrathĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ocede-Edomu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ocede-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndũmĩrĩre yake yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndũmĩrĩre yake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:02.364062421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩamũrire ciana ciake atĩrĩ: Niikagũriria ndagũ yakwa; ciana ciake makĩgũriria ndagũ yake, nakĩamũkwo na kũigua igũrũ wayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "niikagũriria"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yakwa"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ndagũ"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "makĩgũriria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ndagũ"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "akĩamũkwo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:57:41.993819467Z",
+  "model": "glm-5.3"
+}

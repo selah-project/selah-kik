@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Farao akĩoya Moce, na akiuga: Thiai, thīnai ⟨את⟩ Yahwe; o ng'ombe na riũa rĩanyu rĩgatie; na aana anyu monie kũhiũ na inyui.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩoya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "thiai"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "thīnai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "o"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "riũa rĩanyu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "rĩgatie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "aana anyu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "monie kũhiũ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na inyui"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:21.238849074Z",
+  "model": "glm-5.3"
+}

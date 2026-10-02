@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 100,
+  "translation": "Menyai atĩ Yahwe nĩwe Erohimu; nĩwe ũtũĩte, na ti ithuĩ twĩitĩkĩrire mwĩrio; nĩigorũo nĩ andũ make, na ng'ombe cia kũricia kwake.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Menyai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Ũtũĩte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ make"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "cia kũricia kwake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:14.387579774Z",
+  "model": "glm-5.3"
+}

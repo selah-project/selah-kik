@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "na ⟨את⟩ Aemori, na ⟨את⟩ Akenaani, na ⟨את⟩ Agirigaci, na ⟨את⟩ Ayebuci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Aemori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Akenaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Agirigaci"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Agirigaci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ayebuci"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Ayebuci"
+    }
+  ],
+  "timestamp": "2026-10-01T20:36:07.684794532Z",
+  "model": "glm-5.3"
+}

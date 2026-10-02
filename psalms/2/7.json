@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩngũrĩria mũtaratara wa Yahwe: ananjĩrĩirie atĩrĩ, Mũrũ wakwa nĩwe ũrĩa nĩyĩ; ũmũthĩ nĩngakuĩririe.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "nĩngũrĩria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mũtaratara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ananjĩrĩirie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ ngĩĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe ũrĩa nĩyĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngĩĩ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "nĩngakuĩririe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:43.519402459Z",
+  "model": "glm-5.3"
+}

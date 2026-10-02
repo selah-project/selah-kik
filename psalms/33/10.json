@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Yahwe nĩecanjĩtie ⟨את⟩ mĩcĩrĩre ya ndũrĩrĩ, na nĩagĩtie kũgera mahũthagĩro ma andũ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "nĩecanjĩtie"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "mĩcĩrĩre"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya ndũrĩrĩ"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "nĩagĩtie kũgera"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mahũthagĩro"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ma andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:09.482685777Z",
+  "model": "glm-5.3"
+}

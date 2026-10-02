@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Ahitubu nĩamũcietie ⟨את⟩ Cadoki, na Cadoki nĩamũcietie ⟨את⟩ Ahimaaci.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "na Ahitubu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũcietie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoki"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoki"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "na Cadoki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩamũcietie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahimaaci"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaaci"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:50.830713030Z",
+  "model": "glm-5.3"
+}

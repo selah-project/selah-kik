@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩ nĩngĩthiururia mehia makwa, nĩngĩtũgwo nĩ ndaka nĩũndũ wa mahĩtia makwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mehia makwa"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nĩngĩthiururia"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "nĩngĩtũgwo nĩ ndaka"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "mahĩtia makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:44.883749679Z",
+  "model": "glm-5.3"
+}

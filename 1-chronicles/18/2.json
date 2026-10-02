@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Akĩũranĩria ⟨את⟩ Moabu, na Moabu makĩtuĩka atĩũri a Dawidi, arĩa maturutaga minaha.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akĩũranĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "makĩtuĩka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "atĩũri"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "a Dawidi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "arĩa maturutaga"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:15.736832332Z",
+  "model": "glm-5.3"
+}

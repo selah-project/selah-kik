@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Thĩinĩ wa kĩũmera mũhoti ndacemba; agĩcoora kĩtheri-inĩ, na kĩndũ gĩtirĩ.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "thĩinĩ wa kĩũmera"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mũhoti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "kũcemba"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "agĩcoora"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "kĩtheri-inĩ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na kĩndũ gĩtirĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:56:25.898417194Z",
+  "model": "glm-5.3"
+}

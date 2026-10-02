@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 14:22",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩgũkoruo arĩa andũ othe arĩa maonire ⟨את⟩ ũtheru wakwa na ⟨את⟩ ciŋanjĩrakwa irĩa ndĩreire Micirayimu na gĩatharũka-inĩ, makagerithia ⟨את⟩ ĩne-makwa mbere, ũndũ ũyũ mĩrongo ĩrĩ, matire haica mũgambo wakwa,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הראים",
+      "gloss": "arĩa maonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũtheru wakwa"
+    },
+    {
+      "surface": "כבדי",
+      "gloss": "ũtheru wakwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciŋanjĩrakwa"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ciŋanjĩrakwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndĩreire"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "gĩatharũka-inĩ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "makagerithia"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ĩne-makwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũndũ ũyũ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matire"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "haica"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mũgambo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:59:26.233429491Z",
+  "model": "glm-5.3"
+}

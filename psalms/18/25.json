@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Yahwe nĩacookirie harĩ wakwa ta cedeki yakwa, na mweru wa mĩriyo yakwa, mbere ya maitho make.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nĩacookirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "harĩ wakwa"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ta cedeki yakwa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "na mweru"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mĩriyo yakwa"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maitho make"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:05.015471823Z",
+  "model": "glm-5.3"
+}

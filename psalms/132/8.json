@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "Amũka, ee Yahwe, harĩ kũhũrũka kwakwa; wee na ⟨את⟩ Ciigũa cia hinya kwao.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Amũka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ee Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "harĩ kũhũrũka kwakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "na Ciigũa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "cia hinya kwao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:41.289546106Z",
+  "model": "glm-5.3"
+}

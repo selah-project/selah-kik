@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mahĩtia mũndũ auga na ⟨את⟩ mũrĩ wake; na mĩdomo ĩngĩũmbĩrĩirie, na ngoro na ngoro, cĩugaga.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Mahĩtia"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "augaga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrĩ wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mũrĩ wake"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mĩdomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ĩngĩũmbĩrĩirie"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na ngoro ĩmwe"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na ngoro ĩngĩ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "cĩugaga"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:12.877650548Z",
+  "model": "glm-5.3"
+}

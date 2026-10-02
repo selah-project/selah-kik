@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Abarahamu nĩmeeterie ⟨את⟩ ndathi cia ngereni njaa-itu cia ũndũgĩrĩru ithaanũ na ithano, wĩyũrĩtwo na cio.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "nĩmeeterie"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndathi cia ngereni njaa-itu ithaanũ na ithano"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ithaanũ na ithano"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ndathi cia ngereni njaa-itu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "cia ũndũgĩrĩru"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "wĩyũrĩtwo na cio"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:05.033098884Z",
+  "model": "glm-5.3"
+}

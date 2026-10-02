@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩngĩmũikara ta thera kwa Yiceraeri; nĩage njũa ta moũa, na mĩri yake ĩtambũraga ta ya Lebanoni.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "nĩngĩmũikara"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ta thera"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa Yiceraeri"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "nĩage njũa"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "ta moũa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ĩtambũraga"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "mĩri yake"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "ta ya Lebanoni"
+    }
+  ],
+  "timestamp": "2026-10-02T02:20:21.982561878Z",
+  "model": "glm-5.3"
+}

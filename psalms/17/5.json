@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Ũcokanĩrĩirie mĩcocoi yakwa thĩinĩ wa mĩcokia yaku, tĩ kwoguo magũrũ makwa makwa macokerete kũnyambĩra.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Ũcokanĩrĩirie"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mĩcocoi yakwa"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "thĩinĩ wa mĩcokia yaku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tĩ kwoguo"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "ti macokerete kũnyambĩra"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "magũrũ makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:28.707495696Z",
+  "model": "glm-5.3"
+}

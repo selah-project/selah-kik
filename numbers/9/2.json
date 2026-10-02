@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na aana a Yiceraeri nao nyithe ⟨את⟩ Peca mũthenya wayo ũteithanĩtie:",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nyithe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peca"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Peca"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "mũthenya wayo ũteithanĩtie"
+    }
+  ],
+  "timestamp": "2026-10-01T21:57:11.008806236Z",
+  "model": "glm-5.3"
+}

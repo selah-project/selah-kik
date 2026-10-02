@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Akĩhumbũra ⟨את⟩ igooti rĩa maki, na akĩcatanithia ⟨את⟩ yĩmweĩrĩ nĩithigũ ĩcyake.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "akĩhumbũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igooti rĩa maki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "igooti rĩa maki"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "akĩcatanithia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yĩmweĩrĩ nĩithigũ ĩcyake"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "nĩithigũ ĩcyake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:29:29.210963551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Nĩkĩhe tha, Erohimu, nĩgũkorwo mũndũ muru ũrarĩma kũnyamata; mũthenya wothe agĩcũrania, ⟨ũngĩ⟩gũteithĩria ũngĩhũnjia.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nĩkĩhe tha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ũrarĩma kũnyamata"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "mũndũ muru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "agĩcũrania"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "ũngĩhũnjia"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:19.815560801Z",
+  "model": "glm-5.3"
+}

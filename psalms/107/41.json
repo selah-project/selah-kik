@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Nake wonjie mũthingu akĩmũigua kũinanuo, na akĩmũthondora ndungata ta riũa.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "akĩmũigua kũinanuo"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "kũinanuo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akĩmũthondora"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ta riũa"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ndungata"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:24.597738002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩwe mũcedeki, Yahwe, na ciira ciaku nĩ injeru.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "injeru"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ciira ciaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:50.065063495Z",
+  "model": "glm-5.3"
+}

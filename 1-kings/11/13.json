@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "No gũtua ⟨את⟩ ũthamaki wothe ndĩngĩcenya; ciĩmwe nĩngĩhe mũrũ waku, nĩ ũndũ wa Dawidi mũcerebi wakwa, na nĩ ũndũ wa Yerucarayimu ĩrĩa ndĩyathĩire.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "no gũtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthamaki wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "cenya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ciĩmwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nĩngĩhe"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "mũrũ waku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mũcerebi wakwa"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "na nĩ ũndũ wa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndĩyathĩire"
+    }
+  ],
+  "timestamp": "2026-10-01T23:56:21.243999322Z",
+  "model": "glm-5.3"
+}

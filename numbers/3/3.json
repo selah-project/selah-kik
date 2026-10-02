@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ici nĩ cĩĩtwa cia aana a Aharoni, acohani amacioakĩtwo, arĩa wokĩrwo moko mao gũtua koheni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "cĩĩtwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "acohani"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "amacioakĩtwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wokĩrwo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "gũtua koheni"
+    }
+  ],
+  "timestamp": "2026-10-02T06:18:12.913701143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "translation": "Nĩmanĩng'ũrĩte thĩinĩ wakwa ta maaĩ mũthenya wothe; magĩkorota igũrũ rĩakwa hamwe.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "nĩmanĩng'ũrĩte thĩinĩ wakwa"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ta maaĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "magĩkorota"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rĩakwa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:18.973590921Z",
+  "model": "glm-5.3"
+}

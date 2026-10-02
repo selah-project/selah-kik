@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Arĩa ma thũ nakwa makĩnyamanyia mũthenya wothe; nĩgũkorwo nĩ aingĩ mahota kũrwa mbaara nakwa, Erohimu wa igũrũ.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "makĩnyamanyia"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "arĩa ma thũ nakwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aingĩ"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "mahota kũrwa mbaara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Erohimu wa igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:35.242045184Z",
+  "model": "glm-5.3"
+}

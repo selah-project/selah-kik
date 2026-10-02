@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Mawĩra ma makũrũ make nĩ ũma na ciira; mawatho make othe nĩ mahinya.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "mawĩra"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ma makũrũ make"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ũma"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "na ciira"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "nĩ mahinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "mawatho make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:57.720028533Z",
+  "model": "glm-5.3"
+}

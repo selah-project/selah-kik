@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 4:6",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na maikorera igũrũ rĩake gĩthingo rĩa gĩthangĩ rĩa tahaci, na matanjia cĩego kĩothe kĩa tekerethi kuuma igũrũ, na makorera mĩgũrwa yake.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "maikorera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "gĩthingo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "rĩa gĩthangĩ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahaci"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "matanjia"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "cĩego"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kĩothe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekerethi"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "makorera"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mĩgũrwa yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:38.371067804Z",
+  "model": "glm-5.3"
+}

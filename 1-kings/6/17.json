@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na mĩrongo inĩ ama nĩo cia ũrahu wa ⟨the⟩ nyumba; ũcio nĩyo heikari irĩa ikuhĩte ⟨the⟩ mbere ya yo.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "na mĩrongo inĩ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩo cia"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio nĩyo"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    }
+  ],
+  "timestamp": "2026-10-01T23:50:50.048723062Z",
+  "model": "glm-5.3"
+}

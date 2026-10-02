@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Tondũ ti mũra-inĩ wakwa nĩngĩhoka, na kahi wakwa ndũngĩteithia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tondũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "mũra-inĩ wakwa"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nĩngĩhoka"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "na kahi wakwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũngĩ"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "teithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:32.677050062Z",
+  "model": "glm-5.3"
+}

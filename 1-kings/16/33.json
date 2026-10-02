@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 16:33",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na Ahabu ameire ⟨את⟩ Ashera; na Ahabu ongire gũthia kũũruithia ⟨את⟩ Yahwe, Erohimu wa Yiceraeri, kũingĩha makĩrĩa mĩthamaki yothe ya Yiceraeri ĩrĩa ĩarĩ mbere yakĩo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ameire"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ongire"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũthia"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "kũũruithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "makĩrĩa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mĩthamaki yothe ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ĩarĩ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yakĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:56.861710519Z",
+  "model": "glm-5.3"
+}

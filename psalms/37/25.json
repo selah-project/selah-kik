@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Mũriti nĩngĩarĩirie, na ũkuũ nĩndĩmenyete age, na ndĩona mũcederi atigwo, kana hicĩ yake ĩthakaga mĩgate.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "mũriti"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩngĩarĩirie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ũkuũ nĩndĩmenyete age"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ona"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcederi"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "atigwo"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "kana hicĩ yake"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ĩthakaga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mĩgate"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:35.098806001Z",
+  "model": "glm-5.3"
+}

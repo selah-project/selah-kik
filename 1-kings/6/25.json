@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na kerubu ya kerubu iya ya kerĩ nĩ mĩthero ikũmi kuuma ama; mĩthero ĩmwe na mũthingo ũmwe warĩ wa kerubu icio ĩĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kuuma ama"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerubu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iya ya kerĩ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "mĩthero"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "na mũthingo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "wa ĩrĩ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubu icio"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:46.208235440Z",
+  "model": "glm-5.3"
+}

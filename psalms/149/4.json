@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 149,
+  "translation": "Nĩgũkorwo Yahwe enda andũ ake; nĩguo ahoorithie arĩa mahũthĩririo na cokio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "enda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "nĩguo ahoorithie"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "arĩa mahũthĩririo"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "na cokio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:34.747295779Z",
+  "model": "glm-5.3"
+}

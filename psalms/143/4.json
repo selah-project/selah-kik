@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 143,
+  "translation": "Na ruaki yakwa ĩnyiitĩte hinya thĩinĩ wakwa; ngoro yakwa nĩyĩrorete muno thĩinĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "ĩnyiitĩte hinya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaki yakwa"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "nĩyĩrorete"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ngoro yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:18.610844049Z",
+  "model": "glm-5.3"
+}

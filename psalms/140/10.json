@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 140,
+  "translation": "Mũtwe wa arĩa makoragwo makũruta ng'ania, wĩraricio wa mmoko mao nĩũmũriga.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "mũtwe"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "arĩa makoragwo makũruta ng'ania"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wĩraricio"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "mmoko mao"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "nĩũmũriga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:17.368370174Z",
+  "model": "glm-5.3"
+}

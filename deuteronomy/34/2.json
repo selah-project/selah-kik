@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "na ⟨את⟩ Nafutari yothe, na ⟨את⟩ thĩ ya Efirayimu na ya Manace, na ⟨את⟩ thĩ ya Yehuda yothe, nginya iria iyo mũthia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Nafutari yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Nafutari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thĩ ya Efirayimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efirayimu"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "na ya Manace"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thĩ ya Yehuda yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "iyo mũthia"
+    }
+  ],
+  "timestamp": "2026-10-01T22:38:00.204220759Z",
+  "model": "glm-5.3"
+}

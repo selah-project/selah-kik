@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 99,
+  "translation": "Inũiithieni Yahwe Erohimu witũ, na mũguũcĩrere harĩa marĩngũ ciake ĩthagĩrũo; ni Mũtheru.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Inũiithieni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "na mũguũcĩrere"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "harĩa marĩngũ ciake ĩthagĩrũo"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "marĩngũ ciake"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mũtheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:17.075774905Z",
+  "model": "glm-5.3"
+}

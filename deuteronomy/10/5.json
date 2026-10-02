@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩcookerire, ndĩrĩka kuuma kĩrĩma-inĩ, ndĩika ⟨את⟩ mbocĩ thĩinĩ wa aroni iria nĩndeekire, irĩa ciakoragwo kuo, ta ũrĩa Yahwe antĩire.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "nĩcookerire"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ndĩrĩka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ndĩika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbocĩ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mbocĩ"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "aroni-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nĩndeekire"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "antĩire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:21:59.842296856Z",
+  "model": "glm-5.3"
+}

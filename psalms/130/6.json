@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Mũoyo wakwa ũteereera Adonai, gũkĩra arĩa maheanĩrĩo ũtheri; ee, arĩa maheanĩrĩo ũtheri kĩtheri.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "arĩa maheanĩrĩo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "arĩa maheanĩrĩo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ũtheri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:15.411561661Z",
+  "model": "glm-5.3"
+}

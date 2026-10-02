@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na Pelicitim makĩriya thutha wa Cauru na thutha wa ciana ciake, Pelicitim makĩua ⟨את⟩ Yonatani na ⟨את⟩ Abinadabu na ⟨את⟩ Macikicua, aana a Cauru.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "makĩriya thutha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelicitim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauru"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na thutha wa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makĩua"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelicitim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abinadabu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Macikicua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Macikicua"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Macikicua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Cauru"
+    }
+  ],
+  "timestamp": "2026-10-02T05:27:28.569704366Z",
+  "model": "glm-5.3"
+}

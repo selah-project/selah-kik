@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Nĩgũkorwo rĩrĩ, thũ ciao ciahũmĩrĩirie, na arĩa mamenete nĩmatirĩire matu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "thũ ciao"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ciahũmĩrĩirie"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "na arĩa mamenete"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nĩmatirĩire"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "matu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:14.367713681Z",
+  "model": "glm-5.3"
+}

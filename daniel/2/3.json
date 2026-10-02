@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũthamaki akiuga arĩ: Ndoto nĩndĩonire, na ruaki wakwa nĩĩtigithanie, ndĩmwendere ⟨את⟩ ndoto ĩyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Ndoto"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nĩndĩonire"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "nĩĩtigithanie"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaki wakwa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ndĩmwendere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndoto ĩyo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ndoto ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:50:55.412080612Z",
+  "model": "glm-5.3"
+}

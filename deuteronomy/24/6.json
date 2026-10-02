@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Mahiga ma kũina na rũhingo rwao ndimacokanĩrwo nĩ kĩhooto; nĩ mũoyo wa mũndũ ũrĩa wacokanĩrwo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "cokanĩrwo kĩhooto"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "mahiga ma kũina"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "na rũhingo rwao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "acokanĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:41.592485129Z",
+  "model": "glm-5.3"
+}

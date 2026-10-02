@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Wa Dawidi, kĩina kĩa ngwatari. Yahwe nĩ mwene thĩ na yothe irĩ thĩinĩ wake, thĩ ya andũ na arĩa methiaga-inĩ makĩrũa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩina kĩa ngwatari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "na yothe irĩ thĩinĩ wake"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ ya andũ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na arĩa methiaga-inĩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "makĩrũa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.264620360Z",
+  "model": "glm-5.3"
+}

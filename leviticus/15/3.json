@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na ũyũ nĩguo ũtheru wake harĩ ũgũrũku wake: rĩrĩa mwĩiri wake wĩgũrũkĩtie ⟨את⟩ ũgũrũku wake, kana mwĩiri wake wĩhĩtigĩtie kuuma ũgũrũku wake, ũcio nĩguo ũtheru wake.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Na ũyũ nĩguo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ũtheru wake"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "harĩ ũgũrũku wake"
+    },
+    {
+      "surface": "רר",
+      "gloss": "wĩgũrũkĩtie"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mwĩiri wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgũrũku wake"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ũgũrũku wake"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "wĩhĩtigĩtie"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mwĩiri wake"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "kuuma ũgũrũku wake"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ũtheru wake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio nĩguo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:38:40.550461666Z",
+  "model": "glm-5.3"
+}

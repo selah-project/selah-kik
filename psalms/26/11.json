@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na rĩ, nĩngienderera na mmwagĩro wakwa; ndũkĩhote ndũngĩhote — rora niũ na thayũ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na rĩ"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "na mmwagĩro wakwa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nĩngienderera"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ndũkĩhote ndũngĩhote"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "rora niũ na thayũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.700691990Z",
+  "model": "glm-5.3"
+}

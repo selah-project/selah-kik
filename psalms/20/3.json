@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Athingĩrie ũteithĩku waku kuuma kũtherũ kwa Micikani, na kuuma Ciyoni akũteithĩkie;",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "athingĩrie"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ũteithĩku waku"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "kuuma kũtherũ kwa Micikani"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "na kuuma Ciyoni"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "akũteithĩkie"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:44.209788885Z",
+  "model": "glm-5.3"
+}

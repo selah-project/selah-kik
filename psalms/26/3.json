@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩrĩkua hecedi waku nĩ mbere ya macho makwa, na nĩngĩenderera thĩinĩ wa amarũngĩku waku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩkua"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "macho makwa"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "na nĩngĩenderera"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "thĩinĩ wa amarũngĩku waku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:50.004664450Z",
+  "model": "glm-5.3"
+}

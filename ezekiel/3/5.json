@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩgũkorwo ti kũrĩ andũ a mĩraya ya mathaga na mĩnyũrũ ya rurimi nĩwe ũrũtwo, no kũrĩ nyũmba ya Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "mĩraya"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "mathaga"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "na mĩnyũrũ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "ũrũtwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:48:08.831297781Z",
+  "model": "glm-5.3"
+}

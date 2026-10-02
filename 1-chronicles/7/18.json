@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na mwarĩ wake Hamorekethi arathimĩra ⟨את⟩ Icihodi, na ⟨את⟩ Abiyezeri, na ⟨את⟩ Mahara.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Na mwarĩ wake"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamorekethi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "arathimĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Icihodi"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Icihodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abiyezeri"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiyezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Mahara"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahara"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:24.505521166Z",
+  "model": "glm-5.3"
+}

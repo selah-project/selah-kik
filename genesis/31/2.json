@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Yaakobu anyitire kũona ⟨את⟩ cihaarĩre cia Rabani, na rũciũ, nĩtigũkũona hamwe na ũyũ ta hĩndĩ ya kuuma mĩthenya ĩrĩ ĩrĩa igũrũ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "anyitire kũona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihaarĩre cia Rabani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "cihaarĩre"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũciũ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nĩtigũkũona"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe na ũyũ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ta hĩndĩ ya kuuma"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "mĩthenya ĩrĩ ĩrĩa igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:08:59.905927984Z",
+  "model": "glm-5.3"
+}

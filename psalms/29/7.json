@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Kĩgũ kĩa Yahwe nĩkĩgemete mĩthingi ya mũaki.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kĩgũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "nĩkĩgemete"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "mĩthingi ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:55.222121573Z",
+  "model": "glm-5.3"
+}

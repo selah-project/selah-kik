@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũthenya ũcio, nĩngĩĩgereria Eri ⟨את⟩ o kĩndũ kĩrĩa ndĩnoigĩte kwa nyũmba yake — kambanyi na kũmĩra kũigana.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũcio-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nĩngĩĩgereria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o kĩndũ kĩrĩa ndĩnoigĩte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndĩnoigĩte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kambanyi"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "kũmĩra kũigana"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:02.871898773Z",
+  "model": "glm-5.3"
+}

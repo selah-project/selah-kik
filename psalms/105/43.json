@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Akĩhĩtũkia andũ ake na gĩkeno, ⟨את⟩ arĩa aathuurĩte na kĩgũũro kĩa gwĩgĩa.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "akĩhĩtũkia"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "na gĩkeno"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "kĩgũũro kĩa gwĩgĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa aathuurĩte"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "arĩa aathuurĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:47.342296537Z",
+  "model": "glm-5.3"
+}

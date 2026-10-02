@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 61,
+  "translation": "Kũrĩ mũcũranji, thĩinĩ wa nyĩmbo cia minyorerete, ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcũranji"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "nyĩmbo cia minyorerete"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:37.692454520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Matinaũkuithia ⟨את⟩ mĩndũ yothe ya ndũrĩrĩ, iria Yahwe aronokia atĩrĩrĩria ho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "naũkuithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩndũ yothe ya ndũrĩrĩ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mĩndũ yothe ya ndũrĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aronokia atĩrĩrĩria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:38.066050153Z",
+  "model": "glm-5.3"
+}

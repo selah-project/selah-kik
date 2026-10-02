@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 129,
+  "translation": "Muno nĩmanjũhĩtie kuuma mĩtĩkũ cianjũ — no matihekĩte kũnyihania.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Muno"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "nĩmanjũhĩtie"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kuuma mĩtĩkũ cianjũ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "matihekĩte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kũnyihania"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:52.303152852Z",
+  "model": "glm-5.3"
+}

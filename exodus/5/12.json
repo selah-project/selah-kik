@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Andũ nĩmaambatĩrĩirie harĩ o thĩ yothe ya Micirayimu, mathiĩ kũinũra mũcũthi kana ũthũ.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "nĩmaambatĩrĩirie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "harĩ o"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "kũinũra"
+    },
+    {
+      "surface": "קש",
+      "gloss": "mũcũthi"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "kana ũthũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:34.141341530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 97,
+  "translation": "Mũranyũ ũrĩ mbere yakwa nĩũmbatagĩra; na ũũthagĩte mĩena yothe arĩa mamũthamakĩra hanini andũ ake arĩa ma muhĩte.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "mũranyũ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "nĩũmbatagĩra"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "na ũũthagĩte"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mĩena yothe"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "arĩa mamũthamakĩra hanini andũ ake arĩa ma muhĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:18.700459232Z",
+  "model": "glm-5.3"
+}

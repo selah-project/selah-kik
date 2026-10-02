@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 114,
+  "translation": "Ee mirĩma, nĩkĩ mwarĩkĩraga ta ng'ondu? Na mabere, ta kana cia ng'ondu?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "mirĩma"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "mwarĩkĩraga"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ta ng'ondu"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mabere"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ta kana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "cia ng'ondu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:09.032679626Z",
+  "model": "glm-5.3"
+}

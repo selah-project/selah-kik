@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Nĩĩno Yahwe; nĩguo rĩĩtwa rĩakwa; ũrata wakwa ndĩhahe andũ angĩ, na kũgoco gwakwa ndĩhahe ngai cia mĩhianano.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩĩno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "rĩĩtwa rĩakwa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ũrata wakwa"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "andũ angĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩhahe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kuha kana ndĩhahe"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "na kũgoco gwakwa"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "ngai cia mĩhianano"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:51.183705193Z",
+  "model": "glm-5.3"
+}

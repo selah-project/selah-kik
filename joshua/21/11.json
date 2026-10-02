@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na maheanite ⟨את⟩ Kiryati Arba, ithe wa Anaki — nĩyo Hebroni — thĩinĩ wa kĩrĩma gia Yehuda, na ⟨את⟩ mĩcĩĩ yayo ĩrĩa ĩringĩ ihũtĩte.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "maheanite"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryati Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryati"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wa"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anaki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩyo"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebroni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thĩinĩ wa kĩrĩma"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "gia Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcĩĩ yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩcĩĩ yayo ĩrĩa ĩringĩ ihũtĩte"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ĩrĩa ĩringĩ ihũtĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:36.732829785Z",
+  "model": "glm-5.3"
+}

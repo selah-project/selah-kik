@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩgũkorwo ⟨את⟩ kĩgĩrĩki kĩa mũtigithi wake, na ⟨את⟩ mũthīngĩ wa ngongo wake, ũthīngi wa mũrothi ũmũroria, nũcirihĩtire ta mũthenya wa Midiani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgĩrĩki kĩa mũtigithi wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kĩgĩrĩki"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "kĩa mũtigithi wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũthīngĩ wa ngongo wake"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũthīngĩ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "wa ngongo wake"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ũthīngi"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "wa mũrothi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ũmũroria"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "nũcirihĩtire"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ta mũthenya"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midiani"
+    }
+  ],
+  "timestamp": "2026-10-02T00:28:57.218863528Z",
+  "model": "glm-5.3"
+}

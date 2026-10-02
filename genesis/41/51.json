@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Yocifu akĩhoota rĩĩtwa rĩa mũcere wa mbere Menache, nĩgũkorwo Erohimu nĩanĩmakĩra ⟨את⟩ gweterera kwakwa kuonania meciria macio mothe na ⟨את⟩ nyũmba ya ithe witũ yothe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "mũcere wa mbere"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menache"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "nĩanĩmakĩra gweterera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "kuonania meciria makwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:53:33.651059876Z",
+  "model": "glm-5.3"
+}

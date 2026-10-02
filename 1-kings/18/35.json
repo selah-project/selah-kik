@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Maĩ nĩmagĩthiĩ metharo-inĩ wa kĩonererio, na o na ⟨את⟩ kabari akĩĩcĩra maĩ.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "nĩmagĩthiĩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "metharo-inĩ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "wa kĩonererio"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabari"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "kabari"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "akĩĩcĩra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:02:30.394751671Z",
+  "model": "glm-5.3"
+}

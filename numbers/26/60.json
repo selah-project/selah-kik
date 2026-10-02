@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na Aharoni aciarĩirwo ⟨את⟩ Nadabi na ⟨את⟩ Abihuwi, ⟨את⟩ Ereazari na ⟨את⟩ Ithamari.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "aciarĩirwo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Na Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abihuwi"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihuwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ereazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ereazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ithamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Ithamari"
+    }
+  ],
+  "timestamp": "2026-10-01T22:08:18.370574830Z",
+  "model": "glm-5.3"
+}

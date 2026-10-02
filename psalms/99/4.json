@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 99,
+  "translation": "Na hinya wa mũthamaki wendaga ciira; wee ũthinganjĩrĩrie ũthingu, ciira na cedeki harĩ Yaakobu wee ũkaĩte.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "na hinya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wendaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ũthinganjĩrĩrie"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ũthingu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "harĩ Yaakobu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ũkaĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:43.223088123Z",
+  "model": "glm-5.3"
+}

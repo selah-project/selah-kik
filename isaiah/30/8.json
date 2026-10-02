@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Rĩĩa nĩ ũgĩthiĩ, ũandĩke ũũ thĩinĩ wa mbao hamwe na ⟨את⟩ acio, na thĩinĩ wa ibuku ũũranĩrie; na ithũĩre ĩkamenyekana mũthenya wa mũthia, kwa ithũa, tene na tene.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Rĩĩa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ũgĩthiĩ"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "ũandĩke"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hamwe na ⟨את⟩",
+      "marks": "acio"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ũũranĩrie"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "na ithũĩre"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "mũthia"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kwa ithũa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tene"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T06:37:33.825395324Z",
+  "model": "glm-5.3"
+}

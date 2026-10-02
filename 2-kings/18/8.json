@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Mwe nĩnĩaũrire ⟨את⟩ Piritini gĩkĩro kĩa Aca na ⟨את⟩ mĩcanĩre yakuo, kuuma mũtheri wa arĩa maamenaga gĩkĩro kĩa gĩtũũku kĩa kũhĩngithania.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Mwe"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nĩnĩaũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Piritini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Piritini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩro kĩa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩcanĩre yakuo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "mĩcanĩre yakuo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kuuma mũtheri wa"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "arĩa maamenaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩro"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gĩtũũku"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "kĩa kũhĩngithania"
+    }
+  ],
+  "timestamp": "2026-10-02T00:17:36.284248896Z",
+  "model": "glm-5.3"
+}

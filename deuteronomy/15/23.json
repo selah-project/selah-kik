@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "O thĩinĩ ha thĩ ũmwe: thĩra ⟨את⟩ magũrũ make ndũrarĩe; thĩ igũrũ nthĩnĩ ũcithieka ta maaĩ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magũrũ make"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũrarĩe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "rarĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ igũrũ nthĩnĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ũcithieka"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ta maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:23:59.383999566Z",
+  "model": "glm-5.3"
+}

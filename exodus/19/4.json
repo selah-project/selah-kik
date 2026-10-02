@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Nĩmĩmoniye iria nĩndĩĩcire Micirayimu, na ndĩngũbarire ⟨את⟩ inywe thĩinĩ wa mahũa ma therũ, ndĩngũcoka ngĩĩra ⟨את⟩ inywe kũrĩ inywe ithuĩ.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Nĩmĩ"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "moniye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ira"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nĩndĩĩcire"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ndĩngũbarire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mahũa ma"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "therũ"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ndĩngũcoka ngĩĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ inywe ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:10:34.649980860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na mũnyagũ nĩgũcoka thĩinĩ wa thĩ o ũrĩa waitĩ, na ruaki nĩgũcoka kũrĩ Erohimu Ũrĩa ũĩhoire.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nĩgũcoka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mũnyagũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "o ũrĩa waitĩ"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "na ruaki"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "nĩgũcoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ũĩhoire"
+    }
+  ],
+  "timestamp": "2026-10-02T04:45:12.893568465Z",
+  "model": "glm-5.3"
+}

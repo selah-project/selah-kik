@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na akĩgeria hecedi kũ mĩrĩnga igĩrĩ kenda-inĩ, harĩ arĩa makunda we, na arĩa maikaragia marĩcumĩte mĩtaratara yakĩo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "na akĩgeria"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kũ mĩrĩnga igĩrĩ kenda-inĩ"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "harĩ arĩa makunda we"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "na arĩa maikaragia marĩcumĩte"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mĩtaratara yakĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:18:15.769686226Z",
+  "model": "glm-5.3"
+}

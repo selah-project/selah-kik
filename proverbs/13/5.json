@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mũcedeki nĩameneta kiugo kĩa kihunĩru, na mũoni nĩhoota mũnũrũ na nĩhoota ithoni.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kĩa kihunĩru"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nĩameneta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "na mũoni"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "nĩhoota mũnũrũ"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "na nĩhoota ithoni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:52:01.301878549Z",
+  "model": "glm-5.3"
+}

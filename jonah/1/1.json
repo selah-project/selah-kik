@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgũkĩra kiugo kĩa Yahwe kwa Yona, mũrũ wa Amitai, kĩugaga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgũkĩra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kĩugaga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:32:42.902134086Z",
+  "model": "glm-5.3"
+}

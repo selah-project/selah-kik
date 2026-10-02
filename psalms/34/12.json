@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Ũkai ciana, mũiguithanie ithũi; kũmenya kwa Yahwe nĩngũrute.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ũkai"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mũiguithanie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ithũi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kũmenya kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "nĩngũrute"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:37.722691115Z",
+  "model": "glm-5.3"
+}

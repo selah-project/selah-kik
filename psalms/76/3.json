@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 76,
+  "translation": "Na kwa Caremu nĩkuo kĩhanda gĩake kĩrĩ, na kũu kwa Cioni gĩa kũikarĩra kwake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na kĩrĩ"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "kwa Caremu"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "kĩhanda gĩake"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "gĩa kũikarĩra kwake"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "kũu kwa Cioni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:35.962948944Z",
+  "model": "glm-5.3"
+}

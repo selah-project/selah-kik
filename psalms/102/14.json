@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩgũkorwo ũciare, ũcirithie Ciyoni; nĩ ĩhinda rĩa kũmũhe ũtugi, nĩ ĩhinda rĩa kũhiũrĩtwo kĩrĩĩra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "nĩũciare"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "nĩũcirithie"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ĩhinda"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "rĩa kũhe ũtugi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kĩrĩĩra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ĩhinda rĩa kũhiũrĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:03.044803825Z",
+  "model": "glm-5.3"
+}

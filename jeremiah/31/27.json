@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Rarua! Mĩthenya ĩrakwĩra, Yahwe oigĩte, na nĩngĩrahĩra ⟨את⟩ nyũmba ya Yiceraeri na ⟨את⟩ nyũmba ya Yehuda, mbegu ya mũndũ na mbegu ya nyamũ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rarua"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ĩrakwĩra"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "na nĩngĩrahĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yiceraeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbegu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya mũndũ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "na mbegu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ya nyamũ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:20:35.055424919Z",
+  "model": "glm-5.3"
+}

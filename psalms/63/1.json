@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Kĩĩganĩro kĩa Dawidi, rĩrĩa aarĩ thĩinĩ wa gĩthaka ya Yuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩĩganĩro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "rĩrĩa aarĩ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "thĩinĩ wa gĩthaka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:24.087169607Z",
+  "model": "glm-5.3"
+}

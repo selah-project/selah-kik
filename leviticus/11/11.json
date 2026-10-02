@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na cionagwo na kĩmenanio kanyu; nyama yacio ndĩmũrĩrirwo kũria, na ⟨את⟩ ikuu ciacio mũmenanagia.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Na kĩmenanio"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "cionagwo na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanyu"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nyama yacio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mũrĩrirwo kũria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ikuu ciacio"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ikuu ciacio"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "mũmenanagia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:15.891873895Z",
+  "model": "glm-5.3"
+}

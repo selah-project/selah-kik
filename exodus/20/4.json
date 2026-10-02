@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Ndũkahũra kĩrĩcanĩro kana kĩhaito kĩa o kĩndũ kĩrĩa kĩrĩ igũrũ rĩa thĩ kwerũ, kana kĩrĩa kĩrĩ aratĩ-inĩ kwa thĩ na kwerũ, kana kĩrĩa kĩrĩ mĩena-inĩ ya thĩ thĩinĩ wa aratĩ kwa thĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kahũra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rĩ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "kĩrĩcanĩro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kana kĩa o kĩndũ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "kĩhaito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "igũrũ rĩa thĩ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kwerũ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kana kĩrĩa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "aratĩ-inĩ kwa thĩ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na kwerũ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kana kĩrĩa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mĩena-inĩ ya thĩ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "aratĩ kwa thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:03.333854936Z",
+  "model": "glm-5.3"
+}

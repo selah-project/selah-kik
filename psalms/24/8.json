@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Ũhĩde thoona yaku kuuma ihĩtia riakwa; na ihĩtia riakwa riothe ũreetũre.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Ũhĩde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thoona yaku"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "kuuma ihĩtia riakwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "riothe"
+    },
+    {
+      "surface": "עונותי",
+      "gloss": "ihĩtia riakwa"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ũreetũre"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:48.377074870Z",
+  "model": "glm-5.3"
+}

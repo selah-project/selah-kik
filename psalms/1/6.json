@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgũkorwo Yahwe amenyaga thĩ ⟨ya⟩ arĩa a cedeki, na thĩ ya arĩa marĩ na ũguna nĩgũiyũra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "amenyaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya arĩa a cedeki"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya arĩa marĩ na ũguna"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "nĩgũiyũra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:47.185062095Z",
+  "model": "glm-5.3"
+}

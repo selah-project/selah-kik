@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na ng'ombe na mũnyamu mũnene wa gĩthaka nĩcĩhĩjagĩra hamwe; ciana cacio nĩciikarĩra hamwe; na mũnyamu mũnene nĩarĩa mũkũ ta ng'ombe.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "na mũnyamu mũnene wa gĩthaka"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "nĩcĩhĩjagĩra"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "nĩciikarĩra"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ciana cacio"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "na mũnyamu mũnene"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "ta ng'ombe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nĩarĩa"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "mũkũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:31:14.579445354Z",
+  "model": "glm-5.3"
+}

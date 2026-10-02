@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na rĩrĩa maathii magũcooka kuuma irathĩro, makĩona kĩanja thĩ ya Cinara, nacikarĩra kuo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩguoikarĩte"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "rĩrĩa maathii"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kuuma irathĩro"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "makĩona"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Cinara"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "nacikarĩra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:55.757972530Z",
+  "model": "glm-5.3"
+}

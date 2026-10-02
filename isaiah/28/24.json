@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Nĩ arĩmirĩũ arĩma mũthenya wothe athondeke kũrĩa mbembe? Nĩagatũũra na kũhũngũra gĩthaka kaye mũthenya wothe?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "mũthenya wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "arĩma"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "arĩmirĩũ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "athondeke kũrĩa mbembe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "agatũũra"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "na kũhũngũra"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "gĩthaka kaye"
+    }
+  ],
+  "timestamp": "2026-10-02T00:37:24.724881014Z",
+  "model": "glm-5.3"
+}

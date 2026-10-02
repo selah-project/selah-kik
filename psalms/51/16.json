@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ũrũmĩrie kwa thi cia thakame nakwa, Erohimu, Erohimu wa ng'arũro yakwa, na rurimi rwakwa rwarũme cedeki yaku.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ũrũmĩrie"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "kwa thi cia thakame"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ng'arũro yakwa"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "rwarũme"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "rurimi rwakwa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "cedeki yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:16.071512101Z",
+  "model": "glm-5.3"
+}

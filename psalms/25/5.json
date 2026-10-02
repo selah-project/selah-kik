@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ndĩhĩagĩrĩrie mũhandanĩ-inĩ wa ma yaku, ũndĩreithie, nĩgũkoona nĩwe Erohimu wa gũteithia wanjĩ; ⟨את⟩ Wewe ndĩnyitithagĩra mũthenya wothe.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "ndĩhĩagĩrĩrie"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "mũhandanĩ-inĩ wa ma yaku"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ũndĩreithie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wa gũteithia wanjĩ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Wewe arĩa ndĩnyitithagĩra"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndĩnyitithagĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:39.175455120Z",
+  "model": "glm-5.3"
+}

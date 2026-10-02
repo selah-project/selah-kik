@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 18:29",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nĩndũ mũndũ o wothe ũrĩa ũkaaria ha maũndũ macio mothe ma kũinoĩwo, mĩoyo ĩrĩa ciarĩra macio nĩcihoorerwo kuuma hagati ya andũ ao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩndũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ũkaaria"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "maũndũ ma kũinoĩwo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "nĩcihoorerwo"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "mĩoyo"
+    },
+    {
+      "surface": "העשת",
+      "gloss": "ĩrĩa ciarĩra"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kuuma hagati"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ya andũ ao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:39:47.209392763Z",
+  "model": "glm-5.3"
+}

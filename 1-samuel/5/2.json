@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na Pelifitimi magĩcira ⟨את⟩ aroni rĩa Erohimu, makĩyithura ⟨אתו⟩ nyũmba ya Dagoni, na mahĩtwo ⟨אתו⟩ hakuhi na Dagoni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "magĩcira"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelifitimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni rĩa Erohimu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "rĩa Erohimu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "makĩyithura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nyũmba ya Dagoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "mahĩtwo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Dagoni mũkĩrũ-inĩ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "hakuhi na"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:51.843585647Z",
+  "model": "glm-5.3"
+}

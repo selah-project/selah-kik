@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Nĩrĩo Yiceraeri yothe yaathĩire kwa Bericitai gũgũna, mũndũ o mũndũ ⟨את⟩ kionje kĩake, na ⟨את⟩ ihũa rĩake, na ⟨את⟩ gĩthemba kĩake, na ⟨את⟩ mũthito wake.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "yaathĩire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kwa Bericitai"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "gũgũna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kionje kĩake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "kionje kĩake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihũa rĩake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ihũa rĩake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gĩthemba kĩake"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "gĩthemba kĩake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũthito wake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "mũthito wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:15:10.733286758Z",
+  "model": "glm-5.3"
+}

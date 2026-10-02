@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Gũcoca ciira mũciĩ-anake na mũndũ mũonjoke, ndamũingĩhĩrĩa kũtuaria ⟨arĩa methonĩtwo⟩ — mũndũ murigwo wa thĩ ndaacoka kũhiũra kuma thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "gũcoca ciira"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "mũciĩ-anake"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "mũndũ mũonjoke"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "cooka kũingĩha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kũingĩhĩrĩa"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "kũtuaria"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mũndũ murigwo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:16.895946145Z",
+  "model": "glm-5.3"
+}

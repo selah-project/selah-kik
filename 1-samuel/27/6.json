@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Akici amũheye harĩ mũthenya ũyũ ⟨את⟩ Cicragi; nĩ ũndũ ũcio Cicragi ĩthĩkĩte kwa athamaki a Yehuda nginya mũthenya ũyũ wa ũmũthĩ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "amũheye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akici"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "harĩ mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cicragi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Cicragi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ĩthĩkĩte"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Cicragi"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kwa athamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ wa ũmũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:27:14.920882971Z",
+  "model": "glm-5.3"
+}

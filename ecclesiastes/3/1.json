@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Kĩndũ gĩothe kĩna ihinda rĩayo, na hĩndĩ ya kĩndũ gĩothe kĩrĩa kĩendwo, thĩinĩ wa igũrũ.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kĩndũ gĩothe"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ihinda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kĩndũ gĩothe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kĩrĩa kĩendwo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:43.799466654Z",
+  "model": "glm-5.3"
+}

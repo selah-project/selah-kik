@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nĩ Abarahamu atũĩrire ⟨את⟩ Cerai mũtumia wake, na ⟨את⟩ Loti mũrũ wa mũrũwa wake, na ⟨את⟩ indo ciao yothe iria ciokanĩtie, na ⟨את⟩ mĩoyo iria cahotire Karani; nĩmathamĩre magĩthii bũrũri-inĩ wa Kenaani, na magĩkinya bũrũri-inĩ wa Kenaani.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "atũĩrire"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cerai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Cerai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "וית",
+      "gloss": "⟨את⟩",
+      "notes": "typo-guard placeholder"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:53.996814233Z",
+  "model": "glm-5.3"
+}

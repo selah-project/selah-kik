@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Nĩ ũndũ wa kũratha, Mũ-Piliti agĩtiga akiuga: Nĩngĩheenie mũtigiri ⟨את⟩ mĩhĩrĩga ya Yiceraeri mũthenya ũyũ; mũhe mũndũ, tũrutange wagi hamwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩtiga akiuga"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mũ-Piliti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ine"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "nĩngĩheenie mũtigiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩhĩrĩga ya Yiceraeri"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "mĩhĩrĩga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "mũhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "tũrutange wagi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:18:12.943000892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Ĩuge mwĩharĩ-inĩ wa ndũrĩrĩ: Yahwe nĩathamakĩte; thĩ nĩĩgĩkũmĩtie, ndĩgĩkahĩrĩka; nĩacoka aciĩra andũ thĩinĩ wa cedeki.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ĩuge"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mwĩharĩ-inĩ wa ndũrĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nĩathamakĩte"
+    },
+    {
+      "surface": "אף",
+      "gloss": "o na"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "nĩĩgĩkũmĩtie"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "gĩkahĩrĩka"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "nĩacoka aciĩra"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "thĩinĩ wa cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:53.375647486Z",
+  "model": "glm-5.3"
+}

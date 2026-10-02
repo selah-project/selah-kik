@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yahwe arĩ heikari-inĩ yake yerũ ũtheru — ũnyamũke thutha wake, thĩ yothe!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "heikari-inĩ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "yerũ ũtheru"
+    },
+    {
+      "surface": "הס",
+      "gloss": "Ũnyamũke"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:54:21.362258805Z",
+  "model": "glm-5.3"
+}

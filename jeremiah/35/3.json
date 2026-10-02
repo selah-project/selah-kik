@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Nĩndĩratĩire ⟨את⟩ Yaazaniya mũrũ wa Yeremeyahu mũrũ wa Habaciniya, na ⟨את⟩ aarĩ aeni makwa, na ⟨את⟩ aana makwa othe, na ⟨את⟩ nyũmba ya Recabite yothe.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Nĩndĩratĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazaniya"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazaniya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Habaciniya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aarĩ aeni makwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aarĩ aeni makwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana makwa othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana makwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ya Recabite yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Recabite"
+    }
+  ],
+  "timestamp": "2026-10-02T01:24:57.951430520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Aa maitũ nĩmahokĩte kũrĩ We; nĩmahokĩte, na We ũmakoretire.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "kũrĩ We"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nĩmahokĩte"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aa maitũ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nĩmahokĩte"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "na ũmakoretire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:26.779522346Z",
+  "model": "glm-5.3"
+}

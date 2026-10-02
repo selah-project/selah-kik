@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ũkahĩnga igũi cia mĩthia ya mbũri nĩ hema igũrũ wa Micikani; igũi ikũmi na ĩmwe ndũkahĩnga ⟨את⟩ ithaĩ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ũkahĩnga"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "igũi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya mĩthia ya mbũri"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "nĩ hema"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "igũi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ndũkahĩnga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ithaĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:49.329557598Z",
+  "model": "glm-5.3"
+}

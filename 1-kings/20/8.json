@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na andũ agima othe na andũ othe moigĩte kũmũ: Ũtikage kũigua, na ũtikage kũmeera.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "moigĩte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũmũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "andũ agima"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ũtikage"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ikage kũigua"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "na ũtikage"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "kũmeera"
+    }
+  ],
+  "timestamp": "2026-10-02T00:03:33.507571889Z",
+  "model": "glm-5.3"
+}

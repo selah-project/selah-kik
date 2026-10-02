@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "⟨את⟩ kĩoni-gũtu, na ⟨את⟩ kĩoni-nene, na kĩoni wa mũthia.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩoni-gũtu"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kĩoni-gũtu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩoni-nene"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "kĩoni-nene"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "na kĩoni wa mũthia"
+    }
+  ],
+  "timestamp": "2026-10-01T22:24:06.709128686Z",
+  "model": "glm-5.3"
+}

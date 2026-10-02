@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Ĩhootanĩrie Rĩĩtwa-inĩ rwake rĩa ũtheru; ngoro cia arĩa mamũkũria Yahwe nĩcio cihaarĩrie gũkena.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ĩhootanĩrie"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Rĩĩtwa-inĩ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rĩa ũtheru wake"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "cihaarĩrie gũkena"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arĩa mamũkũria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:38.994130606Z",
+  "model": "glm-5.3"
+}

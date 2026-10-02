@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 143,
+  "translation": "Nĩ thũ ũrĩkũrire mohoa makwa; ũmenete maaĩ makwa nginya thĩ; ũmũikarithirie mahũrũ-inĩ, ta arĩa mehuithanio kuuma kiumbĩrĩria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ũrĩkũrire"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mohoa makwa"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ũmenete"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nginya thĩ"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "maaĩ makwa"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ũmũikarithirie"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "mahũrũ-inĩ"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ta arĩa mehuithanio"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuuma kiumbĩrĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:18.609591485Z",
+  "model": "glm-5.3"
+}

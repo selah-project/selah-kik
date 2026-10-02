@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ũĩikĩre ⟩ ⟨את⟩ Micikani ũgĩcowoinie ciara cia kuo, ta ũrĩa wakuireonera ripwĩtĩ.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Na ũĩikĩre hĩgĩrĩku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "ũgĩcowoinie ciara cia kuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "wakuireonera"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ripwĩtĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:31.319810744Z",
+  "model": "glm-5.3"
+}

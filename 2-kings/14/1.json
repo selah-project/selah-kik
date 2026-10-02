@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Mwaka wa kerĩ wa Yoaci mwana wa Yohahaci, mwathani wa Yiceraeri, Amaciahu mwana wa Yoaci mwathani wa Yuda aathamakire.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kerĩ"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "wa Yoaci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yohahaci"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "aathamakire"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amaciahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoaci"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-02T00:15:15.017653389Z",
+  "model": "glm-5.3"
+}

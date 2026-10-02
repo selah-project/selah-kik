@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na kwa gĩtukuo keerĩ nĩ matĩrĩro kĩa kibiti ikũmi na ithano; ng'ongoci cacio nĩ ithatu, na mĩtigiri yacio nĩ ithatu.",
+  "tokens": [
+    {
+      "surface": "וְלַכָּתֵף֙",
+      "gloss": "Na kwa gĩtukuo"
+    },
+    {
+      "surface": "הַשֵּׁנִ֔ית",
+      "gloss": "keerĩ"
+    },
+    {
+      "surface": "חֲמֵ֥שׁ",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עֶשְׂרֵ֖ה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "קְלָעִ֑ים",
+      "gloss": "matĩrĩro"
+    },
+    {
+      "surface": "עַמֻּדֵיהֶ֣ם",
+      "gloss": "ng'ongoci cacio"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֔ה",
+      "gloss": "ithatu"
+    },
+    {
+      "surface": "וְאַדְנֵיהֶ֖ם",
+      "gloss": "na mĩtigiri yacio"
+    },
+    {
+      "surface": "שְׁלֹשָֽׁה",
+      "gloss": "ithatu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:55.266749472Z",
+  "model": "glm-5.3"
+}

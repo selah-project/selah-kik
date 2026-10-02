@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na makorwo matarĩ ⟨את⟩ mabwabwa ha cohama, maigĩtwo mĩcenge-inĩ ya dahabu, maũthombothe ta mboya cĩa kĩhũtho, thĩinĩ wa marĩĩtwa ma ciana a Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nĩmaakore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabwabwa ha cohama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabwabwa"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ha cohama"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "maigĩtwo"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "mĩcenge"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dahabu"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "maũthombothe"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "mboya cĩa"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "kĩhũtho"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "marĩĩtwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:20.725054306Z",
+  "model": "glm-5.3"
+}

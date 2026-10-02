@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Mẽtho makwa makĩretheire kwa Yahwe hĩndĩ ciothe, nĩgũkorwo ũngĩcoora kwa mũcoco makwa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mẽtho makwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ngĩcoora"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "kwa mũcoco"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:10.937475239Z",
+  "model": "glm-5.3"
+}

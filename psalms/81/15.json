@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Rĩngĩ thayũ ndĩnyenithia thũ ciao, na harĩ arĩa maciigania nao ndĩcookia roko rwakwa.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "rĩngĩ thayũ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "thũ ciao"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ndĩnyenithia"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na harĩ"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "arĩa maciigania"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndĩcookia"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "roko rwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:48.906299934Z",
+  "model": "glm-5.3"
+}

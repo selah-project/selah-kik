@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Yahwe, wĩngĩire mwoyo wakwa kuuma Ceori; ũnĩheanĩte ũraya, ndĩkayerere irima-inĩ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "wĩngĩire"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mwoyo wakwa"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ũnĩheanĩte ũraya"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "kũtherera"
+    },
+    {
+      "surface": "בור",
+      "gloss": "irima"
+    }
+  ],
+  "timestamp": "2026-10-02T06:53:46.381950653Z",
+  "model": "glm-5.3"
+}

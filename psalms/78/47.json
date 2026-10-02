@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Ũkua-inĩ wa mĩgunda wa mbembe nĩwaheanire kĩrĩa gĩa kũonerethia, na mĩraya ciao nĩyonethetio na itũũra rĩa kĩrĩma kĩrĩa kĩgunyitio.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "nĩwaheanire kĩrĩa gĩa kũonerethia"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "Ũkua-inĩ wa mĩgunda wa mbembe"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "mĩgunda wa mbembe ciao"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "na mĩraya ciao"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "na itũũra rĩa kĩrĩma kĩrĩa kĩgunyitio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:00.211638337Z",
+  "model": "glm-5.3"
+}

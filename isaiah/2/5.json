@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "We nyũmba ya Yaakobu, ithii, nĩtũthiĩ na mũtheri wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ithii"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "nĩtũthiĩ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "na mũtheri wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:16.680608935Z",
+  "model": "glm-5.3"
+}

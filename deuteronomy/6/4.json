@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Rĩigĩrĩra, Yiceraeri: Yahwe Erohimu wĩtu, Yahwe ⟨nĩ⟩ ũmwe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Rĩigĩrĩra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wĩtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nĩ ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:20:28.986969321Z",
+  "model": "glm-5.3"
+}

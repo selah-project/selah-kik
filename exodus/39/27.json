@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na magĩka ⟨את⟩ macũkũi ma mbaũ ya kĩngeretha, wĩra wa mũciooki, ya Aharoni na aana ake.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "magĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macũkũi"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "macũkũi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mbaũ ya kĩngeretha"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wĩra wa"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "mũciooki"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "aana ake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:13.075011753Z",
+  "model": "glm-5.3"
+}

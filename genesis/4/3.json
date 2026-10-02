@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na ikĩo, thutha wa mĩthenya, Kaini nĩrekeire minaha kuuma mĩthero wa gĩthaka, kũrĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikĩo"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nĩrekeire"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaini"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "kuuma mĩthero"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wa gĩthaka"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũrĩ Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:54.852559793Z",
+  "model": "glm-5.3"
+}

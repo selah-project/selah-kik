@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na thĩinĩ wa menora matumbu manana marĩa me kũoneka ta mboco ya mũenge, matũndũ make na mboco make.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "na thĩinĩ wa menora"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "manana"
+    },
+    {
+      "surface": "גביעים",
+      "gloss": "matumbu"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "me kũoneka ta mboco ya mũenge"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "matũndũ make"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "na mboco make"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:56.479588492Z",
+  "model": "glm-5.3"
+}

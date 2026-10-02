@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ mwega Yahwe kwa ũrĩa ũmuthĩkĩria, na kwa mũoyo ũrĩa ũmũcaba.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ mwega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "kwa ũrĩa ũmuthĩkĩria"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "kwa mũoyo"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ũmũcaba"
+    }
+  ],
+  "timestamp": "2026-10-02T04:35:22.475429856Z",
+  "model": "glm-5.3"
+}

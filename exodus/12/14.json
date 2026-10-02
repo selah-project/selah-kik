@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na mũthenya ũyũ nĩgatuĩkĩra inywi kĩrũtagĩrĩro, na mũciarie kĩgongona kĩa Yahwe, thutha wa mĩceme ya inywi; nĩ watho wa tene na tene mũciara ⟨את⟩ ũcio.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nĩgatuĩkĩra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inywi"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "kĩrũtagĩrĩro"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "mũciarie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ũcio",
+      "marks": "kĩgongona kĩa Yahwe"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kĩgongona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "thutha wa mĩceme ya inywi"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "nĩ watho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa tene na tene"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "mũciara ũcio"
+    }
+  ],
+  "timestamp": "2026-10-01T21:09:01.825098698Z",
+  "model": "glm-5.3"
+}

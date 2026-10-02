@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ndiĩkĩte ũgwo arĩ mwaki-inĩ wĩ wake kuuga ũhoro Abineri atĩa, nĩ kũigua kũnyitĩte thĩinĩ wake; no ũhoro ũcio nĩ wa mbere.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Na ndiĩkĩte ũgwo"
+    },
+    {
+      "surface": "ĩkũgira andũ aya maĩ",
+      "gloss": "arĩ mwaki-inĩ wĩ wake"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abineri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "nĩ kũigua kũnyitĩte thĩinĩ wake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:29:49.002568640Z",
+  "model": "glm-5.3"
+}

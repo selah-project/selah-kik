@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩmaatonyire arĩa maanũkithia andũ na acũranji acio, na makĩuga atĩrĩ kũrĩ andũ, makĩuga atĩrĩ: Nĩguo Parao aikũuga: Ntĩ ndĩkuheera inwĩ ũthũ.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "nĩmaatonyire"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "arĩa maanũkithia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "na acũranji acio"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na makĩuga atĩrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "makĩuga atĩrĩ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aikũuga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ntĩ ndĩ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndĩkuheera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inwĩ"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ũthũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:34.138159999Z",
+  "model": "glm-5.3"
+}

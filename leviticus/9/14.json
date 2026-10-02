@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Akĩaragira ⟨את⟩ ng'arũ cia ndani na ⟨את⟩ magũrũ, nĩamakĩtherie igũrũ rĩa kĩheo kĩa kũnyuachio, kuu minjirwa-inĩ.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "Akĩaragira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'arũ cia ndani"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ng'arũ cia ndani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "magũrũ"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "magũrũ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nĩamakĩtherie"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kĩheo kĩa kũnyuachio"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "kuu minjirwa-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:54.076795662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 49,
+  "translation": "Ruweni, nĩwewe mũcyiaro wakwa wa mbere, hinya wakwa na ucuurio wa mbere wa mũoyo wakwa; mũigana wa kũigũa, na mũigana wa hinya.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Ruweni"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "mũcyiaro wakwa wa mbere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwewe"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "na ucuurio wa mbere"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mũigana"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "wa kũigũa"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na mũigana"
+    },
+    {
+      "surface": "עז",
+      "gloss": "wa hinya"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:04.722169336Z",
+  "model": "glm-5.3"
+}

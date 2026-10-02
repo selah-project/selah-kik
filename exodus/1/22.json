@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩ ũndũ Farao aahĩtĩkĩirie andũ ake aothe, na kuuga: Mũrũ wa gikundi o wothe ũrĩa aciarĩtwo, mũhĩtwo rũĩ-inĩ; na mũiritu o wothe mũrekererwo akuare.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "aahĩtĩkĩirie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kuuga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mũrũ wa gikundi"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ũrĩa aciarĩtwo"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "rũĩ-inĩ"
+    },
+    {
+      "surface": "תשליכהhu",
+      "gloss": "mũhĩtwo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "mũiritu"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "mũrekererwo akuare"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:11.835255249Z",
+  "model": "glm-5.3"
+}

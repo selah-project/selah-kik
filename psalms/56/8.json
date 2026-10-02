@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Nĩ ũthĩiniĩ ũru, ciakinya macio? Erohimu, na kĩceneti khuo hoota ndũrĩrĩ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ũthĩiniĩ ũru"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "kũinya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ao"
+    },
+    {
+      "surface": "באף",
+      "gloss": "na kĩceneti"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "hoota"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:18.018736199Z",
+  "model": "glm-5.3"
+}

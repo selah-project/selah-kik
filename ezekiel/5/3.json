@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Na kuuma kuo ũrore ithĩna biũ, ũmĩhĩrĩrie ⟨את⟩ cio mĩrĩngĩ-inĩ yaku.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "na ũrore"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuuma kuo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ithĩna biũ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ũmĩhĩrĩrie"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ cio",
+      "marks": "cio ithĩna iria"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "mĩrĩngĩ-inĩ yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T01:44:35.384564694Z",
+  "model": "glm-5.3"
+}

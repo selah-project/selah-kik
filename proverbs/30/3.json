@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na ũgoce ndĩnoonera, na ũmenyo wa arĩa atheru ndĩnendĩa kũmenya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ... ndĩnoonera"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ndĩnoonera"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgoce"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na ũmenyo wa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "arĩa atheru"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndĩnendĩa kũmenya"
+    }
+  ],
+  "timestamp": "2026-10-02T04:02:47.713648428Z",
+  "model": "glm-5.3"
+}

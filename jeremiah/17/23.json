@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "No ti maiguire, na ti maagĩrĩitie ⟨את⟩ matu macio; magatũmara ⟨את⟩ mĩtĩ yao mahinda matigũigua na matigwata mĩrorero.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "No ti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "maiguire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "maagĩrĩitie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matu macio"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "matu macio"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "magatũmara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtĩ yao"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "mĩtĩ yao"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mahinda matigũigua"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "na mahinda matigwata"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kũgwata"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mĩrorero"
+    }
+  ],
+  "timestamp": "2026-10-02T01:12:04.518813014Z",
+  "model": "glm-5.3"
+}

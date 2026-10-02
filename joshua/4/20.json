@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na ibere rĩa ũndũ ũcio, ⟨את⟩ matatu gĩcunjĩ kĩa kehera ikũmi na igĩrĩ cia mahiga macio ma kuuma Yardeni Yehocua nĩamũkĩte Giligari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matatu gĩcunjĩ kĩa kehera ikũmi na igĩrĩ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "matatu gĩcunjĩ kĩa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na igĩrĩ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mahiga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "nĩamũkĩte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Giligari"
+    }
+  ],
+  "timestamp": "2026-10-01T22:39:31.753179707Z",
+  "model": "glm-5.3"
+}

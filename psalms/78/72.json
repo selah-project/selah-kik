@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩacũũirire na mũoyo wake mũtheru, na na ũmenyo wa makono make nĩamũtĩĩirie.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "nĩacũũirire"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "na mũtheru wa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "mũoyo wake"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "na na ũmenyo wa"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "makono make"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "nĩamũtĩĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:45.536280619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na mũnene-wa kĩeego chaku, nĩũtherethagia arĩa makĩrũnga kũguna; nĩũthĩra hasira yaku, ĩrĩa ĩmaharĩka ta mbũrũ.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "Na mũnene-wa"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "kĩeego chaku"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "nĩũtherethagia"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "arĩa makĩrũnga kũguna"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "nĩũthĩra"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "hasira yaku"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "ĩmaharĩka"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ta mbũrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:06.720905591Z",
+  "model": "glm-5.3"
+}

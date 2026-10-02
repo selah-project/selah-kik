@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ere nĩagũrũkithia ciira, kana Cadai nĩagũrũkithia cedeki?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "nĩagũrũkithia"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Cadai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "nĩagũrũkithia"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T04:07:22.716846744Z",
+  "model": "glm-5.3"
+}

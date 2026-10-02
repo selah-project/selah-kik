@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Erohimu naanamuke, arĩa mamũrũngĩrĩirie matatũkane; arĩa mamenete na macoke magũcie kuuma mbere yake.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "naanamuke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "matatũkane"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "arĩa mamũrũngĩrĩirie"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "na macoke magũcie"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "arĩa mamenete"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kuuma mbere yake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:10.239571743Z",
+  "model": "glm-5.3"
+}

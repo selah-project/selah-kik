@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nao nĩndĩũrire o na ũguo: Ndingĩcoke kũmahinga ⟨את⟩ mao mbere ya mitĩrĩo yanyu; no nao magĩtukaha makũrĩa mboco thĩinĩ wanyu, na ngai ciao ciegĩtukaha mĩgũnda-yo hamwe nainyu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Nao o na ũguo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩndĩũrire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "kũmahinga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mao",
+      "marks": "mbere ya mitĩrĩo yanyu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "mbere ya mitĩrĩo yanyu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "magĩtukaha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marĩ inyuĩ"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "makũrĩa mboco"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "na ngai ciao"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ciegĩtukaha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyuĩ"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mĩgũnda-yo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:55:05.367070789Z",
+  "model": "glm-5.3"
+}

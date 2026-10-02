@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Yahwe ahotithie o mĩdomo ĩngĩũmbĩrĩirie, rũrimi rũugaga maũndũ manene.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "ahotithie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mĩdomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ĩngĩũmbĩrĩirie"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rũrimi"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "rũugaga"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "maũndũ manene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:12.878929858Z",
+  "model": "glm-5.3"
+}

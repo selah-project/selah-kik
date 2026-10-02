@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Na rĩĩtwa rĩa Yahwe nĩngahoya: Ee Yahwe, ũhonokĩrĩre moyo wakwa.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Na rĩĩtwa rĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩngahoya"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ũhonokĩrĩre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyo wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:27.131052638Z",
+  "model": "glm-5.3"
+}

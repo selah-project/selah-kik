@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na Heberi nĩaomire ⟨את⟩ Yapurathi, na ⟨את⟩ Comeri, na ⟨את⟩ Hothami, na ⟨את⟩ Cuwa mũtwarĩ wao.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Na Heberi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩaomire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yapurathi"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yapurathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Comeri"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Comeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hothami"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hothami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Cuwa"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Cuwa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "mũtwarĩ wao"
+    }
+  ],
+  "timestamp": "2026-10-02T05:25:29.519792635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩtũkĩrire Yahwe, Erohimu wa aithuũra aitu, Yahwe akĩigua ⟨את⟩ mĩgambo yitũ, akĩona ⟨את⟩ gũkenũo kwitũ, na ⟨את⟩ ihinda rĩitũ, na ⟨את⟩ gũkandwo kwitũ.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "nĩtũkĩrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aithuũra aitu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩgambo yitũ"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "mĩgambo yitũ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gũkenũo kwitũ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "gũkenũo kwitũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ihinda rĩitũ"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ihinda rĩitũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gũkandwo kwitũ"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "gũkandwo kwitũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:38.105450725Z",
+  "model": "glm-5.3"
+}

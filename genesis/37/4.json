@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Arũme ake arĩa amwe magĩrĩirie atĩ ithe ao nĩendete ⟨את⟩ we kũgerera arũme ake arĩa amwe, magĩcooka mamenete ⟨את⟩ we, ndima kũmũrĩra na thayũ.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "magĩrĩirie"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arũme ake arĩa amwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ithe ao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kũgerera...arĩa amwe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arũme ake arĩa amwe"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "magĩcooka mamenete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ we",
+      "marks": "we"
+    },
+    {
+      "surface": "וישנאו-אתו",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndima"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kũmũrĩra"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na thayũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:50:32.150160740Z",
+  "model": "glm-5.3"
+}

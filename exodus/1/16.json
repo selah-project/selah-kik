@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Akiuga atĩrĩ: Rĩrĩa mũciarithia ⟨את⟩ aka a Ahibiria, na mũrora igũrũ rĩa maguruta ma kũciara: kana nĩ mwana wa kũmwa, mũmũthĩnjĩ ⟨את⟩; na kana nĩ mwana wa kũrĩ, nĩamũkũrwo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga atĩrĩ"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "rĩrĩa mũciarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka a Ahibiria"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "aka a Ahibiria"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "na mũrora"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "maguruta ma kũciara"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa kũmwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "mũmũthĩnjĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũcio (mwana wa kũmwa)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na kana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa kũrĩ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "וָחָיָה",
+      "gloss": "nĩamũkũrwo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:45.818034254Z",
+  "model": "glm-5.3"
+}

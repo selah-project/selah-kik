@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 131,
+  "translation": "Kweli nĩngĩcookia: ngoro yakwa ndĩĩcookerithirie na ndĩĩthingithirie, ta mwana wacioigĩtwo iria ha nyina; ta mwana ũcio wacioigĩtwo, nĩguo ngoro yakwa ĩrĩ thĩinĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kweli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩngĩcookia"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndĩĩcookerithirie"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "na ndĩĩthingithirie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "ta mwana wacioigĩtwo iria"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "ta mwana ũcio wacioigĩtwo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:52.439640092Z",
+  "model": "glm-5.3"
+}

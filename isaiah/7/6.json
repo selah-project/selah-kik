@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "'Nĩtũkĩe Yehuda, nĩtũmũcũkie, na nĩtũcinie ihũra rĩanyu, na nĩtũmathie mwathi mũthemu-inĩ wayo, ⟨את⟩ mũrũ wa Tabeeri.'",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "nĩtũkĩe"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "nĩtũmũcũkie"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "nĩtũcinie ihũra"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "rĩanyu"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "nĩtũmathie mwathi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "mũthemu-inĩ wayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wa Tabeeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tabeeri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:29.037057927Z",
+  "model": "glm-5.3"
+}

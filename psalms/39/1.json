@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Kũrĩ mũtenteni, kwa Yedutuni; mizimori wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũtenteni"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kwa Yedutuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizimori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:04:23.604938590Z",
+  "model": "glm-5.3"
+}

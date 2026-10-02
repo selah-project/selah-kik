@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nebucaradani, mũkũrĩ wa athinji, akĩnyita ⟨את⟩ macio, na akĩmĩtwara kũrĩ mũthamaki wa Baberu, Ribarata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩnyita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebucaradani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũkũrĩ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "athinji"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akĩmĩtwara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baberu"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribarata"
+    }
+  ],
+  "timestamp": "2026-10-02T00:25:35.381527261Z",
+  "model": "glm-5.3"
+}

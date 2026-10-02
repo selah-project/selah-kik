@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Ũkahĩnda kĩheo gĩa kũthĩnia mbaki; mĩtĩ ya cithitimu nĩũkahĩnda ⟨את⟩ kĩu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ũkahĩnda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "gĩa kũthĩnia"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mbaki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mĩtĩ ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "cithitimu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkahĩnda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kĩu (kĩheo)"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:15.234927424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na rũngĩrũ andũ aria ma mbere nĩ kũngĩkorọ mahota gũcunga ⟨את⟩ Micikani na ⟨את⟩ icigĩrĩro iake icio cia ũtungata wayo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na rũngĩrũ"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "andũ aria ma mbere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nĩ kũngĩkorọ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "mahota gũcunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icigĩrĩro iake icio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "icio"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "icigĩrĩro iake"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "kwa ũtungata wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:34:55.912816744Z",
+  "model": "glm-5.3"
+}

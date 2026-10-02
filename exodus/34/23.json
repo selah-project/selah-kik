@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Hĩndĩ ithatũ kwa mwaka, arũme awa othe nĩmahũũragĩra ⟨את⟩ thoni wa Adonai Yahwe, Erohimu wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ithatũ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "kwa mwaka"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nĩmahũũragĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "arũme awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thoni wa Adonai Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "thoni"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:42.721342701Z",
+  "model": "glm-5.3"
+}

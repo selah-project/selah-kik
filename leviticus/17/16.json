@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na atĩ tamũkũra, na mwĩrĩ wake tamũtharĩka maaĩ-inĩ, nĩaguuraga ⟨ũthĩ⟩ wake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "na atĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "tamũkũra"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "mwĩrĩ wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mũtharĩka maaĩ-inĩ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "nĩaguuraga"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ũthĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:13.575719227Z",
+  "model": "glm-5.3"
+}

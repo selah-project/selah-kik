@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Na magĩkũra ⟨את⟩ Micikani kũrĩ Moce, ⟨את⟩ hema na ⟨את⟩ indo ciake ciothe, makara make, mabati make, mĩbaro yake, mĩcingiri yake na magũrũ make.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "magĩkũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciake ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "indo ciake"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "makara make"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "mabati make"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "mĩbaro yake"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "na mĩcingiri yake"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "na magũrũ make"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:08.668575509Z",
+  "model": "glm-5.3"
+}

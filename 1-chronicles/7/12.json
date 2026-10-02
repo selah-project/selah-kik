@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na Cupimu na Hupimu, ciana cia Iri; Hucimu, ciana cia Aheri.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Na Cupimu"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "na Hupimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iri"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Hucimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Aheri"
+    }
+  ],
+  "timestamp": "2026-10-02T05:24:29.372831496Z",
+  "model": "glm-5.3"
+}

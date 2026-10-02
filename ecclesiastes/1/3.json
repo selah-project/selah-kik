@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩkĩ gĩtheri kuma kwa mũndũ, thĩinĩ wa ũgĩrĩru wakĩo wothe ũrĩa ekĩgĩrĩra thĩinĩ wa riũa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "gĩtheri"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kwa mũndũ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa... wothe"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ũgĩrĩru wakĩo"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ũrĩa ekĩgĩrĩra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:29.009846494Z",
+  "model": "glm-5.3"
+}

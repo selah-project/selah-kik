@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Ithuĩ tũrarĩ aciana ikũmi na eerĩ a ithe ũmwe; ũmwe nĩtiarĩ, na mũnini ũcio mũthenya ũyũ arĩ hamwe na ⟨את⟩ ithe witũ thĩ-inĩ ya Kenaani.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "aciana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ithe ũmwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nĩtiarĩ"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "na mũnini ũcio"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe witũ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ithe witũ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaani"
+    }
+  ],
+  "timestamp": "2026-10-01T20:54:22.603393538Z",
+  "model": "glm-5.3"
+}

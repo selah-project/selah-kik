@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Ndĩrĩre tha, Adonai, nĩ nĩ mũthenya wothe nĩngĩhũra akũinĩ.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ndĩrĩre tha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "akũinĩ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩngĩhũra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:26.076281642Z",
+  "model": "glm-5.3"
+}

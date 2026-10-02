@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Hazare, mũthamaki wa Aramu, nĩamũnanĩte ⟨את⟩ Yiceraeri mĩthenya yothe ya Yehoahaci.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Na Hazare"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wa Aramu"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nĩamũnanĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ya Yehoahaci"
+    }
+  ],
+  "timestamp": "2026-10-02T00:14:13.285196104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Nĩngĩita Erohimu Mũkũrũ, Ere ũrĩa eethĩkĩtia ũgima maũndũ makwa.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Nĩngĩita"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Mũkũrũ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ũrĩa eethĩkĩtia ũgima"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "maũndũ makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:14.869378051Z",
+  "model": "glm-5.3"
+}

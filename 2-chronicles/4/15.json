@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "⟨את⟩ gĩcũũ kĩmwe, na ⟨את⟩ ng'ombe ikũmi na igĩrĩ thĩinĩ wayo",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcũũ kĩmwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gĩcũũ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ombe ikũmi na igĩrĩ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thĩinĩ wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:42:10.691055220Z",
+  "model": "glm-5.3"
+}

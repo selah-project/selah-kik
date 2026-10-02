@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na ⟨את⟩ aana make nĩũkũgerera, na ũmaciinge nguo cia mũndũ-mũkũndũ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana make"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "nĩũkũgerera"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "na ũmaciinge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ao",
+      "marks": "aana make"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "nguo cia mũndũ-mũkũndũ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:05.335350753Z",
+  "model": "glm-5.3"
+}

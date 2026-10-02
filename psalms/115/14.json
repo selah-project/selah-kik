@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "translation": "Yahwe agĩmũongerera, nĩ mwĩyũ na ciana cinu.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "agĩmũongerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nĩ mwĩyũ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mwĩyũ (gũcookerwo)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ciana cinu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:14.433556623Z",
+  "model": "glm-5.3"
+}

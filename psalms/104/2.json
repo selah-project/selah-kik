@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Ũcokĩtwo na ũtheri ta na nguo, ũtanathie ⟨את⟩ igũrũ ta kĩraũ.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Ũcokĩtwo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "ta na nguo"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "ũtanathie"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "ta kĩraũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:06.316183941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Mĩthenya yakwa ĩrĩ ta kĩanya kĩrĩa gĩcokĩte kũgĩa mũraya; na nĩwe nĩngĩooka ta mũciĩ.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya yakwa"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ta kĩanya"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "kĩrĩa gĩcokĩte kũgĩa mũraya"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩwe"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ta mũciĩ"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "nĩngĩooka"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:32.186643456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Nake Caori ainathĩkire atũmĩri agĩthĩ kũinĩra ⟨את⟩ Dawidi, na we MWI agĩcookia atĩrĩ: Ni mwongo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ainathĩkire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "atũmĩri"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "agĩthĩ kũinĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "na MWI agĩcookia atĩrĩ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ni mwongo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:19.103771721Z",
+  "model": "glm-5.3"
+}

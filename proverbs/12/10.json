@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mũthingu amenyaga ⟨את⟩ ngoro ya nyamu yake; no tha cia andũ arũ nĩ cegi.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "amenyaga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ya nyamu yake"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "no tha cia"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "andũ arũ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "nĩ cegi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:50:48.490142347Z",
+  "model": "glm-5.3"
+}

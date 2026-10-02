@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩ Hatati akĩinjĩra, akanabarĩria Eceteri ⟨את⟩ ciugo cia Morodekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "akĩinjĩra"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatati"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akanabarĩria"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Eceteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia Morodekai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodekai"
+    }
+  ],
+  "timestamp": "2026-10-02T04:44:39.535154389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Moabu nĩegwatĩirie na Yiceraeri, thutha wa gũkua kwa Ahabu.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "nĩegwatĩirie"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gũkua"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kwa Ahabu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:07:13.689179158Z",
+  "model": "glm-5.3"
+}

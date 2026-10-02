@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Yehonatani akiuga na Dawidi: Kĩrĩa mũoyo waku wĩrugĩrĩra, nĩngĩkora ndũgakũ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kĩrĩa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wĩrugĩrĩra"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mũoyo waku"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "nĩngĩkora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndũgakũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:21:59.301252132Z",
+  "model": "glm-5.3"
+}

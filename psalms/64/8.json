@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Ĩndĩ Erohimu akĩcuna mbați ithemba; mĩhembo yao nĩyo ĩkahotana.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "akĩcuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "mbați"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "ithemba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nĩyo ĩkahotana"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "mĩhembo yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:14.755173685Z",
+  "model": "glm-5.3"
+}

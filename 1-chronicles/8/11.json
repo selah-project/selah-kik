@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na kuuma kwa Hucimi akatheethekia ⟨את⟩ Abitubu na ⟨את⟩ Erfacari.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "kuuma kwa Hucimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akatheethekia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abitubu"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Abitubu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Erfacari"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Erfacari"
+    }
+  ],
+  "timestamp": "2026-10-02T05:23:33.043669279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Nĩndĩtũmire Moce na ⟨את⟩ Aharoni, nĩndĩhutire ⟨את⟩ Micirayimu, ta ũrĩa nĩndĩekire thĩinĩ wayo; na thutha nĩndĩmũhũrire.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "nĩndĩtũmire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "nĩndĩhutire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micirayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nĩndĩekire"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "thĩinĩ wayo"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "na thutha"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nĩndĩmũhũrire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:54:10.856595801Z",
+  "model": "glm-5.3"
+}

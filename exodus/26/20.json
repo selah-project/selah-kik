@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na mĩena ya kerĩ ya Micikani, rũraya rwa maithori, mbao ikũmi na igĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "na mĩena ya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya kerĩ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "rũraya rwa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "maithori"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ikũmi na igĩrĩ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "mbao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:18:04.020135744Z",
+  "model": "glm-5.3"
+}

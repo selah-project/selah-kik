@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Hĩndĩ ĩrĩa ũrĩa ĩtikagwo kũinĩra riũa na ũtheri, na mweri, na nyenyi, na maciumbi macokĩra thutha wa mũcura.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hĩndĩ ĩrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ĩtikĩ"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "itikagwo kũinĩra"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "ו האור",
+      "gloss": "na ũtheri"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "na mweri"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "na nyenyi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "na macokĩra"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "maciumbi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mũcura"
+    }
+  ],
+  "timestamp": "2026-10-02T04:44:29.134371703Z",
+  "model": "glm-5.3"
+}

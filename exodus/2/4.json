@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Mwarahũ wake agĩcemera kũraya, nĩgeetha amenyage ũrĩa gũkũgĩrwo kũo.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "agĩcemera"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "mwarahũ wake"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kũraya"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "nĩgeetha amenyage"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gũkũgĩrwo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:39.887345824Z",
+  "model": "glm-5.3"
+}

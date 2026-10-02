@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 102,
+  "translation": "Nĩgũkorwo atumia aku maendete ⟨את⟩ mawe make, na ⟨את⟩ ũthĩ wake makĩhendĩra ũtugi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "maendete"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "atumia aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawe make"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "mawe make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũthĩ wake"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ũthĩ wake"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "makĩhendĩra ũtugi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:03.046414636Z",
+  "model": "glm-5.3"
+}

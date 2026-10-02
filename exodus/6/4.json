@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na o na nĩngĩcokia thayo ⟨את⟩ kĩrĩkanĩro kĩangĩ ⟨את⟩ hamwe nao, kũruta kũhe ⟨ao⟩ ⟨את⟩ thĩ ya Kenani, ⟨את⟩ thĩ ya kũthĩĩ nagũcooka magĩcoka, arĩa maathĩĩ magĩcoka kuo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "o na"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "nĩngĩcokia thayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩangĩ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩangĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hamwe nao"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kũhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ya Kenani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ya kũthĩĩ magĩcoka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "ya kũthĩĩ nagũcooka magĩcoka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "maathĩĩ magĩcoka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:05.780899755Z",
+  "model": "glm-5.3"
+}

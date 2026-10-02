@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Yocifu nĩrarotecie ndoto, na aramurĩria acianoake, nao makimenena na enyo ⟨את⟩ we.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "nĩrarotecie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocifu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nĩaramurĩria"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "acianoake"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "makimenena"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na enyo"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kũmenena"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Yocifu)"
+    }
+  ],
+  "timestamp": "2026-10-02T06:09:45.159694970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Na Erohimu akiuga na mũndũ mwaru atĩrĩ: Nĩkĩ we ũgĩtarĩrĩra mawatho makwa, na ũngĩĩhikia kĩrĩkanĩro gĩakwa kĩrĩ mũrũ-inĩ waku?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "na mũndũ mwaru"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ũgĩtarĩrĩra"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mawatho makwa"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "na ũngĩĩhikia"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro gĩakwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mũrũ-inĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:41.901852707Z",
+  "model": "glm-5.3"
+}

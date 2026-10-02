@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "translation": "Yahwe nĩ mũnyĩgĩrĩri na mũheanĩri, warega kũhenere na kahora, na hecedi wake nĩ mĩnene.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "mũnyĩgĩrĩri"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "na mũheanĩri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "warega"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kũhenere"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na mĩnene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:16.702419658Z",
+  "model": "glm-5.3"
+}

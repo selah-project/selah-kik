@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Kĩguni kwakwa kwĩ Yahwe nĩkahũra, nakĩandũkĩra kuuma kĩrĩma-inĩ kĩa ũtheru wake. Ceraha.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "kĩguni kwakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nĩkahũra"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "nakĩandũkĩra"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kuuma kĩrĩma-inĩ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kĩa ũtheru wake"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ceraha"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:22.593239028Z",
+  "model": "glm-5.3"
+}

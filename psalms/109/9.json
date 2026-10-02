@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Aana make makoragwo arĩa ciana itarĩ atha, na wethe wake agĩe mũka wa mũthũũra.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "makoragwo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "arĩa ciana itarĩ atha"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na wethe wake"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mũka wa mũthũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:33.928757359Z",
+  "model": "glm-5.3"
+}

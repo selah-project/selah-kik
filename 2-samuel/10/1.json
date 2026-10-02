@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na thutha wa maũndũ macio, mũthamaki wa ciana cia Amoni akiua, na Hanuni mũrũ wake nthĩrĩ na kũthamakia thutha wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgekũũga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "maũndũ macio"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akiua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akĩthamakia"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thutha wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:34.659574155Z",
+  "model": "glm-5.3"
+}

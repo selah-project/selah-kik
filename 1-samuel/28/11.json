@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Mũka ũcio oigĩte: Nĩ ⟨את⟩ ndũ ngĩnyamũrĩra gwaku? Nawe oigĩte atĩrĩ: Nĩ ⟨את⟩ Cemueri nyamũrĩra kwa ngwĩ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũka ũcio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ngĩnyamũrĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gwaku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nawe oigĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemueri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "nyamũrĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwa ngwĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:26:11.650666821Z",
+  "model": "glm-5.3"
+}

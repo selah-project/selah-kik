@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ thutha ũcio Iyobu ainukie ⟨את⟩ kanua gake, na akũriria ⟨את⟩ mũthenya wake.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "thutha ũcio"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ainukie"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanua gake"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "kanua gake"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "akũriria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthenya wake"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "mũthenya wake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:03:58.358824887Z",
+  "model": "glm-5.3"
+}

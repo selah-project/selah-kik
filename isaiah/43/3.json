@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "translation": "Nĩgũkorwo nĩĩ Yahwe Erohimu waku, Mũtheru wa Yiceraeri, Mũcokanĩri waku; nĩndahĩirie Micirayimu nĩ coko rwaku, Kucĩ na Ceba thĩinĩ waku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mũtheru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Mũcokanĩri waku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndahĩirie"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "coko rwaku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kucĩ"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "na Ceba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "thĩinĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-02T00:46:27.468571319Z",
+  "model": "glm-5.3"
+}

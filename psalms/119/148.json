@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mĩrĩthi yakwa nĩjatie mbere ya thaa cia ũtukũ, kũcibia ciugo ciao.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "nĩjatie mbere"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mĩrĩthi yakwa"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "thaa cia ũtikũ"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "kũcibia"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "ciugo ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:50.743117444Z",
+  "model": "glm-5.3"
+}

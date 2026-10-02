@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 17:2",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Rora na Aharoni, na na aana ake, na na aana othe a Yiceraeri, ũmwoote atĩa: Ũyũ nĩ kiugo kĩrĩa Yahwe ahoirie, na aguaga:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ũmwoote atĩa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo kĩrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ahoirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aguaga"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:13.084918495Z",
+  "model": "glm-5.3"
+}

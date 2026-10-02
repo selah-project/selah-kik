@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Moko maku nĩmakore ng'ũci ĩno, nĩmakahana nyanya ithũro, na ũngĩinũa?",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "Moko maku"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "nĩmakore ng'ũci ĩno"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "nĩmakahana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nyanya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ithũro"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "na ũngĩinũa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:08:43.611551285Z",
+  "model": "glm-5.3"
+}

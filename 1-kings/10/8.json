@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Thahũ ĩrĩ andũ aku, thahũ ĩrĩ atumia aku acio, arĩa maarĩ kũimirĩra mbere yaku thiini ciothe, arĩa maigua ⟨את⟩ ũgĩ waku.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "thahũ ĩrĩ"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "andũ aku"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "thahũ ĩrĩ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "atumia aku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "arĩa me kũimirĩra"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "thiini ciothe"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "arĩa maigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgĩ waku"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ũgĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:28.972952396Z",
+  "model": "glm-5.3"
+}

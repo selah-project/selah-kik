@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "akarithia na mũaki ⟨את⟩ nyũmba ya Yahwe, na ⟨את⟩ nyũmba ya mwathi, na ⟨את⟩ nyũmba ciothe cia Yerucarayimu; na ⟨את⟩ nyũmba ngima ĩmwe nĩakuothio na mũaki.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "akarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ya mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ciothe cia Yerucarayimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ngima ĩmwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ĩmwe na ciothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ngima"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "nĩakuothio"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũaki"
+    }
+  ],
+  "timestamp": "2026-10-02T00:23:39.407868269Z",
+  "model": "glm-5.3"
+}

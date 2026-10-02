@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na ũyũ nĩwe kĩhũranio kĩaku kuuma ⟨את⟩ Yahwe, atĩ Yahwe nĩagĩkũra ⟨את⟩ kiugo gĩkĩ kĩa oigĩte.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na ũyũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kĩaku"
+    },
+    {
+      "surface": "האות",
+      "gloss": "kĩhũranio"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nĩagĩkũra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo gĩkĩ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo gĩkĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T00:42:49.769832676Z",
+  "model": "glm-5.3"
+}

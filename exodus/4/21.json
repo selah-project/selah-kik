@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 4:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Yahwe akĩmũũria Moce: Rĩrĩa ũgĩcokaũga ũthiĩ Micirayimu, ona mĩrangairo yothe irĩa ndĩĩcokia moko-inĩ rwaku, ũngĩcoora ihinda rĩa Farao; na nĩndĩ — nĩngĩthembia ⟨את⟩ ngoro yake, na ndangĩcokera ⟨את⟩ andũ arĩa",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "rĩrĩa ũgĩcokaũga ũthiĩ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "gũcooka"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "mĩrangairo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndĩĩcokia"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "moko-inĩ rwaku"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ũngĩcoora"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ihinda rĩa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩndĩ"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "nĩngĩthembia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndangĩ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "kũcokera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ arĩa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ arĩa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:48.409730507Z",
+  "model": "glm-5.3"
+}

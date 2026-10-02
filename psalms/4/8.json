@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩũheanĩre gĩkeno thĩinĩ wa ngoro yakwa, gĩa kũingĩha kũrĩ ihinda rĩrĩa ibede ciaro na njohi ciaro ciiyũkĩte.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Nĩũheanĩre"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gĩkeno"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "thĩinĩ wa ngoro yakwa"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ihinda rĩrĩa"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ibede ciaro"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "na njohi ciaro"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ciiyũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:25.392373374Z",
+  "model": "glm-5.3"
+}

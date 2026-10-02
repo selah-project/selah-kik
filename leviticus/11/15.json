@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "⟨את⟩ Orevi wothe, o ũmwe wa mbarĩ yake.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Orevi wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Orevi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "o ũmwe wa mbarĩ yake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:29.502818506Z",
+  "model": "glm-5.3"
+}

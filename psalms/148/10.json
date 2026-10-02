@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Nyamũ cia gĩthaka na o ng'ombe ciothe; thu cia thĩ, na cienjũ cia mahũa.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "nyamũ cia gĩthaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "thu cia thĩ"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "cienjũ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "cia mahũa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:01.788591668Z",
+  "model": "glm-5.3"
+}

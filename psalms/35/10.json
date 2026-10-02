@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Mĩfũ yakwa yothe ĩcoome: Yahwe, nĩ ũũ we mũgwo? Mũndũ wĩ hinya kũrĩ mũkenyo, na mũkenyo na mũthingo kuuma mũcũkĩri wao.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mĩfũ yakwa"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ĩcoome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "mũgwo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mũhoonokia"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mũkenyo"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mũndũ wĩ hinya kũrĩ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuma harĩ we"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "na mũkenyo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũthingo"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "kuuma mũcũkĩri wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:07.937436065Z",
+  "model": "glm-5.3"
+}

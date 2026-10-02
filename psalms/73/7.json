@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Yaturuma (kwĩrĩ-rĩ) irĩa-rĩ-rĩ-rĩ: irĩa-rĩ-rĩ-rĩ: maitho mao-rĩ-rĩ: maingĩ-rĩ-rĩ: maũndũ ma ngoro yao-rĩ-rĩ: nĩ mahĩtũkĩte-rĩ-rĩ-rĩ.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "nĩmaitĩte-rĩ (kuma)"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kuma mbĩrĩcũ-inĩ"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "maitho mao"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nĩmahĩtũkĩte"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "mecirio ma (ngoro yao)"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:07.461846072Z",
+  "model": "glm-5.3"
+}

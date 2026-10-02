@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 21:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Ahabu akĩwũra Nabothi akĩmogetha atĩrĩ: Ndehe ⟨את⟩ kinderi gwaku, nĩgũtuĩke gwakwa gĩkũndĩ kĩa mĩmera, nĩgũkorwo gĩa igũrũ rĩa nyũmba yaku; na ndĩkuhe thutha wayo kinderi kĩega kũrĩinĩ; kana ũrĩa kĩega maitho-inĩ maku, nĩkuhe thuci, thambari ĩyo nĩyo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akĩwũra"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabothi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩmogetha"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Ndehe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩngĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinderi gwaku"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kinderi gwaku"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgũtuĩke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gwakwa"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "gĩkũndĩ"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "kĩa mĩmera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "gĩa"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nyũmba yaku"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndĩkuhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thutha wayo"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kinderi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kũrĩinĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "maitho-inĩ maku"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "nĩkuhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "thuci"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "thambari"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ĩyo nĩyo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:04:22.511756723Z",
+  "model": "glm-5.3"
+}

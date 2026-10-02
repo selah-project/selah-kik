@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Naarah amũciarire ⟨את⟩ Ahuzamu, na ⟨את⟩ Heberi, na ⟨את⟩ Temeni, na ⟨את⟩ Haahactari. Aciu nĩ ciana cia Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "amũciarire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ-"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzamu"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Heberi"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Heberi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Haahactari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahactari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aciu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:00.276917979Z",
+  "model": "glm-5.3"
+}

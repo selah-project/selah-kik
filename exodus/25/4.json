@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na burũ, na purukari, na mbaĩrũ-inĩ cianjegeje, na sheshi, na thũcia cia mbũri.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "na burũ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na purukari"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na ngũni-ũthiĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cianjegeje"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na sheshi"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "na thũcia cia mbũri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:17.887898633Z",
+  "model": "glm-5.3"
+}

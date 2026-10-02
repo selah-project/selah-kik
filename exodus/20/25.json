@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Na rĩrĩa mizibacha wa mabwega ũkorerera ithuĩ, ndũkahĩga yacio ⟨את⟩ mabwega meganĩtwo; nĩgũkorwo ciarũbe yaku nĩũĩĩrũkĩte igũrũ rĩake, nĩũkahũrũkithia.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizibacha"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "wa mabwega"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ũkorerera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "hĩga"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "mabwega meganĩtwo"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "mabwega meganĩtwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ciarũbe yaku"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "nĩũĩĩrũkĩte"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "nĩũkahũrũkithia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:46.680158960Z",
+  "model": "glm-5.3"
+}

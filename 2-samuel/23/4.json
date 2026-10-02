@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na ta ũtheri wa mũthenya ũrĩa ũambĩrĩria, rĩngĩ ciũa ĩaza, mũthenya ũrĩa ũti na marĩgĩ, kuuma ũtheri, na kuuma mũbura, tũncũhĩ twĩũma thĩ.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "Na ta ũtheri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mũthenya ũrĩa ũambĩrĩria"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ciũa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "na marĩgĩ"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "kuuma ũtheri"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "kuuma mũbura"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "tũncũhĩ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:45:31.271242313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Maũndũ ma mĩthianĩrio nĩmahingũrire kũndũ kwakwa; mĩingĩ ya itwe ihĩtũkĩtie nĩwĩwe ũgĩcooka ũhingia.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ma mĩthianĩrio"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "mahingũrire"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kũndũ kwakwa"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mĩingĩ ya itwe ihĩtũkĩtie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwĩwe"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ũgĩcooka ũhingia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:12.128272338Z",
+  "model": "glm-5.3"
+}

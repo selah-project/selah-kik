@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Aroni ya Erohimu ĩikarĩte hamwe na andũ a nyũmba ya Ovedi-Edomu mũndũ wa Gati, thĩinĩ wa nyũmba yake mĩeri ĩtatatu; na Yahwe nĩrahũthĩrire ⟨את⟩ nyũmba ya Ovedi-Edomu na ⟨את⟩ o kĩndũ gĩa gwĩke aarĩ naguo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ĩikarĩte"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Erohimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "andũ a nyũmba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya Ovedi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "thĩinĩ wa nyũmba yake"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ĩtatatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mĩeri"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nĩrahũthĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Ovedi-Edomu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya Ovedi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "o kĩndũ kĩa gwĩke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩa gwĩke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aarĩ naguo"
+    }
+  ],
+  "timestamp": "2026-10-02T05:27:51.253958871Z",
+  "model": "glm-5.3"
+}

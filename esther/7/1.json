@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mũthamaki na Hamani magĩcoka makĩinya kũnywa hamwe na Ecteri mũtumia-mũthamaki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "makĩinya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "na Hamani"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "kũnywa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ecteri"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mũtumia-mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-02T04:48:31.603926317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ti kĩugo, na ti ciugo — mĩgambo wao ndĩiguagwo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kĩugo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ndĩiguagwo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mĩgambo wao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:47.347210646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 138,
+  "translation": "Nĩmagũkũhoyagĩra, Yahwe, athamaki othe a thĩ; nĩmaumĩte ciugo cia kanua gĩaku.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "nĩmagũkũhoyagĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nĩmaumĩte"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "cia kanua gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:37.305733995Z",
+  "model": "glm-5.3"
+}

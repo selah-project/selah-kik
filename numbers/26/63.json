@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 26:63",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Aĩ nĩ arĩa Moce na Elearari mũthĩnjĩri-ngai maakonainie ⟨את⟩ ciana cia Yiceraeri, thĩinĩ wa mĩena ya Moabu, hakuhĩ na Yardeni, mbere ya Yeriho.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "aĩ"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "arĩa maakonainie"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "na Elearari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "maakonainie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "thĩinĩ wa mĩena ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho"
+    }
+  ],
+  "timestamp": "2026-10-01T22:08:47.971912812Z",
+  "model": "glm-5.3"
+}

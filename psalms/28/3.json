@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Ndũkĩnyorora hamwe na andũ arĩa mahĩtia, na hamwe na arĩa mekaga ihĩtia, arĩa maugaga thayo na arĩa me hakuhĩ nao, na ihĩtia ikĩguna thĩinĩ wa ngoro ciao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "kĩnyorora"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "andũ arĩa mahĩtia"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na hamwe na"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "arĩa mekaga"
+    },
+    {
+      "surface": "און",
+      "gloss": "ihĩtia"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "arĩa maugaga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "arĩa me hakuhĩ nao"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "na ihĩtia"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "thĩinĩ wa ngoro ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T02:59:03.536970193Z",
+  "model": "glm-5.3"
+}

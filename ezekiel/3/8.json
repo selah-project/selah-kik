@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Rĩrĩ, nĩndĩrehe ⟨את⟩ ĩeno cyako ihĩnya ta ĩeno ciao, na ⟨את⟩ mũtwe wako mũkĩgĩ ta mĩtwe ciao.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩndĩrehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ĩeno cyako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ĩeno cyako"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "ihĩnya"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ĩeno ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũtwe wako"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "mũtwe wako"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mũkĩgĩ"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "mĩtwe ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:47:34.096072841Z",
+  "model": "glm-5.3"
+}

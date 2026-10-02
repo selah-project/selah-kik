@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na mbembe ithuĩ na minda ithuĩ nĩagĩcĩkagĩra ikũmi, na akĩhe ari a mbũtũ cia gũthinja na athĩnjĩri-ngai arie acio ho.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "mbembe ithuĩ"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "minda ithuĩ"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "nĩagĩcĩkagĩra ikũmi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "na akĩhe"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "ari a mbũtũ cia gũthinja"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "athĩnjĩri-ngai arie acio ho"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:56.369180418Z",
+  "model": "glm-5.3"
+}

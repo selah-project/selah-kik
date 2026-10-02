@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 13:3",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "na ng'aragu ũcio na kĩngerekera kĩu kĩkĩhota, ũrĩa waaria na kwanyu na kũuga atĩrĩ: Nĩtũthĩĩ thutha wa ngai ingĩ arĩa mũtigũmenyetwe, na nĩtũmatungata;",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "na kĩkĩhota"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ng'aragu ũcio"
+    },
+    {
+      "surface": "והמופת",
+      "gloss": "kĩngerekera kĩu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "waaria"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwanyu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga atĩrĩ"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "nĩtũthĩĩ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mũtigũmenyetwe"
+    },
+    {
+      "surface": "ונעבדם",
+      "gloss": "na nĩtũmatungata"
+    }
+  ],
+  "timestamp": "2026-10-01T22:26:28.910077574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nake akiuga: Ũme-koretwo-ũkĩĩkĩra kĩ? Mũgambo wa thakame cia mũrũ wa nyina waku nĩũrahũthagũka nginya kwa-inĩ kwakwa, kuuma thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩaugĩte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ũme-koretwo-ũkĩĩkĩra"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "thakame-cia"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ-wa-nyina-waku"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "nĩũrahũthagũka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nginya-kwa-inĩ-kwakwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:52.568912267Z",
+  "model": "glm-5.3"
+}

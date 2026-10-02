@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 90,
+  "translation": "Mbere thiiri cia kuibukĩrwo, na mbere wa kũturũra ⟨את⟩ thĩ na ⟨את⟩ thĩ yothe, kuuma tene kinya tene, we nĩ Ere.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "thiiri"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "kuibukĩrwo"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "kũturũra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "na thĩ yothe"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "kuuma tene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:21.288603195Z",
+  "model": "glm-5.3"
+}

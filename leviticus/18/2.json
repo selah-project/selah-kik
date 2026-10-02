@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ũrĩrie ciana cia Yiceraeri, ũme ũguo nĩma: Niĩ nĩngĩ, Yahwe Erohimu wanyu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ũrĩrie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ũme ũguo nĩma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nĩma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Niĩ nĩngĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:31.793032789Z",
+  "model": "glm-5.3"
+}

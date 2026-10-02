@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Wĩngĩĩtie ⟨את⟩ ihũtia rya andũ arĩa, wĩcingĩtie mahĩtia mao othe. Cela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "wĩngĩĩtie"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ihũtia"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ arĩa"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "wĩcingĩtie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "mahĩtia mao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cela"
+    }
+  ],
+  "timestamp": "2026-10-02T06:57:32.889669830Z",
+  "model": "glm-5.3"
+}

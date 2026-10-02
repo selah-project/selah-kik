@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Nacio na igĩrĩ mwathi Dawidi agĩtherithithia kwa Yahwe, hamwe na ⟨the⟩ feza na thahabu ĩrĩa atanuuraga kuuma ndũrĩrĩ ciothe — kuuma Edomi, na kuuma Moabi, na kuuma aana a Amoni, na kuuma Piliti, na kuuma Amaleki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na igĩrĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Nacio"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "agĩtherithithia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "feza"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atanuuraga"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma ciothe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "kuuma Edomi"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "na kuuma Moabi"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "na kuuma aana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "na kuuma Piliti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "na kuuma Amaleki"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:03.005964468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 125,
+  "translation": "Na arĩa macokĩra mĩthĩa-inĩ yao ya gũcokeracokera, Yahwe nĩmakĩohe hamwe na ⟨את⟩ arĩa marũa ũthingo; thĩĩ ĩrĩkũga ũrĩa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Na arĩa macokĩra"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "mĩthĩa yao ya gũcokeracokera"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "nĩmakĩohe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa marũa ũthingo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "arĩa marũa"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ũthingo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thĩĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩrĩkũga ũrĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:12.348444098Z",
+  "model": "glm-5.3"
+}

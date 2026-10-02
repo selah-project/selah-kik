@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Kiagĩrĩru nĩ rĩrĩ thĩinĩ wa maitho ma Yahwe riũ rĩa arĩa atheru ake.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Kiagĩrĩru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "riũ rĩa"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "arĩa atheru ake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:33.622688505Z",
+  "model": "glm-5.3"
+}

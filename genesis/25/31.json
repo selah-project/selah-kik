@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na Yaakobu akiuga: Rũngĩra rĩu ⟨את⟩ ũciarĩ-wa-mbere waku ĩngĩ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Rũngĩra"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũciarĩ-wa-mbere waku"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ũciarĩ-wa-mbere waku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:42:38.660974058Z",
+  "model": "glm-5.3"
+}

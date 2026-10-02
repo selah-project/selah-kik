@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Thayai, ene kilima, ⟨את⟩ ciira kĩa Yahwe, na ithembo cia thĩ iria ihote: nĩ gũkoruo Yahwe arĩ na ciira na andũ ake, na na Yiceraeri aikũranagia.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "thayai"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciira"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "na ithembo iria ihote"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "cia ithembo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkoruo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "aikũranagia"
+    }
+  ],
+  "timestamp": "2026-10-02T02:37:00.011927519Z",
+  "model": "glm-5.3"
+}

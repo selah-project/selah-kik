@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na rĩu nĩngĩonekithia ⟨את⟩ menyo yake thĩinĩ wa maitho ma arĩa amendete, na mũndũ ndangĩmũhonokia moko-inĩ rakwa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩu"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "nĩngĩonekithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menyo yake"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "menyo yake"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "thĩinĩ wa maitho ma"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "arĩa amendete"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "ndangĩmũhonokia"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "moko-inĩ rakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:17:46.313894156Z",
+  "model": "glm-5.3"
+}

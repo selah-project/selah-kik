@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩekaga ciira cia mũciĩ na wa mũthingu, na nĩendaga mũthurani, nĩgeetha amũhe irio na nduo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ekaga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "na-mũthingu"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "nĩendaga"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mũthurani"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nĩgeetha-amũhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amũ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "na-nduo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:22:11.458416869Z",
+  "model": "glm-5.3"
+}

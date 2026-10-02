@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Nĩndĩgũthiĩ mbere ya Yahwe, thĩ-inĩ ya ⟨arĩa⟩ mendi.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "nĩndĩgũthiĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya arĩa mendi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:23.334300313Z",
+  "model": "glm-5.3"
+}

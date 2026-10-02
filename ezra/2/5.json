@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ciana cia Araki, magana mũrũmũ na ithano, ikũmi na mũrũmũ na ithano.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Araki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũrũmũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ikũmi na mũrũmũ na ithano"
+    }
+  ],
+  "timestamp": "2026-10-02T05:01:12.608072749Z",
+  "model": "glm-5.3"
+}

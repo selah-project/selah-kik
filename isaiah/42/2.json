@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Ndarĩ akuuga kĩeha kĩnene, na ndarĩ atĩĩra kĩguna gĩake, na ndarĩ eraria kĩguna gĩake harĩa ng'aro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "akuuga kĩeha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "atĩĩra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "eraria"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "harĩa ng'aro"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "kĩguna gĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T00:46:44.970092643Z",
+  "model": "glm-5.3"
+}

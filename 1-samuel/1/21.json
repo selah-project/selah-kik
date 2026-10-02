@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na mũndũ Elkanahĩ na mũciĩ wake wothe agĩthiĩ igũrũ gũcununithia Yahwe ⟨את⟩ cununithio cia mĩthenya, na ⟨את⟩ nayo yakwe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "agĩthiĩ igũrũ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "mũciĩ wake"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "gũcununithia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cununithio cia mĩthenya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "cununithio"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "cia mĩthenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nayo yakwe"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nayo yakwe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:10:32.376874428Z",
+  "model": "glm-5.3"
+}

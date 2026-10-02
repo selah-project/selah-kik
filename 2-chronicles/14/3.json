@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Akĩmeeria andũ a Yuda atĩ makarondere ⟨את⟩ Yahwe, Erohimu wa aandũ a tene aao, na makĩĩka Tora na watho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeeria"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "andũ a Yuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kũrondora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "aandũ a tene aao"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "na kũĩka"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "na watho"
+    }
+  ],
+  "timestamp": "2026-10-02T05:51:14.882960596Z",
+  "model": "glm-5.3"
+}

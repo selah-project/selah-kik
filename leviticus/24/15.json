@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na arĩa ciana cia Yiceraeri ũraigĩre uguo: Mũndũ o na mũndũ, rĩrĩa akũrira Erohimu wake, nĩagĩrĩire kũbarĩra mahĩtia make.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ũraigĩre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uguo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "o na mũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "akũrira"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "nĩagĩrĩire kũbarĩra"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mahĩtia make"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:46.173738009Z",
+  "model": "glm-5.3"
+}

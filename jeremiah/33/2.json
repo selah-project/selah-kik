@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nguuo Yahwe oigĩte, Yahwe ũrĩa ũmbĩte ⟨את⟩ ũcio, Yahwe mũtonganĩrie ũcio hagwi ya kũmeenia ũcio, Yahwe ndĩ rĩĩtwa rĩake.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "nguuo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũmbĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "mũtonganĩrie"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ũcio (kĩndũ gĩa ũguo kĩũmbĩtwo)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "kũmeenia ũcio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    }
+  ],
+  "timestamp": "2026-10-02T01:25:12.818274425Z",
+  "model": "glm-5.3"
+}

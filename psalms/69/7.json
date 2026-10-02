@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Arĩa memeterĩte inwe matihĩtie kũheanwo ithĩmi nĩ ũndũ wakwa, Adonai, Yahwe Cebaoti; arĩa makunyaũra inwe matihĩtie kũheanwo kurumĩrĩru nĩ ũndũ wakwa, Erohimu wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "matihĩtie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "kũheanwo ithĩmi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nĩ ũndũ wakwa"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "arĩa memeterĩte inwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "matihĩtie"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "kũheanwo kurumĩrĩru"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nĩ ũndũ wakwa"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "arĩa makunyaũra inwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:10.114059976Z",
+  "model": "glm-5.3"
+}

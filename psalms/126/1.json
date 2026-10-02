@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 126,
+  "translation": "Rwimbo rwa mahiga ma kũigũrũka. Rĩrĩa Yahwe agũcokerithia ⟨את⟩ kũgũcokia kwa Cioni, tũarĩ ta arĩa meciria magĩcooka na meciria mega ndoto.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "rwimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "rwa mahiga ma kũigũrũka"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "rĩrĩa ... agũcokerithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũgũcokia kwa Cioni"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "kũgũcokia"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioni"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tũarĩ"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "ta arĩa mega ndoto"
+    }
+  ],
+  "timestamp": "2026-10-02T03:38:31.093777800Z",
+  "model": "glm-5.3"
+}

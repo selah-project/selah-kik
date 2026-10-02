@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na Yiceraeri nĩendete ⟨את⟩ Yocefu kũgerera ciana ciake ciothe, nĩgũkoruo nĩwe mũrũ wa ũkũru wake; nĩamũteithitie kĩnguo gĩa mĩtheri mingĩ.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Na Yiceraeri"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yocefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kũgerera...ciothe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ũkũru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "nĩamũteithitie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kĩnguo"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "gĩa mĩtheri mingĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:50:32.149513537Z",
+  "model": "glm-5.3"
+}

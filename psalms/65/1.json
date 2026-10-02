@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 65,
+  "translation": "Kũrĩ mũcunjiri-inĩ wa kũinĩra. Kĩhunjio kĩa Dawidi. Kĩama.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcunjiri-inĩ wa kũinĩra"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩhunjio"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kĩama"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:12.116772178Z",
+  "model": "glm-5.3"
+}

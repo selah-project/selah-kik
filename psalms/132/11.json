@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 132,
+  "translation": "Yahwe nĩĩrire kiiko kwa Dawidi na ⟨na⟩ ma: ndagĩcooka kuuma yayo — kuuma mboco ya irĩro rĩaku nĩngĩthĩkĩria ⟨harĩa⟩ kĩgongona-inĩ gwaku.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "nĩĩrire kiiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Dawidi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "gĩcooka"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuuma yayo"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "kuuma mboco"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ya irĩro rĩaku"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nĩngĩthĩkĩria"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "kĩgongona-inĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gwaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:52.516729966Z",
+  "model": "glm-5.3"
+}

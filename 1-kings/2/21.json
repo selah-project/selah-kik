@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nake akiuga: Ngathĩke ⟨את⟩ Abicagi wa Cunamu aheo Adoniayahu mũrũ wa nyina, agĩtuĩka mũka wake.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nake akiuga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ngathĩke aheo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abicagi wa Cunamu"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abicagi"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "wa Cunamu"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniayahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wa nyina"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "agĩtuĩka mũka wake"
+    }
+  ],
+  "timestamp": "2026-10-02T06:32:30.242642829Z",
+  "model": "glm-5.3"
+}

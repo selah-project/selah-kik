@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mweri ũyũ nĩwanyu mũtwe wa mweri; ⟨nĩ⟩ mweri wa mbere wanyu harĩ mweri wa mwaka.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Mweri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nĩwanyu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mũtwe"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nĩ⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wanyu"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "harĩ mweri"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "wa mwaka"
+    }
+  ],
+  "timestamp": "2026-10-01T21:06:07.574839556Z",
+  "model": "glm-5.3"
+}

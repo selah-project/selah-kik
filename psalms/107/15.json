@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Nĩmeegererie Yahwe hecedi wake, na marĩa maakenja kũhana andũ a mĩrĩĩre.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "nĩmeegererie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na marĩa maakenja"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ a mĩrĩĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:10.452815501Z",
+  "model": "glm-5.3"
+}

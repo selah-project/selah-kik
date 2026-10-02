@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 75,
+  "translation": "Nĩgũkorwo Erohimu nĩwe mũciiri; ũmwe amũhũthia, na ũngĩ amũiguũria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "nĩwe mũciiri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "amũhũthia"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na ũngĩ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "amũiguũria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:15:50.784577815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Andũ makĩhiaria kũrĩ Moce; Moce agĩthayerera Yahwe, na ndaki ĩĩthĩkĩtie.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "makĩhiaria"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "agĩthayerera"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ĩĩthĩkĩtie"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ndaki"
+    }
+  ],
+  "timestamp": "2026-10-01T21:57:29.082787970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Erohimu akĩkũra kwa Bireamu, akĩmũuga atĩrĩ: ⟨את⟩ mĩthingĩ ĩrĩa mũgwanja nĩmeereire, na nĩngĩhĩhia ng'ombe na ndatũ thĩinĩ wa mũthingĩ.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "akĩkũra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bireamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũuga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthingĩ ĩrĩa mũgwanja"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ĩrĩa mũgwanja"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "wa mĩthingĩ"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "nĩmeereire"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "na nĩngĩhĩhia"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "na ndatũ"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "thĩinĩ wa mũthingĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:07:03.891511026Z",
+  "model": "glm-5.3"
+}

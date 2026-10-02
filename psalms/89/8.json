@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Ere, mũnene, methĩtwo nĩ gwethe thĩinĩ wa mocira wa atheru, na ũtũrĩtwo nĩ gũtinya kũrĩ aothe a muhirũria.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "methĩtwo nĩ gwethe"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "thĩinĩ wa mocira"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wa atheru"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "na ũtũrĩtwo nĩ gũtinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "a muhirũria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:20.856372637Z",
+  "model": "glm-5.3"
+}

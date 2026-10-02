@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na mĩrathi-inĩ ya Ceromeni nĩngũonete ũhenania; marathĩrire na Baari, na maatũnirie ⟨את⟩ andũ awa ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "Na mĩrathi-inĩ ya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Ceromeni"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩngũonete"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ũhenania"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "marathĩrire"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "na Baari"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "na maatũnirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ awa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T01:17:38.958588976Z",
+  "model": "glm-5.3"
+}

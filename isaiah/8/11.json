@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 8:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩgũkũria Yahwe ainire ũgu kwakwa, na hinya wa moko wake, na anarutithia kwakwa ndĩthome njĩra ya andũ acio, na kuuga atĩrĩ:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũria"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũgu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ainire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "כחזקת",
+      "gloss": "na hinya wa"
+    },
+    {
+      "surface": "היד",
+      "gloss": "moko wake"
+    },
+    {
+      "surface": "ויסרני",
+      "gloss": "anarutithia kwakwa"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ndĩthome"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "njĩra ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ acio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kuuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:49.355025840Z",
+  "model": "glm-5.3"
+}

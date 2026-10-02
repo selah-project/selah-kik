@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na ngoro yakwa yatĩmũkĩte mũno; na ⟨את⟩ we, Yahwe, — nginya rĩrĩ?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "na ngoro yakwa"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "yatĩmũkĩte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "we, Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:01.919522581Z",
+  "model": "glm-5.3"
+}

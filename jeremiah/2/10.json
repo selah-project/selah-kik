@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 2:10",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Thiaini cibũ cia Citi na muone, na Cedari thomani, na mwĩgiene mũno, na muone rĩrĩ: nĩkorũkũ kĩndũ ta kĩu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "thiaini"
+    },
+    {
+      "surface": "איי",
+      "gloss": "cibũ"
+    },
+    {
+      "surface": "כתיים",
+      "gloss": "Citi"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na muone"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "na Cedari"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "thomani"
+    },
+    {
+      "surface": "והתבוננו",
+      "gloss": "na mwĩgiene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "na muone"
+    },
+    {
+      "surface": "הן",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nĩkorũkũ"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ta kĩu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:58:09.798630098Z",
+  "model": "glm-5.3"
+}

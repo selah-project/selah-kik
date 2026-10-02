@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Akĩgũcita na agĩkua itha na Pciliti; akĩrĩurũra ⟨את⟩ kĩrĩgĩrĩro gĩa Gatĩ, na ⟨את⟩ kĩrĩgĩrĩro gĩa Yabane, na ⟨את⟩ kĩrĩgĩrĩro gĩa Acidodi; akĩamũrĩra mĩciĩ Acidodi-inĩ na gatagatĩ ka Pciliti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akĩgũcita"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "agĩkua itha"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pciliti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "akĩrĩurũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩgĩrĩro gĩa Gatĩ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kĩrĩgĩrĩro"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩgĩrĩro gĩa Yabane"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kĩrĩgĩrĩro"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩgĩrĩro gĩa Acidodi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kĩrĩgĩrĩro"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Acidodi"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "akĩamũrĩra"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Acidodi-inĩ"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "gatagatĩ ka Pciliti"
+    }
+  ],
+  "timestamp": "2026-10-02T05:57:29.644837281Z",
+  "model": "glm-5.3"
+}

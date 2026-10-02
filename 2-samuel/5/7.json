@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "No Dawidi anyitire ⟨את⟩ kĩamba kĩa Ciyoni; ĩyo nĩyo gĩcagi kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "nĩanyitire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩamba kĩa Ciyoni"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "kĩa Ciyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gĩcagi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:33.072485137Z",
+  "model": "glm-5.3"
+}

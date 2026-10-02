@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ũmenye konyo ya mũkũrũ na ya mũkũrũ wa ũthĩnja; ũndarore ũkũrũ wake, mbee ndĩkonokore ata tiga.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Ũmenye"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "konyo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mũkũrũ"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "na ya mũkũrũ wa ũthĩnja"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ũndarore"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ũkũrũ wake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mbee"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ndĩkonokore ata tiga"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:56.839421797Z",
+  "model": "glm-5.3"
+}

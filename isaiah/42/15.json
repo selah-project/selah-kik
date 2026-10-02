@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Nĩngĩhĩa ithuirĩ na irĩma, na ũrĩa wĩra wacio wothe ũngĩoma; na nĩngĩgĩa mĩrĩĩ ĩtuĩke marũnga, na mabũra nĩngĩoma.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Nĩngĩhĩa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ithuirĩ"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "na irĩma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ũrĩa wothe"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "wĩra wacio"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ũngĩoma"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "na nĩngĩgĩa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mĩrĩĩ"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "ĩtuĩke marũnga"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "na mabũra"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "nĩngĩoma"
+    }
+  ],
+  "timestamp": "2026-10-02T00:45:53.946674817Z",
+  "model": "glm-5.3"
+}

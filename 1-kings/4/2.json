@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na atamani ake ⟨arĩ⟩ aria: Azariahu mũrĩ wa Cadoki, mũthii.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na ... aria"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "atamani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azariahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrĩ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthii"
+    }
+  ],
+  "timestamp": "2026-10-01T23:48:31.878968947Z",
+  "model": "glm-5.3"
+}

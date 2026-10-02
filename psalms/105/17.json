@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Nĩatumire mũndũ mbere yao; Yucefu mũthũni nĩagunutwo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nĩatumire"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mbere yao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "mũthũni"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "nĩagunutwo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yucefu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:47.021044198Z",
+  "model": "glm-5.3"
+}

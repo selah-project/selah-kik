@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩndĩheere tha, Yahwe, nĩgũkorwo nĩnyitwo nĩ mathina; riitho rĩakwa rĩagwetwo nĩ kĩeha, ngombo yagwa nĩguo, na neci yagwa nĩguo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "nĩndĩheere tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nĩnyitwo nĩ mathina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yakwa"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "rĩagwetwo"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "nĩ kĩeha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "riitho rĩakwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngombo yakwa"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "na neci yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:21.827247089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Kũrĩ mũcũranji wĩra. Kĩimbe kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcũranji wĩra"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:33.833056694Z",
+  "model": "glm-5.3"
+}

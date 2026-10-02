@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ruuvani, Cimeoni, Revi, na Yuda.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Ruuvani"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yuda"
+    }
+  ],
+  "timestamp": "2026-10-01T20:59:17.946629317Z",
+  "model": "glm-5.3"
+}

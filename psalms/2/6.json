@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na o ngĩĩ, nĩngĩĩthimĩirie mwathani wakwa thĩinĩ wa Ciyoni, kilima wakwa wa ũtheru.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na o ngĩĩ"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "nĩngĩĩthimĩirie"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mwathani wakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "wa ũtheru wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:48:43.518818188Z",
+  "model": "glm-5.3"
+}

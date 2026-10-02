@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "Nĩ arĩa macie makoragora nĩmacĩũa, na makorohoa ⟨את⟩ Yahwe; na arĩa makorunganira matũnyua harĩ mabatini ma ũtheru wakwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "arĩa macie makoragora"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "nĩmacĩũa"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "na makorohoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "na arĩa makorunganira"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "matũnyua"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "harĩ mabatini"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ma ũtheru wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:55:12.100316673Z",
+  "model": "glm-5.3"
+}

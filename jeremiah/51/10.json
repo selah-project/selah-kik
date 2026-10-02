@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Yahwe nĩatũĩĩthĩtie ⟨את⟩ cedeki ciitũ; njeni, na nĩtũhaanie Ziyoni ⟨את⟩ wira wa Yahwe Erohimu witũ.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "nĩatũĩĩthĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedeki ciitũ"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "cedeki ciitũ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "njeni"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "na nĩtũhaanie"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ziyoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wira"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:40:00.405195273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Moce akĩĩka ta ũrĩa Yahwe amwagĩrĩirie ⟨את⟩, na mũthingũ wĩkũrũkũranĩte kũrĩ mũromo wa thĩĩmba ya kũonana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩĩka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amwagĩrĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "wĩkũrũkũranĩte"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũthingũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũromo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "thĩĩmba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũonana"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:44.224314380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Thĩinĩ wa Gati mũtabarĩre; mũroire ti kũroira; thĩinĩ wa Beti-re-Afura nĩngaarũrage thĩinĩ wa mũthanga.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "thĩinĩ wa Gati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "mũtabarĩre"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "mũroire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "kũroira"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thĩinĩ wa Beti-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "re-Afura"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mũthanga"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "nĩngaarũrage thĩinĩ wa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:02.034681217Z",
+  "model": "glm-5.3"
+}

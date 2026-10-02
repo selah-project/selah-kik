@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Thĩinĩ wa mĩhari ĩrĩa ĩrayaharĩrĩtie nĩtagwo ũmuthi, mbegũ cia iria-inĩ, thĩinĩ wa gĩtũũra aragia mario.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "mĩhari-inĩ"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "arĩa ĩrayaharĩrĩtie"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "nĩtagwo ũmuthi"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "mbegũ cia"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "thĩinĩ wa gĩtũũra"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "mario"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "aragia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:37.959909980Z",
+  "model": "glm-5.3"
+}

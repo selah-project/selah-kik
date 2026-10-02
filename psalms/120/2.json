@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 120,
+  "translation": "Yahwe, hũũra ngoro yakwa kuuma mĩrũrũ ya maheenia, na kuuma rũrũmĩ rwa kũhunja.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "hũũra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "kuuma mĩrũrũ ya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "maheenia"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "kuuma rũrũmĩ rwa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "kũhunja"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:15.654934813Z",
+  "model": "glm-5.3"
+}

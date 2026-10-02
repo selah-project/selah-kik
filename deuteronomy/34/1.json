@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Moce akĩrũa kuuma mĩrinkini ya Mowabu, agĩkĩrĩma Necobo, mũthingu wa Piciga, ũrĩa ũrĩ thĩinĩ wa mbere ya Yericho; na Yahwe akĩmũonithia ⟨את⟩ thĩ yothe — ⟨את⟩ Gireadi nginya Dani.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akĩrũa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "mĩrinkini"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agĩ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Necobo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Piciga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "akĩmũonithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gireadi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gireadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    }
+  ],
+  "timestamp": "2026-10-01T22:38:00.203888427Z",
+  "model": "glm-5.3"
+}

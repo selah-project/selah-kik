@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na akĩugĩra ũguo: Yahwe, Erohimu wa Cemu, nĩabũrũkio; na Kenani ndakuũra agĩtua mũthũni wao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "na akĩugĩra"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nĩabũrũkio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cemu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "na ndakuũra agĩtua"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũthũni"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:38.595645844Z",
+  "model": "glm-5.3"
+}

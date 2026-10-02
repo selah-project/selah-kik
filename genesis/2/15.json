@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩgarũrire Yahwe Erohimu ⟨את⟩ mũndũ, akĩmũikara kĩambĩri-inĩ kĩa Edeni agĩcangũra na kũririkira ũguo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Nĩgarũrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "akĩmũikara"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "kĩambĩri-inĩ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "kĩa Edeni"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "agĩcangũra"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "na kũririkira ũguo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:06.493981303Z",
+  "model": "glm-5.3"
+}

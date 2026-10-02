@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Gũkora kweri kwao, Erohimu wakwa, nĩngwenda, na Torayao ĩrĩ thĩinĩ wa mẽa rĩngĩ.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "gũkora"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kweri kwao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nĩngwenda"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "na Torayao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mẽa rĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:19.885446281Z",
+  "model": "glm-5.3"
+}

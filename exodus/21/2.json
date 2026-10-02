@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Rĩrĩa ũgagũruta mũtumĩri Mũhibirania, mĩaka ithathatũ nĩahũthĩrĩtie; na mũgwanja-inĩ nĩakuũra wa wiyathi, gũtirĩ kĩeha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Rĩrĩa"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "ũgagũruta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũtumĩri"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Mũhibirania"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ithathatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "nĩahũthĩrĩtie"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "na mũgwanja-inĩ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩakuũra"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "wa wiyathi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gũtirĩ kĩeha"
+    }
+  ],
+  "timestamp": "2026-10-01T21:14:57.596108424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Bata Aharoni na ⟨את⟩ Erecari mũrũ wake, mĩtukĩre ⟨את⟩ Hori, kĩrĩma kĩu.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Bata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Erecari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erecari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "mĩtukĩre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Hori"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hori"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kĩrĩma kĩu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:04:23.353947934Z",
+  "model": "glm-5.3"
+}

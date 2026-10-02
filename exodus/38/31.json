@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na ⟨את⟩ mathako ma kĩgwa gĩkĩrĩruka thayũ, na ⟨את⟩ mathako ma mũgate wa kĩgwa, na ⟨את⟩ mĩciara yothe ya Micikani, na ⟨את⟩ mĩciara yothe ya kĩgwa thayũ-kĩu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathako ma kĩgwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mathako"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ma kĩgwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathako ma mũgate wa kĩgwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mathako"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mũgate"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wa kĩgwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩciara yothe ya Micikani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mĩciara"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Micikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩciara yothe ya kĩgwa thayũ-kĩu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mĩciara"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya kĩgwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "thayũ-kĩu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:36.960410160Z",
+  "model": "glm-5.3"
+}

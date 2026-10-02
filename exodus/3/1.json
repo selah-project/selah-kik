@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Moce nao nĩaakarĩ mũcambi wa ⟨את⟩ ng'ondu cia Yitro mũthuuri wake, mũcogi wa Midiani; akĩhingia ⟨את⟩ ng'ondu thutha wa gĩcakĩrĩ, agĩkinya kĩrĩma-inĩ kĩa Erohimu, Koreba.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moce nao"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩaakarĩ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mũcambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ondu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mũthuuri wake"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mũcogi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiani"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "akĩhingia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ondu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gĩcakĩrĩ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩkinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kĩa Erohimu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Koreba"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:49.105292311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩndĩririe kũcina-inĩ: nĩ ũtheru mbatarĩ; na ngaaca-inĩ ndĩringithirie: Ũgĩte kĩĩ?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "kũcina-inĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩndĩririe"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "nĩ ũtheru mbatarĩ"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "na ngaaca-inĩ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũgĩte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũgĩte kĩĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T07:06:17.222304876Z",
+  "model": "glm-5.3"
+}

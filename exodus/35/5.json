@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Mũthĩ kĩrathimo: Toarĩ kũrĩ inywe ⟨את⟩ theruma ya Yahwe; mũndũ o wothe wĩ ngoro ya wĩiyenderera nĩatũũre ⟨את⟩ theruma ya Yahwe: thahabu, risiva, na tahi.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "toarĩ"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "kũrĩ inywe ⟨את⟩"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "theruma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "wĩiyenderera"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "nĩatũũre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "theruma ya Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "theruma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "risiva"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "tahi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:20.339606607Z",
+  "model": "glm-5.3"
+}

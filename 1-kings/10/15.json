@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Itangĩ kĩrĩa kĩa andũ arĩa makinyĩra maũndũ kana kũthiĩ na kũcooka, na marũi ma arĩa methambania maũndũ, na mĩthamaki yothe ya andũ arĩa makaranĩtio mĩthemba, na athamaki ainĩ a nthĩ.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Itangĩ"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "kĩrĩa kĩa andũ"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "arĩa makinyĩra maũndũ"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "na marũi"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "a arĩa methambania maũndũ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "a mĩthamaki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "arĩa makaranĩtio"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "na athamaki ainĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a nthĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:20.989481783Z",
+  "model": "glm-5.3"
+}

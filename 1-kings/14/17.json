@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Mũka wa Yerobeamu akĩimba, agĩthiĩ na akĩkinya Tircata; rĩrĩa we mũthemba aakĩinjĩra kĩango kĩa nyũmba, mũriĩ nĩakuire.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "akĩimba"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mũka wa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeamu"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "akĩkinya"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "Tircata"
+    },
+    {
+      "surface": "היא",
+      "gloss": "we mũthemba"
+    },
+    {
+      "surface": "באה",
+      "gloss": "aakĩinjĩra"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "kĩango kĩa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "mũriĩ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nĩakuire"
+    }
+  ],
+  "timestamp": "2026-10-01T23:59:08.340132613Z",
+  "model": "glm-5.3"
+}

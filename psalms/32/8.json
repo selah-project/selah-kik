@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩngũkũrigicithia, na nĩngũkũoroora mũciaro-inĩ ũrĩa ũgĩthiaga; nĩngũkũheera ũraũri — meso gwakwa nĩgũkũrora.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Nĩngũkũrigicithia"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "na nĩngũkũoroora"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mũciaro-inĩ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ũgĩthiaga"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "nĩngũkũheera ũraũri"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gwikĩra wĩra harĩ waku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meso gwakwa nĩgũkũrora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:35.777288463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 87,
+  "translation": "Yahwe enda iria cia Zioni, kũrĩ o mĩcikani ya Yaakobu.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "enda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "iria"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "cia Zioni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kũrĩ o"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mĩcikani"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakobu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:38.481436709Z",
+  "model": "glm-5.3"
+}

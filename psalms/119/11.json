@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Thĩinĩ wa ngoro yagwa ndĩthingithitie kĩugo gĩaku, nĩgeetha ndĩkethĩre njohie Gĩaku.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "thĩinĩ wa ngoro yagwa"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ndĩthingithitie"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kĩugo gĩaku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩkethĩre"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "njohie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:51.102556347Z",
+  "model": "glm-5.3"
+}

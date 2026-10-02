@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na gũthĩ akĩnyararia kwaro igũrũ rĩa mũgiro mũgwanja ithaa, akĩhanĩra ⟨את⟩ mũgiro na ⟨את⟩ indo ciothe cia kĩo, na ⟨את⟩ kĩroro na ⟨את⟩ mũthingo wakĩo, ethĩkĩrire kũmũtherithia.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "akĩnyararia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mũgiro"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ithaa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "akĩhanĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgiro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mũgiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe cia kĩo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "indo cia kĩo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩroro"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kĩroro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mũthingo wakĩo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "mũthingo wakĩo"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "ethĩkĩrire kũmũtherithia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:22.439259945Z",
+  "model": "glm-5.3"
+}

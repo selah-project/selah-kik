@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Na kabiri wa Yahwe nĩkaonekera, na nyama yothe nĩcionerũo hamwe, nĩgũkorwo kanywa ka Yahwe nĩkaarie.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "nĩkaonekera"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "nĩcionerũo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanywa ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nĩkaarie"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:21.205512996Z",
+  "model": "glm-5.3"
+}

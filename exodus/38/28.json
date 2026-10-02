@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na ⟨את⟩ ngiri ĩmwe na miano mũgwanja na ikũmi na mũgwanja na ithano ⟨cekeri⟩ nĩmekorũo mekorerethia njora cia mĩti, na nĩmekũngũrũkia matwe macio, na nĩmeikarũkia na thinja ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ngiri ĩmwe na miano mũgwanja na ikũmi na mũgwanja na ithano"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ngiri ĩmwe"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "miano"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ikũmi na mũgwanja na ithano"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ikũmi na mũgwanja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩmekorũo mekorerethia"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "njora"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "cia mĩti"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "nĩmekũngũrũkia"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "matwe macio"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "nĩmeikarũkia na thinja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:19.261543158Z",
+  "model": "glm-5.3"
+}

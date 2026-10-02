@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Akĩuga: Mũgambo waku nĩngwĩtire thĩinĩ wa mũgũnda, nĩndĩĩtĩrĩire nĩgũo nĩ nĩ ndĩ mũthuo, nĩrĩo nĩndĩhĩrĩirie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo waku"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "mũgambo waku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nĩngwĩtire"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "thĩinĩ wa mũgũnda"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "nĩndĩĩtĩrĩire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũo"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "mũthuo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩ ndĩ"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "nĩndĩhĩrĩirie"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:17.471023939Z",
+  "model": "glm-5.3"
+}

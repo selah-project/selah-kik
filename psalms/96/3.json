@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Rũirĩrani kĩeeri kĩake harĩ ndũrĩrĩ; mahũthagĩo make harĩ andũ aothe.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "rũirĩrani"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "harĩ ndũrĩrĩ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kĩeeri kĩake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "harĩ aothe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mahũthagĩo make"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:38.171526296Z",
+  "model": "glm-5.3"
+}

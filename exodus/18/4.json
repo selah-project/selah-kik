@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na rĩĩtwa rĩa ũngĩ nĩ Erierzer, nĩgũkorua oigire atĩ Erohimu wa ithe wakwa nĩwe watekire, akamũhonokia ciara ya Farao.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Na rĩĩtwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rĩa ũngĩ"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Erierzer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorua"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "wa ithe wakwa"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "nĩwe watekire"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "akamũhonokia"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ciara"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Farao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:08.397857360Z",
+  "model": "glm-5.3"
+}

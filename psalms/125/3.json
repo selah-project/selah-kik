@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 125,
+  "translation": "Nĩgũkoruo mũthīngũ wa andũ-arĩa methĩkĩtie-mavindi ma kũhũthira maũndũ mothe ndũngĩikaraga thĩinĩ wa kĩgũnda kĩa arĩa methĩkĩtie cedeki, nĩgeetha arĩa methĩkĩtie cedeki matirĩho kũrũmagĩrĩra mĩoko yao thĩinĩ wa mwĩhoko wothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ndũngĩikaraga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mũthīngũ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "wa andũ-arĩa methĩkĩtie-mavindi ma kũhũthira maũndũ mothe"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kĩgũnda kĩa"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "arĩa methĩkĩtie cedeki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "kũrũmagĩrĩra"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "arĩa methĩkĩtie cedeki"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "thĩinĩ wa mwĩhoko wothe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mĩoko yao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:57.331688198Z",
+  "model": "glm-5.3"
+}

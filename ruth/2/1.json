@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Niaomi aarĩ na mũndũ ũrĩa amenyaga, wa mũthuuri wakwa, mũndũ mũnene wa hinya, wa mũcirũ wa Erimereki; na rĩĩtwa rake Boazi.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "Na Niaomi"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "mũndũ ũrĩa amenyaga"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "wa mũthuuri wakwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wa hinya"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "wa mũcirũ"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Erimereki"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "na rĩĩtwa rake"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:33:10.686786655Z",
+  "model": "glm-5.3"
+}

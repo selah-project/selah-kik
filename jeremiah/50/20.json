@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Mĩthenya ĩyo na hĩndĩ ĩyo, Yahwe oigĩte, ⟨את⟩ ũhoro mũthũ wa Yiceraeri nĩguo ũgũcoorwo, na ũkatirĩ; na ⟨את⟩ mahĩtia ma Yuda, na matiĩkonokanaga; nĩrĩa nĩndĩreherera arĩa nĩngĩkaigana.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Mĩthenya ĩyo"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "na hĩndĩ ĩyo"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ĩyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "nĩguo gũcoorwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro mũthũ wa Yiceraeri"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ũhoro mũthũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "na ũkatirĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mahĩtia ma Yuda"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ma Yuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matiĩ"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "konokanaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩa"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "ndĩreherera"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "ngĩkaigana"
+    }
+  ],
+  "timestamp": "2026-10-02T06:47:02.301078558Z",
+  "model": "glm-5.3"
+}

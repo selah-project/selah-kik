@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Nĩguo mwathi oigĩte: Hizikiayahu ndamwĩre kũmwarĩrĩra inyui, nĩgũkorwo ti angĩhota kũhonokia ⟨את⟩ inyui.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndamwĩre"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kũmwarĩrĩra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyui"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiayahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "angĩhota"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "kũhonokia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inyui",
+      "marks": "inyui"
+    }
+  ],
+  "timestamp": "2026-10-02T06:39:37.074639590Z",
+  "model": "glm-5.3"
+}

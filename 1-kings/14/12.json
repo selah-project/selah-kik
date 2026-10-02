@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na we mũka, ĩrĩgwo, thiĩ kũnyũmba yaku; rĩrĩa magũrũ maku makĩinĩra mũciĩ-inĩ, mũana nĩakuara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na we mũka"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ĩrĩgwo"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "thiĩ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kũnyũmba yaku"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "rĩrĩa ... makĩinĩra"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "magũrũ maku"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "mũciĩ-inĩ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "nĩakuara"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mũana"
+    }
+  ],
+  "timestamp": "2026-10-01T23:58:03.660977225Z",
+  "model": "glm-5.3"
+}

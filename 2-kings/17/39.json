@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "No ⟨את⟩ Yahwe Erohimu waninyu nĩmũketinya, na ũwe nĩagũkũhũrũkia ⟨את⟩ inywi kuuma moko ma thũ cinyu ciothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "No"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu waninyu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nĩmũketinya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na ũwe"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "nĩagũkũhũrũkia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "thũ cinyu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:17:58.902399825Z",
+  "model": "glm-5.3"
+}

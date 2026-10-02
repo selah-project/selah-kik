@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 1:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩkĩrĩ kĩheo gĩa mũingĩ wa igooti cianyu ndĩ na gĩkeno? Yahwe oigĩte. Nĩmĩrĩte nĩ igooti cĩa kũhiũrwo cia ng'ondu, na mafuta ma ng'ombe makĩrĩme; na thakame ya ng'ombe nini, na ana a mbũri, na ng'ondu cia mbũri — ndaikarire nacio.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nĩkĩrĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũingĩ"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "wa igooti cianyu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבעתי",
+      "gloss": "Nĩmĩrĩte"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "igooti cĩa kũhiũrwo"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "cia ng'ondu"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "מריאים",
+      "gloss": "ma ng'ombe makĩrĩme"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "na thakame"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ya ng'ombe nini"
+    },
+    {
+      "surface": "וכבשים",
+      "gloss": "na ana a mbũri"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "na ng'ondu cia mbũri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndaikarire nacio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:35.543730972Z",
+  "model": "glm-5.3"
+}

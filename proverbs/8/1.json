@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ti ũguo, ng'omano nĩĩkũhũra, na ũmenyo nĩũkaheta mũgambo wayo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ti ũguo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ng'omano"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "nĩĩkũhũra"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nĩũkaheta"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "mũgambo wayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:48:23.422839251Z",
+  "model": "glm-5.3"
+}

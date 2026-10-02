@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Moce nĩarũmire ⟨את⟩ ao kuuma gĩthĩmbĩrĩwa kĩa Parani, ta kũugo kwa Yahwe; ao othe maarĩ andũ, matũũro ma ciana cia Yiceraeri, nao.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nĩarũmire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kuuma gĩthĩmbĩrĩwa kĩa"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parani"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kũugo kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ao othe"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "matũũro ma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:58:42.623803156Z",
+  "model": "glm-5.3"
+}

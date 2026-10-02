@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "Nĩ ũndũ ngĩ twainire ⟨את⟩ ngweco ya Yahwe thĩinĩ wa thĩ ya bũrũri ũrĩa wĩ mbere?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "nĩ ũndũ ngĩ"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "twainire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngweco"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ngweco"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bũrũri ũrĩa wĩ mbere"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:14.472699353Z",
+  "model": "glm-5.3"
+}

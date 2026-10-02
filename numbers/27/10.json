@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na angĩkorwo atarĩ na arũa, mũhe ⟨את⟩ kĩrĩca gĩake arũa a ithe wake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na angĩkorwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "atarĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "arũa"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mũhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩca gĩake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "kĩrĩca gĩake"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "arũa a"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:09:00.167725510Z",
+  "model": "glm-5.3"
+}

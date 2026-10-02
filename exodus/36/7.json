@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Na wĩra ũcio nĩwatuũkire kana gĩa wĩra wothe kĩu gwĩka ⟨את⟩, na kũonjeera.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "na wĩra ũcio"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nĩwatuũkire"
+    },
+    {
+      "surface": "דים",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "gĩa wothe"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kĩu gwĩka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wĩra ũcio"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "na kũonjeera"
+    }
+  ],
+  "timestamp": "2026-10-01T21:26:59.685875790Z",
+  "model": "glm-5.3"
+}

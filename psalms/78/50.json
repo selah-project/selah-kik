@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Akĩnyoora mũgũnda wa ira yake; ndaahonokirie kũrwa moyo wao, na akĩheana mĩoyo yao kwa thanju.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "akĩnyoora"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "mũgũnda"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "wa ira yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda-"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "honokirie"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kũrwa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": ""
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "na mĩoyo yao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwa thanju"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "akĩheana"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:55.130181037Z",
+  "model": "glm-5.3"
+}

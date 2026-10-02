@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mwathi-inĩ wa hinya, na mũndũ wa ndemwa, mũciari-watho, na mũrathi, na mũrothi-watho, na mũnena.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Mwathi-inĩ wa hinya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa ndemwa"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mũciari-watho"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "na mũrathi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "na mũrothi-watho"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "na mũnena"
+    }
+  ],
+  "timestamp": "2026-10-02T00:25:42.929241922Z",
+  "model": "glm-5.3"
+}

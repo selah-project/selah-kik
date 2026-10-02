@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na nĩwe, nĩngĩkĩra ta kĩrĩgũ ti nĩngĩhĩa, na ta mũũmĩ ti arathangari kanua gake.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na nĩwe"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ta kĩrĩgũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nĩngĩhĩa"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "na ta mũũmĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "arathangari"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "kanua gake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:00.377438256Z",
+  "model": "glm-5.3"
+}

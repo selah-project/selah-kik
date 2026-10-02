@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ũrĩa Yeremiyahu mũrathi arathĩtie harĩ andũ a Yuda othe na harĩ arĩa matuiĩ Yerucarayimu othe, na akuuga:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "arathĩtie"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa matuiĩ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akuuga"
+    }
+  ],
+  "timestamp": "2026-10-02T06:43:00.594427551Z",
+  "model": "glm-5.3"
+}

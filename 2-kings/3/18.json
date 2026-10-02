@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na ũyũ nĩ ũndũ mũkyerũ thĩinĩ wa maitho ma Yahwe; na nĩagakũheithia ⟨את⟩ Moabu moko-inĩ manyu.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "nĩ ũndũ mũkyerũ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "nĩagakũheithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "moko-inĩ manyu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:08:20.448902641Z",
+  "model": "glm-5.3"
+}

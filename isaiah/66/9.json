@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Nĩ ndĩngĩheana kũciarũka na ndigĩciara? Yahwe oigĩte. Nĩ ndĩ mũciarithia nyuma, ndĩngĩhinga? Erohimu waku oigĩte.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "Nĩ ndĩ"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "ngĩheana kũciarũka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndi"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "gĩciara"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ ndĩ"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "mũciarithia nyuma"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "ngĩhinga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:41:52.489064549Z",
+  "model": "glm-5.3"
+}

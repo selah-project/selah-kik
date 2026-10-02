@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ni ma, Yahwe, andũ a mũthamaki a Aciri ni maherithitie ⟨את⟩ ndũrĩrĩ na ⟨את⟩ matũũra macio.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ni ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ni maherithitie"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "andũ a mũthamaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "a Aciri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũrĩrĩ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "matũũra macio"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "matũũra macio"
+    }
+  ],
+  "timestamp": "2026-10-02T00:20:27.433935160Z",
+  "model": "glm-5.3"
+}

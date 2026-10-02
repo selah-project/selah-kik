@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na akamate ⟨את⟩ mĩcĩ ĩrĩa mĩa mabataro ĩrĩa ĩa Yehuda, na akinya Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "akamate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcĩ ĩrĩa mĩa mabataro"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mĩcĩ"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ĩrĩa mĩa mabataro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ĩa Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akinya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T05:48:25.571593152Z",
+  "model": "glm-5.3"
+}

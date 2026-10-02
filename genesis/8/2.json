@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na mĩtheri ya kĩenyũ kĩa maa ĩtūgĩtwo, na thoni cia igũrũ ĩtūgĩtwo, na mbura ĩigua kuuma igũrũ.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "ĩtūgĩtwo"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "mĩtheri ya"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kĩenyũ kĩa maa"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "na thoni cia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ĩigua"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mbura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:33:21.266478123Z",
+  "model": "glm-5.3"
+}

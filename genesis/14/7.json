@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Nĩmagookire, nao makĩinya kũ Eni-Micipati — ũcio nĩ Kedecci — nao makĩhoota ⟨את⟩ kũunda wothe kwa Amarakiti, na o ⟨את⟩ Amoriti arĩa maarũũraga kũ Hacecioni-Tamari.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Nĩmagookire"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "makĩinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Micipati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedecci"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "makĩhoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũunda wothe kwa Amarakiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kũunda"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "kwa Amarakiti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amoriti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriti"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "arĩa maarũũraga"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "kũ Hacecioni"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:02.235291760Z",
+  "model": "glm-5.3"
+}

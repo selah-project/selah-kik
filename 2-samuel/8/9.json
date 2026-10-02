@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Toi mũthamaki wa Hamati akĩigua ati Dawidi nĩahũrire ⟨את⟩ hinya wothe wa Hadadezeri.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "wa Hamati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nĩahũrire"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinya wothe wa Hadadezeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "wa Hadadezeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:33.862794011Z",
+  "model": "glm-5.3"
+}

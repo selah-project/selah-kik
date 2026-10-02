@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "Nĩ ĩguũkire tarũa; magĩrũrũirie kaĩri nĩmaire ⟨את⟩ Hoceni: zereti ũraayo wayo, na zereti ũneenyayo wayo, ĩagĩrĩirwo kaĩri.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "tarũa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩ ĩguũkire"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "magĩrũrũirie kaĩri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nĩmaire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hoceni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoceni"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "zereti"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ũraayo wayo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "na zereti"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ũneenyayo wayo"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ĩagĩrĩirwo kaĩri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:25:51.974746347Z",
+  "model": "glm-5.3"
+}

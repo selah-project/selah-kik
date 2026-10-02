@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na maciatha ya necothe magũrũ make, na kidoni ya necothe hagati wa maboko make.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "na maciatha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya necothe"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "na kidoni"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya necothe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "wa maboko make"
+    }
+  ],
+  "timestamp": "2026-10-01T23:19:01.125633737Z",
+  "model": "glm-5.3"
+}

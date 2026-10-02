@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Nĩahũrũkĩtie ngoro yao ĩmene andũ ake, ĩkorererithia atũa ake.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "nĩahũrũkĩtie"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ngoro yao"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ĩmene"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "ĩkorererithia"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "atũa ake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:34.011045966Z",
+  "model": "glm-5.3"
+}

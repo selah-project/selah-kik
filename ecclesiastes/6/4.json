@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩgũkorwo thĩinĩ wa ũhĩhĩ nogũkũya, na thĩinĩ wa kĩheo noagĩthiĩ, na kĩheonĩ rĩĩtwa rake rĩgĩũnio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "thĩinĩ wa ũhĩhĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nogũkũya"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "thĩinĩ wa kĩheo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "noagĩthiĩ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "kĩheonĩ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rake"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "rĩgĩũnio"
+    }
+  ],
+  "timestamp": "2026-10-02T04:43:44.088958753Z",
+  "model": "glm-5.3"
+}

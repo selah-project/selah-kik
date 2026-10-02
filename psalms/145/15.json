@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Metho ma ciothe meirorerete kũrĩ We, na We ũheete macio ⟨את⟩ irio ciao hĩndĩ ĩayo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Metho ma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ We"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "meirorerete"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na We"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ũheete"
+    },
+    {
+      "surface": "להם",
+      "gloss": "macio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irio ciao"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "irio ciao"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "hĩndĩ ĩayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:28.568089258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Na igũrũ ciĩgothe ⟨את⟩ macithĩranĩ maku, Yahwe, na kwoyo kũiguĩka kwaku thĩinĩ wa kĩama kĩa atheru.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "na ciĩgothe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "macithĩranĩ maku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na kwoyo"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kũiguĩka kwaku"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "thĩinĩ wa kĩama"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kĩa atheru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:20.853021798Z",
+  "model": "glm-5.3"
+}

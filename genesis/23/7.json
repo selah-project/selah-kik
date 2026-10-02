@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩũmĩte Abarahamu, nĩainamithire kũrĩ andũ a thĩ ⟨ה⟩, a ciana cia Heti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nĩũmĩte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "nĩainamithire"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kũrĩ andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a ciana cia"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-10-01T20:40:37.726864165Z",
+  "model": "glm-5.3"
+}

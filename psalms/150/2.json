@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 150,
+  "translation": "Himbĩrĩni ũrĩa thĩinĩ wa hinya iwethe; himbĩrĩni ũrĩa ta ũnene wake.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Himbĩrĩni ũrĩa"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "thĩinĩ wa hinya iwethe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "himbĩrĩni ũrĩa"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ta"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ũnene wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:08.309682954Z",
+  "model": "glm-5.3"
+}

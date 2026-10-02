@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Yahwe nĩgũkona ⟨את⟩ Yuda agoci wake thĩinĩ wa thĩ ya ũtheru, na akĩtherera Yerucarayimu rĩngĩ.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "nĩgũkona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "agoci wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "akĩtherera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:42:06.463372379Z",
+  "model": "glm-5.3"
+}

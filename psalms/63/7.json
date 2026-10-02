@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 63,
+  "translation": "Rĩrĩa nĩndĩkũcirikia mwalo-inĩ wakwa, thĩinĩ wa matũma ma ũgũrũ nĩngakũraĩra We.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "nĩndĩkũcirikia"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "mwalo wakwa"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "thĩinĩ wa matũma ma ũgũrũ"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "nĩngakũraĩra"
+    },
+    {
+      "surface": "בך",
+      "gloss": "We"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:26.765295908Z",
+  "model": "glm-5.3"
+}

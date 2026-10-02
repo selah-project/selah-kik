@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Kuma waini na njohi akanĩrĩre; aceni a waini na aceni a njohi arĩngĩha; na kĩrathĩro kilĩona kĩa mbembe arĩngĩha; na mbembe iria nyinyũ na irĩ ikũmbĩ arĩngĩha kĩrĩha.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "Kuma waini"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na njohi"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "akanĩrĩre"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "aceni a"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "na aceni a"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "njohi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "arĩngĩha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kĩrathĩro kilĩona"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "kĩrathĩro kĩa"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "arĩngĩha"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "na mbembe"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "iria nyinyũ"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "na irĩ ikũmbĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "arĩngĩha kĩrĩha"
+    }
+  ],
+  "timestamp": "2026-10-01T21:54:49.589792415Z",
+  "model": "glm-5.3"
+}

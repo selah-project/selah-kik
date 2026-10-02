@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Acui nĩehonjokete hamwe na macio; nĩmaatungĩire kĩoko andũ arĩa a Roti. Cela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nĩe-"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acui"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "honjokete"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hamwe na macio"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nĩmaatungĩire"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "kĩoko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "andũ arĩa a"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Roti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cela"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:41.943595118Z",
+  "model": "glm-5.3"
+}

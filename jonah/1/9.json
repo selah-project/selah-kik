@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nake akĩmeeteria atĩrĩ: Mũibere nĩ ndĩ, na ⟨את⟩ Yahwe, Erohimu wa igũrũ, nĩ ndĩmũtinya, ũrĩa omombire ⟨את⟩ iria na ⟨את⟩ thĩ ikuu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeeteria atĩrĩ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "macio"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Mũibere"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩ ndĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ ndĩ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mũtinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "omombire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iria"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ikuu"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "thĩ ikuu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:05.439140688Z",
+  "model": "glm-5.3"
+}

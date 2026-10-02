@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Wĩhĩrĩtie na ruaki rwaku, iriwa nĩkambaniire ⟨ao⟩; mararĩkĩte ta keĩrĩtu thĩinĩ wa maĩ mandĩ.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "wĩhĩrĩtie"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "na ruaki rwaku"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "nĩkambaniire"
+    },
+    {
+      "surface": "ים",
+      "gloss": "iriwa"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "mararĩkĩte"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "ta keĩrĩtu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "thĩinĩ wa maĩ"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mandĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:23.658708361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Nĩmoce acokire andũ a Yiceraeri aria arĩa makĩra mamenete, na akiuga: Erohimu nĩgũkũrathimera, na mũtikohere ⟨את⟩ mĩrĩra yakwa kuuma kũndũ kũu.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "acokire"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a Yiceraeri aria arĩa makĩra mamenete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nĩgũkũrathimera"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "nĩgũkũrathimera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mwenywe"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "na mũtikohere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩrĩra yakwa"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mĩrĩra yakwa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuuma kũndũ kũu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:00.883504974Z",
+  "model": "glm-5.3"
+}

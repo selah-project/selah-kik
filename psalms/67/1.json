@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 67,
+  "translation": "Kũrĩ mũcũranji, harĩ ngwatani-inĩ cia mino; nĩ cimbũrũria, nĩ njũgũra.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcũranji"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "harĩ ngwatani-inĩ cia mino"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "cimbũrũria"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "njũgũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:58.256637121Z",
+  "model": "glm-5.3"
+}

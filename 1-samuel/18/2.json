@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Cauri amũĩkire mũthenya ũcio, ndamũheerie kũcoka nyũmba ya ithe.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "amũĩkire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "amũheerie"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kũcoka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe"
+    }
+  ],
+  "timestamp": "2026-10-01T23:21:27.010964955Z",
+  "model": "glm-5.3"
+}

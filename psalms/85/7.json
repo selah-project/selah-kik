@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 85,
+  "translation": "Nĩ gũtirĩ atĩa wewe ũgĩcooka ũtũhĩagĩrĩrie, nacio andũ ako makũhenania makieree nawe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nĩ gũtirĩ atĩa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ũgĩcooka"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ũtũhĩagĩrĩrie"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "nacio andũ ako"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "makũhenania"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mieree nawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:38.966650589Z",
+  "model": "glm-5.3"
+}

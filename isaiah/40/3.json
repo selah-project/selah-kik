@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Kĩng'ethĩ kĩa mũgothi kĩrĩ gĩthaka-inĩ: Thĩarĩrĩai thĩ ya Yahwe; therĩai thĩra Arabaha-inĩ, thĩra ya Erohimu witũ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kĩng'ethĩ"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "mũgothi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gĩthaka-inĩ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "thĩarĩrĩai"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "therĩai"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Arabaha-inĩ"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "thĩra"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ya Erohimu witũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:40:14.078679282Z",
+  "model": "glm-5.3"
+}

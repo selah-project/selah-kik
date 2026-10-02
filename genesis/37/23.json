@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩkuo rĩrĩa Yocethu agĩkinya kwa arũa-ĩthe ake, magĩkũurũnga ⟨את⟩ Yocethu ⟨את⟩ nguo yake, ⟨את⟩ nguo ya mikũaro ĩrĩa aambĩte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkuo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "agĩkinya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocethu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arũa-ĩthe ake"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "magĩkũurũnga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yocethu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocethu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo yake"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "nguo yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "ya mikũaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aambĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T20:51:54.581291357Z",
+  "model": "glm-5.3"
+}

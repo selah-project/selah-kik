@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Yahwe agĩtua atĩrĩ: kuona nĩngĩonire ⟨את⟩ gĩtherũ kĩa andũ ũkwa arĩa Micirayimu, na ⟨את⟩ kũgamba kwao nĩngĩĩĩte nĩ ũndũ wa arĩa maagĩrĩirio ũthĩnjĩria-ngũracio; nĩngĩĩmĩte ⟨את⟩ thĩna wao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "agĩtua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nĩngĩonire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩtherũ kĩa andũ ũkwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "gĩtherũ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kĩa andũ ũkwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micirayimu-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kũgamba kwao"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kũgamba kwao"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nĩngĩĩĩte"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "arĩa maagĩrĩirio ũthĩnjĩria-ngũracio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nĩngĩĩmĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩna wao"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "thĩna wao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:31.041008152Z",
+  "model": "glm-5.3"
+}

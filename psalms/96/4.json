@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Nĩgũkoruo Yahwe nĩ mũnene, na woĩkĩtwo mĩhembo ya kũrĩa, we mwega-wa kũgwoa harĩ ngai ciothe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "woĩkĩtwo mĩhembo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ya kũrĩa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mwega-wa kũgwoa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-10-02T03:24:38.172732832Z",
+  "model": "glm-5.3"
+}

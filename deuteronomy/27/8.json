@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na ũandĩke ha mabwĩrũ macio ⟨את⟩ ciugo ciothe cia Tora ici, ũcookerethie rĩerũ.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "na ũandĩke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ha"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabwĩrũ macio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "cia Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ici"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ũcookerethie"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "rĩerũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:57.697031929Z",
+  "model": "glm-5.3"
+}

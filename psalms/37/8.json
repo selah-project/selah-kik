@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Ehera kũũnĩka, ũcieke kũhoheria; ndũhinyararĩre — nĩguo tu gũkũruta njaahu.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Ehera"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "kũũnĩka"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ũcieke"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kũhoheria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "hinyararĩre"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "gũkũruta njaahu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:18.457171671Z",
+  "model": "glm-5.3"
+}

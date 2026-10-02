@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na kuuma mũbarĩ wa Reubeni: ⟨את⟩ Beceri na ⟨את⟩ mĩtaro wayo, ⟨את⟩ Yahaca na ⟨את⟩ mĩtaro wayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "na kuuma mũbarĩ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beceri"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Beceri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtaro wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩtaro wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yahaca"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahaca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩtaro wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mĩtaro wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T22:50:15.577928494Z",
+  "model": "glm-5.3"
+}

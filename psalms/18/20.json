@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na thutha ũcio agĩtũra kuuma kũ theru, agĩmũcokora nĩgũkorwo aendete ithuĩ.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "agĩtũra kuuma"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "kũ theru"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "agĩmũcokora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "aendete"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:54.782271357Z",
+  "model": "glm-5.3"
+}

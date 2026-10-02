@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Inĩ, Nevukadnecar, nĩndaarĩ na thayari nyũmba yakwa-inĩ, na ndaarĩ na mũgima hĩra yakwa-inĩ.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnecar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "thayari"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ndaarĩ"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "nyũmba yakwa-inĩ"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "mũgima"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "hĩra yakwa-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:55:09.823568447Z",
+  "model": "glm-5.3"
+}

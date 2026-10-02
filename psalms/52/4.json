@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Ũnjaru wĩmũnyinyararĩra mũrurumo waku, ũtaũkana ta itaũrwa rĩmwerũ, rĩa kũruta ũhũri.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Ũnjaru"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "wĩmũnyinyararĩra"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "mũrurumo waku"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "ta itaũrwa"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "rĩmwerũ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rĩa kũruta"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ũhũri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:38.492048858Z",
+  "model": "glm-5.3"
+}

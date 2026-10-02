@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nao makĩringithia atĩ Erohimu nĩwe ihwĩ yao, na Ere Mũigwĩ nĩwe mũhũrania wao.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "makĩringithia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "ihwĩ yao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Mũigwĩ"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mũhũrania wao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:11.178439018Z",
+  "model": "glm-5.3"
+}

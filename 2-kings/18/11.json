@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Mwathi wa Acuri akĩheanĩra ⟨את⟩ Yiceraeri rĩrĩa Acuri-inĩ, akĩmũikara Hariahi na Haburi, rũĩ rwa Gozani, na mataa ma Maithīni.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "akĩheanĩra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Acuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "rĩrĩa Acuri-inĩ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akĩmũikara"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Hariahi"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "Haburi"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rũĩ"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "rwa Gozani"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ma Maithīni"
+    }
+  ],
+  "timestamp": "2026-10-02T00:17:23.512100578Z",
+  "model": "glm-5.3"
+}

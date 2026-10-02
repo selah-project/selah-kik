@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "O wothe ũrĩa wahothetwo nĩagwetwo rũciaro; na o wothe ũrĩa waũngĩtwo nao agĩagwa na ciara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ũrĩa wahothetwo"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "nĩagwetwo rũciaro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "ũrĩa waũngĩtwo nao"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "agĩagwa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na ciara"
+    }
+  ],
+  "timestamp": "2026-10-02T00:30:04.324570800Z",
+  "model": "glm-5.3"
+}

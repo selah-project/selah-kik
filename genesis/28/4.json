@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Na akuhe we ⟨את⟩ kirathimo kĩa Abarahamu, we na mbegu yaku ĩri ⟨את⟩ hamwe nawe, ngeetha ũcooke ⟨את⟩ thĩ ya kũhĩrĩga kwaku, thĩ ĩrĩa Erohimu ũheite ⟨את⟩ Abarahamu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akũhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirathimo kĩa Abarahamu"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kirathimo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "na mbegu yaku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hamwe nawe"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "ngeetha ũcooke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "ya kũhĩrĩga kwaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ũheite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abarahamu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:10:56.666809852Z",
+  "model": "glm-5.3"
+}

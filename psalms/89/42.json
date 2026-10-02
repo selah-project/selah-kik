@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Arĩa ombĩra rĩra mothe nĩmamũrũo; nĩawe arĩ ⟨ũthĩĩ⟩ kũrĩ atheeni ake.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "nĩmamũrũo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "arĩa ombĩra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rĩra"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩawe arĩ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ũthĩĩ"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "kũrĩ atheeni ake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:21:29.112175126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ndĩmwĩhihia kĩeha thĩinĩ wa ciira, thĩinĩ wa kĩegeri, kĩthigiri, na kĩegeranio kĩa maĩ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mwĩhihia"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kĩeha"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "thĩinĩ wa ciira"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "thĩinĩ wa kĩegeri"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "kĩthigiri"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "na kĩegeranio kĩa maĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:07.049272220Z",
+  "model": "glm-5.3"
+}

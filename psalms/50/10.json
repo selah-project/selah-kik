@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Nĩgũkorwo nyamũ ciothe cia gĩthima nĩ cia kwĩ, na ng'ombe cia milima ya ngiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩ cia kwĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyamũ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "cia gĩthima"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "cia milima"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ya ngiri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:46.042481658Z",
+  "model": "glm-5.3"
+}

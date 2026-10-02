@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mbũtũ yake, na arĩa me cirĩtwo magĩrĩ kũandarũkia: inya na mĩrongo mĩgwanja ngari, na gatandatũ mĩgana.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "na mbũtũ yake"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na arĩa me cirĩtwo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "inya"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mĩrongo mĩgwanja"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na gatandatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mĩgana"
+    }
+  ],
+  "timestamp": "2026-10-01T21:50:05.479790761Z",
+  "model": "glm-5.3"
+}

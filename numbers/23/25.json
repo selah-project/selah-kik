@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Na Baraki akiuga kwa Bireamu atĩrĩ: Kũmena ndũkamenithie, na kũrathima ndũkarathimithie ⟨ao⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Baraki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bireamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kũmena"
+    },
+    {
+      "surface": "קב",
+      "gloss": "kũmena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "menithie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kũrathima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "rathimithie"
+    }
+  ],
+  "timestamp": "2026-10-01T22:06:14.215383516Z",
+  "model": "glm-5.3"
+}

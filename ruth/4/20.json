@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Aminadabi akĩciarĩra ⟨את⟩ Nahiconi, na Nahiconi akĩciarĩra ⟨את⟩ Calmoni.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "na Aminadabi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahiconi"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahiconi"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "na Nahiconi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Calmoni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Calmoni"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:39.257047718Z",
+  "model": "glm-5.3"
+}

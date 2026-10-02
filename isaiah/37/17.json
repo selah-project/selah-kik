@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 37:17",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Gũthĩĩka-gĩthĩĩka, Yahwe, matu maku, na ũthĩkĩre; gwatura, Yahwe, maitho maku, na ũmone; na ũthĩkĩre ⟨את⟩ ciugo ciothe cia Cenakeribu, irĩa woitĩkĩrire kũhoota Erohimu murũ.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "gũthĩĩka-gĩthĩĩka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "matu maku"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na ũthĩkĩre"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "gwatura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "maitho maku"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "na ũmone"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "na ũthĩkĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Cenakeribu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "woitĩkĩrire"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "kũhoota"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "murũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:43:07.654673439Z",
+  "model": "glm-5.3"
+}

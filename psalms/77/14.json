@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 77,
+  "translation": "Erohimu, thĩinĩ wa ũtheru nĩkuo ũrĩa waku ũgĩthiĩ; nĩ Ere nene ũngĩhoingĩ ta Erohimu?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "thĩinĩ wa ũtheru"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ũrĩa waku ũgĩthiĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "ta Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:45.299666516Z",
+  "model": "glm-5.3"
+}

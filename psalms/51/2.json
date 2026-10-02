@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Hĩndĩ ĩrĩa Nathani mũrathi ookire kũrĩ we, ta ũrĩa we oore kwa Bathi-ceba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Hĩndĩ ĩrĩa... ookire"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ceba"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:12.313301968Z",
+  "model": "glm-5.3"
+}

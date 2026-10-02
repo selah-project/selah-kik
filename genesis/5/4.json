@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Mĩthenya ya Adamu thutha wa kũciarũaria ⟨את⟩ Cethi nĩyakonainie mĩaka igana inyinya, agĩciarũaria ciana aarũ na aarũ-a-ka.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "nĩyakonainie"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Mĩthenya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kũciarũaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cethi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Cethi"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "inyinya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "igana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "agĩciarũaria"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "aarũ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "aarũ-a-ka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:10.886149289Z",
+  "model": "glm-5.3"
+}

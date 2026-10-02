@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgũ ũrĩa wĩcakĩra Maroti aareretie wega, no ũoru nĩwacokire kinya gĩcara kĩa Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "aareretie"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ũrĩa wĩcakĩra"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nĩwacokire"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũoru"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuuma Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "kinya gĩcara kĩa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:31:02.035178668Z",
+  "model": "glm-5.3"
+}

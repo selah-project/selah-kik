@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 6:25",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Mahũ ciugo cia cedeki cĩngĩhinya! No mahũ kũhokia kwanyu kũhokagĩra kĩ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mahũ"
+    },
+    {
+      "surface": "נמרצו",
+      "gloss": "cĩngĩhinya"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "no mahũ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "kũhokagĩra"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "kũhokia"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kwanyu"
+    }
+  ],
+  "timestamp": "2026-10-02T04:06:43.292922848Z",
+  "model": "glm-5.3"
+}

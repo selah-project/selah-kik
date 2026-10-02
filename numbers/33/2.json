@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Moce nĩaandĩkire ⟨את⟩ kũhurũka kwao mathakoni mao, harĩ kĩugo kĩa Yahwe; na ici nĩ mathako mao, thutha wa kũhurũka kwao.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nĩaandĩkire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũhurũka kwao"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "kũhurũka kwao"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "mathakoni mao"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kĩugo kĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na ici"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "mathako mao"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "thutha wa kũhurũka kwao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:13:47.112536203Z",
+  "model": "glm-5.3"
+}

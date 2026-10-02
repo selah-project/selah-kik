@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ngĩa ng'arachi, na ngĩa thahabu — Yahwe Cebaoti oigĩte.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ngĩa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ng'arachi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "na ngĩa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    }
+  ],
+  "timestamp": "2026-10-02T02:39:45.089477376Z",
+  "model": "glm-5.3"
+}

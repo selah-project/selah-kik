@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Kũgoya kwa Yahwe nĩ mũtheru, ũikaraga nginya tene; macĩira ma Yahwe nĩ ma ũma, na nĩ cedeki hamwe.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "kũgoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "ũikaraga"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nginya tene"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "macĩira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ũma"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "nĩ cedeki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:27.015000185Z",
+  "model": "glm-5.3"
+}

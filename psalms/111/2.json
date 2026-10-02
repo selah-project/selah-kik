@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Icuka cia Yahwe nĩ cinene; cĩciookagwo nĩ arĩa othe aria mari na kwenda ciao.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "cinene"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "icuka cia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "cĩciookagwo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nĩ arĩa othe"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "aria mari na kwenda ciao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:43.863116092Z",
+  "model": "glm-5.3"
+}

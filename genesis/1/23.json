@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na nĩgũkoruo ũthiũ, na nĩgũkoruo ũtheri — mũthenya wa gatano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ũthiũ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "wa gatano"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:36.865840813Z",
+  "model": "glm-5.3"
+}

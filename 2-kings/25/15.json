@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na ⟨את⟩ macahi na ⟨את⟩ mathako irĩa ĩa thahabu, thahabu, na irĩa ĩa theri, theri, mũnene wa athinji nĩagwatĩte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "macahi"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "macahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathako"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "mathako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na irĩa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "theri"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "theri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nĩagwatĩte"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa athinji"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:28.557238064Z",
+  "model": "glm-5.3"
+}

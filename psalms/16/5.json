@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Yahwe ⟨nĩwe⟩ gĩkĩgĩro kĩakwa na kĩombe kĩakwa; nĩwe ũthagĩkĩirie gĩcunjĩ gĩakwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "gĩkĩgĩro"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "kĩakwa"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "na kĩombe kĩakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ũthagĩkĩirie"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "gĩcunjĩ gĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:52:04.529814656Z",
+  "model": "glm-5.3"
+}

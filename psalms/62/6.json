@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 62,
+  "translation": "O ha Erohimu tu, ngoro yakwa ĩhorerie; nĩgũkorwo kũgerera kwakwa nĩkuuma kũrĩ ⟨we⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ha Erohimu"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ĩhorerie"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma kũrĩ ⟨we⟩"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "kũgerera kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:25.278974094Z",
+  "model": "glm-5.3"
+}

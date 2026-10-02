@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Nĩakenera mũhĩnĩri na mũthingithi, na mwoyo wa athĩngithi arahonokithia.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "nĩakenera"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mũhĩnĩri"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "na mũthingithi"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "na mwoyo"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "wa athĩngithi"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "arahonokithia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:43.206011950Z",
+  "model": "glm-5.3"
+}

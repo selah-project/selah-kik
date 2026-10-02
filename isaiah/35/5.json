@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Hĩndĩ ĩyo maso ga aría matii nĩgakũrirwo, na matwi ga aría marĩ tuũ nĩgagetherwo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "hĩndĩ ĩyo"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "nĩgakũrirwo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "aría matii"
+    },
+    {
+      "surface": "ו�אזני",
+      "gloss": "na matwi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "aría marĩ tuũ"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "nĩgagetherwo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:43:02.504027605Z",
+  "model": "glm-5.3"
+}

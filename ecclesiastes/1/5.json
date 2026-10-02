@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Rĩũa rĩnyitagwo rĩrũma, na rĩũa rĩgĩa, na rĩhĩhĩragia kũndũ kwarĩo rĩrĩa rĩnyitagwo rĩrũma rĩu; rĩu kũrĩ nĩrĩo rĩkoragwo rĩo riĩ.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "rĩnyitagwo rĩrũma"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rĩũa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "na rĩgĩa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "rĩũa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "kũndũ kwarĩo"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "rĩhĩhĩragia"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "rĩrĩa rĩnyitagwo rĩrũma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:39:38.494494304Z",
+  "model": "glm-5.3"
+}

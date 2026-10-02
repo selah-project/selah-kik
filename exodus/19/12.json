@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na we nĩũgĩtara ⟨את⟩ andũ thayari, ngĩkoa ũguo: Rĩrani mĩgoikoni yanyu mwahũre kilima, kana mwikare mweremo wayo; ũrĩa wothe aikaraga kilima nĩagĩkuo gũkuo.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "nĩũgĩtara mbunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "thayari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngĩkoa ũguo"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "rĩrani mĩgoikoni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yanyu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kũhũra"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "na kũikara"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "mweremo wayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ũrĩa wothe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "aikaraga"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nĩagĩkuo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "gũkuo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:24.287253047Z",
+  "model": "glm-5.3"
+}

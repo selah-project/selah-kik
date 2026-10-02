@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ũmũthamakĩrĩra micitarie ya moko maku; indo ciothe ũitheete thĩ ya magũrũ make.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Ũmũthamakĩrĩra"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "micitarie"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ya moko maku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ũitheete"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "magũrũ make"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:23.720595696Z",
+  "model": "glm-5.3"
+}

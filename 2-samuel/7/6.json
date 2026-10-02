@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Nĩndĩkwĩtie nyũmba kuuma mũthenya ndĩreete ⟨את⟩ aana a Yiceraeri kuuma Micirayimu gĩkũro kĩu kĩngĩ, na nĩhootanite hamwe na hemana na Micikani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kwĩtie"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "kuuma mũthenya"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ndĩreete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gĩkũro kĩu kĩngĩ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "nĩhootanite"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hamwe na hemana"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "na Micikani"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:30.750256633Z",
+  "model": "glm-5.3"
+}

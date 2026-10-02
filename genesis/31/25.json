@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Rebani nĩanyitithania ⟨את⟩ Yaakobu; na Yaakobu agĩtigĩra ⟨את⟩ hema yake mweginĩ; na Rebani agĩtigĩra ⟨את⟩ ahiha ake mweginĩ wa Gireadi.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "nĩanyitithania"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rebani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "na Yaakobu"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "agĩtigĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema yake"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "hema yake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mweginĩ"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "na Rebani"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "agĩtigĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahiha ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ahiha ake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mweginĩ wa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gireadi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:46:33.631549934Z",
+  "model": "glm-5.3"
+}

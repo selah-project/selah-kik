@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Magĩkũithia ⟨את⟩ mbegu ciao igũrũ cia ng'ombe cia mĩthia mwaki, na magĩthiĩ kũo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "magĩkũithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbegu ciao"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "mbegu ciao"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ cia"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ng'ombe cia mĩthia mwaki"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kũo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:55:01.876494445Z",
+  "model": "glm-5.3"
+}

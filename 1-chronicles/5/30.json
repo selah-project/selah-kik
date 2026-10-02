@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Elazari agĩciara ⟨את⟩ Pinihaci; Pinihaci agĩciara ⟨את⟩ Abicua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "agĩciara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinihaci"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinihaci"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinihaci"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "agĩciara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abicua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abicua"
+    }
+  ],
+  "timestamp": "2026-10-02T05:22:30.933635879Z",
+  "model": "glm-5.3"
+}

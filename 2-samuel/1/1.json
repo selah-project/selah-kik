@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩ thutha wa riũa rĩa Caori rĩkũrwo, Dawidi agĩthiĩ kũcooka kuuma kũringanwo kwa ⟨את⟩ Amareki, akanamũkĩra Cikiragi mĩthenya ĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩ thutha wa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "na Dawidi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "agĩthiĩ kũcooka"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "kuuma kũringanwo kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amareki"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amareki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akanamũkĩra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Cikiragi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:31:05.323564042Z",
+  "model": "glm-5.3"
+}

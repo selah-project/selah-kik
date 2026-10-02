@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "Thĩinĩ wa mĩtambarĩ makĩrĩ-inĩ macio, twahũragĩrĩre cinyori ciitũ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "mĩtambarĩ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "makĩrĩ-inĩ macio"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "twahũragĩrĩre"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "cinyori ciitũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:40:14.469295018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Rĩrĩkana nĩngĩĩtua ⟨את⟩ ngoro ya Farao, na nĩngĩongerethia ⟨את⟩ mbaara ciairania ciakwa na ⟨את⟩ maũndũ manene makwa thĩinĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "rĩrĩkana nĩngĩ"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "nĩngĩĩtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro ya Farao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Farao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "na nĩngĩongerethia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaara ciairania ciakwa"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mbaara ciairania ciakwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maũndũ manene makwa"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "maũndũ manene makwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩinĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:45.611177823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Matu makwa nĩmahothĩte kũrĩ kĩugo gĩau, ndīkuga: rĩkī ũngĩhootora?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "nĩmahothĩte"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "matu makwa"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "kũrĩ kĩugo gĩau"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndīkuga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rĩkī"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "ũngĩhootora"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:42.145349646Z",
+  "model": "glm-5.3"
+}

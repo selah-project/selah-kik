@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Ere nĩ Yahwe, akĩtũheania ũtheri; amukĩrĩra ⟨the⟩ igongona na mĩgwa, nginya irĩimbũ cia mũthingithia wa mahiũ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "akĩtũheania ũtheri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "amukĩrĩra"
+    },
+    {
+      "surface": "חג",
+      "gloss": "igongona"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "na mĩgwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "irĩimbũ cia"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mũthingithia wa mahiũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:03.338398221Z",
+  "model": "glm-5.3"
+}

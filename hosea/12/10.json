@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na ngĩ, niĩ Yahwe Erohimu waku kuuma thĩ ya Micirayimu; nĩngũkũcookeria mahema-inĩ, ta mĩthenya ya kũranĩrwo.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Na ngĩ, niĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nĩngũkũcookeria"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "kũigua mahema-inĩ"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "mahema-inĩ"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ta mĩthenya ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kũranĩrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:19:55.980684012Z",
+  "model": "glm-5.3"
+}

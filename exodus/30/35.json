@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Ũmagĩre ⟨את⟩ yĩyo ũtuũria wa mĩnoroni, wĩra wa mũnyiti-minono, wĩ cigĩrĩiro, mũtheru, kĩtheru.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ũmagĩre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yĩyo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ũtuũria"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "wa mĩnoroni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "wa mũnyiti-minono"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "wĩ cigĩrĩiro"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kĩtheru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:15.170298425Z",
+  "model": "glm-5.3"
+}

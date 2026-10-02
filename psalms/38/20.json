@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Na matũ makwa nĩ mahaana meme, nĩ mahinyũ; na arĩa makĩmena na ũcu nĩ maingĩ.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "na matũ makwa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nĩ mahaana meme"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "nĩ mahinyũ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nĩ maingĩ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "arĩa makĩmena"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na ũcu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:44.884323891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Ũthuũre ⟨את⟩ micebeahi wa ng'ano ya kũnyitwo na ⟨את⟩ indo ciothe cia gĩtũmĩko kĩayo; ũtherie ⟨את⟩ micebeahi ũcio, micebeahi ũcio nĩgũtuĩka ũtheru wa miatheru.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ũthuũre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micebeahi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "micebeahi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wa ng'ano ya kũnyitwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "indo cia gĩtũmĩko kĩayo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ũtherie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micebeahi ũcio"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "micebeahi ũcio"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nĩgũtuĩka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "micebeahi ũcio"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wa miatheru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:32.957446847Z",
+  "model": "glm-5.3"
+}

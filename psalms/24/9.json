@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Inyanyamũrũokani, irigithi, mĩtwe ianyu, na inyanyamũrũokani, mĩromo ya riiko, na mũthamaki wa keheri aũre.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "inyanyamũrũokani"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "irigithi"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mĩtwe ianyu"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "na inyanyamũrũokani"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mĩromo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya riiko"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na aũre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa keheri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:09.157827485Z",
+  "model": "glm-5.3"
+}

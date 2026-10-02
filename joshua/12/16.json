@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mwathi wa Makedahi, ũmwe; mwathi wa Bethieri, ũmwe;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makedahi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethieri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bethieri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T22:45:09.151661175Z",
+  "model": "glm-5.3"
+}

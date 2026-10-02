@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 99,
+  "translation": "Ciemerethie rĩĩtwa rĩaku, rĩnene na rĩrĩ gũteta mwĩtigiri; ndĩtheru.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ciemerethie"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rĩnene"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "rĩgũteta mwĩtigiri"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ndĩtheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-10-02T03:25:43.221759145Z",
+  "model": "glm-5.3"
+}

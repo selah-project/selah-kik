@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Magĩcoora ⟨את⟩ ihunja iothe na ⟨את⟩ ĩrĩa maagwatĩire hamwe na andũ na nyamu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "magĩcoora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihunja iothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ihunja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ĩrĩa maagwatĩire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ĩrĩa maagwatĩire"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hamwe na andũ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na nyamu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:11:04.719919319Z",
+  "model": "glm-5.3"
+}

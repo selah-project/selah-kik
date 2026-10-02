@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 116,
+  "translation": "Cokia, mũoyo wakwa, kũhũrũka gwaku; nĩgũkorwo Yahwe nĩakugĩte wega.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Cokia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "kũhũrũka gwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nĩakugĩte wega"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:52.354679040Z",
+  "model": "glm-5.3"
+}

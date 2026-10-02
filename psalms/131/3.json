@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 131,
+  "translation": "Yiceraeri atũũrĩre kũ Yahwe, kuuma rĩũno nginya tha ci.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "atũũrĩre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kuuma rĩũno"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tha ci"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:52.440920174Z",
+  "model": "glm-5.3"
+}

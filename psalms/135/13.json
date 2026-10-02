@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 135,
+  "translation": "Yahwe, rĩĩtwa rĩaku rĩikaraga hĩndĩ ciothe; Yahwe, ũcookia-wa waku kuuma mĩcingire ginya mĩcingire.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ũcookia-wa waku"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuuma mĩcingire"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ginya mĩcingire"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:41.284777873Z",
+  "model": "glm-5.3"
+}

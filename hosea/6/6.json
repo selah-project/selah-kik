@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩndĩenda hecedi, ti ibano; na kũmena Erohimu thiinda wa thyuo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nĩndĩenda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ibano"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "na kũmena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "thyuo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:16:59.740151730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 30,
+  "translation": "Na Yahwe aĩhũrĩtie kwa Yihicikiyahu, akĩhora ⟨את⟩ andũ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "aĩhũrĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yihicikiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "akĩhora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:01:31.314146258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "⟨את⟩ ciatũa cĩa ũira, na ⟨את⟩ mĩbaro yake ya kũgũciria, na ⟨את⟩ kĩonereria.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciatũa cĩa ũira"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ciatũa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cĩa ũira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩbaro yake"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mĩbaro yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩonereria"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kĩonereria"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:08.669055567Z",
+  "model": "glm-5.3"
+}

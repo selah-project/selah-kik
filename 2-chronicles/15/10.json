@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Magĩcokerera hamwe Yerucarayimu, mweri wa gatatũ, mwaka wa ikũmi na ithano wa ũthamaki wa Aca.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "magĩcokerera hamwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mweri wa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "gatatũ"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "wa ũthamaki"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aca"
+    }
+  ],
+  "timestamp": "2026-10-02T05:50:05.866109383Z",
+  "model": "glm-5.3"
+}

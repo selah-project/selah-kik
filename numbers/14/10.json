@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 14:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Na gĩkundi gĩothe kĩagĩrĩire gũinwo ⟨את⟩ ⟨arĩa⟩ nĩ mawe, na kerai wa Yahwe kĩonekire hema-inĩ ya kũhiranĩra, kũrĩ ciana ciothe cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "kĩagĩrĩire kuuga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gĩothe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gĩkundi"
+    },
+    {
+      "surface": "לרגום",
+      "gloss": "gũinwo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩+ao",
+      "marks": "Yehocua na Karebu"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "nĩ mawe"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "na kerai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "kĩonekire"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hema-inĩ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiranĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:19:09.525854974Z",
+  "model": "glm-5.3"
+}

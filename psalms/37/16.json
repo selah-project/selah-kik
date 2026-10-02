@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Kĩnini kĩa mũcedeki kĩrĩ kĩega, kũgera ũhoti wa arĩa mahũtie kũmena aingĩ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "Kĩnini"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kĩa mũcedeki"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ũhoti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa arĩa mahũtie kũmena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:20.577494098Z",
+  "model": "glm-5.3"
+}

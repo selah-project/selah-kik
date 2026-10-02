@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Yahwe akiuga na Moce, akĩuga:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩuga:"
+    }
+  ],
+  "timestamp": "2026-10-02T06:18:06.857416595Z",
+  "model": "glm-5.3"
+}

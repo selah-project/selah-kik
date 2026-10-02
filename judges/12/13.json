@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na thutha wakĩo, Abudoni mũrũ wa Hileri, mũcirathoni,akahota ciira ⟨את⟩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akahota ciira"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wakĩo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abudoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hileri"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "mũcirathoni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:02:38.324024933Z",
+  "model": "glm-5.3"
+}

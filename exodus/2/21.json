@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Moce akiyũra gũikara hamwe na ⟨את⟩ mwathi ũcio; nakĩheana ⟨את⟩ Cepora, mũiritu wake, Moce.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "akiyũra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gũikara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi ũcio"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mwathi ũcio"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nĩahĩtire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cepora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cepora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mũiritu wake"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kwa Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:29.629655099Z",
+  "model": "glm-5.3"
+}

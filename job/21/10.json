@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Ndamu yao ĩhaharĩra, na kĩndũ kĩngĩ kĩtigĩkĩgwo; iheti yake ĩthiaga na mũciĩ mwega, na ndĩhĩrĩragĩra.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "ndamu yao"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ĩhaharĩra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... ti"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "kĩtigĩkĩgwo"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "ĩthiaga na mũciĩ mwega"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "iheti yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... ti"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "ndĩhĩrĩragĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T04:14:53.632979010Z",
+  "model": "glm-5.3"
+}

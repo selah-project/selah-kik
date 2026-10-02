@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Aharoni akĩgũrata ⟨את⟩ Eliceba mũiritu wa Aminadabi, mwarĩ wa Nacconi, ayemwo namwe ũka mũka wake; namwe akĩmũciarĩra ⟨את⟩ Nadabu na ⟨את⟩ Abihuwa, ⟨את⟩ Ereazari na ⟨את⟩ Itamari.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩgũrata"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliceba"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Eliceba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mũiritu wa"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "mwarĩ wa"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nacconi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ayemwo namwe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ũka mũka wake"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akĩmũciarĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "namwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabu"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Abihuwa"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ereazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ereazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Itamari"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamari"
+    }
+  ],
+  "timestamp": "2026-10-02T06:11:10.644779837Z",
+  "model": "glm-5.3"
+}

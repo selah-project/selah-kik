@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 28,
+  "translation": "Mũthenya ũcio Yahwe Cebaoti agatuĩka mũkanda wa ciĩga, na kĩengi kĩa ũthaka, kwa andũ arĩa methondekire thĩinĩ wa andũ make.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "agatuĩka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "kuuga mũkanda wa"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ciĩga"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "na kuuga kĩengi kĩa"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "ũthaka"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "kwa arĩa methondekire"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ make"
+    }
+  ],
+  "timestamp": "2026-10-02T00:37:02.884459411Z",
+  "model": "glm-5.3"
+}

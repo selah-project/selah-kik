@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "translation": "Nĩarehere iciarĩ rĩa Sufu, irĩkũrũkire, akayahotora ao riĩra-inĩ, ta kwereri.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "nĩarehere"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iciarĩ-inĩ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufu"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "irĩkũrũkire"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "akahotora ao"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "riĩra-inĩ"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ta kwereri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:28:42.936067729Z",
+  "model": "glm-5.3"
+}

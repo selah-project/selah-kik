@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Tũhoro, Yahwe, nĩgũkorũo mũtheru nĩwathire; nĩgũkorũo arĩa mahota macemerie mariathĩire kuma harĩ aana a andũ.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Tũhoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "nĩwathire"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "mariathĩire"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "arĩa mahota macemerie"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kuma harĩ aana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:53:12.876010899Z",
+  "model": "glm-5.3"
+}

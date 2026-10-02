@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Moce akĩrũmĩra andũ kũcenjea ⟨את⟩ Yazeri; makĩĩcata mĩcĩ ĩyo, na makĩrũa na ⟨את⟩ ⟨a⟩ Emori arĩa maarĩ kũu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩrũmĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "kũcenjea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazeri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazeri"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "makĩĩcata"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "mĩcĩ ĩyo"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "makĩrũa na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "⟨a⟩ Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "maarĩ kũu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:04:38.086040631Z",
+  "model": "glm-5.3"
+}

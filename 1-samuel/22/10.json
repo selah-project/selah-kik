@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Akamũria Yahwe wone wake, akamũheana irio, na ⟨את⟩ ciara ya Goryati Mũfiritini akaheana ena wake.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akamũria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ena wake"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "na irio"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akamũheana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ena wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciara ya Goryati"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ciara"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ya Goryati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mũfiritini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaheana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ena wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:23:21.785388660Z",
+  "model": "glm-5.3"
+}

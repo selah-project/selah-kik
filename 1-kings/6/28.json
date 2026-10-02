@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Akĩthereria ⟨את⟩ kerubu icio na thahabu.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "akĩthereria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubu icio"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubu icio"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:51:46.208886973Z",
+  "model": "glm-5.3"
+}

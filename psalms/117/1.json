@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 117,
+  "translation": "Goocai ⟨את⟩ Yahwe, mabũrũri mothe; mwongorereni, ithwito ciothe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "goocai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mabũrũri"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mwongorereni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ithwito"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:13.552910693Z",
+  "model": "glm-5.3"
+}

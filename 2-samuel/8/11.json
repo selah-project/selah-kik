@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ĩncio na o nginya ⟨את⟩ icio mũthamaki Dawidi nĩagĩtheriezie kwa Yahwe, hamwe na riiri na thahabu icio nĩagĩtheriezie kuuma mĩgobayo yothe ĩrĩa yaakĩte.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na o nginya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ĩncio (indo cia riiri, thahabu na cuma)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "nĩagĩtheriezie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "riiri"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "nĩagĩtheriezie"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma wothe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mĩgobayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "yaakĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T23:32:33.863533760Z",
+  "model": "glm-5.3"
+}

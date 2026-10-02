@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mũthenya wa mũthamaki witũ, andũ arĩa mĩgongo mamũrũme nĩ hinya wa yaini; nĩeregire moko make ⟨את⟩ arĩa moothori.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mũthamaki witũ"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "mamũrũme"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "andũ arĩa mĩgongo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "wa yaini"
+    },
+    {
+      "surface": "משך",
+      "gloss": "nĩeregire"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa moothori"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "arĩa moothori"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:30.803034737Z",
+  "model": "glm-5.3"
+}

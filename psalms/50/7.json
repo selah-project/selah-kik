@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Ĩthĩra, wandũ wakwa, na nĩngamũraũra; Ĩthĩra, Yiceraeri, na nĩngakwũra ũira; Erohimu, Erohimu waku, nĩrĩ inĩ.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Ĩthĩra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wandũ wakwa"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "nĩngamũraũra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "nĩngakwũra ũira"
+    },
+    {
+      "surface": "בך",
+      "gloss": "harĩ waku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩrĩ inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:19.927988488Z",
+  "model": "glm-5.3"
+}

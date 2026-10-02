@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 84,
+  "translation": "Kwa mũrunganĩri wa kũimbĩra, thĩinĩ wa Gitiithi, kĩimbĩro kĩa ciana cia Korahi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũrunganĩri wa kũimbĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gitiithi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kĩa ciana cia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbĩro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:22:23.949965827Z",
+  "model": "glm-5.3"
+}

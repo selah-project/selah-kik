@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ndĩrĩ hoyo, Yahwe oigĩte, Adonai Yahwe: ndĩmũhikanagĩria kũnyinyita mũhiano ũyũ na mũingĩ thĩinĩ wa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Ndĩrĩ hoyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩndĩ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ndĩmũhikanagĩria"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyinyi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na mũingĩ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "kũnyinyita"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "mũhiano"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T01:51:25.054012155Z",
+  "model": "glm-5.3"
+}

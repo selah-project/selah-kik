@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Yahwe nĩakũheana ao mbere yanyu, na mũkũre nao ta wona watho wothe ũrĩa ndakwamũrire ⟨את⟩ enyu.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "nĩakũheana ao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbere yanyu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "na mũkũre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ta wona wothe"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "watho ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakwamũrire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "enyu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:38:39.652657115Z",
+  "model": "glm-5.3"
+}

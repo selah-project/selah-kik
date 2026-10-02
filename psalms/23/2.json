@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Mĩrĩma-inĩ ya ũrĩa wagĩma nĩatũmĩte nĩgĩe hĩra; hakuhĩ na maaĩ marĩ mahũrũku nĩatonganĩria.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "mĩrĩma-inĩ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ya ũrĩa wagĩma"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "nĩatũmĩte nĩgĩe hĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "maaĩ"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "marĩ mahũrũku"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "nĩatonganĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:24.119727188Z",
+  "model": "glm-5.3"
+}

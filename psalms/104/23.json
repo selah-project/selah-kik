@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Mũndũ arĩrũa agĩa wĩra wake na ũteethia wake, geetha ũgĩkĩra mgambi.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "arĩrũa agĩa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "wĩra wake"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "na ũteethia wake"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "geetha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ũgĩkĩra mgambi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:04.202680179Z",
+  "model": "glm-5.3"
+}

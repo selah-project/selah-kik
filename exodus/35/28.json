@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na ⟨את⟩ macũmbĩ, na ⟨את⟩ maguta, wa mũtheri, na wa maguta ma gũthimbio, na wa kũrũa kwa macũmbĩ manogne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "macũmbĩ"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "macũmbĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "maguta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "wa mũtheri"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "na wa maguta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ma gũthimbio"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na wa kũrũa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "kwa macũmbĩ manogne"
+    }
+  ],
+  "timestamp": "2026-10-01T21:24:50.099553836Z",
+  "model": "glm-5.3"
+}

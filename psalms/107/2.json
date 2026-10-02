@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Aroni a Yahwe moige ũguo, arĩa Yahwe ahonirie kuuma mwoko-inĩ wa thũ.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "moige"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "aroni a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ahonirie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma mwoko-inĩ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "thũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.341481083Z",
+  "model": "glm-5.3"
+}

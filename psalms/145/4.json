@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Cianĩ nĩcĩhimbia cianĩ ũndũire ciaku, na hinya waku nĩcionekania.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Cianĩ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "cianĩ"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "nĩcĩhimbia"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ũndũire ciaku"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "na hinya waku"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "nĩcionekania"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:14.759043034Z",
+  "model": "glm-5.3"
+}

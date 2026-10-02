@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na ruaki ya Yahwe ĩgĩkũgacĩra, na we ũgĩkũratha hamwe nao, na ũgĩtuĩka mũndũ ũngĩ.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "ĩgĩkũgacĩra"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "ũgĩkũratha"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hamwe nao"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "ũgĩtuĩka"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ũngĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:30.800229477Z",
+  "model": "glm-5.3"
+}

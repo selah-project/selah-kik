@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Andũ macio makĩmeeria Cemueri: Nĩwandũ nĩrĩa woigĩte atĩ Shaeri ndagĩcatura igũrũ rĩwitũ? Mutũhe andũ acio nĩtũkuhe kũbariki",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "makĩmeeria"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ macio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nĩwandũ nĩrĩa"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "woigĩte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaeri"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ndagĩcatura"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "igũrũ rĩwitũ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Mutũhe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ acio"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "nĩtũkuhe kũbariki"
+    }
+  ],
+  "timestamp": "2026-10-01T23:13:36.605122418Z",
+  "model": "glm-5.3"
+}

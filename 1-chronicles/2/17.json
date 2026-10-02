@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Abigairi akĩciarita ⟨את⟩ Amaca; na ithe wa Amaca nĩ Yetari mũYicimaeli.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Na Abigairi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akĩciarita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaca"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amaca"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "na ithe wa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amaca"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yetari"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "mũYicimaeli"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:08.871788264Z",
+  "model": "glm-5.3"
+}

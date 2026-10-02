@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Mũting'orwo ⟨את⟩ kwa ngoro yanyu, mĩng'etho yanyu ndĩkagwetha rĩngĩ.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Mũting'orwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũing'orwo kwa ngoro yanyu"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ngoro yanyu"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "mĩng'etho yanyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "kagwetha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "rĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:20:55.466373599Z",
+  "model": "glm-5.3"
+}

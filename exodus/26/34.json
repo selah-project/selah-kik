@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Nĩũcake ⟨את⟩ Kaporeti igũrũ ya cee ya ũira, thĩinĩ wa ũtheru wa atheru.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "nĩũcake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaporeti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporeti"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "cee"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya ũira"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ũtheru wa atheru"
+    }
+  ],
+  "timestamp": "2026-10-01T21:17:35.519412262Z",
+  "model": "glm-5.3"
+}

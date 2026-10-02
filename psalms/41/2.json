@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Ũmenyo-manĩrũ nĩ wa ũrĩa ũtarĩkĩrĩria mũndũ mũkeni; mũthenya wa ũru Yahwe amũreheana.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ũmenyo-manĩrũ nĩ wa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ũrĩa ũtarĩkĩrĩria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mũndũ mũkeni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "amũreheana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:59.113276099Z",
+  "model": "glm-5.3"
+}

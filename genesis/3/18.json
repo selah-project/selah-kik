@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mĩthemba na mĩtheremere nĩguo igatũmĩrwo thĩinĩ waku; ũkahĩra ⟨את⟩ mĩmera ya gĩthaka.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Mĩthemba"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "na mĩtheremere"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "igatũmĩrwo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ũkahĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩmera ya gĩthaka"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mĩmera"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya gĩthaka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:31.144856329Z",
+  "model": "glm-5.3"
+}

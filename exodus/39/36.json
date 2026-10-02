@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 39,
+  "translation": "⟨את⟩ mesa, ⟨את⟩ indo ciayo ciothe, na ⟨את⟩ mĩgate ĩrĩa ĩmenerete mbere.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciayo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "indo ciayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩgate ĩrĩa ĩmenerete mbere"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mĩgate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ĩrĩa ĩmenerete mbere"
+    }
+  ],
+  "timestamp": "2026-10-01T21:28:08.669212443Z",
+  "model": "glm-5.3"
+}

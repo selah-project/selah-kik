@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 55,
+  "translation": "Arĩa thĩinĩ wao hamwe twagĩĩrĩirie sodo kĩonanĩre, na twaendaga thĩinĩ wa nyũmba ya Erohimu na gũthinga wa andũ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "twagĩĩrĩirie-kĩonetheete"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sodo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thĩinĩ wa nyũmba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "twaendaga"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "na gũthinga wa andũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:21.871959689Z",
+  "model": "glm-5.3"
+}

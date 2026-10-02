@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mbũtũ yake, na barĩri yao: ithano na mirongo inya ngiri, na igana ithatha na mirongo ĩtano.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Na mbũtũ yake"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "na barĩri yao"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na mirongo inya"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ithatha"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo ĩtano"
+    }
+  ],
+  "timestamp": "2026-10-01T21:50:17.313746143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na andũ a Micirayimu maciĩtie atĩ nĩ nĩnie Yahwe, rĩrĩa nĩngaregera ⟨את⟩ mkono wakwa igũrũ rĩa Micirayimu, na nĩngihota ⟨את⟩ ciana cia Yiceraeri kuma thĩinĩ wao.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "maciĩtie"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "andũ a Micirayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩ nĩnie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "rĩrĩa nĩngaregera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkono wakwa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mkono wakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "na nĩngihota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "kuma thĩinĩ wao"
+    }
+  ],
+  "timestamp": "2026-10-01T21:01:32.884904492Z",
+  "model": "glm-5.3"
+}

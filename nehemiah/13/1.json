@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 13:1",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mũthenya ũcio kwarĩirwo ibuku rĩa Moce matu-inĩ ma andũ, na kũmenyeka kũandĩkĩtwo ndani waro atĩ Mwamoni na Mowabi ndmakingĩra kĩama-inĩ kĩa Erohimu kuuma tene na tene.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mũthenya-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "kwarĩirwo"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ibuku rĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "matu-inĩ ma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "na kũmenyeka"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "kũandĩkĩtwo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ndani waro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "makingĩra"
+    },
+    {
+      "surface": "עמני",
+      "gloss": "Mwamoni"
+    },
+    {
+      "surface": "ומאבי",
+      "gloss": "na Mowabi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kĩama-inĩ kĩa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T05:19:56.412586865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "na Hatari-Cuari, na Bara, na Ecemu.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "na Hatari"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Cuari"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "na Bara"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "na Ecemu"
+    }
+  ],
+  "timestamp": "2026-10-01T22:49:29.407240652Z",
+  "model": "glm-5.3"
+}

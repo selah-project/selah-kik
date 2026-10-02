@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũthamaki agĩkũna ⟨את⟩ Benayahu mũrũ wa Yehoyada handũ hake, igũrũ rĩa mbũtũ; na Cadoku mũkarani mũthamaki agĩkũna ⟨את⟩ handũ ha Abiyatari.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "agĩkũna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "handũ hake"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "mbũtũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoku"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkarani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "agĩkũna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyatari"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:34.400293689Z",
+  "model": "glm-5.3"
+}

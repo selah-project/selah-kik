@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Nini nĩ Yahwe, na gothe ⟨arĩ⟩ ethikagwo mũno, mucĩ-inĩ wa Erohimu witũ, kilima-inĩ kĩa ũtheru wake.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "na gothe ethikagwo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mucĩ-inĩ wa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kilima-inĩ kĩa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ũtheru wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:31.238691079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na akĩandĩkĩra kuo harĩ ⟨the⟩ mahiga macio ⟨את⟩ mwĩrĩ wa Tora ya Moce, ũrĩa aandĩkĩte mbere ya ciana cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akĩandĩkĩra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mahiga macio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwĩrĩ wa Tora ya Moce"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "aandĩkĩte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T06:26:04.265899518Z",
+  "model": "glm-5.3"
+}

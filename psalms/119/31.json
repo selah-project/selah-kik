@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩndĩramenyeretie mĩrarũko yaku; Yahwe, ntĩkarehe njũhĩ.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "nĩndĩramenyeretie"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "mĩrarũko yaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntĩka-"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "karehe njũhĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:54.143538423Z",
+  "model": "glm-5.3"
+}

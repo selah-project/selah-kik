@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Arĩa mamũthagũ Ngai makorwo magĩcooka kũnyĩtigĩra, magĩikara marĩ na ũmenyi wa mamenyo makwa.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "magĩcooka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kũnyĩtigĩra"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "Arĩa mamũthagũ Ngai"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "magĩikara marĩ na ũmenyi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "wa mamenyo makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:35.897372833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Nĩrĩa, angĩkorwo matũgũkĩre, ũmwe agĩteithagĩrĩra ⟨את⟩ mũrata wake; no ũrĩa oimĩte na gũtũgũkĩra, ti na mũyĩ wa kũmũũria.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩrĩa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "angĩkorwo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matũgũkĩre"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "agĩteithagĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrata wake"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "mũrata wake"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "no ũrĩa oimĩte na"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "gũtũgũkĩra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ti na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mũyĩ"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "wa kũmũũria"
+    }
+  ],
+  "timestamp": "2026-10-02T04:38:11.131769886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Kũmũthuria; wa mũtumia wa Yahwe, wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũmũthuria"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "wa mũtumia wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:12.711729347Z",
+  "model": "glm-5.3"
+}

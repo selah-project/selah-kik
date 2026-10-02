@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Dawidi agĩtĩka ⟨את⟩ indo ciake thĩinĩ wa moko mwa mũrĩithi wa indo, na acambĩte kũgera mũhare-inĩ, na akĩũka, na aabara arũa ake arĩ marĩ thayũ.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "agĩtĩka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciake"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "indo ciake"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kuuma igũrũ rĩake"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mũrĩithi"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "wa indo"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "acambĩte"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "mũhare-inĩ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akĩũka"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "aabara"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "arũa ake"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "thayũ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:18:51.661919348Z",
+  "model": "glm-5.3"
+}

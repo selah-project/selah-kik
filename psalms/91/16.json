@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 91,
+  "translation": "Nĩmĩarĩkĩra na mĩthiya ĩnene, nĩndĩmũthaanĩra, na kũmũonera wũngĩ wakwa.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ĩnene"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthiya"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "nĩndĩmũthaanĩra"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "kũmũonera"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "wũngĩ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:38.154814084Z",
+  "model": "glm-5.3"
+}

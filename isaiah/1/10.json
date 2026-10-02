@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Ĩmwenya kiugo kĩa Yahwe, arĩa arũa a Cedomu; ĩcokerethie matũ Tora ya Erohimu witũ, andũ a Camora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ĩmwenya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kĩa Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "arĩa arũa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "a Cedomu"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ĩcokerethie matũ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Erohimu witũ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "a Camora"
+    }
+  ],
+  "timestamp": "2026-10-02T00:24:35.543552304Z",
+  "model": "glm-5.3"
+}

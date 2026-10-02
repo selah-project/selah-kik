@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na makohorithia ⟨את⟩ maciĩ ma cahũĩ, magetherera igũrũ rĩake cĩngĩ ya arugamani.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "makohorithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cahũĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cahũĩ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "magetherera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "cĩngĩ"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "arugamani"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:58.357983550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Matiihũkire kĩrĩa makiendaga; irio ciao iciarĩ ithenya rĩrĩa na kanũa-inĩ kiacio.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "matiihũkire"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "kĩrĩa makiendaga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ithenya rĩrĩa"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "irio ciao"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "na kanũa-inĩ kiacio"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:47.463808845Z",
+  "model": "glm-5.3"
+}

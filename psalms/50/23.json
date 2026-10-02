@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Mũgoathi wa ngatho nĩngĩmũkũngũrĩra; na ũrĩa_wothe waamũranĩtie mũgithĩ, nĩngĩmũrekera ũtheri wa Erohimu.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "mũgoathi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "wa ngatho"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "nĩngĩmũkũngũrĩra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ũrĩa_wothe waamũranĩtie"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mũgithĩ"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "nĩngĩmũrekerera"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:23.436858554Z",
+  "model": "glm-5.3"
+}

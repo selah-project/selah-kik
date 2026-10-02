@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "translation": "Mũthenya wothe maĩrũragia ciugo cĩakwa; macĩanĩrĩro mao wothe nĩ ma ũru.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cĩakwa"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "maĩrũragia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "macĩanĩrĩro mao"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ma ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:18.016965929Z",
+  "model": "glm-5.3"
+}

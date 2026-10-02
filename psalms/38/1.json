@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Kĩĩmwe kĩa mahũmani, kĩa Dawidi, gĩa kũrũmbũiya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kĩĩmwe kĩa mahũmani"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "gĩa kũrũmbũiya"
+    }
+  ],
+  "timestamp": "2026-10-02T06:55:48.584775413Z",
+  "model": "glm-5.3"
+}

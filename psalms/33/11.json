@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Mĩcĩrĩre ya Yahwe ĩkahĩa kũyũmĩra ithenya rĩngĩ; mahũthagĩro ma ngoro yake, ciiumĩranĩre-inĩ ithenya rĩngĩ na rĩngĩ.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "mĩcĩrĩre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ithenya rĩngĩ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ĩkahĩa kũyũmĩra"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mahũthagĩro"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ma ngoro yake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ciiumĩranĩre-inĩ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ithenya rĩngĩ na rĩngĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:09.484412670Z",
+  "model": "glm-5.3"
+}

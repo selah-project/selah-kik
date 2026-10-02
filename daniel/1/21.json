@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Daniyeri agĩkũra gĩkũro kĩa mwaka wa mbere wa Koroce mwathi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "agĩkũra"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkũro kĩa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "wa Koroce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:47:14.284262475Z",
+  "model": "glm-5.3"
+}

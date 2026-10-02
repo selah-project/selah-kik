@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Haria ndege cĩnyuaga matukũ macio; na hasida, mĩcũcũ-inĩ mĩnene nĩyo nyũmba yayo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Haria"
+    },
+    {
+      "surface": "שם",
+      "gloss": "macio"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ndege"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "cĩnyuaga matukũ"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "hasida"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "mĩcũcũ-inĩ mĩnene"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyũmba yayo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:50.583836476Z",
+  "model": "glm-5.3"
+}

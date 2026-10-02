@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩnĩmũgũrĩra kwa cekeri ikũmi na ithano cia mbeca, na homa ĩmwe ya cembe, na retheke rĩmwe ra cembe.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "nĩnĩmũgũrĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "cekeri cia mbeca"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "na homa ĩmwe"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ya cembe"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "na retheke rĩmwe"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ra cembe"
+    }
+  ],
+  "timestamp": "2026-10-02T02:18:33.219716819Z",
+  "model": "glm-5.3"
+}

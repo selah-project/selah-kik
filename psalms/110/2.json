@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 110,
+  "translation": "Mũtĩ wa hinya waku, Yahwe nĩakuũmithe kuuma Cioni; iamũrĩra gatagatĩ ka thũ ciake.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "wa hinya waku"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "nĩakuũmithe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuuma Cioni"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "iamũrĩra"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "thũ ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:32.975885373Z",
+  "model": "glm-5.3"
+}

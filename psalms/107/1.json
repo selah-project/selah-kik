@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Thingai Yahwe nĩgũkorwo nĩ mwega, nĩgũkorwo hecedi yakwo ĩikaraga nginya tene na tene.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Thingai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nginya tene na tene"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi yakwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.339446380Z",
+  "model": "glm-5.3"
+}

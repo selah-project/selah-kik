@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 24:49",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Na rĩu, nimwagĩkenda gwĩka hecedi na ma ⟨את⟩ mwathi wakwa, mũrũrire; na gĩtĩkĩ, mũrũrire, nĩngeethamba ngĩcoherea mcenjie kana hinya wa mweri.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "ישכם",
+      "gloss": "mũkorwo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "na ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi wakwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "mũrũrire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na gĩtĩkĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "mũrũrire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "ואפנה",
+      "gloss": "nĩngeethamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngĩcoherea"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mcenjie"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngĩcoherea"
+    },
+    {
+      "surface": "שמאל",
+      "gloss": "hinya wa mweri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:41:04.367925410Z",
+  "model": "glm-5.3"
+}

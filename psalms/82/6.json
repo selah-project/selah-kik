@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 82,
+  "translation": "Nĩĩrĩire nĩguo: nĩmwĩ Erohimu, na nĩmwe ari a Mũnene-Igũrũ othe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nĩĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "rĩire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nĩmwĩ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ari a"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Mũnene-Igũrũ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "othe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:33.711264519Z",
+  "model": "glm-5.3"
+}

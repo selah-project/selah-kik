@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na ikũyũ rĩrĩa kĩya mwaka-inĩ wa mirongo ĩrĩ na ithathatu wa mũthamaki Yehowaci, athĩnjĩri-ngai matihinyanĩtire ⟨את⟩ mbũrũri ya nyũmba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikũyũ rĩrĩa"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka-inĩ wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mirongo ĩrĩ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na ithathatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wa mwaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehowaci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "mahinyanĩtire"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "athĩnjĩri-ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbũrũri"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mbũrũri"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya nyũmba"
+    }
+  ],
+  "timestamp": "2026-10-02T00:15:13.353780315Z",
+  "model": "glm-5.3"
+}

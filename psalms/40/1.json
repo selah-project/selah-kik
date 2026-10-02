@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Kwa mwathi wa kĩimbo, kĩimbo kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kwa mwathi wa kĩimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩimbo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:49.779507094Z",
+  "model": "glm-5.3"
+}

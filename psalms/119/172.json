@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Rurimi rwakwa rũcoorire kĩugo kĩaku; nĩgetha mawatho maku mothe nĩ cedeki.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "rũcoorire"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Rurimi rwakwa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kĩugo kĩaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgetha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mawatho maku"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:07.010112242Z",
+  "model": "glm-5.3"
+}

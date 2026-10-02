@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Tondũ kwagĩrĩre ciugo nyingĩ ikĩongeragĩra hebiri, nĩkĩ gĩthondekĩ kĩrĩ mũndũ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tondũ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kwagĩrĩre"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nyingĩ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ikĩongeragĩra"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebiri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "gĩthondekĩ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kĩrĩ mũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:33.851892340Z",
+  "model": "glm-5.3"
+}

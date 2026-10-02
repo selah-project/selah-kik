@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Na ⟨את⟩ kwao ya itherũ muhe kaheni ta teruma, kuuma zevaci cianyu cia celami.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kwao ya itherũ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ya itherũ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "muhe"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kaheni"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kuuma zevaci"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "cianyu cia celami"
+    }
+  ],
+  "timestamp": "2026-10-01T21:31:35.386592235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "translation": "Rioko rwanyu rĩgĩkorwo rĩrĩ thĩinĩ wa mũndũ wa gĩoko kĩa kweri gĩanyu, na mũrũ wa mũndũ ũrĩa womemerekirie nĩwĩ mwene.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "rĩgĩkorwo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "rioko rwanyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩrĩ thĩinĩ wa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wa gĩoko kĩa kweri gĩanyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "womemerekirie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩwĩ mwene"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:02.509397661Z",
+  "model": "glm-5.3"
+}

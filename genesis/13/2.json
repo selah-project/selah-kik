@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na Abarahamu nĩaarĩ mũingĩ mũno wa ng'ombe, wa thiri na wa ndahabu.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Na Abarahamu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nĩaarĩ mũingĩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "wa ng'ombe"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "wa thiri"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "na wa ndahabu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:29.584007263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "kũciara kũingĩha kũciara, ithinjo ithinjo ya ithinjo, thayo ya thayo.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "kũciara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kũingĩha"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "kũciara"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ithinjo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ithinjo ya"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ithinjo"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "thayo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thayo ya"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "thayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:09.244123511Z",
+  "model": "glm-5.3"
+}

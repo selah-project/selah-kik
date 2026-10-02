@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Sara aona ⟨את⟩ mũrũ wa Hagari, wa Micirayimu, ũrĩa amũciarĩire Abarahamu, akĩceka.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "aona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa Hagari"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "amũciarĩire"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "akĩceka"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:30.256604221Z",
+  "model": "glm-5.3"
+}

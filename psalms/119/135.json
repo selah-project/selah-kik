@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Mũthiya wĩaku ũthĩnjĩre mwagĩrĩru harĩ mũtendwa wĩaku, na ũngĩrĩtĩrĩrire ⟨את⟩ cithingo cĩaku.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "mũthiya wĩaku"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ũthĩnjĩre mwagĩrĩru"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "harĩ mũtendwa wĩaku"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "na ũngĩrĩtĩrĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cithingo cĩaku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "cithingo cĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:35:04.961015227Z",
+  "model": "glm-5.3"
+}

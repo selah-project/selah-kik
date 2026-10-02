@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na kiugo gĩkĩ gĩkĩonera wega thĩinĩ wa maitho ma Adonai, mwoloyo wa Ceromoha ⟨את⟩ kiugo gĩkĩ.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "gĩkĩonera wega"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo gĩkĩ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho ma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mwoloyo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wa kũũria"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo gĩkĩ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo gĩkĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:41.533555326Z",
+  "model": "glm-5.3"
+}

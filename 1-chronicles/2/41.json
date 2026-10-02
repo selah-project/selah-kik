@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Cerumu nĩmore ⟨את⟩ Yekamiya, na Yekamiya nĩmore ⟨את⟩ Eryicama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Na Cerumu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩmore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamiya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamiya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "na Yekamiya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nĩmore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eryicama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eryicama"
+    }
+  ],
+  "timestamp": "2026-10-02T05:19:58.165644214Z",
+  "model": "glm-5.3"
+}

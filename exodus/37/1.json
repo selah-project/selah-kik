@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na Becereri akagwĩka ⟨את⟩ aroni ya miti ya citim; amata igiri na gĩthahu kũraya kwayo, na amamwe na gĩthahu kũtambaya kwayo, na amamwe na gĩthahu kwa kũrĩ igũrũ kwayo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akagwĩka"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becereri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "citim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amata igiri"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na gĩthahu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kũraya kwayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amamwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na gĩthahu"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kũtambaya kwayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na amamwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na gĩthahu"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kũrĩ igũrũ kwayo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:16.734851114Z",
+  "model": "glm-5.3"
+}

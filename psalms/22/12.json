@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ũrikarahĩra ũrĩ ithũĩrĩ; nĩgũkorwo marũrũ nĩ mahiũ; nĩgũkorwo atirĩ mũteithania.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ũriki"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "karahĩra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ũrĩ ithũĩrĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "marũrũ"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "nahiũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "atirĩ"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "mũteithania"
+    }
+  ],
+  "timestamp": "2026-10-02T02:55:23.110800638Z",
+  "model": "glm-5.3"
+}

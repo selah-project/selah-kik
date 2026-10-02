@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na rĩrĩa atarĩhonia ⟨את⟩ gĩa kĩu, kana arĩ hanĩte ⟨את⟩ gĩa kĩu mũndũ ũngĩ, tĩ kũhonioka oncũi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "arĩhonia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩa kĩu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gĩa kĩu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "arĩ hanĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩa kĩu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gĩa kĩu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kũhonioka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "oncũi"
+    }
+  ],
+  "timestamp": "2026-10-01T21:49:19.225404503Z",
+  "model": "glm-5.3"
+}

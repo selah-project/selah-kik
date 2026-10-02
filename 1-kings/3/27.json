@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na mwathi agĩcokia akiuga: Mũhe ywe ⟨את⟩ mũana ũrĩa mũiguũ, na mũtire kũmũkuura; nĩwe nyina wake.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "agĩcokia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Mũhe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ywe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũana ũrĩa mũiguũ"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "mũana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ũrĩa mũiguũ"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na mũtire kũkuura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "kũmũkuura"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "nyina wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:49:10.004011042Z",
+  "model": "glm-5.3"
+}

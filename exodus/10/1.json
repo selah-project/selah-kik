@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩngĩ Yahwe akiugĩra Moce atĩrĩ: ũkĩraya kwa Farao, nĩgũkorwo nĩnyĩhũrĩtie ⟨את⟩ ngoro yake, na ⟨את⟩ ngoro ya arutani ake, nĩgeetha ndĩcere ibere ici thĩinĩ wake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiugĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ũkĩraya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩne"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "nĩnyĩhũrĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ngoro ya arutani ake"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ya arutani ake"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ndĩcere"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ibere ĩkwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "thĩinĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:50.646933788Z",
+  "model": "glm-5.3"
+}

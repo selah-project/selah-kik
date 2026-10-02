@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Cerahi nĩaire mĩaka mĩrongo ithatũ, akĩciarĩra ⟨את⟩ Ereri.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Cerahi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nĩaire"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mĩrongo ithatũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akĩciarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ereri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ereri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:34:11.321696310Z",
+  "model": "glm-5.3"
+}

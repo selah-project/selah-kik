@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Arĩa mehũhĩte nĩmoĩra, makĩohetha: arĩa roreithia Erohimu, ngoro cianyu cihĩe ngombo.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nĩmoĩra"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "arĩa mehũhĩte"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "makĩohetha"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "arĩa roreithia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "cihĩe ngombo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ngoro cianyu"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:59.600313392Z",
+  "model": "glm-5.3"
+}

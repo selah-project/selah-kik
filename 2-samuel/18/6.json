@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na andũ nĩmaathire gĩthĩka-inĩ gũkĩrĩra Yiceraeri, na mbaara nĩikarĩte gĩthaka-inĩ kĩa Eperayimu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nĩmaathire"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "gĩthĩka-inĩ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gũkĩrĩra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nĩikarĩte"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "mbaara"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "gĩthaka-inĩ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "kĩa Eperayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:39:29.796373849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Mũthenya wothe kilĩmĩ yakwa ĩrĩ mbere yakwa, na njerũ ya thĩinĩ wakwa ĩnĩtĩngĩrĩirie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "kilĩmĩ yakwa"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ĩrĩ mbere yakwa"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "na njerũ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya thĩinĩ wakwa"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ĩnĩtĩngĩrĩirie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:05.562778834Z",
+  "model": "glm-5.3"
+}

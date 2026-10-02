@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 109,
+  "translation": "Nĩngũgooca Yahwe mũno kanũ kwakwa, na gĩathi kĩa andũ aingĩ nĩngũhimĩria.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "nĩngũgooca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "kanũ kwakwa"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "na gĩathi kĩa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "andũ aingĩ"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "nĩngũhimĩria"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:54.720800083Z",
+  "model": "glm-5.3"
+}

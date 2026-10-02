@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na nyũmba ya kũnywetha ndũkaingire kũinama ⟨את⟩ nawo kũria na kũnywa.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "na nyũmba"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ya kũnywetha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ingire"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kũinama"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "nawo ⟨את⟩",
+      "marks": "kũria na kũnywa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kũria"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "na kũnywa"
+    }
+  ],
+  "timestamp": "2026-10-02T01:09:21.546858639Z",
+  "model": "glm-5.3"
+}

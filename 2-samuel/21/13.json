@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Dawidi akĩinia kuo ⟨את⟩ mahiu ga Caeri na ⟨את⟩ mahiu ga Yehonatani mũrũ wakwe, na makĩrũngĩra ⟨את⟩ mahiu ga arĩa maatungĩtwo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akĩinia kuo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahiu ga Caeri"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mahiu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mahiu ga Yehonatani"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mahiu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wakwe"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "makĩrũngĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahiu ga arĩa maatungĩtwo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mahiu"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "arĩa maatungĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-01T23:41:58.906125378Z",
+  "model": "glm-5.3"
+}

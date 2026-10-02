@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Boazi akiuga kũri athĩcanĩkĩ na andũ aingĩ arĩa maarĩ mbũtũ-inĩ: Niinyi mairũ mũthenya ũyũ atĩ nĩngũrĩte ⟨את⟩ indo ciothe iria cia Erimereki, na ⟨את⟩ indo ciothe iria cia Kieronĩ na Mahroni, kuuma moko-inĩ ma Naomi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "kũri athĩcanĩkĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ aingĩ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mairũ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "niinyi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "nĩngũrĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "cia Erimereki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "cia Kieronĩ"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "na Mahroni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ma Naomi"
+    }
+  ],
+  "timestamp": "2026-10-02T07:06:14.725952501Z",
+  "model": "glm-5.3"
+}

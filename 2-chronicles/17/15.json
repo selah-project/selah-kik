@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na mwena wa moko make, Yehohanani mwathi, na hamwe nake magana meerĩ na thũngũĩ ma ng'wato.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "mwena wa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Yehohanani"
+    },
+    {
+      "surface": "השר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "na hamwe nake"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "magana meerĩ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "na thũngũĩ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ng'wato"
+    }
+  ],
+  "timestamp": "2026-10-02T05:50:15.471122067Z",
+  "model": "glm-5.3"
+}

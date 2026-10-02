@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Kũhoya kwa Dawidi. Thĩna, Yahwe, cedeki; tũrĩ ũteithĩtie mũgambo wakwa; tũhorerere kũhoya kwakwa, ti kuuma morai ma kuhiũha.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Kũhoya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwa Dawidi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Thĩna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tũrĩ ũteithĩtie"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tũhorerere"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kũhoya kwakwa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ti kuuma"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "morai"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "kuhiũha"
+    }
+  ],
+  "timestamp": "2026-10-02T02:54:01.653797104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Akĩcookia ⟨את⟩ indũ ciothe, na o ⟨את⟩ Loti mũrũ wanyina wake, na indũ ciake akĩcookia, na o ⟨את⟩ atumia na ⟨את⟩ andũ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akĩcookia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indũ ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "indũ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũ wanyina wake"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "na indũ ciake"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "akĩcookia"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atumia"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:36:09.285069074Z",
+  "model": "glm-5.3"
+}

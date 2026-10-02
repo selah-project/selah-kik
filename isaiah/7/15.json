@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Mboco na asari agĩrĩkũria, akihĩrĩirie kũigua kũhiũra ũthuuri na kũcoka mwega.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na asari"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "agĩrĩkũria"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "akihĩrĩirie kũigua"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "kũhiũra"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ũthuuri"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "na kũcoka"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mwega"
+    }
+  ],
+  "timestamp": "2026-10-02T00:26:58.306042524Z",
+  "model": "glm-5.3"
+}

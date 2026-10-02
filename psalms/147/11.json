@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Yahwe anenere ⟨את⟩ arĩa matemagĩrĩra, ⟨את⟩ arĩa meeterera hecedi wake.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "anenere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa matemagĩrĩra"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "arĩa matemagĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa meeterera"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "arĩa meeterera"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:57.219240273Z",
+  "model": "glm-5.3"
+}

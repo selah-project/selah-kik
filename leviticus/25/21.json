@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Nĩndĩrathime ⟨את⟩ cihiko cia kwĩ iyũmbe-yaku, hĩndĩ ya mwaka wa gatandatũ, na ndĩkahe mbembe ⟨את⟩ mĩarĩgĩrĩre ya mĩaka ĩtatu.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "nĩndĩrathime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cihiko cia kwĩ iyũmbe-yaku"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "cihiko cia kwĩ iyũmbe-yaku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iyũ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "hĩndĩ ya mwaka"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "wa gatandatũ"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "na ndĩkahe mbembe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩarĩgĩrĩre"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "mĩarĩgĩrĩre"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "ya mĩaka ĩtatu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ya mĩaka ĩtatu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:45:43.555269415Z",
+  "model": "glm-5.3"
+}

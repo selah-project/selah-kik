@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ũhonokiere we ta cebi kuuma moko, na ta ndegũ kuuma moko ya mũthagithi.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "ũhonokiere we"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "ta cebi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "na ta ndegũ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ya mũthagithi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:47:36.025452006Z",
+  "model": "glm-5.3"
+}

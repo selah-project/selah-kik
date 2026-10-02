@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Erohimu, maara make-inĩ, nĩmenyekire arĩ mũkoro.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "maara make-inĩ"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "nĩmenyekire"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "arĩ mũkoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:31.241933792Z",
+  "model": "glm-5.3"
+}

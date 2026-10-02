@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Rorai, Adonai Yahwe agĩkũya na hinya, na mkono wake nĩwathikagĩra; rorai, mũthingo wake nĩurĩ ⟨את⟩ hamwe nake, na wĩra wake mbere yakĩo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rorai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "na hinya"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "agĩkũya"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na mkono wake"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "nĩwathikagĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rorai"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mũthingo wake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe nake"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "na wĩra wake"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yakĩo"
+    }
+  ],
+  "timestamp": "2026-10-02T00:44:46.684234323Z",
+  "model": "glm-5.3"
+}

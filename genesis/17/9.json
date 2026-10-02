@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Erohimu akiuga kũ Abarahamu: We na iwe, ũkunyitĩrire ⟨את⟩ kĩrĩkanĩro kĩŋwethe, iwe na mũciru waku thutha waku, mĩaki yao yona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe nĩwĩkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩŋwethe"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩŋwethe"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ũkunyitĩrire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "mũciru waku"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "thutha waku"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "mĩaki yao yona"
+    }
+  ],
+  "timestamp": "2026-10-01T20:37:04.539266818Z",
+  "model": "glm-5.3"
+}

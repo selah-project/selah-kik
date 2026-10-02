@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Rabani akiuga: Nĩ kĩegu gũkũhe ⟨את⟩ we, kũngĩhota gũkuha ⟨את⟩ we mũndũ ũngĩ; ikara nawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabani"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Nĩ kĩegu"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "gũkũhe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "kũngĩhota gũkuha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we mũndũ ũngĩ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ikara"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:44:44.533356540Z",
+  "model": "glm-5.3"
+}

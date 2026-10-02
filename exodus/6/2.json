@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na Erohimu agĩtarĩkĩra Moce, akiugira atĩrĩ: Nĩĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "agĩtarĩkĩra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiugira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:05.776676385Z",
+  "model": "glm-5.3"
+}

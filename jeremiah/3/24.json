@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na kĩeni kĩa meri nĩgĩkariatĩte ⟨את⟩ gĩcakĩra kwa aacĩ arũme aitũ, kuuma mĩtũkĩ yĩtũ; ⟨את⟩ ng'ondu ciao na ⟨את⟩ ng'ombe ciao, ⟨את⟩ aana arũme ao na ⟨את⟩ aana atumia ao.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "na kĩeni kĩa meri"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "nĩgĩkariatĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcakĩra kwa aacĩ arũme aitũ"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "gĩcakĩra"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "aacĩ arũme aitũ"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "kuuma mĩtũkĩ yĩtũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'ondu ciao"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ng'ondu ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe ciao"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "ng'ombe ciao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana arũme ao"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "aana arũme ao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana atumia ao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "aana atumia ao"
+    }
+  ],
+  "timestamp": "2026-10-02T01:01:28.045007947Z",
+  "model": "glm-5.3"
+}

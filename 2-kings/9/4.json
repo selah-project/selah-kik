@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩ ũndũ wa cio mwanamũciĩ, mwanamũciĩ wa mũrathi, agĩthiĩ Ramoti gĩcwa-inĩ kĩa Girĩadi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwanamũciĩ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwanamũciĩ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "wa mũrathi"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "gĩcwa-inĩ kĩa Girĩadi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:11:06.470439460Z",
+  "model": "glm-5.3"
+}

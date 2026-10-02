@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Akĩmũkĩria mathũũra mbere ya Yahwe, ũrĩa Yahwe aanyĩtie Moce ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akĩmũkĩria"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "mathũũra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aanyĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:27:48.131060664Z",
+  "model": "glm-5.3"
+}

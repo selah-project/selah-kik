@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Nĩ rĩrĩ nĩngĩkuũngũrĩthie kuuma thĩ ya Micirayimu, na kuuma nyũmba ya ngombo nĩngĩkũhonokia; na nĩndĩretũ mbere waku ⟨את⟩ Moce, Aharoni na Miriamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ rĩrĩ"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "nĩngĩkuũngũrĩthie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "na kuuma nyũmba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya ngombo"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "nĩngĩkũhonokia"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "na nĩndĩretũ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "na Miriamu"
+    }
+  ],
+  "timestamp": "2026-10-02T02:37:00.012325159Z",
+  "model": "glm-5.3"
+}

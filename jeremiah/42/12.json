@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Na nĩngũhe inyui ene tha, na ndĩmũhe tha, na ngũcookia ⟨את⟩ inyui kũgĩ thĩ ĩarĩu ya inyui.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "na nĩngũhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyui"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "ene tha"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "na ndĩmũhe tha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyui"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "na ngũcookia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũgĩ"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "thĩ ĩarĩu ya inyui"
+    }
+  ],
+  "timestamp": "2026-10-02T01:33:03.088440352Z",
+  "model": "glm-5.3"
+}

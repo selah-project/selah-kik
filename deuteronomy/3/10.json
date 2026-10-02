@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mĩcĩ yothe ya ũembĩri-inĩ, na Giriyadi yothe, na Bacani yothe, ithũkĩna Calkaha na Ederei — mĩcĩ ya ũthamaki wa Ogi thĩinĩ wa Bacani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mĩcĩ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ya ũembĩri-inĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giriyadi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bacani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ithũkĩna"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Calkaha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "na Ederei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mĩcĩ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ya ũthamaki"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "wa Ogi"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "thĩinĩ wa Bacani"
+    }
+  ],
+  "timestamp": "2026-10-01T22:16:12.457289445Z",
+  "model": "glm-5.3"
+}

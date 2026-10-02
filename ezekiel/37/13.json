@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na mũnũmenye atĩ nĩne Yahwe, rĩrĩa ndĩgũcihurithia ⟨את⟩ mabara manyu, na rĩrĩa ndĩgũcinyũũngũrĩra mabara manyu-inĩ, andũ akwa.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "mũnũmenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "rĩrĩa ndĩgũcihurithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabara manyu"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "mabara manyu"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "na rĩrĩa ndĩgũcinyũũngũrĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mabara manyu-inĩ"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "mabara manyu-inĩ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    }
+  ],
+  "timestamp": "2026-10-02T06:50:13.909078352Z",
+  "model": "glm-5.3"
+}

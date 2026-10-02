@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Aana a Yaakobu makĩigua Cekemu na ⟨את⟩ Camori ithe wakwe na ũhiti, makĩuga maũndũ, nĩ-ũndũ Cekemu ahũthithirie ⟨את⟩ Dina mwarĩ wa nyina wao.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "makĩigua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cekemu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Camori"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Camori"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wakwe"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "na ũhiti"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "makĩuga maũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩ-ũndũ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ahũthithirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "mwarĩ wa nyina wao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:44.418841238Z",
+  "model": "glm-5.3"
+}

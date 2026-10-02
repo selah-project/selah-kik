@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Kĩndũ gĩothe gĩthĩĩraga kĩrĩa kĩrĩ mũoyo, nĩkĩanyu nĩkĩagĩrĩire kũrĩa; ta mboco iria ciarĩ ichũũru nĩngũmũheire ⟨את⟩ ciothe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kĩndũ gĩothe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "gĩthĩĩraga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨gĩo⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kĩrĩ mũoyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nĩkĩanyu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩkĩagĩrĩire"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mboco iria ciarĩ ichũũru"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩngũmũheire"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anĩnwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:28.635003799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 73,
+  "translation": "Na njĩũe, magũrũ makwa makamarĩ gũthii, mageci makwa makamarĩ kũhĩa ta kĩndũ gĩtku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "na njĩũe"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "makamarĩ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "makagũrũkire"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "magũrũ makwa"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ta kĩndũ gĩtku"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "makahĩtwo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mageci makwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:52.812415331Z",
+  "model": "glm-5.3"
+}

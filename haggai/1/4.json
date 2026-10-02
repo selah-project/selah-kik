@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩ kuoya kũanyu-ini nyinyinyu, gutara mĩrongo ĩrĩ mĩtheru, na nyũmba ĩno ĩkorwo ĩmehereretwo?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Nĩ kuoya kũanyu-ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kũanyu-ini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyinyinyu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gutara"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "mĩrongo ĩanyu"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "ĩrĩ mĩtheru"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyũmba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ĩmehereretwo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:40:38.495829314Z",
+  "model": "glm-5.3"
+}

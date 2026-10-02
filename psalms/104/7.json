@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Kuma thūgumo yaku magĩthiĩ hinya mũno; kuma mũgambo waku wa mbura ĩyũrĩra magĩĩhota na mbere mũingĩ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "thūgumo yaku"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "magĩthiĩ hinya mũno"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "wa mbura ĩyũrĩra yaku"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "magĩĩhota na mbere mũingĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:43.143393672Z",
+  "model": "glm-5.3"
+}

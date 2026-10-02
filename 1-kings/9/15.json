@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ũyũ nĩ ũhoro wa gũtwarĩrwo kwa andũ arũa Ceromo mũthamaki ahoonedha, agĩkũra ⟨את⟩ nyũmba ya Yahwe, na ⟨את⟩ nyũmba yake, na ⟨את⟩ Miro, na ⟨את⟩ gĩthingo kya Yerucarayimu, na ⟨את⟩ Hacori, na ⟨את⟩ Megido, na ⟨את⟩ Gezeri.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na ũyũ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nĩ ũhoro"
+    },
+    {
+      "surface": "המס",
+      "gloss": "wa gũtwarĩrwo kwa andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arũa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ahoonedha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "agĩkũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Miro"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Miro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "gĩthingo kya Yerucarayimu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "gĩthingo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kya Yerucarayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Hacori"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hacori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Megido"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:55:29.054366857Z",
+  "model": "glm-5.3"
+}

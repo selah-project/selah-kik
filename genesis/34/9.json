@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Mwĩhūkanire nayo ithuĩ maitũ na arume; mwarĩ wanyu mũhe ithuĩ, na mwarĩ wanyu mũcookererwo to kwanyu.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "mwĩhūkanire nayo ithuĩ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "mwarĩ wanyu mũhe ithuĩ"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "mwarĩ wanyu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mũhe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwarĩ wanyu mũcookererwo to kwanyu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "mwarĩ wanyu"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mũcookererwo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "to kwanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:48:46.263789048Z",
+  "model": "glm-5.3"
+}

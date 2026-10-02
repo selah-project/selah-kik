@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na ritho rwaku ndũrĩhecirwo ⟨את⟩ mũoyo kwa mũoyo, ritho kwa ritho, meno kwa meno, guoko kwa guoko, guũ kwa guũ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "rĩhecirwo"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ritho rwaku"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kwa mũoyo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ritho"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "kwa ritho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "kwa meno"
+    },
+    {
+      "surface": "יד",
+      "gloss": "guoko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kwa guoko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "guũ"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "kwa guũ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:27:29.800586499Z",
+  "model": "glm-5.3"
+}

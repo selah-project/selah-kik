@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 146,
+  "translation": "Yahwe aroroothagĩra maithori andũ arĩa marorekĩte, Yahwe aingĩhagĩra arĩa maamũkĩte thĩ, Yahwe endagĩra acembe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "aroroothagĩra maithori"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "arĩa marorekĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "aingĩhagĩra"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "arĩa maamũkĩte thĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "endagĩra"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "acembe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:16.204773076Z",
+  "model": "glm-5.3"
+}

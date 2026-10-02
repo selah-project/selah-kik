@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Samweri akĩuga andũ-inĩ: Yahwe, ũrĩa wathomire ⟨את⟩ Moce na ⟨את⟩ Aharoni, na ũrĩa wahothire ⟨את⟩ aacĩ anyu kuuma thĩ-inĩ ya Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samweri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "andũ-inĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wathomire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ũrĩa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wahothire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aacĩ anyu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "aacĩ anyu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "thĩ-inĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:14:43.078651283Z",
+  "model": "glm-5.3"
+}

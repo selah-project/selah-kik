@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "translation": "Yahwe, Erohimu wa Cebaoti, nĩ ũrĩa ũngĩhĩana nawe mũnini wa hinya, Yah? Na wĩtikĩrio waku nĩwo ũrĩ kũringĩra kwee.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũrĩa ũngĩhĩana"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "mũnini wa hinya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "na wĩtikĩrio waku"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "kũringĩra kwee"
+    }
+  ],
+  "timestamp": "2026-10-02T06:58:03.950904109Z",
+  "model": "glm-5.3"
+}

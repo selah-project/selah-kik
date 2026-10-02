@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩndĩgũũrire ⟨את⟩ nguo yakwa — nĩngĩcoke kũmũamũra atĩa? Nĩndĩoga ⟨את⟩ magurũ makwa — nĩngĩcoke kũmanyanĩra atĩa?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "nĩndĩgũũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo yakwa"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "nguo yakwa"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "nĩngĩcoke atĩa"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "kũmũamũra"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "nĩndĩoga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magurũ makwa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "magurũ makwa"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "nĩngĩcoke atĩa"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "kũmanyanĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T04:29:40.331364304Z",
+  "model": "glm-5.3"
+}

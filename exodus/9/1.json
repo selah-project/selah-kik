@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yahwe akiuga kĩrĩ Moce: Ũkũinji kwa Farao, ũmũũre nakĩo atĩrĩ: Yahwe, Erohimu wa Aibirani, akoiga: Ndera ⟨את⟩ andũ akwa, nathĩ magatumĩra nakwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ũkũinji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ũmũũre"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akoiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "wa Aibirani"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ndera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ akwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "magatumĩra nakwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:46.923221054Z",
+  "model": "glm-5.3"
+}

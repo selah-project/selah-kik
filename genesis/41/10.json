@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Farao nĩeenenete mũrico andũ ake makĩrĩa, akanatũna ĩndĩ ⟨את⟩ kũngĩtikwo nyũmba ya mwathi wa acocĩ — ⟨את⟩ ĩndĩ na ⟨את⟩ mwathi wa arĩa mathondekaga ngate.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "nĩeenenete mũrico"
+    },
+    {
+      "surface": "על",
+      "gloss": "makĩrĩa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akanatũna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ĩndĩ",
+      "marks": "ĩndĩ"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "kũngĩtikwo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa acocĩ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ĩndĩ",
+      "marks": "ĩndĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mwathi wa arĩa mathondekaga ngate"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wa arĩa mathondekaga ngate"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:26.769254533Z",
+  "model": "glm-5.3"
+}

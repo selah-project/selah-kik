@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 47,
+  "translation": "Na ⟨את⟩ andũ, nĩamũhethire ⟨את⟩ nginya mĩcyaro, kuuma mũthia wa mĩthia ya Micirayimu nginya mũthia wayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "nĩamũhethire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mĩcyaro"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "nginya mĩcyaro"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuuma mũthia"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wa mĩthia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "mũthia wayo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:57:31.420373979Z",
+  "model": "glm-5.3"
+}

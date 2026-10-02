@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 40,
+  "translation": "Mooyo kĩothe gĩtagĩrũo, na kĩrĩma kĩrĩa na kilima kĩothe gĩtuĩko thĩ; na kĩanda kĩnyolokĩte gĩtuĩke ũtheru, na thinga gĩtuĩke mũhũro.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kĩothe"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "mooyo"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "gĩtagĩrũo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na kĩothe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "na kilima"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "gĩtuĩko thĩ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na gĩtuĩke"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "kĩanda kĩnyolokĩte"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "na thinga"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "mũhũro"
+    }
+  ],
+  "timestamp": "2026-10-02T06:40:14.078918857Z",
+  "model": "glm-5.3"
+}

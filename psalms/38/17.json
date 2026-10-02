@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 38,
+  "translation": "Nĩ nĩndĩrĩrire ũguo: ningĩ arĩa mamenete magĩkenerera nĩũndũ wakwa; rĩrĩa kĩguru gĩakwa gĩkĩhũrũka, makĩingĩhania mage kũrĩ makwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩndĩrĩrire"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ningĩ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magĩkenerera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩũndũ wakwa"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "rĩrĩa...gĩkĩhũrũka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kĩguru gĩakwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kũrĩ makwa"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "makĩingĩhania mage"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:44.882330461Z",
+  "model": "glm-5.3"
+}

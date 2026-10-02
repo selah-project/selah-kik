@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ĩmanwo, na Moce akĩcũrania ⟨את⟩ thakame igũrũ wa gĩaturwa mwena wothe.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Ĩmanwo"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "akĩcũrania"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "gĩaturwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mwena wothe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:17.148167653Z",
+  "model": "glm-5.3"
+}

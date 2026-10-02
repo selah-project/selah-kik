@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Akĩcooka ⟨את⟩ hamwe nayo, akĩrĩra mugati nyũmba-inĩ yake, na akĩnyua maaĩ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akĩcooka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hamwe nayo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "akĩrĩra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mugati"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nyũmba-inĩ yake"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "akĩnyua"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maaĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:39.937895706Z",
+  "model": "glm-5.3"
+}

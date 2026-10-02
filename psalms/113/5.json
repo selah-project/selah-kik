@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 113,
+  "translation": "Nĩ ũũ ta Yahwe Erohimu witũ, ũrĩa nĩegũaga igũrũ gũcara?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ta Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "nĩegũaga igũrũ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gũcara"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:47.799937478Z",
+  "model": "glm-5.3"
+}

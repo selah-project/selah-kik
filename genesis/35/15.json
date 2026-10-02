@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na Yaakobu aatĩrire ⟨את⟩ rĩĩtwa rĩa kũndũ ũku Erohimu oigĩte ⟨את⟩ nake kuo: Beti-Ere.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "aatĩrire"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa rĩa kũndũ ũku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kũndũ ũku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nake",
+      "marks": "nake — Yaakobu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:35.958310886Z",
+  "model": "glm-5.3"
+}

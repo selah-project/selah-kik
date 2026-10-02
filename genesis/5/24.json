@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩendete Hanoki thĩinĩ wa ⟨את⟩ Erohimu, ndaahota kũonekana, nĩgetha Erohimu atmĩire we.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ndaahota kũonekana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgetha"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "atmĩire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "we (Hanoki)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:50.066793700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Ooi! Arĩa mahoti mahoti macuru, na arĩa maandĩka maandĩka njorua!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ooi"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "arĩa mahoti"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "mahoti"
+    },
+    {
+      "surface": "און",
+      "gloss": "macuru"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "na arĩa maandĩka"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "njorua"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "maandĩka"
+    }
+  ],
+  "timestamp": "2026-10-02T00:31:09.060964352Z",
+  "model": "glm-5.3"
+}

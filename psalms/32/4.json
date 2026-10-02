@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩgũkorwo mũthenya na ũgũci ĩgathĩ yaku nĩyakuheanĩte thĩinĩ wakwa; mũhũmũ wakwa wĩatĩĩte, wĩtuĩka ũkembĩ wa thaa ya kwarua. Cera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na ũgũci"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "yakuheanĩte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "thĩinĩ wakwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ĩgathĩ yaku"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "wĩatĩĩte"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "mũhũmũ wakwa"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "ũkembĩ wakwa"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "thaa ya kwarua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:01:11.597006701Z",
+  "model": "glm-5.3"
+}

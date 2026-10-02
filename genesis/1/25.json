@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Erohimu nĩathĩrire ⟨את⟩ nyamu cia thĩ hamwe na mũrĩ waya, na ⟨את⟩ ng'ombe hamwe na mũrĩ waya, na ⟨את⟩ ũgũrũki gwose wa adama hamwe na mũrĩ gwakĩo; na Erohimu anyona atĩ nĩ kĩega.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩathĩrire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyamu cia thĩ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cia thĩ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "hamwe na mũrĩ waya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ng'ombe"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "hamwe na mũrĩ waya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ũgũrũki gwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gwose"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ũgũrũki"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wa adama"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "hamwe na mũrĩ gwakĩo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "anyona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kĩega"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:40.060355447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na Yiceraeri othe maarĩkĩtwo na mĩtaratara ya mĩciĩ, na rũciũ nĩmaandĩkĩtwo kĩbuku-inĩ kĩa athamaki a Yiceraeri na a Yahuda; maheanĩtwo Babeli nĩ mahĩtia mao.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "maarĩkĩtwo na mĩtaratara ya mĩciĩ"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "na rũciũ"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "nĩmaandĩkĩtwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kĩbuku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "a athamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na a Yahuda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "maheanĩtwo"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "nĩ mahĩtia mao"
+    }
+  ],
+  "timestamp": "2026-10-02T05:27:02.836791786Z",
+  "model": "glm-5.3"
+}

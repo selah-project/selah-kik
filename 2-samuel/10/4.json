@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Hanuni agĩcoka atĩng'atĩte ⟨את⟩ arũa-ĩci a Dawidi, ambĩrĩirie kũgecera ⟨את⟩ itharaitũ cia ndũrũ ciacio, na kũgĩcinia ⟨את⟩ nguo ciacio thĩinĩ wa gĩcatĩro kĩa cio, nginya kũhĩa kuo, natũmĩirie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "atĩng'atĩte"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arũa-ĩci a Dawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "arũa-ĩci a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "ambĩrĩirie kũgecera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itharaitũ cia ndũrũ ciacio"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "itharaitũ cia"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ndũrũ ciacio"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "agĩcinia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo ciacio"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "nguo ciacio"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "gĩcatĩro-inĩ kĩa cio"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "kũhĩa kuo"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "natũmĩirie"
+    }
+  ],
+  "timestamp": "2026-10-01T23:33:34.660775313Z",
+  "model": "glm-5.3"
+}

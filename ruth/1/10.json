@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na ciamũrire: Atĩrĩ, hamwe nawe ⟨את⟩ nĩtũkũcooka kũrĩ andũ akwa.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ciamũrire"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hamwe nawe"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "nĩtũkũcooka"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "kũrĩ andũ akwa"
+    }
+  ],
+  "timestamp": "2026-10-02T04:31:22.322867354Z",
+  "model": "glm-5.3"
+}

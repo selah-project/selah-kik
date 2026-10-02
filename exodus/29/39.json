@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "⟨את⟩ ndaari ya mbere nĩũkaingĩra kĩambere-inĩ kwa mũthenya; na ⟨את⟩ ndaari ya kerĩ nĩũkaingĩra gatagatĩ ka mĩthenya ĩrĩ kwarahũkĩra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndaari ya mbere"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ndaari"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkaingĩra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩambere-inĩ kwa mũthenya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndaari ya kerĩ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ndaari"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya kerĩ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkaingĩra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mĩthenya ĩrĩ kwarahũkĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:08.954829311Z",
+  "model": "glm-5.3"
+}

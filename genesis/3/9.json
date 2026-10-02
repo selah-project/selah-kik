@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Yahwe Erohimu akĩheeta mũndũ, akĩmũũga atĩrĩ: Ũrĩ kũ?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩheeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atĩrĩ kũrĩ we"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Ũrĩ kũ?"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:17.470620363Z",
+  "model": "glm-5.3"
+}

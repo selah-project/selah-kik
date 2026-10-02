@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Oo, atĩ nyĩ nĩmwe ⟨andũ⟩, na amami nĩyakuu hamwe na nyĩ.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nyĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "hamwe na nyĩ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "nĩyakuu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "amami"
+    }
+  ],
+  "timestamp": "2026-10-02T07:03:39.428139025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Zabadi nĩorotire ⟨את⟩ Eferari, na Eferari nĩorotire ⟨את⟩ Obedi.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Na Zabadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eferari"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eferari"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "na Eferari"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩorotire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:05.997832151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Erohimu nĩwe mũciiri mũcedeki, na Ere nĩeera thĩinĩ wa mũthenya o wothe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mũciiri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na Ere"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "nĩeera"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa mũthenya o wothe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-02T02:47:45.745688497Z",
+  "model": "glm-5.3"
+}

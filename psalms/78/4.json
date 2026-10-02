@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nditwahĩkũhĩa maũndũ macio kuuma ciana ciao; kũrĩ mũthingi ũrĩa ũgũũka nĩtwagũcoora kũgooca kwa Yahwe, na hinya wake, na maũndũ make makĩtangĩka, marĩa ombĩte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndi…"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "twahĩkũhĩa"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "kuuma ciana ciao"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kũrĩ mũthingi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "urĩa ugũũka"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "nĩtwagũcoora"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "kũgooca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "na hinya wake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "na maũndũ make makĩtangĩka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "marĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ombĩte"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:31.628379947Z",
+  "model": "glm-5.3"
+}

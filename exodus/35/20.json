@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 35,
+  "translation": "Na mothe kĩama kĩa aana a Yiceraeri maatumire kuuma mbere ya Moce",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "maatumire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kĩama kĩa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-01T21:22:19.281876632Z",
+  "model": "glm-5.3"
+}

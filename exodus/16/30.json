@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Nĩ ũndũ ũcio andũ nĩmaikariire kũhurũka mũthenya wa mũgwanja.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "nĩmaikariire kũhurũka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "mũgwanja"
+    }
+  ],
+  "timestamp": "2026-10-02T06:11:13.983057053Z",
+  "model": "glm-5.3"
+}

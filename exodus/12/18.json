@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Mweri wa mbere, mũthenya wa ikũmi na inya wa mweri, kĩtheri, nĩmũria maciatũ, nginya mũthenya wa kerĩ na ikũmi na ithano wa mweri, kĩtheri.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "mweri wa mbere"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "na inya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kĩtheri"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nĩmũria"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "maciatũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wa kerĩ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ikũmi na ithano"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kĩtheri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:08:00.885776723Z",
+  "model": "glm-5.3"
+}

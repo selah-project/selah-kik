@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩagĩtie o ũguo; njarari cia njĩkĩ ihianĩtie nyũmba-inĩ ya Farao na nyũmba-inĩ ya ateithĩria ake, na thĩinĩ wa thĩ yothe ya Micirayimu; thĩ nĩĩgũtherĩka nĩũndũ wa njarari ĩyo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩagĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "o ũguo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nĩciakire"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "njarari cia njĩkĩ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ihianĩtie"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nyũmba-inĩ ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na nyũmba-inĩ ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ateithĩria ake"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na thĩinĩ wa yothe ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "nĩĩgũtherĩka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nĩũndũ wa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "njarari ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:16.915974514Z",
+  "model": "glm-5.3"
+}

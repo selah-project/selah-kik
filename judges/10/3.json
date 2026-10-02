@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Nĩmakĩrĩgũrũka thutha wake Yairi, mũ-Gireadi, akahĩtwo ⟨את⟩ Yiceraeri mĩaka mĩrongo ĩrĩ na igĩrĩ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nĩmakĩrĩgũrũka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wake"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yairi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "mũ-Gireadi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "akahĩtwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na igĩrĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-01T23:00:45.974087799Z",
+  "model": "glm-5.3"
+}

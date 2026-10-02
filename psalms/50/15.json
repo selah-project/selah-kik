@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Ũkahoya ithũĩ hĩndĩ ya thoroci; nĩngũkũteithia, na we nĩũgũcoora.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Ũkahoya ithũĩ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "hĩndĩ ya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "thoroci"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "nĩngũkũteithia"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "na we nĩũgũcoora"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:41.900543916Z",
+  "model": "glm-5.3"
+}

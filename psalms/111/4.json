@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 111,
+  "translation": "Anĩririe kĩrĩkanĩro kwa minĩrũ wiaku; Yahwe nĩ mũtha na mũhoro.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anĩririe"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "kwa minĩrũ wiaku"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mũtha"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "na mũhoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:43.866736456Z",
+  "model": "glm-5.3"
+}

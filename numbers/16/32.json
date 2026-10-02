@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na thĩ ijugurũkĩra kanua kayo, ĩmĩna ⟨את⟩ ao na ⟨את⟩ nyũmba ciao, na ⟨את⟩ andũ aothe arĩa maakoragwo na Korahi, hamwe na ⟨את⟩ kĩndũ kiao gitothe.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ijugurũkĩra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanua kayo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kanua kayo"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ĩmĩna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ao",
+      "marks": "ao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ciao"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "nyũmba ciao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ aothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "maakoragwo na Korahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩndũ kiao gitothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kitothe"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "kĩndũ kiao"
+    }
+  ],
+  "timestamp": "2026-10-02T06:19:35.779759666Z",
+  "model": "glm-5.3"
+}

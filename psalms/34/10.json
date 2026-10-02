@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Mũmenirie Yahwe ⟨את⟩, atheru ake; nĩgũkorwo ti kũringana kĩndũ harĩ arĩa mamenyĩtie.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "mũmenirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "atheru ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kĩndũ kĩa kũringana"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "harĩ arĩa mamenyĩtie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:37.719454763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Na nĩngĩcimbithia Tora yaku hĩndĩ ciothe, na tene na tene na tene.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "nĩngĩcimbithia"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yaku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na tene na tene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:44.105771805Z",
+  "model": "glm-5.3"
+}

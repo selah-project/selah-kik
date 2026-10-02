@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 128,
+  "translation": "Mũtumia waku nĩ ta mũmera wa mbembe ũrĩa ũciaragĩra gĩthingo-inĩ kĩa nyũmba yaku; ciana caku nĩ ta mĩmera ya maũndũ ma kwa Njahi, ĩrĩa ĩikaraga mũgwanja wa meciria mahinda ma kũría.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "nĩ ta mũmera wa mbembe"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ũciaragĩra"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "gĩthingo-inĩ kĩa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nyũmba yaku"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ciana caku"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "nĩ ta mĩmera ya"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "maũndũ ma kwa Njahi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ĩikaraga mũgwanja wa"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "meciria mahinda ma kũría"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:50.040169313Z",
+  "model": "glm-5.3"
+}

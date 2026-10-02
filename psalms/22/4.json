@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na ũno nĩŨrĩ Mũtheru, ũciamũkĩrĩra thĩinĩ wa itaũ rĩa Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na ũno"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ũrĩ Mũtheru"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ũciamũkĩrĩra"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "itaũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:56:33.583741710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Rũhiũ-inĩ mũgũa; mwena-inĩ wa Yiceraeri nĩngĩcira ⟨את⟩ inywe, na mũmenye atĩ nĩngĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "rũhiũ-inĩ"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "mũgũa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mwena-inĩ wa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nĩngĩcira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inywe",
+      "marks": "inywe"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "na mũmenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩngĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T01:45:17.559571648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Nĩ gũkorwo rora, macokanĩte hinya kũnyorerera ngoro yakwa; arĩa mena hinya makĩnyũmatia; ti ũhoreri wakwa, ti na ihũ yakwa, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩ gũkorwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "rora"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "macokanĩte hinya kũnyorerera"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ngoro yakwa"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "makĩnyũmatia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kũngĩra"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "arĩa mena hinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ũhoreri wakwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti na"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ihũ yakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:57.432358870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na Yehocua nĩakahĩtũkĩra ta ũrĩa Yahwe amũteerire: ⟨את⟩ mahi mao nĩagũĩrĩte nyĩmbo, na ⟨את⟩ ngari cia mao nĩacĩanĩirie na mũrito.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩakahĩtũkĩra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mawo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amũteerire"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahi mao"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "mahi mao"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "nĩagũĩrĩte nyĩmbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngari cia mao"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ngari cia mao"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "nĩacĩanĩirie"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũrito"
+    }
+  ],
+  "timestamp": "2026-10-01T22:45:56.372769691Z",
+  "model": "glm-5.3"
+}

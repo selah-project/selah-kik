@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "translation": "Andũ ako, Yahwe, nĩmagũcithia, na ũcio wako nĩmakang'ang'ania.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "andũ ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "nĩmagũcithia"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "na ũcio wako"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "nĩmakang'ang'ania"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:19.115077765Z",
+  "model": "glm-5.3"
+}

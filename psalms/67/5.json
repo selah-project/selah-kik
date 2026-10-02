@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 67,
+  "translation": "Ndũrĩrĩ ithũanage na ĩrĩrĩe, nĩgũkorwo nĩũciirĩte ⟨את⟩ andũ ciarĩ-inĩ cia cedeki, na ndũrĩrĩ cia thĩ nĩũtĩĩrĩirie. Cera.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ithũanage"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "na ĩrĩrĩe"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "nĩũciirĩte"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ciarĩ-inĩ cia cedeki"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "na ndũrĩrĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "cia thĩ"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "nĩũtĩĩrĩirie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:21.548695603Z",
+  "model": "glm-5.3"
+}

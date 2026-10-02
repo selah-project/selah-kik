@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 12:20",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Nace Cemueri akiuga na andũ atĩrĩ: Mũtigwetage; nĩmwĩka ⟨את⟩ ũrĩa wothe ũcuuko ũcio; o ũmwe tu mũtigatũũra kuuma thutha wa Yahwe, na mũtũmĩre ⟨את⟩ Yahwe ngoro yanyu yothe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mũti"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "gwetage"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nĩmwe"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "mwĩka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa wothe ũcuuko ũcio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ũrĩa ũcuuko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "אך",
+      "gloss": "o ũmwe tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũtiga"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "tũũra"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kuuma thutha wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mũtũmĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ngoro yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:15:15.574852917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Ĩme handũ hao ta Midiyani, ta Cicera, ta Yabini, harĩ mũrongoro wa Kicconi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ĩme handũ hao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hao"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "ta Midiyani"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "ta Cicera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "ta Yabini"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "harĩ mũrongoro wa"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kicconi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:18:41.945459264Z",
+  "model": "glm-5.3"
+}

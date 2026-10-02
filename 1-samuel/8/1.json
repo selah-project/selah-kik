@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na rĩrĩa Cemueri akanĩkĩra, akĩgera ⟨את⟩ aana ake arĩ athamaki kũrĩ Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akĩkorwo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akanĩkĩra"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akĩgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aana ake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kũrĩ Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T23:11:24.623378182Z",
+  "model": "glm-5.3"
+}

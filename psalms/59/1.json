@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Kũrĩ mũcũnjia wa njũĩta: Ndurũrangĩre — ciugo cia Dawidi, ndũmĩrĩri — rĩrĩa Caori atũmĩte, na makĩrora ⟨את⟩ nyũmba ihuũ kũmũũra.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũcũnjia wa njũĩta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ndurũrangĩre (kiugo kĩa kĩĩga kĩa nyimbo: 'Al')"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Ndurũrangĩre"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cia Dawidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ndũmĩrĩri"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "rĩrĩa ... atũmĩte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "na makĩrora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ihuũ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba ihuũ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kũmũũra"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:57.426009923Z",
+  "model": "glm-5.3"
+}

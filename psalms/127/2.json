@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 127,
+  "translation": "Mũhaka rĩ nyinyi, arĩa mahũthũkũka kĩrĩro na makĩgerera gũikara kuuma, arĩa merĩ irio cia mĩnyamaro; ũguo aheaga mwendani wake ũkomi.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "mũhaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "rĩ nyinyi"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "arĩa mahũthũkũka"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kĩrĩro"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kuuma thutha"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "gũikara"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "arĩa merĩ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irio"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "cia mĩnyamaro"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "aheaga"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "mwendani wake"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ũkomi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:39:21.110571922Z",
+  "model": "glm-5.3"
+}

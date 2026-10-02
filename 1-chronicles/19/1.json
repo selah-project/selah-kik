@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na ithũkĩra ũguo, Nahaci mwathi wa ciana cia Amoni akiua, na mũrũ wake ambĩrĩria gwathĩka handũ ha ithe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ithũkĩra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akiua"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahaci"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "cia Amoni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ambĩrĩria gwathĩka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "handũ ha ithe"
+    }
+  ],
+  "timestamp": "2026-10-02T05:32:27.900794073Z",
+  "model": "glm-5.3"
+}

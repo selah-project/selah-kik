@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Dawidi nĩariirie hamwe na aocari ake, nakwo akuikarĩtwo mũciĩ-inĩ wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nĩariirie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "aocari ake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akuikarĩtwo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mũciĩ-inĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:14.284614145Z",
+  "model": "glm-5.3"
+}

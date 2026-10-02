@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Akĩaka ⟨את⟩ Beti-Horoni ya igũrũ, na ⟨את⟩ Beti-Horoni ya thĩ — mataa ma kũgirĩra, magĩrĩ, mĩrango na mĩhingo ya kũgirĩra.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akĩaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horoni ya igũrũ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ya igũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Beti-Horoni ya thĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ya thĩ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mataa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ma kũgirĩra"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "magĩrĩ"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mĩrango"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "na mĩhingo ya kũgirĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T07:12:33.829916998Z",
+  "model": "glm-5.3"
+}

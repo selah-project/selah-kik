@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Moce agĩa ⟨את⟩ mũka wake na ⟨את⟩ ciana cake, akamagarĩrĩthia ngamĩha-inĩ, agcooka bũrũri-inĩ wa Micirayimu; Moce nao agĩa ⟨את⟩ mũtĩ wa Erohimu moko-inĩ make.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "agĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũka wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũka wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana cake"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "akamagarĩrĩthia"
+    },
+    {
+      "surface": "על",
+      "gloss": "-inĩ"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "ngamĩha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agcooka"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "agĩa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtĩ wa Erohimu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko-inĩ make"
+    }
+  ],
+  "timestamp": "2026-10-01T21:02:30.484399173Z",
+  "model": "glm-5.3"
+}

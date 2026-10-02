@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 81,
+  "translation": "Kwa mũcũrĩrĩri, ku Gitithi, kĩanjĩrĩa kĩa Acaphi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũcũrĩrĩri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gitithi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩanjĩrĩa kĩa Acaphi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:23.556855082Z",
+  "model": "glm-5.3"
+}

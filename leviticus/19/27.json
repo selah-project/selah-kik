@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Ndũgĩtarire hau ha mũtwe wanyu, na ndũonanie ⟨את⟩ hau ya ndaraca yaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ndũ"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "gĩtarire"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "hau"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "ha mũtwe wanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "onanie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hau ya ndaraca yaku"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "hau"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ya ndaraca yaku"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:12.126985774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Mwaka-inĩ Taratani agĩcocire Acododi, rĩrĩa Cargoni, mwathĩ wa Acuri, amũrĩkĩrire ⟨את⟩, akĩrwaana na Acododi, na akĩyĩkũra.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mwaka-inĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "agĩcocire"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Taratani"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Acododi"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "rĩrĩa...amũrĩkĩrire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Cargoni"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Cargoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathĩ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acuri"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "akĩrwaana"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "na Acododi"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "akĩyĩkũra"
+    }
+  ],
+  "timestamp": "2026-10-02T00:33:55.743108646Z",
+  "model": "glm-5.3"
+}

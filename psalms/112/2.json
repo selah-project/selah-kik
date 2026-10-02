@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 112,
+  "translation": "Mũgima nĩakũuga thĩ-inĩ ⟨את⟩ mboco ciake; mũcii wa andũ a ma nĩmakĩrathimwo.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "mũgima"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩakũuga"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mboco ciake"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mũcii"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "andũ a ma"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nĩmakĩrathimwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:30:56.870426264Z",
+  "model": "glm-5.3"
+}

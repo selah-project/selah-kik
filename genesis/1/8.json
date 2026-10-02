@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩgo Erohimu agĩcoita gĩtheremo kĩa igũrũ Igũrũ-mbũrũri-inĩ; nĩwaarĩ kwinja, nĩwaarĩ mũciĩ — mũthenya wa kerĩ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "agĩcoita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "gĩtheremo kĩa igũrũ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Igũrũ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩwaarĩ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kwinja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩwaarĩ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wa kerĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:29:37.243146420Z",
+  "model": "glm-5.3"
+}

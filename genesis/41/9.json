@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 41,
+  "translation": "Mwathi wa athini akũga na ⟨את⟩ Farao akooya: ⟨את⟩ mahĩtia makwa nĩngakwaria mũthenya ũyũ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akũga"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa athini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akooya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahĩtia makwa"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "mahĩtia makwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩndĩ"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "nĩngakwaria"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:52:26.768886649Z",
+  "model": "glm-5.3"
+}

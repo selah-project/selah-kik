@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩgũkorwo ũndũire wakwa wonjokire na mahenia, na mikũre yakwa na kũhiũha; hinya wakwa ũgĩrehetwo nĩ thema yagwa, na mĩrĩnga yagwa yonjokire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wonjokire"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "na mahenia"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ũndũire wakwa"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "na mikũre yakwa"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "na kũhiũha"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ũgĩrehetwo"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "nĩ thema yagwa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "na mĩrĩnga yagwa"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "yonjokire"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:21.829178702Z",
+  "model": "glm-5.3"
+}

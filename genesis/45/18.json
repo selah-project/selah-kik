@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 45,
+  "translation": "Na mũkore ⟨את⟩ itheanyu na ⟨את⟩ nyũmba cianyu ciumĩrĩirie, na mũciarire kwakwa; ndĩkahĩhe anyu ⟨את⟩ ũwega wa bũrũri wa Micirayimu, na mũriie ⟨the⟩ ⟨את⟩ marima ma ⟨the⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "mũkore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itheanyu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "itheanyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba cianyu ciumĩrĩirie"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "nyũmba cianyu ciumĩrĩirie"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mũciarire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndĩkahĩhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũwega"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ũwega"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa bũrũri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "na mũriie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marima"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "marima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:57:16.142891965Z",
+  "model": "glm-5.3"
+}

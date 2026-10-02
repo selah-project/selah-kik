@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Na Yahwe nĩarorire ⟨את⟩ Cara ta ũrĩa oigĩte, na Yahwe akĩmũciara Cara ta ũrĩa aarĩ yoigĩte.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nĩarorire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Cara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akĩmũciara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Cara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aarĩ yoigĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T20:39:53.631380590Z",
+  "model": "glm-5.3"
+}

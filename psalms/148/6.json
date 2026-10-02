@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Na akĩmũcokia kuo kwa ithũranĩ na kwa nthĩĩ yĩonthe, akĩheera ũthithiramanzu ndũngarũkagwo.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Na akĩmũcokia kuo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kwa ithũranĩ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwa nthĩĩ yĩonthe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ũthithiramanzu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akĩheera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ndũngarũkagwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:04.671349330Z",
+  "model": "glm-5.3"
+}

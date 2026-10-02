@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 138,
+  "translation": "Nĩgũkorwo Yahwe aarĩ igũrũ mũno, no ⟨ũonekithagia⟩ arĩa mahee; arĩa mohũthũ, kuma kũraya, aimenie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "רם",
+      "gloss": "aarĩ igũrũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "arĩa mahee"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "onekithagia"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "arĩa mohũthũ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kuma kũraya"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "aimenie"
+    }
+  ],
+  "timestamp": "2026-10-02T03:42:04.393391558Z",
+  "model": "glm-5.3"
+}

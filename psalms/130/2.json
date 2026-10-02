@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 130,
+  "translation": "Adonai, igũrũra muoyo wakwa; matwi maku makorwo ⟨matarĩ⟩ gehaũngĩ nĩ muoyo wa mihoyo yakwa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "igũrũra"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "muoyo wakwa"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "makorwo ⟨matarĩ⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "matwi maku"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "gehaũngĩ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "nĩ muoyo wa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mihoyo yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:43.869927558Z",
+  "model": "glm-5.3"
+}

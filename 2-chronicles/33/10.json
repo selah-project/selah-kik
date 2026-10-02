@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩrĩ Yahwe arokia Manashe na andũ ake, no maatigĩkĩra — matihĩrĩrĩtie matu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "arokia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manashe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "matihĩrĩrĩtie matu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:00:06.621364270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na Yaakobu agĩhotora Raheri, na agĩnyamba ⟨את⟩ mũgambo wake, na agĩrera.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "agĩhotora"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raheri"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "agĩnyamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũgambo wake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mũgambo wake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "agĩrera"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:49.177487197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Nĩamenyite mũcĩĩ ĩrĩa nĩnderi, arĩkahũranĩra, nĩngĩcoka ta thahĩ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nĩamenyite"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mũcĩĩ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ĩrĩa nĩnderi"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "arĩkahũranĩra"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "ta thahĩ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "nĩngĩcoka"
+    }
+  ],
+  "timestamp": "2026-10-02T04:15:32.407602245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Igũrũ nĩ kũrũa, na thĩ nĩ kũngĩĩrũ mũno, na ngoro ya athamaki ti ya kũcoea mũno.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "kũrũa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "kũngĩĩrũ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na ngoro"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti ya"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kũcoea"
+    }
+  ],
+  "timestamp": "2026-10-02T03:59:44.381758807Z",
+  "model": "glm-5.3"
+}

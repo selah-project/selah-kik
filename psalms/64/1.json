@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Kũrĩ mũtheenji, kĩmeeria kĩa Dawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kũrĩ mũtheenji"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩmeeria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:40.184013604Z",
+  "model": "glm-5.3"
+}

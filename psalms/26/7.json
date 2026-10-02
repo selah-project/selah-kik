@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Kwĩiguĩkania kwa mũgambo wa ciugo cia kũgooca, na kwarikia maũndũ manene mothe waku.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kwĩiguĩkania"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo wa"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ciugo cia kũgooca"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "na kwarikia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "maũndũ manene waku"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:46.099298845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 52,
+  "translation": "Akamworeta ⟨nake⟩ mahenia ma iiga, akĩmũikia kĩgiri gĩake ⟨את⟩ igũrũ rĩa cigiri cia athamaki arĩa maringĩ ⟨את⟩ hamwe nake Babironi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akamworeta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nake",
+      "marks": "Yehoiakini"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "mahenia ma iiga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩmũikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgiri gĩake"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kĩgiri gĩake"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "cigiri"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "cia athamaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babironi"
+    }
+  ],
+  "timestamp": "2026-10-02T01:40:26.155134146Z",
+  "model": "glm-5.3"
+}

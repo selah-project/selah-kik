@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na ⟨את⟩ kĩheo kĩa kũnyuachio nĩmagĩthomagĩra kũrĩ we nĩ mbacamwe yayo, na ⟨את⟩ mutwe wayo, nĩamakĩtherie igũrũ rĩa minjirwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "kĩheo kĩa kũnyuachio"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kĩheo kĩa kũnyuachio"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "nĩmagĩthomagĩra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "nĩ mbacamwe yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mutwe wayo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mutwe wayo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nĩamakĩtherie"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "minjirwa"
+    }
+  ],
+  "timestamp": "2026-10-01T21:33:54.076524516Z",
+  "model": "glm-5.3"
+}

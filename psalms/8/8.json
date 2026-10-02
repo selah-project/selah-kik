@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ng'ondu na ng'ombe, ciothe, na o ihinya cia gĩthaka.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Ng'ondu"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ihinya"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "cia gĩthaka"
+    }
+  ],
+  "timestamp": "2026-10-02T02:51:23.720957923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mũoya wa mũrũtagati wĩendaga ũndũ na ndaarĩ na kĩndũ; o na mũoya wa arĩa mahinga nĩgũkũnyuũrwo.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "wĩendaga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ndaarĩ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mũoya wake"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mũrũtagati"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mũoya"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "arĩa mahinga"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "nĩgũkũnyuũrwo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:52:26.000458501Z",
+  "model": "glm-5.3"
+}

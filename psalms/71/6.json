@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 71,
+  "translation": "Wĩrĩ-inĩ waku nĩndĩĩhokete kuuma nda-inĩ, kuuma nyondo cia maitũ nĩwe wandĩngoorire; mũrũmũrũ wanjũ nĩwaku hĩndĩ ciothe.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "wĩrĩ-inĩ waku"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "nĩndĩĩhokete"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuuma nda-inĩ"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "kuuma nyondo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "cia maitũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "wandĩngoorire"
+    },
+    {
+      "surface": "בך",
+      "gloss": "waku"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mũrũmũrũ wanjũ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:11.945729789Z",
+  "model": "glm-5.3"
+}

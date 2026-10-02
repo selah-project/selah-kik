@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 148,
+  "translation": "Anake, na ũngĩ airĩtu; athuri, hamwe na aciana a mĩaka mĩnini.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "anake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ũngĩ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "airĩtu"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "athuri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "aciana a mĩaka mĩnini"
+    }
+  ],
+  "timestamp": "2026-10-02T03:44:01.793533405Z",
+  "model": "glm-5.3"
+}

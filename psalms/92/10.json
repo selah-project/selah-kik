@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Nĩgũkorwo, thũ ciao, Yahwe; nĩgũkorwo thũ ciao ciagũa kũhĩa; arĩa mothe mathiaga wira wa ũru magatigananagwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "thũ ciao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "thũ ciao"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ciagũa kũhĩa"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "magatigananagwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa mothe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mathiaga wira wa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:23.289842808Z",
+  "model": "glm-5.3"
+}

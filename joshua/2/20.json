@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na o rĩrĩa ũgaataũra ⟨את⟩ ũhoro witũ ũyũ, nĩ ithũĩ tĩ na mahĩtia ya kĩwo kĩaku kĩrĩa ũtũtĩirie kũheana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na o rĩrĩa ndĩrĩ"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "ũgaataũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro witũ ũyũ"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ũhoro witũ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "nĩ ithũĩ tuĩ"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "tĩ na mahĩtia"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "kĩwo kĩaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ũtũtĩirie kũheana"
+    }
+  ],
+  "timestamp": "2026-10-01T22:41:14.555626915Z",
+  "model": "glm-5.3"
+}

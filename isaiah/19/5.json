@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na mai nĩmahonokire kuuma iria-inĩ, na mũrũ nĩgũkorerwo gũthera na gũkoma kũmaa.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "nĩmahonokire"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "kuuma iria-inĩ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "na mũrũ"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "nĩgũkorerwo gũthera"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "na gũkoma kũmaa"
+    }
+  ],
+  "timestamp": "2026-10-02T00:32:24.104309794Z",
+  "model": "glm-5.3"
+}

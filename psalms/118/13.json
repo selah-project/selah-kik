@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Kũnjoheria gũthiĩ na gũcooka nĩkũndĩreethire kũgwa, na Yahwe nĩandĩtie ũteithianĩ.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "kũnjoheria"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "nĩkũndĩreethire"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "kũgwa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "nĩandĩtie ũteithianĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:50.091368046Z",
+  "model": "glm-5.3"
+}

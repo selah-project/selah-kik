@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Mũrũ wa mũndũ, mũnjĩkirie ⟨את⟩ Yerucarayimu ⟨את⟩ maũndũ make ma kũigũanĩra.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mũrũ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "mũnjĩkirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucarayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maũndũ make ma kũigũanĩra"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "maũndũ make ma kũigũanĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T01:48:58.770669269Z",
+  "model": "glm-5.3"
+}

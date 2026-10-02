@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 2:5",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Adonai nĩatuĩte ta thũ: nĩarĩmie Yiceraeri, nĩarĩmie nyumba-nene ciothe ciake; nĩahunjukithie thingu ciake; na akĩongerera harĩ mũirũ wa Yuda gũkwa na gũthĩna.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "nĩatuĩte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "ta thũ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "nĩarĩmie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "nĩarĩmie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "nyumba-nene ciake"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "nĩahunjukithie"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "thingu ciake"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "na akĩongerera"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "harĩ mũirũ wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "gũkwa"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "na gũthĩna"
+    }
+  ],
+  "timestamp": "2026-10-02T04:36:17.110429460Z",
+  "model": "glm-5.3"
+}

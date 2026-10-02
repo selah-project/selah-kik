@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Na mũciĩ nĩwetĩkĩte thĩinĩ wa kũringithania nginya mwaka ikũmi na ĩmwe wa ũthamaki wa Cedekiahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "nĩwetĩkĩte"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "thĩinĩ wa kũringithania"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa ũthamaki wa"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cedekiahu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:25:28.315829417Z",
+  "model": "glm-5.3"
+}

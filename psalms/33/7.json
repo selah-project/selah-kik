@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Akĩkũngania ta rimwe mĩci ĩa bara; akĩcĩigĩra mathimũ irĩca-inĩ make.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "akĩkũngania"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ta rimwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mĩci ĩa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "bara"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akĩcĩigĩra"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "irĩca-inĩ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mathimũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:19.345576737Z",
+  "model": "glm-5.3"
+}

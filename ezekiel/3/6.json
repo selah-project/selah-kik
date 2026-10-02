@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 3:6",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Ti kũrĩ ndũrĩrĩ nyingĩ a mĩraya ya mathaga na mĩnyũrũ ya rurimi, arĩa ciugo ciao ndũkamenya kũigua; rĩrĩa nĩkĩngweta nĩngũkũrũtha harĩ io, io nĩciakũigua.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nyingĩ"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "mĩraya"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "mathaga"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "na mĩnyũrũ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ũkomenya kũigua"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ciugo ciao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa nĩkĩngweta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "harĩ io"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "nĩngũkũrũtha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "io"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nĩciakũigua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ũ"
+    }
+  ],
+  "timestamp": "2026-10-02T06:48:08.831556913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Mũthenya o wothe nĩngakũrathima, na nĩngahimbĩrĩra Rĩĩtwa rĩaku kuuma rĩrĩ o rĩrĩ, nginya kwenderera.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Mũthenya o"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "nĩngakũrathima"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "na nĩngahimbĩrĩra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuuma rĩrĩ o rĩrĩ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya kwenderera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:14.758780200Z",
+  "model": "glm-5.3"
+}

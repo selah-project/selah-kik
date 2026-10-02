@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 147,
+  "translation": "Mwathi witũ nĩ mũnene, na wa hinya mĩnene; thĩinĩ w'ũmenyi wake harĩ ũgĩ ti mũrũngaru o na ũmwe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "nĩ mũnene"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Mwathi witũ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na wa hinya mĩnene"
+    },
+    {
+      "surface": "כח",
+      "gloss": "wa hinya"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "thĩinĩ w'ũmenyi wake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mũrũngaru o na ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:59:00.447049336Z",
+  "model": "glm-5.3"
+}

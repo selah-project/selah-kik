@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Hinya wĩnga nĩngĩyenderera wewe; nĩgũkorwo Erohimu nĩwe kĩrĩma kĩa kũinĩria gĩakwa.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Hinya wĩnga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wewe"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "nĩngĩyenderera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kĩrĩma kĩa kũinĩria gĩakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:34.671038936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 96,
+  "translation": "Ĩthũthagĩrĩ Yahwe mũhianĩre-inĩ wa ũtheru; igwetetie mbere yake, thĩ yothe.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "ĩthũthagĩrĩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "mũhianĩre-inĩ wa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "igwetetie"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mbere yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:53.373948389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Nĩ kĩega kũgoocera Yahwe, na kũinĩra Rĩĩtwa rwaku, Elyoni.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Nĩ kĩega"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kũgoocera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "na kũinĩra"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Rĩĩtwa rwaku"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:41.229412445Z",
+  "model": "glm-5.3"
+}

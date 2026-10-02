@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 58,
+  "translation": "Mũcedeki nĩage, nĩona ũthagũ; magũrũ make nĩmaorota thĩinĩ wa thakame ya mũhoodi.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "nĩage"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ũthagũ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "nĩmaorota"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "thĩinĩ wa thakame"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ya mũhoodi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:19.479885063Z",
+  "model": "glm-5.3"
+}

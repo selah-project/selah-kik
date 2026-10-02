@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na Moce arathaũra mathĩna maĩ: thutha wa miaka ĩrĩkũgie ĩcirĩ, hĩndĩ ya ũtĩrĩkĩri wa mwaka wa kũhũrũkia, hĩndĩ ya igũrũ rĩa Cukothi —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "arathaũra mathĩna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mathĩna maĩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "thutha wa mũthia"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ĩcirĩ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miaka"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "hĩndĩ ya ũtĩrĩkĩri"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "kũhũrũkia"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "hĩndĩ ya igũrũ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Cukothi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:37:41.043535456Z",
+  "model": "glm-5.3"
+}

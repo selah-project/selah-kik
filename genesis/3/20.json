@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Mũndũ akĩhoota rĩĩtwa rĩa mũtumia wake Hawa, nĩgũkorwo nĩwe aarĩ nyina wa arĩa othe me mĩoyo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩhoota"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Mũndũ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "rĩa mũtumia wake"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa arĩa othe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "me mĩoyo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:30:31.145171199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na athiire kũhũrĩra ⟨את⟩ kĩgũa kĩmwe-kĩrũngĩrĩire, nĩcokaga na kũhiũha nginya mari mamaitĩkĩrĩire kuuma thĩ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Na athiire kũhũrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgũa kĩmwe-kĩrũngĩrĩire"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kĩgũa kĩmwe-kĩrũngĩrĩire"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nĩciatũũra"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "kũatũũra"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "na kũcooka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "mamaithĩkĩrĩire"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mari"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:02.604871978Z",
+  "model": "glm-5.3"
+}

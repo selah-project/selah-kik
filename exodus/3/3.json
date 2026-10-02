@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Moce akĩuga: Nĩngũtherera, ndũkwĩhĩa, nĩngĩone ⟨את⟩ kĩoneteranio kĩnene gĩkĩ, nĩkĩ mũcera ndũrĩrirũkĩte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "nĩngũtherera"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndũkwĩhĩa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "nĩngĩone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩoneteranio kĩnene gĩkĩ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "kĩoneteranio"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kĩnene"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "rĩrirũkĩte"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "mũcera"
+    }
+  ],
+  "timestamp": "2026-10-01T21:00:49.110757002Z",
+  "model": "glm-5.3"
+}

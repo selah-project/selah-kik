@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "translation": "Maũndũ mako makĩrĩ mengĩ kwao, Yahwe! Wothe uomire na ũgeni; thĩ nĩijũire na ithemba ciawe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "makĩrĩ mengĩ kwao"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "mengĩ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "maũndũ mako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "na ũgeni"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "uomire"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "nĩijũire"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ithemba ciawe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:04.203970183Z",
+  "model": "glm-5.3"
+}

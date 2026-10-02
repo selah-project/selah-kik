@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Yahwe arĩ mũcedeki thĩinĩ wa njĩra ciake ciothe, na mũrĩ-hecedi thĩinĩ wa icũranĩra ciake ciothe.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa ciothe"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "njĩra ciake"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "na mũrĩ-hecedi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa ciothe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "icũranĩra ciake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:49.697122261Z",
+  "model": "glm-5.3"
+}

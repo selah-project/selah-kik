@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Nĩgũkorwo arĩa amemũ matakua, na thũ cia Yahwe, ta mafuta ma mbũri, nĩmathĩnjĩka; nĩmathĩnjĩka na mwaki ũrĩa ũthiĩ igũrũ, nĩmathĩnjĩka o umithio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "arĩa amemũ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "matakua"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "na thũ cia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "ta mafuta ma"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mbũri"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nĩmathĩnjĩka"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "na mwaki ũrĩa ũthiĩ igũrũ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nĩmathĩnjĩka o umithio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:02:59.394451277Z",
+  "model": "glm-5.3"
+}

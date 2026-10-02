@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na arĩa makĩreha mũndũ mũwe minaha yake: indo cia siriva na indo cia thahabu, nguo, ciombo cia kũhĩa, minono, ndaigũa na ngururi — ũndũ wa mwaka, mwaka na mwaka.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "na arĩa"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "makĩreha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ mũwe"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minaha yake"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indo cia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siriva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "na indo cia"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "ciombo cia kũhĩa"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "minono"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ndaigũa"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "ngururi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũndũ wa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mwaka na mwaka"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:24.582390374Z",
+  "model": "glm-5.3"
+}

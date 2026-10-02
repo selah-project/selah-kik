@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Nĩgũkorwo maatiguĩte Erohimu, na maatii maeekĩte cĩtĩthe thĩinĩ wa mũcokagĩrĩ wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "maatiguĩte"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na maatii"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "maeekĩte cĩtĩthe"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "thĩinĩ wa mũcokagĩrĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:00.353497332Z",
+  "model": "glm-5.3"
+}

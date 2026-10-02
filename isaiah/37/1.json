@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 37,
+  "translation": "Na rĩrĩa mwathi Hizikiyahu aiguire ũyũ, akĩmamarikia ⟨את⟩ nguo cĩake, akĩcoka akĩng'ũtwo macunia, na akĩingĩra nyũmba-inĩ ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akĩiguĩra thutha wa ũyũ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "rĩrĩa aiguire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akĩmamarikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo cĩake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "nguo cĩake"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "akĩng'ũtwo"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "macunia"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akĩingĩra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:43:42.972026079Z",
+  "model": "glm-5.3"
+}

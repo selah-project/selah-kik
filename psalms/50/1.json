@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 50,
+  "translation": "Kĩĩngerethio kĩa Acaphi. Ere, Erohimu, Yahwe, noigĩte, na akayoita ⟨את⟩ thĩ, kuuma ithũro rĩa riũa gĩkũra riũa rĩinũkaga.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "kĩĩngerethio"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kĩa Acaphi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "noigĩte"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na akayoita"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kuuma ithũro rĩa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkũra"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "riũa rĩinũkaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:06:41.682327713Z",
+  "model": "glm-5.3"
+}

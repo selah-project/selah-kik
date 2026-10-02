@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Moce nao akĩamũrĩra ⟨את⟩ andũ mũthenya ũcio, aga-atĩ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akĩamũrĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aga-atĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:29.749891592Z",
+  "model": "glm-5.3"
+}

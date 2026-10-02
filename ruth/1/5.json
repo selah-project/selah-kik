@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Machoroni na Kiriyoni macio magĩkũa o hamwe; mũka ũcio akĩthingatwo nĩ ciana ciake eerĩ na nĩ mũthuuriwe.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "magĩkũa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "macio"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "o hamwe"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machoroni"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "Kiriyoni"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "akĩthingatwo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũka ũcio"
+    },
+    {
+      "surface": "משני",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "na nĩ mũthuuriwe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:32:40.048769692Z",
+  "model": "glm-5.3"
+}

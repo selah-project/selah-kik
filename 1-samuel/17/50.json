@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na Dawidi nĩamenetie Mũfilitini na ũturume na ibega; akĩmũgũa ⟨את⟩ Mũfilitini na akĩmũkoma; na kĩanda kĩarĩ thĩinĩ wa moko wa Dawidi kĩnginya kĩarĩ kĩo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nĩamenetie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mũfilitini"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "na ũturume"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "na ibega"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akĩmũgũa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mũfilitini"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mũfilitini"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "akĩmũkoma"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na kĩanda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kĩnginya kĩarĩ kĩo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "thĩinĩ wa moko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:41.118704314Z",
+  "model": "glm-5.3"
+}

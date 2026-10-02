@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "ũkagerethia ⟨את⟩ mũoko wake; ithenya rĩaku ndĩkĩigua minyinya.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ũkagerethia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũoko wake"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "mũoko wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "kũigua minyinya"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ithenya rĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T06:22:56.208864391Z",
+  "model": "glm-5.3"
+}

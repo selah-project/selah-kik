@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 60,
+  "translation": "Kwa mũnene wa kĩama kĩa njũmba ng'ĩgĩ, thutha wa Shucani-Educhi, ciugo cia thahabu cia Dawidi, gũcũrĩrania.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kwa mũnene wa kĩama kĩa njũmba ng'ĩgĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shucani"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Educhi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ciugo cia thahabu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cia Dawidi"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "gũcũrĩrania"
+    }
+  ],
+  "timestamp": "2026-10-02T03:11:45.812406066Z",
+  "model": "glm-5.3"
+}

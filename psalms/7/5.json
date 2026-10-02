@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Kana nĩndagarutie ũru mũndũ ũrĩa warĩ amahoro nakwa, kana nĩngĩ nĩndaamũhoothirie thũ yakwa ĩtarĩ nĩ ũndũ;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "nĩndagarutie"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ũrĩa warĩ amahoro nakwa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "kana nĩngĩ nĩndaamũhoothirie"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "thũ yakwa"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ĩtarĩ nĩ ũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:49:37.868772498Z",
+  "model": "glm-5.3"
+}

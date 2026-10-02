@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "translation": "Arĩme mege rĩu nyũmba ya Aharoni, atĩa thiini na thiini nĩkuo hecedi wake.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "mege"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "thiini na thiini"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:32:54.605256653Z",
+  "model": "glm-5.3"
+}

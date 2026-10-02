@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na harĩa harĩ ũmenyi wa kũchina jiwe gwĩkĩra matukũ, na kũchina mũtĩ, gwĩka macokia mothe.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "Na harĩa harĩ ũmenyi wa kũchina"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "jiwe"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "gwĩkĩra matukũ"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "na kũchina"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "macokia"
+    }
+  ],
+  "timestamp": "2026-10-01T21:20:49.979990473Z",
+  "model": "glm-5.3"
+}

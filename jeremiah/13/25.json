@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Ũyũ nĩ goro rwaku, ũthingu waku wa kũgerwo kuuma ⟨את⟩ iyo, Yahwe oigĩte, nĩ ũndũ ũceeketie Yahwe, na wĩĩhokete mbũca-inĩ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "goro rwaku"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ũthingu waku"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "wa kũgerwo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kuuma ⟨את⟩ iyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "waceeketie"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Yahwe",
+      "marks": "Yahwe ũceeketwo"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "na wĩĩhokete"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "mbũca-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:09:21.573463084Z",
+  "model": "glm-5.3"
+}

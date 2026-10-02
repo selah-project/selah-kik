@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Kũgĩta kwaku ti kwĩhokia kwaku, kĩrĩkĩro gĩaku, na ũtheru wa mĩtara yako?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "kũgĩta kwaku"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "kwĩhokia kwaku"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "kĩrĩkĩro gĩaku"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "wa mĩtara yako"
+    }
+  ],
+  "timestamp": "2026-10-02T04:04:12.641526214Z",
+  "model": "glm-5.3"
+}

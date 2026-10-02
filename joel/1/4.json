@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Kĩrĩa gĩatigĩtwo nĩ gazamu, arambe nĩkĩaria; na kĩrĩa arambe yatigĩte, enje nĩkĩaria; na kĩrĩa enje yatigĩte, haciri nĩkĩaria.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "kĩrĩa gĩatigĩtwo"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "nĩ gazamu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "arambe nĩkĩaria"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arambe"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na kĩrĩa ... yatigĩte"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arambe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "enje nĩkĩaria"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "enje"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "na kĩrĩa ... yatigĩte"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "enje"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "haciri nĩkĩaria"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "haciri"
+    }
+  ],
+  "timestamp": "2026-10-02T02:21:37.084628253Z",
+  "model": "glm-5.3"
+}

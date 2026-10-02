@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 44,
+  "translation": "Nguo, Erohimu nĩekũĩrĩra ⟨ũndũ⟩ ũyũ, nĩgũkorwo nĩwe ũmenya ithingu cia ngoro.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nguo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "nĩekũĩrĩra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũndũ ũyũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ũmenya"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ithingu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cia ngoro"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:11.052090609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "Nĩ ũndũ methĩtie ⟨את⟩ ũru maitho-inĩ makwa, na makĩhĩrĩhĩrĩa ⟨את⟩ njakwa kuuma mũthenya arĩa atheo maciire Micirayimu nginya mũthenya ũyũ.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "methĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũru"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maitho-inĩ makwa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "na makĩhĩrĩhĩrĩa"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "makĩhĩrĩhĩrĩa njakwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "njakwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "maciire"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "atheo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:22:05.625442995Z",
+  "model": "glm-5.3"
+}

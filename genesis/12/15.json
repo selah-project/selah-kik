@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Atumia a mbere a Farao maonire ⟨את⟩ ũcio, na manyarĩrire ⟨את⟩ kũrĩ Farao, na mũtumia ũcio nĩatwarwo nyũmba ya Farao.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "maonire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ũcio (mũtumia ũcio)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atumia a mbere"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "manyarĩrire"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ũcio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "nĩatwarwo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũtumia ũcio"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:04.860540381Z",
+  "model": "glm-5.3"
+}

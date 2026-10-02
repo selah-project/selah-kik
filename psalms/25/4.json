@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Njĩra ciaku, Yahwe, nĩmenerie; mĩcengero yaku nĩndũresĩre.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Njĩra ciaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "nĩmenerie"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "mĩcengero yaku"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nĩndũresĩre"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:51.756072070Z",
+  "model": "glm-5.3"
+}

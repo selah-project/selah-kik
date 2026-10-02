@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩgetha Uriya agĩikarire mũrigo-inĩ wa nyũmba ya mwathi hamwe na ⟨את⟩ aciĩ arĩa a mwathi wake othe; na ndaayũũrĩte kĩambĩrĩria-inĩ nyũmba yake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "agĩikarire"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrigo-inĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aciĩ arĩa a mwathi wake othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aciĩ arĩa a"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mwathi wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndaa-"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yũũrĩte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nyũmba yake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:34:40.549383943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Kahĩnda hatirĩ ng'ombe, kĩhaya kĩrĩ kĩhanya; no cigũa nyingĩ ĩgĩcoka nĩ ĩhinya-inĩ wa ng'ombe.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "hatirĩ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "kĩhaya"
+    },
+    {
+      "surface": "בר",
+      "gloss": "kĩhanya"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "no nyingĩ"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "cigũa"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ĩhinya-inĩ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wa ng'ombe"
+    }
+  ],
+  "timestamp": "2026-10-02T03:52:52.327486136Z",
+  "model": "glm-5.3"
+}

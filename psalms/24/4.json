@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "translation": "Ūrĩa mwoko-inĩ wake arĩ mũtheru, na ngoro yake nĩ yeru; ũrĩa ndaahingia mũhũmũ wake ũgima-inĩ, o na ndaarayĩra na ciana.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "arĩ mũtheru"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mwoko-inĩ"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "na ngoro yake nĩ yeru"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ahingia"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ũgima-inĩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũhũmũ wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o na nda"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "arayĩra"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "na ciana"
+    }
+  ],
+  "timestamp": "2026-10-02T02:57:33.269651211Z",
+  "model": "glm-5.3"
+}

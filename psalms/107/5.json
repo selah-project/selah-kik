@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 107,
+  "translation": "Arĩ amenete na arĩ enywe mathĩna, ngoro yao ĩrĩa ĩrĩ-inĩ ĩnĩnyiitĩra kũthererethia.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "arĩ amenete"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "arĩ enywe mathĩna"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ngoro yao"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ĩrĩa ĩrĩ-inĩ"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "ĩnĩnyiitĩra kũthererethia"
+    }
+  ],
+  "timestamp": "2026-10-02T03:29:27.819877906Z",
+  "model": "glm-5.3"
+}

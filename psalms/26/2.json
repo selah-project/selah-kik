@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Boceria, Yahwe, na ngererie; oca menyo makwa na ngoro yakwa.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Boceria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "na ngererie"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "oca"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "menyo makwa"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "na ngoro yakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T02:58:50.003607878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Nĩ Moce acabarire ⟨את⟩ macio kuuma mũgambo-inĩ wa Yahwe, ta ũrĩa aatagĩrĩirwo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "acabarire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio (aana a Revi)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mũgambo-inĩ wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aatagĩrĩirwo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:16.767840401Z",
+  "model": "glm-5.3"
+}

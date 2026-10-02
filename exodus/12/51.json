@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na hĩndĩ ĩyo ya mũthenya ũyũ mwene, Yahwe nĩatũũrire ⟨את⟩ arĩa a Yiceraeri kuuma thĩ ya Micirayimu, hĩndĩ ya mbũtũ ciarĩo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na hĩndĩ ĩyo"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "mũthenya mwene"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nĩatũũrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa a Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arĩa a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hĩndĩ ya"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "mbũtũ ciarĩo"
+    }
+  ],
+  "timestamp": "2026-10-02T06:12:27.840339408Z",
+  "model": "glm-5.3"
+}

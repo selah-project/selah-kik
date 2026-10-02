@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Yahwe Erohimu witũ athĩe na ithuĩ, ta ũrĩa aarĩ na aithĩranĩ aithu; atatũheania, na atatũtecie;",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "athĩe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "na ithuĩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "aithĩranĩ aithu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atatũ"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "tũheania"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na atatũ"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "tũtecie"
+    }
+  ],
+  "timestamp": "2026-10-01T23:54:10.373977028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Na maithe ma acohani nĩacake mũaki thĩinĩ wa macara mao, akanĩtherithia ⟨את⟩ Yehuda na ⟨את⟩ Yerucarayimu.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "Na maithe"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ma acohani"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "nĩacake mũaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "macara mao"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "akanĩtherithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Yerucarayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-02T06:04:53.758659390Z",
+  "model": "glm-5.3"
+}

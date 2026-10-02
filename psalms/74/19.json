@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "translation": "Ndũhe riugo rĩa ndoma rwaku mwĩrĩ wa nyamũ; ndoma cia arĩa amaharĩirie rwaku ndũiyare bisa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ndũhe"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "mwĩrĩ wa nyamũ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "riugo"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "ndoma rwaku"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ndoma cia"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "aría amaharĩirie rwaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ndũiyare"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "bisa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:16:19.886900722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "ezekiel 16:55",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na mwarũ wa nyina Codomu na cianja ciayo nĩcĩgĩcookerwo kũhĩtĩra kwao kuoya; na Comeroni na cianja ciayo nĩcĩgĩcookerwo kũhĩtĩra kwao kuoya; na wee na cianja ciao nĩmũgĩcookerwo kũhĩtĩra kwanu.",
+  "tokens": [
+    {
+      "surface": "ואחותיך",
+      "gloss": "na mwarũ wa nyina waku"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Codomu"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na cianja ciayo"
+    },
+    {
+      "surface": "תשבן",
+      "gloss": "nĩcĩgĩcookerwo"
+    },
+    {
+      "surface": "לקדמתן",
+      "gloss": "kũhĩtĩra kwao kuoya"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "na Comeroni"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "na cianja ciayo"
+    },
+    {
+      "surface": "תשבן",
+      "gloss": "nĩcĩgĩcookerwo"
+    },
+    {
+      "surface": "לקדמתן",
+      "gloss": "kũhĩtĩra kwao kuoya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na wee"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "na cianja ciao"
+    },
+    {
+      "surface": "תשבינה",
+      "gloss": "nĩmũgĩcookerwo"
+    },
+    {
+      "surface": "לקדמתכן",
+      "gloss": "kũhĩtĩra kwanu"
+    }
+  ],
+  "timestamp": "2026-10-02T01:50:40.200171904Z",
+  "model": "glm-5.3"
+}

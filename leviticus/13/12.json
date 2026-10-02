@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na rĩrĩa carathi ĩgeraga gũtambũra gĩcũjĩ-inĩ, na carathi ĩkĩringithia ⟨את⟩ gĩcũji kĩa negu o wothe, kuuma mutĩ wake nginya magũrũ make, o kuona kwothe kwa maitho ma koheni.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "ĩgeraga gũtambũra"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": ""
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "carathi"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "gĩcũjĩ-inĩ"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "ĩkĩringithia"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "carathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcũji kĩa negu o wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gĩcũji"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kĩa negu"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "kuuma mutĩ wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "o"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuona kwothe"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwa maitho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ma koheni"
+    }
+  ],
+  "timestamp": "2026-10-01T21:37:15.611982627Z",
+  "model": "glm-5.3"
+}

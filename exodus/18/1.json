@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Na Yithiro, mũthĩnjĩri wa ngai wa Muriyani, mũcometani wa Moce, aguithia ⟨את⟩ indo ciothe iria Erohimu igĩte Moce na Yiceraeri andũ ake, nĩ ũndũ Yahwe ahocĩte ⟨את⟩ Yiceraeri kuuma Micirayimu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "aguithia"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yithiro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mũthĩnjĩri wa ngai"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Muriyani"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mũcometani"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "igĩte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "na Yiceraeri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ahocĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:08.397291599Z",
+  "model": "glm-5.3"
+}

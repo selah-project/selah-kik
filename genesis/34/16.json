@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Nĩtũkuhe airitu aithũũ inywe, na ⟨את⟩ airitu anyu nĩtũkũruta ithũũ, nĩtũikarage hamwe na ⟨את⟩ inywe, nĩtwĩkũ mũingĩ mũmwe.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "nĩtũkuhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "airitu aithũũ"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "airitu aithũũ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "airitu anyu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "airitu anyu"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "nĩtũkũruta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithũũ"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "nĩtũikarage"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "hamwe na ⟨את⟩ inywe"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "nĩtwĩkũ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mũingĩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mũmwe"
+    }
+  ],
+  "timestamp": "2026-10-01T20:49:44.419540895Z",
+  "model": "glm-5.3"
+}

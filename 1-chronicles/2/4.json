@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Tamari, mũtumia wa mũrũ wake, amũciarire ⟨את⟩ Pereci na ⟨את⟩ Zerachi; ciana cia Yehuda ciarĩ ithano.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Na Tamari"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mũtumia wa mũrũ wake"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "amũciarire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amũciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pereci"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Zerachi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerachi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    }
+  ],
+  "timestamp": "2026-10-02T05:21:18.323612851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 27:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Matĩrĩro ma gĩtukuo kĩmwe kĩa geechi nĩ kibiti ikũmi na ithano; ng'ongoci cacio nĩ ithatu, na mĩtigiri yacio nĩ ithatu.",
+  "tokens": [
+    {
+      "surface": "וַחֲמֵ֨שׁ",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "עֶשְׂרֵ֥ה",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "אַמָּ֛ה",
+      "gloss": "kibiti"
+    },
+    {
+      "surface": "קְלָעִ֖ים",
+      "gloss": "matĩrĩro"
+    },
+    {
+      "surface": "לַכָּתֵ֑ף",
+      "gloss": "ma gĩtukuo kĩmwe kĩa geechi"
+    },
+    {
+      "surface": "עַמֻּדֵיהֶ֣ם",
+      "gloss": "ng'ongoci cacio"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֔ה",
+      "gloss": "ithatu"
+    },
+    {
+      "surface": "וְאַדְנֵיהֶ֖ם",
+      "gloss": "na mĩtigiri yacio"
+    },
+    {
+      "surface": "שְׁלֹשָֽׁה",
+      "gloss": "ithatu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:16:55.266451156Z",
+  "model": "glm-5.3"
+}

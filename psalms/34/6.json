@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Macoketie kũmũrora, magĩtherera, mĩtĩrĩ ciao matigakuhĩĩhwo.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "macoketie kũmũrora"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "magĩtherera"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "mĩtĩrĩ ciao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "matiga-"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "kuhĩĩha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:11.423893156Z",
+  "model": "glm-5.3"
+}

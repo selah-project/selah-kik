@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 64,
+  "translation": "Na marĩmũrithia — rũimi rwao rwĩrĩ kũrũhĩra igũrũ rĩao; arĩa othe arĩa mamwonete maratumaga magũrũ.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "marĩmũrithia"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "igũrũ rĩao"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rũimi rwao"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "maratumaga magũrũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "arĩa mamwonete"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-10-02T03:10:25.933953581Z",
+  "model": "glm-5.3"
+}

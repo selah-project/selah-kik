@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 32,
+  "translation": "Nĩagĩtĩa mage, na nĩagĩcooka angĩtwarĩra ⟨את⟩ kĩharo kĩu kĩa mũrimũ, na nĩagĩtwarĩra ⟨את⟩ o kĩndũ kĩrĩa arĩ nakĩo.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Nĩagĩtĩa mage"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "na nĩagĩcooka angĩtwarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩharo kĩu kĩa mũrimũ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kĩharo kĩu kĩa mũrimũ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "na nĩagĩtwarĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o kĩndũ kĩrĩa arĩ nakĩo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "arĩ nakĩo"
+    }
+  ],
+  "timestamp": "2026-10-01T20:46:06.064898352Z",
+  "model": "glm-5.3"
+}

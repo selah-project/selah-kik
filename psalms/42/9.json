@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 42,
+  "translation": "Hĩndĩ ya mũthenya Yahwe nĩakuagĩra hecedi yake, na hĩndĩ ya gũciburũka ciĩĩra ciake cirĩ nakwa, thayo yakwa ya kuuma Ere wa maũndũ ma kuura wakwa.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "hĩndĩ ya mũthenya"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "nĩakuagĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi yake"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "na hĩndĩ ya gũciburũka"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "ciĩĩra ciake"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "cirĩ nakwa"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thayo yakwa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ya kuuma Ere"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wa maũndũ ma kuura wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:03:32.218610992Z",
+  "model": "glm-5.3"
+}

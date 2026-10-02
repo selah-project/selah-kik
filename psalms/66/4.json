@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 66,
+  "translation": "Thĩ yothe nĩĩgũkũkunũkĩra, na ĩkaanagweco kũu wee; ĩgũciana ngweco ya rĩitwa rĩaku. Cera.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Thĩ"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "nĩĩgũkũkunũkĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũu wee"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "na ĩkaanagweco"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũu wee"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ĩgũciana ngweco"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩitwa rĩaku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:32.643133979Z",
+  "model": "glm-5.3"
+}

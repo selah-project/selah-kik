@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Mũthamaki wa Ceba agĩona ⟨את⟩ ũgeni wa Ceromo, na nyũmba ĩrĩa aomire.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "agĩona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Mũthamaki wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ceba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgeni wa Ceromo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ũgeni wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "na nyũmba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aomire"
+    }
+  ],
+  "timestamp": "2026-10-02T05:47:50.875458399Z",
+  "model": "glm-5.3"
+}

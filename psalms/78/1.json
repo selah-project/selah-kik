@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "translation": "Gweco kwa Acapu. Nĩmũririthie matũ, andũ akwa, Tora yakwa; ithuthurĩre matũ macenyu ciugo-inĩ cia kanũa gwakwa.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Gweco"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kwa Acapu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nĩmũririthie matũ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora yakwa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ithuthurĩre"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "matũ macenyu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ciugo-inĩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cia kanũa gwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:17:31.623457622Z",
+  "model": "glm-5.3"
+}

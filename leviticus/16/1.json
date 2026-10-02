@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na Yahwe aanyĩtĩra Moce thutha wa kũkuua kwa aana erĩ a Aharoni, rĩrĩa maambatĩrire mbere ya Yahwe na maakuua.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "aanyĩtĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kũkuua"
+    },
+    {
+      "surface": "שני",
+      "gloss": "erĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "rĩrĩa maambatĩrire"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "na maakuua"
+    }
+  ],
+  "timestamp": "2026-10-01T21:41:58.082411426Z",
+  "model": "glm-5.3"
+}

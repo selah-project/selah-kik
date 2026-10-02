@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "translation": "Nĩ kĩugo kĩa Yahwe igũrũ ciombĩtwo; na ruaki-inĩ wa kanua wake mbũtũ ciothe ciarĩo.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "nĩ kĩugo kĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ciombĩtwo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "na ruaki-inĩ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "wa kanua wake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "mbũtũ ciacio"
+    }
+  ],
+  "timestamp": "2026-10-02T03:00:19.344020829Z",
+  "model": "glm-5.3"
+}

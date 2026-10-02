@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Na igũrũ rĩrĩ hĩndĩ ya mũthenya wa gatandatũ, nao makahekara ⟨את⟩ ũrĩa mangĩcoora, nao nĩkuoya macokio makũĩrĩ kũigana macokio ao mũthenya ũrĩ na mũthenya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nĩkuoya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "hĩndĩ ya mũthenya"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wa gatandatũ"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "makahekara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa mangĩcoora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "mangĩcoora"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nĩkuoya"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "makũĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũigana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "macokio ao"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "macokio"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    }
+  ],
+  "timestamp": "2026-10-01T21:11:45.504020828Z",
+  "model": "glm-5.3"
+}

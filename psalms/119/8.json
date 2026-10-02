@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "⟨את⟩ mathaanĩro aku nĩngĩcũrania; ndũkanithinge kũgĩra mũno!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathaanĩro aku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mathaanĩro aku"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "nĩngĩcũrania"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "nithinge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kũgĩra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:14.340732152Z",
+  "model": "glm-5.3"
+}

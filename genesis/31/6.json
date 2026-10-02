@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Na inywe mũmena atĩ na hinya wakwa wothe nĩndahoyaga ⟨את⟩ ithe wanyu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Na inywe"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "mũmena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na... wothe"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "hinya wakwa wothe"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "nĩndahoyaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe wanyu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ithe wanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:47:29.573758272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 113,
+  "translation": "Yahwe nĩe mũnene kũhĩa ndũrĩrĩ ciothe, na ũgooci wake nĩ mũnene kũhĩa matu.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "nĩe mũnene kũhĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũhĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũhĩa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ũgooci wake"
+    }
+  ],
+  "timestamp": "2026-10-02T03:31:51.453256180Z",
+  "model": "glm-5.3"
+}

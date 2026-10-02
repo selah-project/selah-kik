@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Na ngoro yagwa yonthe ndĩkuukũrĩtie; ndũkanyitire ndĩthiĩ ũtheri wa mawatho maku.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "yonthe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "na ngoro yagwa"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ndĩkuukũrĩtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũkanĩ..."
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ndĩkethĩre ndĩraya"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "kuma mawatho maku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:51.101097109Z",
+  "model": "glm-5.3"
+}

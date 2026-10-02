@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Na ithe wa mũirĩtu akiuga kwa athiini: ⟨את⟩ mũciarĩre wakwa nĩmũheire mũndũ ũyũ kwĩgwa-airĩtu, nacio we nĩamũmenete.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mũirĩtu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "athiini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũciarĩre wakwa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mũciarĩre wakwa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nĩmũheire"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kwĩgwa-airĩtu"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "nĩamũmenete"
+    }
+  ],
+  "timestamp": "2026-10-02T06:22:27.365652951Z",
+  "model": "glm-5.3"
+}

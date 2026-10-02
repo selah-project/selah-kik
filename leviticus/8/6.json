@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Moce agĩkĩrĩra hakuhĩ ⟨את⟩ Aharoni na ⟨את⟩ ciana ciake, akĩhorea ⟨את⟩ arĩa maĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "agĩkĩrĩra hakuhĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciana ciake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ciana ciake"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "akĩhorea"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ arĩa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "maĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T21:34:38.770156980Z",
+  "model": "glm-5.3"
+}

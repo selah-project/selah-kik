@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 83,
+  "translation": "Nĩguo ũcokerere na kĩhurũ gĩaku, na mbũra ĩaku ĩmũnyĩthĩre thiiri.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Nĩguo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ũcokerere"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "na kĩhurũ gĩaku"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "na mbũra ĩaku"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ĩmũnyĩthĩre thiiri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:19:04.001705598Z",
+  "model": "glm-5.3"
+}

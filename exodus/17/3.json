@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Andũ nĩmakĩnyoita kuo kwa mayo; andũ nĩmakĩhoya harĩ Moce, makĩuga: Nĩkĩ gĩkĩ ũtukwirire kuuma Micirayimu, ũgĩtũhitha ⟨את⟩ inĩ na ⟨את⟩ aana aitũ na ⟨את⟩ nyamũ ciaitũ na kĩonjo?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "nĩmakĩnyoita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "kwa mayo"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "nĩmakĩhoya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ũtukwirire"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuuma Micirayimu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "gũkũhitha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aana aitũ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana aitũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyamũ ciaitũ"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "nyamũ ciaitũ"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "na kĩonjo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:12:21.127641456Z",
+  "model": "glm-5.3"
+}

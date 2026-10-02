@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Acathĩkwo Yahwe Erohimu, Erohimu wa Yiceraeri, ũrĩa o we oigĩte mĩrakĩ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Acathĩkwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mĩrakĩ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "o we"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:44.348387054Z",
+  "model": "glm-5.3"
+}

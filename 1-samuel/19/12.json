@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na Mikari amũrĩhĩrire ⟨את⟩ Dawidi thutha wa diranja; nĩendi, na aciũkĩte gĩkuũ, na ageithũkĩte.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "amũrĩhĩrire"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "diranja"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nĩendi"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "aciũkĩte gĩkuũ"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ageithũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-01T23:20:56.744063135Z",
+  "model": "glm-5.3"
+}

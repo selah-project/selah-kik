@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 122,
+  "translation": "Nĩ kuo maikarĩte magiti ma ciira, magiti ga nyũmba ya Dawidi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ kuo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "maikarĩte"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "magiti"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "magiti"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:37:55.904116107Z",
+  "model": "glm-5.3"
+}

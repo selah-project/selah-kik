@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "translation": "Ona, macio mahĩtũkĩra muromo-inĩ mao, macemanĩ mo maigĩrĩ matũ-inĩ mao — nĩ ũũ ũiguaga?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "mahĩtũkĩra"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "muromo-inĩ mao"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "macemanĩ"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "matũ-inĩ mao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ũiguaga"
+    }
+  ],
+  "timestamp": "2026-10-02T03:09:15.690701536Z",
+  "model": "glm-5.3"
+}

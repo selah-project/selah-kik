@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 7,
+  "translation": "Kĩeha nĩ kiega kũrĩ kũgetha, nĩ gũkorũo thoni ĩrĩa yĩhoretwe nĩyo ĩtherera ngoro.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nĩ kiega"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kĩeha"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kũrĩ kũgetha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkorũo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kwĩhoro"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "thoni"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ĩtherera"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    }
+  ],
+  "timestamp": "2026-10-02T04:42:07.017652336Z",
+  "model": "glm-5.3"
+}

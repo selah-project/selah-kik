@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Mĩthenya iothe ya kĩambĩrĩria ndĩnyaharĩra o andũ arĩa maatũũranĩka thĩ ciothe, ngĩcookia gũceba kuuma mucĩĩ wa Yahwe o arĩa mekaga maũndũ ma ũru.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "mĩthenya iothe ya kĩambĩrĩria"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ndĩnyaharĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "andũ arĩa maatũũranĩka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "gũceba"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kuuma mucĩĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "arĩa mekaga"
+    },
+    {
+      "surface": "און",
+      "gloss": "maũndũ ma ũru"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:16.131503160Z",
+  "model": "glm-5.3"
+}

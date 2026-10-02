@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "translation": "Nĩcry Adan ĩcianĩrire Esavu ⟨את⟩ Erifazi; na Bacimati nĩacianĩrire ⟨את⟩ Reueri.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ĩcianĩrire"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adan"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erifazi"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Erifazi"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "na Bacimati"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nĩacianĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reueri"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueri"
+    }
+  ],
+  "timestamp": "2026-10-01T20:48:36.496241247Z",
+  "model": "glm-5.3"
+}

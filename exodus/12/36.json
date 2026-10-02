@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Na Yahwe nĩahoire ⟨את⟩ kĩhooto kĩa andũ thĩinĩ wa maitho ma amicirayimu; nĩmathĩnji maarotha kĩheo, na nĩmakĩgũtuithĩra ⟨את⟩ Micirayimu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Na Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nĩahoire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhooto kĩa andũ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho ma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "amicirayimu"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "nĩmathĩnji maarotha kĩheo"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "nĩmakĩgũtuithĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micirayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:07:58.716400155Z",
+  "model": "glm-5.3"
+}

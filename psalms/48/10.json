@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 48,
+  "translation": "Twageretie, Erohimu, ⟨סלה⟩ hecedi waku, thĩinĩ wa nyumba nene yaku.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "twageretie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "nyumba nene yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:05:17.896724455Z",
+  "model": "glm-5.3"
+}

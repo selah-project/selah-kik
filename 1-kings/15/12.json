@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na akĩũranithia arĩa matherio kuuma thĩ-inĩ, na akĩnyũruta ⟨את⟩ igũrũ rĩa agĩgĩini iria ithe aarĩ agĩcie.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "akĩũranithia"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "arĩa matherio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "akĩnyũruta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igũrũ rĩa agĩgĩini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "agĩgĩini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "aarĩ agĩcie"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ithe"
+    }
+  ],
+  "timestamp": "2026-10-02T06:33:14.568081386Z",
+  "model": "glm-5.3"
+}

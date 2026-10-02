@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 8:8",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Nĩagĩcooka Yehuda-inĩ aheharĩka, arĩa acokĩte agĩkinya nginya ndũrũrĩ; nĩkuuga kuambĩrĩria kwa mabawa make kũgĩyũra bũrũri wonje wa thĩ yaku, Ee Imanueri.",
+  "tokens": [
+    {
+      "surface": "וחלף",
+      "gloss": "nĩagĩcooka"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda-inĩ"
+    },
+    {
+      "surface": "שטף",
+      "gloss": "aheharĩka"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "arĩa acokĩte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "ndũrũrĩ"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "agĩkinya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nĩkuuga"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kuambĩrĩria"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "mabawa make"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kũgĩyũra"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bũrũri"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "thĩ yaku"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "Ee Imanueri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Imanueri"
+    }
+  ],
+  "timestamp": "2026-10-02T00:28:18.266947365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na nĩkĩ ti ũkuunyanĩte ⟨את⟩ ikũra rĩa Yahwe, na ⟨את⟩ watho ũrĩa ndĩngakuteirĩ kũrĩ we?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ũkuunyanĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikũra rĩa Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ikũra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rĩa Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "watho ũrĩa ndĩngakuteirĩ kũrĩ we"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "watho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndĩngakuteirĩ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kũrĩ we"
+    }
+  ],
+  "timestamp": "2026-10-01T23:48:30.384085301Z",
+  "model": "glm-5.3"
+}

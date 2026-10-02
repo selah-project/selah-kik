@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Ndũgĩkorwo na ihiga na ihiga — rinene na rinini — thĩinĩ wa thaka yaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩkorũo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwaku"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "thaka-inĩ gwaku"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ihiga"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "na ihiga"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "rinene"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "na rinini"
+    }
+  ],
+  "timestamp": "2026-10-01T22:31:20.357665276Z",
+  "model": "glm-5.3"
+}

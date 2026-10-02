@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "translation": "Mũthiũri nĩndĩwatũkire harĩ andũ a ithe witũ, na mũcarũri harĩ ciana cia maiyũ wakwa.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "mũthiũri"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nĩndĩwatũkire"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "harĩ andũ a ithe witũ"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "na mũcarũri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "harĩ ciana cia"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "maiyũ wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:13:14.978304274Z",
+  "model": "glm-5.3"
+}

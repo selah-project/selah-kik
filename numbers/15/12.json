@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Ta mũrũmbe arĩa mwĩhota, nĩgwĩka ũguo ũrĩrĩ na ũmwe, ta mũrũmbe wao.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Ta mũrũmbe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mwĩhota"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũgwĩka"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ũrĩrĩ na ũmwe"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ta mũrũmbe wao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:00:41.151385286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Ndungata ciake nĩciamũteereire ⟨אתו⟩ cimba-inĩ nginya Yerucarayimu, na nĩciamũthĩinĩrĩirie ⟨אתו⟩ kĩgĩnda-inĩ kĩake hamwe na maciare make, mucĩ-inĩ wa Dawidi.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "nĩciamũteereire cimba-inĩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mũteereire"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ndungata ciake"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "nginya Yerucarayimu"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "nĩciamũthĩinĩrĩirie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mũthĩinĩrĩirie"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "kĩgĩnda-inĩ kĩake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "maciare make"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mucĩ-inĩ wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:13:36.143480062Z",
+  "model": "glm-5.3"
+}

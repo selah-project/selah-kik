@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na ⟨את⟩ mahuti ma nga cia mbũri nĩamũvaarire igũrũ rĩa ikũyũ ciake na rĩa gĩcunjĩ kĩa kĩoya gĩake kĩũru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mahuti ma nga cia mbũri"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "mahuti"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "cia nga"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "cia mbũri"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "nĩamũvaarire"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ikũyũ ciake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na igũrũ rĩa"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "gĩcunjĩ kĩa kĩũru kĩa"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "kĩoya gĩake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:43:58.924719702Z",
+  "model": "glm-5.3"
+}

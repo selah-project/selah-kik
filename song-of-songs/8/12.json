@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Ndaabari yakwa, yakwa mũmwe, ĩrĩ mbere yakwa; ngiri ĩyo nĩyaku, wee Ceromo, na magana merĩ nĩ ma arĩa managĩrĩria ⟨את⟩ igooti rĩayo.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "ndaabari yakwa"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "yakwa mũmwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ĩrĩ mbere yakwa"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ngiri ĩyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩyaku wee"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na magana merĩ"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "arĩa managĩrĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igooti rĩayo"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "igooti rĩayo"
+    }
+  ],
+  "timestamp": "2026-10-02T04:31:03.474509472Z",
+  "model": "glm-5.3"
+}

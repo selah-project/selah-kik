@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na mũciĩrire ⟨את⟩ mawatho makwa macioyo othe, na ⟨את⟩ ciira ciakwа othe, mũkahe ⟨את⟩ icio; nĩrĩ nĩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mũciĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho makwa macioyo othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mawatho makwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciira ciakwa othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira ciakwa"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mũkahe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ icio"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩrĩ nĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-01T21:42:39.007593874Z",
+  "model": "glm-5.3"
+}

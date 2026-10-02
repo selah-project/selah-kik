@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 11:20",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Na mũgĩe agĩikara harĩ kĩgĩrĩ kĩake mũndũ ũrĩa ũtũũraga andũ athĩni thĩinĩ wa ũthaka wa ũthamaki; na thĩinĩ wa mĩthenya ĩnana agĩcũũranwo, ti na wĩĩru, na ti na mbaara.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "mũgĩe agĩikara"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kĩgĩrĩ kĩake"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "mũndũ ũrĩa ũtũũraga"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "andũ athĩni"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ũthaka"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "wa ũthamaki"
+    },
+    {
+      "surface": "ובימים",
+      "gloss": "na thĩinĩ wa mĩthenya"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ĩnana"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "agĩcũũranwo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "באפים",
+      "gloss": "na wĩĩru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na mbaara"
+    }
+  ],
+  "timestamp": "2026-10-02T07:08:24.048092617Z",
+  "model": "glm-5.3"
+}

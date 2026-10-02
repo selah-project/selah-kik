@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nao magĩkura ⟨את⟩ itahũ rĩa kĩanda kĩa mwaki, magĩikara mbere ya Farao, nao Moce agĩrũmbũiya igũrũ; nĩkĩamba madĩga manini na mikongome manjũrũku harĩ andũ na harĩ nyamu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nao magĩkura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itahũ rĩa kĩanda kĩa mwaki"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "itahũ"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "rĩa kĩanda kĩa mwaki"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "magĩikara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "agĩrũmbũiya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nĩguo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkĩamba"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "madĩga"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "mikongome"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "manjũrũku"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "harĩ andũ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na harĩ nyamu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:04:05.321891518Z",
+  "model": "glm-5.3"
+}

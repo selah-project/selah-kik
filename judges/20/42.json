@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 20:42",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Magĩcokia methĩe na andũ a Yiceraeri, magĩthiĩ thara ya thayathi, na ũrwĩre wũkĩmũnyita; na arĩa makuma mĩtarĩ-inĩ makĩmenithia ⟨את⟩ acio thĩinĩ wao.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "magĩcokia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "methĩe na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "thara"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "thayathi"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "na ũrwĩre"
+    },
+    {
+      "surface": "הדביקתהו",
+      "gloss": "wũkĩmũnyita"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na arĩa"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "makuma mĩtarĩ-inĩ"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "makĩmenithia"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "acio (andũ a Binyamini)"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "thĩinĩ wao"
+    }
+  ],
+  "timestamp": "2026-10-01T23:08:13.210279439Z",
+  "model": "glm-5.3"
+}

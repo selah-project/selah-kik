@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 54,
+  "translation": "Ee Erohimu, nĩrĩa Rĩĩtwa rwaku nĩndũkĩngĩra; na ũhinya waku nĩwatuage ciira.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Rĩĩtwa rwaku"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "nĩndũkĩngĩra"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "ũhinya waku"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "nĩwatuage ciira"
+    }
+  ],
+  "timestamp": "2026-10-02T03:08:18.165522770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 29,
+  "translation": "Na ⟨את⟩ ndũrũme ĩmwe ũĩke; na Aharoni na ciana ciake makĩnyitire ⟨את⟩ moko mao igũrũ rĩa mutwe wa ndũrũme iyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "ndũrũme ĩmwe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ndũrũme"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ũĩke"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "na makĩnyitire"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ciana ciake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko mao"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wa ndũrũme iyo"
+    }
+  ],
+  "timestamp": "2026-10-01T21:19:13.939305703Z",
+  "model": "glm-5.3"
+}

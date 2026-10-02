@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Wa Yicakari, Netanere mwana wa Cuari.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "wa Yicakari"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanere"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Cuari"
+    }
+  ],
+  "timestamp": "2026-10-01T21:48:48.531032931Z",
+  "model": "glm-5.3"
+}

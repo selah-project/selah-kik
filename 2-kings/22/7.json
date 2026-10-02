@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "No ciothe, ndingĩheanwo ciĩtherero na mbeca irĩa cĩhootithanĩtie moko-inĩ mao, nĩgũkorwo na gwĩka gwĩtheru meethe maũndũ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "gĩkaĩtherero"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "irĩa cĩhootithanĩtie moko-inĩ mao"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mbeca"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "irĩa cĩheanĩte"
+    },
+    {
+      "surface": "על",
+      "gloss": "thagatĩ-inĩ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "na gwĩka gwĩtheru"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "maũndũ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:21:19.457241345Z",
+  "model": "glm-5.3"
+}

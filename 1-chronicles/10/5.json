@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na mũrutani wa ciĩke ciake arĩona atĩ Cauri aakuire, nĩagathũkĩra woithu thĩinĩ wa thimba, nĩakuira.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "arĩona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mũrutani"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "wa ciĩke ciake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "aakuire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "nĩagathũkĩra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "woithu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wo"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "thimba"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nĩakuira"
+    }
+  ],
+  "timestamp": "2026-10-02T05:26:59.462673065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na nĩngĩikururia ⟨את⟩ kĩrĩkanĩro kĩanjũ harĩ ⟨את⟩ inywi, na nyama ya thĩ yothe ndĩngĩthagĩrwo na ringi nĩ maaĩ ma mbura nene, na ndĩkaheyeka ringi mbura nene ya kũhoi ⟨את⟩ thĩ.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Na nĩngĩikururia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩanjũ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩanjũ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "harĩ ⟨את⟩ inywi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ... ndĩngĩ"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "thagĩrwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya thĩ yothe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ringi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nĩ maaĩ ma"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "mbura nene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndĩkaheyeka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ringi"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "mbura nene"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ya kũhoi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ thĩ"
+    }
+  ],
+  "timestamp": "2026-10-01T20:32:31.026992195Z",
+  "model": "glm-5.3"
+}

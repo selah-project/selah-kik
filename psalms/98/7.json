@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 98,
+  "translation": "Iria nĩigĩrũmma na yothe ĩrĩ nayo; ibũrũri hamwe na arĩa moikaraga kuo.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "nĩigĩrũmma"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Iria"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na yothe ĩrĩ nayo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ibũrũri"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "hamwe na arĩa moikaraga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuo"
+    }
+  ],
+  "timestamp": "2026-10-02T03:26:24.374929005Z",
+  "model": "glm-5.3"
+}

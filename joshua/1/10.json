@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nĩũndũ Yehocua anakahĩta ⟨את⟩ aathori a andũ, akĩmeera:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nĩamakahĩta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aathori a andũ"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "aathori"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a andũ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akĩmeera"
+    }
+  ],
+  "timestamp": "2026-10-01T22:39:46.023917575Z",
+  "model": "glm-5.3"
+}

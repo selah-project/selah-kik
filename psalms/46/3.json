@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 46,
+  "translation": "Nĩ ũndũ ũcio tũtikũgũcina o rĩrĩa thĩ ĩbaharĩka, na mirĩma ĩgũtũka ngoro-inĩ wa mari.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "tũtikũgũcina"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ĩbaharĩka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ĩgũtũka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mirĩma"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ngoro-inĩ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wa mari"
+    }
+  ],
+  "timestamp": "2026-10-02T06:56:15.549010247Z",
+  "model": "glm-5.3"
+}

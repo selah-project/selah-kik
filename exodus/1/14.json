@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na nĩmacenjerithie ⟨את⟩ mioyo yao na wĩra wa geetha, gĩcũnjĩ-inĩ kĩa matope na mĩanga, na wĩra wothe ũrĩa wa shamba-inĩ; wĩra wao wothe ũrĩa mahootĩtio nao nĩengĩtwo na hinya mũkuru.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "nĩmacenjerithie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mioyo yao"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "mioyo yao"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "na wĩra"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "wa geetha"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "matope-inĩ"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "na mĩanga-inĩ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na wothe"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shamba-inĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wĩra wao wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "wĩra wao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mahootĩtio"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "na hinya mũkuru"
+    }
+  ],
+  "timestamp": "2026-10-01T20:58:45.814493010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 68,
+  "translation": "Kũrĩ mũcenjerie, nginya Dawidi; kĩmũcoori, kĩĩga kĩa kũina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũcenjerie"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nginya Dawidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "kĩmũcoori"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩga kĩa kũina"
+    }
+  ],
+  "timestamp": "2026-10-02T03:12:10.237627762Z",
+  "model": "glm-5.3"
+}

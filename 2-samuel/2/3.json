@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na andũ ake arĩa maari hamwe nake, Dawidi ndĩakahĩte kũinukia — mũndũ o mweine hamwe na nyũmba yake — nao mekaarĩirie miciĩ-inĩ ya Ceberoni.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "na andũ ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ndĩakahĩte kũinukia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mweine"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "na nyũmba yake"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mekaarĩirie"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "miciĩ-inĩ ya"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ceberoni"
+    }
+  ],
+  "timestamp": "2026-10-01T23:30:12.648152724Z",
+  "model": "glm-5.3"
+}

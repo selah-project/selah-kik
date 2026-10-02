@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na Ebaha, mũka munini wa Karebu, amortire ⟨את⟩ Harani na ⟨את⟩ Moca na ⟨את⟩ Gazezi; na Harani ekiondora ⟨את⟩ Gazezi.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "na Ebaha"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "mũka munini"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "wa Karebu"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "amortire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Moca"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Moca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Gazezi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezi"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "na Harani"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ekiondora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazezi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezi"
+    }
+  ],
+  "timestamp": "2026-10-02T05:20:53.728646362Z",
+  "model": "glm-5.3"
+}

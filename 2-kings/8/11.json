@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Elisa agĩikara hinya, agĩcoka ⟨את⟩ ciĩtie thayũ yake, o nginya we agĩtungũka; na mũndũ wa Erohimu agĩcua.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "agĩikara hinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩtie thayũ yake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ciĩtie thayũ yake"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "agĩcoka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "o nginya"
+    },
+    {
+      "surface": "בש",
+      "gloss": "agĩtungũka"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "agĩcua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-02T00:13:19.203234288Z",
+  "model": "glm-5.3"
+}

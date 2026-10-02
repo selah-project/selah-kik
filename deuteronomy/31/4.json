@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 31,
+  "translation": "Nĩgũkora Yahwe kũo ta ũrĩa akorekire Cihoni na Ogi, a thamaki a Aemori, na thĩ yao — arĩa ahoorĩte ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "nĩgũkora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akorekire"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Cihoni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "na Ogi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "a thamaki a"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Aemori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "na thĩ yao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "ahoorĩte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa (Cihoni na Ogi)"
+    }
+  ],
+  "timestamp": "2026-10-01T22:38:09.604090731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "translation": "Ũhĩrige ciũranĩro ciaku kuuma mahĩtia makwa; ihooto cia makwa iothe ũcũũre.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Ũhĩrige"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ciũranĩro ciaku"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "kuuma mahĩtia makwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ihooto cia makwa"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ũcũũre"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:49.352153Z",
+  "model": "glm-5.3"
+}

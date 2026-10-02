@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ndũgu ũguo Yahwe oigĩte: Thiĩ thĩ nyũmba ya mũthamaki wa Yahuda, na ũroote kuo ũhoro ũyũ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ndũgu ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "thiĩ thĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yahuda"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "na ũroote"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro ũyũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũhoro ũyũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-02T01:14:02.302107014Z",
+  "model": "glm-5.3"
+}

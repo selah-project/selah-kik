@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "translation": "Gũkora athamaki ake thĩinĩ wa mũhĩmũ wake, na atheethũria ake akĩheo ciugo cia ũgima.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "gũkora"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "athamaki ake"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "thĩinĩ wa mũhĩmũ wake"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "na atheethũria ake"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "akĩheo ciugo cia ũgima"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:51.658020947Z",
+  "model": "glm-5.3"
+}

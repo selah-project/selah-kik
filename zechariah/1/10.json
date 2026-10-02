@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 1:10",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Nake mũndũ ũrĩa wĩitagĩrĩire gatagatĩ ka hadaci ookire na kuuga: Aci nĩo Yahwe arĩhĩrire agacenderera thĩ-inĩ.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ookire"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ũrĩa wĩitagĩrĩire"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "hadaci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na kuuga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nĩo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "arĩhĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "agacenderera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T02:39:44.548289609Z",
+  "model": "glm-5.3"
+}

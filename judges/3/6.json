@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Magwata ⟨את⟩ irũ ciao magĩcihikia, na ⟨את⟩ irũ ciao magĩhe ciana ciaao arũa, na magĩtungata ⟨את⟩ ngai ciao.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Magwata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irũ ciao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "irũ ciao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "magĩcihikia"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ũkaonĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "irũ ciao"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "irũ ciao"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "magĩhe"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ciana ciaao arũa"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "na magĩtungata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngai ciao"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ngai ciao"
+    }
+  ],
+  "timestamp": "2026-10-01T22:54:55.216041229Z",
+  "model": "glm-5.3"
+}

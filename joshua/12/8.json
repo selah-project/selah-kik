@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 12,
+  "translation": "Kĩrĩma-inĩ, na thĩ ya mũhũro, na gĩcingĩni, na mĩteremo ya milima, nyambũra-inĩ, na mwena wa ithũũro — a Hiti, a Emori, a Kenani, a Perezi, a Hivi, na a Yebuci.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "Kĩrĩma-inĩ"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "na thĩ ya mũhũro"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "na gĩcingĩni"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "na mĩteremo ya milima"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "nyambũra-inĩ"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "na mwena wa ithũũro"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a Hiti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "a Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "a Kenani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "a Perezi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "na a Yebuci"
+    }
+  ],
+  "timestamp": "2026-10-01T22:45:52.305687343Z",
+  "model": "glm-5.3"
+}

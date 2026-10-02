@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "translation": "Na ũciike ⟨את⟩ riithari ĩyo thĩ ha mũromo wa cahania, thĩ-inĩ wayo; na riithari ĩtũkĩte ĩkinya gatagatĩ-inĩ ka cahania.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "na ũciike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "riithari ĩyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "mũromo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cahania"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "thĩ-inĩ wayo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ĩtũkĩte"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "riithari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ĩkinya"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gatagatĩ-inĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "cahania"
+    }
+  ],
+  "timestamp": "2026-10-02T06:14:32.287555811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩaarĩ ⟨את⟩-ake athĩki bũci-inĩ wa Yahwe, mĩaka ĩtandatũ; na Ataraya akĩthamaka igũrũ rĩa ⟨thĩ⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩaarĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hamwe nayo",
+      "marks": "ake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bũci-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "athĩki"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ĩtandatũ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "na Ataraya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "akĩthamaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨thĩ⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T06:36:16.474956470Z",
+  "model": "glm-5.3"
+}

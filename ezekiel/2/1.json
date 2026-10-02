@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Nĩamũrire atĩrĩ: Mwana wa mũndũ, ũkaamĩrĩra thĩinĩ wa magũrũ maku, ndĩngĩtuĩka nĩngĩrora na we ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩamũrire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ũkaamĩrĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "magũrũ maku"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ndĩngĩrora"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "na we"
+    }
+  ],
+  "timestamp": "2026-10-02T01:40:40.903085799Z",
+  "model": "glm-5.3"
+}

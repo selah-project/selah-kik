@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 145,
+  "translation": "Yahwe nĩ mũrĩ na tha na mũrĩkani, nĩ mũrayarayu wa kĩeere, na hecedi yake nĩ mũnene.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "mũrĩ na tha"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "na mũrĩkani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mũrayarayu"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kĩeere"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "na mũnene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    }
+  ],
+  "timestamp": "2026-10-02T03:43:37.425081148Z",
+  "model": "glm-5.3"
+}

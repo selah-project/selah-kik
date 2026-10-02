@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Na mũkanyita ⟨את⟩ crate ya Yahwe, na mũkaikia yayo ĩhĩtũkĩte gari-inĩ, na ⟨את⟩ icunjĩ cia thahabu irĩa mũcoirie kũri I kĩheo kĩaũthingo, mũkahĩka mũndũũĩ-inĩ hĩngere wayo; na mũkahĩcereere yayo, na ⟨את⟩ ĩkahĩra.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "na mũkanyita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "crate ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "crate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "na mũkaikia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yayo",
+      "marks": "crate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩhĩtũkĩte"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gari-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icunjĩ cia thahabu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "icunjĩ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cia thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "mũcoirie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũri Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kĩheo kĩaũthingo"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "mũkahĩka"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "mũndũũĩ-inĩ"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "hĩngere wayo"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "na mũkahĩcereere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yayo",
+      "marks": "crate"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "ĩkahĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T23:12:58.234826099Z",
+  "model": "glm-5.3"
+}

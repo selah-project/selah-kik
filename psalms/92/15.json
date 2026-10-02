@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 92,
+  "translation": "Nĩgũkomerethia gũciara macianĩ ma manyaka maku, marĩ agĩmwe na arĩ amĩrĩru,",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "nĩgũkomerethia"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "gũciara"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "macianĩ ma manyaka maku"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "agĩmwe"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "arĩ amĩrĩru"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "marĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:23:22.653525712Z",
+  "model": "glm-5.3"
+}

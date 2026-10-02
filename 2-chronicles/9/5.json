@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nakĩugĩrĩra mwathi: maatũ ⟨nĩ⟩ ciugo iria ngĩigua bũrũri-inĩ wakwa, harĩ maũndũ mako na harĩ ũgĩ waku.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Nakĩugĩrĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "maatũ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngĩigua"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "bũrũri-inĩ wakwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maũndũ mako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na harĩ"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ũgĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-02T05:48:26.439032611Z",
+  "model": "glm-5.3"
+}

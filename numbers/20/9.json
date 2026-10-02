@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 20,
+  "translation": "Moce akĩata ⟨את⟩ ⟨the⟩ ũthīngũ kuuma mbere ya Yahwe, ũguo ⟨he⟩ akĩmũthĩra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthīngũ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ũthīngũ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "akĩmũthĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:03:45.889930204Z",
+  "model": "glm-5.3"
+}

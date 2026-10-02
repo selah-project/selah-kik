@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Akĩugĩra atĩrĩ: Kenani nĩathĩngĩtwo; mũthũni wa athũni ndakuũra agĩtua mũthũni wa acĩri ake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩugĩra"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "nĩathĩngĩtwo"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mũthũni"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "wa athũni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ndakuũra agĩtua"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "wa acĩri ake"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:38.595400891Z",
+  "model": "glm-5.3"
+}

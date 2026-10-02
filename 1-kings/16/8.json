@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Mwaka wa ikũmi na ithano na ũmwe wa Aca mũthamaki wa Yehuda, Elera mũrũ wa Bacaa nĩagĩthamakĩrirĩo igũrũ rĩa Yiceraeri Tircera, mĩaka ĩrĩ.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mwaka wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ikũmi na ithano"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ũmwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "wa Aca"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agĩthamakĩrirĩo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tircera"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "mĩaka ĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-02T00:00:00.278299554Z",
+  "model": "glm-5.3"
+}

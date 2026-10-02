@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "translation": "Nĩgetha andũ othe a thoondi makĩgema, na gĩtambo gĩkĩrĩhĩtie; na ⟨את⟩ Ataria nĩmakeũrire na cembe nyũmba-inĩ ya mwathi.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "makĩgema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thoondi"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na gĩtambo"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "gĩkĩrĩhĩtie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Ataria"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataria"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "makeũrire"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na cembe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mwathi"
+    }
+  ],
+  "timestamp": "2026-10-02T00:15:45.886677826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Nĩrimũ Yahwe kuuma thĩinĩ wa Yiceraeri mwĩrĩ na mũthia, mbembe na gĩcwa, mũthenya ũmwe.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "nĩrimũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kuuma thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "na mũthia"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "mbembe"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "na gĩcwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    }
+  ],
+  "timestamp": "2026-10-02T00:30:27.123680321Z",
+  "model": "glm-5.3"
+}

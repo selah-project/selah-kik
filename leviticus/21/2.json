@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 21,
+  "translation": "No o mũkũrũ-rũ? No o ũrĩa wa mbarĩ yake ihiũ nayo: nyina wake, na ithe wake, na mũrũ wake, na mũrerũ wake, na mũrũ wa nyina wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "No"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "ũrĩa wa mbarĩ yake"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ihiũ nayo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩwe"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "nyina wake"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "na ithe wake"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "na mũrũ wake"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "na mũrerũ wake"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "na mũrũ wa nyina wake"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:59.521096330Z",
+  "model": "glm-5.3"
+}

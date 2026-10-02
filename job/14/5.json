@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 14,
+  "translation": "Arĩ mĩthenya yake nĩyo meerĩrĩtwo, mũtararũ wa mĩeri yake nĩ ⟨את⟩-ĩrĩ kũrĩ Wewe, marũmĩrĩri makĩo nĩwo meecĩkĩtie, na ti agĩcohia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "meerĩrĩtwo"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mĩthenya yake"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mũtararũ"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "mĩeri yake"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kũrĩ Wewe",
+      "marks": "mĩthenya yake na mĩeri yake"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "marũmĩrĩri makĩo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nĩwo meecĩkĩtie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "agĩcohia"
+    }
+  ],
+  "timestamp": "2026-10-02T04:10:37.777940053Z",
+  "model": "glm-5.3"
+}

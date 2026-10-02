@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Aharoni na aana ake makĩinya rĩrĩa kĩambi kĩgĩthiĩka, nao makorothora ⟨את⟩ thigithi ya cĩengo, na mahingirie nayo ⟨את⟩ arũni kĩa ũira.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "makĩinya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana ake"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "rĩrĩa kĩgĩthiĩka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kĩambi"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "makorothora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thigithi"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "thigithi"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ya cĩengo"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "mahingirie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arũni"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arũni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kĩa ũira"
+    }
+  ],
+  "timestamp": "2026-10-01T21:51:38.370787300Z",
+  "model": "glm-5.3"
+}

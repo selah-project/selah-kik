@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Azarayahu mũrũ wa Natani nĩwe warĩ mwathi wa arĩa mamũrĩtwo; na Zabudi mũrũ wa Natani, mwathĩri-ngai, nĩwe mũraya wa mwathi.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Na Azarayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wa Natani"
+    },
+    {
+      "surface": "על",
+      "gloss": "mwathi wa"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "arĩa mamũrĩtwo"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "na Zabudi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wa Natani"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mwathĩri-ngai"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mũraya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mwathi"
+    }
+  ],
+  "timestamp": "2026-10-01T23:47:54.185770566Z",
+  "model": "glm-5.3"
+}

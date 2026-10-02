@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 57,
+  "translation": "Nĩgũkira heci wĩu mũnene ũgĩthĩ igũrũ; na ũthingu wakwa ũgĩthĩ ginya marĩgi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkira"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ũgĩthĩ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heci wĩu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ũgĩthĩ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ginya marĩgi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ũthingu wakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:07:55.672016715Z",
+  "model": "glm-5.3"
+}

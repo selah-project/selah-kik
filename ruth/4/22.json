@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "translation": "Na Obedi nĩmũciarire ⟨את⟩ Yicai, na Yicai nĩmũciarire ⟨את⟩ Dawidi.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Na Obedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩmũciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yicai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "na Yicai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩmũciarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-02T04:30:15.676724803Z",
+  "model": "glm-5.3"
+}

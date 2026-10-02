@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 128,
+  "translation": "Rũciaro rwa mikono yaku nĩrĩokũría; ũtarĩ na ũgeni, na maũndũ manjokeruo makũ.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "rũciaro"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "rwa mikono yaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩokũría"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kũría"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ũtarĩ na ũgeni"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "maũndũ manjokeruo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "makũ"
+    }
+  ],
+  "timestamp": "2026-10-02T03:36:50.038659714Z",
+  "model": "glm-5.3"
+}

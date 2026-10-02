@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na Yehocua nĩanyitanĩrire kĩambere kĩa mũthenya, nĩatarĩrire ⟨את⟩ andũ, nao nĩamatĩrĩire — we na athĩkenyi a Yiceraeri — mbere ya andũ kũrĩ Ayi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nĩanyitanĩrire kĩambere kĩa mũthenya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩambere kĩa mũthenya"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "nĩatarĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nĩamatĩrĩire"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "na athĩkenyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yiceraeri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:42:22.562648353Z",
+  "model": "glm-5.3"
+}

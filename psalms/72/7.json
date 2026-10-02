@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 72,
+  "translation": "Mũthingu agĩmeera mĩthenya-inĩ yake, na kĩingĩ kĩa thayũ, kinya mweri gũtigema gũkorwo.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "agĩmeera"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "mĩthenya-inĩ yake"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "na kĩingĩ kĩa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "gũtigema gũkorwo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mweri"
+    }
+  ],
+  "timestamp": "2026-10-02T03:14:33.030004606Z",
+  "model": "glm-5.3"
+}

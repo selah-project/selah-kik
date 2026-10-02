@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na nĩagĩkwarũrwo, no ⟨את⟩ neteeki atakwarũraga; na mũthĩjiri nĩagĩre ⟨את⟩ neteeki mĩthenya mũgwanja kwarĩĩra.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "nĩagĩkwarũrwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neteeki"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteeki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "atakwarũraga"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "nĩagĩre"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩjiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neteeki"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteeki"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kwarĩĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T06:17:16.708450775Z",
+  "model": "glm-5.3"
+}

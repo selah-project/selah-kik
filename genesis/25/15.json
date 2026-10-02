@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "Hadadi, na Temairi, Yeturi, Nafici, na Cedemairi.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "na Temairi"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Yeturi"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Nafici"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "na Cedemairi"
+    }
+  ],
+  "timestamp": "2026-10-01T20:42:09.610031549Z",
+  "model": "glm-5.3"
+}

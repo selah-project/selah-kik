@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Thoma wee mbũ igĩrĩ cia rĩĩthi; kũhiũhwo nĩkuo ũzĩumba ⟨את⟩ icio; nĩcĩkorĩkaga rĩaku wa kũhĩrĩria mũingĩ, na wa kũringa ⟨את⟩ mahema.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Thoma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wee"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "mbũ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rĩĩthi"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kũhiũhwo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ũzĩumba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mbũ igĩrĩ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "nĩcĩkorĩkaga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rĩaku"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "kũhĩrĩria"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũingĩ"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "kũringa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahema"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "mahema"
+    }
+  ],
+  "timestamp": "2026-10-01T21:56:41.565930658Z",
+  "model": "glm-5.3"
+}

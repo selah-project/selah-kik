@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 143,
+  "translation": "Nĩngĩratũra mikono yakwa kũrĩ wĩra; mũoyo wakwa nĩwĩra ta thĩ yerũ gwĩrĩ igũrũ wĩra. Cera.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "nĩngĩratũra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mikono yakwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ wĩra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "ta thĩ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "yerũ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cera"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:45.774802720Z",
+  "model": "glm-5.3"
+}

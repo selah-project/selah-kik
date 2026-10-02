@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Nĩ Abaramu agĩcooka akiuga: Tene nĩwe ũtikũheire ciana, na rĩrĩ, arĩa kaihare nyũmba yaku nĩwe ũngĩrĩaithĩra ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nĩ Abaramu agĩcooka akiuga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abaramu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tene"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ũtikũheire"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũndũ wa nyũmba"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nyũmba yaku"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "nĩngĩrĩaithĩra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Abaramu"
+    }
+  ],
+  "timestamp": "2026-10-01T20:35:56.063080419Z",
+  "model": "glm-5.3"
+}

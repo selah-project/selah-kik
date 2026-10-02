@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 137,
+  "translation": "Rurimi rwakwa nĩrwarũamĩre thiini wa kanua gwakwa, njĩrĩre ndakorokhe wewe, njĩrĩre ndĩngĩetere ⟨את⟩ Yerucarayimu igũrũ rũa gũkenia kwakwa kwa mũnene.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "nĩrwarũamĩre"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "rurimi rwakwa"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "thiini wa kanua gwakwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "njĩrĩre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ndakorokhe wewe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "njĩrĩre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndĩngĩetere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucarayimu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rũa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mwena-inĩ wa mbere"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "gũkenia kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-02T03:41:25.914328003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 19,
+  "translation": "Na rĩrĩa mũciarĩrĩri agĩikarĩra hamwe na ⟨את⟩ inywe thĩinĩ wa thĩ yanyu, ndĩmũhonne ⟨את⟩ mũciarĩrĩri.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "agĩikarĩra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "hamwe na ⟨את⟩"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mũciarĩrĩri"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "thĩinĩ wa thĩ yanyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "mũhonne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũciarĩrĩri"
+    }
+  ],
+  "timestamp": "2026-10-01T21:43:07.048777354Z",
+  "model": "glm-5.3"
+}

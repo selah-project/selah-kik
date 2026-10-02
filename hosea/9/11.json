@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Eferayimu, kĩguni kiao kĩarũũra ta ndege — kuuma gũciarwo, na kuuma kĩnda, na kuuma kũigwanĩra.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Eferayimu"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "ta ndege"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "kĩarũũra"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kĩguni kiao"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "kuuma gũciarwo"
+    },
+    {
+      "surface": "וומבטן",
+      "gloss": "na kuuma kĩnda"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "na kuuma kũigwanĩra"
+    }
+  ],
+  "timestamp": "2026-10-02T02:19:48.361241507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na ũmenye na ngoro yaku atĩa o ũrĩa mũndũ akangĩra ⟨את⟩ mũrũ wake, ũguo Yahwe Erohimu waku akũngĩra.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "na ũmenye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "akangĩra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrũ wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "akũngĩra"
+    }
+  ],
+  "timestamp": "2026-10-01T22:21:06.266167485Z",
+  "model": "glm-5.3"
+}

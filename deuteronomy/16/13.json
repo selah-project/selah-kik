@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 16,
+  "translation": "Kĩgongona kĩa Cukoti nĩgũkora mĩthenya ĩrĩkũ, rĩrĩa ũkũinĩria kuuma kĩambani kĩaku kĩa kũinĩria na kĩambani kĩaku kĩa kũinĩria maciani.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "kĩgongona"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "kĩa Cukoti"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩgũkora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rĩrĩa-ĩkwĩgĩrĩra-ĩgwĩtĩkĩra"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ĩrĩkũ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "rĩrĩa ũkũinĩria"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "kuuma kĩambani kĩaku kĩa kũinĩria"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "na kĩambani kĩaku kĩa kũinĩria maciani"
+    }
+  ],
+  "timestamp": "2026-10-01T22:26:18.705166839Z",
+  "model": "glm-5.3"
+}

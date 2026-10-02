@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Ikarii, mũcoke; nĩ gĩtirĩ kĩu gĩa kũhũrũka kwanyu; nĩ ũndũ wa kũnyitwo na kĩeha, nĩgĩkuhoora na kũhoora kwa nene.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "ikarii"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mũcoke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gĩtirĩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "kĩa kũhũrũka"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "kũnyitwo na kĩeha"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "nĩgĩkuhoora"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "na kũhoora"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "kwa nene"
+    }
+  ],
+  "timestamp": "2026-10-02T02:30:59.324585761Z",
+  "model": "glm-5.3"
+}

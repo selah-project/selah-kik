@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Ka thĩ ndĩkũrĩe ⟨את⟩ ninywe rĩrĩa mũthahukithia ⟨את⟩ yayo, ta ũrĩa yaarĩire ⟨את⟩ mũthingu ũrĩa warĩ mbere yanyu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ka... ndĩ"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninywe",
+      "marks": "ninywe"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "rĩrĩa mũthahukithia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yayo",
+      "marks": "yayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "yaarĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingu ũrĩa warĩ mbere yanyu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mbere yanyu"
+    }
+  ],
+  "timestamp": "2026-10-01T21:40:51.837396645Z",
+  "model": "glm-5.3"
+}

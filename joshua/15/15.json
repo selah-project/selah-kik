@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 15,
+  "translation": "Na akĩhĩtũkĩra kuuma kuo kũrĩ arĩa matuiĩ kuo Debiri; na rĩĩtwa rĩa Debiri hau mbeere nĩrĩo Kireyat-Ceferi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akĩhĩtũkĩra"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuuma kuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ arĩa matuiĩ kuo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa matuiĩ kuo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debiri"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rĩa Debiri"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "hau mbeere"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kireyat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Ceferi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:48:25.629141369Z",
+  "model": "glm-5.3"
+}

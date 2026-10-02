@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 25,
+  "translation": "⟨את⟩ Farao mũthamaki wa Micirayimu, na ⟨את⟩ arĩa amũteithagia, na ⟨את⟩ atongoria ake, na ⟨את⟩ andũ ake othe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa amũteithagia"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "arĩa amũteithagia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "atongoria ake"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "atongoria ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ ake othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "andũ ake"
+    }
+  ],
+  "timestamp": "2026-10-02T01:18:24.380733828Z",
+  "model": "glm-5.3"
+}

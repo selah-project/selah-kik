@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Mũkarinda ⟨את⟩ ũrindi wa ũtheru na ⟨את⟩ ũrindi wa mũthambuto, nĩgeetha kĩgũ kĩngĩ gũtikorũo harĩ ciana cia Yiceraeri.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mũkarinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũrindi wa ũtheru"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ũrindi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa ũtheru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ũrindi wa mũthambuto"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ũrindi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa mũthambuto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na gũti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gũtikorũo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kĩngĩ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kĩgũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-01T22:03:12.361547349Z",
+  "model": "glm-5.3"
+}

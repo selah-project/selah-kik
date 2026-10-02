@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Mwaka-inĩ wa gatatũ wa kũthamaka kwake, aanamũrire kĩama kĩa kũnywa kũla athamaki ake na atumia ake, hinya wa Paraci na Madai, na a-Paratemi, na athamaki a mabũrũri, mbere yake.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka-inĩ wa"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "gatatũ"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "wa kũthamaka kwake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aanamũrire"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "kĩama kĩa kũnywa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũla"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "athamaki ake"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "na atumia ake"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "wa Paraci"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "na Madai"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "a-Paratemi"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na athamaki a"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "mabũrũri"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mbere yake"
+    }
+  ],
+  "timestamp": "2026-10-02T04:47:06.469942636Z",
+  "model": "glm-5.3"
+}

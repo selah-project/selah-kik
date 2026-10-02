@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 101,
+  "translation": "Mũcoori wa mũrĩriarĩa wake mathukũini, ⟨את⟩ ndĩnyaharĩra; ũrĩa arĩ na maitho ma mwanya na moyo mũnene, ⟨את⟩ ndĩngĩthutha.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "mũcoori"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mathukũini"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa mũrĩriarĩa wake"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "mũcoori wa mũrĩriarĩa wake"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ndĩnyaharĩra"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "mwanya"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "wa maitho"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wa moyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ũrĩa arĩ na maitho ma mwanya na moyo mũnene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "thutha"
+    }
+  ],
+  "timestamp": "2026-10-02T03:27:16.125706804Z",
+  "model": "glm-5.3"
+}

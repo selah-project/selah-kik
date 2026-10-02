@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "translation": "Na ciana cia Yehuda ciyũrire mbarĩ ciaxo: kwa Cehera, mbarĩ ya Ceherani; kwa Pereci, mbarĩ ya Pereci; kwa Cerahi, mbarĩ ya Cerahi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ciyũrire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mbarĩ ciaxo"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "kwa Cehera"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbarĩ ya"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Ceherani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "kwa Pereci"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbarĩ ya"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Pereci"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "kwa Cerahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mbarĩ ya"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Cerahi"
+    }
+  ],
+  "timestamp": "2026-10-01T22:07:12.951719264Z",
+  "model": "glm-5.3"
+}

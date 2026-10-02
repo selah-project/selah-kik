@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 22,
+  "translation": "Ndũkahande mũrũa wakwa na mbemũ ciothe hamwe na mĩhianĩre ya kwĩhana, kana mbemũ ĩrĩa wahandĩte na mĩmera ya mũrũa maciomagwo o hamwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "kahande"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "mũrũa wakwa"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "mĩhianĩre ĩrĩ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "magwo"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "mĩmera yothe"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "mbemũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "wahandĩte"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "na mĩmera"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "ya mũrũa"
+    }
+  ],
+  "timestamp": "2026-10-01T22:28:16.070712073Z",
+  "model": "glm-5.3"
+}

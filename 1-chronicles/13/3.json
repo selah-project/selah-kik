@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Na tũngĩcooka tũhĩtũkĩre ⟨את⟩ cajira ya Erohimu witũ kũu ithũĩ, nĩ tũtire kũmũiyũra mithĩ-inĩ ya Caori.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "tũhĩtũkĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cajira ya Erohimu witũ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "cajira"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "titũ"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kũmũiyũra"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mithĩ-inĩ ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caori"
+    }
+  ],
+  "timestamp": "2026-10-02T05:30:28.821140344Z",
+  "model": "glm-5.3"
+}

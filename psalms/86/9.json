@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 86,
+  "translation": "Ndũrĩrĩ ciothe ũrĩa waoke, nĩmakũũka makĩinama mbere yaku, Adonai, na makũguna rĩĩtwa rĩaku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waoke"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "nĩmakũũka"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "makĩinama"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "makũguna"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "rĩĩtwa rĩaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:20:23.874147463Z",
+  "model": "glm-5.3"
+}

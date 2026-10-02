@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "translation": "Nĩngĩrĩkĩte rĩĩtwa rwaku, Yahwe, hĩndĩ ya ũgĩkũrũ, na nĩngĩĩrũmagĩra Tora yaku.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "nĩngĩrĩkĩte"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "hĩndĩ ya ũgĩkũrũ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "rĩĩtwa rwaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "na nĩngĩĩrũmagĩra"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora yaku"
+    }
+  ],
+  "timestamp": "2026-10-02T03:33:27.135351636Z",
+  "model": "glm-5.3"
+}

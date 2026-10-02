@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "translation": "Mabara narĩo make, nĩgũcooka macokĩra arĩa menete; na ⟨את⟩ arĩa ma cedeki nĩgũkũhirwo na wega.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "arĩa menete"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "nĩgũcooka macokĩra"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa ma cedeki"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa ma cedeki"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nĩgũkũhirwo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    }
+  ],
+  "timestamp": "2026-10-02T03:50:43.434160993Z",
+  "model": "glm-5.3"
+}

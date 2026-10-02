@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 5,
+  "translation": "Nĩgoũrahĩte ⟨את⟩ thĩ ya Acuru ithĩa-inĩ, na ⟨את⟩ thĩ ya Nimurodi mĩrango yakĩo yĩonthe; na njĩhootithia kuuma Acuru rĩrĩa ekĩya thĩ-inĩ yĩthuayo, na rĩrĩa endamũka mũthenyarũ-inĩ wĩthuayo.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "nĩgoũrahĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ya Acuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acuru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ithĩa-inĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "thĩ ya Nimurodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimurodi"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "mĩrango yakĩo yĩonthe"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "na njĩhootithia"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "kuuma Acuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ekĩya"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "thĩ-inĩ yĩthuayo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "endamũka"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "mũthenyarũ-inĩ wĩthuayo"
+    }
+  ],
+  "timestamp": "2026-10-02T02:32:54.648050183Z",
+  "model": "glm-5.3"
+}

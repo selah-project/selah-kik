@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "translation": "Na mũndũ akĩita rĩĩtwa cia ng'ombe ciothe, na cia njugũa cia igũrũ-inĩ, na cia nyamũ cia mũgũnda ciothe; no kwa mũndũ ndaonanire mũteithia mũranĩte na we.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩita"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "rĩĩtwa cia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa ciothe"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "na kwa njugũa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cia igũrũ-inĩ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na kwa ciothe"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyamũ cia"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mũgũnda"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "no kwa mũndũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ndaonanire"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mũteithia"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "mũranĩte na we"
+    }
+  ],
+  "timestamp": "2026-10-01T20:28:41.546143921Z",
+  "model": "glm-5.3"
+}

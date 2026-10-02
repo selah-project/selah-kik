@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "translation": "Na mũrũ wa Yehonatani nĩwe Merivi-Baari; na Meri-Baari nĩciaririe ⟨את⟩ Mika.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Na mũrũ wa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Merivi-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baari"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "na Meri-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baari"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nĩciaririe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mika"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    }
+  ],
+  "timestamp": "2026-10-02T05:26:20.189672864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 6,
+  "translation": "Ĩthondeke nĩwe ũmwe cai ya mĩti ya gopere; cika ikũmia nĩũkahĩa thĩinĩ wa cai ĩyo, na ũgĩcoora ⟨את⟩ yayo ndani na ngĩinyi na copera.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ĩthondeke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nĩwe ũmwe"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "cai"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mĩti"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "ya gopere"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "cika ikũmia"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nĩũkahĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cai ĩyo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "thĩinĩ wa cai ĩyo"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "na ũgĩcoora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yayo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "na ngĩinyi"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "na copera"
+    }
+  ],
+  "timestamp": "2026-10-01T20:31:42.231220242Z",
+  "model": "glm-5.3"
+}

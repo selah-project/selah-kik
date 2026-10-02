@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 18,
+  "translation": "Thĩĩ, ũcere nyomba-inĩ ya mũundĩri wa itũmbĩ, na kuo nĩngũtũmĩra ũiguage ⟨את⟩ ciugo ciaŋgu.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "thĩĩ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ũcere"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyomba-inĩ"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "ya mũundĩri wa itũmbĩ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "na kuo"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "nĩngũtũmĩra ũiguage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciaŋgu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo ciaŋgu"
+    }
+  ],
+  "timestamp": "2026-10-02T01:14:36.900009710Z",
+  "model": "glm-5.3"
+}

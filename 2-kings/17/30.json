@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 17,
+  "translation": "Na andũ a Babeli maarĩkia ⟨את⟩ Sukoth-Benoti; na andũ a Kuti maarĩkia ⟨את⟩ Nergari; na andũ a Hamati maarĩkia ⟨את⟩ Acima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Na andũ a"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maarĩkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukoth-Benoti"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukoth"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benoti"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "na andũ a"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maarĩkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergari"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergari"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "na andũ a"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maarĩkia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Acima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Acima"
+    }
+  ],
+  "timestamp": "2026-10-02T00:18:42.809998815Z",
+  "model": "glm-5.3"
+}

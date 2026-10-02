@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "translation": "Na arĩa methakwa enene ma Yiceraeri magĩĩkĩra, na athikoni maingĩ ⟨את⟩ ithemba rĩu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "magĩĩkĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "arĩa methakwa enene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "maingĩ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "athikoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithemba rĩu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ithemba rĩu"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:21.914361539Z",
+  "model": "glm-5.3"
+}

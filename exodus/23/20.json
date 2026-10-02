@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "translation": "Ona, nĩwe ndĩndĩkĩra mũraika mbere yaku akũrinĩrĩre thĩinĩ wa mũgunda, na akũreke kĩndũ gĩa kĩgima gĩkĩrĩte kũrĩa nĩndĩhenanagĩrie.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩwe ndĩ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ndĩkĩra"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mũraika"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "gũkũrinĩra"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "thĩinĩ wa mũgunda"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "na gũkũreka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩndũ gĩa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kĩgima kĩrĩte kũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "nĩndĩhenanagĩrie"
+    }
+  ],
+  "timestamp": "2026-10-01T21:13:45.101059844Z",
+  "model": "glm-5.3"
+}

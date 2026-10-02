@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "translation": "Na Karebu akiuga: Mũndũ ũrĩa ũkahoota ⟨את⟩ Kiriati Cefteri na ũkayĩgũũra, ndĩmũhe ⟨את⟩ Akisa mũiritu wakwa athũũke mũka wake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Karebu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mũndũ ũrĩa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ũkahoota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiriati Cefteri"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriati"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Cefteri"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ũkayĩgũũra"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndĩmũhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akisa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akisa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mũiritu wakwa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "athũũke mũka wake"
+    }
+  ],
+  "timestamp": "2026-10-01T22:53:22.108419682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Na thĩ yothe iĩrĩgĩrĩrire kũonana na ⟨את⟩ mwena wa Ceromo, gwĩte ng'ũro ya kũigua ⟨את⟩ ũgĩ wakwe, ũrĩa Erohimu aheanire rogo-inĩ wake.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "iĩrĩgĩrĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũonana na mwena wa Ceromo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mwena wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "gwĩte ng'ũro ya kũigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũgĩ wakwe"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ũgĩ wakwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aheanire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "rogo-inĩ wake"
+    }
+  ],
+  "timestamp": "2026-10-01T23:53:17.605664077Z",
+  "model": "glm-5.3"
+}

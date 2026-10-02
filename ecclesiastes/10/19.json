@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 10,
+  "translation": "Irío cĩahotwo nĩ mahĩndĩ ma kũhĩa na kũina; na njohi nĩĩtũmaga andũ mĩrĩme-inĩ makĩgunĩrĩra; naho ndarama nĩĩciarĩria ⟨את⟩ maũndũ mothe.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "nĩ mahĩndĩ ma kũhĩa na kũina"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "cĩahotwo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "irío"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "na njohi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nĩĩtũmaga…makĩgunĩrĩra"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "andũ mĩrĩme-inĩ"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "naho ndarama"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nĩĩciarĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maũndũ mothe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "maũndũ mothe"
+    }
+  ],
+  "timestamp": "2026-10-02T04:41:38.467830833Z",
+  "model": "glm-5.3"
+}
