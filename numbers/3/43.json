@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 3:43",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census total 22,273",
+      "rationale": "Census count of firstborn males from a month old and upward; numbers rendered item by item as the Hebrew lists them."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדש",
+      "rationale": "חֹדֶשׁ means both 'new moon' and 'month'; rendered 'mweri', which in Gĩkũyũ likewise carries both moon and month."
+    }
+  ],
+  "translation": "Nĩguo aciarĩwa-a-mbere arume yothe, kũbarwo-inĩ kwa mĩrĩtwa, kuuma mwana wa mweri na kũigĩrĩ, kwa arĩa barĩtwo, nĩ ngiri ĩgĩrĩ na makũmi makũmayo, ithatũ na mĩrongo mũgwanja na igana-ĩgĩrĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "dda0ff2ae365d421af1455763dfabc06051047855291e76f59229e411d156f6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/3\/43-43.1791273230543.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "aciarĩwa-a-mbere"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "arume"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "kũbarwo-inĩ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "kwa mĩrĩtwa"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuuma mwana"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na kũigĩrĩ"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "kwa arĩa barĩtwo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na makũmi makũmayo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ithatũ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mĩrongo mũgwanja"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "na igana-ĩgĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:53:50.543751147Z",
+  "model": "glm-5.3"
+}
