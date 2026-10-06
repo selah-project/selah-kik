@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואותי",
+      "rationale": "Aleph-tav + suffix wa kĩngombe kĩa mbere na kĩa gĩtĩrĩkanya kĩandĩkwo ta <ndĩ> thĩinĩ wa ⟨…⟩ nĩgũo gĩkomerwo nĩrĩa kĩrĩmurĩte mũndũ-age"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחשה",
+      "rationale": "חָשָׁה ĩgĩtagwo 'kũmũmbũka' kana 'kũnyamarika-thĩ'; taũro rĩa ũtereti rĩa kĩndũ gĩa kuona nĩrĩagĩrwo nĩ kũrutwo"
+    }
+  ],
+  "translation": "Na ⟨את⟩ nĩ ũrĩa wĩtetenie na wo wothe ũrĩa wĩtirĩtie ndĩ ng'ania? Nĩgũkorwo nĩ wĩciririe ma, ⟨את⟩ na <ndĩ> ndũkuhĩtie kũrĩkĩra, mĩhĩtuko ĩyo ndũikaigire thĩinĩ wa ngoro yaku. Ndĩngĩ <mũthamaki wa tene> na tene, na ndĩtigĩ kũigua gwaku tega — ndũngĩkũĩra ũthĩninĩ wa kĩndũ gĩa kuona.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cb784fab083b45eac45672f73c5f550067f6e1c886fc2f70952283fa035ba366",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/57\/11-11.1791272553598.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nĩ ũrĩa wĩtetenie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ng'ania"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "wĩtetenie"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "na wĩtirĩtie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "wĩciririe ma"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ na <ndĩ>",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "kuhĩtie kũrĩkĩra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ikaigire"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tega"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩngĩ"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "<mũthamaki wa tene>"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "na tene"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ na <ndĩ>",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũngĩkũĩra"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ũthĩninĩ wa kĩndũ gĩa kuona"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:33.600137143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 20:9",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũoyo",
+      "rationale": "נפש nĩ kĩhũngũ kĩahũmagĩrwo (throat\/life-force), ti 'roho'; mũoyo nĩ gũtaũra kũrĩa kũhĩtie hakuhĩ"
+    },
+    {
+      "kind": "crux",
+      "subject": "mũhonia wa thakame",
+      "rationale": "גֹּאֵל הַדָּם: mũhonia (redeemer-kin) wa thakame kana 'mũcereeji wa thakame' (avenger); Kĩhibirania kĩuga mũrori wa mbarĩ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũkoe mũoyo",
+      "rationale": "מַכֵּה נֶפֶשׁ nĩ 'mũkoe mũoyo' — kuuma מות article ndĩkoragwo handũ ĩno"
+    }
+  ],
+  "translation": "Ici nĩiri ithaa iria ciagĩrĩirwo cia ciana ciothe cia Yiceraeri, na mũceria uria atemakĩra hagwoya-inĩ kiao, nĩkuo kũhiũrania kũo o mũkoe mũoyo hatarĩ kũmenya, na kana akuone mkonini wa mũhonia wa thakame, nginya atheame mbere ya kĩama.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "30e0215f3724cf3a6d43f319845d45a0ed9c8aed86ffca7d921655fda238e6bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/20\/9-9.1791272537471.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nĩiri"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ithaa"
+    },
+    {
+      "surface": "המועדה",
+      "gloss": "iria ciagĩrĩirwo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cia ciana ciothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "na mũceria"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "uria atemakĩra"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "hagwoya-inĩ kiao"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "kũhiũrania"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mũndũ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mũkoe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "hatarĩ kũmenya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na kana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akuone"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkonini wa"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mũhonia"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "atheame"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kĩama"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:17.472936238Z",
+  "model": "glm-5.3"
+}

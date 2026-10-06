@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 13:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מזבח מזבח",
+      "rationale": "Kiugo kĩa Kĩhibirania kĩrongorerwo giĩkũo kĩrĩa kĩmwe igĩrĩ — kĩhunĩro, kĩhunĩro — kĩuruta gwĩtia kwa mũrathi; gũtirĩ kũnorwo kũingĩ thĩinĩ wa taũra."
+    },
+    {
+      "kind": "you",
+      "subject": "kĩhunĩro",
+      "rationale": "Mũrathi arĩkĩra mĩgambo yake kĩhunĩro-kĩ-inĩ o ũguo nĩgeetha kĩndũ kĩĩigĩrĩire kĩa thĩ."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Yociahũ rĩĩtwa rĩake",
+      "rationale": "Mũrathi uga mũndũ arĩa ĩgũkũrirũo na rĩĩtwa rĩake hĩndĩ ĩrĩa ya mbere — kĩndũ gĩtirĩ kĩmeneka kĩarĩkĩirio na rĩĩtwa rĩake mbera."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kũhonia",
+      "rationale": "וזבח kuuma kiugo kĩa kũchinja nyamũ ta kĩheo; taũra rĩa Gĩkũyũ rĩnyitaga na kĩheo kĩa njũmbi."
+    }
+  ],
+  "translation": "Na akĩita ithĩranĩ harĩ kĩhunĩro kiugo-inĩ kĩa Yahwe, akĩuga: Kĩhunĩro, kĩhunĩro, ndũgeguo Yahwe oigĩte: Roria, mũrũ nĩagĩcirwo nyũmba ya Dawidi, Yociahũ rĩĩtwa rĩake, na nĩakũhonia igũrũ rwaku ⟨את⟩ aathani a mĩtĩmĩ ĩrĩa ĩrĩ igũrũ arĩa makĩrũngĩra mĩthaiga igũrũ rwaku, na ĩcĩanjĩ cia andũ nĩgũrĩo na mũaki igũrũ rwaku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ee91a2f3f074ce8f3114528b60d426dd5367d7ed7ae8e0cc8f16a967fb116b9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/13\/2-2.1791272561981.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Na akĩita ithĩranĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kĩhunĩro"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kiugo-inĩ kĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Kĩhunĩro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kĩhunĩro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndũgeguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Roria"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "nĩagĩcirwo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yociahũ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "na nĩakũhonia"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rwaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aathani a mĩtĩmĩ ĩrĩa ĩrĩ igũrũ"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "aathani"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "a mĩtĩmĩ ĩrĩa ĩrĩ igũrũ"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "arĩa makĩrũngĩra mĩthaiga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rwaku"
+    },
+    {
+      "surface": "ועצמות",
+      "gloss": "na ĩcĩanjĩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "cia andũ"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "nĩgũrĩo na mũaki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rwaku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:41.983112318Z",
+  "model": "glm-5.3"
+}

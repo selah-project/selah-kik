@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 35:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mĩthenya",
+      "rationale": "Kĩhibirania kĩrĩ 'ĩna-na-kumi mweri-inĩ wa mbere' — kiugo 'mĩthenya' kĩongĩtwo nĩgeetha mũhuro ũronwo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mweri wa mbere, ĩna na kumi",
+      "rationale": "Kũaria hwa mbere ya Pecaha — mweri na mũthenya wa mĩthenya ĩna na kumi"
+    }
+  ],
+  "translation": "Nĩrĩa Yoacia arũmagĩrĩra Yerucarayimu, na athekagĩra Pecaha kwa Yahwe; na mathinjagĩra ⟨את⟩ Pecaha mweri-inĩ wa mbere, mweri ũrĩa wa mĩthenya ĩna na kumi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d4df93b690335accb485ff8d63d1a3a30b21ffafcade4de94cec3b2528529c75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/35\/1-1.1791272518969.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "arũmagĩrĩra"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoacia"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pecaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "na mathinjagĩra"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pecaha"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ĩna"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na kumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mweri-inĩ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    }
+  ],
+  "timestamp": "2026-10-06T07:41:58.970743790Z",
+  "model": "glm-5.3"
+}

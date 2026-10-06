@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 26:17",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושבת מימים",
+      "rationale": "'inhabited from the seas' vs 'seafaring men' vs 'peopled from the seas' — tamko imegĩtwo 'warĩ na aciari a iria-inĩ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nĩwaitĩkĩre",
+      "rationale": "אבדת nĩ 'kũhenania\/kũiyũra ũndũ-inĩ'; 'perish\/destroyed' nĩ 'waitĩkĩre' — gĩcunjĩ kĩa mũhũmũ kwaigana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב \/ יושביה",
+      "rationale": "mũrĩ wa ישב waragarĩrage mundũ-inĩ kahinda gatarĩ-ĩkũyũ nĩgeethia ndangĩoneruo kĩrĩa gĩaĩkũyũ"
+    }
+  ],
+  "translation": "Na makĩgetha kĩnĩha gĩaku, magĩthiĩra magĩuka: Nĩwaitĩkĩre atĩa, iwe ũrĩa warĩ na aciari a iria-inĩ, mũciĩ ũrĩa woigĩtwo-ni-weri, ũrĩa wĩ na hinya iria-inĩ, ũyũ na arĩa makarĩ-ĩkoragio-arĩo, arĩa maheetire gĩtinya kwao kwa arĩa makarĩ handũ ha kũikaragia akĩya!",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c390a96288d5d8cdd63fb0d93856513f65abb6982999139a4d639037e5fe80d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/26\/17-17.1791272543115.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "na makĩgetha"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gĩaku"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "kĩnĩha"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "magĩthiĩra magĩuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwarĩ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "nĩwaitĩkĩre"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "warĩ na aciari"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "a iria-inĩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "ההללה",
+      "gloss": "ũrĩa woigĩtwo-ni-weri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "warĩ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wĩ na hinya"
+    },
+    {
+      "surface": "בים",
+      "gloss": "iria-inĩ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "na arĩa makarĩ-ĩkoragio-arĩo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "maheetire"
+    },
+    {
+      "surface": "חתיתם",
+      "gloss": "gĩtinya kwao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa arĩa makarĩ"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "handũ ha kũikaragia akĩya"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:23.117618128Z",
+  "model": "glm-5.3"
+}

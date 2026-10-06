@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nĩarũarwo",
+      "rationale": "מחלל: 'kũhinyĩrwo\/kũruarwo' (pierced) handĩrĩ 'kũarũarwo' (wounded) — YLT na BSB ciatũra 'pierced', KJV 'wounded'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tha",
+      "rationale": "שלום nĩ ũhoro mũingĩ kũnga 'tha wiki' — kwao kũgima, thayũ, na hinya."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mathina",
+      "rationale": "חבורה nĩ gĩcunjĩ kĩa mwĩrĩ kĩrĩa kĩnyitithanĩte na mahũa — 'mathina' nĩ mũhiano wa kũgera kũrĩa kũingĩ."
+    },
+    {
+      "kind": "addition",
+      "subject": "ithuĩ",
+      "rationale": "לנו nyiitĩtwo na ithuĩ cuma kana thutha wa riĩtwa rĩa kĩngima, nĩgeetha kĩngima kĩoneke thĩinĩ wa mũhuro ⟨ithuĩ⟩."
+    }
+  ],
+  "translation": "Na ithuĩ nĩarũarwo nĩ njambo cia ithuĩ, aguũngĩrwo nĩ mbia cia ithuĩ; kĩrũme kĩa tha cia ithuĩ kĩrĩ igũrũ rĩake, na mathina makĩmake nĩagĩtwo ⟨ithuĩ⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "550cb5d6fad917731acd6d4fb63a01b889a1f40339922e2d04183580261db709",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/53\/5-5.1791272530770.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na ithuĩ"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "nĩarũarwo"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "nĩ njambo cia ithuĩ"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "aguũngĩrwo"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "nĩ mbia cia ithuĩ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kĩrũme"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "kĩa tha cia ithuĩ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kĩrĩ igũrũ rĩake"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "na mathina makĩmake"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "nĩagĩtwo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:10.771955727Z",
+  "model": "glm-5.3"
+}

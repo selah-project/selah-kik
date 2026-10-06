@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לאפו",
+      "rationale": "Kĩhibirania kĩugaga 'icũrũ ciake' (mũgambo wa mũthia) kuuma handũ ha 'gĩthingu kĩake'; mũhiano ũyũ ndũrangĩrĩtwo na mũhiananio wa Kĩkũyũ."
+    },
+    {
+      "kind": "crux",
+      "subject": "יפלס",
+      "rationale": "Kiugo gĩa ũgima: 'kũgũa njĩra ĩtheru' (YLT 'pondereth') kana 'kũgaranĩra'; ngerekano ici igĩte ta YPS na BSB ĩrĩ 'cleared'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "נפש nĩ 'kĩhũmũ\/hinya wa mĩtĩrĩmbi' — ti 'moyo' wa mũgambo wa Kĩthwahĩri o wothe."
+    }
+  ],
+  "translation": "Nĩagaranĩire njĩra ya gĩthingu kĩake; ndaarĩkirie moyo wao kuuma kũrĩ, no nĩagĩtĩrĩra mĩtĩrĩmbi yao kwa mũrimũ mũnene.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2cfdbba9d77fc4db8d285f279f281d1ff35d581ec05b5d6077109fbdee5b7871",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/78\/50-50.1791272588037.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "nĩagaranĩire"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "njĩra"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "gĩthingu kĩake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ndaarĩkirie"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kuuma kũrĩ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moyo wao"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "na mĩtĩrĩmbi yao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwa mũrimũ mũnene"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "agĩtĩrĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:43:08.039508683Z",
+  "model": "glm-5.3"
+}

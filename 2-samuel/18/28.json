@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 18:28",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סגר",
+      "rationale": "'athigirĩirie' (gũthigĩrĩra, kũhĩhia) ta KJV 'shut up\/delivered up'; na ũndũ ũcio 'agwetĩre' (YLT) — nĩ kũheana andũ arĩa manyarĩire"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשאו את ידם",
+      "rationale": "'gũnyitara mkono' — ciugo cia Kĩhibirania cia kũnyarara kana kũhĩnga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום",
+      "rationale": "Ahimaaci agĩcokia 'Thayũ' — na mũthenya ũyũ nĩ mahũthagĩrĩra ũhoro wa mbaara; thayũ nĩ yo yatũũrĩkĩtie igũrũ rĩa mũhantũ"
+    }
+  ],
+  "translation": "NĩAhimaaci akĩita rĩĩtwa, akĩmũũria mwathi: Thayũ! Na akĩguunjitha thĩ nĩgũcoko-kũhĩrĩra mwathi nĩ enũithe yake, na akĩũria: Yahwe, Erohimu waku, arĩ wa magegania, ũrĩa athigirĩirie ⟨את⟩ andũ arĩa maanyitĩte ⟨את⟩ mikono yao kũnyita mwathi wakwa, mwathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e2fb6a11443e671db3addd07c9d98708a464b5f0c1d3a9e52bd4728c222efe0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/18\/28-28.1791272532339.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩita rĩĩtwa"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaaci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Thayũ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akĩguunjitha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "nĩ enũithe yake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩũria"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "arĩ wa magegania"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "athigirĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "maanyitĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikono yao"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "mikono yao"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:12.341085809Z",
+  "model": "glm-5.3"
+}

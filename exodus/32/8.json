@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 32:8",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨iwe⟩",
+      "rationale": "Kĩhũthĩro kĩa gũcookeria Yiceraeri kĩongĩtwo; Kĩhibirania kĩ mũgambo wa kũigua tu"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלה אלהיך",
+      "rationale": "Ndandĩ: 'ici nĩ Erohimu ciao' (rĩnini) kana 'ũyũ nĩ Erohimu wao' ta JPS; arĩa mekire mwendĩrũ metĩkĩtie Erohimu ya mũthĩ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "igooti",
+      "rationale": "ויזבחו nĩ kũinjia nyamu kũrĩ kũheana; 'igooti' ĩĩgana gĩcunjĩ kĩa kũheana"
+    }
+  ],
+  "translation": "Nĩmahũrage ithũa nĩgerĩga kuuma thonjeko ĩrĩa nĩndabathĩirie; nĩmeekĩte mwendĩrũ wa ng'ombe, wĩ mũtheke, na makĩgũmanyĩithĩra, na makĩheana igooti irĩa, na makauga: Ici nĩ Erohimu ciao, iwe Yiceraeri, arĩa cakuurĩte kuuma thĩ ya Micirayimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e247e9d7aebda11632494d45991b55e7b776e283b0aa4efd969203fee0512136",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/32\/8-8.1791272542021.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סרו",
+      "gloss": "nĩmahũrage"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ithũa nĩgerĩga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "thonjeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "nĩndabathĩirie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nĩmeekĩte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kweo"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mwendĩrũ wa ng'ombe"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "wĩ mũtheke"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "na makĩgũmanyĩithĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "na makĩheana igooti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na makauga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu ciao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "cakuurĩte"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:22.022374342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ũtheri wakĩoorera",
+      "rationale": "הטל nĩ ũtheri wakĩoorera (dew); 'ũtheri' wiki kĩngĩtarĩ kĩega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩambĩrĩria-inĩ",
+      "rationale": "המחנה nĩ kĩambĩrĩria kĩa andũ a mĩgũnda; ti 'ihema' wiki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũgima",
+      "rationale": "לילה nĩ hĩndĩ ya ũgima (ncithi); gĩcunjĩ kĩa moimĩre 'kũgima kwa riũa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירד ... המן",
+      "rationale": "kiugo kĩmwe gĩa ירד kĩarĩtwo mbere na thutha — mũthia ũrĩa ũgĩa na mana nĩũcio yaorokete na ũtheri"
+    }
+  ],
+  "translation": "Na rĩrĩa ũtheri wakĩoorera handũ ha kĩambĩrĩria-inĩ kwa hĩndĩ ya ũgima, mana yaookera igũrũ rĩake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "723371243bbea94c9dcf0c48281a9540a0705ca3121dd2eea0e1a2842bc4b6ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/11\/9-9.1791272527083.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "na rĩrĩa ... yaookera igũrũ"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ũtheri wakĩoorera"
+    },
+    {
+      "surface": "על",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "hĩndĩ ya ũgima"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yaookera igũrũ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    }
+  ],
+  "timestamp": "2026-10-06T07:42:07.085046403Z",
+  "model": "glm-5.3"
+}
