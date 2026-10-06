@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩwe",
+      "rationale": "Gĩkũyũ ĩreheta copula; Kĩhibirania nĩgĩtarĩ nayo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũtheri",
+      "rationale": "צדיק — cedeki; 'ũtheri' nĩgũtaũra kũrĩ kũmwe, kiugo kĩmwe kĩa Kĩhibirania"
+    }
+  ],
+  "translation": "Nacio aciarĩho andũ arĩa methamaki ma Yiceraeri na mwathi, na makĩuga: Yahwe nĩwe ũtheri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "3cf7a1c4c199e1eb9c9836a2e895ce6097c016a8aea3926fc437320ed741d8b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/12\/6-6.1791270907821.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "nĩciarerĩho"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "andũ arĩa methamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ma Yiceraeri"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:07.825458254Z",
+  "model": "glm-5.3"
+}

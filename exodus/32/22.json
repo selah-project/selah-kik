@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יחר אף",
+      "rationale": "ũgũthĩĩga-inĩ kwa Kĩhibirania 'kũcika ithenya' nĩ kũgeria wĩra wa kũĩhĩtia; 'ithenya' ĩngĩĩrwo ithenya rĩa mwathi"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי ברע הוא",
+      "rationale": "tauga 'nĩ mwĩ mwoyo-inĩ mwa ũru' kana 'ũru nĩkuo mũtugo wayo' — atĩ kĩrĩa kĩa ndũrĩrĩ kana kĩa mũndũ nĩagĩrĩire kuonekana"
+    },
+    {
+      "kind": "addition",
+      "subject": "irĩ",
+      "rationale": "copula ĩongerirwo, Kĩhibirania kĩtarĩ nĩ kĩugo kĩu"
+    }
+  ],
+  "translation": "Aharoni akĩuga: Kana ithenya rĩa mwathi wakwa rĩtorethe kũcika; nĩwe ũmena ⟨את⟩ ndũrĩrĩ ĩno, nĩgũkorwo irĩ mwoyo-inĩ mwa ũru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fe4aff9c2455f06957cbfb967484ae84cbaa5fae33e8cb653ba8e8e104558e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/32\/22-22.1791269402969.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "rĩtorethe kũcika"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ithenya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ũmena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndũrĩrĩ ĩno"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ndũrĩrĩ ĩno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mwoyo-inĩ mwa ũru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "irĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:02.974760516Z",
+  "model": "glm-5.3"
+}

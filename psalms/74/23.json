@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "handũ ha Yahwe",
+      "rationale": "Kĩhibirania kĩetagwo 'gĩcigo kĩarĩgũthĩĩra' o na kĩndũ kĩa kũrĩgũthĩĩragĩrwo; handũ gĩa kũrĩgũthĩĩra kĩngĩongerwo nĩgeetha maũndũ maoneke"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kũrĩgũthĩĩra handũ ha 'kũiyũra'",
+      "rationale": "ciamũrngeria nĩciongerethie maũndũ mahee — yaaco ya 'kũrĩgũthĩĩra' nĩ ĩrĩ mũgambo wa kuuma thĩ ngũrũ"
+    }
+  ],
+  "translation": "Ndũkĩhore mũgambo wa arĩa kũmenete nawe: gĩcigo kĩa arĩa kũinamĩre kũrĩgũthĩĩra handũ ha Yahwe kĩigana na mĩthenya yothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c6d41b2288dc2e597992b0d085e8475b9f6b7fc2df16b8de8e09a36c768f65d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/74\/23-23.1791270454617.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ĩhoro"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "Ndũkĩhore"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "wa arĩa kũmenete nawe"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gĩcigo"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "kĩa arĩa kũinamĩre"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kũrĩgũthĩĩra"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mĩthenya yothe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:34.620065503Z",
+  "model": "glm-5.3"
+}

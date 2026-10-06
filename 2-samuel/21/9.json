@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 21:9",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקיעם",
+      "rationale": "Kĩngomanio kĩa ndemwa: kũringithia\/kũmanĩrĩria (kupigwa mpini) kana kũgerwo — ĩrĩa ngĩhĩtwo nĩrĩo 'nĩmarĩngĩthie'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "arũmi",
+      "rationale": "Kũana andũ arũmĩ a hamwe — kĩhooto kĩa mũtaratara wa maũndũ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קציר ... קציר",
+      "rationale": "Kiugo kĩa kũunĩka gĩkorũo kĩarĩrĩririo gĩa mbere na gĩa keerĩ — gĩtikũoneka mũno Gĩkũyũ-inĩ."
+    }
+  ],
+  "translation": "Nĩmahetie mkono-inĩ wa a-Giboni, nao makĩringitha kĩrĩma-inĩ mbere ya Yahwe; nĩmaguũka arũmi hamwe, nĩmaathĩnjĩtwo mĩthenya-inĩ ya kũunĩka irio, ya mbere, mũgĩmbĩ wa kũunĩka mbembe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b3a89ebd01747cbcfedaaeb31d520642a5a47a1f95520063e8ced00e058affd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/21\/9-10.1791269984254.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "nĩmahetie"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mkono-inĩ"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "a-Giboni"
+    },
+    {
+      "surface": "ויקיעם",
+      "gloss": "nĩmarĩngĩthie"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "nĩmaguũka"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "arũmi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "המתו",
+      "gloss": "nĩmaathĩnjĩtwo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mĩthenya-inĩ ya"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kũunĩka"
+    },
+    {
+      "surface": "בראשנים",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "תחלת",
+      "gloss": "mũgĩmbĩ wa"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kũunĩka"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mbembe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:44.261311732Z",
+  "model": "glm-5.3"
+}

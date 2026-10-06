@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מקדם",
+      "rationale": "קדם nĩ kwĩga 'mbere' na 'irathĩro' hamwe — kĩambĩrĩria kĩa mũhiananio ĩrĩa ũguo kwa Gĩkũyũ gũthuthuraga."
+    },
+    {
+      "kind": "addition",
+      "subject": "ĩrĩa",
+      "rationale": "Gĩkũyũ kĩhĩhĩga kĩa kũingĩha kwa ⟨ĩrĩa⟩ thĩinĩ wa ũhoro wa mocio wa mbere, ũrĩa Kĩhibirania kwarĩ na את ti nganja-inĩ ya mũhiananio."
+    }
+  ],
+  "translation": "Na kebodi wa Yahwe nĩĩyambĩrĩire kuuma gatagatĩ kwa ⟨ĩrĩa⟩ mocio, na akĩyambĩra kilima-inĩ ĩrĩa ĩrĩ irathĩro rĩa mocio.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "00eb55a35a36b0b32f520cac34c5b9918c83177c10ea43e8304f189397717517",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/11\/23-23.1791270274615.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nĩĩyambĩrĩire"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kebodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mocio"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akĩyambĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "irathĩro rĩa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mocio"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:34.632842935Z",
+  "model": "glm-5.3"
+}

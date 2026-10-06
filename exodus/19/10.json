@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "rĩũ mũthenya na ũrĩa ũgũthĩra",
+      "rationale": "mĩthenya ĩrĩ ya gũtherio wa andũ ĩtaũrwo ũgũ — kũgereria ng'etho ya mũthenya wa gatatũ"
+    },
+    {
+      "kind": "you",
+      "subject": "kũrĩ Moce",
+      "rationale": "Yahwe aheaga Moce watho wa gũtheria andũ mbere ya kũgeria kwa Ngai thĩ"
+    }
+  ],
+  "translation": "Rĩrĩa ũcio, Yahwe oigĩte kũrĩ Moce: Ũgĩe kũrĩ andũ, ũmatherie rĩũ mũthenya na ũrĩa ũgũthĩra ũcio, magethũrie nguo ciao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "567c8915cf379dce8c86bac468c2e945fa39a0dde3d70ce9f9e14ea000bc0b13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/19\/9-11.1791269375658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ũgĩe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ũmatherie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "rĩũ mũthenya"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "na ũrĩa ũgũthĩra ũcio"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "magethũrie"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "nguo ciao"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:35.676736992Z",
+  "model": "glm-5.3"
+}

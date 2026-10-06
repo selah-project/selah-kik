@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 8:16",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתנים נתנים",
+      "rationale": "Infinitive absolute doubling of 'given, given' — full totality kept by repeating the Gĩkũyũ verb; KJV 'wholly given' flattens it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחם",
+      "rationale": "'nyina' (womb) stands for the opening of the womb; Hebrew keeps the anatomical picture literally."
+    }
+  ],
+  "translation": "Nĩgũkora nĩmaheanĩtwo, nĩmaheanĩtwo marĩ makwa kuma iria-inĩ wa ciana cia Yiceraeri, thutha wa ũrĩa-wohoragĩra-nyina wa o nyina, mũcamba wa mbere wa ciana cia Yiceraeri othe, nĩnakoretwo ndĩrahũra ⟨את⟩ macio makwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6d8a388ce55ed9f3be57da2da198f2bf3866fb333abaf1bc869b6efff6159c34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/8\/16-16.1791269507308.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkora"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "nĩmaheanĩtwo"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "nĩmaheanĩtwo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "marĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "makwa"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iria-inĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "פטרת",
+      "gloss": "ũrĩa-wohoragĩra-nyina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mũcamba wa mbere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "nĩnakoretwo ndĩrahũra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "macio (a Lavii)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "makwa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:47.309864296Z",
+  "model": "glm-5.3"
+}

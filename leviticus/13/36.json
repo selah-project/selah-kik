@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩ mũthũ",
+      "rationale": "טמא הוא — 'nĩ mũthũ': Hebrew lacks copula, הוא adds emphasis; masculine form though the neteq (fem.) is subject — refers to the person"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הצהב",
+      "rationale": "צהב (yellow hair) appears only in this scall-law passage; rendered 'njega' per sound rule"
+    }
+  ],
+  "translation": "Mũkiraitani akĩmũona, na rũu, neteki iratambĩra gĩcunjĩ-inĩ kĩa krogo, mũkiraitani ndakenagĩra mboco njega; nĩ mũthũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "dbe7101581fcfd0ef535d403bac03a6d959645407b03e0edb621f6425665ef51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/13\/36-36.1791269406365.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראאהו",
+      "gloss": "akĩmũona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkiraitani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũu"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "iratambĩra"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteki"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "gĩcunjĩ-inĩ kĩa krogo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndakenagĩra mboco njega"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "ndakenagĩra mboco njega"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkiraitani"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "njega"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nĩ mũthũ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:06.369089656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akĩmamenithia",
+      "rationale": "הרג nĩ 'kũinjia na kĩooyie'; Gĩkũyũ kĩrenda gĩcunjĩ kĩa kũmenithia"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואזרעה — ũhoro wa kũrahĩra munyu",
+      "rationale": "kũrahĩra munyu thĩinĩ wa mucĩ nĩ kĩhumo kĩa kũrigicĩrĩria kũigua kũo — ta kuura kwa riũa kwĩ mbeũ mbũra"
+    }
+  ],
+  "translation": "Na Abimeleki nĩarutanĩte na mucĩ o mũthenya ũcio wothe, akĩnata ⟨את⟩ mucĩ, na ⟨את⟩ andũ arĩa marĩ thĩinĩ wacio akĩmamenithia, akĩgucithithia ⟨את⟩ mucĩ, nao akĩrahĩra nacio munyu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "563ab0f042ee23994b2be60fbca5ad38937663a35b1d11419af69264ab899448",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/9\/45-45.1791269763000.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Na Abimeleki"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nĩarutanĩte"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mucĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio wothe"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akĩnata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucĩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "בה",
+      "gloss": "marĩ thĩinĩ wacio"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "akĩmamenithia"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "akĩgucithithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mucĩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "akĩrahĩra nacio"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "munyu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:03.001824475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mĩrĩga⟩",
+      "rationale": "Gĩkũyũ ĩhote gũcokia kiugo 'iriigũrũ' gĩa mbere, no hindi mbera ĩhicokia mũhiano wa kwerereria"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mĩthingi ciothe",
+      "rationale": "עולאם nĩ 'thutha ũrĩ utarĩ na mũthia', gĩtaũro gĩa mũhiano: 'ciumĩte thutha-inĩ ĩgayũkanĩte'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũthingu",
+      "rationale": "כבוד nĩ 'ũrĩa wonagwo na maithori, kĩguni, ũraihu' — ũthingu nĩ gĩtaũro gĩa mũhiano"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the gates",
+      "rationale": "Ndũkũro ĩrĩ kwarĩrĩria mĩrĩga yakwa mĩguĩ ya kũhũra mitwe — gũtirĩra kwa kĩguni gĩa kũinĩra"
+    }
+  ],
+  "translation": "Ihũranĩngai mitwe ianyu, iriigũrũ, na ⟨mĩrĩga⟩ ya mĩthingi ciothe ihũrwo, nĩgetha mũthamaki wa ũthingu akiingerera.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "3509e19a0391b6d87b50c7169601a8c6bf881894d9666127e4abeeb42ec9943a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/24\/7-8.1791270503754.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ihũranĩngai"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "iriigũrũ"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mitwe ianyu"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "na ihũrwo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mĩrĩga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya mĩthingi ciothe"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "nĩgetha akiingerera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa ũthingu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:23.758710829Z",
+  "model": "glm-5.3"
+}

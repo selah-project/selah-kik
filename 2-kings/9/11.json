@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 9:11",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המשגע",
+      "rationale": "'mũraci' (mwana-ũthĩ); mamwe mathomo manjũgĩte 'mad fellow' kana 'the raving one' — ndũmĩrĩri ya mũrathi ĩrĩa maamũrokiye ta mũraci."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שיחו",
+      "rationale": "'mĩario yakwe' — שיח nĩ kĩhumo kĩa kĩngerekanya (kũrireeria\/kĩngeranio); 'mario' nĩ kĩngumba kĩa kĩrĩa kĩrĩ kuo."
+    },
+    {
+      "kind": "addition",
+      "subject": "ũmwe",
+      "rationale": "Hebrew ויאמר לו nĩ ũmwe tu; 'ũmwe' ndaongire hĩndĩ ya ũtũũro wa kĩguni kĩrĩa kĩarĩ na andũ aingĩ."
+    },
+    {
+      "kind": "you",
+      "subject": "athĩnjĩri-a Yehu",
+      "rationale": "Kĩguni gĩa mbere nĩ kĩũrire Yehu na kũmũũria theri; kĩguni gĩa gĩthĩ nĩ kĩo moakiuga 'inĩ nĩmũmena'."
+    }
+  ],
+  "translation": "Nĩrĩa Yehu atĩrĩire kũrĩ athĩnjĩri-a mwathi wake, na ũmwe akiũria atĩrĩ: Nĩ theri? Nĩkĩ mũraci ũyũ ũgũcoka agĩũmbũkĩra kũrĩ we? Nake akiuga kũrĩ mo atĩrĩ: Inĩ nĩmũmena ⟨את⟩ mũndũ ũyũ na ⟨את⟩ mĩario yakwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "880933acaa89eb18c64dbec9f719b85cf427ed7e0b4ff32cb573a9c4f2b47ea9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/9\/11-12.1791270112466.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "atĩrĩire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "athĩnjĩri-a"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mwathi wake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiũria"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Nĩ theri?"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "agĩũmbũkĩra"
+    },
+    {
+      "surface": "המשגע",
+      "gloss": "mũraci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nake akiuga"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kũrĩ mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nĩmũmena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũyũ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũyũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mĩario yakwe"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "mĩario yakwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:52.472945745Z",
+  "model": "glm-5.3"
+}

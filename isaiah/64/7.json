@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩwe \/ ũcio",
+      "rationale": "Kĩhibirania kĩrĩ na copula gĩkeneya; Gĩkũyũ gĩcoka kĩiyũmbĩrie"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלנו",
+      "rationale": "KJV\/Genevamana rarĩ 'and there is none that calleth upon thy name' — mbarari ya makĩria ĩrĩa yonekire harĩa ĩrĩ kwaandĩki ũrĩa wa Kĩhibirania; mbarari ĩyo nĩ ya 64:6 ma KJV"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החמר \/ יצרנו",
+      "rationale": "Cithari na mũthuri — ũhoro wa mũthuri wa cithari, mũhiano wa kĩguni ũrĩa ũtikoretwo wothe"
+    }
+  ],
+  "translation": "Na rĩũ, Yahwe, nĩwe ithe witũ; ithuĩ nĩrio cithari, na nĩwe ũcio mũthuri witũ, na ithuĩ othe nĩ twĩ kĩndũ gĩa gũtetere gwĩ moko maku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4aa10ab30b7ca57948ee1ea339eaffc1ec19a437e250fbea83c5113a697bbd55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/64\/7-7.1791270151525.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ithe witũ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "nĩrio cithari"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "na nĩwe ũcio"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "mũthuri witũ"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "na kĩndũ gĩa gũtetere"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "moko maku"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ithuĩ othe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:31.529404065Z",
+  "model": "glm-5.3"
+}

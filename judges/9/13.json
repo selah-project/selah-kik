@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 9:13",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנוע",
+      "rationale": "'kũgẽcenjea' (kũheanĩrĩra hinya) kũringana na YLT\/ASV 'stagger\/wave'; JPS\/KJV 'hold sway over' nĩ gũtaũra kwa kĩgunja kĩngĩ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החדלתי",
+      "rationale": "kiugo gĩa Kĩhibirania kĩuga 'nĩngĩhota kwĩhoka' — mũgambo ũrĩa mĩtigo ya Jothamu ĩhũthagĩra wa kũĩrũra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תירושׁ",
+      "rationale": "tiroci nĩ ruarĩ rwa mbere rwa kũnyuwo, ti ũruũ; 'ruarĩ' gĩkũrũnganĩtie"
+    }
+  ],
+  "translation": "Na mũgembe akĩmeeteria: Nĩngĩeha ⟨את⟩ ruarĩ rwakwa rũrĩa rũtheonjea Erohimu na andũ, na ngathe kũgẽcenjea juu ya miti?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1e3a93151dbeab31329500b5f89bd67e45d1fe5bda69b5cdb1c46761957452bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/9\/13-13.1791269744183.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akĩmeeteria"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "mũgembe"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "nĩngĩeha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruarĩ rwakwa"
+    },
+    {
+      "surface": "תירושי",
+      "gloss": "ruarĩ rwakwa"
+    },
+    {
+      "surface": "המשמח",
+      "gloss": "rũrĩa rũtheonjea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "na andũ"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "na ngathe"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "kũgẽcenjea"
+    },
+    {
+      "surface": "על",
+      "gloss": "juu ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "miti"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:44.184170634Z",
+  "model": "glm-5.3"
+}

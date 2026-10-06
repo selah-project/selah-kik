@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "metegi-ha-amaha",
+      "rationale": "מתג האמה: rĩĩtwa kĩa kũndũ (KJV 'Methegammah') kana 'mũthagũ wa itũũra ikuu' (ASV), kana 1Chr 18:1 'Gathi' — gĩturwa kĩa mbere kĩatigĩtwo rĩĩtwa"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתג",
+      "rationale": "kiugo gĩkĩ kĩonekana Tanakh-inĩ handũ ha kenda, na ũgarũrũke ũrĩa ũthĩkĩte nĩ wa kũigua ngoro"
+    },
+    {
+      "kind": "measurement",
+      "subject": "metegi-ha-amaha",
+      "rationale": "ũndũ wa gũcunjurwo kwa kĩndũ kuuma moko-inĩ ma thũ — gũcunjurwo nĩ kĩigo kĩa watho"
+    }
+  ],
+  "translation": "Na thutha wa ũcio Dawidi akĩhũra ⟨את⟩ Purecithini, akĩmanyitithia; na Dawidi akĩnyita ⟨את⟩ metegi-ha-amaha kuuma moko-inĩ ma Purecithini.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a35bcae8d4b048a4989a8d81fd70f571492aae5e858720c8e299d21ec002b338",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/8\/1-1.1791269864926.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ikimbĩrĩrire"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akĩhũra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Purecithini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Purecithini"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "akĩmanyitithia"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akĩnyita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metegi-ha-amaha"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "metegi"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ha-amaha"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Purecithini"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:44.928319204Z",
+  "model": "glm-5.3"
+}

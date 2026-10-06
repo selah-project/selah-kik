@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 3:23",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגלינים",
+      "rationale": "kĩanda kĩa kũandĩka kana irigithathi: 'glasses\/mirrors' (KJV\/ASV), 'gauze robes' (JPS)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הגלינים",
+      "rationale": "kiugo gĩkoragwo Tanakh-inĩ ya ha ũno tu"
+    }
+  ],
+  "translation": "Na irigithathi, na nguo cia mandagũ, na makoloinĩ ya mũtwe, na minyororo ya kũthũkĩra;",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a5d723207ac9b2b2e75755110c6695925fae272dd173e562722f5b0ddd6c1081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/3\/21-23.1791270170904.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגלינים",
+      "gloss": "irigithathi"
+    },
+    {
+      "surface": "והסדינים",
+      "gloss": "nguo cia mandagũ"
+    },
+    {
+      "surface": "והצניפות",
+      "gloss": "makoloinĩ ya mũtwe"
+    },
+    {
+      "surface": "והרדידים",
+      "gloss": "minyororo ya kũthũkĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:50.922027932Z",
+  "model": "glm-5.3"
+}

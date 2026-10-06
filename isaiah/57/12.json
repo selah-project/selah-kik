@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "irony",
+      "subject": "nĩngamenya cedeki yaku",
+      "rationale": "Yahwe agĩmenya 'cedeki' ya mũmeneti — kwarĩ kũmenya kwa kũũra, ti kũiga."
+    }
+  ],
+  "translation": "Inĩ nĩngamenya cedeki yaku, na ⟨את⟩ ciĩro cĩaku — na itigũkũheania kĩndũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/57\/9-12.1791270221483.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Inĩ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nĩngamenya"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "cedeki yaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩro cĩaku"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ciĩro cĩaku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na iti"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "gũkũheania kĩndũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:41.552321507Z",
+  "model": "glm-5.3"
+}

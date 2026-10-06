@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ĩmwe",
+      "rationale": "Gĩkũyũ kĩhĩtũkĩra mũcemanio wa efa ĩmwe; ĩmwe nĩyongereirwo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minaha",
+      "rationale": "מנחה itaũrwo minaha ta metha ino; ti 'kĩheo' kana 'igooti'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ciĩkumi cia efa",
+      "rationale": "Kũrora kwa ithimi: igũrũ rĩa mbere-inĩ kwa efa, kĩahĩtwo-inĩ kĩrĩa kwĩmwe."
+    }
+  ],
+  "translation": "Ĩyũ nĩgĩcĩĩro kĩa Aharoni na ciana ciake, arĩa makĩhĩtũkĩra Yahwe mũthenya arĩa waitĩrĩirio maguta ⟨את⟩: ciĩkumi cia efa ĩmwe cia ũgunjo wa igano, minaha ya tene-na-tene; ũrĩa kĩahĩtwo-inĩ kwayo mũciĩĩro, na ũrĩa kĩahĩtwo-inĩ kwayo kwĩgwa-kwa-riũa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "291d498ae46b8c0035f928ecd29070bcba6b8159585d39b81fe66718c9fb614e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/6\/13-13.1791269410313.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ĩyũ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "gĩcĩĩro"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na ciana ciake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "makĩhĩtũkĩra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "arĩa waitĩrĩirio maguta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩkumi cia efa"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "ciĩkumi cia"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "efa ĩmwe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ũgunjo wa igano"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tene-na-tene"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "kĩahĩtwo-inĩ kwayo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mũciĩĩro"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "na kĩahĩtwo-inĩ kwayo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kwĩgwa-kwa-riũa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:10.316463517Z",
+  "model": "glm-5.3"
+}

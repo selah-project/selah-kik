@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "we mwenenywe",
+      "rationale": "הוא nĩ kiugo kĩonekire kĩgima kwogĩte andũ acio arĩa maathiĩ hamwe — kĩongĩtwo tu gwĩka ũguo mweru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "andũ ariarũ amy a mbaara",
+      "rationale": "עם המלחמה nĩ 'andũ a mbaara' — עם nĩ gĩkundi kĩa andũ, ti ũthĩũ wa mbaara we mwĩhare"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aria ma hinya a cio ithie",
+      "rationale": "גבורי החיל — 'arĩa ma hinya wa gĩkundi kĩa ũmenyo' — חיל nĩ hinya, andũ, kana utonga; גבור nĩ mũndũ wa hinya"
+    }
+  ],
+  "translation": "Nĩrĩrĩka Yehocua kuuma Girigari, we mwenenywe hamwe na andũ ariarũ amy a mbaara, hamwe na aria ma hinya wothe a cio ithie.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "365ac214c41248a54058442c684fef1bec69bdd0be0607d45a6227d5c311536b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/10\/7-7.1791269747795.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nĩrĩrĩka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Girigari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we mwenenywe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hamwe na andũ amy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ a mbaara"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ariarũ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hamwe na amy"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "aria ma hinya"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "a cio ithie"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:47.796372180Z",
+  "model": "glm-5.3"
+}

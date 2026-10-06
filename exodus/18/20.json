@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Na ũmenyeehe ⟨ao⟩",
+      "rationale": "Kĩhibirania kĩrĩ egeshi inyiuũra hĩndĩ imwe; Gĩkũyũ nĩgũkitarĩria mĩena ĩrĩ ta mahĩtia megiĩ hinya wa ciugo"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְהִזְהַרְתָּה",
+      "rationale": "KJVe 'teach', YLT 'warned' — 'nĩ mũgambo wa kũmenya' nĩguo kĩhubirania gĩa kĩhooto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורות nĩ 'Tora' nĩgũo kĩngeranio kĩa D2 gĩa kũtigithia kũtaũrwo ta 'watho' wiki"
+    }
+  ],
+  "translation": "Na ũmenyeehe ⟨את⟩ ⟨ao⟩ ⟨את⟩ mawatho na ⟨את⟩ Tora, ũmenyeehe ⟨arĩa⟩ ⟨את⟩ ũra ũgĩa kũiyũra-inĩ, na ⟨את⟩ ciũra arĩa magĩkũra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "95c2f1cada967ebc47a27cf8caa044ada0aefde9c80f546b8bd6b1b0d524278a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/18\/20-20.1791270986917.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְהִזְהַרְתָּה",
+      "gloss": "Na ũmenyeehe"
+    },
+    {
+      "surface": "אֶתְהֶם",
+      "gloss": "⟨את⟩ ⟨ao⟩",
+      "marks": "andũ arĩa amenyetio"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mawatho"
+    },
+    {
+      "surface": "הַחֻקִּים",
+      "gloss": "mawatho"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "הַתּוֹרֹת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "וְהוֹדַעְתָּ",
+      "gloss": "ũmenyeehe"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "⟨arĩa⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ũra"
+    },
+    {
+      "surface": "הַדֶּרֶךְ",
+      "gloss": "ũra"
+    },
+    {
+      "surface": "יֵלְכוּ",
+      "gloss": "ũgĩa kũiyũra-inĩ"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "kũiyũra-inĩ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciũra"
+    },
+    {
+      "surface": "הַמַּעֲשֶׂה",
+      "gloss": "ciũra"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "יַעֲשׂוּן",
+      "gloss": "magĩkũra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:26.918933631Z",
+  "model": "glm-5.3"
+}

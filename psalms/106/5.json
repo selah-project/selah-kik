@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ndũrĩrĩ yau",
+      "rationale": "גוי אֶחָד thĩinĩ wa Mbere cia Ngai nĩ 'andũ a Yahwe' ti 'andũ a ndũrĩrĩ ingĩ' — kĩugo gĩa Kĩhibirania kĩuga 'mũthingi wa andũ'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשמח \/ בשמחת",
+      "rationale": "ciugo igĩrĩ rua mũri ũmwe — kũkena na gĩkeno; mũhiano ũrĩa ũtikuoagwo na ciugo cia Kĩkũyũ igĩrĩ"
+    },
+    {
+      "kind": "crux",
+      "subject": "arĩa ũthuurĩte",
+      "rationale": "בחיריך: 'arĩa wathuurĩte' kana 'arĩa urĩ na wendo' — maarĩa maKĩhibirania mari 'arĩa wathuurĩte'"
+    }
+  ],
+  "translation": "Nĩgeetha nĩone wega wa arĩa ũthuurĩte, nĩkenage thĩinĩ wa gĩkeno kwa ndũrĩrĩ yau, nĩhĩgane hamwe na kĩrĩko gĩau.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "03856d4282f497368d0752c7e56d7e9798df11b428c4a52e07726779394318f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/106\/5-6.1791270577789.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "nĩgeetha nĩone"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "wega wa"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "arĩa ũthuurĩte"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "nĩkenage"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "thĩinĩ wa gĩkeno kwa"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ndũrĩrĩ yau"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "nĩhĩgane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "kĩrĩko gĩau"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:37.793515378Z",
+  "model": "glm-5.3"
+}

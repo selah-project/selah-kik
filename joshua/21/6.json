@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 21:6",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩciĩ ikũmi na ithathatu",
+      "rationale": "Kũringana wa mĩciĩ ĩhoothe — nĩ kũkanũra gwa kĩheo kĩa cianĩ cia arĩthi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מטה",
+      "rationale": "Mattēh kuuma kũuga mũgũũrũ\/mũthigũ; gĩtatũragwo 'kĩama' (ndundu) nĩ ũndũ wa kĩguni kĩayo."
+    }
+  ],
+  "translation": "Na aana a Gerezoni, kuuma mĩtsĩ ya kĩama kĩa Yicakari, na kuuma kĩama kĩa Acheri, na kuuma kĩama kĩa Nafutari, na kuuma gatigatĩ ka kĩama kĩa Manace harĩa Bacani-inĩ, na kũgũranio, mĩciĩ ikũmi na ithathatu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1c8ccb37d78a46ed078926e48e83353584f68db0e8a36a0d4c2cf55b0f921ab7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/21\/6-6.1791269776193.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Na aana a"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerezoni"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "kuuma mĩtsĩ ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kĩama kĩa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yicakari"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "na kuuma kĩama kĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Acheri"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "na kuuma kĩama kĩa"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Nafutari"
+    },
+    {
+      "surface": "ומחצי",
+      "gloss": "na kuuma gatigatĩ ka"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kĩama kĩa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manace"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "harĩa Bacani-inĩ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "na kũgũranio"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mĩciĩ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ithathatu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:16.193549366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nĩndĩnyitaga tene",
+      "rationale": "Irima rĩa tene: KJV 'ndĩnyitite mbere ya amũthi' (thutha) na YLT\/ASV 'ndĩnyita tene' (kũgera cia tene); kĩugo kĩa kĩrathi kĩrĩa kĩrĩ kĩrungurũ nĩkĩo kĩrĩkĩte gĩcunjĩ-inĩ kĩa tene"
+    },
+    {
+      "kind": "substitution",
+      "subject": "amũthi makũrũ",
+      "rationale": "גדוד nĩ mũthemba ũrĩa wonekaga ta ũrĩa wĩ mũno, ti ũrĩa wonekaga ta 'amũthi makũrũ' o na mwanya"
+    }
+  ],
+  "translation": "Nĩgũkorwo-inĩ wakwa nĩndĩnyitaga tene ya amũthi makũrũ; nĩ Erohimu wakwa nĩndĩgũa kinya mũgũnda.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5dc7b97adecde13848a346239f2ecda8b30fdc5e71cf47f8015c62b150f9d36a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/22\/29-30.1791269953943.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nĩgũkorwo-inĩ wakwa"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "nĩndĩnyitaga tene"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "amũthi makũrũ"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "nĩ Erohimu wakwa"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "nĩndĩgũa kinya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mũgũnda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:13.948611438Z",
+  "model": "glm-5.3"
+}

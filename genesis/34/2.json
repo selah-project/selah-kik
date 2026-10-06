@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכם",
+      "rationale": "Cekemu nĩ rĩĩtwa ria mũndũ na o rĩngĩ rĩa gũũ, ũtarĩ ũmwe ũrĩa ũgũa thutha wa tuugo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויענה",
+      "rationale": "kũhooria ('gũthingithia\/humba') kũngĩtaũrwo ta 'kũheania' (violated) kana 'kũthingithia' (humbled) — andũ a taũri mena ngũĩ"
+    },
+    {
+      "kind": "addition",
+      "subject": "iye",
+      "rationale": "kiugo 'iye' kĩongĩtwo gwĩkĩra kũonania mũndũ ũrĩa andũ agĩikarana nakĩo"
+    }
+  ],
+  "translation": "Cekemu mũrũ wa Hamori, Mũhivi, mwathi wa thĩ ũyo, akĩona ⟨את⟩; nĩamũnyita, agĩikarana ⟨iye⟩ ⟨את⟩, na akamũhooria ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "07aeff8a2401cbacf258686f0256f2a69b79b3eab4862765a7045b4be0431ef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/34\/1-2.1791269286593.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamori"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mũhivi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ũyo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nĩamũnyita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "agĩikarana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "akamũhooria"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:06.607772469Z",
+  "model": "glm-5.3"
+}

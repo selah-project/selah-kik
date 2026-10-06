@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקוב יעקב",
+      "rationale": "Paronomasia: verb עקב (seize the heel, supplant) echoes the name Yaakobu — 'every brother yaʿqov (supplants)', lost in Gĩkũyũ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רכיל יהלך",
+      "rationale": "Lit. 'walks as a talebearer' — one who travels about carrying slander; rendered as 'goes about with hidden slanders'."
+    },
+    {
+      "kind": "addition",
+      "subject": "arĩmwe",
+      "rationale": "Pronoun supplied to mark the object of the warning, absent in Hebrew."
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah",
+      "rationale": "Imperatives address the people directly: 'guard… do not trust'."
+    }
+  ],
+  "translation": "Mũndũ o wothe mwĩrĩ-nĩ wake ⟨arĩmwe⟩ irindetie, na mũrũ wa nyina o wothe mũtikwĩhokie; nĩgũkorwo mũrũ wa nyina o wothe mũhoota-hĩma, na mwĩrĩ o wothe nĩoimaga na mahĩtia marĩ mũhũmũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "faea9f7e1405185dff755862378ec70404d3ba6ea7e6c4625abd804556531b37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/9\/3-3.1791270224803.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "mwĩrĩ-nĩ wake"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "irindetie"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אח",
+      "gloss": "mũrũ wa nyina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũti-"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "kwĩhokie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אח",
+      "gloss": "mũrũ wa nyina"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "mũhoota-hĩma"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "nĩmũhoota"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "mũroori wa mahĩtia"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "nĩoimaga"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:44.821161374Z",
+  "model": "glm-5.3"
+}

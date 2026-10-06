@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 24:19",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירד",
+      "rationale": "Qere irĩtwo ta 'agathamakia' (nĩgũthamakia) na Ketib 'arũgamĩra' — andũ a taũri mehikanagia kana nĩ 'mũthamaki ũrĩa ũrũgamaga kuuma Yaakobu' kana 'nĩngũrũgama athamakia'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mũthamaki⟩",
+      "rationale": "Kĩgomanĩro kĩa andũ gĩa Kĩhibirania kĩiyũrĩtwo nĩ mũthamaki ũmwe; kiugo 'mũndũ\/mũthamaki' kĩongĩtwo kũgĩa mũgambi wa gĩcunjĩ kĩa mbere."
+    },
+    {
+      "kind": "mystery",
+      "subject": "mucĩ",
+      "rationale": "'Mucĩ' ũrĩa wothe ũtaũrĩtwo ũkĩhoro ũhoro wa kũmana kwa andũ aria mathamakĩte nĩ Yaakobu — kiugo gĩtarĩ kĩmwe kĩoneretagĩrĩra andũ arĩa me hau."
+    }
+  ],
+  "translation": "Na kuuma kwa Yaakobu nĩngũrũgama ⟨mũthamaki⟩, na nĩngĩhithithia mũciookia wa ⟨mucĩ⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "21cd99702d9e0ffabda6d3a006368176a59ff40d13474a4192d89fbbd6ffc6b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/24\/19-19.1791269570013.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nĩngũrũgama"
+    },
+    {
+      "surface": "מיעקב",
+      "gloss": "kuuma kwa Yaakobu"
+    },
+    {
+      "surface": "והאביד",
+      "gloss": "na nĩngĩhithithia"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "mũciookia"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "wa mucĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:50.016659495Z",
+  "model": "glm-5.3"
+}

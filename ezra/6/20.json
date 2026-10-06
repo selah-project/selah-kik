@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 6:20",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩmacinjire Pacaha",
+      "rationale": "Hebri ĩugaga 'nĩmacinjire ⟨את⟩ Pacaha' — kĩndũ gĩcinjagwo nĩrĩa kĩa Pacaha, kiugo kĩmwe tu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הטהרו\/טהורים",
+      "rationale": "Mũri ũmwe wa 'theru' ũrarĩkia iria ikũmbĩ — 'methĩrĩtie\/atheru' nĩgũo gĩkũyũ kĩrarĩkia kĩũra gĩake"
+    }
+  ],
+  "translation": "Nĩgũkoruo ahunjũri na Arawi nĩmethĩrĩtie, ta mũndũ ũmwe, aothe arĩ atheru; nĩmacinjire ⟨את⟩ Pacaha kwa cana ciothe cia ũndũrĩre, na kwa aciano ao ahunjũri, na kwa ao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2252623d8427b5a45048eac4be8042084b4a4e2ad2e3492314a27d8154e54921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezra\/6\/19-20.1791270767618.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "הטהרו",
+      "gloss": "nĩmethĩrĩtie"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ahunjũri"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na Arawi"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ta mũndũ ũmwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "arĩ atheru"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "nĩmacinjire"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pacaha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa ciothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "cia ũndũrĩre"
+    },
+    {
+      "surface": "ולאחיהם",
+      "gloss": "na kwa aciano ao"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ahunjũri"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "na kwa ao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:47.626658008Z",
+  "model": "glm-5.3"
+}

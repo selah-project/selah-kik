@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩmagĩcie",
+      "rationale": "שמו 'gũcĩra\/kũhĩtia' — andũ aingĩ maatũrĩta ta 'kũruta' ng'arario, na kĩugo kĩenyũ nĩ 'gũcĩra thĩ'"
+    },
+    {
+      "kind": "crux",
+      "subject": "maũndũ ma ng'arario ciake",
+      "rationale": "דברי אתתיו — 'maũndũ ma ng'arario make' (ASV\/YLT) kana 'magĩrĩra make' (JPS\/KJV); construct ĩgĩrĩirwo gũikarwo ĩrĩa itiĩkĩte"
+    }
+  ],
+  "translation": "Nĩmagĩcie maũndũ ma ng'arario ciake mũingĩ-inĩ wao, na makũrũhio thĩ-inĩ ya Chamu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a2a57eff127788d745f6858e0a171fb6ff81c8774c9d969aed737ff4887d41e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/105\/27-27.1791270539039.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "nĩmagĩcie"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mũingĩ-inĩ wao"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ng'arario ciake"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "na makũrũhio"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ya Chamu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:59.042671522Z",
+  "model": "glm-5.3"
+}

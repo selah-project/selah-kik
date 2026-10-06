@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Aba-rũĩri",
+      "rationale": "Levi nĩ rĩĩtwa ria mũndũ; 'Aba-rũĩri' (ari a rũĩri rwa Levi) nĩ gũtaũra kwa maana, ti kũoya mũgambo wa Kĩhibirania."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mĩgũnda ya kũrĩa igũrũ ithĩo",
+      "rationale": "מגרשיהם nĩ thĩ ya kũgũrũra ng'ombe thĩiniĩ wa mudũũrio — bũrũri ũrĩ muhĩa wa mucĩ."
+    }
+  ],
+  "translation": "Na ciana cia Yiceraeri nĩciaheere Aba-rũĩri ⟨את⟩ mudũũrio na ⟨את⟩ mĩgũnda ya kũrĩa igũrũ ithĩo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0c962b8248976eea058d250650927f3be1a33b58a4ad2f6e30cf76ca4c6f5503",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/6\/49-49.1791270816050.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "nĩciaheere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Aba-rũĩri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudũũrio"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mudũũrio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩgũnda ya kũrĩa igũrũ ithĩo"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "mĩgũnda ya kũrĩa igũrũ ithĩo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:36.055130812Z",
+  "model": "glm-5.3"
+}

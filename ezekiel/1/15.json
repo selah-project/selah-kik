@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 1:15",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "לארבעת פניו",
+      "rationale": "KJV\/BSB 'its four faces' vs ASV\/JPS 'for each of the four faces thereof' — ũgothi ũmwe wa mũndũ kana kwa mũndũ-wo-the; ndakĩhota kũgua rĩngĩ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החיות",
+      "rationale": "'indũrũ cia mĩoyo' (living creatures) — kiugo gĩa Kĩhibirania kĩugaga 'arĩa mĩoyo-mĩĩrũ', ti 'beasts' ya Kĩthwahĩri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיות ... חיות",
+      "rationale": "Kiugo kĩmwe kĩrarĩkio meerũ ĩrarĩkario, mũhianĩre wa Ezekieli ũrĩa wathĩnjĩte thĩinĩ wa kĩgeranio kĩa themanĩrĩru."
+    }
+  ],
+  "translation": "Ndakĩona indũrũ cia mĩoyo, na rũcia! orĩngathi rĩmwe thĩ-inĩ wa thĩ, hakuhĩ nakĩo indũrũ cia mĩoyo, thĩinĩ wa ũgothi wa ngotho ĩnya ciao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c697ed0f3a6743e9f626105166c0ceb7a0bbbdfd8452e66fe9feed826f2a8496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/1\/15-15.1791270269650.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Ndakĩona"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "indũrũ cia mĩoyo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũcia!"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "orĩngathi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rĩmwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ wa thĩ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "hakuhĩ nakĩo"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "indũrũ cia mĩoyo"
+    },
+    {
+      "surface": "לארבעת",
+      "gloss": "thĩinĩ wa ũgothi wa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ngotho ĩnya ciao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:29.666673024Z",
+  "model": "glm-5.3"
+}

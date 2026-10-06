@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 28:21",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rwacio",
+      "rationale": "עוף rwa itũũra rĩa 'ndeerũ' — ciugo igĩrĩ cia Kĩhibirania ciambatagĩra ũũ: mũndũ mwĩhĩku nĩarĩ mũnyiti ũhoro wa indo ciothe cia matu"
+    },
+    {
+      "kind": "addition",
+      "subject": "yayo",
+      "rationale": "kiugo gĩa Kĩgĩkũyũ kĩongerwo kũonania kĩndũ gĩa ũgeni gĩcunjĩ-inĩ gĩa ikũmi na ithano na ithano"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ũgeni",
+      "rationale": "mũhiano ũrĩa ũtarĩ na mũthia — ũgeni nĩũihĩtwo kuuma o mũndũ ũrĩa wona na kũonania na maũndũ mothe ma thĩ"
+    }
+  ],
+  "translation": "Na yo nĩĩihĩtwo kuuma maandũ-inĩ ma o mũru wyothe wa muoyo, na kuuma rwacio rwa matu-inĩ nĩĩitĩkĩtwo ⟨yayo⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "279b6820923b6f05fc6148ceab07c06b9d27eb9db51ded7235fb7869f310791f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/28\/21-21.1791270624610.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְנֶעֶלְמָה",
+      "gloss": "na nĩĩihĩtwo"
+    },
+    {
+      "surface": "מֵעֵינֵי",
+      "gloss": "kuuma maandũ-inĩ"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "ma o"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "wa muoyo"
+    },
+    {
+      "surface": "וּמֵעוֹף",
+      "gloss": "na kuuma rwacio"
+    },
+    {
+      "surface": "הַשָּׁמַיִם",
+      "gloss": "rwa matu-inĩ"
+    },
+    {
+      "surface": "נִסְתָּרָה",
+      "gloss": "nĩĩitĩkĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:24.615814180Z",
+  "model": "glm-5.3"
+}

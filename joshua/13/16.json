@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 13:16",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mũkinyo",
+      "rationale": "Kĩhingo kĩa bũrũri kĩegwanagĩra — mũhiano wa kũgera mĩena ya thĩ ya Rubeni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũthia",
+      "rationale": "שפת nĩ 'mũrongo' wa kanua; handũ ĩngĩ nĩ yoneteka ta mũthia wa kĩanja."
+    },
+    {
+      "kind": "crux",
+      "subject": "וכל המישר",
+      "rationale": "המישר (hamišor) nĩ rĩĩtwa rĩa gĩtũũrĩra kĩa Mediaba; manenji maingĩ matũũraga ta 'ithima rĩa Mideba' kana 'mũrenda wa Medeba' — nĩ rĩĩtwa na mũnyito ũrĩa ũrĩ kwothe hamwe."
+    }
+  ],
+  "translation": "Mũkinyo wao ukĩgera kuuma Eroeri, ĩrĩa ĩrĩ thĩinĩ wa mũthia wa kĩanja kĩa Arnoni, na ⟨mũciĩ⟩ ũrĩa ũrĩ gatagatĩ kwa kĩanja kĩu, na o kĩanja kĩu kwothe, gĩtũũrĩra kĩa Mideba.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cff2b3445402fe33946d1bf7475d99d2a6d955107240257fd903fcb3f3f0fcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/13\/16-16.1791269677815.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ukĩgera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wao"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "mũkinyo"
+    },
+    {
+      "surface": "מערוער",
+      "gloss": "Eroeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mũthia"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kĩanja"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnoni"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na ⟨mũciĩ⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ kwa"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kĩanja kĩu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kwothe"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "kĩanja kĩu"
+    },
+    {
+      "surface": "על",
+      "gloss": "gĩtũũrĩra kĩa"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Mideba"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:37.816495318Z",
+  "model": "glm-5.3"
+}

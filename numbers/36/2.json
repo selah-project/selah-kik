@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 36:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kwĩ Moce",
+      "rationale": "Ciugo ici ciugĩtwo kũrĩ Moce — 'mwathi wĩcio' nĩwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "אדנĩ ĩrĩ kuo ĩgĩcokanĩrĩria yĩĩmba ya niva — ihenya rĩa kĩrĩkanĩro"
+    }
+  ],
+  "translation": "Na makĩuga: Yahwe nĩakuonire mwathi wĩcio atĩ ahe ⟨את⟩ thĩ nĩ kĩrĩkanĩro, na ciaro cia gorari, kũana a Yiceraeri; na mwathi wĩcio nĩetĩrĩirio nĩ Yahwe kũhe ⟨את⟩ kĩrĩkanĩro kĩa Cerapehadi, mũru wĩcio, kũana ake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1de4cf94d53e99d910600e2a5c325f3c52f7bcc9eddc85e88f9b0279b7ef3949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/36\/2-2.1791269573612.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na makĩuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwathi wĩcio"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wĩcio"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nĩakuonire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "atĩ ahe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "nĩ kĩrĩkanĩro"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "na ciaro cia gorari"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kũana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "na mwathi wĩcio"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nĩetĩrĩirio"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nĩ Yahwe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kũhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩa Cerapehadi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "kĩrĩkanĩro kĩa"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Cerapehadi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mũru wĩcio"
+    },
+    {
+      "surface": "לבנתיו",
+      "gloss": "kũana ake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:53.619592949Z",
+  "model": "glm-5.3"
+}

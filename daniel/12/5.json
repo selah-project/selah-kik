@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nĩ ndĩ⟩",
+      "rationale": "Kĩhibirania kĩtarĩ na kiugo gĩa 'nĩ ndĩ' gĩa kũonania mũndũ ũrĩa ũkuona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשפת",
+      "rationale": "gũtaũra kwa 'mũromo' (kana\/mochi wa mũrũ) — mũhiano wa handũ ha 'bengi' rora rwa mũrũ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה…הנה",
+      "rationale": "kũgeria kũgarũra 'harĩa…harĩa' — kĩngereeja kĩrĩa kĩarĩ kana mbere na thutha wa mũrũ"
+    },
+    {
+      "kind": "mystery",
+      "subject": "macio nĩ maũndũ matigĩtwo marĩ igũrũ",
+      "rationale": "thutha wa kũgirĩrwo kwa mawatho na kũthirithirwo kwa gĩbuku (12:4), andũ arĩa erĩ aŋgĩ makĩiya macio nĩ ma thĩinĩ wa kũgeria"
+    }
+  ],
+  "translation": "Nĩndarora ⟨nĩ ndĩ⟩ Danieri, na ona arĩa erĩ aŋgĩ maikaraga magĩmara: ũmwe harĩa kũmũromo-inĩ wa mũrũ, na ũmwe harĩa kũmũromo-inĩ wa mũrũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "83b8f1b6081ab592e50278f44646d5fc3745eab32b3db204ac220e3e2b46977d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/12\/5-5.1791270745231.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "nĩndarora"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨nĩ ndĩ⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danieri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na ona"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "arĩa erĩ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "aŋgĩ"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "maikaraga magĩmara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "kũmũromo-inĩ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "na ũmwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "kũmũromo-inĩ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mũrũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:25.235143991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרשו",
+      "rationale": "'to seek\/inquire after' vs literal 'to tread\/frequent'; rendered 'seek' with all versions"
+    },
+    {
+      "kind": "addition",
+      "subject": "kwa",
+      "rationale": "Hebrew has no preposition between 'far' and 'the wicked'; supplied for Gĩkũyũ"
+    }
+  ],
+  "translation": "Ũhootani nĩ kure kwa arĩa mabi; nĩgũkorwo mawatho maku matararĩire.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9d7748d1d082fd9c5647010d8d9f6f9fb1864fb16567ba558022bc5552db6fea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/119\/155-156.1791270563501.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "arĩa mabi"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ũhootani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mawatho maku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matari"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "matararĩire"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:23.505150342Z",
+  "model": "glm-5.3"
+}

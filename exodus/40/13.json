@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "mafuta",
+      "rationale": "Kĩhibirania kĩa ומשחת kĩa kũmaĩka macini kĩmwe o kĩo; 'mafuta' nĩongerwo nĩgeetha mũhũmũ ũoneke"
+    },
+    {
+      "kind": "substitution",
+      "subject": "arutĩ wĩra wa mũthĩnjĩri",
+      "rationale": "וכהן nĩ ciugo cia kĩrĩkanĩro cia kuuma ithaa rĩa mbere; 'mũthĩnjĩri' nĩ gũtaũra kwa kĩingo kĩa Gĩkũyũ, ti kũhooricia kiugo kĩrĩa kĩrĩ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ūmũtherie",
+      "rationale": "וקדשת no gũtaũrwo 'ũmũtuĩke mũtheru' — gũtherie kwa mũndũ, ti kũtheria kĩndũ kĩngĩ"
+    }
+  ],
+  "translation": "Ndeemũvire ⟨את⟩ Aharoni na nguo cia ũtheru, ũmũmaciakie mafuta, ũmũtherie, na arutĩ wĩra wa mũthĩnjĩri kwarĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "64befe2602a9087a2b2763ebe05cc4f192f114897a29cd1b8bd6c715043e4922",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/40\/13-13.1791269431488.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "Ndeemũvire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cia ũtheru"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ũmũmaciakie mafuta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ũmũtherie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "arutĩ wĩra wa mũthĩnjĩri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwarĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:31.493149250Z",
+  "model": "glm-5.3"
+}

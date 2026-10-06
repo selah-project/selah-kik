@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezekiel 40:49",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ama makũmi mbĩrĩ na ama ikũmi na ĩmwe",
+      "rationale": "Kũgeria kwa uramu kwa ama — kĩgeranio kĩa ũthuthuria wa temero."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל האילים",
+      "rationale": "KJV\/JPS 'kuu macũhũ-inĩ'; BSB 'hathi na ncingo cia mahiga' — איל gĩthingu nĩ 'hinya\/mũthagĩ', ũgĩkũra ta macũhũ kana ncingo cia mothondeke."
+    },
+    {
+      "kind": "substitution",
+      "subject": "magororo",
+      "rationale": "מעלות nĩ 'kũinĩra' ta mũgendi kĩngi; ũtaũri ũcio nĩwo wa kĩgero kĩa kũinĩra, ti kĩndũ gĩa kũoneka."
+    }
+  ],
+  "translation": "Kurei gwa uramu nĩkwo kuare ama makũmi mbĩrĩ, na ũgĩrĩko wayo ama ikũmi na ĩmwe; na harĩ magororo ĩrĩa andũ mainĩraga hau; na ncingo nĩcio ciaarĩ thĩinĩ wa macũhũ, ĩmwe kũu hĩndĩ ĩno na ĩmwe kũu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d553a30713804156c1689898375e6aed72c6e9e002a071973d2b4d6c910db980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/40\/49-49.1791270334233.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "kurei"
+    },
+    {
+      "surface": "האלם",
+      "gloss": "uramu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi mbĩrĩ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na ũgĩrĩko"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na ĩmwe"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ובמעלות",
+      "gloss": "na magororo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kũinĩra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hau"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "na ncingo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "macũhũ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "kũu hĩndĩ ĩno"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "na ĩmwe ĩngĩ"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "kũu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:34.237863632Z",
+  "model": "glm-5.3"
+}

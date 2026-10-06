@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Kĩhibirania gĩtirĩ kiugo kĩa 'nĩ' — copira yothe nĩyongĩtwo"
+    },
+    {
+      "kind": "addition",
+      "subject": "cia",
+      "rationale": "'mang'ania cia thĩnjũ' — kiugo gĩa 'cia' kĩongĩtwo kũonanoria ũrĩa mang'ania iĩ thĩinĩ wa thĩnjũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maũndũ",
+      "rationale": "חיים nĩ 'maũndũ morũ' — ũhoro wa mĩtĩrĩnda; kiugo kĩmwe gĩikaragĩra"
+    }
+  ],
+  "translation": "Tora ya mũũgĩ nĩ rũci rwa maũndũ, kũinũkĩra mang'ania cia thĩnjũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ac286d20218cf5d4968473f9e8ba60eaa497ccd0cb3bca31cb5d69189e8493a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/13\/14-14.1791270548233.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mũũgĩ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "rũci"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "kũinũkĩra"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "mang'ania"
+    },
+    {
+      "surface": "מות",
+      "gloss": "thĩnjũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:08.236827487Z",
+  "model": "glm-5.3"
+}

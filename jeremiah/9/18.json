@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 9:18",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ciyoni",
+      "rationale": "Ciyoni harĩa andũ mehoka nĩ thĩ na mĩgũnda ĩrĩa yarehĩtio na yahotorio nĩ arĩa mahotire, na andũ arĩa maingĩ megũigua maũndũ macio marĩa maũndũ ma Yahwe Ehici-inĩ ciothe"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Nĩtwarehirwo ũguo",
+      "rationale": "ng'arĩro ya kũinama ĩrĩ ya kũigua nĩgethaĩra na kũigua kwa andũ arĩa makoragwo na mahiũ na mahee mbere ya andũ othe"
+    },
+    {
+      "kind": "elision",
+      "subject": "mĩgũnda",
+      "rationale": "thĩ na mĩgũnda ĩrĩa yarehĩtio na yahotorio nĩ arĩa mahotire na kũhota kwa Yahwe Cebaoti"
+    }
+  ],
+  "translation": "Nĩgũkũ kwa ng'arĩro ya kũinama na gũkũinĩra ĩrĩ ya kũigua kuuma Ciyoni: Nĩtwarehirwo ũguo! Nĩtuonanirie mũno, nĩ thĩ ũtukire, nĩ matũĩka nĩgethaĩra matũĩranĩ-inĩ macio mathĩinĩ ma andũ arĩa maingĩ magĩrĩire kũiguithia wĩra ũcio wa kũigua maũndũ ma ng'arĩro na gũthĩna na kwĩhoka nĩ ũndũ wa thĩ na kwa nyũmba iria ciatũũkĩte ihĩtũka kana ihitũkĩte ihinda rĩa kũhĩtũka na andũ makĩrĩa marĩa maingĩ megũkua na gũkua na kũhĩtũkĩra ihinda rĩa gũkũrũ na gũtuĩka andũ arĩa makoragwo na mahiũ na mahee mbere ya andũ othe arĩa maingĩ me kuo na mamenete na mũno nĩ thĩ na mĩgũnda ĩrĩa yarehĩtio na yahotorio nĩ arĩa mahotire na kũhota kwa Yahwe Cebaoti na Yahwe Ehici-inĩ ciothe cia kĩrĩma kĩrĩa kĩrĩ kuo na kĩndũ gĩa kũigua kwa andũ arĩa makoragwo na mehia na mahiũ megiĩ kũigua ng'arĩro ya kũinama na gũkũinĩra na kũigua maũndũ macio marĩa me hĩndĩ ĩno ĩrĩa andũ aria makoragwo matũũranĩ-inĩ makĩigua ng'arĩro na kũhĩtũkĩra andũ arĩa maingĩ megũigua maũndũ macio mothe",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7161fa7332a7afb8ce06299da696dd3802c4a4dc7eb519b4029c2a306d488e32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/9\/18-18.1791270193874.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkũ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ng'arĩro"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "kũinama na gũkũinĩra"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ĩrĩ ya kũigua"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kuuma Ciyoni"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Nĩtwarehirwo ũguo"
+    },
+    {
+      "surface": "שדדנו",
+      "gloss": "Nĩtwarehirwo"
+    },
+    {
+      "surface": "בשנו",
+      "gloss": "Nĩtuonanirie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ũtukire"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "Nĩgethaĩra"
+    },
+    {
+      "surface": "משכנותינו",
+      "gloss": "matũĩranĩ-inĩ macio"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:13.885750851Z",
+  "model": "glm-5.3"
+}

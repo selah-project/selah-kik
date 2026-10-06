@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רק בזדון",
+      "rationale": "רק here reads 'only' (contention comes only from pride) or as noun 'leanness\/empty strife'; ASV\/JPS take 'only', YLT reads a vain man"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חכמה",
+      "gloss": "ũgeni",
+      "rationale": "Kik 'ũgeni' carries counsel\/wisdom sense; Hebrew חכמה is broader skill-and-wisdom"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נועצים",
+      "rationale": "hiphil participle of יעץ — 'those who take counsel together', reciprocal form echoed in the antithesis"
+    }
+  ],
+  "translation": "Rĩra-ĩmwe nĩ kũingĩha kwa ngoro ndwaro kũhũthagĩra kĩrĩa kĩrarĩirwo, no andũ a kĩrĩkanĩro ⟨את⟩ arĩa maahĩtaga ũgeni mambi magĩe nao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "dfed3a72917e2169a75257d0445faf5bb8640589fe3ef713e03589f48a7eb018",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/13\/10-10.1791270523516.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "rĩra-ĩmwe"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "kũingĩha kwa ngoro"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kũhũthagĩra"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "kĩrĩa kĩrarĩirwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ a kĩrĩkanĩro arĩa maahĩtaga ũgeni"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "arĩa maahĩtaga ũgeni"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgeni"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:43.521752207Z",
+  "model": "glm-5.3"
+}

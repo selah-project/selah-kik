@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 9:21",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ĩkwa",
+      "rationale": "Gĩkũyũ ĩreheta kĩhungĩrĩ kĩa riita gĩa kwĩhota; Kĩhibirania kĩrĩ na אנכי ũmwe tu"
+    },
+    {
+      "kind": "crux",
+      "subject": "mĩnini ya Yiceraeri",
+      "rationale": "מקטני שבטי ישראל: 'mĩnini mũno ya mahĩingo' kana 'mĩnini-inĩ ya mahĩingo' — andũ aingĩ amũrĩkira atĩ Binyamini ndaakĩhingo gĩcigo-inĩ kĩa kwarĩ mwarĩ-inĩ"
+    },
+    {
+      "kind": "you",
+      "subject": "kũ Cauru",
+      "rationale": "Cauru agĩcookia agĩũria Cerũeri ũhoro ũcio; gĩko kĩa kũũria kĩrĩa kĩrĩmũthenya"
+    }
+  ],
+  "translation": "Na Cauru agĩcookia na aguuga: Ndi mũrũ wa Yemini, wa mahĩingo ma mĩnini ya Yiceraeri, na mĩhĩrĩnga yakwa nĩ ĩnini mũno harĩ mĩhĩrĩnga yothe ya kĩhingo kĩa Binyamini; ũgĩrĩkĩra nĩkĩndũũrire kũ ngĩ ũhoro ũyũ?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0370e27948541a7777207f8b7566e087e644812783ae285a3c828b1bf83c7030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/9\/21-21.1791269753879.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "agĩcookia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aguuga"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "wa Yemini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ĩkwa"
+    },
+    {
+      "surface": "מקטני",
+      "gloss": "mĩnini-inĩ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kĩhingo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ומשפחתי",
+      "gloss": "na mĩhĩrĩnga yakwa"
+    },
+    {
+      "surface": "הצערה",
+      "gloss": "ĩnini mũno"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "harĩ yothe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mĩhĩrĩnga"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kĩhingo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamini"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ndũũrire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũ ngĩ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ta ũhoro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:53.880037063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 5:23",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גזלה\/גזל · עשק\/עשק",
+      "rationale": "Kĩrĩkanĩro kĩa substantive-rĩtwa na mũri kĩmwe kũcookerithania (gũtherũria\/atherũkĩte, ũcamba\/acembete) — mũhiano ũrĩa ũrahĩrikana Gĩkũyũ-inĩ."
+    },
+    {
+      "kind": "addition",
+      "subject": "ithũĩrainĩ yakwa",
+      "rationale": "`אתו` nĩ ya kũoneria handũ — ĩgĩtie na ⟨את⟩ na kĩng'ethanio gĩa kwarĩrĩria kĩrĩa kĩahĩtĩtwo handũ."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kũcookeria kĩheo",
+      "rationale": "Mũthemba wa kũgeria ng'ania wothe: kĩndũ gĩa kũcookerio kĩarĩkĩrĩtwo nĩ mothe — gũtherũria, ũcamba, gĩcicio, kĩayohetwo."
+    }
+  ],
+  "translation": "Na nĩgũkuĩka rĩrĩa ahinya maũndũ-inĩ makwa na agwetwo nĩ wĩhoke, arute kũcookeria ⟨את⟩ kĩndũ kĩa gũtherũria kĩo arĩ atherũkĩte, kana ⟨את⟩ ũcamba ũrĩa acembete, kana ⟨את⟩ gĩcicio kĩrĩa kĩahĩtĩtwo ithũĩrainĩ yakwa, kana ⟨את⟩ kĩndũ kĩayohetwo kĩo amenyete.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6a292aeba171a31a0bb7653eb34481f24cbdea29a1a837dd79c71f36b617e02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/5\/23-23.1791269424574.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na nĩgũkuĩka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ahinya maũndũ-inĩ makwa"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "agwetwo nĩ wĩhoke"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "arute kũcookeria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ kĩa gũtherũria kĩo arĩ atherũkĩte"
+    },
+    {
+      "surface": "הגזלה",
+      "gloss": "kĩndũ kĩa gũtherũria kĩo arĩ atherũkĩte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩo"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "arĩ atherũkĩte"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũcamba ũrĩa acembete"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ũcamba ũrĩa acembete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "acembete"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcicio kĩrĩa kĩahĩtĩtwo ithũĩrainĩ yakwa"
+    },
+    {
+      "surface": "הפקדון",
+      "gloss": "gĩcicio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "kĩahĩtĩtwo ithũĩrainĩ yakwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-rĩa ithũĩrainĩ yakwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ kĩayohetwo kĩo amenyete"
+    },
+    {
+      "surface": "האבדה",
+      "gloss": "kĩndũ kĩayohetwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩo"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "amenyete"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:24.582082235Z",
+  "model": "glm-5.3"
+}

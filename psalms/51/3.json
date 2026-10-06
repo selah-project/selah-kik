@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ũira",
+      "rationale": "Gĩkũyũ ĩhoya ĩrehithagĩra kĩng'uria-inĩ kĩa ũira; Kĩhibirania nĩ kĩuga gĩa kũũĩra kĩhumo"
+    },
+    {
+      "kind": "elision",
+      "subject": "רחמיך",
+      "gloss_note": "",
+      "rationale": "rahamim — nĩ 'mĩmera ya thĩnĩ' na 'mũitho wa kũigua tha'; kiugo kĩmwe kĩa Gĩkũyũ gĩtarĩ kĩonanagia mondo icio yothe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mĩharo",
+      "rationale": "פשעי nĩ 'mĩharo ya kũhinga ũthamaki' — mũingĩ wa mbaara ya kĩamĩrĩru, ti mahĩtia o kwene"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Erohimu",
+      "rationale": "Kĩhooto kĩrĩa kĩarĩrĩrĩria Erohimu kĩambĩrĩria-inĩ kwa ũthĩ wa Dawidi"
+    }
+  ],
+  "translation": "Nĩndũhe ⟨ũira⟩, Erohimu, ta hecedi wakwa-inĩ waku; ta ũiyũkĩri wa rahamim waku, ũciorithie ⟨את⟩ mĩharo yakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a65d82898827c7466f312b2906def289c108537e3682f08bf088dc29fe29cbc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/51\/3-3.1791270478836.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "nĩndũhe ⟨ũira⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ta hecedi-inĩ waku"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ta ũiyũkĩri wa"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahamim waku"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ũciorithie"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mĩharo yakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:58.840010457Z",
+  "model": "glm-5.3"
+}

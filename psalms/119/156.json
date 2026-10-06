@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tha ciaku",
+      "rationale": "רחמיך is plural 'compassions\/wombs' of God; singular Gĩkũyũ 'tha' loses the plural of intensity"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "direct address to Yahwe in the psalmist's plea"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ta ciira ciaku",
+      "rationale": "JPS reads 'as Thou art wont' (customary acts) rather than 'according to thy judgments'"
+    }
+  ],
+  "translation": "Tha ciaku nĩ cinene, Yahwe; ta ciira ciaku nĩndũraye mũrũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9d7748d1d082fd9c5647010d8d9f6f9fb1864fb16567ba558022bc5552db6fea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/119\/155-156.1791270563501.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "tha ciaku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "cinene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "ta ciira ciaku"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "nĩndũraye mũrũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:23.507777354Z",
+  "model": "glm-5.3"
+}

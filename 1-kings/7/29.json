@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 7:29",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מורד",
+      "rationale": "KJV 'additions of thin work', ASV 'wreaths of hanging work', BSB 'beveled work' — kiugo gĩkũrĩ nĩ 'kũthereroka kwana', ũguo gũtigatarĩkia."
+    },
+    {
+      "kind": "crux",
+      "subject": "כן ממעל",
+      "rationale": "KJV 'a base above', JPS 'in like manner above' — ũrĩa kĩugo kĩa 'כן' kĩmoonwo nĩ andũ a mbere ti gwetererĩ."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ליות",
+      "rationale": "לֹיָה nĩ yiugwo hakuhĩ tu kwĩrĩ ha ũru injĩ-inĩ wa Tanakh — 'mĩgunĩko ya kũringa'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "wathi wa mahema",
+      "rationale": "Kĩcunjĩ gĩkũrĩ nĩ ũthuthuria wa maũndũ ma kũmbayahema ya Cerubamu, wathi wa methe."
+    }
+  ],
+  "translation": "Na igũrũ rĩa mĩcingĩ ĩrĩa ĩrĩ hagati ya mahĩtia, kũrĩ enyanga, ng'ombe, na makarubi; na igũrũ rĩa mahĩtia nĩguo kuuma igũrũ; na thĩ harĩa enyanga na ng'ombe mari, kũrĩ mĩgunĩko, wathi wa kũgunĩka.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5c396fbf2a78b0aa7338af92d46d982a0a6293dd842c9f743bf0227620c1bef6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/7\/29-29.1791269912168.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Na igũrũ rĩa"
+    },
+    {
+      "surface": "המסגרות",
+      "gloss": "mĩcingĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hagati ya"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "enyanga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וכרובים",
+      "gloss": "na makarubi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na igũrũ rĩa"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "mahĩtia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kuuma igũrũ"
+    },
+    {
+      "surface": "ומתחת",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "לאריות",
+      "gloss": "harĩa enyanga"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "ליות",
+      "gloss": "mĩgunĩko"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מורד",
+      "gloss": "wa kũgunĩka"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:32.171708141Z",
+  "model": "glm-5.3"
+}

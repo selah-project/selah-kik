@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nci-cia-mvumbũ",
+      "rationale": "כנים nĩ nci nthũthũ cia mvumbũ; mũhiano ũrendekĩtwo nĩgeetha ũhoro wa mvumbũ wĩrĩitĩkane."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/כנים",
+      "rationale": "Mũtheri wa maũndũ: mvumbũ ya thĩ yothe yaatuĩka maciarie mage; ũhoro ũcio ndũonagio rĩngĩ."
+    }
+  ],
+  "translation": "Na makĩgĩra ũguo; Aharoni agayarũra ⟨את⟩ moko make na mũratũ wake, akagũruta ⟨את⟩ mvumbũ ya thĩ; nĩciakuetwo nci-cia-mvumbũ harĩ mũndũ na harĩ ng'ombe; mvumbũ yothe ya thĩ yaatuĩka nci-cia-mvumbũ thĩ yothe ya Micirayimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8f50428c3030680ce029a46cc20a52cc23549e2207121d40f626924bacca946f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/8\/13-13.1791269321040.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Na makĩgĩra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "agayarũra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko make"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "na mũratũ wake"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akagũruta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvumbũ ya thĩ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mvumbũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nĩciakuetwo"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "nci-cia-mvumbũ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "harĩ mũndũ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na harĩ ng'ombe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mvumbũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaatuĩka"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "nci-cia-mvumbũ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩ yothe ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:41.047344925Z",
+  "model": "glm-5.3"
+}

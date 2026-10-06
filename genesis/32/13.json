@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היטב איטיב",
+      "rationale": "Infinitive-absolute doubling: 'do good — surely do good'; rendered as 'wega o wega', the doubling kept but the verb repetition flattened."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kũbarĩrwo",
+      "rationale": "Seed counted against uncountable sand — numbering imagery at the heart of the promise."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Jacob quotes Yahwe's promise back to Him; the addressee of the quoted speech is God."
+    }
+  ],
+  "translation": "Na iwe nĩwĩrire: Nĩngakũrehera wega o wega, na nĩndĩikie ⟨את⟩ mbegu cĩaku ta macinga ma iria, iria itangĩhota kũbarĩrwo nĩ mĩnene yayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a605f328e5598c6dc9c05531a72d9b27a2276e99c4a92b6c35573b8f0d2a9140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/32\/13-14.1791269302703.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na iwe"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nĩwĩrire"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "o wega"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kũrĩ iwe"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "na nĩndĩikie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbegu cĩaku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbegu cĩaku"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "ta macinga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ma iria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kũbarĩrwo"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "nĩ mĩnene yayo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:22.708432136Z",
+  "model": "glm-5.3"
+}

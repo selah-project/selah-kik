@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ciira cia maũndũ-marũ",
+      "rationale": "תוֹכַחַת חַיִּים: 'reproof of life' (construct, KJV\/ASV) vs 'life-giving reproof' (BSB reads it adjectivally)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אֹזֶן שֹׁמַעַת",
+      "rationale": "personified ear — the ear itself 'hears and lodges'; Hebrew makes the body-part the subject, flattened in Gĩkũyũ to a conditional sense"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mũthomi",
+      "rationale": "proverb summons the reader to be the listening ear that dwells among the wise"
+    }
+  ],
+  "translation": "Gũthũri kũigua ciira cia maũndũ-marũ nĩgũikara gatagatĩ ka arĩa mari na ũgo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6277ff87b846fd03f34ecdec9ca0571e9f35414003a8ef35fd8e71af2014455d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/15\/31-31.1791270536852.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "gũthũri"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kũigua"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "maũndũ-marũ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "arĩa mari na ũgo"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "agĩikara"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:56.856634177Z",
+  "model": "glm-5.3"
+}

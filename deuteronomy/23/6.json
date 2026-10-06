@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 23:6",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wee",
+      "rationale": "Kiugo kĩa kũonania andũ kĩongĩtwo nĩgũkorwo Kĩhibirania kĩa kwarĩ na mũgambo ũcio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קללה\/ברכה",
+      "rationale": "Kũcanjamana kwa thiĩri na ihotoro — kũgereria kuma Yahwe nginya Bireamu — kwa Gĩkũyũ nĩkwahotanĩtio"
+    }
+  ],
+  "translation": "Na Yahwe Erohimu waku ndaakĩririe gũcũũra Bireamu, na Yahwe Erohimu waku nĩagĩrĩire ⟨wee⟩ ⟨את⟩ thiĩri rĩgaitũrũo ihotoro, nĩgũkorwo Yahwe Erohimu waku ndakwendete.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ff0d4d45c6a335bce0be3fc067e0214577b854e9dc541554c31213c6e5cff8e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/23\/6-6.1791269663932.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ndaakĩririe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kũhota maurũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bireamu"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "nĩagĩrĩire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thiĩri"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "thiĩri"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "ihotoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "ndakwendete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:23.933364949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,163 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 35:5",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rũciĩ",
+      "rationale": "אמה nĩ kĩegeranio kĩa gũoko kũrĩ ikũrũmanĩ; 'rũciĩ' ya Gĩkũyũ nĩ yĩingĩ harĩ kĩo"
+    },
+    {
+      "kind": "crux",
+      "subject": "2 vs 1000 cubits",
+      "rationale": "Thutha wa mbere (35:4) wona ng'ethe ĩmwe, hacĩ ng'ethe igĩrĩ — arĩa mataũraga mahĩtia-inĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "igana rĩa nthigũ cia mĩcĩ",
+      "rationale": "Kũkania kwa thara inya cia ng'ethe igĩrĩ kwa rũciĩ"
+    }
+  ],
+  "translation": "Mũkanyie thutha wa mucĩ: ⟨את⟩ thara ya mbere-rũũĩ, ng'ethe igĩrĩ kwa rũciĩ; na ⟨את⟩ thara ya amba, ng'ethe igĩrĩ kwa rũciĩ; na ⟨את⟩ thara ya mbura, ng'ethe igĩrĩ kwa rũciĩ; na ⟨את⟩ thara ya gwatũro, ng'ethe igĩrĩ kwa rũciĩ; na mucĩ ũgĩkũrwo gatagatĩ. Ũyũ nĩguo ndundu ĩme nthigũ cia mĩcĩ ĩyo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ed725d3c72a89bea95cb866247a548accb0ba898eb25a35c4583b5f639ada84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/35\/5-5.1791269563059.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדתם",
+      "gloss": "mũkanyie"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thara ya mbere-rũũĩ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "thara"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mbere-rũũĩ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'ethe igĩrĩ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa rũciĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thara ya amba"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "thara"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "amba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'ethe igĩrĩ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa rũciĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thara ya mbura"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "thara"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbura"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'ethe igĩrĩ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa rũciĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thara ya gwatũro"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "thara"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "gwatũro"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'ethe igĩrĩ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kwa rũciĩ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "na mucĩ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩguo ndundu ĩme"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-ao"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "nthigũ cia"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mĩcĩ ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:43.063935892Z",
+  "model": "glm-5.3"
+}

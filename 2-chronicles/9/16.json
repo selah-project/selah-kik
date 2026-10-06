@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זהב (second)",
+      "rationale": "Hebrew repeats 'gold' but does not name shekels; cekeri njatũ supplied to match the weights sense"
+    },
+    {
+      "kind": "measurement",
+      "subject": "cekeri njatũ cia dahabu",
+      "rationale": "verse counts 300 shields and 300 shekels of gold per shield"
+    }
+  ],
+  "translation": "Na magana matatũ ga macungi ma dahabu ĩyoonjĩtwo, cekeri njatũ cia dahabu nĩciakĩgĩa macungi manjĩ magĩrĩkũ nĩ ũmwe, na mũthamaki akĩmeera macungi mayo thĩinĩ wa nyumba ya kĩgwa kĩa Lebanoni.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4a120eb9eb00bbb010d39225ee2f15740d68361bc3cd2300cf9f4b864f57a417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/9\/16-16.1791270844261.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "Na matatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "macungi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabu"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ĩyoonjĩtwo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "njatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cekeri njatũ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nĩciakĩgĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "manjĩ"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "macungi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "gĩrĩkũ nĩ ũmwe"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "thĩinĩ wa nyumba"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kĩgwa"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanoni"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:04.266012287Z",
+  "model": "glm-5.3"
+}

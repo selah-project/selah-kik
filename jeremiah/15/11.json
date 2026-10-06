@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שרותך",
+      "rationale": "Kiugo gĩa thĩinĩ (lemma שֵרוּת, 'ũkwamĩrĩri') kĩonekaga tanakh yothe hanini hĩndĩ ĩno"
+    },
+    {
+      "kind": "crux",
+      "subject": "שרותך לטוב \/ הפגעתי בך",
+      "rationale": "Andũ a taũra mehĩtie agĩĩkĩra: YLT 'nĩngakũrora wega' ndarĩ ta ASV 'nĩngakũnyitĩrĩra wega'; Kĩhibirania kĩrĩ kĩeho kĩrĩa kĩngĩhota kũgĩa na mĩena ĩrĩ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ndakwarĩrĩirie ... na mũthũ",
+      "rationale": "Kwĩrĩkanyĩra kĩngĩ: 'nĩngahotana na ⟨את⟩ mũthũ ũrĩa-inĩ waku' — פגע ĩngĩhaana kũhura mũndũ kana kũmũteithia, o ĩrĩa nĩ kĩeho gĩa taũri"
+    }
+  ],
+  "translation": "Yahwe arĩ oigĩte: Nĩngakũhotithia kũrĩ wega; ndakwarĩrĩirie hĩndĩ ya ũru na hĩndĩ ya kĩeha na ⟨את⟩ mũthũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ab3d2ed937c420afea07ddfd8bd62312d32f51d4c9ff7061f80ec9c81c7dd2f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/15\/10-11.1791270257654.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "arĩ oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(kũhotoria) tondũ"
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "ngakũhotithia"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kũrĩ wega"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na nĩ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "(ndakũririkania) tondũ"
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "ndakwarĩrĩirie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hĩndĩ ya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "na hĩndĩ ya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kĩeha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthũ"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "mũthũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:17.684898555Z",
+  "model": "glm-5.3"
+}

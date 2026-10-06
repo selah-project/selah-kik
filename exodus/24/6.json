@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gatagatĩ",
+      "rationale": "חצי nĩ 'gatagatĩ kana igũrũ rĩa kĩndũ' — no nĩ 'thĩarĩ' ya motho-inĩ, ta kuuga gatagatĩ ka thĩarĩ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חצי ... וחצי",
+      "rationale": "Mũthero wa mbere na wa keerĩ ũrĩa mohoro ma thaamwe-inĩ matũmĩte — ciugo ibiri iria ciigana"
+    }
+  ],
+  "translation": "Na Moce nĩanyitire thĩinĩ wa ⟨arĩa⟩ ng'ombo cia ciiĩro mbataro ciacio, na Erohimu akinenaria ⟨את⟩ Abarahamu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "16c6aa7c6ff2bc3b236a526c83360d4025f0c4493aece013161a6f16df925693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/24\/6-6.1791269326912.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nĩanyitire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thĩarĩ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nĩatĩkire"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "cĩanja-inĩ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na gatagatĩ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thĩarĩ"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "nĩacĩĩrire"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:46.916739954Z",
+  "model": "glm-5.3"
+}

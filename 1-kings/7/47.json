@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 7:47",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ndĩigwo kũhoroekaga",
+      "rationale": "Hebrew passive נחקר rendered with periphrastic passive Gĩkũyũ requires"
+    },
+    {
+      "kind": "measurement",
+      "subject": "cekeri ya kĩngũ",
+      "rationale": "verse turns on weighing bronze vessels whose weight cannot be searched out"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "doubled 'very very' intensifier; repetition kept as mũno mũno"
+    }
+  ],
+  "translation": "Na Ceromoni akĩhĩa ⟨את⟩ cikũranĩu ciothe kũringana na mĩingĩ mũno mũno; cekeri ya kĩngũ ndĩigwo kũhoroekaga.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "399befc63003e9b4c2c2f6baa591d71b5d0fedecf4957a981556cadea2725391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/7\/47-48.1791269958502.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "akĩhĩa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cikũranĩu ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "cikũranĩu"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kũringana na mĩingĩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "kũhoroa"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "cekeri"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya kĩngũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:18.503212726Z",
+  "model": "glm-5.3"
+}

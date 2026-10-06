@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 18:5",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "arĩ",
+      "rationale": "Hebrew הוא is emphatic pronoun; Gĩkũyũ needs a locative copula 'arĩ' before the verb of encamping"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gĩthaka",
+      "rationale": "המדבר is pasture\/open-field-become-desert; 'gĩthaka' keeps open land, not sand-desert"
+    },
+    {
+      "kind": "measurement",
+      "subject": "place",
+      "rationale": "verse fixes geography: wilderness, encampment site, mount of God"
+    }
+  ],
+  "translation": "Nĩgũcooka Yitiro, mũcawa wa Moce, hamwe na aana make na mutumia wake, agĩthiĩ kũrĩ Moce, thĩinĩ wa gĩthaka kĩrĩa ⟨arĩ⟩ aarĩ amũikarĩcie kuo — kilima kĩa Erohimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8ee9f76aa77876aaddbc18d7b9782682c1bc0f98726cd566eba4f5ed2786df57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/18\/5-5.1791269351002.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nĩgũcooka"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitiro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mũcawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana make"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "na mutumia wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agĩthiĩ kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gĩthaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "aamũikarĩcie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kĩa Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:11.006762111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũrwa",
+      "rationale": "שפם nĩ mũrwa wa thutha (upper lip), ciumũrĩtwo mũno ũrĩa mũndũ wothe aarĩithĩtie — kĩgunĩ kĩa gũcikũrane na gũthĩĩ mũnoro"
+    },
+    {
+      "kind": "alternative",
+      "subject": "arĩa maonaga maonanio",
+      "rationale": "החזים angĩkorwo ĩtaũrwo 'arĩa moragĩra matũ' — 'arĩa maonaga maonanio' nĩ gũkũrania kĩhooto kĩa kuona kwa rũthiomi"
+    }
+  ],
+  "translation": "Na arĩa maonaga maonanio nĩmahonjoka, na arĩa macokagĩra nĩmakwaiguithia ithahau, na nĩmarĩithĩtie ⟨thĩinĩ wa⟩ mũrwa mao othe, nĩ gũtirĩ kũcookeria kwa Erohimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "dfea3e92de8a59ee4dc2417452378457dcd6036a568ac5475d8306c02a10388a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/micah\/3\/7-7.1791270376916.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "nĩmahonjoka"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "arĩa maonaga maonanio"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "nĩmakwaiguithia ithahau"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "arĩa macokagĩra"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "nĩmarĩithĩtie"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "mũrwa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "othe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "kũcookeria"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:16.919685495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 11:25",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to mwathani wa andũ a Amoni",
+      "rationale": "Yifta acokeria mũthamaki wa Amoni na mĩbuko ya mĩthagathagania ĩĩrĩ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרוב רב \/ נלחם נלחם",
+      "rationale": "Infinitive-absolute na kĩugo kĩngĩ hamwe — gũtheri kwa ndũmĩrĩri kĩnyiitagĩra nginya kwa Gĩkũyũ."
+    },
+    {
+      "kind": "crux",
+      "subject": "kana nĩarĩ ngombo ya kũrirũana nao",
+      "rationale": "Hĩndĩ ĩmwe ya mĩbuko ĩyo ĩrĩ mũthemba wa kũũra ũhoro ũrĩa wi muora; ta 'hĩndĩ ĩcio nĩaarĩrĩriirie kũrirũana nao?'"
+    }
+  ],
+  "translation": "Na rĩngĩ, we nĩwĩ kĩega kĩrũngĩrĩru kũrĩ Bairaki mũrũ wa Cipori, mwathani wa Moabu? Nĩagwetete kĩhooto na Yiceraeri, kana nĩarĩ ngombo ya kũrirũana nao?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a492e3368212b204f025a736ed4617eaed03eea69dd778b0c8782e4ab54dc3b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/11\/25-26.1791269805867.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩngĩ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nĩwĩ kĩega"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "מבלק",
+      "gloss": "kũrĩ Bairaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "wa Cipori"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    },
+    {
+      "surface": "הרוב",
+      "gloss": "nĩagwetete kĩhooto"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kĩhooto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nĩarĩ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ya kũrirũana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nao"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:45.869984620Z",
+  "model": "glm-5.3"
+}

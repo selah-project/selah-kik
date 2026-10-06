@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wega wakĩo",
+      "rationale": "יפי nĩ 'wega wa kũona' — makũrire 'ngũmba' nĩagĩrĩirwo kwarĩrĩrio"
+    },
+    {
+      "kind": "you",
+      "subject": "gaku",
+      "rationale": "Kĩmanĩko kĩarĩrĩria mũthomi mwĩhokeka — 'maitho gaku'"
+    }
+  ],
+  "translation": "Maitho gaku nĩmakĩrora mũthamaki thĩinĩ wa wega wakĩo; mahonera thĩ ĩrĩa kũraya.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6bdb5bea86746696520076f1b17ff5f1fbfb15868c7dfbc4e8cf6e491103c1b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/33\/17-17.1791270125517.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "thĩinĩ wa wega wakĩo"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "nĩmakĩrora"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maitho gaku"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "mahonera"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "ĩrĩa kũraya"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:05.520655954Z",
+  "model": "glm-5.3"
+}

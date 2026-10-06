@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 15:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩnakĩnatharia",
+      "rationale": "ואזרם nĩ kũnatharia mbembe na nguraro — kĩhumbo kĩa mũrimũ gĩatũragwo ta kĩgegania kĩa kũragia andũ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשערי הארץ",
+      "rationale": "'Mĩgiro ya thĩ' kana 'mĩgiro ya bũrũri' — ndũrĩrĩ igĩrĩ cia kũgĩa mĩgiro ya thĩ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכלתי אבדתי",
+      "rationale": "Ciugo igĩrĩ ihũrana cia kũhũrithia — nĩ kĩgo kĩa ũthiũ wa Yahwe thĩinĩ wa andũ athĩŋũ-Ngaya"
+    }
+  ],
+  "translation": "Nĩnakĩnatharia ⟨את⟩ andũ arĩa makĩũranĩrwo nĩ nguraro thĩ yense thĩinĩ, nĩ nĩnahũranithia ciana, nĩnaharĩtĩka ⟨את⟩ andũ athĩŋũ-Ngaya arĩa magĩtigĩra magĩcooka kuuma mĩhĩrĩga ciao magĩtiihoya.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f27c783fda6736c121188b1f970f960d12c9c1f91ebad2df53bd977623a36019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/15\/7-7.1791270187663.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזרם",
+      "gloss": "nĩnakĩnatharia"
+    },
+    {
+      "surface": "במזרה",
+      "gloss": "nguraro-inĩ"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "mĩgiro-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "nĩnĩteithĩrĩirie ciana"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "nĩnĩhũrirwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ athĩŋũ-Ngaya arĩa magĩtigĩra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ athĩŋũ-Ngaya"
+    },
+    {
+      "surface": "מדרכיהם",
+      "gloss": "mĩcoro ciao"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "cooka"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:07.682315524Z",
+  "model": "glm-5.3"
+}

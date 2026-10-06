@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũtuma wakwa",
+      "rationale": "מלאך nĩ 'mũtuma' — kiugo kĩmwe kĩoogagwo mũtuma wa Ngai na wa mũndũ; Gĩkũyũ ndĩna kiugo kĩa 'maraki' kĩeha"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨arĩa⟩",
+      "rationale": "kiugo gĩa kũonania kĩheo kĩa ng'ania kĩrĩa kĩrĩ thutha wa והכחדתיו (kĩhumite kuma hamwe na ciugo) nĩgĩcookerwo thĩinĩ wa ⟨…⟩"
+    }
+  ],
+  "translation": "Nĩgũkorũo mũtuma wakwa agĩthiĩ mbere yaku, na akũinire kũrĩ Aemori, na Hachiti, na Pherizi, na Henecani, Hivi, na Yebuci; na nĩngũcothera ⟨arĩa⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7b58685c96f3d40db16a28667d432c331e5a65df302ff68a880983a0b2eed616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/23\/23-23.1791269350051.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "mũtuma wakwa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere yaku"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "na akũinire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Aemori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hachiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Pherizi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Henecani"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebuci"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "na nĩngũcothera ⟨arĩa⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:10.054115368Z",
+  "model": "glm-5.3"
+}

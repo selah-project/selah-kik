@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "daniel 2:41",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצבתא",
+      "rationale": "'ũgĩkũru\/kũgĩma' kana 'hinya' — JPS 'firmness', KJV 'strength'; nĩyahũũrĩtwo ta 'hinya'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ithi-inĩ",
+      "rationale": "מנהון (min-hon 'kuuma icio') nĩyo nyiitagĩra 'igice' — 'part of' wa Kĩgĩthũngũ."
+    },
+    {
+      "kind": "mystery",
+      "subject": "kĩgeranio kĩa Nabukadnecara",
+      "rationale": "Kĩgeranio kĩrĩa kĩrahunjĩtwo; Taratano ndangĩmenya ũhoro wake o na thayũ ya Ngai."
+    }
+  ],
+  "translation": "Na rĩrĩa wonire ⟨את⟩ magũrũ na ⟨את⟩ makeremanyi, ithi-inĩ mĩcaro ya mũthondeki wa nyungo, na ithi-inĩ parazero, ũthamaki wa gĩteganu nĩgũakorũo; no kuuma hinya wa parazero nĩgũakorũo thĩinĩ wakuo, tondũ rĩrĩa wonire parazero iroganĩtwo na mĩcaro ya thĩ iĩ mĩrũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fe1be6298ec175fc9e7d54ae69641ac322726fccff552389f8f561bcb02b5288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/2\/41-41.1791270731648.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודי",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "חזיתה",
+      "gloss": "wonire"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "magũrũ"
+    },
+    {
+      "surface": "ואצבעתא",
+      "gloss": "na makeremanyi"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "ithi-inĩ"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "mĩcaro"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "פחר",
+      "gloss": "mũthondeki wa nyungo"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "na ithi-inĩ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "parazero"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "פליגה",
+      "gloss": "wa gĩteganu"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "nĩgũakorũo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "no kuuma"
+    },
+    {
+      "surface": "נצבתא",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "parazero"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "nĩgũakorũo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "thĩinĩ wakuo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "tondũ"
+    },
+    {
+      "surface": "די",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "חזיתה",
+      "gloss": "wonire"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "parazero"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "iroganĩtwo"
+    },
+    {
+      "surface": "בחסף",
+      "gloss": "na mĩcaro"
+    },
+    {
+      "surface": "טינא",
+      "gloss": "ya thĩ iĩ mĩrũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:11.649377502Z",
+  "model": "glm-5.3"
+}

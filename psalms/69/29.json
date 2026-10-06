@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "arĩa me maũndũ-inĩ",
+      "rationale": "חיים nĩ 'arĩa mei' — 'kĩbuku kĩa arĩa mei', ti rĩĩtwa rĩa thutha"
+    },
+    {
+      "kind": "crux",
+      "subject": "kĩbuku kĩa arĩa mei",
+      "rationale": "חיים: 'book of the living' (arĩa mei rĩu) kana 'book of life' (kĩrĩkanĩro kĩa maũndũ marĩa marĩ thutha)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחה\/כתב",
+      "rationale": "kuohania na gũthira: kĩhandĩ kĩumwo na gũthirwo kĩandĩkĩro-inĩ — ihuo ithatu itari thĩinĩ wa kĩguni kĩmwe"
+    }
+  ],
+  "translation": "Nĩmothamwe kuuma kĩbuku-inĩ kĩa arĩa me maũndũ-inĩ, na hamwe na arĩa athekenĩ cedeki ⟨אל⟩ matandĩkwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6bd70b0fa175ecb7bcf16d86e9c7e7b6f9793a5fddbeb83f056f400030de8469",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/69\/29-29.1791270496133.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "nĩmothamwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kuuma kĩbuku-inĩ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kĩa arĩa me maũndũ-inĩ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na hamwe na"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa athekenĩ cedeki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "matandĩkwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:16.142252075Z",
+  "model": "glm-5.3"
+}

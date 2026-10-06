@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערפל",
+      "rationale": "'gĩcunjĩ kĩa mwaki-inĩ gĩa thĩ' nĩ kĩuga kĩa kũhũthĩra ũrĩa kĩngĩeceria thano rĩa igũrũ rĩrĩa rĩagĩte"
+    }
+  ],
+  "translation": "Akagita igũrũ, na akĩthii thaũ; na o rĩhuho rĩnini rungie thĩinĩ wa magũrũ make.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "82f7029d95be277e07bd51c898aed02a4d3d98298cf97335b9dd9a26a5095d8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/22\/10-10.1791269919436.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "akagita igũrũ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akĩthii thaũ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "rĩhuho rĩnini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "magũrũ make"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:39.436836977Z",
+  "model": "glm-5.3"
+}

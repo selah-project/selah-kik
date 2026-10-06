@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המחלצות",
+      "rationale": "nguo cia kũhindũra kana cia ũtheri: 'changeable suits' (KJV), 'festival robes' (ASV), 'costly apparel' (YLT)"
+    },
+    {
+      "kind": "crux",
+      "subject": "החריטים",
+      "rationale": "kĩhunjio gĩa kũina: 'crisping pins' (KJV), 'satchels' (ASV), 'purses' (YLT)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "החריטים",
+      "rationale": "kiugo gĩkoragwo Tanakh-inĩ ya ha ũno tu"
+    }
+  ],
+  "translation": "Nguo cia mwanya, na jamaa, na mĩtikwe ya kũgũrica, na mathodi;",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a5d723207ac9b2b2e75755110c6695925fae272dd173e562722f5b0ddd6c1081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/3\/21-23.1791270170904.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "nguo cia mwanya"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "mĩtikwe ya kũgũrica"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "mathodi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:50.917876585Z",
+  "model": "glm-5.3"
+}

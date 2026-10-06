@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 19:15",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "Aleph-tav ya kũonia ndagĩrĩrwo gũtaũrwo; yaahĩtĩtwo na ⟨את⟩."
+    },
+    {
+      "kind": "addition",
+      "subject": "hĩndĩ ya ũtũkũ",
+      "rationale": "ללון ĩgĩtaũrwo na kĩgeranio gĩa 'kũgorora hĩndĩ ya ũtũkũ' kana gĩthomi kĩmwe gĩa Gĩkũyũ gĩtarĩ kĩo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ברחוב",
+      "rationale": "Rehob nĩ 'ũira\/ũhũra wa mũthenya'; JPS na YLT moigaga 'broad place', Kĩgĩkũyũ kĩgĩtua ũira wa mucĩ."
+    }
+  ],
+  "translation": "Magĩcooka kũhĩra kũinjĩra kũgorora hĩndĩ ya ũtũkũ thĩinĩ wa Gibhea; na akĩinjĩra, agĩikara thĩinĩ wa ũira wa mucĩ, na gũtirĩ mũndũ ũngĩkuunga ⟨את⟩ macio ⟨ĩnyumba⟩ ũgorore thĩinĩ wa ũtũkũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7f646427a7e406f84ab645bd2db6446038d85d96ea45042b326686884fa7a8b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/19\/15-15.1791270982368.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "Magĩcooka kũhĩra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kũinjĩra"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "kũgorora hĩndĩ ya ũtũkũ"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "thĩinĩ wa Gibhea"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "na akĩinjĩra"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "thĩinĩ wa ũira"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mucĩ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "ũngĩkuunga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "macio"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ĩnyumba"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "ũgorore thĩinĩ wa ũtũkũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:22.369359941Z",
+  "model": "glm-5.3"
+}

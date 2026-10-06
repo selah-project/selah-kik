@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Gĩkũyũ nĩ ĩhũrĩtie mũthaguke wa mahinda ũrĩa Kĩhibirania gũtarĩ nakĩo"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעבתים",
+      "rationale": "Kwiyũriria kwa mahinda: 'cords' (Geneva\/KJV) kana 'boughs' (JPS) — ciugo cĩgĩrĩ igĩa kuuma kĩguni kĩmwe gĩa kũhonokia ibura"
+    },
+    {
+      "kind": "crux",
+      "subject": "חג",
+      "rationale": "Kiugo gĩa ibura kana kĩheo kĩa ibura — 'festal sacrifice' (KJV) kana 'festival procession' (JPS)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Kĩcirania kĩa kĩundũ kĩonetwo nĩ ⟨את⟩ — ibura rĩa cikamanĩrwo"
+    }
+  ],
+  "translation": "Ere nĩ Yahwe, na nĩatũrire ũtheri; cikamanĩrite ⟨את⟩ ibura na mĩkwa, gĩkũro kana mahugu ma tebere.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1e30555e671a9cda7233f36547a413df0b1afb6e11fd1fd55a4fbbe8a267968d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/118\/27-27.1791270549067.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "nĩatũrire ũtheri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "hatũ"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "cikamanĩrite"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ibura"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "na mĩkwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkũro kana"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "mahugu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "tebere"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:09.071364823Z",
+  "model": "glm-5.3"
+}

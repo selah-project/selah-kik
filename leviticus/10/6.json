@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 10:6",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השרפה\/שרף",
+      "rationale": "Noun 'mũrĩo' na verb 'gũtatĩra mũrĩo' cihuuranĩtio na mũthemba ũmwe wa kiugo — kĩhumo kĩa kĩngeranio kĩa Kĩhibirania kĩetagwo two-branch wordplay; Gĩkũyũ gĩcokagĩrĩra kiugo kĩmwe gĩa mũrĩo."
+    },
+    {
+      "kind": "you",
+      "subject": "Aharoni na aana make",
+      "rationale": "Moce agĩrĩirie mũhiano ũrĩa mũthenya ũcio hamwe na Ereazari na Itamari thĩinĩ wa mũthenya ũcio mwaigana."
+    },
+    {
+      "kind": "crux",
+      "subject": "ראשיכם אל תפרעו",
+      "rationale": "'Kũhũrũragwo kwa mĩtwe' handũ ha 'kũvumbũka kwa mĩtwe' (KJV 'uncover not your heads') gĩtĩmĩrĩirie na ASV\/JPS 'let not the hair go loose'."
+    }
+  ],
+  "translation": "Moce akiuga atĩrĩ kũrĩ Aharoni na kũrĩ Ereazari na kũrĩ Itamari, aana make: Mĩtwe yanyu mũtigwo kũhũrũragwo, na magũrũo manyu mũtĩmemeagwo, mwĩrende kũrwa, nĩgũkorwo ũthũũrio ũkĩthĩnakĩa mũthingi wothe; na arĩa nimwe aanyu aciano, nyũmba yothe ya Yiceraeri, ndĩoratĩrie ⟨את⟩ mũrĩo ũrĩa Yahwe nĩmwatĩire mũrĩo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8c6d8c665b2ad12bcdd1f02546ffb04c3b78f49241e67da03c3897164f8ca4da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/10\/6-6.1791269415930.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ולאלעזר",
+      "gloss": "na kũrĩ Ereazari"
+    },
+    {
+      "surface": "ולאיתמר",
+      "gloss": "na kũrĩ Itamari"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mĩtwe yanyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũtigwo"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "kũhũrũragwo"
+    },
+    {
+      "surface": "ובגדיכם",
+      "gloss": "na magũrũo manyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "תפרמו",
+      "gloss": "memethage"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mwĩrende"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "kũrwa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũthingi wothe"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "ũkĩthũũrĩa"
+    },
+    {
+      "surface": "ואחיכם",
+      "gloss": "na aanyu aciano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ndĩoratĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrĩo ũrĩa Yahwe nĩmwatĩire mũrĩo"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "mũrĩo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "nĩmwatĩire mũrĩo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:15.934976140Z",
+  "model": "glm-5.3"
+}

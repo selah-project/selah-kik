@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 12:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cuma",
+      "rationale": "נחשת is copper\/bronze specifically; Gĩkũyũ cuma says only 'metal', losing the metal's identity."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "Literally 'upon the hand of'; rendered thĩinĩ wa makĩrĩ, 'into the hands of', the Hebrew idiom of entrusting."
+    },
+    {
+      "kind": "alternative",
+      "subject": "atongoria a arĩa-macĩra",
+      "rationale": "שרי הרצים literally 'chiefs of the runners', the royal bodyguard; 'chief of the guard' (KJV) flattens the running."
+    }
+  ],
+  "translation": "Mwathi Rahabeamu nĩaekire ngaco cia cuma handũ ha icio, na akĩwekia thĩinĩ wa makĩrĩ ma atongoria a arĩa-macĩra, arĩa mathiikaraga mũrango-inĩ wa nyũmba ya mwathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d3ff2927a17e634f654ffb44c793eb52bf982417c3df81ec903cc7bb5656d54e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/12\/9-10.1791270970630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩaekire"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mwathi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahabeamu"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "handũ ha icio"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngaco"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cia cuma"
+    },
+    {
+      "surface": "והפקיד",
+      "gloss": "na akĩwekia"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makĩrĩ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "arĩa-macĩra"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "arĩa mathiikaraga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrango-inĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:10.632637029Z",
+  "model": "glm-5.3"
+}

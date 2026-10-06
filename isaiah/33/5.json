@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩmũkĩrĩtwo",
+      "rationale": "נשגב nĩ 'kũingĩha kĩndũ gĩtigwo kĩngĩhota kũnyita' — gĩcunjĩ kĩa 'kũhonokera' kĩa kiugo kĩĩ nginya gĩciekĩtwo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nĩwe⟩",
+      "rationale": "Gĩkũyũ ĩhũthagĩra kĩgunyi kĩonekanie nĩ ũrĩa ũikaraga igũrũ; Kĩhibirania kĩarĩ na gĩgunyi kĩa kĩhooto tu kĩa שכן"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Kĩhooto gĩa 'nĩgũkorwa' — kĩngĩũka 'tondũ' (kũonania ithĩo) kana 'rĩrĩa' (kũonania hĩndĩ)"
+    }
+  ],
+  "translation": "Yahwe nĩmũkĩrĩtwo, nĩgũkorwa ⟨nĩwe⟩ ũikaraga kũrĩa kwegũrũ hĩndĩ ciothe; aniĩrĩte ⟨את⟩ Ciyoni ciira na cedeki.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "25cbc0d21837aa29562abec2cb2e2b8a5b9c9e478b3fa6d2201bbc61d26f42cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/33\/5-5.1791270123637.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "nĩmũkĩrĩtwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ũikaraga"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kũrĩa kwegũrũ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "aniĩrĩte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "na cedeki"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:03.641053790Z",
+  "model": "glm-5.3"
+}

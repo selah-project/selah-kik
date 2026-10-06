@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 14:18",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "mũtumia",
+      "rationale": "mũthamaki akũrĩkĩra mũtumia moimbi na mũrogi wa kũũria — kwohereria kwa mũhaka wa kana"
+    }
+  ],
+  "translation": "Mũthamaki akarĩria na akiuga na mũtumia atĩrĩ: Ndũkahũithie ihinda nĩndakũũria ⟨את⟩. Mũtumia akiuga: Mwathi wakwa mũthamaki, ũrarĩkĩrĩra akuuge.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "54c0930c22f77379fbf8a1c5116574efa8d4cdaf098eb5062ab2fdc34f824328",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/14\/17-19.1791269900371.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akarĩria"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nakũ"
+    },
+    {
+      "surface": "תכחדי",
+      "gloss": "hũithie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩnda"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kũũria"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ rĩa ndakũũria"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ũrarĩkĩrĩra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "akuuge"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:20.379640450Z",
+  "model": "glm-5.3"
+}

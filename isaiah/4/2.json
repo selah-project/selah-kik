@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũmera",
+      "rationale": "צמח nĩ mũmera ũrĩa ũmerekete — kiugo kĩa kĩhumo kĩngĩ kĩonekaga ta rĩĩtwa rĩa Maciaki"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפליטת ישראל",
+      "rationale": "'arĩa mahũrũkĩte ũndũire' kana 'arĩa maheanĩte' — palit nĩ gũthurũka kana kũhũrũka kwa thĩinĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "arĩ na mawatha manine",
+      "rationale": "Mũthenya ũcio — ngũraro ya mũthenya wa Yahwe, kĩgero kĩa mahinda"
+    }
+  ],
+  "translation": "Mũthenya ũcio, mũmera wa Yahwe nĩgũtuĩka ũtheri na kĩhooto, na mbegu cia thĩ nĩgũtuĩka ũthingũ na ũthemba, nĩ wega mwĩhocheoni wa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c530cd582be47883af7f1c50f760fde32f3f37b7bbc3a5b75cc8c206a84d84fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/4\/2-2.1791270125315.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mũthenya ũcio-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgũtuĩka"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "mũmera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "na kĩhooto"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "na mbegu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cia thĩ"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ũthingũ"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "na ũthemba"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "nĩ wega mwĩhocheoni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:05.319724680Z",
+  "model": "glm-5.3"
+}

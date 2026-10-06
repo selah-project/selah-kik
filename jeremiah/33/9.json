@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 33:9",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "cia",
+      "rationale": "Gĩkũyũ ĩhĩtĩka mũheanĩre wa gĩcunjĩ-kĩmwe kĩa ndemwa ngari cia thĩ; Kĩhibirania nĩ gũothe gwa gũcooka"
+    }
+  ],
+  "translation": "Nĩgũtuĩkaga kĩakwa rĩĩtwa rĩa gũkeno, rĩa kũgooca na rĩa kĩeheria, harĩ ndũrĩrĩ ciothe cia thĩ, iria ciakuaga ⟨את⟩ wega wothe ũrĩ nĩndĩ nĩngĩhota ⟨את⟩ macio, na macĩehanĩra na mathĩnjitha nĩhoro wa wega wothe na thayo yothe ũrĩ nĩndĩ nĩngĩhota kĩayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e3b4413f24c31928434208c1fde0eb132f64a6b5be496970a86cfdf7467c08f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/33\/9-9.1791270243033.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "nĩgũtuĩkaga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kĩakwa"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gũkeno"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "rĩa kũgooca"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "na rĩa kĩeheria"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "ndũrĩrĩ ciothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cia thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ciakuaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wega wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩngĩhota"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ macio",
+      "marks": "macio (ndũrĩrĩ)"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "na macĩehanĩra"
+    },
+    {
+      "surface": "ורגזו",
+      "gloss": "na mathĩnjitha"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩhoro wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wega"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na nĩhoro wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "thayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩngĩhota"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kĩayo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:03.086059156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "hatheru",
+      "rationale": "ngatho (kwohera ngatho) no yo imwe ya mĩhiano ya kĩrĩkanĩro ya kutonya handu hatagĩkĩtwo (Lev 13:46); mantie hatheru njega ya tethe   wa reo rĩa ngatho harĩa iri mwanya-inĩ wao"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקצע\/הקצו",
+      "rationale": "mũrĩ-ũmwe ũrĩa ũkaahiranĩa kwaru na kwarũkwo: akaharithia\/maharithie—Gĩkũyũ nĩgekũmena mũthĩarĩ wa ũrĩa wambĩrĩirie na ũrĩa waamũrirĩirie (ka-ru ru-ru\/ru) na thĩarĩ igĩrĩ njega mũno"
+    },
+    {
+      "kind": "hapax",
+      "subject": "העפר",
+      "rationale": "thabari ĩno nĩ ya ũgima mũthemba-inĩ wa maũndũ ma mũciĩ mwanya-inĩ ũrĩa ngatho irĩ thĩ (i.e., thabari ĩrĩa ĩharũrangĩra ngatho ya muciĩ); ũgima ũrĩa wothe ti wĩrĩagĩrĩru nĩ kũgĩa na ndeto ya gũkinyanĩra na o ũmwe thĩinĩ wa kondemwa njegovu cia mũciĩ ũrĩa mwarĩirie"
+    }
+  ],
+  "translation": "Na ⟨את⟩ nyumbu akaiharithia nthĩ-inĩ yayo thayari yothe, na mahiure ⟨את⟩ thabari iria maharithie ngatho ya mucĩ, handu hatheru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "3097cd6ab5726a7fac0e68560a07ad74c06dabd545bb870116a91b4850868a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/14\/41-41.1791269504886.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "nyumbu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumbu"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "akaharithia"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nthĩ-inĩ yayo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "thayari yothe"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "na mahiure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thabari"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "thabari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "maharithie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngatho ya"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "handu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "hatheru"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:44.888334871Z",
+  "model": "glm-5.3"
+}

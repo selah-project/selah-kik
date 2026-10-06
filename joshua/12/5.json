@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 12:5",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩthenji",
+      "rationale": "Kĩcunjĩ kĩa kũranithia mĩthenji ya ũthamaki wa Ogi na Cihoni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mwathi",
+      "rationale": "`מלך` nĩ mwathi wa mũndũ, ti Ngai; kiugo kĩa Gĩkũyũ kĩega harĩ mũndũ."
+    }
+  ],
+  "translation": "Na akathamakia irĩma-inĩ rĩa Heremoni, na rĩngĩ Calka-inĩ, na Bacani yothe, nginya mũthenji wa Gecuri na wa Maakati, na ciĩnjĩrĩ rĩa Girĩadi — mũthenji wa Cihoni, mwathi wa Cecboni.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "41d8bc8d2346043d22eb1ef1648061d219b94d43745f9f3413fcf0a3d62eb28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/12\/5-5.1791269683290.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "akathamakia"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "irĩma-inĩ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Heremoni"
+    },
+    {
+      "surface": "ובסלכה",
+      "gloss": "na Calka-inĩ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bacani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mũthenji"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "wa Gecuri"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "na wa Maakati"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na ciĩnjĩrĩ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Girĩadi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mũthenji"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Cihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cecboni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:43.291169296Z",
+  "model": "glm-5.3"
+}

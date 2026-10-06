@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 27:21",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Gĩkũyũ noĩngere kĩgeranio 'wa' kuuma Erohimu hamwe na Yiceraeri, kĩhibirania gĩtarĩ kĩnayo"
+    },
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "'na' mbere ya Yerucarayimu ĩongererwo thutha wa Yuda, o ta kĩratĩini gĩa Kĩhibirania"
+    }
+  ],
+  "translation": "Nĩ acio Yahwe Cebaoti, Erohimu wa Yiceraeri, oigĩte ũhoro wa indo iria ciicarĩte nyũmba ya Yahwe, na nyũmba ya mũthamaki wa Yuda, na Yerucarayimu,",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "62f5f851f95c545e740eeef8eda5f923848b23532f75463f4ea10ecca06b110d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/27\/21-21.1791270195104.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ acio"
+    },
+    {
+      "surface": "כה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũhoro wa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "indo"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "iria ciicarĩte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na nyũmba ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:15.113564196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 3:20",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המקרה",
+      "rationale": "'thoome' (cooling) handũ ha 'summer parlour' (KJV) kana 'roof chamber' (YLt, kuuma מקרה = thĩngrũ\/thambo); Gĩkũyũ gĩtakua mbaara ya ciugo icio."
+    },
+    {
+      "kind": "secret",
+      "subject": "דבר אלהים לי אליך",
+      "rationale": "Ehubu agwata kĩugo kĩa Erohimu ta kĩhunja kĩrĩa kĩnyitĩtwo mbere ya thĩnga (andũ maitĩkĩtie thĩga, 'yoo 3:19) — ũhoro ũrĩa wahũnjĩtwo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wĩraĩ wĩyone",
+      "rationale": "Hebrew אשר לו לבדו nĩ mĩhianĩre ĩrĩ na ciugo igĩrĩ (that to-him alone); Gĩkũyũ ĩgĩcokanĩrĩra ta ciugo ĩmwe."
+    }
+  ],
+  "translation": "Nawĩ Ehubu akĩũmbũka kũũrĩ we, na we warĩ akyarĩ arĩ mũcyi wa thĩngrũ thoome-inĩ wĩraĩ wĩyone, na Ehubu akiuga: Kiugo kĩa Erohimu nĩnĩ nĩna kwa we. Nake akĩyamba kuuma gĩcwa-inĩ gĩake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "38829542d1f20095b76371df603b523a179e68f786b08b012f8679822ff9e6a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/3\/20-20.1791269753173.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "nawĩ Ehubu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akĩũmbũka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũũrĩ we"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "warĩ akyarĩ"
+    },
+    {
+      "surface": "בעלית",
+      "gloss": "mũcyi wa thĩngrũ"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "thoome-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wĩraĩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wĩake"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wĩyone"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehubu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kĩa Erohimu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩnĩ nĩna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwa we"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akĩyamba"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "gĩcwa-inĩ gĩake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:53.173606894Z",
+  "model": "glm-5.3"
+}

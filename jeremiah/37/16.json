@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "החניות",
+      "rationale": "חניות (vaulted cells) ikionekana tanakh-inĩ yothe ha kĩhingo kĩu tu; ndĩtwo 'ciutura' wa kĩtheri"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית הבור",
+      "rationale": "kwehereria: 'nyũmba ya mũgimo' — wathani-inĩ wa matukũ ma mbere KJV 'dungeon', ylt\/asv\/jps 'dungeon-house'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "gĩtheri kĩa 'ya' gĩkonainie nyũmba na mũgimo, kĩrĩa Kĩhibirania kĩa 'construct' kĩrĩ na wega ũngĩ"
+    }
+  ],
+  "translation": "Nĩgeetha Yeremiyahu akĩinjĩra nyũmba-inĩ ya mũgimo na ciutura-cio, na Yeremiyahu aikarĩra kuo mĩthenya mĩnene.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0e6bbe3fc72fa5177971954764c3eb3acf52407bf3488bb1f70b254d49faa621",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/37\/16-16.1791270204669.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akĩinjĩra"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "mũgimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "ciutura"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "aikarĩra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiyahu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mĩnene"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:24.678519868Z",
+  "model": "glm-5.3"
+}

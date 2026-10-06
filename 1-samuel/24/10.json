@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעתך",
+      "rationale": "רע = kĩuru (ũndũ mũru wa mũthemba wothe); ti 'kũhĩtũkĩra' wiki"
+    },
+    {
+      "kind": "you",
+      "subject": "to Cauri",
+      "rationale": "Dawindi ekũria kĩuria kĩa mwĩhoko kĩa mũmera hamwe na Cauri mwathi wĩra"
+    }
+  ],
+  "translation": "Na Dawindi akanĩra Cauri: Kwa kĩa gĩkĩ ngĩigua ⟨את⟩ ciugo cia andũ makĩuga, Rĩrĩ, Dawindi nĩendete kĩuru gĩaku?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "688ae987683e071b50b9187bf2c7295533072fecdf70890c9c077956dad9e334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/24\/10-10.1791270997933.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akanĩra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawindi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kwa kĩa gĩkĩ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia andũ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawindi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "kĩuru gĩaku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:37.938785088Z",
+  "model": "glm-5.3"
+}

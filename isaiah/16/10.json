@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירנן\/ירעע",
+      "rationale": "Kĩhibirania kĩarĩ kũhana ta-inĩ: kũina na kũigua ũgu — mĩario ĩĩrĩ ihananine gĩkonjo kĩa kwendwo nĩ andũ, gĩthingo gĩake gĩtihota kũhũthĩra Gĩkũyũ."
+    },
+    {
+      "kind": "crux",
+      "subject": "הידד",
+      "rationale": "Kiugo gĩkĩ kĩa kũigua ũgu wa andũ arĩa marĩ mahiga-inĩ — gĩcunjĩ kĩa Isaia 16:10 kĩrĩ na kĩũmbe kĩa kũigua ũgu; ta 'ũgu wa mbũgũ' kana 'ũgu-ũrĩa-ũgwatĩte' handũ ha 'kũigua ũgu wa mahiga'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הידד",
+      "rationale": "Hebrew heidad is the vintage-shout itself, not just cheering; Gĩkũyũ 'ũgu-ũrĩa-ũgwatĩte' keeps the shout, loses the harvest link."
+    }
+  ],
+  "translation": "Na gĩkeno na kũgĩakĩra nĩkĩnyitithanwo kuuma kĩanda gĩa mĩmera; na kĩanda-inĩ gĩa mĩmera ti kũinwo, ti kũigua ũgu ũrĩa ũgwatĩte; mũthiũrũri aragĩta mũgĩna ti mũgĩna handũ harĩa mahiga ma kũnyiitira mũgĩna marĩ; ũgu-ũrĩa-ũgwatĩte nĩnĩciarii kũikara.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5549e190e1d1e93273a84fa172efa549f088e41345db0780f859ebd9a6a70ece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/16\/10-10.1791270155157.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "nĩkĩnyitithanwo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gĩkeno"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "na kũgĩakĩra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "kĩanda gĩa mĩmera"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "na kĩanda-inĩ gĩa mĩmera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "kũinwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "kũigua ũgu ũrĩa ũgwatĩte"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mũgĩna"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "handũ harĩa mahiga ma kũnyiitira mũgĩna marĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "aragĩta"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "mũthiũrũri"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "ũgu-ũrĩa-ũgwatĩte"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "nĩnĩciarii kũikara"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:35.162635857Z",
+  "model": "glm-5.3"
+}

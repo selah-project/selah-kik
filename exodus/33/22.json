@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 33:22",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ũthĩku",
+      "rationale": "כבוד nĩ 'ũmĩrĩku\/ũira'; 'ũthĩku' nĩ gĩtaũra gĩa kũgerania"
+    },
+    {
+      "kind": "elision",
+      "subject": "בנקרת",
+      "rationale": "kiugo kĩa 'mũrera' kĩonereta kĩhũa kĩa cĩũrũ; 'nĩkĩa kũngĩcoha' ta kiugo kĩingĩ"
+    }
+  ],
+  "translation": "Na nĩgũkuiga rĩrĩa ũthĩku wakwa ũcohota, ndĩkũgĩcokia harĩ mũrera-inĩ wa cĩũrũ, na ndĩkũringa gĩoko gwakwa igũrũ rĩawe ũngĩcohoka.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fceb6b614f8eefede1024e1dbd0e8e8536a2d6cfd1ea65ad829b5c9d992cdb46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/33\/22-22.1791269395530.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na nĩgũkuiga"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "rĩrĩa ũcohota"
+    },
+    {
+      "surface": "כבדי",
+      "gloss": "ũthĩku wakwa"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "ndĩkũgĩcokia"
+    },
+    {
+      "surface": "בנקרת",
+      "gloss": "mũrera-inĩ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "wa cĩũrũ"
+    },
+    {
+      "surface": "ושכתי",
+      "gloss": "ndĩkũringa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "gĩoko gwakwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rĩawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ũngĩ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ũngĩcohoka"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:55.533761824Z",
+  "model": "glm-5.3"
+}

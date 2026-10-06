@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 26:28",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראו ראינו",
+      "rationale": "Infinitive absolute + finite verb, 'seeing we have seen' — Kik renders doubling as 'kuona nĩtũonete'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונכרתה ברית",
+      "rationale": "Hebrew 'cut a covenant' (passing between cut pieces); Kik idiom 'tũkaheane kĩrĩkanĩro' loses the cutting image."
+    },
+    {
+      "kind": "addition",
+      "subject": "tarĩ",
+      "rationale": "Added 'tarĩ' (plainly) to carry the emphatic infinitive-absolute force of ראו ראינו."
+    }
+  ],
+  "translation": "Na makĩuga: Nĩtũonete kuona-tarĩ atĩ Yahwe aarĩ hamwe nĩwe; nĩtũkĩuga: Gĩturuke na, kirooto gĩthĩe gatagatĩ-inĩ ka ithuĩ, hakuhĩ hagati ya ithuĩ na hakuhĩ hagati yawe, na tũkaheane kĩrĩkanĩro hamwe nĩwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "3700f264b96cf659d6bd07baeb924b63c4447bd1022f55199edb6716bee6b966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/26\/28-28.1791269243942.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Na makĩuga"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nĩtũonete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nĩwe"
+    },
+    {
+      "surface": "ו�נאמר",
+      "gloss": "nĩtũkĩuga"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "gĩturuke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kirooto"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "gatagatĩ-inĩ ka ithuĩ"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "hakuhĩ hagati ya ithuĩ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "na hakuhĩ hagati yawe"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "tũkaheane"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nĩwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:23.947152208Z",
+  "model": "glm-5.3"
+}

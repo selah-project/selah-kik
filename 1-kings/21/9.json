@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya kũcera",
+      "rationale": "עברית gĩthimo קראו צום kũingĩha kĩugo kĩmwe gĩa kũonja 'ciumbe' nĩgeetha kĩhoto gĩcoke kĩega"
+    },
+    {
+      "kind": "crux",
+      "subject": "בראש העם",
+      "rationale": "'mũgwanja wa andũ' kana 'atungati wa andũ' — hĩndĩ ya kĩhooto, nĩ kĩndũ kĩonekaga ta kũhonokia no nĩ gĩcunjĩ kĩa mũithĩramũthia"
+    }
+  ],
+  "translation": "Na akĩandĩka thĩinĩ wa ciandĩko, agĩthuo: Mwarĩrie ciumbe ya kũcera, na mũtĩkĩrie ⟨את⟩ Nabothi akĩrĩa mũgwanja wa andũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b98fbb2a482561025abf27a9af8cd8124a143173bcfda7750d6b7a5ab3d85cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/21\/9-9.1791270075693.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "akĩandĩka"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "thĩinĩ wa ciandĩko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩthuo"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "mwarĩrie"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ciumbe ya kũcera"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "mũtĩkĩrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabothi"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabothi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa andũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:15.697465900Z",
+  "model": "glm-5.3"
+}

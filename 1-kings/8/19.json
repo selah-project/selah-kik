@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מחלציך",
+      "rationale": "'kuuma athamaki-inĩ cĩaku' — kiugo gĩa Kĩhibirania kĩugaga 'mathamaki', kĩrĩa mĩgiĩ yĩmĩrĩagĩrĩra; mũhiano ũteithĩtwo mũno na 'mũcĩ wa kũmbũrire rĩĩtwa' wa Kĩhibirania."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Mĩhango ĩĩrĩ ĩĩ 'no gũo... no' — Kĩgĩkũyũ kĩrenda mũhango ũmwe gũcokithia kũgirĩru kwa maũndũ, ũmwe ũhooreirwo mũthenya-inĩ wa ũhoro wa mbere."
+    }
+  ],
+  "translation": "No gũo rĩu, we, ndũkahĩtie gũcoma nyũmba; no mũrũ waku, ũrĩa ũgũcoka athamaki-inĩ cĩaku, nĩwe ũkahĩta nyũmba nowa rĩĩtwa rwakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "59cd37546d8c758036f900be49a140f28706d4c242d68135e30d41a3dc3bca49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/8\/19-20.1791269959265.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "No gũo rĩu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "gũcoma"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mũrũ waku"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ũrĩa ũgũcoka"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "athamaki-inĩ cĩaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ũkahĩta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "nowa rĩĩtwa rwakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:19.266126202Z",
+  "model": "glm-5.3"
+}

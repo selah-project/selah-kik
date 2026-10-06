@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kũrĩa kwa kĩhĩa",
+      "rationale": "מדבר nĩ kũrĩa kwa mahiũ na mirĩ, kũhĩa — 'kĩhĩa' ĩnyitanaga na kĩyo no ti rũhito rwacio"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨arĩa⟩",
+      "rationale": "להם nĩ kĩonjekera kĩa andũ; Gĩkũyũ kĩrĩa kĩgirĩtwo nĩgĩonjorerwo"
+    }
+  ],
+  "translation": "Nĩgetha atĩ Yahwe ndangĩha kũingĩtha ⟨את⟩ andũ ayũ thĩ ĩyo ũrĩa acĩirĩria ⟨arĩa⟩, nĩamakarũŋithwo kũrĩa kwa kĩhĩa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7e98ef94152839a83826fb088a213d639bae4c6d96e1275e1d5c887a502ba2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/14\/15-16.1791269587956.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "nĩgetha atĩ"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "ndangĩha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kũingĩtha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ ayũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ayũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩ ĩyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "acĩirĩria"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨arĩa⟩"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "nĩamakarũŋithwo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kũrĩa kwa kĩhĩa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:07.962044461Z",
+  "model": "glm-5.3"
+}

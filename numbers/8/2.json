@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kũrĩ mbere ya menora",
+      "rationale": "Ereirĩtie rĩa mbere rĩrĩa kĩugo kĩa Kohereni gĩkĩhũthĩka mbere ya ũndũ mũkũhĩ nĩgetha ũhoro wĩ na mũhianĩre ũtekambanie."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bhealothekha",
+      "rationale": "Ereirĩtie 'kũinĩrĩra' nĩ kuuma kĩugo kĩa Kĩhibirania kĩonanania na kũrahũra matũũra, na kĩngĩkorwo nĩ 'kũhenũka', nĩkĩo kĩrĩa andũ aingĩ metĩkĩirie."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "nêrôt \/ hânêrôt",
+      "rationale": "Kiugo kĩa ner kĩrahũthagio kaingĩ hamwe na kĩrĩa kĩhũthagio kũonania mũhiano, na kĩrĩa gĩtangĩkomerethia mũhiano ũcio na Gĩkũyũ."
+    }
+  ],
+  "translation": "Rora Aharoni, ũmũũre ũguo: rĩrĩa wĩrahũraga ⟨את⟩ matũũra, kũrĩ mbere ya ũthondeki wa menora, matũũra manje nĩmakĩratha kũrĩ mbere ya menora.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1667f2db078180aaf4d2a73fb87a791772179986a769cfb13557ecd6328e14d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/8\/2-2.1791269472303.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ũmũũre ũguo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ-we"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "rĩrĩa wĩrahũraga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matũũra"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "matũũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kũrĩ mbere ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ũthondeki"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "nĩmakĩratha"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "manje"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "matũũra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:12.308512324Z",
+  "model": "glm-5.3"
+}

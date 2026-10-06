@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 5:18",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ũhoti",
+      "rationale": "והשליטו 'nĩamũteithĩkĩtie\/kũhinga ũhoti' — Gĩkũyũ ĩkũra na 'ũhoti' ĩrĩa Kĩhibirania gĩtarĩ na kĩingo kĩayo kĩrĩa kĩmwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "זה ... היא",
+      "rationale": "kiugo kĩa kahora kĩaũmwe nĩ ka ndũmũrĩ (זה) no kiuga kĩa nyina (היא) kĩrĩa gĩkĩrĩka מתת — mbaara ya kĩhumo kĩa ũthomi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kũgũra",
+      "rationale": "לשאת nĩ 'kũinũkia\/kwĩhota' — 'kũgũra' nĩ mũhiano wa kĩingo kĩa kĩheo, handũ ha mũhiananio wa kũthekũra"
+    }
+  ],
+  "translation": "O na mũndũ wothe ũrĩa Erohimu amũheire utonga na maravio, na kũmũhinga ũhoti wo kũría kuuma marivio-inĩ, na kũgũra ⟨את⟩ kĩheo chake, na gũkena mĩrĩme-inĩ yake — ũyũ nĩyo kĩheo gĩa Erohimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d18d6f60869a79c0b00b48bd823d70bbfaa1061160dab804269d3c25e5bbfb13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ecclesiastes\/5\/18-18.1791270621877.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "amũheire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "utonga"
+    },
+    {
+      "surface": "ונכסים",
+      "gloss": "na maravio"
+    },
+    {
+      "surface": "והשליטו",
+      "gloss": "na kũmũhinga ũhoti"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "wo kũría"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuuma marivio-inĩ"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "na kũgũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo chake"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "kĩheo chake"
+    },
+    {
+      "surface": "ולשמח",
+      "gloss": "na gũkena"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "mĩrĩme-inĩ yake"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩyo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:21.882647936Z",
+  "model": "glm-5.3"
+}

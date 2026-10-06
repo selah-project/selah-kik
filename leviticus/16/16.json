@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אִתָּם",
+      "rationale": "Hĩndĩ ĩno nĩ 'hamwe nao' (אֵת + סוף), ti mũrango wa kĩndũ gĩa gũtuĩko ta את H853; no thĩinĩ wa mĩhiano ĩrĩa ĩtiga ĩgĩtaũrwo ⟨את⟩."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עַל הַקֹּדֶשׁ",
+      "rationale": "'Harĩ mũtheru' (kũtherithia mũtheru mũene) kana 'nĩ ũndũ wa mũtheru' — kuga, mũtheru ũmũkĩte mũthingu wa andũ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפר \/ טומאה \/ טומאתם",
+      "rationale": "Mũtheremuko wa kũtherithia (kpr) ũgĩkũũranyio na mũthingu ũrĩa ũngĩhota kũheana mũciĩ-inĩ; gĩcunjĩ kĩa gũcooka kwa 'mũthingu' kĩmwe na gĩa gĩa kerĩ nĩ kĩonekaga."
+    }
+  ],
+  "translation": "Nĩakĩtherithia ⟨thĩinĩ wa⟩ mũtheru, nĩ ũndũ wa mũthingu wa ciana cia Yiceraeri na wa mbicato ciao, harĩ ihĩtia ciao ciothe; na ũguo nĩngũo akĩtũmĩra hema ya mũtaratara, ĩrĩa ĩikaraga ⟨את⟩ hamwe nao, gatagatĩ ka mũthingu wao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7cffa4600fd361f1c36fee2f3c8fb426fe99d4998d6b8402db9b1b67cf5e0de2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/16\/16-16.1791269501326.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "akĩtherithia"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "na mbicato ciao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "harĩ ciothe"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ihĩtia ciao"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na ũguo nĩngũo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akĩtũmĩra"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mũtaratara"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "ĩrĩa ĩikaraga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hamwe nao",
+      "marks": "hamwe nao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "mũthingu wao"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:41.328804721Z",
+  "model": "glm-5.3"
+}

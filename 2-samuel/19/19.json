@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 19:19",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עברה · העברה · לעביר",
+      "rationale": "Mũrĩa-rĩrĩa: kwarahũkire, kũrahũka, kũrahũkĩria — mũthemba ũmwe ũrarĩkio na hinya; Gĩkũyũ nĩgũĩte ũguni wa mũthemba ũcio."
+    },
+    {
+      "kind": "crux",
+      "subject": "העברה",
+      "rationale": "'Kũrahũka' nĩhandũ ha kwarahũka (ha kũrahũkĩria andũ) — ndandĩkirwo ta 'hitia' kana 'rigi' ya rũũĩ."
+    },
+    {
+      "kind": "you",
+      "subject": "mwathani",
+      "rationale": "Kwĩigua kwa Cimei mbere ya mwathani nĩ mũhoro ũrĩa ũmũrĩkĩtie thĩ mbere ya Dawidi."
+    }
+  ],
+  "translation": "Na kũrahũka kwarahũkire kũrahũkĩria nyũmba ya mwathani ⟨את⟩ na gũkĩra kĩndũ kĩega thĩinĩ wa maitho make; na Cimei mũrũ wa Gera nĩagĩire thĩ mbere ya mwathani rĩrĩa arahũkĩirie Yorudani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "73e7cd6611600aa58af03ec6745652ca18ee1bc386112215ac878117e111ad37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/19\/18-21.1791270014804.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברה",
+      "gloss": "kwarahũkire"
+    },
+    {
+      "surface": "העברה",
+      "gloss": "kũrahũka"
+    },
+    {
+      "surface": "לעביר",
+      "gloss": "kũrahũkĩria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya mwathani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "na gũkĩra"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kĩndũ kĩega"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "thĩinĩ wa maitho make"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "na Cimei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "Gera"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nĩagĩire thĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "בעברו",
+      "gloss": "rĩrĩa arahũkĩirie"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yorudani"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:14.807614674Z",
+  "model": "glm-5.3"
+}

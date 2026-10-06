@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thayo",
+      "rationale": "אף nĩ ihũrũ\/kũnina; thayo-inĩ ya Yahwe nĩ gũtaũra kwa mũhiano"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩgũnda-inĩ kĩa Ngai",
+      "rationale": "הארון nĩ 'kĩingĩa' — sandũkũ; kĩgũnda nĩ mũhiano wa Kĩkũyũ"
+    },
+    {
+      "kind": "crux",
+      "subject": "moko",
+      "rationale": "ידו nĩ moko-ĩmwe; 'moko' nĩ mĩningĩ — ũrĩa mũthomi angĩonire nĩ 'moko make' tu"
+    },
+    {
+      "kind": "addition",
+      "subject": "mbere ya",
+      "rationale": "לפני ĩgĩtarĩ gũtaũrwo 'mbere' kĩmwe-kĩmwe; Erohimu nĩarĩ harĩ kĩndũ gĩa kũonania handũ"
+    }
+  ],
+  "translation": "Nĩgatũũkĩte thayo ya Yahwe kũamba Uza, namũũkũrire nĩ ũndũ wa gũcokera moko kĩgũnda-inĩ kĩa Ngai, akĩrĩo kuo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9956f540a432dd99195611d7a0d7a0ac80860f3d578af59a02cc5049c4f015c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/13\/10-10.1791270818488.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "nĩgatũũkĩte thayo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "thayo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "kũamba Uza"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "namũũkũrire"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gũcokera"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko"
+    },
+    {
+      "surface": "על",
+      "gloss": "kĩgũnda-inĩ kĩa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akĩrĩo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:38.493305169Z",
+  "model": "glm-5.3"
+}

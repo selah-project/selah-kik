@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Kĩhumo kĩa gũcokeria ũhoro, kĩngĩtwo ona kĩndũ kĩa kũigua na kĩongojio nĩ Hebhirania"
+    }
+  ],
+  "translation": "Arĩa maikarĩte marĩ tambarũ ya mũthia, ya mbarĩ ya Gadi, nĩ makũmia na ngiri inya na ithano, na magana atano na ithano.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "668c588864995d33b6cd09bfb1bcfd10590154fea2ea5c822ba446c7283bcf8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/1\/25-25.1791269476612.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "arĩa maikarĩte marĩ tambarũ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ya mbarĩ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na ngiri inya"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "makũmia"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana atano"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na ithano"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:16.616598829Z",
+  "model": "glm-5.3"
+}

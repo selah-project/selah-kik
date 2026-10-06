@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשרון עשרון",
+      "rationale": "Repetition of 'a tenth a tenth' for each lamb, a count per animal, flattened to a single number in many translations."
+    },
+    {
+      "kind": "substitution",
+      "subject": "isaroni ĩmwe isaroni ĩmwe",
+      "rationale": "'A tenth a tenth' marks separate tenth-portions per lamb; 'several tenth deal' (KJV) reads the same distributive sense."
+    },
+    {
+      "kind": "measurement",
+      "subject": "isaroni",
+      "rationale": "Verse is grain-measurement of flour for each lamb, a census of offerings."
+    }
+  ],
+  "translation": "Isaroni ĩmwe isaroni ĩmwe nĩtũmegere keveci ĩmwe, harĩ keveci njorũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8bfc66a9877c23d7d1f7875e9f4054067ade78d0ae1c0ee9ee7f37e45c84ef7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/28\/21-21.1791269579723.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עִשָּׂרוֹן",
+      "gloss": "isaroni ĩmwe"
+    },
+    {
+      "surface": "עִשָּׂרוֹן",
+      "gloss": "isaroni ĩmwe"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "nĩtũmegere"
+    },
+    {
+      "surface": "לַכֶּבֶשׂ",
+      "gloss": "keveci ĩmwe"
+    },
+    {
+      "surface": "הָאֶחָד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "לְשִׁבְעַת",
+      "gloss": "harĩ njorũ"
+    },
+    {
+      "surface": "הַכְּבָשִׂים",
+      "gloss": "keveci"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:59.727394056Z",
+  "model": "glm-5.3"
+}

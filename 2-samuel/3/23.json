@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 3:23",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "besharomu",
+      "rationale": "בְּשָׁלוֹם nĩ 'mũthenya ũrĩa mwega \/ mũhotoro' — ti kĩndũ gĩa kĩndũrũ kĩngĩ"
+    },
+    {
+      "kind": "you",
+      "subject": "Yoabi",
+      "rationale": "ũhoro ũrĩa wameenyitwo nĩguo ũmũrĩkirie mũthamaki Dawidi thutha"
+    }
+  ],
+  "translation": "Na Yoabi na cebaci ciothe icio aarĩ ⟨את⟩ hamwe nacio nĩcoocire, na makamenya Yoabi, magĩcookeria: Abineri mũrũ wa Neri nĩookire kũrĩ mũthamaki, na mũthamaki ndĩamũrire, nakĩthera mũthenya ũrĩa mwega.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "39e5cda3b5067e0e949185db5ffa166571f0b61c4ef89fd89c3361065361fa41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/3\/23-24.1791269853051.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Na Yoabi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ciothe"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "cebaci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icio"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aarĩ hamwe nacio",
+      "marks": "cebaci ciothe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩcoocire"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "na makamenya"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoabi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "magĩcookeria"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩookire"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Neri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "ndĩamũrire"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nakĩthera"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "mũthenya ũrĩa mwega"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:33.052346357Z",
+  "model": "glm-5.3"
+}

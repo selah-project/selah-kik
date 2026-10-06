@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 47:18",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Copula gũteithĩkaga kuma Kĩhibirania gũteinyitĩrwo thaanca-inĩ wa 'nĩ Yaredeni'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הירדן",
+      "rationale": "Marĩtwa ma taũri mehuranaga: Yaredeni nĩwe mũgithima-wa-mboco kana Yaredeni nĩ tu mũtara wa mũgithima wa irathĩro (KJV 'by Jordan' vs ASV 'shall be the Jordan')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "תמדו",
+      "rationale": "Kĩcunjĩ kĩa kũgeria mũgithima wa thĩ ya gĩtũkũ kĩa heo ya kũhĩthĩra"
+    }
+  ],
+  "translation": "Na ũtheri wa irathĩro: hagati-inĩ wa Havurani, na hagati-inĩ wa Demaceki, na hagati-inĩ wa Gireadi, na hagati-inĩ wa thĩ ya Yiceraeri, nĩ Yaredeni; kuuma mũgithima gĩkĩra iria ya irathĩro mũnologie, na ⟨את⟩ ũtheri wa irathĩro.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f29151310cdbcff4049a84431c30f4b2762065305dd4333056cbbd3fadfb04ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/47\/18-19.1791270431213.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "Na ũtheri"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wa irathĩro"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "hagati-inĩ"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Havurani"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "na hagati-inĩ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Demaceki"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "na hagati-inĩ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gireadi"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "na hagati-inĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "nĩ Yaredeni"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "kuuma mũgithima"
+    },
+    {
+      "surface": "על",
+      "gloss": "gĩkĩra"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הקדמוני",
+      "gloss": "ya irathĩro"
+    },
+    {
+      "surface": "תמדו",
+      "gloss": "mũnologie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ũtheri wa irathĩro"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "irathĩro"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:11.219629512Z",
+  "model": "glm-5.3"
+}

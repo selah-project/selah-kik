@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 6:13",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "amani ithano × ithatũ",
+      "rationale": "Ũtuaria wa kĩgera kĩa kiyori: mũkũra, mũhia, na kũigũrũ kwa amani."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויברך \/ ברכיו",
+      "rationale": "Mũrĩ ũmwe ברך — 'kũhoya' na 'gũikara magũrũ-inĩ'; mũhiano ũrakoragwo harĩ hooya hĩndĩ aciara magũrũ, ũrĩa wonagwo na Gĩkũyũ tu nĩgeethia mĩhari ĩrĩ ĩkoragwo iciarĩtwo."
+    },
+    {
+      "kind": "crux",
+      "subject": "כיור",
+      "rationale": "Kiugo gĩaĩtwo 'kiindũ kĩa gũtherema' (nĩ kĩndũ gĩa ũgoro); tauta iria irĩ taguo 'scaffold' kana 'platform' — windi-wa-mabara nĩguo nĩ wega mũno gũkũ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השמימה",
+      "rationale": "Ndemwa ĩrĩa ĩrĩ dual — 'igũrũ-rĩa-ĩrĩ'; Gĩkũyũ nĩ 'ĩgũrũ' o ĩmwe, dual nĩ yaarũokire."
+    }
+  ],
+  "translation": "Nĩguo Ceromo anjũĩrire kiyori wa necocheti, na nĩĩĩgĩte thĩinĩ wa azara: amani ithano mũkũra wakĩo, na amani ithano mũhia wakĩo, na amani ithatũ kũigũrũ kwakĩo; nĩagĩikara igũrũ yake, akĩhoya thĩ handũ ha magũrũ make, mbere ya andũ a kĩama kĩa Yiceraeri othingo, na akĩtambũra makono make kũgera ĩgũrũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "33b4aaf36ab1d0eee6ab8cc77b11cece529460320181eab17221fa02173abdcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/6\/13-13.1791270882179.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anjũĩrire"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "kiyori"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "necocheti"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "na nĩĩĩgĩte"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "azara"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amani"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "mũkũra wakĩo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amani"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "mũhia wakĩo"
+    },
+    {
+      "surface": "ואמות",
+      "gloss": "na amani"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ithatũ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "kũigũrũ kwakĩo"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nĩagĩikara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ yake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akĩhoya"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ handũ ha"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "magũrũ make"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "andũ a othingo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kĩama kĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "na akĩtambũra"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "makono make"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "kũgera ĩgũrũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:42.182958980Z",
+  "model": "glm-5.3"
+}

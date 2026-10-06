@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 9:37",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũndũũku",
+      "rationale": "כדמן nĩ mũndũũku wa ndũrũrĩ — maũndũ ma nyamũ marĩa mahũthĩkaga kũhĩa shamba, ti kiugo gĩa kũheania tu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciana-inĩ",
+      "rationale": "פני השדene literal nĩ 'thĩinĩ wa kĩehere kĩa shamba' — 'face of the field' nĩ mũhiano wa Kĩhibirania"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא יאמרו",
+      "rationale": "andũ matarĩ kũgira makuga 'Ũyũ nĩ Iziberi' — nĩgetha mũigua wake ũhoore o ng'ania agĩtee; KJV na JPS iugaga 'so that they shall not say'"
+    },
+    {
+      "kind": "you",
+      "subject": "Iziberi",
+      "rationale": "maũndũ maya ni mahoya Iziberi mwanya wake — ũira wa gũkũra Rĩĩtwa-inĩ"
+    }
+  ],
+  "translation": "Mũigua wa Iziberi witĩkĩte ta mũndũũku igũrũ rĩ ciana-inĩ ya Yizereeri, harĩa kĩgwa kĩa Yizereeri kĩrĩ, nĩguo andũ makehota kũgira makuga atĩrĩ: Ũyũ nĩ Iziberi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a026f5439b33a0202f8b37408a16814a5b4213804d242b6d50a30df1e4c5d77d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/9\/37-37.1791270082100.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והית",
+      "gloss": "witĩkĩte"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mũigua"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iziberi"
+    },
+    {
+      "surface": "כדמן",
+      "gloss": "ta mũndũũku"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ciana-inĩ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya ciana"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "harĩa kĩgwa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "kĩa Yizereeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "makehota"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kũgira makuga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ũyũ"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iziberi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:22.104854694Z",
+  "model": "glm-5.3"
+}

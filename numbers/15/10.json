@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 15:10",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kana kĩa hini",
+      "rationale": "Thũmbĩ ĩringĩtwo na kĩegeranio: kana kĩa hini."
+    },
+    {
+      "kind": "substitution",
+      "subject": "njeshe",
+      "rationale": "נסך nĩ kĩheo gĩa kũnearia kĩa kũminywo — kiugo gĩa Kĩhibirania gĩcũngĩtwo na mũgambo waro."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריח ניחוח",
+      "rationale": "ניחוח na נוחה (kũrĩrĩka) ciũranagia mũgambo ũmwe — 'kĩnũkĩ kĩa mahũa' kĩtarĩ kũhota gwĩtonya."
+    }
+  ],
+  "translation": "Na thũmbĩ nĩũheana ta njeshe, kana kĩa hini; kĩheo gĩa mũng'ũ, kĩnũkĩ kĩa mahũa, kũrĩ Yahwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e81b36bbdffe64f47cc178458a2df4f56a02d9a00980816d48bed959fd1ff358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/15\/9-10.1791269626573.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Na thũmbĩ"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "nĩũheana"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "ta njeshe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "kana kĩa"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hini"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kĩheo gĩa mũng'ũ"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "kĩnũkĩ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "kĩa mahũa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kũrĩ Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:46.576603172Z",
+  "model": "glm-5.3"
+}

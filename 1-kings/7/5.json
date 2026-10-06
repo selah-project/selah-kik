@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שקף",
+      "rationale": "Ngerewa: 'kĩhingo kĩa kũona-thutha' kana 'kĩhumbo kĩa mwaki na rũhuho' — koonyitwo ta mahĩtia mahana."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ithatũ ngerekano",
+      "rationale": "Kũringana kwamũrĩmbi kwa gĩaka kĩa Curuhu — kũkanithia kwa mĩthenyo ĩthatũ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחזה אל מחזה",
+      "rationale": "Kwĩrigeria kwa kiugo kĩmwe — mahĩta makũhĩtagĩrĩra hakuhĩ na mahĩta — gĩtheru kĩa kuuga na gĩikaro kĩa nyũmba."
+    }
+  ],
+  "translation": "Na mahũngũro manothe na marangĩtheri magĩcokeire gĩkũngũrũ-theru-inĩ na mahĩtia mahana; na mahĩtia mahana-inĩ kũngĩa hakuhĩ na mahĩtia mahana, ithatũ ngerekano.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "852826f30f4c63eecc70da8c5dcd5cacefe45cddfd59c56a3d61ecc54e94cb27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/7\/5-5.1791269912224.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na manothe"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "mahũngũro"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "na marangĩtheri"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "magĩcokeire gĩkũngũrũ-theru-inĩ"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "mahĩtia mahana"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "kũngĩa hakuhĩ"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "mahĩtia mahana-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "mahĩtia mahana"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ithatũ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ngerekano"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:32.226474314Z",
+  "model": "glm-5.3"
+}

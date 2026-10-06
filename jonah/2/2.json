@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ĩyo",
+      "rationale": "gĩcunjĩ kĩa ngũra kĩongereirwo nĩgeetha kĩhũthagĩke"
+    },
+    {
+      "kind": "substitution",
+      "subject": "thũmo",
+      "rationale": "מעי nĩ mara\/matumbo, ti thũmo wa kũmĩra — 'matũ ndũrũ-inĩ' nĩgũo kĩhũthagĩka"
+    }
+  ],
+  "translation": "Na Yona ahooreria Yahwe, Erohimu wake, kuuma thũmo-inĩ wa ngũra ĩyo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5b33124ea0c8d0fdb2cdd0682cfdf44e244d2943120a40fa0989bcf7a1ee45c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jonah\/2\/1-2.1791270429609.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ahooreria"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "kuuma thũmo-inĩ"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "wa ngũra ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:09.616278402Z",
+  "model": "glm-5.3"
+}

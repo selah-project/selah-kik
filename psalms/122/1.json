@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kĩa Dawidi \/ mahũa-inĩ ma kwĩngerera",
+      "rationale": "Kwĩhandĩtwo kwa ngoma ĩno nĩ kwa kwĩrora ndũrĩrĩ ĩrĩa ĩiyũrire kũhĩa Ndĩrĩrĩ-inĩ ya Yahwe."
+    },
+    {
+      "kind": "invitation",
+      "subject": "nĩtũgũthiĩ",
+      "rationale": "Kiugo kĩa kũhĩrania — 'tũthiĩ' — nĩ kĩrĩa gĩtũmagĩrwo kũhĩrithia andũ a Kĩrĩkanĩro kũhĩa bũrũri wa Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nĩnyendete",
+      "rationale": "שׂמחתי nĩ 'nĩndĩrĩ mũno na maũndũ meere' — 'nĩnyendete' nĩ kĩũmbo kĩa Gĩkũyũ kĩarahũka mũno na maũndũ mageemi."
+    }
+  ],
+  "translation": "Kĩĩnjoreria kĩa mahũa-inĩ ma kwĩngerera, kĩa Dawidi. Nĩnyendete rĩrĩa makĩmeŋera atĩrĩ: Ndĩrĩrĩ-inĩ ya Yahwe nĩtũgũthiĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ea2fbb954e1fe953e3d4bc89b645e9b7b1f802d2d34760b4717d1a30d77470cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/122\/1-2.1791270566356.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩnjoreria"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "kĩa mahũa-inĩ ma kwĩngerera"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩa Dawidi"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "nĩnyendete"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "rĩrĩa makĩmeŋera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndĩrĩrĩ-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "nĩtũgũthiĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:26.360739091Z",
+  "model": "glm-5.3"
+}

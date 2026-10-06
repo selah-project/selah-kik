@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "jeremiah 48:44",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "Ngitĩ ya ndemwa mbere ya o kiugo (pa-pa-pa): ũthĩĩtinyani, mũngũ, ithũi — gĩcere gĩkũhĩ, nĩgũko Kenya Gĩkũyũ gĩtiŋĩganagia."
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדה",
+      "rationale": "Kũgerio kana kũhotorwo — 'visitation' ya Kĩthwahĩri; kĩhari kĩa kũona ũhoro wa andũ thutha wa hĩndĩ ndeigwo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אליה אל",
+      "rationale": "Kĩhibirania kĩuga 'ĩrĩkĩria yake, harĩa Moabu' — gĩcunjĩ kĩa gũcokerithia rĩĩtwa, Gĩkũyũ kĩnyiitagĩra mũhiano mũkũhĩ."
+    }
+  ],
+  "translation": "Ūrĩa ũnyiitanĩra ũthĩĩtinyani atumĩrwo mũngũ-inĩ, na ũrĩa ũmanĩte mũngũ-inĩ anyitwo nĩ ithũi; nĩ nĩndĩrĩkĩria Moabu mwaka wa kũgerio kwao, Yahwe oigĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "12b1afd0f3c2b8947e5cc197182b3f62d8b0941d7a8a4884acbbee1c60084386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/48\/44-44.1791270189070.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הניס",
+      "gloss": "Ūrĩa ũnyiitanĩra"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ũthĩĩtinyani"
+    },
+    {
+      "surface": "הפחד",
+      "gloss": "thutha wa ũthĩĩtinyani"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "atumĩrwo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũngũ-inĩ"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "mũngũ"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "na ũrĩa ũmanĩte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "mũngũ-inĩ"
+    },
+    {
+      "surface": "ילכד",
+      "gloss": "anyitwo"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "nĩ ithũi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nĩndĩrĩkĩria"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haria"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "wa kũgerio kwao"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:09.106535346Z",
+  "model": "glm-5.3"
+}

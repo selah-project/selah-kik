@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 15:37",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũrũ ngũa",
+      "rationale": "רעה nĩ mũrũũngũ wa hawĩra — 'mũrũ ngũa wa' nĩ kũhĩa kwa ihoto rĩu"
+    },
+    {
+      "kind": "crux",
+      "subject": "akĩũra",
+      "rationale": "JPS ȳgĩte 'aarĩ kũingĩra' — wayakanĩya wa hĩndĩ; Kikuyu ĩgĩcokanĩria na njĩra ya waya-kĩmwe"
+    }
+  ],
+  "translation": "Nĩũkĩri Hucui, mũrũ ngũa wa Dawidi, mũciĩ-inĩ; na Abecaromu akĩũra Yerucarayimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "03d866abc018c4e79cac96fb8c30a6a637260b5549fd298280472b0403777b4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/15\/37-37.1791269933831.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nĩũkĩri"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hucui"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mũrũ ngũa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ-inĩ"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "na Abecaromu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akĩũra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:53.831657960Z",
+  "model": "glm-5.3"
+}

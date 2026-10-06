@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 18:14",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Mika akiuga 'Ithĩnai'",
+      "rationale": "Mano nĩ mahora ma kwarahũka — o na kũrĩ ũguo Kĩam 18 arĩ ndũmĩrĩri ya ma: thutha wa thĩni mwathi ndangaĩigua atĩrĩ maũndũ manini"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וינתנו nĩmakũheo",
+      "rationale": "Gĩkũyũ kĩhĩtĩkĩtie moko-nyiitu gĩa passĩvĩrĩ; Kĩhibirania nĩ kiugo kĩa gũheo kĩerũ"
+    },
+    {
+      "kind": "you",
+      "subject": "mwathi akuenda Mika",
+      "rationale": "Mwathi Ahabu arĩ mũbarũ wa ũthĩni, na Mika ahooya na mũgambo wa kwarahũka"
+    },
+    {
+      "kind": "elision",
+      "subject": "אליו ĩrĩ",
+      "rationale": "Kĩugo gĩa Kĩhibirania kĩa kwarahũka kĩngĩa kwa gĩcunjĩ kĩu kĩu, kĩĩigĩtwo ihinda rĩa kũrora ũhoro"
+    }
+  ],
+  "translation": "Akĩinya kũrĩ mwathi, mwathi amũũria atĩrĩ: Mika, nĩtũgĩe Ramoti-Girĩadi gwĩkĩra mũthingo, kana nĩngĩhota kũRehara? Nake ookĩria atĩrĩ: Ithĩnai, mũhĩe makĩria, na ũcio nĩmakũheo moko inyuũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c83ac19af01838488e2cfc4c907eee5fa66ad87773e9484f767c89a3d3a65c65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/18\/14-14.1791270928490.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "amũũria atĩrĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "nĩtũgĩe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Girĩadi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "gwĩkĩra mũthingo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "nĩngĩhota kũRehara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ookĩria atĩrĩ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ithĩnai"
+    },
+    {
+      "surface": "והצליחו",
+      "gloss": "mũhĩe makĩria"
+    },
+    {
+      "surface": "וינתנו",
+      "gloss": "nĩmakũheo"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "moko inyuũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:28.494481198Z",
+  "model": "glm-5.3"
+}

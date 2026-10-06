@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 6:9",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ũrĩa⟩",
+      "rationale": "Kĩgomo kĩa gĩko kĩarĩ mũhiano: תאכל nĩ nĩgũconwo, ti kũĩra ũrĩa kĩheo kĩrĩa kĩrarĩ kana kwendwo nĩ Kĩhibirania"
+    },
+    {
+      "kind": "substitution",
+      "subject": "matũ na-rĩgũ",
+      "rationale": "מצות nĩ 'rũgĩ rwa tũhĩ' — maconwo matũ, kana iria ciarĩ na thĩarĩnja"
+    }
+  ],
+  "translation": "Na ⟨ũrĩa⟩ ũrĩa megereire kuirũkĩra gwake, Aharoni na aana ake nĩmaiĩra ⟨את⟩; nĩmaconwa matũ na-rĩgũ thiini wa mahiga theru, kĩgeroinĩ kĩa hema ya kĩhurũra-inĩ nĩmaĩra ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "61028a302d5d87dce7398dd58d1018cc22033b6d63a70d837868f382fb27c5f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/6\/9-9.1791269408887.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "na ũrĩa megereire"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuirũkĩra gwake"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "nĩmaiĩra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "na aana ake"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matũ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nĩmaconwa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "thiini wa mahiga theru"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "theru"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kĩgeroinĩ kĩa hema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kĩhurũra"
+    },
+    {
+      "surface": "יאכלוה",
+      "gloss": "nĩmaĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:08.891894543Z",
+  "model": "glm-5.3"
+}

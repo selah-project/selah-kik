@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 3:28",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Kũbarua kwa aKehati: arũme kuuma mweri wothe na igũrũ, ndemerwa mũnyaanyi na magana ithaanĩ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משמרת הקדש",
+      "rationale": "Gĩkũyũ: mũthenyo wa ũtheru — ciugo igĩrĩ cia Kĩhibirania ciigĩtwo na mũri ũmwe wa gũtherie."
+    },
+    {
+      "kind": "addition",
+      "subject": "Micikani",
+      "rationale": "Hebrew irĩ 'hamwe na ũtheru' gĩaĩ kĩndũ kĩngĩ; 'Micikani' nĩyongeretwo gĩcunjĩ kĩa ũhoro-inĩ gĩa koiga kuo ũtheru bũrũri-inĩ wa Micikani."
+    }
+  ],
+  "translation": "Kũgerana na mũtarĩre wa arũme othe, kuuma mũrũ wa mweri wothe na igũrũ, nĩ magana mũnyaanyi na ndemerwa ithaanĩ, ari arĩi a mũthenyo wa ũtheru wa Micikani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c95e2defd0c75b71cf5b85c83ad90d0bc61f70c98782facab3d13a03fa75248c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/3\/28-28.1791269494238.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "kũgerana na mũtarĩre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "arũme"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kuuma mũrũ wa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na igũrũ"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "mũnyaanyi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ndemerwa"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ithaanĩ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "maganā"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ari arĩi a"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mũthenyo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:34.242452229Z",
+  "model": "glm-5.3"
+}

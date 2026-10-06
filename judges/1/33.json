@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "judges 1:33",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "להם",
+      "rationale": "kiugo kĩa gũcookeria kĩingĩrĩtwo mũhianĩre-inĩ wa Gĩkũyũ, kĩraarahĩkĩte thĩinĩ wa 'makaatuĩkĩra'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "nĩ kĩheo kĩa wĩra wĩnini kana gũcookerwo na njũru — 'wĩra wĩnini', ti 'kĩheo' kĩmwerũ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישבי",
+      "rationale": "kiugo gĩkĩ gĩkarĩkariirie gatatu mũno thĩinĩ wa mũhuro ũcio, gĩcokanĩrĩria kĩa rũthiomi gĩtatũire"
+    }
+  ],
+  "translation": "Nafutari ndaarũrangĩte ⟨את⟩ arĩa mãtukĩte Bethi-Cemeshi, na o ng'ania ⟨את⟩ arĩa mãtukĩte Bethi-Anati; alkĩmagĩka akĩikara hakuhĩ na Acanaani, arĩa maatũkĩte thĩ ĩyo; na arĩa mãtukĩte Bethi-Cemeshi na Bethi-Anati makaatuĩkĩra wĩra wĩnini.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "688fa65069759ac52d4d154f97d1c296d9237628d46ef56ab872de065a84d18a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/1\/33-33.1791269772570.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "Nafutari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaa"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "rũrangĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa mãtukĩte Bethi-Cemeshi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa mãtukĩte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Cemeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "arĩa mãtukĩte Bethi-Anati"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa mãtukĩte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "Anati"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hakuhĩ nakĩo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Acanaani"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "arĩa maatũkĩte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩyo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na arĩa mãtukĩte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Cemeshi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "na Bethi-"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "Anati"
+    },
+    {
+      "surface": "היו",
+      "gloss": "makaatuĩkĩra"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "למס",
+      "gloss": "wĩra wĩnini"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:12.573357313Z",
+  "model": "glm-5.3"
+}

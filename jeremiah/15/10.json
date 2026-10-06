@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 15:10",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kũenda na ũrĩa",
+      "rationale": "נשה gĩcunjĩ kĩa ũhoro-inĩ, no thĩinĩ wa Kĩhibirania kĩugaga kũhĩa mbeca na thĩiniĩ-rora; maũndũ matatũ me gigũkĩra mohoro"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש ריב ואיש מדון",
+      "rationale": "Kwĩrĩkanyĩra kwa mihĩtĩko ĩrĩ ya 'mũndũ wa...' — kĩeho kĩa mũgambo kĩanyiitĩrwo"
+    },
+    {
+      "kind": "invitation",
+      "subject": "wooi nĩ nginya",
+      "rationale": "Kwarĩrĩria kwa Jeremia nĩ gũkũũrũra mũthomi wa maandĩko gũthii na mbere na kĩhingo kĩa mũoyo"
+    }
+  ],
+  "translation": "Wooi nĩ nginya, mamayakwa, nĩringa ũciarie mũndũ wa mbaranio na mũndũ wa kũhenania kũu thĩ yothe; ndĩnendĩtie na ng'ania ũrĩa, na o ũrĩa ndĩngĩendio; makwiyũnyĩtigĩra nginya, aothe nĩmacũraga.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ab3d2ed937c420afea07ddfd8bd62312d32f51d4c9ff7061f80ec9c81c7dd2f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/15\/10-11.1791270257654.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "wooi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩ nginya"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamayakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩringa"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "ũciarie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "wa mbaranio"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "wa kũhenania"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "nendĩtie na ng'ania ũrĩa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na o ũrĩa ndĩ"
+    },
+    {
+      "surface": "נשו",
+      "gloss": "ngĩendio"
+    },
+    {
+      "surface": "בי",
+      "gloss": "makwiyũnyĩtigĩra nginya"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "מקללוני",
+      "gloss": "nĩmacũraga"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:17.675147935Z",
+  "model": "glm-5.3"
+}

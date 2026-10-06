@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ũheania",
+      "rationale": "Kĩgenzo gĩa causative kĩa מצמיח kĩarĩ na mũthiĩri-watho ũrĩa Kĩhibirania kĩtari nĩ mũno; Gĩkũyũ gĩcoka kĩa kĩhumo kĩagĩrĩirwo"
+    },
+    {
+      "kind": "crux",
+      "subject": "mugati",
+      "rationale": "לחם ĩngĩcowetwo 'irio'; KJV 'food' ihakanĩirie na 'bread' ya JPS — mugati nĩ kĩhumo kĩa kwĩhũrĩya"
+    }
+  ],
+  "translation": "Ũheania ng'arĩ kũgera ya ithekũ, na minyuru wĩra-inĩ wa mũndũ, gũtua mugati kuuma thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c195ce463fcbb6da40c7cd9a90226a4d3296aba1a96a545338583955894a1c43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/104\/13-14.1791270511226.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Ũheania-kũgera"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ng'arĩ"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ya ithekũ"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "na minyuru"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "wĩra-inĩ wa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "gũtua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mugati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:31.233398174Z",
+  "model": "glm-5.3"
+}

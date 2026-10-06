@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 2:1",
+  "book": "nahum",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הנה חגי שלמי",
+      "rationale": " verse opens with 'Rĩrĩ' (behold) and imperatives that summon Judah to celebrate — a direct hook to the hearer."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yuda",
+      "rationale": " The whole verse addresses Judah directly in second-person feminine forms."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום \/ שלמי",
+      "rationale": " Peace (thayũ) and 'pay\/fulfil' (hĩhia) share the root שׁלם in Hebrew; the sound-link is lost in Gĩkũyũ."
+    },
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": " Rendered 'mũthenge' (wicked one); Hebrew literally 'one without profit\/worth' — some translate as proper name 'Belial'."
+    }
+  ],
+  "translation": "Rĩrĩ, kũrĩ milima-inĩ rĩngĩ magũrũ ma mũrogori, ũrĩa ũrogora thayũ. Rora, Yuda, thamĩra mĩthenya yaku ya gũciara, hĩhia ndara ciaku; nĩgũkoruo mũthenge ndangĩcooka kũngĩ kũhĩtũka harĩ we; nĩagwetwo gĩthĩrĩ o yothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "993d5b2568a221e484a9b28af7e4dd2e5fefe962098ec389b9b12a4a9a71cb85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nahum\/2\/1-1.1791270394529.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "milima-inĩ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "magũrũ"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ma mũrogori"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "ũrĩa ũrogora"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "thamĩra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "חגיך",
+      "gloss": "mĩthenya yaku ya gũciara"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "hĩhia"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "ndara ciaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "cooka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kũngĩ"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "kũhĩtũka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "harĩ we"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "mũthenge"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "o yothe"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "nĩagwetwo gĩthĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:34.537266337Z",
+  "model": "glm-5.3"
+}

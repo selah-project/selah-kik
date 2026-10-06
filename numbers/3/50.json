@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "1365 cekeri",
+      "rationale": "Ndaa ya mbere-ciaro yothe yarĩ mũtheri: ikũmi na mĩrongo ĩtatũ na mĩrongo ĩtandatũ na ithano cia cekeri."
+    },
+    {
+      "kind": "addition",
+      "subject": "Moce",
+      "rationale": "Mũthaki uri a ũhoro ti thĩinĩ wa kiugo kĩa Kĩhibirania kĩngĩ; wongererwo kuuma mũhaka wa kahinda ũrĩa ũrĩ mbere."
+    }
+  ],
+  "translation": "Kuuma ⟨את⟩ mbere-ciaro cia ciana cia Yiceraeri Moce atiire ⟨את⟩ irĩa-fetha: ikũmi na mĩrongo ĩtatũ na mĩrongo ĩtandatũ na ithano, o ciatũkĩte cekeri-inĩ cia ũtheru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "02f1d15ea4a220eea2294f72b0d9e2a2d8cc6ffbf83a45b8665752fd5ead50f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/3\/50-50.1791269469480.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Kuuma ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mbere-ciaro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "Moce atiire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irĩa-fetha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "irĩa-fetha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "na mĩrongo ĩtandatũ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na ĩtatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "cekeri-inĩ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:09.490997269Z",
+  "model": "glm-5.3"
+}

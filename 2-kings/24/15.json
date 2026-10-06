@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סריסיו",
+      "rationale": "kiugo kĩugaga 'acukanĩ' mĩthemba ya mũndũ, no gĩgĩkorũo kĩngĩkorũo kĩugaga 'andũ arĩa maarĩ thĩinĩ wa nyũmba ya mũthamaki' — ta ũrĩa KJV ionanĩte 'officers'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aciarĩranĩ ake",
+      "rationale": "ndĩngĩhota kũgeria 'acukanĩ' mwĩhoceo wa Gĩkũyũ, nĩgeetha ũcio no nĩ kĩgima kĩa ciugo cia Kĩhibirania cia kũigua mwĩhoko wa mũndũ-arĩa-marĩ-thĩinĩ-wa-nyũmba-ya-mũthamaki"
+    }
+  ],
+  "translation": "Akĩhoire ⟨את⟩ Yehoyakini Baberi, na ⟨את⟩ ina wa mũthamaki, na ⟨את⟩ atumia a mũthamaki, na ⟨את⟩ aciarĩranĩ ake, na ⟨את⟩ ahinya a thĩ; agĩcooka na o aciĩ ihũũra, kuuma Yerucarayimu kinya Baberi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8054f981098840aed3fb0824500aa614f80a429466d8f541552af9f25f49f768",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/24\/13-15.1791270122728.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "akĩhoire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakini"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakini"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Baberi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ina wa mũthamaki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ina wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atumia a mũthamaki"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "atumia a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aciarĩranĩ ake"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "aciarĩranĩ ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ahinya a thĩ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ahinya a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "agĩcooka na o aciĩ"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "ihũũra"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kuuma Yerucarayimu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Baberi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:02.745319Z",
+  "model": "glm-5.3"
+}

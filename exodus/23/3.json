@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ודל",
+      "rationale": "'mũhĩnĩrĩru' (mũndũ mũtarĩ na wĩra) ũrĩa mwĩhoke wa mbere; angĩ makĩgeria 'mũkengetũ' (waga) — דל î mũndũ mũhĩnĩrĩru mũno thĩinĩ wa kĩng'etĩ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תהדר",
+      "rationale": "'kũhonorwo' nĩ kĩgeranio kĩa הדר (kũinĩrĩria, kũongereke); rora ta 'kũhonorwo' nĩgũo mũgambo ũikarage"
+    }
+  ],
+  "translation": "Na mũndũ mũhĩnĩrĩru ndũmũhonore kĩng'etĩ-inĩ kĩake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "14aa042e39fe0d73b22bb421e7834be5fc2a9110796b6dbaa4ab34c982f798ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/23\/3-4.1791269356456.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "Na mũndũ mũhĩnĩrĩru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "mũhonore"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "kĩng'etĩ-inĩ kĩake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:16.463668113Z",
+  "model": "glm-5.3"
+}

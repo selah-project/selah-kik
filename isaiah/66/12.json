@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 66:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thayũ ta mũcũũji",
+      "rationale": "נהר nĩ mũcũũji mũnene (ta Nairi kana Yufurate); thĩinĩ wa kĩũmbe thayũ ĩtuĩtwo ta maĩ mena mũgũki"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינקתם",
+      "rationale": "mũgambo wa kũnyua ũmwe ũrĩkĩga na 66:11 — rũgano rwa kũnyua rũgĩtũmĩrwowo Yahwe mwene"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנשאו ĩrũo",
+      "rationale": "nũndũ wa gũcarwo vs gũtwĩkanio (kasṣa): taũri aingĩ mũhiano 'kũcarwo rũo-inĩ' arĩrĩrie ta mwana"
+    }
+  ],
+  "translation": "Nĩgũkorwo Yahwe oigĩte ũguo: Ona, nĩnkĩratara makĩrĩa thayũ ta mũcũũji, na ta kĩcũĩ gĩa kũheanja ũgooci wa ndũrĩrĩ; na mũnyua, mũtuũrwo ĩrũo, na thĩinĩ wa magũrũ mũcuranania.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e5a4bedff673c463184a39de2d04799d234322720e2cfb3e3d377555d5e8ed88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/66\/11-12.1791270193069.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkorwo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "nĩnkĩratara"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "makĩrĩa"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "ta mũcũũji"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "וכנחל",
+      "gloss": "na ta kĩcũĩ"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "gĩa kũheanja"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ũgooci"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wa ndũrĩrĩ"
+    },
+    {
+      "surface": "וינקתם",
+      "gloss": "na mũnyua"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "צד",
+      "gloss": "rũo"
+    },
+    {
+      "surface": "תנשאו",
+      "gloss": "mũtuũrwo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ wa"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "magũrũ"
+    },
+    {
+      "surface": "תשעשעו",
+      "gloss": "mũcuranania"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:13.097307347Z",
+  "model": "glm-5.3"
+}

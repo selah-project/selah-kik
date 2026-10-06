@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 19:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mũthenya ũrĩa gatatũ",
+      "rationale": "kũgeria kwa Yahwe kwa mũthenya wa gatatũ kuneng'ethetwo gũtirĩ kũhĩa — kĩhumo kĩa mĩthenya ĩtata ya kũtherio"
+    },
+    {
+      "kind": "you",
+      "subject": "andũ othe",
+      "rationale": "kũgera kwa Yahwe kuonekanagia andũ othe — kũonekania gũkũrũ mbere ya maitho ma andũ"
+    }
+  ],
+  "translation": "Nĩgeetha mage tiigu mahĩtia mĩthenya ĩtata, nĩgũkorwo mũthenya ũrĩa gatatũ Yahwe akũraga hĩndĩ ya maitho ma andũ othe, igũrũ rĩa kĩrĩma kĩa Cĩnai.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "567c8915cf379dce8c86bac468c2e945fa39a0dde3d70ce9f9e14ea000bc0b13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/19\/9-11.1791269375658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Nĩgeetha mage"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "tiigu mahĩtia"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mĩthenya ĩtata"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "mũthenya ũrĩa gatatũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ũrĩa gatatũ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "akũraga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "hĩndĩ ya maitho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Cĩnai"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:35.679721414Z",
+  "model": "glm-5.3"
+}

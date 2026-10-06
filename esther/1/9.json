@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "גם yoiga 'o na' gũtuĩra mũhiano wa Gĩkũyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũthuaku",
+      "rationale": "המלכה nĩ 'mũthuaku-wa', kiugo kĩa Gĩkũyũ kĩega, ti Rĩĩtwa rĩa Ngai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩroreo",
+      "rationale": "משתה yoiga 'kũnyua\/kĩroreo-kĩa-kũnyua' — kiugo kĩrĩa gĩkoragwo na kũnyua gwakĩo"
+    },
+    {
+      "kind": "hapax-morphism",
+      "subject": "Waciti",
+      "rationale": "ושתי — sh nĩĩtuĩkaga c, ti 'Vasthi' wa Kĩthwahĩri"
+    }
+  ],
+  "translation": "O na Waciti mũthuaku-inĩ akate kĩroreo kĩa andũ-a-aku thĩinĩ wa nyũmba ya ũthuaku ĩrĩa ya Ahacwerochi mũthuaku,",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c775197c08daa691f1a791e5feff3b62271ac847bcd3ee83a9c475c3b52352cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/esther\/1\/9-9.1791270699977.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "na Waciti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mũthuaku-inĩ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "akate"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "kĩroreo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kĩa andũ-a-aku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ũthuaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ya mũthuaku"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahacwerochi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:39.981563958Z",
+  "model": "glm-5.3"
+}

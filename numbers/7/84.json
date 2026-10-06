@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "numbers 7:84",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ikũmi na ĩgĩrĩ × ithano",
+      "rationale": "Kũrora maũndũ: makũrũ ma fetha na thahabu macho mathie na 'ikũmi na ĩgĩrĩ' rĩrĩa rĩmerete."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפות",
+      "rationale": "Kabuni (njarũa) ya kanja: 'macũhi', 'marũa', kana 'njarũa cia maguta' — ndũrĩ kanja kĩmwe kĩa gĩkũyũ kĩrĩa kĩhota kũiguũra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hanukati",
+      "rationale": "חנכה nĩ 'kũririkana na gũtherie kĩndũ kĩerũ' — kiugo gĩa gĩkũyũ gĩa kuuma Kĩhibirania gĩcokĩtwo gĩkahandwo thĩinĩ."
+    }
+  ],
+  "translation": "Ĩno nĩ hanukati ya mwĩgatĩre, mũthenya ũrĩa ũninĩtwo ⟨את⟩, ⟨את⟩ kuuma mathamaki a Yiceraeri: marũa ikũmi na ĩgĩrĩ cia fetha, marũa-ma-kũheheria ikũmi na ĩgĩrĩ a fetha, njarũa ikũmi na ĩgĩrĩ cia thahabu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "42c6aac3a9900ba5170f609bae4881c912e15e67fa7977b514060bf7423a923c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/7\/84-85.1791269539580.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ĩno"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "hanukati"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mwĩgatĩre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "ũninĩtwo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mwĩgatĩre"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kuuma"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "mathamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "marũa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fetha"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "marũa-ma-kũheheria"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fetha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "njarũa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ĩgĩrĩ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:19.582357628Z",
+  "model": "glm-5.3"
+}

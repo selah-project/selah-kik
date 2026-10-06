@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ikũmi ng'iri",
+      "rationale": "kũringanĩria andũ acũũranĩ — ikũmi ng'iri"
+    },
+    {
+      "kind": "crux",
+      "subject": "המסגר",
+      "rationale": "kiugo gĩkuũngĩrĩra mũciari wa ciatũ (mithiũrũro), no kĩngĩkorwo kĩugaga 'mũciari wa mahũa' — arĩa mamenete nĩmeonania atĩ nĩ mũciari wa kũinya ciatũ"
+    },
+    {
+      "kind": "hapax-approx",
+      "subject": "דלת",
+      "rationale": "kiugo gĩa kũgũa kũingĩhahũka gĩgĩandĩkwo ũguo wiki thĩinĩ wa maandĩko ma Athamaki; gĩcũũranĩtia 'arĩa ihũũrĩtwo' nĩ gĩa kwĩhokea"
+    }
+  ],
+  "translation": "Akĩhoire ⟨את⟩ Yerucarayimu yothe, na ⟨את⟩ athimũ aria othe, na ⟨את⟩ arĩa i hinya wa ita aria othe — ikũmi ng'iri acũũranĩ — na aciarĩranĩ aria othe na aciarĩranĩ a ciatũ; ndaarĩkire ũngĩ, ita rĩngĩ arĩa ihũũrĩtwo andũ a thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8054f981098840aed3fb0824500aa614f80a429466d8f541552af9f25f49f768",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/24\/13-15.1791270122728.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "akĩhoire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucarayimu yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "athimũ aria othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aria othe"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "athimũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa i hinya wa ita aria othe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aria othe"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "arĩa i hinya"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "wa ita"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'iri"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "acũũranĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na aria othe"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "aciarĩranĩ"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "na aciarĩranĩ a ciatũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaarĩkire"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "kũingĩra"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "ita rĩngĩ"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "arĩa ihũũrĩtwo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:02.740334452Z",
+  "model": "glm-5.3"
+}

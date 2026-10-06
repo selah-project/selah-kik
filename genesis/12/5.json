@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "andũ",
+      "rationale": "הנפש nĩ hoho\/mwena wa mũndũ — 'andũ' (persons) nĩ ya kwonania maụndũ, ta KJV 'souls'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רכושם\/רכשו",
+      "rationale": "gũcooka kwa kiugo kĩmwe: wonjia\/kuhĩta — kĩũga gĩtarĩ kĩa Gĩkũyũ"
+    },
+    {
+      "kind": "addition",
+      "subject": "wonjia wothe wao",
+      "rationale": "'wao' nĩ c\/ĩngĩ ya wonjia — רכושם nĩ construct + suffix"
+    }
+  ],
+  "translation": "Abramu akĩgota ⟨את⟩ Sarai mũtumia wake, na ⟨את⟩ Loti mũrũ wa mwaro wake, na ⟨את⟩ wonjia wothe wao irĩa maahĩte, na ⟨את⟩ andũ arĩa maarerire Harani; magĩrũo magĩthiĩ bũrũri-inĩ wa Kenani, na makĩingata bũrũri-inĩ wa Kenani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bf69d9db9aae67a75da90f4f47e790a5abfa52471e55510249513a23c453e57c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/12\/5-5.1791269255552.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩgota"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũtumia wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wa mwaro wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wonjia wothe wao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "wonjia wao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "maahĩte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ arĩa maarerire Harani"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "maarerire"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "magĩrũo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "wa Kenani"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "makĩingata"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "wa Kenani"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:35.560298752Z",
+  "model": "glm-5.3"
+}

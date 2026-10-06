@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gĩtheru",
+      "rationale": "טהור nĩ 'theru' — ũtheru wa arũme thĩinĩ wa Tora, ti 'mũtheru' wa mũndũ mweha ũrĩmũ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויטהר\/טהור",
+      "rationale": "Kĩhibirania kĩrĩkana kĩa -טהר: 'akĩtherithia' na 'nĩ gĩtheru' — mũthemba ũmwe ũrĩa ũgĩtaũrwo na mũri ũmwe"
+    }
+  ],
+  "translation": "Nake mũcera akĩmũrora, na rũciarũ ⟨את⟩ gĩcourũ kĩĩgĩtũĩka kĩerũ, nake mũcera akĩtherithia ⟨את⟩ gĩcourũ kĩo — nĩ gĩtheru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d4feb451cba9ea230fd0ed7ac1b4a8fee449671c93a758412e64927e8ff0cff7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/13\/17-17.1791269411357.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "nake mũcera akĩmũrora"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũcera"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũciarũ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "kĩĩgĩtũĩka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "gĩcourũ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kĩerũ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "akĩtherithia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũcera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcourũ kĩo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "gĩcourũ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nĩ gĩtheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩguo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:11.361502516Z",
+  "model": "glm-5.3"
+}

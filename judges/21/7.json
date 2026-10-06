@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 21:7",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "Riuro rĩa andũ a Iceraeri rĩtarĩrio — 'tũkĩgeria atĩa?' — rĩhootora mũhaka wa kĩrĩkanĩro."
+    },
+    {
+      "kind": "substitution",
+      "subject": "honokia",
+      "rationale": "נשבע nĩ 'kwĩhonokia' — mũthuro wa mũgwanja — handũ ha 'kũhonia'; mũri ũmwe wa Gĩkũyũ wĩcirwo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנשים mbere na gũthia",
+      "rationale": "Kiugo kĩa atũmia kĩarĩkio gĩa mbere na gĩa mĩthia ya riroreo — mũthero ũrĩa waumĩte thutha wa riroreo rĩu ndũonekaga mũno."
+    }
+  ],
+  "translation": "Tũkĩgeria atĩa nĩ ao arĩa maciĩirie, arĩkĩo aciari a atũmia, na ithuĩ nĩtwahonokia kwĩ Yahwe atĩ ndĩtũhe ⟨arĩa maciĩirie⟩ atũmia kuuma ciana cia ithuĩ itũmĩre aciari a atũmia?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "54831e3b875a19da4cabb66560d9d23f57b4ba92487ec46af7af1460a74f3e96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/21\/7-7.1791269778200.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tũkĩgeria"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nĩ ao"
+    },
+    {
+      "surface": "לנותרים",
+      "gloss": "arĩa maciĩirie"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "arĩkĩo aciari a atũmia"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "na ithuĩ"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "nĩtwahonokia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kwĩ Yahwe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "atĩ ndĩtũhe"
+    },
+    {
+      "surface": "תת",
+      "gloss": "tũhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨arĩa maciĩirie⟩"
+    },
+    {
+      "surface": "מבנותינו",
+      "gloss": "kuuma ciana cia ithuĩ"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "itũmĩre aciari a atũmia"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:18.201115319Z",
+  "model": "glm-5.3"
+}

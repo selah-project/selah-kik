@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 14:29",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kĩu",
+      "rationale": "להם ciugĩtwo ta 'kĩu' na Gĩkũyũ kĩrĩa kĩhota gũciarĩkia kĩgera"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמה",
+      "rationale": "חומה nĩ kĩgera kĩa gũtirĩra — ta ũguo ndĩgarũrũkirie"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa kwao \/ ũmothi",
+      "rationale": "מימינם\/ומשמאלם nĩ mĩhianĩre-ĩrĩkĩro; Gĩkũyũ ĩhota ciugo igĩrĩ"
+    }
+  ],
+  "translation": "Na aana a Yiceraeri magiĩthĩire thĩ ina thĩinĩ wa riĩwa, na maaĩ nĩmaatuĩkire kĩgera kĩu, harĩ mboco yao ya kwao na ya ũmothi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "029bb42cf091a69525cea312916e121f6ab08659dc4867e12a0c122f19ae3149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/14\/29-29.1791269320915.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Na aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "magiĩthĩire"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "thĩ ina"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "riĩwa"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "na maaĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kĩgera"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "mboco yao ya kwao"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "na ya ũmothi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:40.920606699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אפו",
+      "rationale": "Kĩhibirania kĩugaga 'mũhũmũ wake ũtheretwo mũaki' — nĩ oigĩte thayũ ciake cinjũkĩte; kĩũgeranio gĩa mũhũmũ gĩaçokĩtio."
+    },
+    {
+      "kind": "addition",
+      "subject": "ũcio",
+      "rationale": "Kĩngereirwo gũcokia ũrĩa mucii ũrĩ, arĩa Kĩhibirania kĩtarĩ nakĩo."
+    }
+  ],
+  "translation": "Na Zeburu, mwathi wa mucii ũcio, akĩigua ⟨את⟩ ciugo cia Gaari mũcĩ wa Ebedi, na thayũ ciake ciamarũkire mũaki.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5c33e270884428ce463e4eb9daeeec23b1fcd91a13502d17cd24ebe6d59deb9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/9\/30-30.1791269784062.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zeburu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mucii ũcio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia Gaari mũcĩ wa Ebedi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũcĩ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebedi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ciamarũkire mũaki"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "thayũ ciake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:24.063464788Z",
+  "model": "glm-5.3"
+}

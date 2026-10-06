@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תסיעי",
+      "rationale": "נסע means 'pull up tent-pins, set out on a journey'; here 'set aside\/remove' — Gĩkũyũ 'gũtũmĩra thĩ' keeps the moving-away sense"
+    },
+    {
+      "kind": "you",
+      "subject": "mũka wa mũrathi",
+      "rationale": "Elisha addresses the widow directly with feminine singular imperatives throughout"
+    }
+  ],
+  "translation": "Ndũka-inĩ, ũciarũge mũrüngũ ũrĩa wĩwe na ciana ciaku, na ndũcie macimbo maringo-inĩ macio iothe, na irĩa ijũra ndũcitũmĩre thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b1c01eae1db96a0a1bbfc507b9af52dd6318243a16a7a5084c1fa7dcca5a3c99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/4\/4-4.1791270024599.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Ndũka-inĩ"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "ũciarũge"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "mũrüngũ"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "ũrĩa wĩwe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ciana ciaku"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ndũcie"
+    },
+    {
+      "surface": "על",
+      "gloss": "maringo-inĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "macimbo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "irĩa ijũra"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "ndũcitũmĩre thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:24.601957640Z",
+  "model": "glm-5.3"
+}

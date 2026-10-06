@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 33:14",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kĩringĩtia kĩa nje",
+      "rationale": "חיצונה nĩ 'ya nje' — ⟨kĩa nje⟩ nĩcio ciongereirwo kũrera ũhoro wa kĩngeranio kĩa Gĩkũyũ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciĩtari",
+      "rationale": "חיל nĩ hinya wa andũ arĩa mothe, arutani — 'ciĩtari' gũcokia gĩkundi kĩu kĩmwe tu."
+    },
+    {
+      "kind": "addition",
+      "subject": "ĩrahĩrirwo",
+      "rationale": "הבצרות nĩ gĩcunjĩ kĩa kĩugo kĩa Kĩhibirania; Gĩkũyũ kĩhootanĩtia kĩugo kĩrĩa kĩngĩtarĩ kĩmwe."
+    }
+  ],
+  "translation": "Na thutha wa macio, akũũra ⟨kĩringĩtia kĩa nje⟩ kĩa mucĩĩ wa Dawidi, itherũrũ rĩa Gihoni rũnyinyini-inĩ, kinya mũrango-inĩ wa rũyũ, na gũkorerera Ofeli, akanakĩringĩhĩria kĩnene mũno, na gũcoka akĩĩhandĩthia atongoria a ciĩtari mĩcĩĩ-inĩ ĩrĩa yothe ĩrahĩrirwo ya Yahuda.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c6b35d0ad6520fa01c5d8ee75b60ef588c37330bf72754f121d06bca702c33e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/33\/14-14.1791270906654.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Na thutha wa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "macio"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akũũra"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "kĩringĩtia"
+    },
+    {
+      "surface": "חיצונה",
+      "gloss": "kĩa nje"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kĩa mucĩĩ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מערבה",
+      "gloss": "itherũrũ"
+    },
+    {
+      "surface": "לגיחון",
+      "gloss": "rĩa Gihoni"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "rũnyinyini-inĩ"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "mũrango-inĩ"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "wa rũyũ"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "na gũkorerera"
+    },
+    {
+      "surface": "לעפל",
+      "gloss": "Ofeli"
+    },
+    {
+      "surface": "ויגביהה",
+      "gloss": "akanakĩringĩhĩria"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kĩnene mũno"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "na akĩĩhandĩthia"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "a ciĩtari"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ĩrĩa yothe"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mĩcĩĩ-inĩ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ĩrahĩrirwo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ya Yahuda"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:06.661919746Z",
+  "model": "glm-5.3"
+}

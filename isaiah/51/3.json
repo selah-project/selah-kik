@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 51:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחם ... נחם",
+      "rationale": "Kiugo kĩmwe kĩrarĩkio riua igĩrĩ — kĩonekaga mũno thĩinĩ wa kĩhooto kĩa Yahwe kũhumbũra Ciyoni"
+    }
+  ],
+  "translation": "Nĩgũkoruo Yahwe nĩahumbũrire Ciyoni, nĩahumbũrire mahũa makuo mothe; akagĩtua gĩthaka kĩake ta Edeni, na ithagwa rĩake ta mũgũnda wa Yahwe; gĩkeno na ithĩĩranĩ biũ igakũranio-inĩ kuo, ngatho na mũgambo wa nyĩimbo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0f9a4db4b8483aa235f6f087f122d8c5e3638d3fa4f2d8d3c8a5057d7e9a1acd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/51\/1-3.1791270192902.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nĩgũkoruo"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nĩahumbũrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ciyoni"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nĩahumbũrire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "חרבתיה",
+      "gloss": "mahũa makuo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akagĩtua"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "gĩthaka kĩake"
+    },
+    {
+      "surface": "כעדן",
+      "gloss": "ta Edeni"
+    },
+    {
+      "surface": "וערבתה",
+      "gloss": "na ithagwa rĩake"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "ta mũgũnda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gĩkeno"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "na ithĩĩranĩ biũ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "igakũranio"
+    },
+    {
+      "surface": "בה",
+      "gloss": "handũ hakuo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ngatho"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "na mũgambo"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "wa nyĩimbo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:12.937357747Z",
+  "model": "glm-5.3"
+}

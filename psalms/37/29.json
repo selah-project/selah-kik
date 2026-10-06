@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "arĩa athere",
+      "rationale": "צדיקים nĩ 'arĩa arĩ a cedeki\/atheru' — kĩga kĩmwe kĩa gĩikaro, ti gĩcunjĩ kĩa maũndũ"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "mũrango wa ⟨את⟩ ndũongĩkĩra thĩinĩ wa ũtaũri"
+    }
+  ],
+  "translation": "Arĩa athere makĩrĩithia ⟨את⟩ thĩ, na makĩikara kuo nayɔ hĩndĩ ciothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bf3f9058cfd82a3683a3ea60a780dc2b346a39efcb5e2540f22c804d0cc1a73a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/37\/29-29.1791270465622.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "arĩa athere"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "makĩrĩithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "na makĩikara"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuo nayɔ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:45.625269350Z",
+  "model": "glm-5.3"
+}

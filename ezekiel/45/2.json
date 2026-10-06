@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 45:2",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "magana matano na magana matano",
+      "rationale": "Therũ nĩguo kĩgeranio kĩa kĩguni kĩa therũ: 500 na 500, na ama 50 cia gĩcũji."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gĩcũji",
+      "rationale": "מגרש nĩ thĩ ya hĩngũriĩre kũrĩa ng'ombe ikũngũragia; 'gĩcũji' (gĩakũndĩ kĩahĩtũkĩte) nĩ kĩnyiitĩrĩrio kĩa kĩndũ gĩa mũthemba ũcio."
+    },
+    {
+      "kind": "crux",
+      "subject": "magana matano",
+      "rationale": "Matĩryo manini: kĩgeranio kĩa agana kana cekeri? Maandĩko me kwaria ũguo ta kĩndũ kĩu kĩmwe, ti kĩgeranio gĩa kũongerera."
+    }
+  ],
+  "translation": "Kuuma harĩ kĩu nĩkuuge therũ-inĩ, magana matano na magana matano, gĩathĩra kĩna ithuiyo inya hamwe, na thutha ũcio ama makũmi matano cia gĩcũji nĩcia kuuga gĩkũndĩ kĩayo kĩhĩtũkĩte, ihuhũrĩirie kĩu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f4fd66792c7b7dccf7326550e6d7f8d0966af5065ce1a6e4080a67f5fde13335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/45\/2-2.1791270386476.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיה",
+      "gloss": "nĩkuuge"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuuma harĩ kĩu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "therũ-inĩ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "therũ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "matano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    },
+    {
+      "surface": "בחמש",
+      "gloss": "matano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    },
+    {
+      "surface": "מרבע",
+      "gloss": "gĩathĩra kĩna ithuiyo inya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ihuhũrĩirie"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "makũmi matano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "gĩcũji"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kĩayo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kĩhĩtũkĩte"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:26.478893372Z",
+  "model": "glm-5.3"
+}

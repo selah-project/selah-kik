@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "inywi",
+      "rationale": "Kĩrĩkanĩro gĩkĩ kĩarĩrĩria andũ a Yuda arĩa mabũrũru-two Babelona"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ehyeh",
+      "rationale": "אהיה nĩgũkoruo gĩa Yahwe mũthemba — rĩĩtwa rĩrĩa Erohimu oigire Moce (Kĩambĩrĩria 3:14)"
+    }
+  ],
+  "translation": "Nĩgeetha mathi thĩinĩ wa ciiaro cianja, na mamũkorwo ⟨את⟩ ciira cianja, na kũmeke ⟨את⟩ icio; nao mate andũ gwakwa, na inywi nĩngĩkoruo Erohimu wanyu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9f690c96db23d1c90f55aab1879e47ca6a878be4e8401bf7789a2aeea90c8641",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/11\/19-20.1791270318876.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "thĩinĩ wa ciiaro cianja"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ciira cianja"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ciira cianja"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "mamũkorwo"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "na kũmeke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ciira cianja"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "nao mate"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gwakwa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na inywi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nĩngĩkoruo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wanyu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:18.893062710Z",
+  "model": "glm-5.3"
+}

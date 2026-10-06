@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 2:13",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "טמא נפש nĩ 'ũrĩa omonerio nĩ mũndũ arĩa ahingũrire', ti ngoro; thĩinĩ wa Kĩkũyũ gĩcookerio ta 'wa mũndũ' kũrĩa kwa hinya gĩterũkĩtie"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגע טמא",
+      "rationale": "andũ aingĩ methome macokanagĩra: nĩ ũtheku wa mwĩrĩ kana ũtheku wa kĩhemehemie (kwa ndawa ya Kĩhurutu)"
+    }
+  ],
+  "translation": "Nĩũgete Hagai: Kana mũndũ ũrĩa ena ũtheku wa mũndũ arũmaai akora kĩndũ kĩa ici, kĩgatuĩka ũtheku? Nĩcoohethekahũa atĩa amairuti, makĩuga atĩ: Nĩgatuĩka ũtheku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b8dceb33d2ba8d3586d76b20073624f1e4000e1336adcf00aa49faed44fe9a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/haggai\/2\/13-13.1791270406730.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩũgete"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hagai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "akora"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ũrĩa ena ũtheku"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kĩndũ kĩa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "היטמא",
+      "gloss": "kĩgatuĩka ũtheku"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "nĩcoohethekahũa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "amairuti"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga atĩ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nĩgatuĩka ũtheku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:46.735384619Z",
+  "model": "glm-5.3"
+}

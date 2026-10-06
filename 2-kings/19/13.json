@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Hecakiya na Yerucarayimu",
+      "rationale": "Rab-cakihe anũhũria ũthũ gĩthako kĩa Yerucarayimu: 'mwathĩ angĩkorwo arĩ kũu?'"
+    }
+  ],
+  "translation": "Ĩrĩ kũu mwathi wa Hamathi, na mwathi wa Arapadi, na mwathi wa mucĩ wa Ceparavayimu, Hena na Iva?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "27884cb288597c2991ee684b6dfaad41a7622cf7be09f8e9acc3ac320f94fdaf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/19\/13-13.1791270046084.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Ĩrĩ kũu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamathi"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arapadi"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wa mucĩ"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Ceparavayimu"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "na Iva"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:46.085295647Z",
+  "model": "glm-5.3"
+}

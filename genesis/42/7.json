@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכרם \/ ויתנכר",
+      "rationale": "Miũrĩ ĩĩrĩ ĩumĩte kũgera mũmwe נכר — kũmenya na gũtuĩka mũnyakerũ — ciugo icio nĩcionanagia ũrĩa kĩkooyo gĩa igongona kĩrĩ handũ-inĩ kĩmwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתנכר",
+      "rationale": "Andũ aingĩ megĩtie mbere: 'weyagĩrĩire mwĩrĩ mũndũ mũcyerũ' kana 'atũngĩtie ndeto cia mũnyakerũ' — ndeto cia Kĩhĩbrania nĩ cikũrũngĩrwo ikiuga mũhiano ũrĩa mweri ũrĩa ũtiganĩte na mũciĩwake arĩkia tuĩka mũndũ ũngĩ"
+    },
+    {
+      "kind": "you",
+      "subject": "Nĩmookire kuuma kũrĩ?",
+      "rationale": "Kĩhooto kĩa mũkũrĩ mani: Yucefu ndaaria arĩa a ithe ngothi-inĩ — kĩgo gĩa gwĩcinia na kĩrĩa kĩgĩte mũtheru wa kũrũmĩrĩra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קשות",
+      "rationale": "Kiugo gĩa Kĩhĩbrania kĩuga 'kĩnanda gĩa thĩ' kana 'kĩhinya' — gĩtũmĩte 'na hinya mũnene' kĩrĩa gĩtarĩ kĩa kwĩigua harĩ ũgĩmanĩri manĩ"
+    }
+  ],
+  "translation": "Yucefu akĩona ⟨את⟩ arĩa a ithe, amamenyete, no akĩarĩra mũndũ mũnyakerũ kũrĩ arĩa, anaaria ⟨את⟩ arĩa na hinya mũnene, akiuga kũrĩ arĩa: Nĩmookire kuuma kũrĩ? Ao makauga: Kuuma thĩ ya Kenani, kũgũcũnjira irio.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8903152af5bfa243771e74ee745ef5b64062102cfb8648ac442efd4bcc0f8a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/42\/6-8.1791269320106.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akĩona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yucefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa a ithe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arĩa a ithe"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "amamenyete"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "akĩarĩra mũnyakerũ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kũrĩ arĩa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "anaaria"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "na hinya mũnene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kũrĩ arĩa"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kuuma kũrĩ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nĩmookire"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ao makauga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kũgũcũnjira"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "irio"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:40.119020022Z",
+  "model": "glm-5.3"
+}

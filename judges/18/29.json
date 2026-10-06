@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 18:29",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Natũmwo mbaara-inĩ",
+      "rationale": "Kĩhumbo kĩa gũtũmia andũ nĩgũkĩhe mũthingi wa ũhoro; Kĩhibirania nĩgĩtambĩraga na ciugo cia kũhita"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rĩĩtwa ria mucĩ",
+      "rationale": "Kwĩhota kwa rĩĩtwa — kũhairwo rĩĩtwa rĩngĩ rĩa mucĩ ũcio, Dani ihinda Layici"
+    }
+  ],
+  "translation": "Natũmwo mbaara-inĩ, nao makĩhaita rĩĩtwa ria mucĩ ũcio Dani, na rĩĩtwa ria Dani ithe ao, ũrĩa aaciarirwo Yiceraeri; no rĩĩtwa ria mucĩ ũcio nĩrĩo Layici kuuma mbere.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c00f81f298a9d0c1a9ea6d8081dea1e638dea19d1294e3656092854cbdcc13ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/18\/29-29.1791269753300.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "makĩhaita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ria mucĩ ũcio"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na rĩĩtwa ria"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ithe ao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "aaciarirwo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "no"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Layici"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ria mucĩ ũcio"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "kuuma mbere"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:53.301399821Z",
+  "model": "glm-5.3"
+}

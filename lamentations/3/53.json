@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמתו בבור חיי",
+      "rationale": "KJV\/ASV 'magĩthinjirie' mahĩtia marĩa ma BSB 'manikire mũndũ mũciu'; צמת ya ugwo nĩ gũcambĩrira, וידו ĩrĩ kuuma kana gũcoka"
+    }
+  ],
+  "translation": "Magũruta-inĩ nĩmathinjirie ⟨את⟩ miaka yaku, na makĩrũnga ciĩ thĩinĩ waku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f1d331a67a1a4895534e930c057e81399a520f77a59156b1b85c2e745ff32cda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/lamentations\/3\/53-53.1791270613208.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "nĩmathinjirie"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Magũruta-inĩ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "miaka yaku"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "makĩrũnga"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "⟨את⟩ ciĩ",
+      "marks": "ciĩ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "thĩinĩ waku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:13.212252145Z",
+  "model": "glm-5.3"
+}

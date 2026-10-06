@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 10:26",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũcinĩre wa",
+      "rationale": "בדרך מצרים nĩ 'njĩra ya Micirayimu' — 'mũcinĩre wa Micirayimu' nĩ kũgereria ũrĩa taũri ingĩ maonire"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמכת",
+      "rationale": "mũthũkũko wa ma: 'kũgwĩtwo' (KJV slaughter) kana 'kũrwanĩrwo' (gĩcunjĩ kĩa mbaara ya Gideoni)"
+    },
+    {
+      "kind": "addition",
+      "subject": "wake",
+      "rationale": "kiugo gĩa gũcooka 'wake' kĩongĩtwo kũonania mũthiũ nĩ wa Yahwe"
+    }
+  ],
+  "translation": "Na Yahwe Cebaoti nĩkuamũkĩrĩra kũrĩ we mũcuthi, ũrĩa wa kũgwĩtwo ta ya Midiyani kahiga-inĩ ga Orevi; na mũthiũ wake nĩgũciooka thĩinĩ wa irĩa, na nĩgũkuũngũririo na mũcinĩre wa Micirayimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4b02a9e3ba36b76e4b71a55b9def03cc31b97db06149172f4d10c04009b97a1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/10\/26-26.1791270996064.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועורר",
+      "gloss": "nĩkuamũkĩrĩra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "mũcuthi"
+    },
+    {
+      "surface": "כמכת",
+      "gloss": "ta ya kũgwĩtwo"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kahiga-inĩ"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Orevi"
+    },
+    {
+      "surface": "ומטהו",
+      "gloss": "na mũthiũ wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "nĩgũkuũngũririo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na mũcinĩre wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:36.067860122Z",
+  "model": "glm-5.3"
+}

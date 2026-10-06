@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 1:18",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "magĩrũngo",
+      "rationale": "גַּב rim\/back-of-wheel: 'rim' ya gĩturi nĩ mũhiano wa kĩguni, kiugo kĩa Kĩhibirania kĩruta 'mũgĩrũngo' wa gĩturĩ-inĩ"
+    },
+    {
+      "kind": "crux",
+      "subject": "kwĩgũa kũinĩ",
+      "rationale": "יִרְאָה: 'kũgwooka\/kwĩgũa' kana 'kũinĩkitwo' — andũ a taũri moigaga 'dreadful to behold'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "irĩrĩ ciani-inĩ thĩinĩ wa magĩrũngo",
+      "rationale": "macio nĩ maonĩka mahĩtia, kĩonekoro kĩa kĩhumo kĩtagweteka"
+    }
+  ],
+  "translation": "Na magĩrũngo macio, mũtwĩ wa kũigwatha nĩwao, na kwĩgũa kũinĩ nĩkwao; na magĩrũngo mao nĩmĩrĩ irĩrĩ ciani-inĩ, thĩinĩ wao mahĩa, icanya ĩna.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "aafacd42caaba81636bb786ec2d78ad6dca7a3703cf54ec33395b3c30dcaf8ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/1\/18-18.1791270269498.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגביהן",
+      "gloss": "na magĩrũngo macio"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "mũtwĩ wa kũigwatha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nĩwao"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "na kwĩgũa kũinĩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nĩkwao"
+    },
+    {
+      "surface": "וגבתם",
+      "gloss": "na magĩrũngo mao"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "nĩmĩrĩ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "irĩrĩ ciani-inĩ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "thĩinĩ wao mahĩa"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "icanya ĩna"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:29.509330209Z",
+  "model": "glm-5.3"
+}

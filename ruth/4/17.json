@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 4:17",
+  "book": "ruth",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "arĩa matũũraga hakuhĩ",
+      "rationale": "השכנות nĩ 'andũ a mũciĩ ũcio'; kĩugo gĩa Gĩkũyũ kĩa kũheereera kĩnyiitagĩra mĩhari gĩcunjĩ-inĩ kĩa metha."
+    },
+    {
+      "kind": "addition",
+      "subject": "ũcio nĩwe",
+      "rationale": "Kĩmera kĩa Gĩkũyũ kĩngĩigana na הוא kwa kũonania mũndũ mũthĩũ."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Obedi, Yici, Dawidi",
+      "rationale": "Mũhĩrĩga ũrĩa ũratũũra kwimbithe na kĩgina-inĩ kĩa thutha (Ruthi 4:18)."
+    }
+  ],
+  "translation": "Na arĩa matũũraga hakuhĩ nĩmaĩhitũkĩirie rĩĩtwa, magĩtheri: Nĩmwathĩkĩte mũrũ wa Naomi; na makĩhitũkĩria rĩĩtwa rwake Obedi. Ũcio nĩwe ithe wa Yici, ithe wa Dawidi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "50e5245bc5cfa716a9416eda04a41bfe316dd774b5d3b669f803cc5f64f09238",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ruth\/4\/17-17.1791270632735.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקראנה",
+      "gloss": "nĩmaĩhitũkĩirie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "השכנות",
+      "gloss": "aria matũũraga hakuhĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "magĩtheri"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nĩmwathĩkĩte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "לנעמי",
+      "gloss": "wa Naomi"
+    },
+    {
+      "surface": "ותקראנה",
+      "gloss": "makĩhitũkĩria"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rwake"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio nĩwe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yici"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "wa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:32.741084434Z",
+  "model": "glm-5.3"
+}

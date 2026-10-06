@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wake",
+      "rationale": "Kĩgĩrĩ kĩa mbere kĩrĩa Hebrew kĩtarĩ kĩonjeirwo kũringana na 'wi wakwa' wa kĩhumo kĩa 'abiiu' gĩa kĩongo kĩa Ejiputi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "andũ a thĩ",
+      "rationale": "'am ha'aretz' nĩ gĩcunjĩ gĩa bũrũri kĩiyũrire ũteti, no gĩtaũrwo o ta 'andũ a thĩ'"
+    }
+  ],
+  "translation": "Nĩgetha andũ a thĩ magĩte ⟨את⟩ Yehoahazi mũrũ wa Yociayahu, na mũmũthamakĩra handũ ha ithe wake Yerucarayimu-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "38046274f5be9a0eb807e97ad145b0eee2bd7cfea65bd8d0199f5525274f5527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/36\/1-1.1791270914625.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nĩgetha magĩte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yociayahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "mũmũthamakĩra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:14.629048336Z",
+  "model": "glm-5.3"
+}

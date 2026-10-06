@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 8:21",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mahĩti",
+      "rationale": "עיניו ni mahĩti; 'mahĩti' ni eyeri itua na kihumo kimwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Yavani",
+      "rationale": "יון ni Yavani (Aruka), taucwo ni rĩĩtwa, ti 'Ngiriki'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kĩguni",
+      "rationale": "הצפיר ni mũrigũ wa kĩguni; taucwo lingĩ 'he-goat inene'"
+    }
+  ],
+  "translation": "Na mũrigũ wa kĩguni, ũrĩa warĩ na mĩcuũ mĩraya, nĩwe mwathi wa Yavani; na kerenda nene ĩrĩa yarĩ gatagatĩ ka mahĩti make, ũcio nĩwe mwathi wa mbere.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "223697a81556016394e6a755502c6d9e50cb9be3e90600b5c40dd2fdacca45b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/8\/21-21.1791270728025.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצפיר",
+      "gloss": "Na mũrigũ wa kĩguni"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ũrĩa warĩ na mĩcuũ mĩraya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "יון",
+      "gloss": "wa Yavani"
+    },
+    {
+      "surface": "והקרן",
+      "gloss": "na kerenda nene"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ ka"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahĩti make"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũcio nĩwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:08.026930739Z",
+  "model": "glm-5.3"
+}

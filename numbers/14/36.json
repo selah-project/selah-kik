@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 14:36",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וילונו",
+      "rationale": "לון (H3885a) harĩ inĩ nĩ 'gũhĩtia roro\/kũina', o na kĩngERE gĩa H3885b nĩ 'gũikara ũgĩcookĩte' — taũri aingĩ maithĩkagia 'kũhĩtia roro'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבה",
+      "rationale": "nĩ kĩrũ hihi — kiugo kĩa Kĩhibirania gĩa kĩheo kĩbaya kĩhootanĩrio, ti 'report' ya kawaida."
+    },
+    {
+      "kind": "elision",
+      "subject": "עליו",
+      "rationale": "'matũĩte' nĩ kwa Abarahamu\/Moce — kiugo gĩa gũkonereria gĩatũũkĩte mũgambo wa gũtirĩkana."
+    }
+  ],
+  "translation": "Arĩa andũ arĩa Moce atumĩte gũciorera ⟨את⟩ thĩ, nao makĩcooka mahĩtia-roro matũĩte ⟨את⟩ mũthingu wothe kuma thĩ-inĩ, magĩcokia gĩcaro kĩrũ hihi thĩ yothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "191a967e272ca108e81c408c804becf1b8147c1d4f5649dde83a85563a0b5d24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/14\/36-36.1791269578645.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "arĩa andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atumĩte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "gũciorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "makĩcooka"
+    },
+    {
+      "surface": "וילונו",
+      "gloss": "mahĩtia-roro"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "matũĩte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingu wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "magĩcokia gĩcaro"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "kĩrũ hihi"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:58.649960484Z",
+  "model": "glm-5.3"
+}

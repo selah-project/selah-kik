@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 23:17",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kũingĩka kwa ngoro",
+      "rationale": "בשררות nĩ 'kũingĩka' (obstinacy) — KJV 'imagination' yaarie thiomi ingĩ nĩ kuherehere gwa ũhoro"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמרים\/אמור\/אמרו",
+      "rationale": "Kĩugo kĩa 'kwĩra' kĩarĩkĩtwo hangĩ thaatura, hamwe na marĩĩtwa ma mbere 'marĩkuuga... arire... barĩkuuga' — mũhianano wa mĩhari ũcio ũrarĩkio"
+    }
+  ],
+  "translation": "Marĩkuuga o na bata kuuga kũrĩ arĩa mamenete: “Yahwe arire: thĩũ nĩgũkorwo kwanyinyi”; na mũndũ o wothe ũgĩthiĩ thutha wa kũingĩka kwa ngoro yake, barĩkuuga atĩ kĩuru ndĩkũgĩa kwanyinyi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9a6cc4fddbfdb3b1597e2c0238463c91f06458bc222322a559162b205b970fa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/23\/17-18.1791270256777.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרים",
+      "gloss": "marĩkuuga o na bata"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "kuuga"
+    },
+    {
+      "surface": "למנאצי",
+      "gloss": "kũrĩ arĩa mamenete"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "arire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thĩũ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwanyinyi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ũgĩthiĩ"
+    },
+    {
+      "surface": "בשררות",
+      "gloss": "thutha wa kũingĩka kwa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "barĩkuuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ndĩkũgĩa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kwanyinyi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kĩuru"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:16.783038417Z",
+  "model": "glm-5.3"
+}

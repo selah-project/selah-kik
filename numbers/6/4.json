@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זג",
+      "rationale": "Gĩoko kĩa mbĩ — kiugo gĩa Kĩhibirania kĩa gĩoko kĩa mbĩ kĩonekana tanũ gĩkũ-inĩ kĩa Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחרצנים",
+      "rationale": "Hapax: 'mbembe nthĩ' (haradussanim) — andũ aingĩ ta JPS makĩuuruta ta 'mbembe ciaburĩtwo'; kĩrũngĩrĩru nĩ mbembe ĩrarũ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "היין",
+      "gloss-context": "mucĩnda wa mvindi",
+      "rationale": "Kiugo kĩa mvindi nĩ kĩmwe kĩrĩa kĩarahũkĩtie na mvindi ndũrĩ kanitha-inĩ kĩrĩa gĩtari-gĩtarĩ kĩa 'yein-tree'."
+    }
+  ],
+  "translation": "Mĩthenya yothe ya kĩeerero gĩake, kĩndũ gĩa o guo kĩrĩa gĩakoragwo gĩakĩtwo kuuma mucĩnda wa mvindi, kuuma mbembe nthĩ hatĩ na gĩoko kĩa mbĩ, ndakoragwo akiara.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d2409a7eba37bf761f6a1e1895fac47568f476991a8523ab5498167e0b43d46e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/6\/4-4.1791269482300.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Mĩthenya"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "kĩeerero gĩake"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kĩndũ gĩa o guo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gĩakoragwo gĩakĩtwo"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "kuuma mucĩnda wa mvindi"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wa mvindi"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "kuuma mbembe nthĩ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hatĩ na"
+    },
+    {
+      "surface": "זג",
+      "gloss": "gĩoko kĩa mbĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndakoragwo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akiara"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:22.304935109Z",
+  "model": "glm-5.3"
+}

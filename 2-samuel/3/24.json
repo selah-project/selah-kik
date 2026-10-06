@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 3:24",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוך",
+      "rationale": "kwarahania-inĩ kĩa Gĩhibirania 'וילך הלוך' — gũthiĩ na gũcooka handũ ha kĩng'ania kĩmwe 'nĩathiĩ ithenya rĩa ithenya'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yoabi",
+      "rationale": "Yoabi ũrĩa akũrirĩra mũthamaki Dawidi na mĩbuko ĩtatũ: 'nĩkĩ wĩmekire?' na 'nĩkĩ ũmũrire?'"
+    }
+  ],
+  "translation": "Na Yoani agĩthiĩ kũrĩ mũthamaki, akiuga: Ũndũ ũrĩa wĩmekire nĩũũ? Rĩrĩ, Abineri nĩookire gũkũ harĩ we; nĩkĩ ũmũrire, na akĩthera gũthiĩ na gũcooka?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "39e5cda3b5067e0e949185db5ffa166571f0b61c4ef89fd89c3361065361fa41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/3\/23-24.1791269853051.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wĩmekire"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩookire"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gũkũ harĩ we"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũũ"
+    },
+    {
+      "surface": "שלחתו",
+      "gloss": "ũmũrire"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akĩthera"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gũthiĩ na gũcooka"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:33.052616525Z",
+  "model": "glm-5.3"
+}

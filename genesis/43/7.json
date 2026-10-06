@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 43:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאול שאל",
+      "rationale": "Kĩgumbo kĩmwe kĩa kũũra: infinitive na kiugo kĩa Kĩhibirania hana mũgambo ũmwe — rora Kĩgĩkũyũ gĩtarĩ na ũcio mũgambomenyi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "על פי",
+      "rationale": "'Thutha wa kanua' — kĩgunĩrio kĩa Kĩhibirania kĩuga 'rĩrĩa maũndũ macio maugĩtwo'; Kĩgĩkũyũ gĩkũhota 'thutha wa maũndũ macio'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הורידו",
+      "rationale": "'Mũrire\/mũcyũhĩrĩre' — hihi gũtherema (ciarĩrĩirwo Micirayimu); gĩtarĩ gĩa 'kũngĩra' wiki"
+    }
+  ],
+  "translation": "Na makĩuga: Mũndũ ũcio nĩakuũrire ithuĩ na mĩcii yithuĩ, akiuga: Mũcogo wanyu arĩ mũigu no gũtĩĩra? Mwarũ wanyu mwĩna ũngĩ? Nĩtũcookerire we maũndũ macio. Atĩa nĩtwamenya atĩ arĩkũuga: Mũrire mwarũ wanyu ⟨את⟩?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4bfd6d118259636417f4d7db843ee4a1339ed43ea161956d401968fe813ce77f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/43\/6-7.1791269307310.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "nĩakuũrire"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kuũra"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "ולמולדתנו",
+      "gloss": "na mĩcii yithuĩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "no gũtĩĩra"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "mũcogo wanyu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "arĩ mũigu"
+    },
+    {
+      "surface": "היש",
+      "gloss": "mwĩna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "אח",
+      "gloss": "mwarũ"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "nĩtũcookerire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "על",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kanua"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maũndũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "הידוע",
+      "gloss": "kũmenya"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "nĩtwamenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "י אמר",
+      "gloss": "arĩkũuga"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "Mũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwarũ wanyu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mwarũ wanyu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:27.320743955Z",
+  "model": "glm-5.3"
+}

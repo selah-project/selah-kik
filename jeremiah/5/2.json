@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לכן",
+      "rationale": "לכן 'truly\/therefore' — renders as 'ari ũguo nĩ', Hebrew oath-affirming particle"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישבעו",
+      "rationale": "שבע = 'to seven oneself', swear; gloss 'kũhiĩra' carries oath sense but seven-wordplay lost"
+    }
+  ],
+  "translation": "Na arĩ mame: Yahwe agĩrĩku, ari ũguo nĩmahiĩra bahatũ-inĩ mameru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1234b4b5858de5e3f51b0b8aa99c2ac0026aeee17c026e4eff8980418d654218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/5\/2-2.1791270194114.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na arĩ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "agĩrĩku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mame"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ari ũguo nĩ"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "bahatũ-inĩ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mahiĩra mameru"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:14.121564941Z",
+  "model": "glm-5.3"
+}

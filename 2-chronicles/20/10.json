@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 20:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "arĩa maheanirie",
+      "rationale": "Ũrĩa ũheanĩirie na ũrĩa ũregeretie kũhenania nĩ ũngĩ twĩra Yiceraeri (BSB) kana ndũrĩrĩ icio (KJV) — Kĩhibirania kĩrekĩte mũigana ũgĩa mũhaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kwinina ho",
+      "rationale": "לבוא בהט nĩ 'gũthiĩ handũ hau' — Kĩgĩkũyũ kĩagĩrĩire 'kwinina' kana 'gwĩthĩra nyũngũ-inĩ'"
+    }
+  ],
+  "translation": "Na rĩrĩ, ona, aana a Amoni, na Moabu, na kirima kĩa Seiri, arĩa ndũhotithirie Yiceraeri kwinina ho rĩrĩa maatumĩtio kuuma thĩ ya Micirayimu, nĩgũkorwo maaheanirie kwaro, na maaregere kũhenania cbo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f82156356aeab34931c3a87dd25bacc8b8d2451eaa391b4aa0c39191e7c7ddca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/20\/9-10.1791270953990.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "na Moabu"
+    },
+    {
+      "surface": "והר",
+      "gloss": "na kirima kĩa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ndũhotithirie"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kwinina"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בבאם",
+      "gloss": "rĩrĩa maatumĩtio"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "maaheanirie"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na maaregere"
+    },
+    {
+      "surface": "השמידום",
+      "gloss": "kũhenania cbo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:53.992468706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rĩngĩ ya mbere cia ciothemba",
+      "rationale": "לפי חרב nĩ 'kĩũĩrĩ-inĩ gĩa cĩuma' — kĩũgo gĩa Kĩhibirania kĩa kũheeria mũthia wa gũkuara"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפל\/תפל",
+      "rationale": "kũmanina kwa Ceba na kũmanina kwa mũhiũ (1:16, נפלה) — mũhiananio ũrĩa ũthiraga kĩngerekanĩro-inĩ kĩa marĩũmi"
+    },
+    {
+      "kind": "you",
+      "subject": "kuuma kwa mũrĩũmi, kinya Yobu",
+      "rationale": "mũrĩũmi ndangĩrĩrwo Rĩĩtwa-inĩ, no 'rĩngĩ ũcio ũhoro nĩwaku' mbere ya Yobu"
+    }
+  ],
+  "translation": "Na Ceba nĩmaikarire matũĩte, na makĩĩgunta, na ⟨את⟩ aciana mahĩtwo rĩngĩ ya mbere cia ciothemba; na nĩngĩ cocokire, nĩĩndĩ nĩwe we mwene wikĩmwene, nĩgeetha ndĩmũhokĩrĩrie ⟨we⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ad30e7cfdcb3053502b77c8ca732940a455803b94d94276b60ddf585ddb15708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/1\/15-16.1791270660299.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "nĩmaikarire matũĩte"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ceba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "na makĩĩgunta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aciana"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "aciana"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "mahĩtwo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "rĩngĩ ya mbere"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ciothemba"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "na nĩngĩ cocokire"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nĩĩndĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩndĩ nĩwe"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "we mwene wikĩmwene"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "nĩgeetha ndĩmũhokĩrĩrie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨we⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:00.304052708Z",
+  "model": "glm-5.3"
+}

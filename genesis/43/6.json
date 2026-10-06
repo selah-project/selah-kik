@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרעתם",
+      "rationale": "רעע 'kũhoota\/kũhĩa' — mũhiano ũrĩa wa Kĩhibirania ũrata ũhoro wa kũhootana; Kĩgĩkũyũ gĩcokia mũgambo wa kũhĩa tu"
+    },
+    {
+      "kind": "you",
+      "subject": "Yiceraeri",
+      "rationale": "Yiceraeri ondeithia mũciĩ wake makoone mĩena ĩrĩ ta ya kĩgunĩri"
+    }
+  ],
+  "translation": "Na Yiceraeri akiuga: Nĩkĩ nĩmũhĩirie ⟨ndĩ⟩ hĩndĩ ya kũgoa kwa mũndũ ũcio, atĩ no gũtĩĩra mwena mwarũ?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4bfd6d118259636417f4d7db843ee4a1339ed43ea161956d401968fe813ce77f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/43\/6-7.1791269307310.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "nĩmũhĩirie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kũgoa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwa mũndũ ũcio"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "no gũtĩĩra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwena"
+    },
+    {
+      "surface": "אח",
+      "gloss": "mwarũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:27.316262714Z",
+  "model": "glm-5.3"
+}

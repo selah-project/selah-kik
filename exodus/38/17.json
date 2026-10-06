@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 38:17",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kĩcabi",
+      "rationale": "נחושת nĩ kĩcabi (copper\/brass), ti 'bhasi' ya Kĩthwahĩri"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciũmbĩre",
+      "rationale": "חשוק nĩ mũciĩrĩre-ũndũ: kĩndũ gĩgatanaga ngari — 'fillets' nĩ mũhiananio wa andũtaũra"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשוקיהם\/מחשקים",
+      "rationale": "Cokanĩrĩria cia mũri ũmwe — kũgatanĩrĩra kwa iria kwarĩrĩririorarĩ na mĩena ĩrĩ"
+    }
+  ],
+  "translation": "Na matũũrũma ma ngari nĩ itheenjagwo na kĩcabi; magũrũta ma ngari na ciũmbĩre cia cio nĩ iria; na kũcũngĩrĩra thũci cia cio nĩ iria; na ngari ciothe cia kĩambere-nyũmba nĩ cĩcũngĩrĩtwo na iria, ngari ciothe cia kĩgwa-inĩ kĩu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "76bd4f814101898f24389baa4b565f735eabefcead4ca45e1977863cd564fe26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/38\/17-18.1791269466093.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאדנים",
+      "gloss": "Na matũũrũma"
+    },
+    {
+      "surface": "לעמדים",
+      "gloss": "ma ngari"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nĩ kĩcabi"
+    },
+    {
+      "surface": "ומוי",
+      "gloss": "magũrũta"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ma ngari"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "na ciũmbĩre cia cio"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nĩ iria"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "na kũcũngĩrĩra"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "thũci cia cio"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nĩ iria"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na ⟨cio⟩"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "cĩcũngĩrĩtwo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "na iria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "cia kĩgwa-inĩ kĩu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:06.099433389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 49:29",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kũnyuungũirio",
+      "rationale": "נאסף 'gũkorũo kũnyuungũirio' nĩ mũhiano wa Kĩhibirania wa kũraũra kwa mũndũ arĩkĩtie kuuma andũ arĩa mathiĩ mbere yake"
+    },
+    {
+      "kind": "you",
+      "subject": "kũo",
+      "rationale": "Yaakobu arĩ kũmoora ciana ciake ithano na ĩrĩ hamwe, mawatho ma thutha wake macio nĩmo aria mathĩnji"
+    }
+  ],
+  "translation": "Nĩamwo kĩrĩra, akĩmeeria atĩrĩ: Nĩwe ndĩkũnyuungũirio harĩ andũ akwa; mũthĩnje ⟨את⟩ ndĩ harĩ athī akwa, harĩ irima rĩrĩa rĩ kambere-inĩ ya Efroni Mũhiti.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a18401bc847048ef25151c7e862bbd7db8d2cca4466b3bfd4e866695bb1e0b13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/49\/29-29.1791269319736.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nĩamwo kĩrĩra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeeria"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "ndĩkũnyuungũirio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "mũthĩnje"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "athī akwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "irima rĩu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kambere-inĩ ya"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mũhiti"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:39.749864774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ci themithanju cĩaku",
+      "rationale": "Kĩgunyĩ kĩrĩa gĩthagathaganiĩ andũ arĩa ma nyĩtwo ma gũtherera kwagĩrĩirwo kuongerwo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבנו \/ ונושעה",
+      "rationale": "Gũtirĩa kwacooka kwa mbere na kũhonokwo kwa mũthia nĩ kwa kĩhumo kĩmwe"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Kwarirĩrire Yahwe mwathani wa mbũtũ o na rĩĩtwa rĩake rĩnene"
+    }
+  ],
+  "translation": "Yahwe, Erohimu Cebaoti, tũcookerithia; ũnyare ⟨ci themithanju cĩaku⟩ na nĩtũkuhonokwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cfad931c1b0fd1ea19905daea0e0aa3280bb8e2b33ce1e1d924527ea3f82a9b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/80\/19-20.1791270486994.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tũcookerithia"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ũnyare"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "thanju cĩaku"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "na nĩtũkuhonokwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:07.000457335Z",
+  "model": "glm-5.3"
+}

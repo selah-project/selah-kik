@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 20:9",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ciira",
+      "rationale": "שפוט nĩ kĩhooto kĩa ciira\/kũhookĩtwo — 'ciira' ĩrĩa ĩrehetwo nĩ andũ a Kĩrĩkanĩro ngũrani na 'kũhootwo kwĩngĩ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "thĩinĩ wa",
+      "rationale": "Kĩgoma kĩa Kĩhibirania 'b' kĩrĩ thĩinĩ wa kiugo kĩa nyumba, no Kĩgĩkũyũ kĩagĩrĩire kĩongerere 'thĩinĩ wa'"
+    },
+    {
+      "kind": "you",
+      "subject": "kũraku",
+      "rationale": "Mahoya ma Yehocafati maũgĩrĩire kũrĩ Yahwe mũthomoni-inĩ ũcio wothe"
+    }
+  ],
+  "translation": "Rĩrĩa mwanya mũru ũgĩka igũrũ ithũĩ — cema, ciira, ndwari ya gũkua, kana ũkenyo — nĩtũgũikara thĩ mbere ya nyumba ĩno na mbere yaku, nĩgũkorwo Rĩĩtwa rwaku rũrĩ ⟨thĩinĩ wa⟩ nyumba ĩno, na nĩtũgũkũga kũraku thĩinĩ wa mwanya witũ, na ũgatuigua na ũgũtũhĩra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f82156356aeab34931c3a87dd25bacc8b8d2451eaa391b4aa0c39191e7c7ddca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/20\/9-10.1791270953990.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ũgĩka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "igũrũ ithũĩ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mwanya mũru"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "cema"
+    },
+    {
+      "surface": "שפוט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "na ndwari ya gũkua"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "na ũkenyo"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "nĩtũgũikara thĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "na mbere yaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Rĩĩtwa rwaku"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "ונזעק",
+      "gloss": "na nĩtũgũkũga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũraku"
+    },
+    {
+      "surface": "מצרתנו",
+      "gloss": "thĩinĩ wa mwanya witũ"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "na ũgatuigua"
+    },
+    {
+      "surface": "ותושיע",
+      "gloss": "na ũgũtũhĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:53.991785813Z",
+  "model": "glm-5.3"
+}

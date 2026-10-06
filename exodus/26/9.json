@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mathangũ matano na matandatũ",
+      "rationale": "Kũbarara kwa mathangũ — ikũmi na ũmwe gũcatanĩtio mĩena ĩrĩ: matano na matandatũ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הַיְרִיעֹת",
+      "rationale": "יְרִיעֹת ĩtigĩtwo 'mathangũ' hangũharĩ two ya hema ĩrĩa ĩkehereke ta kĩhĩrĩka."
+    },
+    {
+      "kind": "crux",
+      "subject": "וְכָפַלְתָּ",
+      "rationale": "'Gũhĩrĩkia igĩrĩ' kana 'gũtigithia thutha wa' — KJV ĩuga 'double', ASV\/JPS ĩuga 'double over'."
+    }
+  ],
+  "translation": "Nĩũkecamanithia ⟨את⟩ mathangũ matano ĩrĩ mwene, na ⟨את⟩ mathangũ matandatũ ĩrĩ mwene, na nĩũkĩhĩrĩkia igĩrĩ ⟨את⟩ mathangũ ma gatandatũ ĩhĩrĩ gwatũ mbere-inĩ ya atenda.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6441b9560261a807fbddacdaa604cde3ac13ead6dcaaab5db6859bf8dd0fe117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/26\/9-9.1791269353227.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְחִבַּרְתָּ֞",
+      "gloss": "nĩũkecamanithia"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mathangũ matano"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "matano"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "mathangũ"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "ĩrĩ mwene"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "na ⟨את⟩",
+      "marks": "mathangũ matandatũ"
+    },
+    {
+      "surface": "שֵׁשׁ",
+      "gloss": "matandatũ"
+    },
+    {
+      "surface": "הַיְרִיעֹת",
+      "gloss": "mathangũ"
+    },
+    {
+      "surface": "לְבָד",
+      "gloss": "ĩrĩ mwene"
+    },
+    {
+      "surface": "וְכָפַלְתָּ֙",
+      "gloss": "nĩũkĩhĩrĩkia igĩrĩ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mathangũ ma gatandatũ"
+    },
+    {
+      "surface": "הַיְרִיעָה",
+      "gloss": "mathangũ"
+    },
+    {
+      "surface": "הַשִּׁשִּׁית",
+      "gloss": "ma gatandatũ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ĩhĩrĩ"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "gwatũ"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "mbere-inĩ"
+    },
+    {
+      "surface": "הָאֹהֶל",
+      "gloss": "atenda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:13.234783221Z",
+  "model": "glm-5.3"
+}

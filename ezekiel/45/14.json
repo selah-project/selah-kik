@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "bati, kori, homeri",
+      "rationale": "Verse defines the oil tithe in bath-measures and equates ten baths with one homer."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשרת הבתים חמר ... עשרת הבתים חמר",
+      "rationale": "The equation 'ten baths a homer' is stated twice as a fixed refrain; repetition kept literally."
+    }
+  ],
+  "translation": "Na watho wa mãthabari: bati ya mãthabari nĩ icunjĩ rĩa ikũmi rĩa bati ĩmwe kuuma kori, ni bati ikũmi ndigana homeri ĩmwe, nĩgũkorwo bati ikũmi nĩ homeri ĩmwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0fb299557cbba672b33dccb3c70b2c9157b91ec029041318ff7fd0e19e2a5b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/45\/13-14.1791270439297.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "na-watho"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mãthabari"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "bati"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mãthabari"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "icunjĩ-rĩa-ikũmi"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "bati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "kori"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "bati"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "bati"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "homeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:19.305628617Z",
+  "model": "glm-5.3"
+}

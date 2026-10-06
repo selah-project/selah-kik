@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census totals",
+      "rationale": "Verse reports counted men of Israel (1,100,000) and Judah (470,000) who draw sword."
+    },
+    {
+      "kind": "crux",
+      "subject": "1,100,000 vs 2 Samuel 24:9",
+      "rationale": "2 Samuel reports 800,000 for Israel and 500,000 for Judah; the totals differ between the two accounts."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שלף חרב",
+      "rationale": "Literally 'drawing out sword', rendered as 'a kũimũkĩra ciara' (those who pull out the sword), i.e. men fit for battle."
+    }
+  ],
+  "translation": "Nĩrĩa Yowabu aheire Dawidi ⟨את⟩ namba ya kũbarwa kwa andũ; na Yiceraeri yothe nĩikoragĩra arĩ ngiri njuhĩ na igana rĩa ngiri, andũ a kũimũkĩra ciara; na Yuda arĩ ingana inya na mũrongo wa mũgwanja wa ngiri, andũ a kũimũkĩra ciara.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "da88da4525f7568a663bd89a9c15cf62679c5b23c18f1a1a1a8fa4d930055388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/21\/5-5.1791270828921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "aheire"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namba ya kũbarwa kwa andũ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "namba"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "kũbarwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nĩikoragĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri njuhĩ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngiri njuhĩ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na igana rĩa ngiri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "a kũimũkĩra"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ciara"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yuda"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ingana inya"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mũrongo wa mũgwanja"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "wa ngiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "a kũimũkĩra"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ciara"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:48.926716700Z",
+  "model": "glm-5.3"
+}

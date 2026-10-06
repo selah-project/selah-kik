@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 11:20",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חמת תעלה",
+      "rationale": "'Heat ascends' — Gĩkũyũ 'kĩugeru kĩinũka' keeps the rising-heat picture of anger."
+    },
+    {
+      "kind": "addition",
+      "subject": "kwawe",
+      "rationale": "'לך — Gĩkũyũ needs 'kwawe' to show the addressee of the king's question."
+    },
+    {
+      "kind": "you",
+      "subject": "to the messenger",
+      "rationale": "Joab's quoted speech drills what the messenger must answer if Dawidi questions him."
+    }
+  ],
+  "translation": "Na rĩngĩ kĩugeru kĩa mwathi kĩyambĩrĩria kũinũka, nakĩũkwera atĩrĩ: Nĩkĩ mwoigire hakuhĩ na mucĩĩ kũrirũana? Ndĩmũkũmena atĩ nĩmacakunĩra kuuma thĩinĩ wa marũngũ?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a8ade194b60ebf19cdf6dd628a6475d20c296522126163fdcdd14cba0b89d4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/11\/20-20.1791269813491.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na rĩngĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩngĩ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kĩinũka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kĩugeru kĩa mwathi kĩyambĩrĩria kũinũka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nakĩũkwera atĩrĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nĩkĩ"
+    },
+    {
+      "surface": "נגשתם",
+      "gloss": "mwoigire hakuhĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩĩ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kũrirũana"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ndĩ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mũkũmena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa macakunĩra kuuma marũngũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "ירו",
+      "gloss": "nĩmacakunĩra"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma thĩinĩ wa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "marũngũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:53.491782115Z",
+  "model": "glm-5.3"
+}

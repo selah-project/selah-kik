@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם זנה אתה",
+      "rationale": "'If you, O Israel, are playing the harlot' vs 'Though you play the harlot' — conditional vs concessive reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית און",
+      "rationale": "Beth-Aven 'nyũmba ya ũru' nĩgethĩre wa Beth-Eri — hihi ya Kĩhibirania iria ĩrĩkũonekana mũno kwao."
+    },
+    {
+      "kind": "you",
+      "subject": "Yuda",
+      "rationale": "Kĩugo gĩkĩrĩtwo na ndũrĩrĩ ĩrĩ — Yuda na Yiceraeri — ĩrĩa cihĩthagio atĩ cĩtabatie kũiyũra na kũrahĩra."
+    }
+  ],
+  "translation": "Ĩrĩa wee, Yiceraeri, ũkaharĩra, Yuda nĩarĩkũngĩagwo iha; na mũtikayere Girigari, na mũtikayũrũkũra Betha-Aveni, na mũtikarahĩra kĩũga Yahwe eerũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5fe6bd2b9d0a14c4f4477687842f89f03505d0998244b49f639f68bd20e1be46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/hosea\/4\/15-15.1791270396992.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ĩrĩa"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "ũkaharĩra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nĩarĩkũngĩagwo"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "iha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mũtika"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "yere"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Girigari"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mũtika"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "yũrũkũra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betha-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na mũtika"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "rahĩra"
+    },
+    {
+      "surface": "חי",
+      "gloss": "eerũ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:36.998658653Z",
+  "model": "glm-5.3"
+}

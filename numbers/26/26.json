@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 26:26",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩcemanio ya Zeburuni",
+      "rationale": "Rũciaro rwa mĩcemanio ya Zeburuni — kũbarua kwa ndũrĩrĩ."
+    }
+  ],
+  "translation": "Aana a Zeburuni thĩinĩ wa mĩcemanio yao: ya Cereti, cemani ya acereti; ya Eroni, cemani ya aeroni; ya YahiriEri, cemani ya ayahiriEri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "77ca751ddc9ba410b9cf62701dd8d1cc9e5c568ba0fce6c9d0e95d959783804c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/26\/26-26.1791269553869.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Aana a"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zeburuni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "thĩinĩ wa mĩcemanio yao"
+    },
+    {
+      "surface": "לסרד",
+      "gloss": "ya Cereti"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "cemani ya"
+    },
+    {
+      "surface": "הסרדי",
+      "gloss": "acereti"
+    },
+    {
+      "surface": "לאלון",
+      "gloss": "ya Eroni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "cemani ya"
+    },
+    {
+      "surface": "האלני",
+      "gloss": "aeroni"
+    },
+    {
+      "surface": "ליחלאל",
+      "gloss": "ya YahiriEri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "cemani ya"
+    },
+    {
+      "surface": "היחלאלי",
+      "gloss": "ayahiriEri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:33.873633570Z",
+  "model": "glm-5.3"
+}

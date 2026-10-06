@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ithuarũ cia ũgĩkũrũkũna",
+      "rationale": "חרבות nĩ 'mĩthenya ya kũoma' — Gĩkũyũ nĩ 'ithuarũ cia ũgĩkũrũkũna' kĩonekoro kĩngĩ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨thanga ĩrĩ⟩",
+      "rationale": "Kĩhibirania gĩtarĩ kĩng'etwo wa kĩndũ kĩmenyetwo kana ti kĩmenyetwo, no kĩgeranio gĩa njokerie kĩagĩrĩirwo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור ... מים",
+      "rationale": "Kĩrugano kĩa thanga na maji kĩarĩkĩtwo — itanya rĩa Kĩambĩrĩria 17 na Thimo 20:11"
+    }
+  ],
+  "translation": "Ndĩmarĩtie o na hĩndĩ ĩrĩa akĩhingia arĩa mathiiti ithuarũ-inĩ cia ũgĩkũrũkũna: maji kuuma ithanga-inĩ nĩakahĩnĩrĩria acio; na nĩakamenya ⟨thanga ĩrĩ⟩, na maji nĩmakoora kũhiũha.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "30759916560a7191034d9ee092cb61da2e9dfd641dfe0e86e67e236db9e512be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/48\/21-21.1791270135819.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "marĩtie"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "ithuarũ-inĩ cia ũgĩkũrũkũna"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "akĩhingia arĩa mathiiti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kuuma ithanga-inĩ"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "nĩakahĩnĩrĩria"
+    },
+    {
+      "surface": "למו",
+      "gloss": "acio"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "na nĩakamenya"
+    },
+    {
+      "surface": "צור",
+      "gloss": "thanga"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "na nĩmakoora"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maji"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:15.825505633Z",
+  "model": "glm-5.3"
+}

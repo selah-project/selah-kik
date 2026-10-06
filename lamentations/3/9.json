@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרכי\/נתיבתי",
+      "rationale": "Mĩhari ĩrĩ ĩhũthagĩra ciugo igĩrĩ cia njĩra ĩrĩkũithe — dramogo rĩa Gĩkũyũ ndirĩgĩrĩrĩkaga ihũthĩre rĩu rĩa kũrereta."
+    },
+    {
+      "kind": "crux",
+      "subject": "בגזית",
+      "rationale": "Mahiga macũnjĩtwo kana mahiga ma kũmĩra — ĩrĩa ĩngĩ ya andũ-a-maaroni nĩ 'gĩcunjĩ kĩa mahiga' ta YLT."
+    }
+  ],
+  "translation": "Nĩagĩrĩrĩtie mahiga macũnjĩtwo njĩra ciakwa-inĩ; njĩra ciakwa nĩacĩthie kwarara.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/lamentations\/3\/9-12.1791270670566.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "nĩagĩrĩrĩtie"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "njĩra ciakwa"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "mahiga macũnjĩtwo"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "njĩra ciakwa-inĩ"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "nĩacĩthie kwarara"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:10.570714094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וזכרתי \/ אזכר ×3",
+      "rationale": "Root זכר 'gũrĩkĩra' repeats four times in one verse — chiasm-like climactic structure, order Jacob–Isaac–Abraham reversed from chronology."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואף",
+      "rationale": "Hebrew 'also\/yea' rendered 'na o ũguo'; the adverb of accession has no exact Gĩkũyũ single word."
+    }
+  ],
+  "translation": "Nĩngĩrĩkĩra ⟨את⟩ kĩrĩkanĩro kĩa Yaakobu, na o ũguo ⟨את⟩ kĩrĩkanĩro kĩa Yicaki, na o ũguo ⟨את⟩ kĩrĩkanĩro kĩa Abarahamu ngĩrĩkĩra, na thĩ nĩngĩrĩkĩra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fc7daf22280bc87287e0dc81e3c9b05f1d287d16074785168bbc37384bb691f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/26\/42-42.1791269471057.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Nĩngĩrĩkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩa Yaakobu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩa"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "na o ũguo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩa Yicaki"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "na o ũguo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩkanĩro kĩa Abarahamu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kĩrĩkanĩro kĩa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ngĩrĩkĩra"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nĩngĩrĩkĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:11.062996659Z",
+  "model": "glm-5.3"
+}

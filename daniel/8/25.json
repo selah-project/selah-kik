@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 8:25",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wĩira wa mahenĩ",
+      "rationale": "בשלוה nĩ 'ũiguũrũru' (gĩtĩeva kana gĩtĩeva-gĩa-mahenĩ); 'wĩira wa mahenĩ' ĩnoanĩria gĩtĩeva gĩa kwĩhoka nĩguo ahonie"
+    },
+    {
+      "kind": "crux",
+      "subject": "mwathi wa amiathi",
+      "rationale": "שר שרים — 'mwathi wa amiathi' kana 'Mwathi wa amiathi' (Erohimu); maandĩko matarĩ Rĩĩtwa ũguo, nĩgeetha gĩtikũmenyeka ũrĩa ũkwĩrĩgwo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "handũ ha moko",
+      "rationale": "אפס יד = 'kũhia kwa moko' — kũcoorũkwo atĩrĩ ndũngata ya moko ya mũndũ; KJV 'without hand'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "thiomi cia nyonerere",
+      "rationale": "ciugo iria ciumanĩtia nyonerere ya hinda ya ũtukũ na ũtheri, irĩ ya kũnyitĩrwo thayũ thayũ (8:26)"
+    }
+  ],
+  "translation": "Na thĩinĩ ithenya rĩake nĩkahotithia ũthiangũ moko-inĩ make, na ngoro-inĩ yake nĩkaĩtigitha ũkũru, na thĩiniĩ wĩira wa mahenĩ nĩkahonia andũ aingĩ, na thĩinĩ mwathi wa amiathi nĩkĩmamũkĩra, na handũ ha moko nĩgũcoorũkwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8027adf68abe853cbc2f15981f8b1769e003be2ced5eae711a7fb9899e94ebc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/8\/25-25.1791270728038.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "ithenya rĩake"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "nĩkahotithia"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ũthiangũ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "moko-inĩ make"
+    },
+    {
+      "surface": "ובלבבו",
+      "gloss": "na ngoro-inĩ yake"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "nĩkaĩtigitha ũkũru"
+    },
+    {
+      "surface": "ובשלוה",
+      "gloss": "na thĩiniĩ wĩira wa mahenĩ"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "nĩkahonia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "andũ aingĩ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na thĩinĩ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "wa amiathi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nĩkĩmamũkĩra"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "na handũ ha"
+    },
+    {
+      "surface": "יד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "nĩgũcoorũkwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:08.040366701Z",
+  "model": "glm-5.3"
+}

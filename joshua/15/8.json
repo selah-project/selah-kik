@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 15:8",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Gĩkũyũ itĩhĩkagwo na copula 'nĩ' harĩa Heberũ ĩtarĩ kĩnungati"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Rerafimu",
+      "rationale": "רפאים rĩtaũrwo ta 'arĩa mena ngũĩ' kuma rĩrĩa rĩrĩ rĩĩtwa rĩa andũ — rĩtwa nĩrĩatigwo ũguo rĩrĩa rĩrĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũkano",
+      "rationale": "Kĩcunjĩ kĩa kũciria mĩkano ya thĩ ya Yuda — kũondera na kũingĩra kwa mĩena ĩrĩ"
+    }
+  ],
+  "translation": "Na mũkano wĩiyũrire gĩcũi-inĩ kĩa mũrũ wa Hiniomu, nginya kĩũngũi kĩa Yebuci, kuma mũhuro; ũcio ⟨nĩ⟩ Yerucarayimu; na mũkano wĩiyũrire nginya mũtwe-inĩ wa kilima ũrĩa ũrĩ megawe na gĩcũi kĩa Hiniomu, mbocũ-inĩ, kĩrĩa kĩrĩ mũthianĩ wa gĩcũi kĩa Rerafimu, matemani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f474d2ad83352681eb63af42f29c0924b58325554eeeab57ab3d3d3f358094a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/15\/8-8.1791269705983.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "na wĩiyũrire"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "mũkano"
+    },
+    {
+      "surface": "גי",
+      "gloss": "gĩcũi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hiniomu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "kĩũngũi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebuci"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "mũhuro"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "na wĩiyũrire"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "mũkano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mũtwe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kilima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũrĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "megawe na"
+    },
+    {
+      "surface": "גי",
+      "gloss": "gĩcũi"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hiniomu"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "mbocũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "mũthianĩ wa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "gĩcũi"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Rerafimu"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "matemani"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:05.984555589Z",
+  "model": "glm-5.3"
+}

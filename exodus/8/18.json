@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 8:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "'arobi' — mixtures\/swarms: LXX 'kunomuia' (dog-flies), KJV 'swarms of flies', lemma hints 'mosquito'; shape kept as swarming-mixture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "והפליתי",
+      "gloss": "root palal 'to distinguish\/set apart' rendered as kũnyararia (to separate), not 'wonder-working'."
+    },
+    {
+      "kind": "you",
+      "subject": "Pharaoh",
+      "rationale": "Second-person 'ũmenye' — direct address to Pharaoh through Moses."
+    },
+    {
+      "kind": "elision",
+      "subject": "עמד עליה",
+      "rationale": "'stands upon it' rendered as static 'memeiruo' (dwelling); Hebrew verb of standing softened."
+    }
+  ],
+  "translation": "Ndĩkanyararia mũthenya ũcio ⟨את⟩ bũrũri wa Goceni, harĩa andũ akwa memeiruo, kana arobi mũthenye kũrĩ kuo, nĩgeetha ũmenye atwĩ nĩĩ Yahwe mũthingithanĩ-inĩ wa thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "71052a0f68460bc35dad8875aad3dc013d840b42632db072dbd5f4811137b06c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/8\/18-18.1791269344450.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפליתי",
+      "gloss": "ndĩkanyararia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bũrũri wa Goceni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bũrũri"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "wa Goceni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "memeiruo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kĩrĩ-inĩ kĩayo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "arobi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ũmenye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atwĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mũthingithanĩ-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:04.454009617Z",
+  "model": "glm-5.3"
+}

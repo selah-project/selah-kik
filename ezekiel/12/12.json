@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 12:12",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל כתף",
+      "rationale": "'thĩinĩ wa kegeni' (upon the shoulder) versus 'gũkĩra kegeni' (to the shoulder); oimbori ya KJV na JPS itarĩana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בעלטה",
+      "rationale": "Ĩbuku rĩa 'ũtũũru' (gĩthũnjũ kĩa hĩndĩ ya kĩenyũ) no ĩtaũrwo 'gĩthũnjũ-inĩ kĩa hĩndĩ ya thaa ĩnja'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ũthĩ wake nĩagĩcie",
+      "rationale": "Kũgĩcia ũthĩ na kũrega kũona thĩ nĩ ng'ania cia ũndũ ũrĩa wathĩnjĩtwo — kĩndũ gĩa kũhũthĩka."
+    }
+  ],
+  "translation": "Na mũnene ũrĩa irĩ hagati yao nĩamĩgĩra kambuni gĩake thĩinĩ wa kegeni kĩake ũtũũru-inĩ, nĩramũkire; kĩgiri-inĩ nĩmahurũre ũra wa kũmũinũra nĩ ũra ũcio; ũthĩ wake nĩagĩcie, nĩ ũndũ nĩwe ndakona na ithenya rĩake ⟨את⟩ thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "edfa8f49b7fbdd75cc661823d519199a73af29461f6f7caa32ab3a707ada1d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/12\/12-12.1791270320194.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "Na mũnene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "irĩ hagati yao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "kegeni kĩake"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nĩamĩgĩra kambuni gĩake"
+    },
+    {
+      "surface": "בעלטה",
+      "gloss": "ũtũũru-inĩ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nĩramũkire"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "kĩgiri-inĩ"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "nĩmahurũre"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ũra wa kũmũinũra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nĩ ũra ũcio"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ũthĩ wake"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "nĩagĩcie"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akona"
+    },
+    {
+      "surface": "לעין",
+      "gloss": "na ithenya rĩa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:20.201495785Z",
+  "model": "glm-5.3"
+}

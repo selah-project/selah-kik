@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 34,
+  "translation": "Mũkuunĩri nĩarakĩte magũrwa make othe; ĩmwe ya cio ndĩnyororwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bbb138f1540004aa510b612d22ecc247c634f323c0605e9acd97dce8e66b3a02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/34\/21-22.1791270512670.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "mũkuunĩri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "magũrwa make"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ya cio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ...two"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ĩnyororwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:32.674838022Z",
+  "model": "glm-5.3"
+}

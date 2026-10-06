@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 50:42",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kũrĩ we, we mũtumia wa Baberooni",
+      "rationale": "Kwĩrĩgĩrĩra kwa mũtheri kũrĩ Babirooni — 'עליך בת בבל'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כידון",
+      "rationale": "Kiugo gĩa gũcũrania: 'njora' kana 'rũhiũ' — 'kideri' nĩgũo kwa serekari ya thĩ, 'njora' nĩgũo kwa ũgima wa Gĩkũyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "farasi",
+      "rationale": "Kiugo kĩa Kĩthwahĩri kĩnyitĩtwo mwĩrĩ-inĩ wa Gĩkũyũ wa mũthenya; Gĩkũyũ kĩa kĩambĩrĩria kĩtarĩ na kiugo kĩega kĩa 'סוס'"
+    }
+  ],
+  "translation": "Uta na njora makĩgacithia; nĩ makĩrigima, na matirĩ arũaithia; mũgambo wao nĩgũkũhĩra ta wa iria, na makĩnyitithia farasi, marĩ mĩhang'o ya ita, ta mũndũ mwamba, kũrĩ we, we mũtumia wa Baberooni.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8227bc53d9d15ff113287947c6101a487c8f427368fd780fdacc00d7462f29dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/50\/41-42.1791270241022.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "Uta"
+    },
+    {
+      "surface": "וכידן",
+      "gloss": "na njora"
+    },
+    {
+      "surface": "יחזיקו",
+      "gloss": "makĩgacithia"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "nĩ makĩrigima"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matirĩ"
+    },
+    {
+      "surface": "ירחמו",
+      "gloss": "arũaithia"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mũgambo wao"
+    },
+    {
+      "surface": "כים",
+      "gloss": "ta wa iria"
+    },
+    {
+      "surface": "יהמה",
+      "gloss": "nĩgũkũhĩra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "ירכבו",
+      "gloss": "makĩnyitithia"
+    },
+    {
+      "surface": "ערוך",
+      "gloss": "marĩ mĩhang'o"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ta mũndũ mwamba"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ya ita"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "בת",
+      "gloss": "we mũtumia"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Baberooni"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:01.049852131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kũrondora",
+      "rationale": "דרש nĩ 'kũrondora\/kũrenda ũhoro' — kũheana rora kwa Yahwe; ti kũratha"
+    },
+    {
+      "kind": "addition",
+      "subject": "akĩhe",
+      "rationale": "ל prefix ĩrĩa ĩngĩĩtaũrwo ta 'kũrĩ' ĩnyiitĩtwo ta 'akĩhe'"
+    }
+  ],
+  "translation": "na ti agĩte kũrondora Yahwe, nĩųokire na kũmũcerera, akĩturũra ⟨את⟩ ũthamaki akĩhe Dawidi mũrũ wa Yici.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cbfde98d7cb1044857fbd0e2c71b1620559dd0224699a1a2cb94ab466d834ddf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/10\/14-14.1791270837371.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na ti agĩte"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kũrondora"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "nĩųokire na kũmũcerera"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "akĩturũra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthamaki"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "akĩhe Dawidi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yici"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:57.375330923Z",
+  "model": "glm-5.3"
+}

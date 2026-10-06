@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 26:25",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ ma",
+      "rationale": "Hebrew lacks copula; Gĩkũyũ requires it for the 'their sockets are silver' clause"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ĩngĩ⟩",
+      "rationale": "Second האחד literally says 'the one' again; supplied 'the other' to avoid implying the same board"
+    },
+    {
+      "kind": "measurement",
+      "subject": "eight boards, sixteen sockets",
+      "rationale": "Verse counts frames and bases — tabernacle dimension tally"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדנים\/אדנים",
+      "rationale": "Fourfold repetition of אֲדָנִים builds a drumbeat of sockets, flattened in Gĩkũyũ"
+    }
+  ],
+  "translation": "Na mbao ciakũhaana ĩnyanya, na matũba macio nĩ ma ecafo — matũba ikũmi na ithathatũ; matũba merĩ thĩ ya mbao ĩmwe, na matũba merĩ thĩ ya mbao ĩmwe ⟨ĩngĩ⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ed06586104af6889be86084bae5191eacfa01ef183b9f3e1fb0546a60af3dac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/26\/25-25.1791269340135.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ciakũhaana"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ĩnyanya"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "matũba macio"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ecafo"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ithathatũ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi na"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "matũba"
+    },
+    {
+      "surface": "שני",
+      "gloss": "matũba merĩ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "matũba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "na matũba merĩ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "matũba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "mbao"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ĩmwe ⟨ĩngĩ⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:00.137348774Z",
+  "model": "glm-5.3"
+}

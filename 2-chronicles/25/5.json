@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 25:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Amaciahu mũbarũri: kũbarũra andũ kuuma mĩrongo ĩgĩrĩ mĩaka, na kũrũa ngiro mĩrongo ĩtatũ cia ngiro."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחור",
+      "rationale": "בחור gĩkũgima nĩ 'arĩa oithĩririo' — andũ erũ; Kĩgĩkũyũ kĩa sasa kĩngĩuga 'arĩa mahoto'."
+    }
+  ],
+  "translation": "Amaciahu agĩkung'unyarithia ⟨את⟩ Yuda, akĩmĩmũkĩria kũringana na nyũmba cia athatũ, harĩ atong'oria a ngiro na atong'oria a mĩrongo ĩnya na ikũmi, kuuma Yuda yothe na Binyamini; akĩbarũra andũ kuuma mũndũ wa mĩrongo ĩgĩrĩ mĩaka na kũigũrũ, akĩmũona igana igĩrĩ na mĩrongo ĩtatũ cia ngiro andũ erũ arĩa mathiĩ mbaara-inĩ maĩte njora na ng'ethe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "896332ab3f302c05fbfe51dd199f233b01656937837769160d425502e72f2f12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/25\/5-5.1791270943621.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "agĩkung'unyarithia"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amaciahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויעמידם",
+      "gloss": "akĩmĩmũkĩria"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "cia athatũ"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "atong'oria a"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ngiro"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "atong'oria a"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "mĩrongo ĩnya na ikũmi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "na Binyamini"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "akĩbarũra"
+    },
+    {
+      "surface": "למבן",
+      "gloss": "mũndũ wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩrongo ĩgĩrĩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "na kũigũrũ"
+    },
+    {
+      "surface": "וימצאם",
+      "gloss": "akĩmũona"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana igĩrĩ na"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "cia ngiro"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "andũ erũ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "arĩa mathiĩ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mbaara-inĩ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "maĩte"
+    },
+    {
+      "surface": "רמח",
+      "gloss": "njora"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "na ng'ethe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:43.625979034Z",
+  "model": "glm-5.3"
+}

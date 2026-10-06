@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 2:28",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "להלחם",
+      "rationale": "gũkurũana nĩ 'gũturũka handũ ha ũndũrũme' — kiugo kĩa Kĩhibirania kĩugaga 'kũria' gĩcigo kĩa ũgeni gĩa kũruta mbaara, ta mĩhĩrĩga ĩrĩĩrie ici"
+    }
+  ],
+  "translation": "Yocabu agĩigua copari, na andũ othe makĩikara, matĩkungĩra kũrenda thuutha wa Yiceraeri, na matĩkuongera ingĩ gũkurũana.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "939ecc62408197df551ec902c42716c32ba64f2ed9bdcb9cdfd3093f45b4125f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/2\/28-28.1791269863455.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "agĩigua"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yocabu"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "copari"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "makĩikara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matĩku"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "kũrenda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thuutha wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matĩku"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "kuongera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ingĩ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "gũkurũana"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:43.456747509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 39:25",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבית",
+      "rationale": "'kũgũa' (gũcoka kwa ahũthĩrire) kana 'kũcookerithia hĩndĩ ya gũgũa' — 'kũgũa' nĩ gũtaũra kwa ũraũri, 'kũhĩrĩra kũcookerio' nĩ gũtaũra kwa kĩgunĩru."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וקנאתי",
+      "rationale": "קנא ina maũndũ matatu: gũcenja, kũririkania, kũenda mũno — nĩgetũwo 'kũũrania' ta oigire hau mbele."
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio, nĩguo Adonai Yahwe aikĩra: Rĩũgu nĩngũcookerithia ⟨את⟩ kũgũa kwa Yaakobu, na ngĩtheonwo tha andũ a nyũmba ya Yiceraeri othe, na nĩngĩũrania rĩĩtwa rĩa ũtheru wakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "947a06c683fbf4f961c687bfc1fcef40abe86479ff4d87c66eae5c35e1909a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/39\/25-25.1791270270152.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aikĩra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "rĩũgu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nĩngũcookerithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũgũa kwa Yaakobu"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "kũgũa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kwa Yaakobu"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "na ngĩtheonwo tha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "andũ a nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    },
+    {
+      "surface": "וקנאתי",
+      "gloss": "na nĩngĩũrania"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "rĩĩtwa rĩa"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ũtheru wakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:30.160150878Z",
+  "model": "glm-5.3"
+}

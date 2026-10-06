@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩgeetha",
+      "rationale": "נא nĩ kiugo kĩa kũhoorea kĩngĩ; kĩandĩkwo thiomi-inĩ cia Gĩkũyũ nĩgeetha ũhoro ũhoore."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם … גם",
+      "rationale": "Gamos igiri-irĩ cia 'גם' ciugaga atĩ Hucayi nĩwe gũtarĩ wa mbere no wa kerĩ; gĩtheri gĩkĩ gĩtikũoneka mũno thutha wa kũgũĩrĩra."
+    },
+    {
+      "kind": "you",
+      "subject": "to andũ arĩa makoragwo na Abacaromu",
+      "rationale": "Abacaromu arĩ kũarĩria andũ arĩa makoragwo nawe, agĩteithia watho wa kũĩthĩrĩrĩ Hucayi."
+    }
+  ],
+  "translation": "Abacaromu akiuga: Ĩthĩrĩrĩ ⟨nĩgeetha⟩ Hucayi mw-Araki o we, na nĩtũthũmũke kĩrĩa kĩrĩ kanĩ-inĩ make, o we.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8e4a589971592fa9346a7fb9dc1ac81760c39f5e37687ca27ad01477635b92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/17\/5-5.1791269916706.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abacaromu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ĩthĩrĩrĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nĩgeetha⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "Hucayi"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "mw-Araki"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "na nĩtũthũmũke"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "kanĩ-inĩ make"
+    },
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:36.707197604Z",
+  "model": "glm-5.3"
+}

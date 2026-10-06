@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 11:8",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ngai",
+      "rationale": "אלהיהם ngai cia andũ arĩa — 'ngai' nini, ti Rĩĩtwa, gĩa kĩgunĩ kiugo kĩrĩa kĩhĩtiga thĩinĩ wa kĩndũ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעמד שנים",
+      "rationale": "'agĩikara mĩaka mĩnĩ' — KJV 'continue more years' vs ASV\/JPS 'refrain some years' — kũikara gũa hĩndĩ vs kũrega gwĩka ũndũ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שנים",
+      "rationale": "kũana wa hĩndĩ — mĩaka mĩnĩ mũndũ ũcio agĩtũũra akĩrĩa mũthingu wa mũthamaki wa rũgongo"
+    }
+  ],
+  "translation": "Na ningĩ ngai ciao hamwe na ithigari ciao ciahũrũtwo, hamwe na indo ciao iria cĩarĩ cĩa kũigua gĩkeno — feuta na thahabu — agĩcithĩra ka-ũthũni Micirayimu-inĩ; na we mĩaka mĩnĩ agĩikara athĩnjĩte mũthingu wa mũthamaki wa rũgongo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2441d631016529dab3fdb7704124105a550e38345d8c36e236c5801335d55dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/11\/7-8.1791270757939.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "na ningĩ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ngai ciao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ithigari ciao ciahũrũtwo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indo ciao"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "iria cĩarĩ cĩa kũigua gĩkeno"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "feuta"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "na thahabu"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ka-ũthũni"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "agĩcithĩra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu-inĩ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka mĩnĩ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "wa rũgongo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:37.947562535Z",
+  "model": "glm-5.3"
+}

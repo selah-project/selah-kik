@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 19:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והוכיח",
+      "rationale": "'agaciira ciugo' — waathani maugĩte 'and will rebuke him' kana 'rebuke the words'; Kĩhibirania kĩgeretio nĩ 'gũciira ciugo'."
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩ ũndũ ũcio",
+      "rationale": "Kĩhibirania kĩtarĩ na kiugo gĩa 'wherefore'; kĩongĩtwo gũcokerithia mahĩtia matatũ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Rabicake",
+      "rationale": "רב שקה nĩ gĩicharo kĩa mũndũ, kĩngĩtaũrwo ta 'mũnene wa wathani wa minĩ' (ylt) — rĩĩtwa rĩtigĩtwo rĩgĩtaũrwo."
+    },
+    {
+      "kind": "you",
+      "subject": "kwa Yicaiya",
+      "rationale": "Ũhoro ũyũ nĩ wa Hezekia anaũrire Yicaiya; 'waku' na 'ũnyamure' nĩ mahĩtia ma gũarĩrĩria mũrathi."
+    }
+  ],
+  "translation": "Rĩrĩria Yahwe Erohimu waku agĩthĩĩra ⟨את⟩ ciugo ciothe cia Rabicake, ũrĩa mũthamaki wa Ashuri, mwathi wake, atũmĩte agakũriria Erohimu Mũru, na agaciira ciugo iria Yahwe Erohimu waku athĩĩrire; nĩ ũndũ ũcio ũnyamure thabari ya arĩa maikarĩte iria ionekanĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8ee927cb76a9b1a5b5b9754c076125045faf73f3d1197151c5bf949825d2e04b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/19\/4-4.1791270068465.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "Rĩrĩria"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "agĩthĩĩra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Ra-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-bicake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "atũmĩte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mwathi wake"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "agakũriria"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Mũru"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "na agaciira"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ciugo-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "athĩĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "na ũnyamure"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thabari"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ya"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "arĩa maikarĩte"
+    },
+    {
+      "surface": "הנמצאה",
+      "gloss": "iria ionekanĩte"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:08.468468515Z",
+  "model": "glm-5.3"
+}

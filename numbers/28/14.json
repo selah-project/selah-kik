@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 28:14",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hini",
+      "rationale": "Ithimi cia kĩhibirania: igatya, igatũ na igana kĩa hini cihotorwo mbera ya thahau ĩrĩa na ĩrĩa na kembaci."
+    },
+    {
+      "kind": "substitution",
+      "subject": "njohi",
+      "rationale": "יין nĩ maci ma mũrũ-wa-njũkĩ; kĩugo kĩa Gĩkũyũ gĩkĩrĩkanagwo nĩ 'njohi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "thahau ya mwaki",
+      "rationale": "על thĩinĩ wa thahau nĩ kĩheo kĩahĩtwo igima na mwaki; 'thahau ya mwaki' nĩgũo kĩgeranio gĩa Gĩkũyũ."
+    }
+  ],
+  "translation": "Na mĩheo yacio ya kũnyua: igatya rĩa hini rĩkoragwo paru ĩmwe, na igatũ kĩa hini kũri ayiri, na igana kĩa hini kũri kembaci — yicio nĩ njohi. Icio nĩ thahau ya mwaki ya mweri, mweri wothe wake, mĩeri ya mwaka-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b3d72f5f82089fa15001d2748c62d8fa40298bc1dabf688f2f76f153acd475b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/28\/14-14.1791269593172.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסכיהם",
+      "gloss": "Na mĩheo yacio ya kũnyua"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "igatya rĩa"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hini"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "rĩkoragwo"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "paru ĩmwe"
+    },
+    {
+      "surface": "ושלישת",
+      "gloss": "na igatũ kĩa"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hini"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "kũri ayiri"
+    },
+    {
+      "surface": "ורביעת",
+      "gloss": "na igana kĩa"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hini"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "kũri kembaci"
+    },
+    {
+      "surface": "יין",
+      "gloss": "njohi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Icio nĩ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "thahau ya mwaki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya mweri"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "mweri wothe wake"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "mĩeri ya"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "mwaka-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:13.172845519Z",
+  "model": "glm-5.3"
+}

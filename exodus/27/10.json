@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mĩthamiro",
+      "rationale": "עמוד nĩ kĩng'ang'anjũ kĩa kũmirĩra; 'mĩthamiro' nĩ gũtaũra kwa kĩguni, ti rĩĩtwa rĩa kĩndũ kĩmwe kĩa kĩthĩngũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kefa",
+      "rationale": "נחשת nĩ kokothe; 'kefa' kĩgĩkũyũ nĩ kiugo kĩingĩharũrire kwa maũndũ ma meno"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩhongo ĩha",
+      "rationale": "Kũana kwa mĩthamiro na matĩĩru — mũcooreri wa maũndũ ma hema"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mĩcoteri",
+      "rationale": "חשוקים nĩ mahuti manjanjũra mĩthamiro; gĩcunjĩ kĩa 'gũcoterera' kĩnyitaga mbere ya mĩhiano ya gũtwa"
+    }
+  ],
+  "translation": "Na mĩthamiro yayo nĩ mĩhongo ĩha, na matĩĩru macio ĩha, ma kefa; minyoluo ya mĩthamiro na mĩcoteri yacio nĩ thathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "eef4de6487f20b41fa2d3448eee94f050d4dad6e7a30a1f4016a0edf8036ec05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/27\/10-10.1791269318848.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "na mĩthamiro yayo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩhongo ĩha"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "na matĩĩru macio"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ĩha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kefa"
+    },
+    {
+      "surface": "ושוי",
+      "gloss": "minyoluo"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mĩthamiro"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "mĩcoteri yacio"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "thathi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:38.854542911Z",
+  "model": "glm-5.3"
+}

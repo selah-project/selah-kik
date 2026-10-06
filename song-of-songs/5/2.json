@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 5:2",
+  "book": "song-of-songs",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "no",
+      "rationale": "Gĩkũyũ nĩgetha mohoro mũkũranĩre, Hebrew ĩrĩ wa tu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mwendi",
+      "rationale": "דודי nĩ 'mwendani wakwa' — kiugo kĩmwe gĩikaraga ta thĩinĩ wa 'rĩtwa rĩa kũhikania'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "nĩrĩ thĩĩra, no ngoro yakwa ĩrĩ mũthĩũrũ",
+      "rationale": "Hebrew: 'nĩrĩ thĩĩra no ngoro yanjĩ mũthĩũrũ' — mũhiano wa mĩena ĩĩrĩ, hĩndĩ ya kũrora kwĩkunĩtia"
+    },
+    {
+      "kind": "you",
+      "subject": "kũ mwendani wakwa",
+      "rationale": "Ũthagũ wa kũhĩrĩra: 'Njũngĩrĩra' — mwambi directed kũ mũka wake"
+    },
+    {
+      "kind": "invitation",
+      "subject": "פתחי לי",
+      "rationale": "Kiugo kĩa gwĩtĩkĩra: 'Njũngĩrĩra' — gũtitĩra mũhaka ngũĩrwo"
+    }
+  ],
+  "translation": "Nĩrĩ thĩĩra, no ngoro yakwa ĩrĩ mũthĩũrũ. Nĩ mũgambo wa mwendi wakwa ũkũhĩrĩra: Njũngĩrĩra, mwarĩ wa nyina wakwa, mũiritu wakwa, ciumbe yakwa, mũtheru wakwa; nĩgũkorwo gĩtĩme gwakwa nĩkuĩte mĩnyĩrĩ rĩa thĩ, na macũcũ makwa matukũ ma hĩndĩ ya thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2cdd2bb36115834222817859e3827d7a3950b4ed67f527192377ff4719b63c28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/song-of-songs\/5\/2-2.1791270610852.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nĩrĩ"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "thĩĩra"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "no ngoro yakwa"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ĩrĩ mũthĩũrũ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "wa mwendi wakwa"
+    },
+    {
+      "surface": "דופק",
+      "gloss": "ũkũhĩrĩra"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "njũngĩrĩra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nĩĩngĩrĩra"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mwarĩ wa nyina wakwa"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mũiritu wakwa"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "ciumbe yakwa"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "mũtheru wakwa"
+    },
+    {
+      "surface": "שראשי",
+      "gloss": "gĩtĩme gwakwa"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "nĩkuĩte"
+    },
+    {
+      "surface": "טל",
+      "gloss": "mĩnyĩrĩ rĩa thĩ"
+    },
+    {
+      "surface": "קוצותי",
+      "gloss": "macũcũ makwa"
+    },
+    {
+      "surface": "רסיסי",
+      "gloss": "matukũ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ma hĩndĩ ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:10.862292034Z",
+  "model": "glm-5.3"
+}

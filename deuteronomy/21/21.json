@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ũthingu",
+      "rationale": "הרע (ũrĩa wĩ ũthingu) wendetwo ta 'ũthingu' wa kĩgĩna wa gĩko kĩu kĩnene gĩtĩrĩkaga"
+    }
+  ],
+  "translation": "Na andũ ari othe a taa ĩyakwa amũrieke macĩngi, na akua; nĩũkaharĩirie ũthingu thĩinĩ waku, na Yiceraeri yothe ĩigũrũĩre ĩgĩtinya.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "25ec9863ddc583cdbe8f06c40a459c112d6f827e74d3a94ccdaa6757ca9a4770",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/21\/21-21.1791269686373.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "amũrieke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ari othe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "taa ĩyakwa"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "macĩngi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "akua"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "nĩũkaharĩrie"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ũthingu"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ĩigũrũĩre"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ĩgĩtinya"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:46.375261641Z",
+  "model": "glm-5.3"
+}

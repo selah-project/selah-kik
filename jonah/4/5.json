@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 4:5",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mucĩĩ ũcio",
+      "rationale": "Gĩkũyũ ĩhũthagĩra kĩng'etĩria kĩa mucĩĩ harĩa Heburu ĩtarĩ nayo kwiyũrirĩria"
+    },
+    {
+      "kind": "substitution",
+      "subject": "irathĩro",
+      "rationale": "מקדם nĩ 'mbere' kana 'irathĩro'; 'irathĩro' nĩ ya kũoneka harĩa Yona aikaraga"
+    },
+    {
+      "kind": "addition",
+      "subject": "ĩrĩa",
+      "rationale": "אשר nĩ kĩhũthũ gĩa kũhũmbara gĩcunjĩ kĩa ũhoro, Gĩkũyũ ĩkendereta kĩugu"
+    }
+  ],
+  "translation": "Nĩ ũndũ Yona akĩgita ũcio kuuma mucĩĩ-inĩ, na akĩikara thĩinĩ wa irathĩro rĩa ⟨mucĩĩ ũcio⟩, na akĩmũciria kuo ⟨kwe⟩ cũkwa, na akĩikara thĩ ĩyakio harĩ kĩheeri, ageetha aone kĩrĩa kĩgĩkũrania thĩinĩ wa ⟨mucĩĩ ũcio⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "65aa42dae216ae996fc1cdc60a595b3e98bca34fcba4599ce772b882cc868606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jonah\/4\/5-5.1791270407380.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akĩgita ũcio"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩĩ-inĩ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "thĩinĩ wa irathĩro"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "rĩa mucĩĩ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akĩmũciria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "סכה",
+      "gloss": "cũkwa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "thĩ ĩyakio"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "harĩ kĩheeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ageetha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aone"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kĩgĩkũrania"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "thĩinĩ wa mucĩĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:47.383772119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nyita",
+      "rationale": "ויטבל nĩ gũciũmbĩka\/kũnyita komerera; 'gũkinyita' ĩgĩtaũra kana 'kũciara' ta kĩndũ kĩnyitĩtwo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũtherima",
+      "rationale": "יסוד nĩ 'mũthingũ\/mũtherima wa mcuarani' — mũtherima ũrĩa mcuarani ũikĩrwo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ũcio",
+      "rationale": "Kĩgithĩ kĩongĩtwo kũmenya thakame ya keerĩ ĩrĩa yaahorerwo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "maũndũ ma mcuarani",
+      "rationale": "Kwĩhootanĩria kwa thakame kũng'arac-inĩ na mũtherima-inĩ wa mcuarani"
+    }
+  ],
+  "translation": "Na ari a Aharoni nĩmagĩtie ⟨את⟩ thakame kũrĩ we, nakĩnyita ciara yake thakame-inĩ, nakĩĩhĩthĩra thĩinĩ wa mahiu aria marĩ ng'arac-inĩ cia mcuarani, na ⟨את⟩ thakame ũcio nĩakĩahorera thĩinĩ wa mũtherima wa mcuarani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b73b29e6cd476af5d413c4721b8abc7552a35f44d24603abb80f6fe595d7d3c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/9\/9-9.1791269398650.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "nĩmagĩtie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakame"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "nakĩnyita"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ciara yake"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "thakame-inĩ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nakĩĩhĩthĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ng'arac-inĩ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mcuarani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thakame ũcio"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "thakame ũcio"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "nĩakĩahorera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "mũtherima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mcuarani"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:58.653691353Z",
+  "model": "glm-5.3"
+}

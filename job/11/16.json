@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wakwa \/ yayo",
+      "rationale": "Gĩkũyũ ihiũra kiugo kĩa gĩcunjĩ kĩa עמל na gĩcunjĩ kĩa תזכר; ⟨yayo⟩ nĩyongeretwo kũonainia kĩndũ gĩa kũikũrwo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ta mai arĩa magĩthũrire",
+      "rationale": "Kĩhibirania kĩuganaga 'ta mai goigũa' — maũndũ merĩkĩtie ti makĩgooka; Gĩkũyũ nĩũgĩte o ũguo na 'mai marĩa magĩthũrire'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nĩwĩ",
+      "rationale": "אתה nĩ mũgambo wa kũgeria ngombo; 'nĩwĩ' no ũtuĩke ũgĩcoketwo thutha wa תשכח ta 'wĩĩrage', no thutha wa כי ndĩagĩrĩirwo"
+    }
+  ],
+  "translation": "Nĩgũkorwo nĩũkairega hinya-wa-maũndũ wakwa, nĩũkaikũra ⟨yayo⟩ ta mai arĩa magĩthũrire.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "23e79c254c67e256113783f6d410884867dafc552ea6819c482cd52b3a289bc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/11\/16-16.1791270606212.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwĩ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "hinya-wa-maũndũ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nĩũkairega"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ta mai"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "arĩa magĩthũrire"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "nĩũkaikũra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:06.216261445Z",
+  "model": "glm-5.3"
+}

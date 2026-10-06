@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩamĩthirie",
+      "rationale": "c\/2388 'kũmĩthia' — na 'kũhinga micinarũ' ti ũrĩa Kĩhibirania kiugĩte"
+    },
+    {
+      "kind": "substitution",
+      "subject": "irĩa cia kũbũkira",
+      "rationale": "ואצרות nĩ 'irĩa cia gũikia' — 'iria' nĩ kĩhandĩ kĩega no kiugo kĩmwe kĩarahukĩte"
+    },
+    {
+      "kind": "measurement",
+      "subject": "irĩo, mafũta na njugwa",
+      "rationale": "kũandĩkithania kwa matũũra ma kũhinga — mbĩgũ ĩrĩa ciarĩ ciigĩtwo"
+    }
+  ],
+  "translation": "Nĩamĩthirie ⟨את⟩ micinarũ ĩthagĩku, akĩhothora arĩa maaturĩte marĩ ndani wacio, na irĩa cia kũbũkira irĩo, mafũta na njugwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "60cd0b34567c7a977aed2c0d94affdc7e6522a39ea12cb52adcf382e750bd58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/11\/11-11.1791270915776.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nĩamĩthirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micinarũ ĩthagĩku"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "micinarũ ĩthagĩku"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩhothora"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndani wacio"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "arĩa maaturĩte"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "irĩa cia kũbũkira"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "irĩo"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mafũta"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "njugwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:15.780024393Z",
+  "model": "glm-5.3"
+}

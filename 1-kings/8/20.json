@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקם \/ ואקם \/ ואבנה",
+      "rationale": "Kĩgwanja kĩa 'gũikarĩra' (kumanya ũhoro na kwĩhokeithia) kĩrarũmĩrĩrio na 'gũcoma' — rũgano rwa kwĩhokeithia kwa Yahwe na kwa Coromoni hĩndĩ ĩmwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "Nĩ ũndũ ũcio",
+      "rationale": "Kĩgwanja kĩa mbere kĩrĩa Kĩhibirania kĩtarĩ nakĩo — gĩkundi gĩa wĩhokeithia kĩonerithio nĩ kĩo."
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio Yahwe nĩeetagĩrĩirie ⟨את⟩ kiugo gĩake arĩa oigĩte; nakĩrĩra nginya handũ ha Dawidi ita wakwa, nakĩkaanĩte kĩrĩndĩ-inĩ kĩa Yiceraeri, o ta Yahwe oigĩte, nakĩcoma ⟨את⟩ nyũmba nowa rĩĩtwa rwa Yahwe Erohimu wa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "59cd37546d8c758036f900be49a140f28706d4c242d68135e30d41a3dc3bca49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/8\/19-20.1791269959265.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nĩeetagĩrĩirie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo gĩake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kiugo gĩake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "nakĩrĩra nginya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ita wakwa"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "nakĩkaanĩte"
+    },
+    {
+      "surface": "על",
+      "gloss": "kĩrĩndĩ-inĩ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kĩrĩndĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "nakĩcoma"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nowa rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:19.266650962Z",
+  "model": "glm-5.3"
+}

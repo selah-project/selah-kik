@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 18:23",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruaki",
+      "rationale": "רוח nĩ kiugo kĩmwe kĩa Kĩhibirania — Roho, rũhuho, mũhũmũ; taũrĩtwo ruaki o hĩndĩ ciothe"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבר רוח יהוה מאתי",
+      "rationale": "Cidekiyahu athĩĩtie kũira atĩ ruaki wa Yahwe wamũrehere mworda; Mikaayahu ndaiguaga ũguo — kĩguni kĩa maũndũ marĩa ma ikumi nĩĩrĩ na ya 22"
+    },
+    {
+      "kind": "you",
+      "subject": "Cidekiyahu kuonania Mikaayahu",
+      "rationale": "kiugo gĩkĩrũmĩtwo Mikaayahu nyũmbe-inĩ ya kũgorwa thogu"
+    }
+  ],
+  "translation": "Cidekiyahu mũrũ wa Kenaacana agĩthĩĩte hakuhĩ, akagora ⟨את⟩ Mikaayahu thogu-inĩ, akĩmwĩra: Nĩ handũ he? Mũrongo ũrĩa ruaki wa Yahwe rwarehĩrĩire ⟨את⟩ kuuma kwa iyo rũngĩũra ⟨את⟩-we?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8ecc4cd9fd87a5062e0d843a3445273fbebb3f42ddcbe455c5d42784f492d2d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/18\/23-23.1791270907600.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "agĩthĩĩte hakuhĩ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidekiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaacana"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akagora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikaayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaayahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "הלחי",
+      "gloss": "thogu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmwĩra"
+    },
+    {
+      "surface": "אי",
+      "gloss": "he?"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nĩhandũ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "mũrongo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "rwarehĩrĩire"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ kuuma kwa iyo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rũngĩũra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-we",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:07.607877818Z",
+  "model": "glm-5.3"
+}

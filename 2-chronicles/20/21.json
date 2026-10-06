@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 20:21",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להדרת קדש",
+      "rationale": "'hadarathi ya ũtheru' — kĩhungĩro gĩa gũtaũra: 'kũhecura ũtheru mwĩhanya' (ASV), 'kũhecura ndũrũrĩ-inĩ ya theru' (Geneva), kana 'kũhecura hĩndĩ ya ũtheru' — meciria mawĩrĩ nĩmahĩthagĩrĩka thĩinĩ wa kĩugo kĩmwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "acaini",
+      "rationale": "משררים nĩ 'arĩa mahota kĩĩrĩa' — 'acaini' nĩ kĩugo kĩa Gĩkũyũ gĩakĩrĩkĩraga kĩĩrĩa na kũina hamwe."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לעולם",
+      "rationale": "Ibukabukĩrĩro rĩa Kĩhibirania 'kuuma thutha wa kũona' rĩtaũrwo ta 'age na tene na thamaki' — kĩugo kĩrĩa gĩtikũgĩa kĩmĩena."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Mũthũrei Yahwe",
+      "rationale": "Kĩugo kĩa thahau kĩa Ebedi ya Babilonia nĩkĩhootanĩra andũ aria methĩtie ita mĩena ĩrĩ hamwe na kĩrĩkanĩro kĩa Yahwe (Amosi 136:1)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הודו \/ יהודה",
+      "rationale": "Hodi (yadah) na Yehuda nĩmahĩtanĩte metha-inĩ ma Kĩhibirania — kĩrathani kĩa Yehocafathi kĩambatagĩra rĩĩtwa rĩa bũrũri ũrĩa wĩ moko mabere."
+    }
+  ],
+  "translation": "Akĩcĩranĩra na andũ-arĩa, akĩmĩkĩra acaini a Yahwe na arĩa makũhura na hadarathi ya ũtheru, hĩndĩ ya kũgitha mbere ya arĩa amĩtwo ita, na makĩuga: Mũthũrei Yahwe, nĩgũkorua hecedi wakĩo age na tene na thamaki.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "86d3c32ba5445f458745ac911930a9875893c4162911357879cc196c34445dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/20\/21-21.1791270907908.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "akĩcĩranĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ-arĩa"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akĩmĩkĩra"
+    },
+    {
+      "surface": "משררים",
+      "gloss": "acaini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ומהללים",
+      "gloss": "na arĩa makũhura"
+    },
+    {
+      "surface": "להדרת",
+      "gloss": "na hadarathi ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "hĩndĩ ya kũgitha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "arĩa amĩtwo ita"
+    },
+    {
+      "surface": "ואמרים",
+      "gloss": "na makĩuga"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Mũthũrei"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorua"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "age na tene na thamaki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wakĩo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:07.913466218Z",
+  "model": "glm-5.3"
+}

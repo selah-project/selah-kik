@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 24:21",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mwathi wakwa",
+      "rationale": "אדני ĩrĩ kwarĩ ya mũndũ (mũthamaki), nĩgeetho ĩtagwo 'mwathi wakwa', ti Adonai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũrimũ wa gũkuua",
+      "rationale": "המגפה nĩ mwarĩtio wa ng'eno — 'plague\/pestilence' — waigĩte ta mũrimũ wa gũkuua"
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩ atĩ",
+      "rationale": "Kĩgĩko kĩa Gĩkũyũ gĩakĩrĩirwo kũonania ũira ũrĩa Dawidi ekugĩa"
+    },
+    {
+      "kind": "you",
+      "subject": "Araunah kuha Dawidi",
+      "rationale": "Mũharo wa mũgambo ũrĩa Aravnah ahumbĩra mũthamaki na ũthĩni wa ngombũkano"
+    }
+  ],
+  "translation": "Aravnah akiuga: Nĩgĩkĩ mwathi wakwa, mũthamaki, arĩ kũũka kwa mũtum wake? Na Dawidi akĩũgia nĩ atĩ: Nĩngũkũra kuuma kwa wewe ⟨את⟩ gĩcunjĩ kĩa kũyũyũra mbembe, ngĩcthondeke gĩikaro gĩa thahũ kwa Yahwe, nĩgũkoruo mũrimũ wa gũkuua ũkahoro kũrĩ ⟨arĩa mecirwo nĩguo athamũke⟩ andũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a272b28d70077bc3a5735142a6e2eadfc3a16d882854eb5957683f3be9f3d64d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/24\/21-21.1791269956897.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nĩgĩkĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arĩ kũũka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mũtum wake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩũgia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "Nĩngũkũra"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "kuuma kwa wewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gĩcunjĩ kĩa kũyũyũra mbembe"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gĩcunjĩ kĩa kũyũyũra mbembe"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ngĩcthondeke"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "gĩikaro gĩa thahũ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "nĩgũkoruo ũkahoro"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "mũrimũ wa gũkuua"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:16.900293716Z",
+  "model": "glm-5.3"
+}

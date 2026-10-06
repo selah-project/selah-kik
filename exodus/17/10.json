@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 17:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "kĩgĩko 'kwi' kĩnyiitagĩrwo; ũrĩa Moce amoigĩre nĩkwonekana"
+    }
+  ],
+  "translation": "Na Yehocua akĩĩra ta ũrĩa Moce amoigĩre, agĩteta na Amareki; na Moce na Aharoni na Curi maina igũrũ rĩa kilima.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b092676e90816993cac74e9a1bca10c47216635bfc3f36002760846a13da015a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/17\/9-10.1791269361326.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩĩra"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amoigĩre"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "gũteta"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "na Amareki"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "Curi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "maina"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "kilima"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:21.336057906Z",
+  "model": "glm-5.3"
+}

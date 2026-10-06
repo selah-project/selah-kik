@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ ũrĩa warĩ",
+      "rationale": "Copula plus emphatic הוא rendered as a Kikuyu identificative construction the Hebrew gives only as pronoun"
+    },
+    {
+      "kind": "measurement",
+      "subject": "omeri · efa",
+      "rationale": "Verse defines dry measures: one omer is a tenth of an ephah"
+    }
+  ],
+  "translation": "Na omeri nĩ ũrĩa warĩ kĩng'atũ kĩa efa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "91964d8f188637bca1667e844421e58dc832175e08907057b381e70fac54f983",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/16\/36-36.1791269325851.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "Na omeri"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "kĩng'atũ kĩa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ ũrĩa warĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:45.856357977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 8:2",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא אוסיף עוד עבור לו",
+      "rationale": "Hebrew idiom 'not add again to pass over for him' — Gikuyu rendered 'will not cross over again for them' (spare\/forgive idiom)."
+    },
+    {
+      "kind": "crux",
+      "subject": "עבור",
+      "rationale": "'pass by' (KJV) vs 'pass over\/pardon' (JPS) vs 'spare' (BSB); the Hebrew is 'cross over'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיץ\/קץ",
+      "rationale": "qayits 'summer fruit' vs qets 'end' — same-sounding words; the vision IS the pun, lost in Gikuyu."
+    },
+    {
+      "kind": "mystery",
+      "subject": "vision dialogue",
+      "rationale": "Prophetic riddle: what do you see — sealed meaning unpacked by YHWH himself."
+    }
+  ],
+  "translation": "Na akĩũria: Ũrĩona kĩĩ? Amosi. Nĩngwĩra: Kĩrũgũ cyoeeni. Mũrũgamĩrĩriarĩa Yahwe andĩkĩtie, nĩageretie ũthĩŋgu ũrĩa kĩrĩ kwa mbaara ya andũ ũrĩa Isiraeli atĩrĩ, ndigaacookithia kĩndũ kĩrĩa kĩnyihĩte mbaara itarĩ na kĩndũ gĩa gũcooka rĩngĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1ab1b98b78a5078f1f5ae5c441932f57a0ad06580342bc71d11e43968c3b5ac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/amos\/8\/2-2.1791270388597.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩũria"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwĩ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ũrĩona"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amosi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nĩngwĩra"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "kĩrũgũ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "cyoeeni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nĩageretie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "andĩkĩtie"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩageretie"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "ũthĩŋgu ũrĩa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩ kwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "andũ ũrĩa Isiraeli atĩrĩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "kĩrĩ kwa mbaara ya andũ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kĩnyihĩte mbaara itarĩ"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "kĩrĩ kwa mbaara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kĩrĩa kĩrĩ kwa mbaara ya andũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:28.603763898Z",
+  "model": "glm-5.3"
+}

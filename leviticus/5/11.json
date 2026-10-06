@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 5:11",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תשיג ידו",
+      "rationale": "Hebrew 'his hand reaches' = suffices; Kikuyu keeps the picture of the hand attaining."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עשירית האפה",
+      "rationale": "A tenth of an ephah of flour — grain measure for the poor person's offering."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטאת",
+      "rationale": "One Hebrew word covers sin and its sacrifice; Kikuyu must split into 'ihũ' (sin) and 'kĩheo gĩa ihũ' (sin-offering)."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Direct-object marker kept as ⟨את⟩, marking 'kĩheo gĩake' (his offering)."
+    }
+  ],
+  "translation": "No guo moko wake ndũkanagia nginya tori igiri kana ciana cia thũmbĩ igiri, nĩakaheyera ⟨את⟩ kĩheo gĩake gĩa ihũ gĩake: kĩmwe-kĩa-ikũmi kĩa efa kĩa cere-nyĩnyĩ, nĩ kĩheo gĩa ihũ; ndakĩhĩtiga maithori thĩinĩ wayo, na ndakahĩtiga manigi igũrũ rĩake, nĩgũkorwo nĩ kĩheo gĩa ihũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "caff4d96a53e1592abd49426a45e160a102d933fe30d6d55e6c6cb8b5a2322a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/5\/11-11.1791269446078.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "No guo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũkanagia"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko wake"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "igiri"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "tori"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "igiri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "thũmbĩ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "nĩakaheyera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩheo gĩake"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kĩheo gĩake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gĩa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ihũ gĩake"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "kĩmwe-kĩa-ikũmi"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "cere-nyĩnyĩ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "nĩ kĩheo gĩa ihũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndakĩhĩtiga"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ndakĩhĩtiga"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "thĩinĩ wayo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "maithori"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndakahĩtiga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ndakahĩtiga"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "manigi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kĩheo gĩa ihũ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:46.084719181Z",
+  "model": "glm-5.3"
+}

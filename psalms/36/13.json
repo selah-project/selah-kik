@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "arĩa",
+      "rationale": "Gĩkũyũ ĩhota gũkenera kĩhuruto kĩa ũhoro thutha wa 'Kuo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũrĩu",
+      "rationale": "אורן ni 'kĩndũ kĩaũ na gĩa kuuma hinya'; 'ũrĩu' nĩgeetha ndĩngĩheo hinya wa kinya hĩndĩ ĩyo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלו\/דחו\/קום",
+      "rationale": "Kwiyũrũrĩria kwa kũgwa-kũciarũo-kũinũka; mũhiano ũrĩa ũtangĩonekana mũno thĩinĩ wa Gĩkũyũ"
+    }
+  ],
+  "translation": "Kuo arĩa barũragani ba ũrĩu macokire kũgwa, maciĩtwo hinya-inĩ, na matiĩhota kũinũka.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a813f6839967e704ba2e07cac14b6c6cda6d1a1ca8ff0b6f6792c1351b255ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/36\/13-13.1791270467692.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "Kuo"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "macokire kũgwa"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "barũragani"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "ba ũrĩu"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "maciĩtwo hinya-inĩ"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "na matiĩhota"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "matiĩhota"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "kũinũka"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:47.695816541Z",
+  "model": "glm-5.3"
+}

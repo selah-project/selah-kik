@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kũgũthinga",
+      "rationale": "לכפר nĩ 'gũcinga'; Kĩgĩkũyũ nĩ 'gũthinga' — mũhiano wa kũcinga thayamba thĩinĩ wa kiugo kĩa Gĩkũyũ."
+    },
+    {
+      "kind": "addition",
+      "subject": "yacio",
+      "rationale": "Kĩgĩkũyũ gĩcoka gĩkĩhota gũcoka thayamba handũ ha kĩambĩrĩria kĩa ciugo"
+    }
+  ],
+  "translation": "Na ciĩthingo ciothe igĩturwo thayamba yacio ĩgĩthiĩ kĩamba-inĩ kĩa mahũrũrio kũgũthinga ⟨thĩinĩ⟩ theru-inĩ, ti kũĩrwo; mwakĩ-inĩ nĩgũkũrwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4ff6a27efe4bf20019e913991a809ae477b9807efd1b38a7765db4257cbd76d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/6\/22-23.1791269452366.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na ... ciothe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ciĩthingo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "igĩturwo"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "ĩgĩthiĩ"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "thayamba yacio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩamba-inĩ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kĩa mahũrũrio"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kũgũthinga"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "theru-inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kũĩrwo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mwakĩ-inĩ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "nĩgũkũrwo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:52.376349799Z",
+  "model": "glm-5.3"
+}

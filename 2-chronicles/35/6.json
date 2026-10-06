@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 35:6",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the Levites",
+      "rationale": "Imperatives of Josiah's command addressed to the Levites."
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Gĩkũyũ requires 'wa' (of) after 'ruoko-inĩ' where Hebrew uses ביד idiomatically for 'by the hand of'."
+    }
+  ],
+  "translation": "Na thĩnjai ⟨את⟩ Paska, na mũthingu-ini gwĩtherũ, na mũhotithania aanu anyu, mahote kũgeria ũrĩa wathiinga wa Yahwe wi, wa Moce.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6a0872e14c6356fd91885e6476aa6f74671941bc2e0f040f26bbdbfc70267729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/35\/6-6.1791270978405.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטו",
+      "gloss": "Na mũthingu-ini thĩnjai"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paska"
+    },
+    {
+      "surface": "והתקדשו",
+      "gloss": "na gwĩtherũ"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "na mũhotithania"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "aanu anyu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mahote kũgeria"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ũrĩa wathiinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ruoko-inĩ wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:18.406244831Z",
+  "model": "glm-5.3"
+}

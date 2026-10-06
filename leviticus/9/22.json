@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mkonowake (rĩmwe)",
+      "rationale": "Iandĩko rĩa Kĩhibirania rĩuga mkono ũmwe (ידו), no mataũri maingĩ (KJV, JPS) maandĩka 'mokono' marĩ eerĩ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ciheo cia thayũ",
+      "rationale": "השלמי׈ nigetha kuma shalom (thayũ); 'ciheo cia thayũ' nĩ kũgeria kwa kĩguna, ti kiugo kĩmwe."
+    }
+  ],
+  "translation": "Nĩarĩngĩirie Aharoni ⟨את⟩ mkonowake kũrĩ andũ, akĩbarũra, nao akĩtherera kuma kũgĩra kĩheo gĩa ihũ, na kĩheo gĩa kũninũka, na ciheo cia thayũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "60864168cdcb11f1bd463f89e4865f89f3f4eb8c6c4384681f44be51f4aa57f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/9\/22-22.1791269413300.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nĩarĩngĩirie"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkonowake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkonowake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "akĩbarũra"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akĩtherera"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "kuma kũgĩra"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kĩheo gĩa ihũ"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "na kĩheo gĩa kũninũka"
+    },
+    {
+      "surface": "ו השלמים",
+      "gloss": "na ciheo cia thayũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:13.304821908Z",
+  "model": "glm-5.3"
+}

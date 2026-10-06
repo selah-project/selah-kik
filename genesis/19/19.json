@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 19:19",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũoyo",
+      "rationale": "נפש nĩ ũhoro wa hewa-inĩ\/mũoyo ũrĩa wĩ mahũmũ-inĩ; ti 'roho' ya Kĩthwahĩri"
+    },
+    {
+      "kind": "addition",
+      "subject": "nakwa",
+      "rationale": "Kĩhibirania kĩa תדבקני kĩrĩ cĩĩra ya mũndũ mũthenya wa 1, kongerwo thĩinĩ wa ⟨…⟩ ti kwa gũtarĩria"
+    },
+    {
+      "kind": "crux",
+      "subject": "hecedi",
+      "rationale": "חסד: 'hecedi' ya riengo ya watho kana 'tha ya kwĩhoke': ylk ĩrĩa ĩrĩ kuo nĩ ũtheri wa 'tha thĩinĩ wa kĩrĩkanĩro'"
+    },
+    {
+      "kind": "you",
+      "subject": "Loti nĩookire mũraika",
+      "rationale": "Kĩhooto kĩa gũcookeria mũraika kĩambĩrĩria-inĩ wa thĩmbĩrĩra ya Sodoma"
+    }
+  ],
+  "translation": "Ona rĩrĩ, mũtumia waku nĩendete wathĩĩre thĩinĩ wa maitho makwanyu, ũkaongere hecedi waku, ũrĩa wakĩirie hamwe nakwa, wa gũtũũrĩrịa ⟨את⟩ mũoyo wakwa; na niĩ ndĩngĩhota kwĩhũũra kĩrĩma-inĩ, ũthĩ nĩ kĩuru kĩgĩcokanagĩra, nĩngũkua.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "be46534e03147d71937a0bbd25991fabc51970084e9145a840399f4278a030d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/19\/19-19.1791269246842.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona rĩrĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rĩrĩ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nĩendete"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "חן",
+      "gloss": "wathĩĩre"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "thĩinĩ wa maitho makwanyu"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "ũkaongere"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakĩirie"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hamwe nakwa"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "gũtũũrĩrịa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũoyo wakwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "na niĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩhota"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "hota"
+    },
+    {
+      "surface": "להמלט",
+      "gloss": "kwĩhũũra"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "kĩrĩma-inĩ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ũthĩ"
+    },
+    {
+      "surface": "תדבקני",
+      "gloss": "kĩgĩcokanagĩra nakwa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kĩuru"
+    },
+    {
+      "surface": "ומתי",
+      "gloss": "nĩngũkua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:26.847549585Z",
+  "model": "glm-5.3"
+}

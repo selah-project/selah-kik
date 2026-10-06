@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 11:26",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩaka ngiri ĩtatu ndatu",
+      "rationale": "Kũbũra kwa mĩaka kwothe nĩkuo kũhootanĩte kwa kĩhooto kĩa Yifta."
+    },
+    {
+      "kind": "you",
+      "subject": "to andũ a Amoni",
+      "rationale": "Mũbuko ũrĩa ũcokeria andũ a Amoni nĩguo mamenye ũhoro wao wĩ matherura."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mĩci ĩrĩa ĩiyũrĩte nayo",
+      "rationale": "'בנותיה' nĩ 'aĩri a kũndũ kũu' — Gĩkũyũ gĩkwĩra 'mĩci mĩnini ĩrĩa ĩiyũrĩte nayo'."
+    }
+  ],
+  "translation": "Hĩndĩ Yiceraeri ĩkaikarĩra Cecibonu na mĩci ĩrĩa ĩiyũrĩte nayo, na Arori na mĩci ĩrĩa ĩiyũrĩte nayo, na mĩci yothe irĩ thĩinĩ wa mabũrũri ma Arnonu — mĩaka ngiri ĩtatu ndatu; nĩ ũndũ ũkũhĩtia ndīmũcokorie hĩndĩ ĩyo?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a492e3368212b204f025a736ed4617eaed03eea69dd778b0c8782e4ab54dc3b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/11\/25-26.1791269805867.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשבת",
+      "gloss": "Hĩndĩ ... ĩkaikarĩra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Cecibonu"
+    },
+    {
+      "surface": "ובבנותיה",
+      "gloss": "na mĩci ĩrĩa ĩiyũrĩte nayo"
+    },
+    {
+      "surface": "ובערעור",
+      "gloss": "na Arori"
+    },
+    {
+      "surface": "ובבנותיה",
+      "gloss": "na mĩci ĩrĩa ĩiyũrĩte nayo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na mĩci yothe"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mĩci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mabũrũri ma"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnonu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ndatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ngiri ĩtatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "nĩ ũndũ ũkũhĩtia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndī"
+    },
+    {
+      "surface": "הצלתם",
+      "gloss": "mũcokorie"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:45.871306824Z",
+  "model": "glm-5.3"
+}

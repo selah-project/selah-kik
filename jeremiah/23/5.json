@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 23:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cemaki cedeki",
+      "rationale": "צמח 'sprout\/shoot' — a title, later read messianically (Maciaki); kept literal here."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק \/ צדקה",
+      "rationale": "Root צדק repeats in 'righteous sprout' and 'righteousness' — a bond lost in Gĩkũyũ."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Mĩthenya ĩgũũka",
+      "rationale": "The verse counts coming days — a temporal framing formula."
+    },
+    {
+      "kind": "mystery",
+      "subject": "cemaki",
+      "rationale": "The sprout is promised but unnamed — a figure whose identity is withheld."
+    }
+  ],
+  "translation": "Rũci! Mĩthenya ĩgũũka, Yahwe oigĩte, na nĩngĩamũkĩrĩra thĩinĩ wa Dawidi cemaki cedeki, nacio nĩgacio ngathĩti ĩrĩa ĩcioĩrĩke, na akĩra ciira na cedeki thĩ-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c3cf314cec2d1baecbb652184679e459930f48ae3601e1e2de6ac4d9732c58ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/23\/4-5.1791270248499.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rũci!"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mĩthenya"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ĩgũũka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "nĩngĩamũkĩrĩra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "thĩinĩ wa Dawidi"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "cemaki"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ĩcioĩrĩke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ngathĩti"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "nacio nĩgacio ĩrĩa ĩcioĩrĩke"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "akĩra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:08.517106729Z",
+  "model": "glm-5.3"
+}

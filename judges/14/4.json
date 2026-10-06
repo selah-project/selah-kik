@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאנה",
+      "rationale": "Kiugo gĩthisa kĩugaga 'mũthenya wa kũhota kana kĩheo kĩa kĩndũ' — athaũri aingĩ mega 'occasion\/kĩheo', aingĩ 'mũhaka kana gĩtereko kĩa kĩndũ'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא מבקש",
+      "rationale": "Ndaakwa ĩrĩ: 'nĩ ũrĩa (Cemusoni) athiaga' kana 'nĩ Yahwe ũrĩa arathiaga thĩĩ' — BSB ĩugaga Yahwe, Kĩhibirania gĩtĩu 'nĩwe (nĩ mũndũ)'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משלים",
+      "rationale": "Gĩkũyũ 'athamaki' nĩ kĩuga kĩngĩ kĩa kĩhingo; Kĩhibirania kĩugaga 'kuhambara' nĩguo kĩhotithia gĩkuũ kĩa watho."
+    },
+    {
+      "kind": "addition",
+      "subject": "rĩrĩa ciugo ciake ciarie",
+      "rationale": "Kiugo kĩa gĩcicio kĩa 'היא' kĩarĩ thĩinĩ wa gĩcunjĩ kĩu kĩa gĩtaũra kĩu, kĩrĩa gĩtangĩkonainia na mũndũ o wothe wa andũ."
+    }
+  ],
+  "translation": "Na ithe wake na nyina matiĩ atĩrĩ nĩ kuuma Yahwe ⟨rĩrĩa ciugo ciake ciarie⟩, nĩgũkorwa nĩagerete kũrora thĩĩ kambatarĩra na Piritini; na hĩndĩ ĩcio Piritini maarĩ athamaki a Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8bbcff0c4c023c0c1629cbf9df43e686a1c1c424af7d1499787680c9f3e6a3df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/14\/4-4.1791269800284.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "Na ithe wake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na nyina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "matiĩ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "atiĩ atĩrĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "nĩ kuuma Yahwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨rĩrĩa ciugo ciake ciarie⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "thĩĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩagerete"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "kũrora kambatarĩra na"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "Piritini"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "na hĩndĩ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ĩcio"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Piritini"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "maarĩ athamaki"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "a Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:40.286126814Z",
+  "model": "glm-5.3"
+}

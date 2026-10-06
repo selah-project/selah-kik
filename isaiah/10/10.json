@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מירושלם ומשמרון",
+      "rationale": "Mabuku ma tũtaũri nĩmehanagia atĩ mĩhianano ya Yerucarayimu na Comoroni nĩyo mĩnini kũrenda cia mbere, kana atĩ ũthamaki ũcio wamũkĩte andũ a kũo — ũhoro ũrĩa wonjokitie thiiniĩ wa kĩugo kĩngĩ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האליל",
+      "gloss-rationale": "kiugo gĩa Kĩhibirania kĩugaga 'kĩndũ kĩa thĩ kĩngĩhonokithia'; 'ngai cia kĩhianano' nĩyo tuarĩirie ũhoro wayo."
+    },
+    {
+      "kind": "addition",
+      "subject": "irĩ ho",
+      "rationale": "Kĩhibirania gĩtarĩ na kĩugo gĩkonie mũthingu wa ũrĩa ithigĩ ithondekite; gĩongirwo nĩgeetha mũhoro ũmenekane."
+    }
+  ],
+  "translation": "Ta ũrĩa guoko gwakwa gunyoretie ũthamaki wa ngai cia kĩhianano, na ithigĩ ciao irĩ ho, kuuma Yerucarayimu na kuuma Comoroni.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "936a168af25dfad85146b6d9dcf0ec23c4dd4da0311ae44f81ba77a5473325ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/10\/10-10.1791270151398.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ta ũrĩa"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "gunyoretie"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "guoko gwakwa"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "ũthamaki wa"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "ngai cia kĩhianano"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "na ithigĩ cao"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kuuma Yerucarayimu"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "na kuuma Comoroni"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:31.406013922Z",
+  "model": "glm-5.3"
+}

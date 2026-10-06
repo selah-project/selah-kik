@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 11:7",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũmera wa mĩri",
+      "rationale": "מנצר שרשיה ni 'mũmera wa mĩri yake' — mũhianĩre wa mbẽ, ti 'mũrũ wa mũciĩ' kana 'wa ithe'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עם נסיכיהם",
+      "rationale": "v8: Kĩhibirania kĩuga 'ithigari ciahũrũtwo' (נסיך, ciombo ciahũrũtwo) — KJV guatura 'andũ a thogora' (princes)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ועמד\/יעמד",
+      "rationale": "kũikara kwa mũndũ na kũikara kwa mĩaka — kiugo kĩmwe gĩkoragwo v7 na v8, mũhianĩre ũrĩa wĩhĩtithanie"
+    }
+  ],
+  "translation": "Na kuuma mũmera wa mĩri yake nĩmũndũ agĩikara harĩ mwena wake, na agĩĩka mbere ya kĩhingo gĩa ũhinya, ndakĩnyita harĩ gĩthingo kĩa mũthamaki wa rũgongo, na akĩmaĩkaria, na akĩheanjia hinya.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2441d631016529dab3fdb7704124105a550e38345d8c36e236c5801335d55dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/11\/7-8.1791270757939.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "na agĩikara"
+    },
+    {
+      "surface": "מנצר",
+      "gloss": "kuuma mũmera"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "wa mĩri yake"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "harĩ mwena wake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "agĩĩka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "kĩhingo gĩa ũhinya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ndakĩnyita"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "harĩ gĩthingo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kĩa mũthamaki"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "wa rũgongo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "akĩmaĩkaria"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "acio"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "akĩheanjia hinya"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:37.944671781Z",
+  "model": "glm-5.3"
+}

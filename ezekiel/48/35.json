@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ngiri ikũmi na inyanya",
+      "rationale": "Perimeter of the city counted as eighteen thousand, closing the temple-measurement sequence of Ezekiel 40–48."
+    },
+    {
+      "kind": "elision",
+      "subject": "סביב",
+      "rationale": "Hebrew has only the adverb 'round about' with no unit word; versions add 'measures', 'reeds', or 'cubits'."
+    },
+    {
+      "kind": "crux",
+      "subject": "unit of the 18,000",
+      "rationale": "KJV 'measures', ASV\/JPS 'reeds', BSB 'cubits' — the Hebrew names no unit, only the number and 'round about'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה שמה",
+      "rationale": "The city's closing name 'Yahwe Cama' — 'Yahwe nĩ arĩ kũu' — echoes the temple name; the Hebrew pun שם\/שמה (name\/there) is lost in Gĩkũyũ."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nĩ⟩",
+      "rationale": "Gĩkũyũ copula marker supplied; Hebrew juxtaposes יהוה שמה without a verb."
+    }
+  ],
+  "translation": "Ĩgũyũrirĩte ngiri ikũmi na inyanya; na rĩĩtwa rĩa gĩtĩ kĩu kuuma mũthenya ũcio nĩrĩkĩ: Yahwe ⟨nĩ⟩ arĩ kũu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "308a487e75eb1f0f8c863ac0a2ef9bf2a0f3984e0d19c1753bc5c75bd732af41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/48\/35-35.1791270383628.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ĩgũyũrirĩte"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "inyanya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na-rĩĩtwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gĩtĩ kĩu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuuma-mũthenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:23.632105283Z",
+  "model": "glm-5.3"
+}

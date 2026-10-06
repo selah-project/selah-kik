@@ -1,0 +1,184 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 22:13",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ciumbe",
+      "rationale": "חמת nĩ 'rũciĩ\/ũtheri' — mũhũmũ wa gũkua; 'ciumbe' ĩrongorire mũgambo wa Kĩhibirania"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Thieni, ithenie",
+      "rationale": "Mwathani caruta mũthenya oigire ciugo icio — kũhootwo kwĩrũa kwa Yahwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩgũkorwo",
+      "rationale": "כי ĩgĩtie kũhũthagĩrwo ta mũhiananio wa gũtua mbere"
+    }
+  ],
+  "translation": "Thieni, ithenie Yahwe wakwa, na ya andũ, na ya Yuda yothe, ũndũ-inĩ wa ciugo cia kĩbuku gĩkĩ kĩonĩtwo; nĩgũkorwo ciumbe ya Yahwe nĩinene mũno, ĩrĩa ĩnyuakĩte ithuĩ-inĩ, nĩ ũndũ athis a ithuĩ matiguura ciugo cia kĩbuku gĩkĩ, gũkorerithia o ũrĩa andĩku itũ-ĩnĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5dec9762e9cada8ff2278bf9d384b37c489abb0a067deca98b8b4343b279f995",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/22\/13-13.1791270063585.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Thieni"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ithenie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "wakwa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũndũ-inĩ wa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kĩbuku"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "kĩonĩtwo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nĩinene mũno"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ciumbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "נצתה",
+      "gloss": "ĩnyuakĩte"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ithuĩ-inĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨arĩa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "matiguura"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "athis a ithuĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ũndũ-inĩ wa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kĩbuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũkorerithia"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "andĩku"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "itũ-ĩnĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:03.587669420Z",
+  "model": "glm-5.3"
+}

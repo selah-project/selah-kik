@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩnyumba \/ nĩmĩcibĩrĩko",
+      "rationale": "Kĩhibirania kĩtarĩ na kiugo kĩngeretha 'nĩ'; Gĩkũyũ gĩkĩhiĩra nĩgeria watho woneke"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minaha",
+      "rationale": "לעלה nĩ minaha ya kũririkania — kĩheo gĩakĩrugwo gĩkĩrĩga igũrũ kĩthurwo; ndĩ kĩugo gĩa 'benta sacrifĩcio' kĩmwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mĩcibĩrĩko",
+      "rationale": "מזבח nĩ kĩunga kĩa mabara kĩrĩa bũrũri kũririkaniagwo minaha — ndĩ 'altari' ya gĩthwahĩri kĩnorwo"
+    }
+  ],
+  "translation": "Ndogo Dawidi akiuga: Ũyũ nĩnyumba ya Yahwe Erohimu, na ũyũ nĩmĩcibĩrĩko ya kũririkania minaha ya Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "213c5f122a4a1d25020ddb2e44485a5720b9a471f70456a1c9bb812796730dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/22\/1-1.1791270839629.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ũyũ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩũyũ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na ũyũ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mĩcibĩrĩko"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ya kũririkania minaha"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ya Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:59.633791577Z",
+  "model": "glm-5.3"
+}

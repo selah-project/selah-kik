@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלק",
+      "rationale": "'agwatire gĩcunjĩ' (took a portion, KJV\/ASV\/BSB) versus 'arĩhia oyo wothe' (stripped, JPS) — the root means 'be smooth', hence to pare away."
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "'kwa-yake' (to him) yakĩrĩtwo ndingĩkĩra harĩ kũmũteithia gũkorwo mũhano wa mũthenya wa mũndũ."
+    }
+  ],
+  "translation": "Nĩrĩ Acazi agwatire gĩcunjĩ, ⟨את⟩ nyũmba ya Yahwe, na ⟨את⟩ nyũmba ya mwathi na ya atongoria, akĩhĩa mwathi wa Acũri; no nĩ gũtirĩ kũmũteithia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9be557716560ce98980b5aabfbd1f263375edf6f78433739456a6b82ed54fde5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/28\/21-21.1791270924222.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "agwatire gĩcunjĩ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Acazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ya mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "na ya atongoria"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩhĩa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwa mwathi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Acũri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no nĩ gũtirĩ"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "kũmũteithia"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:24.226954976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 35:16",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העלות \/ עלות",
+      "rationale": "kũringĩra-igũrũ na ngoro-ia-kũhiũhio: mũgambo ũmwe wa 'kuhuma igũrũ' ũroragĩrĩra ha ũmwe, mũhiano ũrĩa woinagwo thĩinĩ wa Kĩhibirania."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלות",
+      "rationale": "kĩera kĩa ũthĩnjĩri nĩ 'kĩrĩa kĩhiũhĩtwo igũrũ'; 'ngoro-cio cia kũhiũhio' nĩ kũgereria gĩthũme, ti kĩugo kĩmwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "ũteithia",
+      "rationale": "וַתִּכּוֹן nĩ 'ĩtikũkĩra' — 'kĩanyitwo ũteithia' nĩ gũcokia maũndũ ma kĩguni gĩa gĩcunjĩ kĩa mahinda."
+    }
+  ],
+  "translation": "Na gĩĩkĩro kĩa Yahwe kĩu kĩonthe kĩanyitwo ũteithia, gũtua Pacaha, na kũringĩra ngoro-cio cia kũhiũhio igũrũ thĩinĩ wa kĩoneeni kĩa Yahwe, ta watho wa mwathi Yociyahu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7c0b59f114028c89657442cb2086d338abd63291252a13f716746d0a9a65fc90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/35\/16-16.1791270920592.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכון",
+      "gloss": "kĩanyitwo ũteithia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kĩonthe"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "gĩĩkĩro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kĩu gĩa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũtua"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pacaha"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "na kũringĩra igũrũ"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ngoro-cio cia kũhiũhio"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kĩoneeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "ta watho wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yociyahu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:20.595829606Z",
+  "model": "glm-5.3"
+}

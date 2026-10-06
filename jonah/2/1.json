@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ĩyo",
+      "rationale": "Gĩkũyũ nĩĩgethĩkaga gĩcunjĩ kĩa ngũra ya thutha, kĩrĩa Kĩhibirania kĩtirĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩthenya ĩtatũ na miatukũ ĩtatũ",
+      "rationale": "kũrora maũndũ na mũigana wa mĩthenya na miatukũ"
+    }
+  ],
+  "translation": "Na Yahwe akateithĩria ngũra nene yakwa kũmĩra ⟨את⟩ Yona; na Yona agĩkorwo thũmo-inĩ wa ngũra ĩyo mĩthenya ĩtatũ na miatukũ ĩtatũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5b33124ea0c8d0fdb2cdd0682cfdf44e244d2943120a40fa0989bcf7a1ee45c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jonah\/2\/1-2.1791270429609.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "akateithĩria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ngũra"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "yakwa kũmĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "agĩkorwo"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "thũmo-inĩ"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "wa ngũra ĩyo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "miatukũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:09.613780259Z",
+  "model": "glm-5.3"
+}

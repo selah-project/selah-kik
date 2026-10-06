@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 7:48",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mĩgate wa kũigwo mbere",
+      "rationale": "לחם הפנים is literally 'bread of the faces'; rendered as 'bread set before (the face)', the idiom of presence"
+    },
+    {
+      "kind": "alternative",
+      "subject": "wa dhahabu (final)",
+      "rationale": "final זהב may attach to the table (ASV 'table...of gold') rather than the bread; both kept ambiguous"
+    }
+  ],
+  "translation": "Na Ceromoni akĩruta ⟨את⟩ cikũranĩu ciothe irĩa nyũmba-inĩ ya Yahwe: ⟨את⟩ mũthingithia wa dhahabu, na ⟨את⟩ mũcandĩ ũrĩa mĩgate wa kũigwo mbere ũrĩa, wa dhahabu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "399befc63003e9b4c2c2f6baa591d71b5d0fedecf4957a981556cadea2725391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/7\/47-48.1791269958502.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩruta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cikũranĩu ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "cikũranĩu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingithia wa dhahabu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mũthingithia"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wa dhahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mũcandĩ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mũcandĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mĩgate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ya kũigwo mbere"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wa dhahabu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:18.503647175Z",
+  "model": "glm-5.3"
+}

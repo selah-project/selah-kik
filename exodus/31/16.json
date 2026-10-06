@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושמרו\/לעשות",
+      "rationale": "שמר (gũciria) na עשה — Ciugo igĩrĩ cia Cabati rĩrĩa rĩhoorerwo: kũrigicithia na kũthinga; gũcookerwa kwa השבת hairĩ nĩ kĩguni kĩa kĩũmbe kĩonekaga thutha wa kĩrĩkanĩro."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ג'eneresheni",
+      "rationale": "לדרת׹ם no ĩtuĩke 'mĩthenya ya mabururi mwanya' kana 'mĩthenyarĩ yao'; mĩthenya mwanya nĩguo nĩ yawe."
+    },
+    {
+      "kind": "you",
+      "subject": "ciana cia Yiceraeri",
+      "rationale": "Ndamathĩ ĩamũrĩte ciana cia Yiceraeri nĩ rũciaro rwa kĩrĩkanĩro."
+    }
+  ],
+  "translation": "Na ciana cia Yiceraeri nĩcĩthagĩkĩra ⟨את⟩ Cabati, gũthinga ⟨את⟩ Cabati mĩthenyarĩ-inĩ yao, nĩ kĩrĩkanĩro kĩa lo le mwanya.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d481ae3277b0818198f766e9627e709bd44db79ab5062bb7ff56f43df59070c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/31\/16-16.1791269413881.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "nĩcĩthagĩkĩra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũthinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "mĩthenyarĩ-inĩ yao"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lo le mwanya"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:13.888411404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 7:11",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Gĩkũyũ nĩĩhĩtĩkaga copula ũrĩa Kĩhibirania kĩtarĩ nayo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũthemwo wa barũa",
+      "rationale": "פרשגן na הנשתון nĩ ciugo cia Kĩpericia — 'mũthemwo' na 'barũa' nĩ ciugo cia Gĩkũyũ ciatũũkĩtie tebesitii yothe"
+    },
+    {
+      "kind": "crux",
+      "subject": "mũandĩki — mũandĩki",
+      "rationale": "ספר ikarĩtwo rwimwe rũrĩa nĩgeetha hũthũ wa kiugo kĩoneke; itaũri ingĩ meera 'mũandĩki ũrĩa mũnene wa...'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũthemwo wa barũa",
+      "rationale": "Kĩcunjĩ kĩa mbere gĩa barũa ya mwathi — andĩki arĩa kũrandĩkaniaagia matuĩka"
+    }
+  ],
+  "translation": "Na ũyũ nĩmũthemwo wa barũa ĩrĩa mwathi Artahacerete aitĩre Ezara, mũthanjari, mũandĩki — mũandĩki wa ciugo cia miatho ya Yahwe na ciathe ciake irĩ igũrũ rĩa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "081b4d461271a5c57af0060daed57579d89d288997721cdd05bf55d8fd774f64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezra\/7\/11-11.1791270986217.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Na ũyũ"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "mũthemwo"
+    },
+    {
+      "surface": "הנשתון",
+      "gloss": "wa barũa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aitĩre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artahacerete"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjari"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mũandĩki"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mũandĩki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wa ciugo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "cia miatho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "na ciathe ciake"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:26.217794367Z",
+  "model": "glm-5.3"
+}

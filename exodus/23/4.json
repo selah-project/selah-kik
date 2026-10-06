@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב ... תשיבנו",
+      "rationale": "Infinitive absolute hamwe na kĩriako kĩa cokio — 'ũcoke ũmũretũre' — kĩgeranio kĩa Kĩhibirania kĩa kũheng'ereria, kĩrĩa kĩnyiitagĩra mũgambo wa Kĩgĩkũyũ"
+    },
+    {
+      "kind": "you",
+      "subject": "kũrĩa mũthomi",
+      "rationale": "Watho ũyũ ũhĩtũkĩte mũndũ ũmwe — 'wakwa' nĩ kwarĩrĩria mũthomi wowote wa watho"
+    }
+  ],
+  "translation": "Rĩrĩa ũkĩũngũĩra ng'ombe ya thũ wakwa kana ndũngũ yakwe ĩrahũre, ũcoke ũmũretũre kũe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "14aa042e39fe0d73b22bb421e7834be5fc2a9110796b6dbaa4ab34c982f798ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/23\/3-4.1791269356456.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Rĩrĩa"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "ũkĩũngũĩra"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "ya thũ wakwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ndũngũ yakwe"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "ĩrahũre"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ũcoke"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ũmũretũre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:16.470587782Z",
+  "model": "glm-5.3"
+}

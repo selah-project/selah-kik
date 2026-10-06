@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 5:14",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mũrwa o wothe",
+      "rationale": "Hebrew כל מלאאכה lacks an explicit verb-object structure in Gĩkũyũ, verb repeated for clarity"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yiceraeri",
+      "rationale": "direct address: command given to Israel at Horeb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/ינוח",
+      "rationale": "Sabbath-rest root repetition; Cabati and kũhotoria echo the Hebrew link"
+    }
+  ],
+  "translation": "Na mũthenya wa gũkũminja nĩ Cabati ya Yahwe Erohimu waku; ndũkage mũrwa o wothe, wĩ we, na mũrũ waku, na mũiritu waku, na mũthũnjĩri waku, na mũthũnjĩri mũka waku, na ng'ombe waku, na ndigiriri waku, na nyamũ cia ku ciothe, na mũcenji waku ũrĩa ũĩkarĩ thĩinĩ wa marĩgi maku, nĩgeetha mũthũnjĩri waku na mũthũnjĩri mũka waku mahotoragie wega ta wĩwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "53a6525e3634cc8f84d6212d6c161a8569433f5a251e4186b506e96537d70ea8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/5\/14-15.1791269607204.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "Na mũthenya"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wa gũkũminja"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũkage"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mũrwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mũrwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wĩ we"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "na mũrũ waku"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "na mũiritu waku"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "na mũthũnjĩri waku"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "na mũthũnjĩri mũka waku"
+    },
+    {
+      "surface": "ושורך",
+      "gloss": "na ng'ombe waku"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "na ndigiriri waku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "nyamũ cia ku"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "na mũcenji waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "thĩinĩ wa marĩgi maku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "mahotoragie"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũthũnjĩri waku"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "na mũthũnjĩri mũka waku"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ta wĩwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:27.205643045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהיו אל",
+      "rationale": "Heb. 'shall be to this tribute' — renderings split between 'give' (KJV\/JPS), 'participate' (BSB), 'be bound' (Wycliffe); Hebrew has no verb 'give'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maharĩkĩtie",
+      "rationale": "היה is 'be\/become'; a verb of obligation was chosen because Hebrew's plain 'be' reads oddly as duty"
+    },
+    {
+      "kind": "measurement",
+      "subject": "terumah",
+      "rationale": "Verse regulates the fixed tribute-portion owed to the prince, part of Ezekiel's measured temple economy"
+    }
+  ],
+  "translation": "Andũ othe a thĩ maharĩkĩtie ⟨ĩ⟩ kĩheo gĩkĩ, ĩ mwathi, thĩinĩ wa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f4016c3558b3920aade041d7fddf5eb03ec094a17ec1382c43c549343a081d35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/45\/16-16.1791270395418.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maharĩkĩtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:35.422555767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 9:32",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ikĩhũra",
+      "rationale": "ciugo iria ciongerirwo kũonania atĩ thondeko nĩyo ĩrahũrire andũ acio"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל ימעט לפניך",
+      "rationale": "tũgĩrĩ two: 'kana ithĩonĩke gĩake mbere yakwa' kana 'ndũkamenyerere' — tondũ nĩ kũoya kwa kũhe mario"
+    },
+    {
+      "kind": "you",
+      "subject": "kwĩrĩ Erohimu",
+      "rationale": "kũoya gũkĩgĩrĩire Erohimu, nĩgewa ya andũ a Yerucarayimu marĩa mahũthagĩrĩga"
+    }
+  ],
+  "translation": "Na rĩgĩthĩ, Erohimu witũ, Ere mũnene, mũrũngithia-hinya, na ũrĩa wĩtũgĩrwo na mahũa, ũrĩa ũrĩkĩraga kĩrĩkanĩro na hecedi, ndũkamenyerere thĩinĩ waku gĩake ⟨את⟩ thondeko iothe ĩrĩa ĩtũhiũire, ĩkĩhũra athamaki aitu, atongoria aitu, athanjari aitu, arathi aitu, maĩa aitu, na andũ ako othe, kuuma mĩthenya ya athamaki a Acuru nginya mũtheniya ũyũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "006c6cf74ad24091f71fef82c3a8642fe09042db37537d6739ffbb3a8690e64c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nehemiah\/9\/32-32.1791270757521.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩgĩthĩ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "mũrũngithia-hinya"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "na ũrĩa wĩtũgĩrwo na mahũa"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ũrĩa ũrĩkĩraga"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "na hecedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũka"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "kamenyerere gĩake"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thondeko iothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iothe"
+    },
+    {
+      "surface": "התלאה",
+      "gloss": "thondeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "מצאתנו",
+      "gloss": "ĩtũhiũire"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ikĩhũra athamaki aitu"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "atongoria aitu"
+    },
+    {
+      "surface": "ולכהנינו",
+      "gloss": "athanjari aitu"
+    },
+    {
+      "surface": "ולנביאנו",
+      "gloss": "arathi aitu"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "maĩa aitu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ ako"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "kuuma mĩthenya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ya athamaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "a Acuru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũtheniya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:37.526686677Z",
+  "model": "glm-5.3"
+}

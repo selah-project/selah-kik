@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 37:12",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תחבולת",
+      "rationale": "Nĩ kĩugo kĩa mĩario ya ngarari ya meri — 'kũgĩcunjĩria ngarari' — gĩkoĩtwo ha kĩugo kĩa ũgĩ thĩinĩ wa maũndũ ma Yahwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "מסבות",
+      "rationale": "Andũ a taũra metiganĩirie: 'kũmihuura hoda' (KJV 'turned round about') kwonania kĩndũ kĩgĩtwarũka mabũrũri-inĩ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל ארצה",
+      "rationale": "Nĩ ciugo igĩrĩ cianjĩrĩte hĩndĩ ĩmwe — 'thĩ ĩrĩa andũ athiaga' — taũrĩtwo ta kĩugo kĩmwe kĩa Gĩkũyũ."
+    },
+    {
+      "kind": "elision",
+      "subject": "ארצה",
+      "rationale": "Kĩugo kĩa mĩthia kĩahĩtĩtwo thutha wa תבל nĩgũkorwo kĩngĩĩra handũ hamwe."
+    }
+  ],
+  "translation": "Na rĩo rĩgĩcokethũka mĩhũrũro-inĩ, rĩgĩtwarwo nĩ mĩcoro yakĩrĩra gũkĩĩra ũndũ wothe ũrĩa arĩmũhota-kanũra, thĩ ya thĩ yothe ya mũciĩ-wa-andũ-rũmi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9b1ec09df0b7dec487243a7de63b89cec9f4c97b4d2165b4077a9ae09a61c8d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/37\/12-12.1791270623810.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "na rĩo"
+    },
+    {
+      "surface": "מסבות",
+      "gloss": "mĩhũrũro-inĩ"
+    },
+    {
+      "surface": "מתהפך",
+      "gloss": "rĩgĩcokethũka"
+    },
+    {
+      "surface": "בתחבולתו",
+      "gloss": "nĩ mĩcoro yakĩrĩra"
+    },
+    {
+      "surface": "לפעלם",
+      "gloss": "gũkĩĩra wawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ũndũ wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "יצום",
+      "gloss": "arĩmũhota-kanũra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thĩ yothe ya mũciĩ-wa-andũ-rũmi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:23.814488947Z",
+  "model": "glm-5.3"
+}

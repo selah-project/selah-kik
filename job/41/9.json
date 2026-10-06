@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש באחיהו ידבקו",
+      "rationale": "Targum\/Revised Version: 'each is joined to its brother' (Leviathan's scales); KJV reads 'his hope is in vain' — this verse describes Leviathan's scales, not man's courage"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אחיהו",
+      "rationale": "'mũrũ wa nyina wake' is circumlocution; Gĩkũyũ rĩngĩ nĩ 'mũrũ-wa-nyina', the literal 'brother' describing scales clinging side-by-side"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידבקו \/ יתלכדו \/ יתפרדו",
+      "rationale": "Three verbs of clinging and separation in a chain — cling, seize, not-separate — the tightness is the rhetoric"
+    }
+  ],
+  "translation": "Mũndũ na mũrũ wa nyina wake nĩmahota kũratwarũka hamwe; magwatĩrĩka makĩhũra ⟨kĩndũ⟩ gĩa kũnyitana, na matirĩgũcwatĩrĩka.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4a6f2baaf97a7d6b82b7664e57c8da0b380eeb548bd0a0664670260814e66662",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/41\/9-9.1791270610896.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "na mũrũ wa nyina wake"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "nĩmahota kũratwarũka hamwe"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "magwatĩrĩka makĩhũra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matirĩ"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "kũcwatĩrĩka"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:10.900521409Z",
+  "model": "glm-5.3"
+}

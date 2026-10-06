@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלח ידו",
+      "rationale": "'gũcokia mkono' — Hebrew 'sent his hand against', idiom for attacking; rendered 'ekũra mkono wake'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונקה",
+      "rationale": "Rhetorical question: 'and be guiltless?' — statement form reads 'he will not be held innocent'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mũrungo⟩",
+      "rationale": "Hebrew lacks verb 'to be'; copula supplied for the rhetorical question"
+    }
+  ],
+  "translation": "Dawidi akĩuga kũ Abicai: Mũticonde; nĩrĩ nĩũ ekũra ⟨mũrungo⟩ mkono wake thĩinĩ wa Maciaki wa Yahwe, na akĩhotorwo?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "62ca16a5ad9d47e8df1eef4e380586661d2359af1e2835e839ba958232868f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/26\/9-10.1791269889375.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abicai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mũti-"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "conde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩrĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ekũra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mkono wake"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "thĩinĩ wa Maciaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "akĩhotorwo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:09.376221009Z",
+  "model": "glm-5.3"
+}

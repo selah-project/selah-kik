@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 31:13",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hamwe na",
+      "rationale": "Hebrew waw joins items without an added conjunction word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũkohani",
+      "gloss_check": "הכהן rendered as mũkohani (one officiating) rather than a generic title"
+    }
+  ],
+  "translation": "Moce na Erecari mũkohani, hamwe na athamaki aothe a mũthuria, magĩra thĩ ndũrũrĩ-inĩ mahĩtia nao, thĩ ya ngimbĩrĩra kana mahiani amwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "25e765a8e02ca2f3e1476c9c27ca3c5170461e799c90d3448f78fb5a142cdf48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/31\/13-13.1791269559331.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "magĩra thĩ ndũrũrĩ-inĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "Erecari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkohani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "aothe"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a mũthuria"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "mahĩtia nao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "thĩ ya ngimbĩrĩra"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mahiani"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:39.335916442Z",
+  "model": "glm-5.3"
+}

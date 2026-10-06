@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũtetere",
+      "rationale": "החרדתי nĩ 'nĩngĩmũtĩmbara na kũigua thĩiniĩ' — gũtetere nĩ gũkũigana kũingĩ kwa hinya"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mĩara ĩhũrũku",
+      "rationale": "רפה ידים nĩ kĩng'ania kĩa Kĩhibirania kĩugaga 'mĩara ĩnini hinya' — kĩoningagia kĩhooto"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "gĩcunjĩ kĩa והוא kĩrũngĩtwo 'arĩ' thĩinĩ wa mũhuro wa gĩcunjĩ kĩa mbere"
+    }
+  ],
+  "translation": "Nĩnjĩũkĩra igũrũ rĩake arĩ mũgoe na mĩara ĩhũrũku, nĩngĩmũtetere ⟨את⟩ ⟨nayo⟩; andũ othe arĩa ⟨את⟩-arĩ-nayĩ magĩheha; na nĩngũtua ⟨את⟩ mũthamaki o we mũgenesisĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "be1e9850421ea5091b5dd23f9ed2e79e72945e67749fb49f3e93bfc774189076",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/17\/2-2.1791269945629.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "nĩnjĩũkĩra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "mũgoe"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "ĩhũrũku"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "mĩara"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "nĩngĩmũtetere"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨nayo⟩",
+      "marks": "wekĩte tero kũrĩ mũndũ ũcio"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "magĩheha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-arĩ-nayĩ"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "nĩngũtua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthamaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "o we mũgenesisĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:05.633479888Z",
+  "model": "glm-5.3"
+}

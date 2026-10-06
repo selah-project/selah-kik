@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 19:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה־לך פה",
+      "rationale": "Ciugo cia Kĩhibirania 'nĩkĩ gĩkĩkũũ' — kiugo kĩhũthagĩrwo kũria mũndũ ũrĩa arĩ handũ hakĩo nĩ ũndũ ũrĩkũ; kĩa thĩ nĩ 'rĩ na kĩndũ gĩa gũkũ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "והנה",
+      "rationale": "'Na rũciaro rũkaigana' — והנה nĩ 'ona!' no nĩyonjoritio ta 'nĩguo' thĩinĩ wa mũhuro."
+    },
+    {
+      "kind": "addition",
+      "subject": "atĩrĩ",
+      "rationale": "Kiugo gĩa kũonjoria kĩngĩrĩirwo thutha wa 'rũmũugĩra' guothe Gĩkũyũ kĩhũthagĩra atĩrĩ."
+    },
+    {
+      "kind": "crux",
+      "subject": "Eriya",
+      "rationale": "Rĩĩtwa rĩa Kĩhibirania אליהו — mũgambo wa Kĩhibirania nĩ 'Eliyahu' (Eriya), ti 'Elija' wa Kĩthwahĩri."
+    },
+    {
+      "kind": "you",
+      "subject": "Eriya",
+      "rationale": "Yahwe arĩmũciria Eriya mwene, na mũthombo wa ũthĩũ nĩ mũthĩnjĩri-ngai wa Yehera."
+    }
+  ],
+  "translation": "Na akĩinya kuo, gũkĩrĩa nyumba ya mũtikũ, akĩhĩtĩka kuo; na rũciaro rwa Yahwe rũkaigana na iwe, na rũmũugĩra atĩrĩ: Nĩkĩrĩkĩre we Eriya, ha?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e48a04499eaa60d5e9797b4113b51589c0a737ed24f67e08f92e74e0b9421947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/19\/9-9.1791270038363.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩinya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gũkĩrĩa"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "nyumba ya mũtikũ"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "akĩhĩtĩka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rũciaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na iwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "rũmũugĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rĩkĩre we"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriya"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:38.368699374Z",
+  "model": "glm-5.3"
+}

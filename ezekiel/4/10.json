@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "cekeri mĩrongo ĩrĩ",
+      "rationale": "Irĩo yaroragio na cekeri 20 thĩiniĩ wa mũthenya ũmwe."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kuuma hĩndĩ nginya hĩndĩ",
+      "rationale": "מעת עד עת — harĩa na harĩa, ti kĩndũ kĩng'e."
+    }
+  ],
+  "translation": "Na irio waku ĩrĩa ndũrĩrĩ nĩ kĩgĩro-inĩ — cekeri mĩrongo ĩrĩ mũthenya ũrĩa — kuuma hĩndĩ nginya hĩndĩ ndũrĩrĩ ⟨nĩcio⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9c5b50e16f913adb63b929436fdc3a1c1a075d331261033d2b314d1ae848b322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/4\/9-10.1791270361350.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "Na irio waku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "kĩgĩro-inĩ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "cekeri"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "kuuma hĩndĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hĩndĩ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:01.357290461Z",
+  "model": "glm-5.3"
+}

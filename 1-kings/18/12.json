@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 18:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהרגני",
+      "rationale": "'ahũte akandĩkwĩra' — Hebrew says 'he will slay me', a dreaded future; one clause rendered as two."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנערי",
+      "rationale": "'kuuma kũrirĩkanĩra' vs 'kuuma mĩarĩkĩ-inĩ ĩkũmi' — Hebrew is 'from my youth', collective plural of state."
+    },
+    {
+      "kind": "you",
+      "subject": "Obadia",
+      "rationale": "Obadia agĩrĩirie Erija — mũgambo ũyũ nĩ mũhoreri wa Erija mũthenya ũcio."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את\/מאתך",
+      "rationale": "את with pronominal suffix (m\/854, 'near thee') is the preposition, not the DOM — gloss carries ⟨את⟩ per house rule."
+    }
+  ],
+  "translation": "Na nĩgũtuĩka, rĩrĩa ndĩthiĩ kuuma kũrĩ ⟨wee⟩, ruaki ya Yahwe nĩngũkuamata kũrĩ harĩa ndĩmenya-thĩ; ndĩkaya kũhoyagĩrĩra Ahabu, na ndakũkũona, akamũhiruta ndĩkwĩre; no mũte waku nĩeatagĩrĩirie ⟨את⟩ Yahwe kuuma thutha wa kũrirĩkanĩra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8a2df1ddc02e9089a65bf8497811b26454c1df6ac79cc5b1cbc0c3bb5c986ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/18\/12-12.1791269925077.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "na nĩgũtuĩka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndĩthiĩ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kuuma kũrĩ ⟨את⟩-wee"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruaki ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "nĩngũkuamata"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩmenya-thĩ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndĩmenya-thĩ"
+    },
+    {
+      "surface": "ובאתי",
+      "gloss": "ndĩkaya"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kũhoyagĩrĩra"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndakũkũona"
+    },
+    {
+      "surface": "ימצאך",
+      "gloss": "ndakũkũona"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "akamũhiruta ndĩkwĩre"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "mũte waku"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nĩeatagĩrĩirie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "kuuma thutha wa kũrirĩkanĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:45.078470103Z",
+  "model": "glm-5.3"
+}

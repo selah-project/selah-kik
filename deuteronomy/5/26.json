@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũcyai",
+      "rationale": "חיים nĩ 'arĩ mcayo' — kiugo gĩa kũgerania kĩringanĩtie na Erohimu mũcyai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gĩcunjĩ-inĩ kĩa mũrigo",
+      "rationale": "מתוך nĩ 'thĩinĩ wa' kana 'gatagatĩ ka' — mũrigo ũrĩa wa metha nĩ wa mĩena ĩrĩ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "agĩkũra",
+      "rationale": "ויחי nĩ 'akaara mcayo' — ĩrĩa ĩrĩa ngigĩ tuũka nĩ 'agĩkũra' kana 'ndaakuũ'"
+    },
+    {
+      "kind": "you",
+      "subject": "andũ a Yiceraeri",
+      "rationale": "Kĩugo gĩkĩ nĩ kĩũrire andũ arĩa amamenete ma Horebi — o mbere ya YAHWE"
+    }
+  ],
+  "translation": "Nĩgũkorwo nĩ ũũ nĩ ndũ? wa nyama yothe, ũrĩa wamĩngĩrire rũgiũ rwa Erohimu mũcyai, arayarũania kuuma gĩcunjĩ-inĩ kĩa mũrigo, ta ithuĩ, na agĩkũra?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "24e4766f616a95d5cd748479976e2c1e95dcc90094ed952786f8738a70c060ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/5\/26-26.1791269702585.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "wa nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wamĩngĩrire"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rũgiũ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "rwa Erohimu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mũcyai"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "arayarũania"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kuuma gĩcunjĩ-inĩ kĩa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mũrigo"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "ta ithuĩ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "na agĩkũra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:02.585976552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 42:15",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kahĩa",
+      "rationale": "נחלה nĩ kĩheo gĩa kũririkania kwa mũciĩ, kahĩa nĩrĩ kũhĩtia twĩ kĩega"
+    },
+    {
+      "kind": "elision",
+      "subject": "na handũ ha thĩ yothe",
+      "rationale": "Hebrew nĩĩugaga 'gũtirĩ aonekire thĩ yothe', thererithimbo nĩgũcokanĩrĩria"
+    }
+  ],
+  "translation": "Na handũ ha thĩ yothe nĩ gũtirĩ athiithi arabayũ aonekire ta cianĩ cia Aiyobu, na ithuũ ciao nĩciheire kahĩa hakuhĩ na acurũ aciao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "299f92362995f30da7f64de7b56674c5929b64504b047ead0f036a73b4b79a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/42\/15-15.1791270601475.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "aonekire"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "athiithi"
+    },
+    {
+      "surface": "יפות",
+      "gloss": "arabayũ"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "ta cianĩ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "cia Aiyobu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na nĩciheire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ithuũ ciao"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "itaũ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "kahĩa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "acurũ aciao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:01.480062591Z",
+  "model": "glm-5.3"
+}

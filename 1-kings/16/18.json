@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליו",
+      "rationale": "KJV\/ASV: 'burnt the house over him' (house burned over Zimri); Wycliffe\/Geneva: 'burnt himself' — Zimri's suicide by fire."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aramoni",
+      "rationale": "ארמון nĩ kĩgwa kĩa ũgima kĩrĩa kĩrĩ igũrũ — 'citadel', ti 'nyũmba nene' wiki."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mucĩ⟩",
+      "rationale": "Gĩkũyũ kĩhitũkagira kiugo kĩrĩa kĩgeranagia ũguni wa ũnyitĩtwo wa mudurũ."
+    }
+  ],
+  "translation": "Nĩkĩu, rĩrĩa Cimri aroonire atĩ ⟨mucĩ⟩ ũnyitĩtwo, aingĩrire aramoni-inĩ wa nyũmba ya mwathi, na nĩakihere ⟨את⟩ nyũmba ya mwathi na mũrito igũrũ rĩake, na akĩfa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "953189f97b4b8b85bd009ff3ee7f5af5218437526e92d7e0920065a80afac2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/16\/18-18.1791269939151.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩkĩu"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "rĩrĩa aroonire"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Cimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ũnyitĩtwo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "aingĩrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aramoni-inĩ"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "aramoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "nĩakihere"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mũrito"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akĩfa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:59.153437501Z",
+  "model": "glm-5.3"
+}

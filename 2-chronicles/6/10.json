@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקם\/ואקום",
+      "rationale": "kuuma o mũri ũmwe 'kũinĩra' — Yahwe ekĩtie ũhoro wake, na arĩmwe na we nĩakĩinĩrĩte; mahinda matatũ ma דבר hamwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויקם את דברו",
+      "rationale": "'kũinĩra kiugo' kuuma Kĩhibirania — nĩkwendwo kũũgwa ta 'kũhĩthĩra\/kũmeera' Handũ ha 'kuuma kũhota ũhoro'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר\/כאשר",
+      "rationale": "ciugo cia kũhũrĩra cia Kĩhibirania ciũngĩtwo ta 'ũrĩa\/ta ũrĩa'."
+    }
+  ],
+  "translation": "Na Yahwe ahetwo ũhoro ũrĩaawai, na nĩĩkĩrĩte handũ ha Dawidi ithe wakwa, na nĩĩcĩĩrĩire cegũrũ-inĩ rĩa Yiceraeri, ta ũrĩa Yahwe aekeire, na nĩĩhĩire ⟨את⟩ nyũmba ya rĩĩtwa rĩa Yahwe, Erohimu wa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b6938c4ca0c8e7aaa38440394f2c243259e4006f3b042aeeb0f1d412ea0c3975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/6\/9-10.1791270863362.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ahetwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro ũrĩaawai"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ũhoro ũrĩaawai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aekire"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "nĩĩkĩrĩte"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "nĩĩcĩĩrĩire"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "cegũrũ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "rĩa Yiceraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aekeire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "nĩĩhĩire"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ya rĩĩtwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rĩa Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:23.371100656Z",
+  "model": "glm-5.3"
+}

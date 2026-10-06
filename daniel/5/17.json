@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 5:17",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gĩikare",
+      "rationale": "Aramaic construct להוין lacks copula; Gĩkũyũ needs 'gĩikare' for the wish-clause."
+    },
+    {
+      "kind": "you",
+      "subject": "to the king (Berechaci)",
+      "rationale": "Daniyeki answers the king directly, refusing his gifts before him."
+    },
+    {
+      "kind": "alternative",
+      "subject": "igooti",
+      "rationale": "נבזביתך is a distinct word from מתנתך — a royal 'largess\/fee', here paired as gift-plus-reward; rendered as igooti to keep the pair."
+    }
+  ],
+  "translation": "Rĩrĩa Daniyeki akiugira, na akiuga mbere ya mwathi: kĩheo gaku gĩikare gwaku, na igooti caku ũhe ũrĩa ũngĩ; no o ũguo, ndandĩko njahora mwathi, na taũro wayo njamũmenyethia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "eff7f05a1749a8836206172b6aa881af380f1b48c140842ad252764df8350193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/5\/17-19.1791270808895.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Rĩrĩa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "akiugira"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeki"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מתנתך",
+      "gloss": "kĩheo gaku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gwaku"
+    },
+    {
+      "surface": "להוין",
+      "gloss": "gĩikare"
+    },
+    {
+      "surface": "ונבזביתך",
+      "gloss": "na igooti caku"
+    },
+    {
+      "surface": "לאחרן",
+      "gloss": "ũrĩa ũngĩ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ũhe"
+    },
+    {
+      "surface": "ברם",
+      "gloss": "no o ũguo"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ndandĩko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "njahora"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "na taũro"
+    },
+    {
+      "surface": "אהודענה",
+      "gloss": "njamũmenyethia"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:28.900644391Z",
+  "model": "glm-5.3"
+}

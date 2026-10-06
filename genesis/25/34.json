@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 25:34",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויבז",
+      "rationale": "Hebrew 'vayyibez' nĩ kũthingũra-kĩndũ-kĩhengereirie; gĩcunjĩ kĩa mũthia kĩrĩa kĩrutanagia maũndũ nĩ 'akenagĩrĩirie' — kĩhumo kĩa kĩngerekera thutha wa mĩario ĩrĩa ikuhĩrĩirie."
+    },
+    {
+      "kind": "idiom",
+      "subject": "wayyiqtol cluster",
+      "rationale": "Mĩario ĩnya ya wayyiqtol (akĩrĩa, akĩnyua, akĩima, akĩthiĩ) nĩ mũhianĩre wa Kĩhibirania ũrotherie mũthingi wake ũkũhĩrĩirie — Gĩkũyũ gĩcokanagĩria na 'akĩ-'."
+    },
+    {
+      "kind": "addition",
+      "subject": "nao",
+      "rationale": "Kiugo gĩa kwĩhokia gĩongĩtwo mbere ya Ecau gĩcunjĩ kĩa mũthia, kũgeria wathani wa andũ-a-mũthenya ũrĩa Kĩhibirania kĩrĩ na hamwe na ũrĩa kĩhũthagĩra."
+    }
+  ],
+  "translation": "Nĩrĩ Yaakobu aheire Ecau ngate na mũkoro wa mboco-ceci; nĩrĩa arĩa na kunyua, akĩima, akĩthiĩ; nao Ecau akenagĩrĩirie ⟨את⟩ kĩbangĩ kĩa mũciarĩ-wa-mbere.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0f56720a18c9d760af35b3f213c94c3d394dc0f55a3b8507d9530093665d53dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/25\/34-34.1791269275841.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Nĩrĩ Yaakobu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aheire"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Ecau"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ngate"
+    },
+    {
+      "surface": "ונזיד",
+      "gloss": "na mũkoro"
+    },
+    {
+      "surface": "עדשים",
+      "gloss": "mboco-ceci"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "akĩnyua"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akĩima"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akĩthiĩ"
+    },
+    {
+      "surface": "ויבז",
+      "gloss": "akenagĩrĩirie"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ecau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩbangĩ kĩa mũciarĩ-wa-mbere"
+    },
+    {
+      "surface": "הבכרה",
+      "gloss": "kĩbangĩ kĩa mũciarĩ-wa-mbere"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:55.847367688Z",
+  "model": "glm-5.3"
+}

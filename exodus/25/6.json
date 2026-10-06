@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maciao",
+      "rationale": "בשמים nĩ mahũrũra ma kehera — 'maciao' nĩgũo kĩongo kĩingĩ kĩhũthagĩra"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמן\/בשמים\/הסמים",
+      "rationale": "Kiugo kĩa Semeni kĩrahũthagĩrwo mĩhoya ĩrĩ tarĩ-inĩ — hũrana ha mafuta na kehera haundĩte kĩhumo kĩmwe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "gũtonga kwa maheo",
+      "rationale": "Ciatũngatwa ta mũrongo wa maheo ma Tabernakeeri"
+    }
+  ],
+  "translation": "Mafuta ma mũtheri, maciao ma mafuta ma gũcookia maguta, na thigari ya macio-manini marĩ na nũrũra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b017a38a566d3896941d066f81c57a16271069185d10eeb50ea804cf433e6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/25\/6-6.1791269344057.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "Mafuta"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "ma mũtheri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "maciao"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ma mafuta ma gũcookia maguta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "gũcookia-maguta"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "na thigari ya"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "macio-manini marĩ na nũrũra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:04.060976413Z",
+  "model": "glm-5.3"
+}

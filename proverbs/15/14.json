@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 15:14",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירעה",
+      "rationale": "Kĩuma kĩa kũhũragia ng'ombe — 'cihũragia' ũguo ta KJV\/ASV, kana 'cikoragwo ĩrĩmwo' ta waciarĩri wa rũru"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב\/פני",
+      "rationale": "Mũhianano ũrĩa ũgeranaga ndundu-inĩ (ngoro ekohora) na njĩrarĩ (enji cihũragia) — gũtirĩ 'kanua' thĩinĩ wa Kĩhibirania"
+    }
+  ],
+  "translation": "Ngoro ya mũmenyererui ekohora ũmenyi; na enji cia athoria cihũragia ⟨kũrĩ⟩ ũkengia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9973592d0b5201c44e8bb556101b8b63a82c3fb95568cc3ba047ae96e20c191c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/15\/13-14.1791270577859.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "mũmenyererui"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ekohora"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ũmenyi"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "na enji cia"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "athoria"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "cihũragia"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ũkengia"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:37.865763962Z",
+  "model": "glm-5.3"
+}

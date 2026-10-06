@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 2:13",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "taniini",
+      "rationale": "התנין: 'mũnyamu wa mbũra' (dragon\/serpent) kana 'gicamu' (jackal) — ndũrĩrĩ nyingĩ ciugaga jackal no taniini nĩ mũgambo wa Kĩhibirania"
+    },
+    {
+      "kind": "crux",
+      "subject": "kũgereria",
+      "rationale": "שבר: 'gũthereria maitho' (viewed) kana 'kũiga mĩgarũro' (measuring, ta YLT)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "maarĩicio nĩ mũrito",
+      "rationale": "אכלו באש 'maciario nĩ mũrito' — ciugo cia Kĩhibirania gĩcunjĩ-inĩ kĩa mũrito kĩonekaga ta kũrirwo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kũgereria matabari",
+      "rationale": "Nehemia ndĩkahũrithagia maũndũ ma kũgereria matabari na mĩcigo — kĩndũ gĩa kũbanganĩra"
+    }
+  ],
+  "translation": "Nĩranjiire ũmũthenya kĩigo-inĩ gĩa kĩanja, na mbere ya rũci rĩa taniini, na kĩigo gĩa mahiũ; nĩrĩcookerie na kũgereria matabari ma Yerucarayimu iria maamenyitwo, na mĩcigo yacio maarĩicio nĩ mũrito.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4d965ad22311d5fca03c50f07ef55d902bea25e847dc66da03c42d10d338b97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nehemiah\/2\/13-14.1791270771409.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצאה",
+      "gloss": "nĩranjiire"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kĩigo-inĩ"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "gĩa kĩanja"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ũmũthenya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "rũci"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "rĩa taniini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kĩigo"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "gĩa mahiũ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "nĩrĩcookerie"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kũgereria"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "matabari ma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "המפרוצים",
+      "gloss": "maamenyitwo"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "na mĩcigo yacio"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "maarĩicio"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nĩ mũrito"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:51.414885611Z",
+  "model": "glm-5.3"
+}

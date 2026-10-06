@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩagitherieirie",
+      "rationale": "הקדיש nĩgũtherieeria (kũgeria ũtheru) — mũri ũmwe wa 'theru' metha-inĩ, ti 'kũheera' kana 'kũhĩnga'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aanyitire",
+      "rationale": "נשא gĩtalkie 'kũinũka\/kũgũa'; 'gũcunga' kwoneka ta kĩndũ gĩahĩa no kiugo kĩrĩa kĩrĩ thĩinĩ nĩ 'kũgũa na kũnyita'."
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "rationale": "'o' ya gĩthia ĩgĩa na mooyo ũmwe na 'icio' — Kĩhibirania kĩuga 'gakĩ-icio'."
+    }
+  ],
+  "translation": "O icio, mwami Dawindi nĩagitherieirie Yahwe, hamwe na feha na dahabu iria aanyitire kuuma ndũrĩrĩ ciothe — kuuma Edomu, na kuuma Moabu, na kuuma aana a Amoni, na kuuma Wafilicti, na kuuma Amaleki.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "294953ec2b468172225bcc65c5b0865cd0298bf950a1290c77ba84239de6e21b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/18\/11-11.1791270819915.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "o"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "icio (macio ni domeri ya dahabu na feha)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "nĩagitherieirie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwami"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawindi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "feha"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "na dahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "aanyitire"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma ciothe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "kuuma Edomu"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "na kuuma Moabu"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "na kuuma aana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "na kuuma Wafilicti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "na kuuma Amaleki"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:39.920926265Z",
+  "model": "glm-5.3"
+}

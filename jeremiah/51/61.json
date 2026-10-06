@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "jeremiah 51:61",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨na mũgio mũnene⟩",
+      "rationale": "קרא kIrĩa gĩkundi kĩu nĩ kũhoma kwa mũgio; kĩongerwo kũonania mũgambo"
+    }
+  ],
+  "translation": "Na Yeremiahu akĩuga kwa Ceraya: Rĩrĩa ũkĩũyũka Baberu, ona, ũkahoma ⟨na mũgio mũnene⟩ ⟨את⟩ ciugo icio ciothe,",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "79fee5109e848123967c760f723084a97b5091f4238b8afe33715536b75fb0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/51\/61-62.1791270339979.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Ceraya"
+    },
+    {
+      "surface": "כבאך",
+      "gloss": "rĩrĩa ũkĩũyũka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baberu"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ona"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ũkahoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo icio ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "icio"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:39.984708767Z",
+  "model": "glm-5.3"
+}

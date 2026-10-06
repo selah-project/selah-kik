@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערל שפתים",
+      "rationale": "'mĩgũnda ya metha' gĩtereree: KJV 'uncircumcised lips', BSB 'unskilled in speech' — mũhiano ũrĩa ũtigania kĩngere kĩa kũgũra nĩguo kwothererio ta 'itheru'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו \/ ישמעני",
+      "rationale": "Kĩguni kĩmwe kĩa 'kũigua' gĩcakĩrĩirie igĩrĩ — mbarathi ya Moce ndĩonanagia na kĩhooto kĩake."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Moce akĩhorereria Yahwe mwĩhoko wa kana ndarĩ kĩgito gĩa kĩrĩndĩ gĩake."
+    }
+  ],
+  "translation": "Moce akiuga thutha wa Kũinĩkĩrĩra kwa Yahwe, na kĩugo kĩu akiuga: Rĩrĩ, aana a Yiceraeri ndĩmũhĩtirĩ kũigua kwakwa, na wega ũngĩ Parao agũcigua ũguo, na iwĩ metha cia ngĩrĩ nĩ itheru?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e998b6e40e0e2c8b4e010377157eeddece44fe6f98913dd79c083a333e3e3805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/6\/12-12.1791269321653.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akiuga thutha wa Kũinĩkĩrĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kĩugo kĩu akiuga"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mũhĩtirĩ kũigua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "na wega ũngĩ"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "agũcigua ũguo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na iwĩ"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "nĩ itheru"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "metha cia ngĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:41.658155235Z",
+  "model": "glm-5.3"
+}

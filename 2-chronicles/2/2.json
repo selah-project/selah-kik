@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 2:2",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kwayo",
+      "rationale": "Hebrew בו 'in him\/it' refers to the house; Gĩkũyũ requires a locative referring to the house, not the person"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמה\/שלום",
+      "rationale": "Shelomah's name echoes shalom, wholeness — the sound-link is lost in Gĩkũyũ Coromoni"
+    }
+  ],
+  "translation": "Na Coromoni akĩrũma kũrĩ Huramu, mwathi wa Cori, na kũuga: Ũguo ta ũrĩa wakorire na Dawidi ithe wakwa, na ũkamũrũmithe macombo gũtuũra ũmũgerie nyumba ya kũikara-inĩ kwayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1b99607d1873c57c1d3f02544e7544d402754bfde80ded1eca119369ac250a9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/2\/2-2.1791270842286.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akĩrũma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Coromoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huramu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "wa Cori"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakorire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ũkamũrũmithe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ũmũ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "macombo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "gũtuũra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ũmũgerie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ya kũikara-inĩ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwayo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:02.290852550Z",
+  "model": "glm-5.3"
+}

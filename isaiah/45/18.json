@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 45:18",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "we \/ wayo",
+      "rationale": "Kĩhibirania kĩrĩ pronoun cia kũheania ũhoro (הוא) iĩrĩ, ndĩcirie gĩa kĩheania kĩndũ kĩrĩa kĩarĩ kĩo."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשבת יצרה",
+      "rationale": "Kĩhibirania kĩugaga 'kũnyuũra nĩ oithomie' — handũ ha 'nĩ oire ĩgũrũ-rĩa-hatarĩ-mũndũ nĩ oire' kĩrĩ kĩurũ nĩ kĩmwe kĩrĩa kĩrĩkaga kũhĩtia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תהו",
+      "rationale": "Kiugo gĩkoni Kĩambĩrĩria 1:2 — thĩ ĩrĩa yaarĩ 'kĩgima, kĩndũ kĩtarĩ na mũhianĩre' — nĩtwo two ta 'kĩgima-kĩngĩ'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "כה אמר",
+      "rationale": "Mũhiano wa mũrathi: 'atĩrĩ-rĩũ Yahwe oigĩte' — nĩ mũgambo wa ũthie wa andũ othe."
+    }
+  ],
+  "translation": "Nĩ ũndũ wa ngombo Yahwe oigĩte, mũciari wa ngũrũ-we-ĩrĩ, we nĩwe Erohimu, mũratũri wa thĩ na mũregi wayo, we nĩwe wayithĩkĩirie, ti kĩgima-kĩngĩ nĩ oire, nĩ ĩgũrũ-rĩa-hatarĩ-mũndũ nĩ oire, athondeke kũnyuũrwo nĩ andũ; niĩ nĩ Yahwe, na ⟨kũgĩrĩ⟩ kũngĩ handũ ha iyũ nĩ atĩa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "90f3c2a4f0c89a36abc52e5b637ceccf2a4938ee904205b154ec4fff228d3551",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/45\/18-18.1791270146655.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ wa ngombo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "atĩrĩ-rĩũ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "mũciari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ngũrũ-we-ĩrĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mũratũri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "na mũregi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "wayithĩkĩirie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kĩgima-kĩngĩ"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "nĩ oire"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kũnyuũrwo nĩ andũ"
+    },
+    {
+      "surface": "יצרה",
+      "gloss": "nĩ oire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "niĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na ti kũngĩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kũngĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:26.663746216Z",
+  "model": "glm-5.3"
+}

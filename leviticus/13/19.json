@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאת",
+      "rationale": "ši'at: 'kĩgunĩ kĩa ndundu' (elevated scab) vs 'ũthingu wa kũigana' (fig. exaltation) — here the skin-lesion sense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדמדמת",
+      "rationale": "doubled-red form: rendered 'mũtune-mwerũ' (reddish-white) to keep the doubled color shape"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שאת as noun here",
+      "rationale": "ši'at as lesion noun is confined to the skin-plague chapters, a rare technical term"
+    }
+  ],
+  "translation": "Na gũkorwo handũ ha mũnyito-nĩ kĩgunĩ kĩa ndundu mwerũ, kana thaka mwerũ mũtune-mwerũ, na kĩonekanĩre kũmũkĩri",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "eba6b0c44993b8260e2a8ce12ea2ad426ab65bf3b63c50befd6517058a534996",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/13\/19-19.1791269396892.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Na gũkorwo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "mũnyito"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kĩgunĩ kĩa ndundu"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "mwerũ"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "thaka"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "mwerũ"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "mũtune-mwerũ"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "na kĩonekanĩre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũkĩri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:56.896389316Z",
+  "model": "glm-5.3"
+}

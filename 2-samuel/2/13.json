@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 2:13",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hao",
+      "rationale": "Kĩhibirania kĩrĩ kĩgathi kĩa ndinga-inĩ (-mo); Gĩkũyũ kĩingĩ kĩarahũkĩte kĩngerekwo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על־הברכה מזה ... על־הברכה מזה",
+      "rationale": "Kĩhumo kĩa mũhianĩre: mĩhango ĩrĩ ĩrĩ ta ĩmwe, ciigana-rĩ, kĩonjo kĩa maheni matũ"
+    }
+  ],
+  "translation": "Na Yoabu mũrũ wa Ceruja, na atumĩ a Dawidi, nĩmaatonyire ng'inyo, makĩhorerana ⟨hao⟩ harĩa kĩyombo kya Gibeoni hamwe; acio makĩikara harĩa kĩyombo kĩu handũ hĩkũ, na acio harĩa kĩyombo kĩu handũ hakũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5b52452e950a602c05be2444bfebb1194b7e5284b3988ebd9610e859836fb087",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/2\/13-13.1791269826533.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Ceruja"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "na atumĩ a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nĩmaatonyire ng'inyo"
+    },
+    {
+      "surface": "ויפגשום",
+      "gloss": "makĩhorerana ⟨hao⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kĩyombo kya"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeoni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "makĩikara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kĩyombo kĩu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "handũ hĩkũ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "na acio"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kĩyombo kĩu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "handũ hakũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:06.534042110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הַכַּפֹּרֶת",
+      "rationale": "Kaporet appears only in the description of the Ark cover, never elsewhere in ordinary usage."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפרת \/ כפר",
+      "rationale": "kaporet shares the root כפר (to cover\/atone), linking the covering cloud to atonement, lost in 'mercy seat'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וכסה",
+      "rationale": "Read as past 'the cloud covered' (JPS 'may cover' is purpose); the waw-consecutive suggests narrative sequence."
+    }
+  ],
+  "translation": "Na akĩigua kĩhembo kĩa makũrũ kana ciumbe cĩa thĩ yĩgĩthiĩ igũrũ thĩ yonthe na mwaki mũnene wa kũhĩtũka, arĩtikĩrire mũthenya ũcio o ũguo Yahwe amwĩtire, na o ũguo Yahwe ũmwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4d6c259806a1f821d58468e59886bd2e9baeafec331c12d23bd1eb1c9246957e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/16\/13-13.1791269475949.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְנָתַן",
+      "gloss": "na akĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩhembo kĩa makũrũ kana ciumbe cĩa thĩ"
+    },
+    {
+      "surface": "הַקְּטֹרֶת",
+      "gloss": "kĩhembo kĩa makũrũ kana ciumbe cĩa thĩ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "הָאֵשׁ",
+      "gloss": "mwaki mũnene wa kũhĩtũka"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וְכִסָּה",
+      "gloss": "na gĩtĩyo kĩarĩkĩtie kũnyitanĩra na kĩhembo kĩu kĩarĩ na kĩhumo kĩrĩa kĩamũrire ũgo"
+    },
+    {
+      "surface": "עֲנַן",
+      "gloss": "kĩtĩyo kĩarĩkĩtie kũnyitanĩra na kĩhembo kĩu kĩarĩ na kĩhumo kĩrĩa kĩamũrire ũgo"
+    },
+    {
+      "surface": "הַקְּטֹרֶת",
+      "gloss": "kĩhembo kĩa makũrũ kana ciumbe cĩa thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgiri kĩrĩa kĩrĩ igũrũ wa IRA na mbere ya Aroni"
+    },
+    {
+      "surface": "הַכַּפֹּרֶת",
+      "gloss": "kĩgiri kĩrĩa kĩrĩ igũrũ wa IRA na mbere ya Aroni"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "הָעֵדוּת",
+      "gloss": "IRA kana kĩrĩkanĩro gĩa Yahwe kĩarĩ na arutwo arĩa maarĩ gĩtĩyo na kĩgiri kĩu"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "na ti"
+    },
+    {
+      "surface": "יָמוּת",
+      "gloss": "agĩkua"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:15.956310579Z",
+  "model": "glm-5.3"
+}

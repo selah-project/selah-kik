@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũhũmũ",
+      "rationale": "הבל literally breath\/vapor; 'mwaki' (Kĩthwahĩri 'vanity') would lose the picture of what vanishes"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים...הבל",
+      "rationale": "fivefold repetition with Hebrew superlative 'X of Xs' — the hammering rhythm carries the book's thesis"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nĩ⟩",
+      "rationale": "Hebrew has no copula; Gĩkũyũ needs 'nĩ' for 'all IS vapor'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Koehereti",
+      "rationale": "קהלת is a participle 'the assembler\/lecturer', kept as a name after JPS 'Koheleth'; others render 'the Preacher\/Teacher'"
+    }
+  ],
+  "translation": "Mũhũmũ wa mĩhũmũ, Koehereti oigĩte; mũhũmũ wa mĩhũmũ, ũndũ wothe ⟨nĩ⟩ mũhũmũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bad69e9f917903f3ce2142d642f11a31c25359cd0ed83acd3615aefabe9320ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ecclesiastes\/1\/2-2.1791270615662.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Mũhũmũ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "wa mĩhũmũ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koehereti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mũhũmũ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "wa mĩhũmũ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ũndũ wothe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mũhũmũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:15.666635199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ng'ania",
+      "rationale": "מגן nĩ ng'ania (kĩgua kĩa kũhũrĩra); 'mũndũ wĩ ng'ania' nĩ ũguo o ta 'mũndũ wĩ ngombo cia ithĩmbĩ' — kiugo kĩa Kĩhibirania kĩrenda 'mũingĩ-inĩ wa kĩgua'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמהלך",
+      "rationale": "Ta mũthiĩ (walkithi) kana mũciarũani (mũrũndi)? KJV 'travelleth', ASV 'robber' — Kĩhibirania kiugaga tu 'ta ũrĩa enda mathina'"
+    }
+  ],
+  "translation": "Na ũhonoki waku nĩgũkũũka ta mũthiĩ, na ndĩa yako ta mũndũ ũrĩa wĩ ng'ania.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7940f66ae6255309ecdeaaf5f4d9dd1e72c56fa9a9418fffae5b61df5ce7ca07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/6\/11-12.1791270566008.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "nĩgũkũũka"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "ta mũthiĩ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ũhonoki waku"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "na ndĩa yako"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ta mũndũ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "wĩ ng'ania"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:26.012825481Z",
+  "model": "glm-5.3"
+}

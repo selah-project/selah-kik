@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "me",
+      "rationale": "Aramaic כל קבל די 'in front of all this' — Gĩkũyũ needs a connector for the concessive sense"
+    },
+    {
+      "kind": "you",
+      "subject": "to Beracacari",
+      "rationale": "Daniel addresses the king directly"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bari → mũrũ wake",
+      "rationale": "Aramaic בר 'son' rendered with Gĩkũyũ kin term; 'bari' kept only in names"
+    }
+  ],
+  "translation": "Na we, mũrũ wake Beracacari, ndũkenyũũrĩtie ngoro yaku, me ũrĩa wamenya maũndũ macio mothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e658532775ada75283617c0be729aa997c28236234339267efa5ed9b14ef2075",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/5\/22-22.1791270702282.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Beracacari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "kenyũũrĩtie"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "me"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "די",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "macio"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wamenya"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:42.287159343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 28:42",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mũthenyo nginya ithũrũ",
+      "rationale": "Kĩgeranio kĩa mikanjĩ: kuuma mũthenyo nginya ithũrũ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכנסי בד",
+      "rationale": "Mikanjĩ cia thahabu-thĩ cia andũ a mũigwi — nguo ĩno ya ũthĩnjĩri-ngai ĩkoragwo Tanakh-inĩ hapahapa ya ũtũũro wa kĩama"
+    }
+  ],
+  "translation": "Na ũme bone haao mikanjĩ cia nguo cia mwena-thĩ cia ndaatu, gwathinga nyama ya kũonekana mbere; nĩcio cĩakorwo tũrĩ mũthenyo o nginya ithũrũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bca8928233d22c32b309bb443e4877d1a4813974f28d959d0645e75001efdb87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/28\/41-42.1791269459035.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "na ũme bone"
+    },
+    {
+      "surface": "להם",
+      "gloss": "haao"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "mikanjĩ cia nguo cia mwena-thĩ"
+    },
+    {
+      "surface": "בד",
+      "gloss": "cia ndaatu"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "gwathinga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "ya kũonekana mbere"
+    },
+    {
+      "surface": "ממתנים",
+      "gloss": "tũrĩ mũthenyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "o nginya"
+    },
+    {
+      "surface": "ירכים",
+      "gloss": "ithũrũ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "cĩakorwo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:59.043918947Z",
+  "model": "glm-5.3"
+}

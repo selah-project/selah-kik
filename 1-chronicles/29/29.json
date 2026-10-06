@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 29:29",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "igũrũ wa",
+      "rationale": "על 'harĩ' gĩtahĩkĩtwo ta 'igũrũ wa' — ibuku rĩa mbere ti rĩa kwarĩrĩria 'igũrũ' wa rĩandĩko"
+    },
+    {
+      "kind": "crux",
+      "subject": "ciugo",
+      "rationale": "דברי: 'ciugo' (jps\/ylt) kana 'ibuku rĩa maũndũ' (bsb\/kjv 'book')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "icio cia mbere na icio cia gũthia",
+      "rationale": "kũgerania mĩhĩtuko ya Dawidi — mbere na gũthia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הראה · החזה",
+      "rationale": "mĩhĩrĩga ĩrĩ ya 'kuona' — ro-eh na chozeh — indĩ ya gĩthimba ĩmwe ya Gĩkũyũ 'mũoniori'"
+    }
+  ],
+  "translation": "Na ciugo cia Dawidi mũthamaki, icio cia mbere na icio cia gũthia, rĩrĩa, nĩcio iandĩkĩtwo igũrũ wa ciugo cia Cemueri mũoniori, na igũrũ wa ciugo cia Natani mũrathi, na igũrũ wa ciugo cia Gadi mũoniori.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e51ceeb76996e74cd5d6c06a2d7b72a832dad5bc9c90edfbb2643fa59d077acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/29\/29-29.1791270831697.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Na ciugo cia"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "icio cia mbere"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "na icio cia gũthia"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "rĩrĩa, nĩcio"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "iandĩkĩtwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemueri"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "mũoniori"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na igũrũ wa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na igũrũ wa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "mũoniori"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:51.701572732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ĭĩrĩani",
+      "rationale": "Plural imperative summoning all peoples at the ends of the earth to sing."
+    },
+    {
+      "kind": "substitution",
+      "subject": "indo yake ya gũkĩra",
+      "rationale": "תהלתו is 'his praise\/laudation', a hymn-song; rendered as praise-language since Gĩkũyũ has no single hymn word."
+    },
+    {
+      "kind": "substitution",
+      "subject": "irima",
+      "rationale": "איים is coastlands\/islands of the sea; 'irima' (islands) keeps the picture of sea-lands."
+    }
+  ],
+  "translation": "Ĭĩrĩani Yahwe kĩĩrĩa kĩerũ, na indo yake ya gũkĩra thĩ ya kuuma mĩthero ya thĩ; arĩa mamĩrĩkĩra mũndũrũme-inĩ na ũgima wayo, irima na arĩa maatũũraga irima-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4a62f18cea52a3ebbd03a8bafbbb02f2bc7636f77efb43461ecddd7fa9b9d372",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/42\/10-10.1791270140137.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ĭĩrĩani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kĩĩrĩa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kĩerũ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "indo yake ya gũkĩra"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuuma mĩthero wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "arĩa mamĩrĩkĩra"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mũndũrũme"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "na ũgima wayo"
+    },
+    {
+      "surface": "איים",
+      "gloss": "irima"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "na arĩa maatũũraga irima-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:20.151154948Z",
+  "model": "glm-5.3"
+}

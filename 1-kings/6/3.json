@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 6:3",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dimensions of the porch",
+      "rationale": "Ũrambi: ama mĩrongo ĩrĩ kũraya, ama ikũmi ũhari"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "Kĩguni kĩa Kĩhibirania 'ĩrĩa ĩrĩ thĩinĩ wa bũrũri ũcio' — nĩguo kĩgeenegetwo ta 'mbere ya'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עשר באמה",
+      "rationale": "Gĩtheri: 'ikũmi thĩinĩ wa ama' (kũringana na ama) handũ ha gũcooka 'ama ikũmi' ta YLT 'ten by the cubit'"
+    }
+  ],
+  "translation": "Na ũrambi ũrĩa ũrĩ mbere ya heikari ya nyumba — kũraya kwakĩo nĩ ama mĩrongo ĩrĩ, hakuhĩ na ũhari wa nyumba; ũhari wakĩo nĩ ama ikũmi, thĩinĩ wa mbere ya nyumba.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d9d4348a0ceab825999f51165c956c6e02e3203f8ee3ecc6a982ca034d5ed854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/6\/2-3.1791269968251.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "na ũrambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kũraya kwakĩo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ũhari"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "thĩinĩ wa ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ũhari wakĩo"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyumba"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:28.252625744Z",
+  "model": "glm-5.3"
+}

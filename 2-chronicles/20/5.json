@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 20:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aikarĩte",
+      "rationale": "ויעמד nĩ 'gũinama\/gũikara magũrũ' — Gĩkũyũ kĩa 'gũikara' kĩiyũraga kũgema na gũikara othe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩũngũ",
+      "rationale": "החצר nĩ 'kĩũngũ kĩahotwo' — handũ ha gũkũrirwo, ti kĩũnjĩ kĩa nyũmba wiki."
+    },
+    {
+      "kind": "you",
+      "subject": "kĩama kĩa Yehuda",
+      "rationale": "Yehocafani aĩrĩrĩria kĩama gĩkĩrũmũnĩte; maneno make macio (damarithĩ 20:6) nĩmaarahĩrire kĩama kĩu."
+    }
+  ],
+  "translation": "Nĩguo Yehocafani aikarĩte thĩinĩ wa kĩama kĩa Yehuda na kĩa Yerucarayimu, nyũmba-inĩ ya Yahwe, mbere ya kĩũngũ kĩerũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8855b1565fa9a209256d446f2ff886b5fedd65538260e7dcd9e875ca9b3e3c31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/20\/5-5.1791270942781.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nĩguo aikarĩte"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafani"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "thĩinĩ wa kĩama"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na kĩa Yerucarayimu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kĩũngũ"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "kĩerũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:42.785912998Z",
+  "model": "glm-5.3"
+}

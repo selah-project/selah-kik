@@ -1,0 +1,159 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 9:1",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mwerĩ na mũthenya",
+      "rationale": "Kwarĩhĩtwo mwerĩ wa gĩikumi na iŋjeri (Adari) na mũthenya wa gĩikumi na ithatũ."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ונהפוך",
+      "rationale": "Kiugo gĩkĩ kĩonekana Esteri 9:1 o gwone — kĩrĩa kĩonanania kũhindũka kwa ũndũ kwa njĩra ya kĩharo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שברו \/ ישלטו",
+      "rationale": "Kwĩhoka kwa thũ kwarĩgũcookerio na ũthamaki wa Ayahudi — mũhiano wa kũhĩnga ũrĩa ũkaaheanwo na gũtua mbeũ."
+    }
+  ],
+  "translation": "Na mwerĩ wa gĩikumi na iŋjeri, ũrĩa nĩ mwerĩ wa Adari, thĩinĩ wa mũthenya wake wa gĩikumi na ithatũ — mũthenya ũrĩa kiugo kĩa mwathi na watho wake kĩagerere gũtikwo, hĩndĩ ĩrĩa thũ cia Ayahudi ciakwĩhokaga kũthamakĩra ĩcio; no gĩkahindũka kũgera: Ayahudi nĩmathamakĩirie arĩa mamenete.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7c3e82cf105222d64d3dfa865ed9eedb15f774f0f2005e8faf174d8a3c917c19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/esther\/9\/1-1.1791270738857.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנים",
+      "gloss": "Na mwerĩ-inĩ wa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikumi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwerĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ũrĩa nĩ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwerĩ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adari"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikumi na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mwerĩ ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "kĩagerere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kĩa mwathi"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "na watho wake"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "gũtikwo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ciakwĩhokaga"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "thũ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "cia Ayahudi"
+    },
+    {
+      "surface": "לשלוט",
+      "gloss": "kũthamakĩra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ĩcio"
+    },
+    {
+      "surface": "ונהפוך",
+      "gloss": "no gĩkahindũka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kũgera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "ישלטו",
+      "gloss": "mathamakĩirie"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ayahudi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nĩmo"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "arĩa mamenete"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:18.858928746Z",
+  "model": "glm-5.3"
+}

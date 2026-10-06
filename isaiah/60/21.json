@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kĩndũ gĩa kũhanda⟩",
+      "rationale": "Kĩhibirania kĩngĩtie 'kũhanda' ya יירשו-אר׿; hĩndĩ ya kũhanda nĩyo yonekaga thutha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩenorwo",
+      "rationale": "להתפאר gĩkoragwo na maũndũ merĩ: kũigwanĩra na kũonwo starehe; 'kĩenorwo' nĩ gĩcunjĩ kĩmwe tarĩ ya ciugo igĩrĩ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mũmera wa kũhanda kwakwa",
+      "rationale": "נצר no ĩtuĩke 'mũmera' kana 'mũrũ wa ithaka'; kĩambĩrĩria gĩa andũ arĩa makũhĩtio nĩguo kwothererio"
+    }
+  ],
+  "translation": "Na andũ ake macio othe nĩma cedeki, hĩndĩ ciothe nĩmakoragĩra ⟨kĩndũ gĩa kũhanda⟩ nthĩ; nĩmagĩrĩirio kuuma mũmera wa kũhanda kwakwa, ũndũ wa mikono yakwa, ndũrũrĩ-inĩ ⟨ya⟩ kĩenorwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5844b712bf4b035da80ab95e07747f6c34426ca3ffe0ad6cd90b9730fc378fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/60\/21-21.1791270143316.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "Na andũ ake"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ocio othe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nĩma cedeki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "nĩmakoragĩra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nthĩ"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "mũmera"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "wa kũhanda kwakwa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa mikono yakwa"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "kĩenorwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:23.320539498Z",
+  "model": "glm-5.3"
+}

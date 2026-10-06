@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התיכנה",
+      "rationale": "hapax 'middle city\/court' — KJV 'middle court' vs ASV 'middle part of the city'; kwĩrĩ gĩatĩro kĩa mucĩ."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "negation-in-idiom 'he had not yet gone out when' — rendered as 'ndaatumĩra hĩndĩ ĩyo'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "התיכנה",
+      "rationale": "word occurs only here in the Tanakh."
+    }
+  ],
+  "translation": "Na ikagĩrĩka, Yecaiahu ndaatumĩra hĩndĩ ĩyo kuma mucĩ-inĩ wa gĩatĩro, na kĩrũmbo kĩa Yahwe kĩĩgĩkĩra, ũgĩtũra na yũkĩra we, na kũuga atĩrĩ,",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b9d85fc99d669093f6b9561f4abb632dd27ae19d5011ad0bc76087038feb0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/20\/4-4.1791270073162.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na ikagĩrĩka"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecaiahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaatumĩra"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kuma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ-inĩ"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "wa gĩatĩro"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kĩrũmbo kĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kĩĩgĩkĩra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yũkĩra we"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũuga atĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:13.165655693Z",
+  "model": "glm-5.3"
+}

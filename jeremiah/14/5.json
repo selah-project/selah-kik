@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mwana wake⟩",
+      "rationale": "Kĩhibirania gĩtarĩ kĩungata ciigano cia ועזוב; kĩng'atĩtwo nĩgeetha mũndũ aone ũrĩa ũkahĩtwo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועזוב",
+      "rationale": "Andũ-a-mitaũro mehĩtie: 'ĩkarega mwana wake' (KJV\/JPS) kana 'ĩkahota kũũga ithee rĩa mora' (Targum, kuuma gĩcunjĩ kĩa mbere kĩa עזב); ndũmĩrĩri ĩrĩa ya mbere nĩyo ĩrĩ mũingi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דשא",
+      "rationale": "Kĩhibirania kĩugaga 'mĩmera mĩerũ\/maũndũ merĩ meratĩtwo' — ti ũrĩa kĩuga 'grass' ta Kĩbarra"
+    }
+  ],
+  "translation": "Nĩ kĩĩndĩ nyondo ithee-inĩ ĩrararĩrire mwana, na ĩkarega ⟨mwana wake⟩, nĩgũkorwo gũtirĩ na mĩmera mĩerũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2847a3dc3408ceb85654b527f87101051f983f2183a1ebb24e2b652e3a68d259",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/14\/5-5.1791270222404.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kĩĩndĩ"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "nyondo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ithee-inĩ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ĩrararĩrire mwana"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "na ĩkarega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kũhĩa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "mĩmera mĩerũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:42.416375407Z",
+  "model": "glm-5.3"
+}

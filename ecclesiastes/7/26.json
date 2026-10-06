@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ecclesiastes 7:26",
+  "book": "ecclesiastes",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Kĩhibirania gĩtirĩ kĩgunyi kĩa 'nĩ' harĩ 'ngoro yake mĩtaro' — Gĩkũyũ kĩagĩrĩirwo kĩgunyi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצודים\/ילכד",
+      "rationale": "Mĩtaro na kũcigwa — kiugo kĩmwe kĩorotagia kĩrĩa kĩngĩ: mũhoko agĩcigwo harĩ mĩtaro ĩrĩa ĩrũngĩrĩirio"
+    },
+    {
+      "kind": "crux",
+      "subject": "mũndũmũri",
+      "rationale": "Kiugo kĩonekaga ta ũrĩa kwa mũndũmũri o wothe kana mũndũmũri ũmwe ũrĩa mũtarathi amenetwo nĩyo; atĩri a magana mothe maingĩ metĩkĩtie mbũtũ ĩrĩa ĩkonanie"
+    },
+    {
+      "kind": "alternative",
+      "subject": "טוב לפני האלהים",
+      "rationale": "Kwĩrĩ 'ũrĩa Erohimu aendera' kana 'mũndũ mwega mbere ya Erohimu' — gĩkunĩ kĩa kwenderwa nĩ Ngai"
+    }
+  ],
+  "translation": "Na nĩnguukire kĩneno kũrĩ kũua kwa mũndũ: ⟨את⟩ mũndũmũri, ũrĩa we nĩ mĩtaro na minyũngũ; ngoro yake ⟨nĩ⟩ mĩtaro, makonyo make ⟨nĩ⟩ mĩhianyo; mũndũ mwega mbere ya Erohimu nĩakũhiurũka kũrĩ we, no mũhoko agĩcigwo nĩyo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "82de56b5742fbe0d60390c28b927e6c681242856a6ec6438dc551ad222473fa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ecclesiastes\/7\/26-26.1791270652102.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "Na nĩnguukire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "kĩneno"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kũrĩ kũua kwa mũndũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũmũri"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũndũmũri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "mĩtaro"
+    },
+    {
+      "surface": "וחרמים",
+      "gloss": "na minyũngũ"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "mĩhianyo"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "makonyo make"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mũndũ mwega"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "nĩakũhiurũka"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "no mũhoko"
+    },
+    {
+      "surface": "ילכד",
+      "gloss": "agĩcigwo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nĩyo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:52.107066900Z",
+  "model": "glm-5.3"
+}

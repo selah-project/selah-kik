@@ -1,0 +1,175 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 5:19",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "kũ-iguũka kwa metha inya",
+      "rationale": "מciarĩ-inĩ imeenia: קטל\/מחא\/מרים\/משפיל — kũua\/kũrĩa\/kũringa\/kũhĩhĩrĩa — ciugo iria igĩrĩ ciatũranĩtie thĩ na igũrũ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "די הוה צבא",
+      "rationale": "kiugo gĩa Aramaic kĩugaga 'uria thĩĩ ya kũendwo' — 'the-one-whom-he-willed' — kĩiguĩtwo ta 'uria aendaga'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחא",
+      "rationale": "kiugo gĩĩtakuo kuuma חיה 'kũrĩa' — kiugo kĩmwe, ti 'kũruta' kana 'kũhĩthĩra'."
+    }
+  ],
+  "translation": "Vandũ-inĩ wa ũnene ũrĩa nĩamũhĩhire, mĩhĩrĩga yose, ndũrĩrĩ na ciugo ciothe ciarĩ gũtetetia na kũmũtinya kuuma mbere yake; uria aendaga, nĩakuaga; na uria aendaga, nĩahĩaga kũrĩa; na uria aendaga, nĩaringaga; na uria aendaga, nĩahĩhĩrĩaga.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e13b480e25223f61d96be039feb0118fc518d78395a9d9150b0b4ec9b863d0e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/5\/18-19.1791271034027.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Vandũ-inĩ-wa"
+    },
+    {
+      "surface": "רבותא",
+      "gloss": "ũnene"
+    },
+    {
+      "surface": "די",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "nĩamũhĩhire"
+    },
+    {
+      "surface": "לה",
+      "gloss": "we"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "mĩhĩrĩga"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "na-ciugo"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "ciarĩ"
+    },
+    {
+      "surface": "זאעין",
+      "gloss": "gũtetetia"
+    },
+    {
+      "surface": "ודחלין",
+      "gloss": "na-kũmũtinya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "mbere-yake"
+    },
+    {
+      "surface": "די",
+      "gloss": "uria"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "aendaga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "קטל",
+      "gloss": "nĩakuaga"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "na-uria"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "aendaga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מחא",
+      "gloss": "nĩahĩaga-kũrĩa"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "na-uria"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "aendaga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "nĩaringaga"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "na-uria"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "aarĩ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "aendaga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "we"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "nĩahĩhĩrĩaga"
+    }
+  ],
+  "timestamp": "2026-10-06T07:17:14.029592096Z",
+  "model": "glm-5.3"
+}

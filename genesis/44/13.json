@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 44:13",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũthamaki",
+      "rationale": "חמרו nĩ mũthamaki wa mũciĩ (ndũga), ti 'donkey' wa Kĩthwahĩri"
+    },
+    {
+      "kind": "addition",
+      "subject": "o wothe",
+      "rationale": "'mũndũ o wothe' — איש hamwe na mũhiano wa kũruta andũ othe"
+    }
+  ],
+  "translation": "Nĩmagĩcĩtie nguo ciacio, na mũndũ o wothe agĩtwarĩra mũthamaki wake, na magĩcooka gũkĩa gĩkũmbĩ-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "3fe64765ed3f74172959f1b42060a0db5aeb0ece2c0cc7e82c7fc7518335fbe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/44\/13-13.1791269255228.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרעו",
+      "gloss": "nĩmagĩcĩtie"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "nguo ciacio"
+    },
+    {
+      "surface": "ויעמס",
+      "gloss": "agĩtwarĩra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "mũthamaki wake"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "magĩcooka"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "gĩkũmbĩ-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:35.233650487Z",
+  "model": "glm-5.3"
+}

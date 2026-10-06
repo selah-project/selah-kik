@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 1:16",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "igũrũ",
+      "rationale": "השמים nĩ mũrũmbiwa (ĩrĩgeranyo ĩĩrĩ, dual) — Gĩkũyũ 'igũrũ' nĩ kĩmwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפל\/תפל\/ויפל",
+      "rationale": "kũmanina kwaingĩhaana kwa andũ a Ceba, mũhiũ, na kũmanina gwa gũkua kwa Yobu — rũthiomi rũrĩa rũthiraga mũhuro-inĩ"
+    },
+    {
+      "kind": "you",
+      "subject": "kuuma kwa mũrĩũmi, kinya Yobu",
+      "rationale": "marĩũmi mothe makĩhokĩra Yobu we mwene, ndangĩrĩrwo Rĩĩtwa-inĩ"
+    }
+  ],
+  "translation": "O na uguo ũmwe arĩ aguaga, ũmwe ũngĩ akĩinya na akĩmbũra atĩrĩ: Mũhiũ wa Erohimu ũmanĩte kuuma igũrũ, na ũkĩhenwo thĩinĩ wa ng'ondu na wa aciana, na ũkĩmarĩa; na nĩngĩ cocokire, nĩĩndĩ nĩwe we mwene wikĩmwene, nĩgeetha ndĩmũhokĩrĩrie ⟨we⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ad30e7cfdcb3053502b77c8ca732940a455803b94d94276b60ddf585ddb15708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/1\/15-16.1791270660299.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "o na uguo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũmwe ũcio"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "arĩ aguaga"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "na ũmwe ũngĩ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akĩinya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akĩmbũra atĩrĩ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũhiũ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ũmanĩte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "na ũkĩhenwo"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "thĩinĩ wa ng'ondu"
+    },
+    {
+      "surface": "ובנערים",
+      "gloss": "na wa aciana"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "na ũkĩmarĩa"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "na nĩngĩ cocokire"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nĩĩndĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩndĩ nĩwe"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "we mwene wikĩmwene"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "nĩgeetha ndĩmũhokĩrĩrie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨we⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:00.306279427Z",
+  "model": "glm-5.3"
+}

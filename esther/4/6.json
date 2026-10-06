@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "handũ haineru",
+      "rationale": "רחוב nĩ 'ũrũa\/handũ haineru' wa mucĩ, ti 'thinari' ya mĩena ĩrĩ"
+    }
+  ],
+  "translation": "Na Hatati niarutana agĩrĩ kinya kwa Morodekai, kinya handũ haineru ha mucĩ, harĩa haarĩ mbere ya gatiga cia mwathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ccaf6e297600655ce219ebb8ac13c1d8408d8b1d995d7018200e21ec9be7a68f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/esther\/4\/6-6.1791270695061.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "niarutana agĩrĩ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya kwa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodekai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "handũ haineru"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ha mucĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gatiga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "cia mwathi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:35.065906267Z",
+  "model": "glm-5.3"
+}

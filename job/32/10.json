@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אף אני",
+      "rationale": "KJV\/ASV 'I also' vs YLT 'even I' — Elihu atĩria o nawe mũrata ũmenyi, ti kuuga no mũgima o ta aria maamũrĩte."
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמעה לי",
+      "rationale": "Elihu nĩarutingĩria atĩa mbere ya athomĩmi ari na Yobu, ciugo cia kũigua atĩa ciugĩte na mĩario ya kũamũrania macira."
+    },
+    {
+      "kind": "you",
+      "subject": "igua nginya ndĩ-ĩ",
+      "rationale": "Ciugo rĩngĩ rĩtarĩrio rĩrĩa-inĩ kũrĩ Elihu, ndũrĩrĩ cia Abarahamu arĩa mamenete kũhota kũmũheana ciĩrĩ ciao kũringana na Yobu."
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio nĩrĩarie: Igua nginya ndĩ-ĩ; nĩngĩonanania ũmenyi, na ndĩ-ĩ mwene.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "eb0f187b13606e3668a1a7497fb0b1a300ca4cadabd333430dbff6057c56bd26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/32\/10-10.1791270620637.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nĩrĩarie"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "igua"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nginya ndĩ-ĩ"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "nĩngĩonanania"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "ũmenyi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "handũ ĩgĩrĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ-ĩ mwene"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:20.642983940Z",
+  "model": "glm-5.3"
+}

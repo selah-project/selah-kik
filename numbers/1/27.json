@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "merĩkanyĩtwo",
+      "rationale": "פקד לũguo 'kũrekania\/kũmundũka' — kũrekania andũ nĩ gwĩka kwa kĩrĩkanĩro, ti kaingĩ ta 'kũigua'"
+    },
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Hebrew ו prefix glossed as Gĩkũyũ copula 'maarĩ' to introduce the count"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census count",
+      "rationale": "Census tally of the tribe of Judah: 74,600"
+    }
+  ],
+  "translation": "Arĩa merĩkanyĩtwo, a mũciĩ wa Yehuda, maarĩ ihĩtũ na mĩrongo ĩrĩ na ithano cia ngiri ĩgĩrĩ — ngiri inyanya mĩrongo ĩrĩ na ithano mĩrongo ĩrĩ na ĩtĩrĩtu, mĩrongo ĩrĩ na ithano mĩrongo ĩrĩ na ithano — arĩmi ngiri ĩgĩrĩ na mĩrongo ĩrĩ, na mĩrongo ĩrĩ na ĩtatu ũmwe; ndĩrĩ ta ũguo — ithaa rĩu: arĩa merĩkanyĩtwo a mũciĩ wa Yehuda maarĩ ngiri ĩgĩrĩ mĩrongo ĩrĩ na ithano (74) na ngiri ĩgĩrĩ mĩrongo ĩrĩ na ĩtatu ũmwe — ithaa rĩu: ihĩtũ na mĩrongo ĩrĩ (4 mĩrongo ĩrĩ na ithano = 74) ngiri ĩgĩrĩ, na mĩrongo ĩrĩ, ũhoro ũrĩa: arĩa merĩkanyĩtwo a mũciĩ wa Yehuda maarĩ 74,600 — ihĩtũ na mĩrongo ĩrĩ na ithano ngiri ĩgĩrĩ, na mĩrongo ĩrĩ na ĩtatu ngiri ĩmwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "230314a12c4dc4753aff53a7d7b0af8a82b7771c10fe9afcc89acc1dc44290e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/1\/27-27.1791269485404.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "arĩa merĩkanyĩtwo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "a mũciĩ wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ihĩtũ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mĩrongo ĩrĩ na ithano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri ĩgĩrĩ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na mĩrongo ĩrĩ na ĩtatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ngiri ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:25.407923320Z",
+  "model": "glm-5.3"
+}

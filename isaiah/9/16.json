@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 9:16",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ũthiu",
+      "rationale": "אף nĩ indo ya muhumo\/nja; 'ũthiu' (ũrĩa wonjania) nĩ kĩruta-inĩ gĩa kĩhooto"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנף \/ נבלה",
+      "rationale": "ũhoro wa mũhanafu na ũguũro ũrĩa ũratũmbĩkĩtwo hakuhĩ — mũthenya ũcio wothe wa kanua na wĩra mwĩhĩtu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתמיו ואלמנתיו",
+      "rationale": "hebrew ya kambuni nĩ ya 'atumiakie a kwa aciari na aciari amuhitwo'; ũrĩa ũkwendwo nĩ kuuga Adonai ndakoretwo na tha — ti gũkua ciaturwo igũrũ"
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio, Adonai ndarĩkũgĩa kĩgĩro na arĩa bake aria acio, na ndakorũo na tha ⟨את⟩ ihũtia ciake na ⟨את⟩ aciari ake amũhĩtwo; nĩgũkorwo wonje wake wothe nĩ mũhanafu mũmenyi wa ũru, na kanua gwake o gwone nĩkwaria ũguũro. Ningĩ thĩinĩ wa macio mothe, ũthiu wake ndũcookerĩte, na guoko kwe gũkĩgĩa kĩenyĩtwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "73a6ef0a65b89a6f44e575d28e6f57b89ac654040e0221433e53693b629c9b95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/9\/16-16.1791270137809.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחוריו",
+      "gloss": "arĩa bake aria acio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kũgĩa kĩgĩro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihũtia ciake"
+    },
+    {
+      "surface": "יתמיו",
+      "gloss": "ihũtia ciake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aciari ake amũhĩtwo"
+    },
+    {
+      "surface": "אלמנתיו",
+      "gloss": "aciari ake amũhĩtwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nda"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "korũo na tha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wonje wake wothe"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "mũhanafu"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "mũmenyi wa ũru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kanua gwake o gwone"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nĩkwaria"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ũguũro"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa macio mothe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "macio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "cookerĩte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ũthiu wake"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ningĩ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "guoko kwe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kĩenyĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:17.827176448Z",
+  "model": "glm-5.3"
+}

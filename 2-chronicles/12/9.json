@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 12:9",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקח \/ לקח \/ ויקח",
+      "rationale": "Root לקח rings three times in one verse; the Gĩkũyũ repeats nĩatunĩre twice to keep the drumbeat but the third verb shifts to akanĩnĩra."
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩgũkorwo",
+      "rationale": "Narrative connector supplied to open the wayyiqtol sequence, absent in Hebrew."
+    }
+  ],
+  "translation": "Nĩgũkorwo Sisaki mwathi wa Micirayimu nĩatambũkĩte igũrũ rĩa Yerucarayimu, na nĩatunĩre ⟨את⟩ icũrũro cia nyũmba ya Yahwe, na ⟨את⟩ icũrũro cia nyũmba ya mwathi — ⟨ũndũ wothe⟩ nĩatunĩre; akanĩnĩra ⟨את⟩ ngaco cia thahabu iria Ceromoni aekire.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d3ff2927a17e634f654ffb44c793eb52bf982417c3df81ec903cc7bb5656d54e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/12\/9-10.1791270970630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nĩatambũkĩte"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Sisaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Micirayimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "na nĩatunĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icũrũro cia nyũmba ya Yahwe"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "icũrũro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cia nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "icũrũro cia nyũmba ya mwathi"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "icũrũro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cia nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũndũ wothe"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ũndũ wothe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nĩatunĩre"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akanĩnĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaco cia thahabu"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ngaco"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "cia thahabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aekire"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:10.631975020Z",
+  "model": "glm-5.3"
+}

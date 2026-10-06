@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 26:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gũtinya",
+      "rationale": "ירא nĩ gũtinya kana kũgocooca; hĩndĩ ĩno nĩ gũtinya kwa mũndũ, ti kũgocooca Ngai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Kĩam 26:7 na Kĩam 12:13; 20:2",
+      "rationale": "Ũhoro ũcio wa 'mwariga wakwa' nĩ wa Abarahamu na Sara woorĩrĩtwo; Yicaki akĩhũra mũtambo ũmwe wa ithee."
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩkwaria",
+      "rationale": "פן nĩ 'kana atĩ' — kĩheo gĩa kũonera ndũrĩrĩ ĩngĩ thĩinĩ wa kĩguni kĩa Yicaki kĩa ngoro."
+    }
+  ],
+  "translation": "Andũ a kũndũ kũu makĩrĩra kũria ũmũtumia wake, nakĩuga atĩ: Nĩ mwariga wakwa; nĩgũkorwo aarĩ na gũtinya kuuga atĩ: Nĩ mũtumia wakwa; atĩrĩ, nĩkwaria andũ a kũndũ kũu mndĩte nĩ ũndũ wa Rĩbeka, nĩgũkorwo nĩ mweri mũno wa kuona.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d40db8e80b12048731ee44f0e4e2b075be019135b213087695c9ebbcf8ce05c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/26\/7-7.1791269264987.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "makĩrĩra"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a kũndũ kũu"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "ũmũtumia wake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nakiuga"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mwariga wakwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "aarĩ na gũtinya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuuga"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mũtumia wakwa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "atĩrĩ nĩkwaria"
+    },
+    {
+      "surface": "יהרגני",
+      "gloss": "mndĩte"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a kũndũ kũu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rĩbeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "mweri mũno"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "wa kuona"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:44.992350275Z",
+  "model": "glm-5.3"
+}

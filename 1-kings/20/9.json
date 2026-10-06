@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 20:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ahabu",
+      "rationale": "Kĩhibirania gĩtirĩ na rĩĩtwa rĩa mũwarĩ wa ciugo; rĩaongerwo thĩinĩ wa ⟨…⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "ĩhoya rĩu",
+      "rationale": "`דבר` nĩ 'ciugo'; kĩongerere kĩa Gĩkũyũ gĩkonerwo thĩinĩ wa ⟨…⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mwathi wakwa",
+      "rationale": "`אדני` wa mũndũ — `mwathi wakwa`, ti Adonai wa Ngai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Mwĩrĩri",
+      "rationale": "`אמרו` nĩ kwaria kwa mbaara: 'Mwĩrĩri!' — mũhiano wa kwarĩria mũthamaki"
+    }
+  ],
+  "translation": "Nakĩ ⟨Ahabu⟩ oigire atĩrĩ kwa aratumia a Beni-Hadadi: Mwĩrĩri mũthamaki, mwathi wakwa, ũndũ wothe ũrĩa wathĩnire kwa mũtumia waku wa mbere nĩngawĩka, no ũyũ nɗĩngĩhota kũwĩka. Aratumia nao magĩthiĩ, makĩcookia ⟨ĩhoya rĩu⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8d054051581d6e0301af3ce5051178273ef376a04473ea445668b305cab7fc30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/20\/9-9.1791270040722.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "למלאכי",
+      "gloss": "kwa aratumia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Beni-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Mwĩrĩri"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "wathĩnire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nĩngawĩka"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "no ũyũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩngĩhota"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kũhota"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kũwĩka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "aratumia"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "makĩcookia"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ciugo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:40.726062289Z",
+  "model": "glm-5.3"
+}

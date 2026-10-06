@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "קראו",
+      "rationale": "Gĩkũyũ 'magĩrĩirie' (announce) carries the sense; 'call' and 'fast' are two tokens in Hebrew but the announcement idiom splits cleanly"
+    },
+    {
+      "kind": "addition",
+      "subject": "thĩinĩ wa",
+      "rationale": "Hebrew construct בראש העם is bound directly; Gĩkũyũ needs the locative linker"
+    }
+  ],
+  "translation": "Magĩrĩirie ciumĩte, makĩikariza ⟨את⟩ Nabothi thĩinĩ wa kĩongo kĩa andũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c9ac7b93157e6a4baa7d718f860f513c1e48a452eb0ada26f0c114ba76439a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/21\/12-12.1791270023464.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Magĩrĩirie"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ciumĩte"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "makĩikariza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabothi"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabothi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "thĩinĩ wa kĩongo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kĩa andũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:23.465747293Z",
+  "model": "glm-5.3"
+}

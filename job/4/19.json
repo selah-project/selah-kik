@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 4:19",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mbere ya kĩnyaũ",
+      "rationale": "לפני עש: 'crushed before the moth' vs 'crushed like a moth' (BSB) vs 'crushed before a worm\/maggot'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "no rĩngĩ",
+      "rationale": "אף continues Eliphaz's 'how much more' argument from v.18; literal is 'also\/yea'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meciria",
+      "rationale": "יסודם is literally 'their foundation'; rendered as underpinning to keep the clay-house picture."
+    }
+  ],
+  "translation": "No rĩngĩ arĩa makarĩra mĩciĩ ya itũnda, arĩa meciria macio mothe marĩ mũtingoe-inĩ, arĩa merĩagwo mbere ya kĩnyaũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a42b6920c97672970460fc2577223d2d366db6ad471bf90f707ed64326c2c4d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/4\/19-19.1791270604345.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "no rĩngĩ"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "arĩa makarĩra"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mĩciĩ ya"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "itũnda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "mũtingoe-inĩ"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "meciria macio"
+    },
+    {
+      "surface": "ידכאום",
+      "gloss": "merĩagwo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "עש",
+      "gloss": "kĩnyaũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:04.349854319Z",
+  "model": "glm-5.3"
+}

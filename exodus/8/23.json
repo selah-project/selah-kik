@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gĩtheru",
+      "rationale": "במדבר nĩ kũuga handũ he nyoni — bũrũri mũraũ; 'gĩtheru' ĩnyiitĩrie ũraũ wa hinya"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוחות\/וזבחנו",
+      "rationale": "KJV\/JPS yugaga atĩ tondi-inĩ ĩmwe nĩkũgwatana — mundũ wothe wĩ mũcũrũo mwerũ; nĩgetha kũratha cia kũrutanĩra nĩcio ciigĩrĩiruo"
+    },
+    {
+      "kind": "you",
+      "subject": "Firaooni",
+      "rationale": "Mohoro maiyũkĩte Firaooni ni mwereni wa mbũtũ ya mbũa"
+    }
+  ],
+  "translation": "Mũcũrũo wa mĩthenya ĩtatu nĩtũgũthiĩ bũrũri-inĩ wa gĩtheru, na nĩtũgorota kurĩ Yahwe Erohimu witũ, ta ũrĩa oigĩte kũithũĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "809da7cd157a019567a02dfdafdde9086973060122b977f06cfe708a153891d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/8\/23-23.1791269334776.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "mũcũrũo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ĩtatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "nĩtũgũthiĩ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bũrũri-inĩ wa gĩtheru"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "na nĩtũgorota"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kurĩ Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu witũ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kũithũĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:54.777780062Z",
+  "model": "glm-5.3"
+}

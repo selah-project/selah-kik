@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לחם פנים",
+      "rationale": "'mũgate wa ndeo' — bread of faces; translators traditionally 'shewbread\/loaves of presence', the faces being Yahwe's own"
+    },
+    {
+      "kind": "addition",
+      "subject": "yakwa",
+      "rationale": "לפני is a preposition 'to-the-face-of'; the pronoun 'yakwa' (my) supplies whose face, from the 1cs suffix in Hebrew's 'before Me' sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפני",
+      "rationale": "'mbere yakwa' (before me) vs 'mbere yanyu' — Hebrew preposition lacks explicit suffix here; context (Yahwe speaking) supplies 1st person"
+    }
+  ],
+  "translation": "Na ũcĩhie meza-inĩ mũgate wa ndeo, mbere yakwa, hĩndĩ ciothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fb218ae153eab46bfd46469cb7661073c7e4c6f659335d7a1a818714dd897c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/25\/30-30.1791269322070.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Na ũcĩhie"
+    },
+    {
+      "surface": "על",
+      "gloss": "meza-inĩ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mũgate"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wa ndeo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere yakwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:42.075704582Z",
+  "model": "glm-5.3"
+}

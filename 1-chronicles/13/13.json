@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũgiti",
+      "rationale": "הגתי nĩ 'mũndũ wa Gati' — ũgiti nĩ mũgithi mwerũ, kĩgunĩ kĩa ng'ombe"
+    },
+    {
+      "kind": "addition",
+      "subject": "harĩ ithũĩ",
+      "rationale": "אליו nĩ 'kũrĩ we' — 'kwĩ harĩ ithũĩ' nĩ kuongerwo kwa gũcokeria"
+    }
+  ],
+  "translation": "Nacio Dawidi ndiakanyuura ⟨את⟩ aroni kwĩ harĩ ithũĩ, kũrĩ mucĩ wa Dawidi, no akĩyũmbũrũkĩrĩra hũthĩwa-inĩ kĩrĩma-inĩ Obedi-Erɔmu mũgiti.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f6f695559c5b42ff7859814e21066b37a80ea50ec55edf870027b03ecba3ed79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/13\/13-13.1791270834280.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "na-handĩ no"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ndiakanyuura"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwĩ harĩ ithũĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "akĩyũmbũrũkĩrĩrĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hũthĩwa-inĩ kĩrĩma-inĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obedi-Erɔmu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "mũgiti"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:54.284390180Z",
+  "model": "glm-5.3"
+}

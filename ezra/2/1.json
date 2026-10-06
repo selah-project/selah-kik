@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 2:1",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kĩhurũ kĩu",
+      "rationale": "המדינה nĩ 'gĩcigaro kĩa kĩhooti-kĩa-bũrũri' — kĩhurũ nĩ kĩng'ania kĩrĩa hakanĩte"
+    },
+    {
+      "kind": "addition",
+      "subject": "gĩkuũ",
+      "rationale": "לבבל nĩ 'kuuma kana gĩkuũ Baberu' — kiugo kĩa gĩthutha kĩongĩtwo thĩinĩ wa ⟨…⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kĩhooto kĩa ngombo",
+      "rationale": "thutha wa tũndũ tũĩ nĩkĩrũmwo mũtaratara wa kũaria andũ — metha ya mbũgĩ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "kiugo gĩa kũhonokia kĩhooto kĩonekana ta 'iria' gĩkenjurũte"
+    }
+  ],
+  "translation": "Na aria nĩciana cia kĩhurũ kĩu, arĩa makĩinamũka igũrũ kuuma kĩhooto kĩa ngombo irĩa ciarũmwo, iria Nebukadeneceari, mwathi wa Baberu, aahekire ⟨gĩkuũ⟩ Baberu; nao makĩcookeria Yerucarayimu na Yehuda, mũndũ o mũe kĩambata-inĩ kĩake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d3b8be79f086ffcb03cb958d5d0b41f7116e45006e6edcd9c5dded2db66c651c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezra\/2\/1-1.1791270719255.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Na aria"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nĩciana cia"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "kĩhurũ kĩu"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "arĩa makĩinamũka igũrũ"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "kuuma kĩhooto kĩa ngombo"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "irĩa ciarũmwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "aahekire"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nebukadeneceari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Baberu"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "⟨gĩkuũ⟩ Baberu"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "nao makĩcookeria"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mũe"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "kĩambata-inĩ kĩake"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:59.256603820Z",
+  "model": "glm-5.3"
+}

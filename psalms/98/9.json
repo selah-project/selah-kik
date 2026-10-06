@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לשפט\/ישפט",
+      "rationale": "Root שׁפט repeats twice — 'judge' then 'he judges' — the doubling frames the verse and is lost in Gĩkũyũ single-verb rendering"
+    },
+    {
+      "kind": "substitution",
+      "subject": "במישרים",
+      "rationale": "Hebrew 'in uprightnesss\/evenness' (plural of מישר, straightness) rendered as 'na ũrĩa mũthiũru'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ya⟩",
+      "rationale": "Gĩkũyũ needs the construct pronoun before 'ibura' where Hebrew simply juxtaposes verb and object"
+    }
+  ],
+  "translation": "Mbere ya Yahwe, nĩgũkorwo ngũũka gwĩka ciira ⟨את⟩ thĩ; nĩatũĩra ciira ⟨ya⟩ ibura na cedeki, na ndũrĩrĩ na ũrĩa mũthiũru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e797c9f279e53fd4058f59d6fad8424791762f76385941241fc44906669385ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/98\/9-9.1791270470767.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngũũka"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "gwĩka ciira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "nĩatũĩra ciira"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ibura"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na cedeki"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "na ndũrĩrĩ"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "na ũrĩa mũthiũru"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:50.771987270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 7:9",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כיד",
+      "rationale": "Rũhiano rw-Ahibirania 'mkono wa Erohimu' nĩkuo onanitia ũteithĩrie wake; nĩgũcocerwo ta 'mkono mwega'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mweri na mĩthenya",
+      "rationale": "Mũthenya wa kwambĩrĩria na mũthenya wa kũũka kwarĩmũrĩtwo kwa njĩra ya kũbarĩra mĩthenya na mĩeri."
+    },
+    {
+      "kind": "crux",
+      "subject": "יסד",
+      "rationale": "Kiugo gĩkũhĩ kũmanĩna 'kũikara thĩ kĩhingo'; ta ũguo ũtheri wa maũndũ — 'kwoambĩrĩirie' handũ ha 'nĩwo kĩhingo kĩa kũgũrũka' (YLt)."
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩ gũkorũo",
+      "rationale": "כי ĩrĩa ĩrũngĩrĩire ũhoro-inĩ nĩĩongeretwo nĩ Gĩkũyũ gothe kũhotosia mũhoro."
+    }
+  ],
+  "translation": "Nĩ gũkorũo mũthenya-inĩ wa mbere wa mweri wa mbere nĩho kũgũrũka kuuma Baberi kwoambĩrĩirie, na mũthenya-inĩ wa mbere wa mweri wa gatano nĩakĩũra Yerucarayimu, ta ⟨mũndũ ũrĩa Erohimu wake aamũhe⟩ mkono mwega ũrĩa warĩ igũrũ rĩake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ad534d5cf2fc6cb2be13a0a1d7f64a7c329f81cae35f2c8c07e8ce6023307359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezra\/7\/9-9.1791270748542.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ gũkorũo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mũthenya-inĩ wa mbere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩho"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "kwoambĩrĩirie"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "kũgũrũka"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "kuuma Baberi"
+    },
+    {
+      "surface": "ובאחד",
+      "gloss": "na mũthenya-inĩ wa mbere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "wa gatano"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩakĩũra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "ta mkono"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "wa Erohimu wake"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "mwega"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "warĩ igũrũ rĩake"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:28.547146437Z",
+  "model": "glm-5.3"
+}

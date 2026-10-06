@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבתו\/ישבי",
+      "rationale": "Root ישב kuuma mũri ũmwe — 'kũikara kwake' na 'meerũ' — mũhiano wa Kĩhibirania ũrakũragwo na kĩugo kĩa 'makanĩre' gĩkĩgĩtwo kuuma mũrĩ ũyo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "השגיח",
+      "rationale": "Nĩ kũona na maitho makuhĩ ta kũrora makĩrĩa — 'nĩĩrorithĩtie' gwĩtikĩria kũu Makeru ũrĩa maĩgate 'beholdeth' na 'looketh intently'"
+    }
+  ],
+  "translation": "Kuuma handũ ha kũikara kwake nĩĩrorithĩtie kũrĩ arĩa othe meerũ thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0288dd8454da68462e17177fc5080b1f9d6da458072f886063549b8bc49b5aa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/33\/14-14.1791270458746.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "kuuma handũ ha"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "kũikara kwake"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "nĩĩrorithĩtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "arĩa othe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "meerũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:38.749495093Z",
+  "model": "glm-5.3"
+}

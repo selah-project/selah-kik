@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 2:15",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũnene",
+      "rationale": "Aramaic שליטא is 'mighty one\/one in authority', rendered as a role-title of Arioch, official of the king."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהחצפה",
+      "rationale": "Hiphil participle 'made harsh\/urgent': translations split between 'so hasty', 'so harsh', 'so peremptory'."
+    },
+    {
+      "kind": "addition",
+      "subject": "kĩndũ gĩkuũ",
+      "rationale": "Object of 'made known' is implied in Aramaic word order; supplied and bracketed in Gĩkũyũ."
+    }
+  ],
+  "translation": "Akĩcooka akiuga na Arioiki, mũnene wa mwathani: nĩ ũndũ ũkĩrĩkĩtie mwathi ũkũhiũria kĩrĩkanĩro kingĩ kuuma thutha-inĩ wa mwathi? Ũhoro wa rĩrĩ, Arioiki akamenya ⟨kĩndũ gĩkuũ⟩ kĩa Danyieri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d5dfbf1957b8a12d515b3281c1d3dd077487b8af53556c16bf87a96abfba5670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/2\/15-15.1791270721385.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "akĩcooka"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "לאריוך",
+      "gloss": "na Arioiki"
+    },
+    {
+      "surface": "שליטא",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ ũkĩrĩkĩtie"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kĩa"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "kĩrĩkanĩro kingĩ"
+    },
+    {
+      "surface": "מהחצפה",
+      "gloss": "ũkũhiũria"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "thutha-inĩ wa"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "אדין",
+      "gloss": "ũhoro wa rĩrĩ"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "kĩndũ gĩkuũ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "akamenya"
+    },
+    {
+      "surface": "אריוק",
+      "gloss": "Arioiki"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "kĩa Danyieri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:01.386408691Z",
+  "model": "glm-5.3"
+}

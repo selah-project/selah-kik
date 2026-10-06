@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 19:22",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שֵׁשׁ עֶשְׂרֵה",
+      "rationale": "'thandatũ ikũmi' nĩ kũgereria kwa 'nenda'; nĩgetha gĩtarĩ gĩa kũgera ndigagĩrwo"
+    }
+  ],
+  "translation": "Na mũthenya wa mbere wa mweri wa mbere, Erohimu nĩombire ⟨את⟩ igũrũ na ⟨את⟩ thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1b3d4519a34f2354f1d3b10c8ce318461cd2593727486076a50a4430b580f0f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/19\/22-22.1791269761181.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וּפָגַע֩",
+      "gloss": "ũgĩkũrĩra"
+    },
+    {
+      "surface": "הַגְּב֨וּל",
+      "gloss": "mũkandĩ"
+    },
+    {
+      "surface": "בְּתָב֤וֹר",
+      "gloss": "Tabari"
+    },
+    {
+      "surface": "וְשָׁ֥חֲצ֥וֹמָ֖ה",
+      "gloss": "Cahacumahi"
+    },
+    {
+      "surface": "וּבֵ֥ית",
+      "gloss": "mwanya-inĩ wa Beti"
+    },
+    {
+      "surface": "שָֽׁמֶשׁ",
+      "gloss": "Cemeci"
+    },
+    {
+      "surface": "וְהָי֛וּ",
+      "gloss": "no ciatuĩkaga"
+    },
+    {
+      "surface": "תֹּצְא֥וֹת",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "גְּבוּלָ֖ם",
+      "gloss": "mũkandĩ wao"
+    },
+    {
+      "surface": "הַיַּרְדֵּ֑ן",
+      "gloss": "Yardeni"
+    },
+    {
+      "surface": "עָרִ֥ים",
+      "gloss": "mĩtara"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "thandatũ"
+    },
+    {
+      "surface": "עֶשְׂרֵ֖ה",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "וְחַצְרֵיהֶֽן",
+      "gloss": "na ciĩgi ciao"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:01.183337560Z",
+  "model": "glm-5.3"
+}

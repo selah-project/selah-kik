@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 3:5",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא הביאו צוארם",
+      "rationale": "'Mație kũingĩra magũrũ' — kĩngũkũrio gĩa Kĩhibirania: kũingĩra gũrũ mwĩhoko-inĩ wa wĩra; KJV 'put not their necks'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדניהם",
+      "rationale": "'A mwathi macro' (arĩa mangĩ) kana 'Yahwe'? Kĩambĩrĩria kĩingĩ kĩa Kĩhibirania kĩrĩ tetragramaton, hamwe hano אדניהא — andũ a mwathi (BSB 'supervisors')"
+    },
+    {
+      "kind": "addition",
+      "subject": "hinya-inĩ",
+      "rationale": "Kĩgwanja kĩa gũteithia kĩongĩtwo thutha wa kĩngũkũrio gĩa gũrũ"
+    }
+  ],
+  "translation": "Kũrĩ moko-inĩ macro, a-Tekoa makĩhota ũhoro; no makuu macro matiire kũingĩra magũrũ macro hinya-inĩ ũhoro-inĩ wa wĩra wa a mwathi macro.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8a8c15ca8c8c649c3823d41ecd0335a2232f5b9433bb5f14e92b05eb16e4c7a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nehemiah\/3\/5-5.1791270737379.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְעַל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יָדָם",
+      "gloss": "moko-inĩ macro"
+    },
+    {
+      "surface": "הֶחֱזִיקוּ",
+      "gloss": "makĩhota"
+    },
+    {
+      "surface": "הַתְּקוֹעִים",
+      "gloss": "a-Tekoa"
+    },
+    {
+      "surface": "וְאַדִּירֵיהֶם",
+      "gloss": "na makuu macro"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "mati"
+    },
+    {
+      "surface": "הֵבִיאוּ",
+      "gloss": "kũingĩra"
+    },
+    {
+      "surface": "צַוָּארָם",
+      "gloss": "magũrũ macro"
+    },
+    {
+      "surface": "בַּעֲבֹדַת",
+      "gloss": "ũhoro-inĩ wa wĩra"
+    },
+    {
+      "surface": "אֲדֹנֵיהֶם",
+      "gloss": "a mwathi macro"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:17.380171452Z",
+  "model": "glm-5.3"
+}

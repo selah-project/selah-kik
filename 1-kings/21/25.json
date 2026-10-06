@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wĩiyerie mweene",
+      "rationale": "התמכר nĩ 'wĩgũraga mweene' — reflekivo wa kũgũra; tondũ nĩ mũndũ kana Ngai ndũgũra, nĩguo 'kũiyeria'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "metho-inĩ ma Yahwe",
+      "rationale": "בעיני יהוה — 'metho-inĩ' nĩ mũhiano wa Kĩhibirania ũngĩa 'kũmonĩ-inĩ kwa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mweene",
+      "rationale": "kĩgwanja kĩa suffix ya אתו nĩongeretwo thutha wa ⟨את⟩ nĩgeetha andũ ayambĩrĩrie makũmenye"
+    }
+  ],
+  "translation": "Rĩ ũndũ gũtirĩ kũngĩkorũo ta Akabu, ũrĩa wĩiyerie ⟨את⟩ mweene gwĩka kĩoru metho-inĩ ma Yahwe, ũrĩa Izeberu mũka wake wamũigĩrĩirie ⟨mweene⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6df37036db533b924d1d89f119569387377430c41f7e7e1e4fe7b46ede1373a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/21\/25-25.1791270043171.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "rĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kũngĩkorũo"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "ta Akabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "wĩiyerie mweene"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kĩoru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "metho-inĩ ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "wamũigĩrĩirie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mweene",
+      "marks": "Akabu"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izeberu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mũka wake"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:43.175550634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mũgambo nĩwoihĩtirĩire",
+      "rationale": "Hebrew 'caused a voice to pass through' = made proclamation; literal kept, idiom noted"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ng'arĩro",
+      "rationale": "הגולה is 'the exile' used collectively for the exiles"
+    }
+  ],
+  "translation": "Na mũgambo nĩwoihĩtirĩire Yehuda na Yerucarayimu, kũrĩ andũ othe a ng'arĩro, mwĩhĩtwa gũkonie ⟨arĩa me⟩ Yerucarayimu;",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c97d5bd5e682d54f775672733b4f40b83b7db8d8835b0258fcbecdba7005ffc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezra\/10\/7-8.1791270770639.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "nĩwoihĩtirĩire"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "na Yerucarayimu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ othe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ng'arĩro"
+    },
+    {
+      "surface": "להקבף",
+      "gloss": "gũkonie"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:50.643119236Z",
+  "model": "glm-5.3"
+}

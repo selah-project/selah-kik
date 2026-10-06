@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 36:1",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ũtheru",
+      "rationale": "הקדש nĩ 'ũtheru' — ũndũ theru; ti 'kũingĩra kwa kĩrĩkanĩro kĩerũ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "thĩinĩ wao",
+      "rationale": "בהמה nĩ kiugo kĩonanania ndũrĩrĩ ciĩtigithanio; Kĩgĩkũyũ kĩendaga kĩongererwo"
+    },
+    {
+      "kind": "crux",
+      "subject": "kűruta",
+      "rationale": "ועשה: KJV 'wrought' (guoika kwarĩkana) vs JPS\/ASV 'shall work' (kwarĩ kana kwa thutha)"
+    }
+  ],
+  "translation": "Nĩgetha Betaceri, na Ohoriabu, na mũndũ o wothe wa ngoro ya ũgima, ũrĩa Yahwe ahoire ũgima na ũmenyo, gũmenya kũgerera kũrűta wathi wothe wa utugi wa ũtheru, thĩinĩ wa indo ciothe iria Yahwe atungĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cde8e76dcf94c24733ee92535eea3044fd6bf65d91cf4aa2d9c239e2bf8ca51b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/36\/1-1.1791269399020.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "kűruta"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betaceri"
+    },
+    {
+      "surface": "ואהליאב",
+      "gloss": "Ohoriabu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wa ũgima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ahoire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgima"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ũmenyo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "thĩinĩ wao"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "gũmenya"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kűgerera kűruta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wathi wothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "wa utugi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa ũtheru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atungĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:59.026431295Z",
+  "model": "glm-5.3"
+}

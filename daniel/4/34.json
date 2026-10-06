@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "daniel 4:34",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩwe",
+      "rationale": "Aramaic inverts the clause — the verb יכל lacks an explicit subject; Gĩkũyũ requires the pronoun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩeego",
+      "rationale": "בגוה is pride\/arrogance in the heart, rendered with the Gĩkũyũ idiom of self-lifting."
+    },
+    {
+      "kind": "crux",
+      "subject": "KJV\/YLT\/ASV longer text",
+      "rationale": "English versions of 4:34 include 'at the end of days I lifted my eyes to heaven' — Aramaic verse-numbering offset; the Hebrew text here begins כען 'now'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "cedeki",
+      "rationale": "קשט could also read 'uprightness\/faithfulness' — Gĩkũyũ cedeki covers both fidelity and straightness."
+    }
+  ],
+  "translation": "Rĩrĩ, ndĩ Nebukadanechari, nĩngĩthamba, nĩngĩrngĩrĩra, na kũinĩthia mũthamaki wa igũrũ, ũrĩa icũranĩra ciake zothe nĩ cedeki, na njĩra ciake nĩ ciira, na arĩa batagĩa na kĩeego ⟨nĩwe⟩ ĩngĩhota kũmĩnithia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4a3da5a544d760341402e08a7a531f63adf9c3e2b4a5bce14c7cb738f1ec1498",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/4\/34-34.1791270712428.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadanechari"
+    },
+    {
+      "surface": "משבח",
+      "gloss": "nĩngĩthamba"
+    },
+    {
+      "surface": "ומרומם",
+      "gloss": "nĩngĩrngĩrĩra"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "na kũinĩthia"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "wa igũrũ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zothe"
+    },
+    {
+      "surface": "מעבדוהי",
+      "gloss": "icũranĩra ciake"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "וארחתה",
+      "gloss": "na njĩra ciake"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "na arĩa"
+    },
+    {
+      "surface": "מהלכין",
+      "gloss": "batagĩa"
+    },
+    {
+      "surface": "בגוה",
+      "gloss": "na kĩeego"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ĩngĩhota"
+    },
+    {
+      "surface": "להשפלה",
+      "gloss": "kũmĩnithia"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:52.432668113Z",
+  "model": "glm-5.3"
+}

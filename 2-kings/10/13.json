@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 10:13",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kũhoya thayũ",
+      "rationale": "לשלום nĩ 'thayũ'; kwĩhota kwa arĩa maathĩĩ 'kũhoya thayũ' nĩ kwĩhokania kwa maũndũ ha kiugo kĩu"
+    },
+    {
+      "kind": "crux",
+      "subject": "mũkamwathi",
+      "rationale": "הגבירה: 'mũka mũnene' kana 'mama mũthamaki' — maandĩko me maonania atĩ nĩ maiya-mbeũ ya mũthamaki"
+    },
+    {
+      "kind": "you",
+      "subject": "Nĩ arĩ arĩa?",
+      "rationale": "Yehu oigire kĩuria gĩa mũthenya-inĩ kĩa ariwa a Ahasiyahu"
+    }
+  ],
+  "translation": "Na Yehu anyita ⟨את⟩ ariwa a Ahasiyahu, mũthamaki wa Yehutha, akĩria: Nĩ arĩ arĩa? Makĩria: Nĩ ariwa a Ahasiyahu ithuĩ, na nĩkĩtheretere kũhoya thayũ cia aana a mũthamaki na aana a mũkamwathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5a37b5ad2d4cae1f24832cbb955abe3099d3efdc81f18cb4cfa78227d25f834a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/10\/13-13.1791270069353.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Na Yehu"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "anyita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ariwa a Ahasiyahu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ariwa a"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahasiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehutha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩria"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ arĩa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "makĩria"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ariwa a"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahasiyahu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "ונרד",
+      "gloss": "nĩkĩtheretere"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kũhoya thayũ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aana a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na aana a"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "mũkamwathi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:09.356117361Z",
+  "model": "glm-5.3"
+}

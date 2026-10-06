@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "וְכָל נִקְרָא מֻבְלָע; yothe-ya ciothe nĩ mbũtũ ciao"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צבאם",
+      "rationale": "צבא nĩ mbũtũ irĩ ng'ania — andũ, thiundu, na maũndũ marĩa mothe maathiire; 'mbũtũ ciao' ĩgĩa mũhianane wa gũkũ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויכלו\/צבאם",
+      "rationale": "כלה (kuhota\/kũhera) na צבא (mbũtũ) — ciugo icio cĩrĩkana na Kĩambĩrĩria 2:2-3 harĩ Cabati"
+    }
+  ],
+  "translation": "Nĩgo ithaa igũrũ na thĩ mahota, na ⟨את⟩ mbũtũ ciao ciothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b462cc0ab714fa6d92cce8ee69ab5dc1edcb0ad43e1d60085d934532c4248f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/2\/1-1.1791269247951.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "mahota"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ithaa igũrũ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na thĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ciothe"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "mbũtũ ciao"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:27.955819731Z",
+  "model": "glm-5.3"
+}

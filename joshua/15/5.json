@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 15:5",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mũhari",
+      "rationale": "Verse enumerates boundary points of Yuda's territory: east and north borders."
+    },
+    {
+      "kind": "idiom",
+      "subject": "rũrĩmĩ rwa yaya",
+      "rationale": "לשון הים literally 'tongue of the sea', the bay where the Jordan meets the Salt Sea."
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Hebrew has no copula in the east-border clause; Kĩkũyũ requires one."
+    }
+  ],
+  "translation": "Na mũthenya-inĩ wa irathĩro, mũhari nĩ Yaya ya Munyu, gĩkĩrathĩkĩra magana macio ma Yardeni; na mũhari thĩinĩ wa mũmbere wa hĩrangĩrĩro wa rũgongo nĩ kuuma rũrĩmĩ rwa yaya, kuuma gathigathĩ kĩa Yardeni.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4617416c9355b7f839124d3d09b67c00257b95280b7624f6c431a8d1b136674d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/15\/5-5.1791269690489.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "na mũhari"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mũthenya-inĩ wa irathĩro"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yaya"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ya Munyu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩrathĩkĩra"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "magana macio"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ma Yardeni"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "na mũhari"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "thĩinĩ wa mũmbere"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "wa hĩrangĩrĩro wa rũgongo"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "kuuma rũrĩmĩ rwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yaya"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuuma gathigathĩ kĩa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:50.491541410Z",
+  "model": "glm-5.3"
+}

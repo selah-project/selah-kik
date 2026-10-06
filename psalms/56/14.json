@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũoyo wakwa",
+      "rationale": "נפש mũndũ-inĩ nĩ mũhũmũ-maũndũ (throat\/mũoyo), ti 'roho' ya Kĩthwahĩri"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "mũthomi andũ aingĩ matarĩkana: nĩ kythe kũonia ũguo kwa ndũrĩrĩ (kythe: 'wĩ ũrĩa ũkoretwo') kana nĩ kythe kwa mũndũ ũngĩ (mũthomi ũngĩ ndarekĩria)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ndũkahĩga⟩",
+      "rationale": "kiugo kĩa kĩgeranio gĩa ng'ania kĩongĩtwo nĩgũo kũonania ũrĩa kĩgeranio gĩa 'kana' kĩrĩ mũhĩthagwo kĩrĩa kĩrahũkĩte ndangĩoneka"
+    }
+  ],
+  "translation": "Nĩgũkorwo waatũrire mũoyo wakwa kuuma mavatho; kana makamwĩ ⟨ndũkahĩga⟩ kũgũa, ngathĩĩ mbere ya Erohimu thĩinĩ wa ũtheri wa arĩa meiĩ?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "098d8e15d3cef2d415d26b18fe89ceb1d30b996c29031ad7db1a12441e73b8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/56\/14-14.1791270484803.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "waatũrire"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mũoyo wakwa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kuuma mavatho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makamwĩ"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "kũgũa"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "ngathĩĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "באור",
+      "gloss": "thĩinĩ wa ũtheri"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wa arĩa meiĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:04.812335755Z",
+  "model": "glm-5.3"
+}

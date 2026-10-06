@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפלא",
+      "rationale": "KJV 'singular\/peculiar vow' vs ASV 'accomplish' vs JPS 'clearly utter' — gĩcunjĩ kĩa פלא (kũrĩkithia kĩndũ kĩa kũigũa) kĩnyitithanagio na mbaara cia mũtaũri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשת",
+      "rationale": "נפש nĩ 'mũthemba wa kũhĩa' — handũ ũyũ nĩ andũ arĩa maigwo, ti 'mooyo' wa kĩrĩkanĩro kĩerũ."
+    },
+    {
+      "kind": "you",
+      "subject": "Moce",
+      "rationale": "Erohimu aroraga Moce na kũmũacokĩria atĩ aroragie ciana cia Yiceraeri."
+    }
+  ],
+  "translation": "Rora ndũacokie ciana cia Yiceraeri, na ũmeuge na macio: Mũndũ rĩrĩa ũrakĩra kũingĩra kĩririkano gĩa hinya, nĩguo ũhote kũgeria mbere ya rĩĨtwa rĩa Yahwe",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "372b8b62adb2bfb3166f0300167d241050a7f29903178c58fdff87bc748c73b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/27\/2-2.1791269481027.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũacokĩria"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "na ũmeuge"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na macio"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ũrakĩra kũingĩra kĩririkano gĩa hinya"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kĩririkano"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "kũgeria gwaku mbere"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:21.033153488Z",
+  "model": "glm-5.3"
+}

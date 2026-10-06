@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Farao",
+      "rationale": "Ũhoro ũyũ ũrĩkĩtwo kwa Farao nĩ Yahwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ndĩgũũrĩra",
+      "rationale": "נגף kiugĩte 'kũgũtha-wa njohi' na 'kũheana ndwari'; warĩ ngombo-inĩ wa mũciĩ wa Farao"
+    },
+    {
+      "kind": "hapax-note",
+      "subject": "נגף",
+      "rationale": "kiugo gĩa hapax thĩinĩ wa Taũra ya Gĩkũyũ hĩndĩ ĩno; ũhoro wa kũgũtha ngombo wa kũmeneria"
+    }
+  ],
+  "translation": "Na angĩkorwo ũiyũrĩtwo kũmarũngitha, ona, nĩrie ndĩgũũrĩra ⟨את⟩ mĩthingi ĩrĩa-iũ ĩthe na ceparidea.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2121797783447dcf0a91815bdbdf4b8d42578055e092621944cd98a6a5de98cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/7\/27-28.1791269387419.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na angĩkorwo"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "wĩ mũmenete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wĩwe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kũmarũngitha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩrie"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ndĩgũũrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩthingi ĩrĩa-iũ ĩthe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ĩthe"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "mĩthingi ĩrĩa-iũ"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "na ceparidea"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:47.425539036Z",
+  "model": "glm-5.3"
+}

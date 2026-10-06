@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nĩ⟩",
+      "rationale": "Kĩgoko kĩa 'nĩ' kĩongĩtwo nĩgũo gĩtaũro kĩa Gĩkũyũ kĩhote kũgũa ũguo; Kĩhibirania gĩtarĩ kĩo."
+    },
+    {
+      "kind": "crux",
+      "subject": "זֵר",
+      "rationale": "Zeeri: 'kĩhembe kĩa gũcenjeria kooni-inĩ' vs 'kĩuru gĩa mwathani' (crown) — mataũri manĩ aingĩ magĩtaũra 'crown', no hihi nĩ kĩhingo kĩa meza tu."
+    }
+  ],
+  "translation": "Na akĩgũka ⟨nĩ⟩ zahebu theru thĩinĩ wayo, na akĩmũũrĩria ⟨את⟩ yayo: zeeri ya zahebu ĩrĩkũ igũrũ rĩraya rĩake kooni-inĩ kwao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a600a129234eee8ff21a63fac129d242994d0b8e381ffc9b55a7755180edbef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/37\/10-11.1791269455598.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "akĩgũka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yayo (meza)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahebu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "theru"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akĩmũũrĩria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yayo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zeeri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya zahebu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ĩrĩkũ kooni-inĩ kwao"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:55.607631852Z",
+  "model": "glm-5.3"
+}

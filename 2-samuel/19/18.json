@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 19:18",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ngiri ĩmwe · makumi ĩrĩ na ithano · makumi igĩrĩ",
+      "rationale": "Kũandĩka andũ nĩ kĩeo: ngiri ĩmwe, aana makumi ĩrĩ na ithano, atumia makumi igĩrĩ."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וצלחו",
+      "rationale": "Thutha ũcio wa ng'ania: 'nĩmahotĩte kũmbũkĩra' — gũtherema kwa hinya gũkũrũhĩra kana kwarahũkĩra na ũrata."
+    },
+    {
+      "kind": "crux",
+      "subject": "נער",
+      "rationale": "'Mwarĩ wa nyũmba ya Cauri' — wa mbere ta 'mũtumia wa nyũmba ya Cauri'; nĩ mũthingo wa hinya thĩinĩ wa nyũmba, ti mũirĩtu wa mĩaka ĩnini."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Biniyamini",
+      "rationale": "Nĩ mũthingo wa mũciĩ wa Biniyamini ũrĩa ũrahũkĩre mbere ya mwathani."
+    }
+  ],
+  "translation": "Na andũ ngiri ĩmwe a Biniyamini arĩ hamwe nake, na Ciba mwarĩ wa nyũmba ya Cauri, na aana ake makumi ĩrĩ na ithano, na atumia ake makumi igĩrĩ hamwe ⟨את⟩ nake; nao nĩmarahũkĩre Yorudani mbere ya mwathani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "73e7cd6611600aa58af03ec6745652ca18ee1bc386112215ac878117e111ad37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/19\/18-21.1791270014804.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "ngiri ĩmwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "arĩ hamwe nake"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "a Biniyamini"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "na Ciba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwarĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cauri"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "makumi ĩrĩ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana ake"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na makumi igĩrĩ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "arĩ hamwe nake"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "nĩmarahũkĩre"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathani"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:14.806930104Z",
+  "model": "glm-5.3"
+}

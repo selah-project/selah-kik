@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שמם",
+      "rationale": "Kĩ Hibĩrania kĩuga 'kũhĩa kana kũhonjoka' — Gĩkũyũ nĩgũcooka 'ũhonjori' ta kĩugo kĩa kũonerera ũndũ ũcio."
+    }
+  ],
+  "translation": "Nĩatũrĩrĩtie njĩra ciakwa akanĩamura kĩbĩndĩ; nĩandĩkĩrĩirie ũhonjori.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/lamentations\/3\/9-12.1791270670566.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "njĩra ciakwa"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "nĩatũrĩrĩtie"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "akanĩamura kĩbĩndĩ"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "nĩandĩkĩrĩirie"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ũhonjori"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:10.573897227Z",
+  "model": "glm-5.3"
+}

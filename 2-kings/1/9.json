@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 1:9",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hasi",
+      "rationale": "Heb רֵדָה nĩ 'rĩkũra' tu; 'hasi' nĩongereirwo thuutha wa ndemwa ya gũtheri"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũciĩ wa kĩrĩma",
+      "rationale": "רֹאשׁ הָהָר nĩ 'mwena-inĩ wa kĩrĩma'; Gĩkũyũ kĩhakanĩtie 'mũciĩ wa kĩrĩma'"
+    },
+    {
+      "kind": "you",
+      "subject": "Erija",
+      "rationale": "Mũthamaki wa mirongo ĩtano arĩkĩra mũndũ wa Erohimu na mwĩhoko wa kũmũgetha"
+    }
+  ],
+  "translation": "Nĩamũtũmĩte kũrĩ we mũthamaki wa mirongo ĩtano na atĩa ake mirongo ĩtano; akĩthagũra kũrĩ we, na rĩngĩ, arĩ ũkĩciamũkĩra thĩinĩ wa mũciĩ wa kĩrĩma-kĩrĩa; amũrĩkia ũhoro nĩguo: Wĩ mũndũ wa Erohimu, mũthamaki oigĩte: Rĩkũra hasi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bd25b47a5785e030dfd47a662d54e80da3d02a347e7b9ed884de620e93e3bbeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/1\/9-9.1791270061448.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nĩamũtũmĩte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "wa mirongo ĩtano"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "na atĩa ake mirongo ĩtano"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akĩthagũra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩngĩ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "arĩ ũkĩciamũkĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "wa kĩrĩma-kĩrĩa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "amũrĩkia ũhoro"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "rĩkũra hasi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:01.449356585Z",
+  "model": "glm-5.3"
+}

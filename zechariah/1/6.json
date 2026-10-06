@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 1:6",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השיגו",
+      "rationale": "'Overtake\/reach' vs 'take hold of' — KJV 'take hold', YLT 'overtake'; image of words as pursuers catching the fathers"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישבו \/ ישוב",
+      "rationale": "'They returned\/repented' — same root as the call 'return' in v.4; the pun binds the verses"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yiceraeri",
+      "rationale": "Direct rhetorical question to the audience about their fathers"
+    }
+  ],
+  "translation": "No, ciugo cianjakwa na mawatho makwa, ĩrĩa ndahotorire ⟨את⟩ acũhungi cianjakwa acio marathi — atĩrĩ, ndacacĩgĩkĩrire avothe anyu? Nĩmacookire magĩuga: Ta ũrĩa Yahwe Cebaoni aĩthondeire gũkĩra ithuĩ, ta mĩthiĩre yithuĩ na ta mĩtugo yithuĩ, ũguo nĩagĩkĩte ⟨את⟩ ithuĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "550ec0e151c7b956e5f1f2f26f86d911511dc5ef671e7041bb3e2e1b45a83d14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/zechariah\/1\/5-6.1791270459327.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "No"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo cianjakwa"
+    },
+    {
+      "surface": "וחקי",
+      "gloss": "na mawatho makwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndahotorire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acũhungi cianjakwa acio marathi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "acũhungi cianjakwa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "acio marathi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "atĩrĩ no"
+    },
+    {
+      "surface": "השיגו",
+      "gloss": "ndacacĩgĩkĩrire"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "avothe anyu"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "nĩmacookire"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "magĩuga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ta ũrĩa"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "aĩthondeire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gũkĩra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "כדרכינו",
+      "gloss": "ta mĩthiĩre yithuĩ"
+    },
+    {
+      "surface": "וכמעללינו",
+      "gloss": "na mĩtugo yithuĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩagĩkĩte"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ithuĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:39.334653564Z",
+  "model": "glm-5.3"
+}

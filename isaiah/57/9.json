@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למלך",
+      "rationale": "'Kũrĩ mũthamaki' kana 'kũrĩ Moreki' — bsb yauga Molech; konsonanti ciana ĩthangĩkaga gĩikaro kĩa ũhoro."
+    },
+    {
+      "kind": "crux",
+      "subject": "צריך",
+      "rationale": "Kiugo gĩa ũgima: atumia (atumia a mbũtũ) kana mwaki wa nyuumbo; metha ĩnyitaga 'atumia' ta KJV\/JPS."
+    },
+    {
+      "kind": "you",
+      "subject": "Jerucarayimu",
+      "rationale": "Maũndũ ma ndũrĩrĩ ĩrĩa yaikarĩte ihĩndĩ, Yahwe arĩmũrĩkĩra mamenete."
+    }
+  ],
+  "translation": "Nĩcokire gũthiĩ kũrĩ mũthamaki na mafũta, na nĩongeretie mahũa maitũ mameri; nĩcirĩtĩkire atumia aku kinya thĩinĩ wa kwarĩ kũnini, na nĩinihĩtie kinya Ceori.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/57\/9-12.1791270221483.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "nĩcokire gũthiĩ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kũrĩ mũthamaki"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafũta"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "nĩongeretie"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "mahũa maitũ mameri"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "nĩcirĩtĩkire"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "atumia aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "thĩinĩ wa kwarĩ kũnini"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "nĩinihĩtie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceori"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:41.517073298Z",
+  "model": "glm-5.3"
+}

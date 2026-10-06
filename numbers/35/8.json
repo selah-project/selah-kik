@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 35:8",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרב\/תרבו · המעט\/תמעיטו",
+      "rationale": "Kiugo kĩmwe kĩarĩkagwo-rĩ: 'mĩngi-mũroinge' na 'mũnini-mũkenyehe' — ũcuuke ũrĩa Hiberania yongire haahĩrĩrie nĩguo ũonekane."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כפי",
+      "rationale": "Kwoneria 'kana kanua' — Hiberania yugaga 'according to the mouth of his inheritance'; Gĩkũyũ ndũigĩga ũguo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "igooti cia mĩcĩ",
+      "rationale": "Ũthomi ũrĩa watarĩria kũgereria mĩcĩ thĩiniĩ wa macũngĩro — mĩngi kana mũnini ya tondũ ithaka."
+    }
+  ],
+  "translation": "Na mĩcĩ ĩrĩa mũkahe kuuma macũngĩro ma ciana cia Yiceraeri: kwa ⟨את⟩ arĩa mandĩ nĩ mĩngi mũroinge mĩngi, na kwa ⟨את⟩ arĩa mandĩ nĩ ma mũnini mũkenyehe mũnini; mũndũ o wothe, ũgĩkũũ kana ithaka yakĩo ĩrĩa arĩgũcunga, nĩwe ũkahĩha kuuma mĩcĩ yakĩe kwa Arevi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "33fab8b6e77093b33f39b42f35ebc02aa5a0d39362ada014996dcad9ef9dce6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/35\/8-8.1791269611810.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Na mĩcĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "mũkahe"
+    },
+    {
+      "surface": "מאחזת",
+      "gloss": "macũngĩro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kwa ⟨את⟩",
+      "marks": "arĩa mandĩ nĩ mĩngi"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "arĩa mandĩ nĩ mĩngi"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "mũroinge mĩngi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na kwa ⟨את⟩",
+      "marks": "arĩa mandĩ nĩ ma mũnini"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "arĩa mandĩ nĩ ma mũnini"
+    },
+    {
+      "surface": "תמעיטו",
+      "gloss": "mũkenyehe mũnini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ũgĩkũũ kana"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ithaka yakĩo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "arĩgũcunga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nĩwe ũkahĩha"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "kuuma mĩcĩ yakĩe"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kwa Arevi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:31.811081554Z",
+  "model": "glm-5.3"
+}

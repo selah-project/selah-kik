@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 28:41",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kũora moko",
+      "rationale": "מלאת את ידם 'kũora moko mao' nĩ mũhiano wa kũheana maũndũ-marĩa mahĩkanĩre, ti kũora kwa kweli"
+    },
+    {
+      "kind": "you",
+      "subject": "Moce",
+      "rationale": "Watho ũyũ wonekwo ũrogorwo kwa Moce"
+    }
+  ],
+  "translation": "Na ũmambage ⟨את⟩ Aharoni mũrũ wa nyina waku, na ⟨את⟩ aana make ⟨את⟩ hamwe nake; ũkacaakĩre maguta, ũkaore moko mao, ũkamethere, na mahĩkanĩre kwakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bca8928233d22c32b309bb443e4877d1a4813974f28d959d0645e75001efdb87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/28\/41-42.1791269459035.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "na ũmambage"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni na aana make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wa nyina waku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "aana make"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "aana make"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hamwe nake"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ũkacaakĩre maguta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni na aana make"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "ũkaore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko mao"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ũkamethere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni na aana make"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "mahĩkanĩre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:59.041353188Z",
+  "model": "glm-5.3"
+}

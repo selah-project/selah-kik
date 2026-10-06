@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על הארץ",
+      "rationale": "Gĩkũyũ gĩkwĩra 'thĩ-inĩ yĩyũrĩtwo' o na 'kũikara thĩ-inĩ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "acio",
+      "rationale": "Ndemwa ya Kĩhibirania אֹתָם ĩrĩa ĩngĩgĩtwo nĩ 'yĩ' nĩigĩtwo ta ⟨acio⟩ thĩinĩ wa Gĩkũyũ"
+    }
+  ],
+  "translation": "Ndĩmũthĩkĩrĩirie ⟨את⟩ mĩtugo yakwa na ⟨את⟩ ciira cĩakwa mũciarege, ndĩmũthĩkĩrĩirie ⟨את⟩ ⟨acio⟩, na mũikare thĩ-inĩ yĩyũrĩtwo na ũhoti.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "568b7a5e8069464cd48b8ff03b328664f7ffdb5af8c3cf09a9a1a4d2ea592f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/25\/18-18.1791269493580.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַעֲשִׂיתֶם",
+      "gloss": "ndĩmũthĩkĩrĩrie"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtugo yakwa"
+    },
+    {
+      "surface": "חֻקֹּתַי",
+      "gloss": "mĩtugo yakwa"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ciira cĩakwa"
+    },
+    {
+      "surface": "מִשְׁפָּטַי",
+      "gloss": "ciira cĩakwa"
+    },
+    {
+      "surface": "תִּשְׁמְרוּ",
+      "gloss": "mũciarege"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶם",
+      "gloss": "ndĩmũthĩkĩrĩirie"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩ ⟨acio⟩"
+    },
+    {
+      "surface": "וְיָשַׁבְתֶּם",
+      "gloss": "na mũikare"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "yĩyũrĩtwo na ũhoti"
+    },
+    {
+      "surface": "לָבֶטַח",
+      "gloss": "ũhoti"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:33.585301432Z",
+  "model": "glm-5.3"
+}

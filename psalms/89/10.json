@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשבחם",
+      "rationale": "שׁבח elsewhere means 'praise'; here hifil is taken as 'still\/restrain them' — some read 'you still them' vs 'you praise them', KJV\/ASV\/JPS all choose 'still'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩhooto",
+      "rationale": "גֵאוּת literally 'pride\/exaltation' of the sea; rendered as pride, not mere 'raging'."
+    }
+  ],
+  "translation": "Nĩwe ũthamakĩra kĩhooto kĩa iria; rĩrĩa magorogoro make mainĩkaga, nĩwe ũmakang'ũra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "63205e2f61724fa4fd3562daa2ea7d17f79ae8f0a33cf33d1a53f4b508eb523b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/89\/10-10.1791270496753.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Nĩwe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ũthamakĩra"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kĩhooto gĩa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "kũinũka kwa"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "magorogoro make"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ũmakang'ũra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:16.757410455Z",
+  "model": "glm-5.3"
+}

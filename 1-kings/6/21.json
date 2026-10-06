@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ברתיקות",
+      "rationale": "mĩcũkũ (minyori) — kiugo gĩthis kionekana Tanakh-inĩ hanini mũno; hĩndĩ ĩyo iendaga kwĩhoka thayambĩrĩ ĩrĩa ĩrĩ miũroro."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעבר ברתיקות",
+      "rationale": "Ta KJV 'nĩagĩrire gĩcunjĩ kĩmwe na mĩcũkũ' kana ta ASV\/JPS 'nĩatambũririe mĩcũkũ' — kiugo kĩugaga 'gũkĩhĩtũkĩthia'; gĩtikũmenyika o ũrĩa mĩcũkũ ĩĩ ngũrũro ta makaraize kana nĩcio ciatũũrĩirwo Dedebiri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סגור",
+      "rationale": "Kĩhibirania kĩugaga 'kũnyinya' (thahabu ĩnyiitĩtwo, ĩtheru); gĩa Gĩkũyũ 'ya theru' kĩgeranagia maũndũ mano."
+    },
+    {
+      "kind": "measurement",
+      "subject": "gũcunjĩ kĩa temero",
+      "rationale": "Maũndũ ma kũgũcithia temero — ũciarĩirie wa ũthĩnjĩriania wa Yahwe nĩ ma gũkũngũĩra."
+    }
+  ],
+  "translation": "Ceromoni akĩgũcithia ⟨את⟩ nyũmba kuuma ndani na thahabu ya theru, akĩhĩtũkĩthia na mĩcũkũ ya thahabu mbere ya Dedebiri, na akĩgũcithia ⟨nayo⟩ thahabu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b72d9ec9dbcbb75c83eb1f454beec6e0968078ce394e21be8bd989dff2b37f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/6\/21-21.1791269934964.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "akĩgũcithia"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "kuuma ndani"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ya theru"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akĩhĩtũkĩthia"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "mĩcũkũ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya thahabu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Dedebiri"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "akĩgũcithia ⟨nayo⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "thahabu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:54.964574594Z",
+  "model": "glm-5.3"
+}

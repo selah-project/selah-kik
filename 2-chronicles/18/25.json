@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũtonganania",
+      "rationale": "שַׂר nĩ 'mũnene wa kĩndĩ kĩngĩ' — 'mũtonganania wa mucĩ' nĩ gũtaũra kwa kĩgunja, ti rĩĩtwa rĩmwe rĩa kĩharo"
+    },
+    {
+      "kind": "addition",
+      "subject": "Nĩrĩa",
+      "rationale": "Kĩgwanja kĩa gũtũũra kwa ũhoro kĩongĩtwo; Kĩhibirania kĩrĩ na wawĩĩrĩrĩria wa mũthenya tu"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "wawĩĩrĩrĩria ũrĩa wothe Kĩhibirania kĩhĩthagia, nĩgwo mũhari wa Gĩkũyũ ũkũhĩthagĩra gĩkuũ"
+    }
+  ],
+  "translation": "Nĩrĩa mwathi wa Yiceraeri akiuga: Mwarikire ⟨את⟩ Mikaiahu, mũcookere kwa Amoni mũtonganania wa mucĩ, na kwa Yoaci mwana wa mwathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8c606c57510d272579012c93c9ffe41568b14f0b55810f96d0bf81bacf2e36dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/18\/25-25.1791270906647.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Mwarikire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikaiahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikaiahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "mũcookere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mũtonganania"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa mucĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoaci"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mwathi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:06.660969618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Kĩhibirania kĩtirĩ kĩgera kĩa 'kũbĩka'; nĩongeretwo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũtongoria",
+      "rationale": "arupi — אלוף ĩguo nĩ 'mwĩrĩ wa mũndũ, mũrũũrĩ'; 'mũtongoria' nĩ mũhiano wa mbarĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "atongoria",
+      "rationale": "mwerekere wa mbarĩ — ritwa rĩmwe thutha wa kingĩ"
+    }
+  ],
+  "translation": "Aci ⟨nĩ⟩ atongoria a a-Cori: mũtongoria Rotani, mũtongoria Cobari, mũtongoria Ciboni, mũtongoria Anahi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d07a60a7e5efe55122f6391ec8748517872c3ecdb41cccd8017ae90e72aa0e89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/36\/29-30.1791269284630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aci"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "a a-Cori"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mũtongoria"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Rotani"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mũtongoria"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Cobari"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mũtongoria"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Ciboni"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mũtongoria"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:04.638935188Z",
+  "model": "glm-5.3"
+}

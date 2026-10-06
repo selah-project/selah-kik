@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 39:3",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ĩenda wake \/ inyerere \/ ĩnjĩrĩre",
+      "rationale": "Kĩhibirania gĩtarĩ na ciugo cia gũcooka (reflexive\/reciprocal) — Gĩkũyũ nĩciagĩrĩirwo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũrathi",
+      "rationale": "הנביא — 'mũnabii' wa Kĩarabu ti Gĩkũyũ; mũrathi nĩ kiugo kĩa Gĩkũyũ gĩkiri"
+    },
+    {
+      "kind": "you",
+      "subject": "ĩerũ",
+      "rationale": "Yecayahu ĩũria Hizikiyahu mũmothe — mahoya ma direct address"
+    }
+  ],
+  "translation": "Nĩorire Yecayahu mũrathi akĩinya kwa mwathi Hizikiyahu, na akĩmũũria: Mĩeno-andũ macio maiũrire, na makũumarĩ kũĩ? Na Hizikiyahu akiuga: Kuuma thĩ ĩrĩ kwerũ nĩmaanĩrĩire inyerere, kuuma Babeli.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c6b51a7bae81c21944b77544593bbffcc3cd2a52c54fe4106d0b40e69cb60b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/39\/3-3.1791270131856.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akĩinya"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akĩmũũria"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ĩenda wake"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mĩeno"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "maiũrire"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "na kuuma kũĩ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "makũuma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ĩerũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "ĩrĩ kwerũ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nĩmaanĩrĩire inyerere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ĩnjĩrĩre"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "kuuma Babeli"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:11.867133804Z",
+  "model": "glm-5.3"
+}

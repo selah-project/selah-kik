@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עולם",
+      "rationale": "heb. 'ũtheri wa hĩndĩ ĩrĩ kũnyita-wa ti hinya' — kĩrĩkano kĩa thutha wa hĩndĩ ciothe, ti 'kĩrĩkanĩro kĩa milele' kwa mũgambo wa Kĩthwahĩri"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ואין רשע",
+      "rationale": "heb. 'na ti-arĩ mũrwao' — nĩgũcookeria kwa mũgambo wa kũhĩtũka, ta kĩheho kĩrĩa gĩthiĩ"
+    }
+  ],
+  "translation": "Ta ũgũthiĩ kũngĩhĩra kwa mbũra ya kĩheho, mũndũ mwoyo mũru tiarĩkũ; no mũcedeki nĩwe ciroko ya thutha wa hĩndĩ ciothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e72e75af57f5bccb8ecbe50d53ea5c4ac77992d9d3ccc7e17e3d1b49955a46a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/10\/25-25.1791270521955.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "ta ũgũthiĩ kũngĩhĩra"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "mbũra ya kĩheho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tiarĩkũ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũndũ mwoyo mũru"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "no mũcedeki nĩwe"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "ciroko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya thutha wa hĩndĩ ciothe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:41.958615857Z",
+  "model": "glm-5.3"
+}

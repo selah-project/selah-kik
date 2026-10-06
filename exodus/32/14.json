@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וינחם",
+      "rationale": "'repented\/relented' vs 'was sorry' — the Niphal of נחם rendered here as 'akĩnyihara mwoyo' (relented) rather than 'repented', avoiding later doctrinal loading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרעה",
+      "rationale": "'the evil\/calamity' — rendered 'ũru ũcio' (that harm), the sense of a threatened disaster rather than moral evil."
+    }
+  ],
+  "translation": "Na Yahwe akĩnyihara mwoyo harĩ ũru ũcio o oigire atĩ angĩkora andũ ariaake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "061461fb7cc8019179bef5e2143167c7877064a8a02995c340418196149ed029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/32\/14-14.1791269403505.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "akĩnyihara mwoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ũru ũcio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oigire"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "angĩkora"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "andũ ariaake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:03.508963805Z",
+  "model": "glm-5.3"
+}

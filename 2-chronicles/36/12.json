@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 36:12",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כנע מלפני",
+      "rationale": "'kũinamia magutu mbere ya' — nĩ ũgũtigwo nĩguo kwenegera; kĩugeranio gĩa Kĩhibirania kĩa kũhithda mbere ya ũthĩnjĩria."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũrathi",
+      "rationale": "הנביא — kiugo kĩa Gĩkũyũ kĩrĩa kĩgĩrĩirwo, ti 'nabii'."
+    }
+  ],
+  "translation": "Ndakaaga ũruku thĩinĩ wa maitho ma Yahwe Erohimu wake, ndaakenegera mbere ya Yeremia mũrathi, ũrĩa woigire kuuma kanua-inĩ ga Yahwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7f9204a14cfc69e5ce47cb88cd02eacfa7c4b0ce53acbc89d703925b5f791ddf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/36\/12-12.1791270914085.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ndakaaga"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ũruku"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaa-"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "-kenegera"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "kuuma kanua-inĩ ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:14.088093955Z",
+  "model": "glm-5.3"
+}

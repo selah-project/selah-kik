@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezekiel 40:41",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ithanjio",
+      "rationale": "Gĩkũyũ nĩgetha gĩtheri kĩhote, kiugo 'ithanjio' kĩongerwo kĩngĩ; Kĩhibirania nĩkĩo kĩmwe tu 'ciathinjagwo'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mecanjĩ mananya",
+      "rationale": "Kĩcunjĩ kĩgĩa kũbarua kwĩa: manne, manne, mananya — ũbarũri wa mecanjĩ ya kũinjia ithanjio"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לכתף השער",
+      "rationale": "Kĩhibirania kĩugaga 'kũrĩ kwati wa mũrarango' — nĩ mũhiano wa handũ hakĩo, ti kwati wa mũndũ"
+    }
+  ],
+  "translation": "Mecanjĩ manne kũu, na mecanjĩ manne kũu, thayathaya-inĩ ya kwati ya mũrarango; nĩ mecanjĩ mananya, harĩ icio ⟨ithanjio⟩ ithinjagwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "09d3c43801a3247eb721dd2fd3c965127378ced0eacf1b36e55bd382361af97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/40\/41-41.1791270311536.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "manne"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "mecanjĩ"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "na manne"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "mecanjĩ"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "thayathaya-inĩ ya kwati"
+    },
+    {
+      "surface": "השער",
+      "gloss": "mũrarango"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "mananya"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "mecanjĩ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "harĩ icio"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ithinjagwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:11.544733818Z",
+  "model": "glm-5.3"
+}

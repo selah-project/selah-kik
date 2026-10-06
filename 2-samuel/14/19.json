@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 14:19",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי נפשך",
+      "rationale": "kirathi kĩa Kĩhibirania kĩa kuhirĩria — 'moyo wakwa ũrĩ mũthingu' — nĩ kũuga 'ndingĩgica"
+    }
+  ],
+  "translation": "Mũthamaki akiuga: Nĩ moko ma Yowabu irĩ hamwe nawe maũndũ mothe macio? Mũtumia akarĩria na akiuga: Nĩguo hinya ũrĩa mwathi wakwa mũthamaki arĩ nacio, gũtirĩ kĩndũ kĩngĩhota kwĩrũmia kana kũhĩa kuuma ũrĩa mwathi wakwa mũthamaki aarokia — nĩgũkorwo mũtwĩ wakwa Yowabu nĩwe ũngĩanjĩrĩirie, nake we ekarerera kanua-inĩ kĩa mũthenji wakwa ⟨את⟩ ciugo ciothe ici.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "54c0930c22f77379fbf8a1c5116574efa8d4cdaf098eb5062ab2fdc34f824328",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/14\/17-19.1791269900371.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "היד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ma Yowabu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "hamwe nawe ⟨את⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "maũndũ mothe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "macio"
+    },
+    {
+      "surface": "ותען",
+      "gloss": "akarĩria"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ũrĩ mũthingu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moyo wakwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "gũtirĩ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "להמין",
+      "gloss": "kwĩrũmia"
+    },
+    {
+      "surface": "ולהשמיל",
+      "gloss": "kana kũhĩa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aarokia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtwĩ wakwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "anjiũrĩirie"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nake we"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ekarerera"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "kanua-inĩ"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "kĩa mũthenji wakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:20.382772458Z",
+  "model": "glm-5.3"
+}

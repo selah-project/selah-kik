@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩwe",
+      "rationale": "Gĩkũyũ ĩhithagĩra copula na mũtwe wa gĩcunjĩ kĩa kerĩ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũcookerithia wa ciugo",
+      "rationale": "מַזְכִּיר nĩ 'ũrĩa ookerithia' — office ya gũcookerithia maũndũ ma themundũ, ti 'recorder' mwerũ"
+    }
+  ],
+  "translation": "Na Yowabu mũrũ wa Ceruuya arĩ igũrũ rĩa mbũtũ, na Yehocafati mũrũ wa Ahirudi nĩwe mũcookerithia-inĩ wa ciugo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "3144f9a84078ba22e40c3a4aa91e59a98c94ee3fbc3c721cd985916fe84f041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/18\/15-15.1791270815350.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Na Yowabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "wa Ceruuya"
+    },
+    {
+      "surface": "על",
+      "gloss": "arĩ igũrũ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "rĩa mbũtũ"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "na Yehocafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "wa Ahirudi"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "mũcookerithia-inĩ wa ciugo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:35.356136440Z",
+  "model": "glm-5.3"
+}

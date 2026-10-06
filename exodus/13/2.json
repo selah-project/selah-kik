@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nyina",
+      "rationale": "רחם nĩ 'kĩgũa\/kĩanda' (womb); 'nyina' yaagĩrĩirwo nĩgũo mũhũrũre ũmeoneke, na mbere ya hĩndĩ ĩyo kĩgũa ti kĩa Gĩkũyũ kĩega"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moce",
+      "rationale": "Wathu ũyũ nĩ wa Yahwe kũrĩ Moce (mutũrĩre wa 13:1),ũmũthagĩrika atĩ nĩwe mũciarie"
+    },
+    {
+      "kind": "alternative",
+      "subject": "wa-mbere wothe",
+      "rationale": "כל בכור no ĩcoke ĩtuĩke 'mĩcĩ yothe ya mbere'; gũcokanĩra kwa כל\/כל (wothe...wothe) nĩ ya ma kuuma kĩhibirania"
+    }
+  ],
+  "translation": "Therithia kwakwa wa-mbere wothe, mũciarie wa ⟨את⟩ nyina, thĩinĩ wa ciana cia Yiceraeri, harĩ mũndũ na harĩ nyamu; kwakwa nĩyo wagwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "52dac1e0046e5d4941fc5ac956bde97cf140e0d6e008e75d2456430afc003a69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/13\/2-2.1791269342710.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Therithia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "wa-mbere"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "mũciarie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨mũciarie wa⟩"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "nyina"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "thĩinĩ wa ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "harĩ mũndũ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "na harĩ nyamu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩyo wagwo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:02.714328948Z",
+  "model": "glm-5.3"
+}

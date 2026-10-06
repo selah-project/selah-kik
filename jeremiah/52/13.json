@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרף ... שרף",
+      "rationale": "Kĩhibirania kĩagĩrĩrĩra kĩugo kĩu gĩkũrũ 'rũithia mũaki' mahinda eerĩ — kwĩrarĩria kwa mũhĩa, na Gĩkũyũ gĩkũhĩrĩirie ũguo."
+    },
+    {
+      "kind": "crux",
+      "subject": "כל בית הגדול",
+      "rationale": "KJJ 'houses of the great men' (aandũ anene) vs BSB 'every significant building' (nyũmba ci'nene) — nĩ nyũmba nene kana nyũmba cia andũ anene."
+    },
+    {
+      "kind": "elision",
+      "subject": "וישרף ... שרף",
+      "rationale": "Mwĩhumbo ũcio nĩ wa mũtambo tu; Gĩkũyũ ndũgĩcirĩrie kũgeria kwĩra ndũrĩ."
+    }
+  ],
+  "translation": "Na akĩrũithia ⟨את⟩ nyũmba ya Yahwe, na ⟨את⟩ nyũmba ya mwathi, na ⟨את⟩ nyũmba ciothe cia Yerucarayimu, na ⟨את⟩ nyũmba ciothe ci'nene akĩrũithia mũaki-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "698b2ca5de8acd5be339b1434f3e69e922a792073a4a844d0131c817da50ca56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/52\/13-13.1791270321748.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "akĩrũithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyũmba ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ya mwathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ciothe cia Yerucarayimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "cia Yerucarayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba ciothe ci'nene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ci'nene"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "akĩrũithia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mũaki-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:21.752869241Z",
+  "model": "glm-5.3"
+}

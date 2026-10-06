@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 13:1",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בית אל",
+      "rationale": "Rĩĩtwa rĩmwe rimwe — Betheeri; kiugo gĩa gĩthia kĩa rĩĩtwa gĩtirĩ kĩgloss gitĩrĩ."
+    },
+    {
+      "kind": "addition",
+      "subject": "macianĩ",
+      "rationale": "להקטיר nĩ 'gũhinjia' — 'macianĩ' nĩongereirwo nĩgeetha maũndũ maronke."
+    }
+  ],
+  "translation": "Na rũciũ, mũndũ wa Erohimu nĩakuũkĩte kuuma Yahuda, na kĩrĩra kĩa Yahwe, akĩkinya Betheeri; na Yarobohamu agĩtikĩrĩre igũrũ rĩa mũgiro, athiaga kũhinjia macianĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "aaa6cdb4a2266f63b05db7ac04e6ba3fc77e26ac42edbb3a95d6a51fdc48ba25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/13\/1-4.1791270027233.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Na rũciũ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩakuũkĩte"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "kuuma Yahuda"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "na kĩrĩra kĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akĩkinya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betheeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "na Yarobohamu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "agĩtikĩrĩre"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mũgiro"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "kũhinjia macianĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:27.236860375Z",
+  "model": "glm-5.3"
+}

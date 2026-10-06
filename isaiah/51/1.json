@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "arĩa mũtheri cedeki",
+      "rationale": "Yahwe arũmĩrĩria arĩa maarĩ kũtheri cedeki — arũmĩrĩria andũ arĩa makwenda"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ĩhũrũranĩ ... ũrorei",
+      "rationale": "Ciugo cia kũherithia andũ mari kũigua na kũrora"
+    },
+    {
+      "kind": "elision",
+      "subject": "harĩa",
+      "rationale": "Eb rĩa Kĩhibirania ti kĩngĩ ũguo kana 'whence' — kĩonekaga ta 'kũrĩa kĩa kũhuma kũa mũruti'"
+    }
+  ],
+  "translation": "Ĩhũrũranĩ ng'inĩ ngwanya, arĩa mũtheri cedeki, arĩa mũrorete Yahwe; ũrorei mũruti harĩa mwatumĩtwo, na harĩa mwarungĩtwo ⟨kĩooro kĩa kitũĩra⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0f9a4db4b8483aa235f6f087f122d8c5e3638d3fa4f2d8d3c8a5057d7e9a1acd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/51\/1-3.1791270192902.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ĩhũrũranĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ng'inĩ ngwanya"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "arĩa mũtheri"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeki"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "arĩa mũrorete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "ũrorei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "mũruti"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "mwatumĩtwo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na harĩa"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "kĩooro"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kĩa kitũĩra"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "mwarungĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:12.917586482Z",
+  "model": "glm-5.3"
+}

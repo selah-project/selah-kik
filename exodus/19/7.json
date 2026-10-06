@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לקראלזקני",
+      "rationale": "'akĩhoya atĩa' — Heb ni 'gũita rĩĩtwa' cia acio arĩa cikũrũ; mũhiano wa 'gũkũra' ũtagĩrĩkũigua nĩgeetha 'cikũrũ' ihote kuuma 'מוסיף'."
+    },
+    {
+      "kind": "addition",
+      "subject": "imwe yao",
+      "rationale": "Heb לפניהט 'mbere maro\/ndũaro-ini'; 'imwe yao' kĩngERE gitahotanĩte na Gikuyu."
+    }
+  ],
+  "translation": "Moce agĩĩka, akĩhoya atĩa arĩa cikũrũ a andũ, akĩbatha imwe yao ⟨את⟩ ciugo ici ciothe izĩo Yahwe amwĩrire.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "89c33313a00ae9a3abbf450d54e749128ec2d906f8627bd052f2d9863b4f70b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/19\/7-7.1791269347618.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "agĩĩka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩhoya"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "atĩa arĩa cikũrũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a andũ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akĩbatha"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "imwe yao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo ici ciothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izĩo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "amwĩrire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:07.624065335Z",
+  "model": "glm-5.3"
+}

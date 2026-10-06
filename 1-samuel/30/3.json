@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "העיר",
+      "rationale": "Not directly in existing renderings, presumably omitted from the translation drafts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hĩtũkĩtwo",
+      "rationale": "hĩtũkĩtwo and yaarĩ yaacĩrĩtwo are best guesses given lack of proper Kikuyu equivalents"
+    }
+  ],
+  "translation": "Nĩgarũkie Dawidi na andũ ake ahĩtũkĩte mwaki, na atumĩte aca, na arĩa ake, na aina ake, macokĩre ũthĩnjĩte na yaarĩ yaacĩrwo na thaa cia kiumia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "59a3c46f60b9258655eb9ca17b50d27cf9b8a80cd22c17875106a078c176db17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/30\/3-3.1791269851840.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nĩgarũkie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "andũ ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ ũyũ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũciaro"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "ĩrĩkĩtwo na thĩĩ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na mwaki"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "na atumia ao"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na aana ao"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "na aka araika"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ĩĩgwo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:31.841470244Z",
+  "model": "glm-5.3"
+}

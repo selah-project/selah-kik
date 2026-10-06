@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "isaiah 10:33",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פארה",
+      "rationale": "Foliage\/branches — appears only here in the Tanakh; rendered 'mata'."
+    },
+    {
+      "kind": "crux",
+      "subject": "במערצה",
+      "rationale": "Root meaning 'violence\/terror'; KJV 'with terror', YLT 'with violence' — rendered 'na hinya nene'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רמי הקומה \/ ישפלו",
+      "rationale": "Rise\/fall chiasm: the raised-up are cut down, the lofty humbled — the height\/lowness inversion is kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copula nĩ- supplied for Gĩkũyũ clause structure; Hebrew lacks it."
+    }
+  ],
+  "translation": "Ona, Adonai, Yahwe Cebaoti, nĩakĩhĩa ⟨את⟩ mata na hinya nene; na arĩa mang'ĩtwo mũethe-nĩ nĩmahĩtwo, na arĩa maingĩ igũrũ magũcooka thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e17283f9f2d8fab04646c65d7b468328ad03229878cec506b99de69b3aa5fe7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/10\/33-33.1791270149288.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "מסעף",
+      "gloss": "nĩakĩhĩa"
+    },
+    {
+      "surface": "פארה",
+      "gloss": "mata"
+    },
+    {
+      "surface": "במערצה",
+      "gloss": "na hinya nene"
+    },
+    {
+      "surface": "ורמי",
+      "gloss": "na arĩa mang'ĩtwo"
+    },
+    {
+      "surface": "הקומה",
+      "gloss": "mũethe-nĩ"
+    },
+    {
+      "surface": "גדועים",
+      "gloss": "nĩmahĩtwo"
+    },
+    {
+      "surface": "והגבהים",
+      "gloss": "na arĩa maingĩ igũrũ"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "magũcooka thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:29.302740603Z",
+  "model": "glm-5.3"
+}

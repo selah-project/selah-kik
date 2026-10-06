@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 6:6",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצה",
+      "rationale": "'mĩtĩ' (miti ya kũringa) vs tũgĩrĩtwo ta 'mwanya\/watho' — matukũ ma thaata ciatũũraga hapararia ya mbere ya kũringithania; 'mĩtĩ mĩraya' nĩ gũtaũra kwa kwĩhokia."
+    },
+    {
+      "kind": "crux",
+      "subject": "הפקד",
+      "rationale": "Paqad: 'kũhonorwo' (kũhũthwo) vs 'kũcumwo' vs 'kũũranwo' — KJV 'to be visited', JPS 'to be punished'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סללה",
+      "rationale": "Kiugo kĩa kĩngeretha kĩa kũringa; 'kĩringi kĩa kũringa' nĩ gũtaũra kwagĩrĩirwo, ti kĩugo kĩmwe."
+    },
+    {
+      "kind": "you",
+      "subject": "kũrĩ aũrĩri maũndũ",
+      "rationale": "Watho wa Yahwe Cebaoti ũrĩa wathĩnjiirio andũ a kũringa Yerucarayimu, ndũrĩrĩ cia kũhũrwo."
+    }
+  ],
+  "translation": "Nĩgũkorwo Yahwe Cebaoti oigĩte ũguo: Mĩtĩ mĩraya ithĩnjwe, na kĩringi gĩa kũringa gĩkĩrwo gĩgũrũ rĩa Yerucarayimu; ũyũ nĩ gĩtũ kĩrĩa kĩagĩrĩirwo kũhonorwo, kĩnaigana kĩothe nĩ kũhunjia thĩinĩ wayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9efef2b257f15d4b222a70f8dae786a323a30fcfa6fe0b4c73ffde4d796319ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/6\/6-6.1791270241761.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "ithĩnjwe"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "mĩtĩ mĩraya"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "gĩkĩrwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "gĩgũrũ rĩa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "kĩringi kĩa kũringa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gĩtũ"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "kĩagĩrĩirwo kũhonorwo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kĩothe"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "kũhunjia"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "thĩinĩ wayo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:01.774024575Z",
+  "model": "glm-5.3"
+}

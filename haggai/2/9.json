@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "haggai 2:9",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thayũ",
+      "rationale": "שלום nĩ kĩingo kĩmwe kĩa thayũ, ũhoro mwega, na kũhinga — ti thayũ tu"
+    },
+    {
+      "kind": "addition",
+      "subject": "rĩa ya mbere",
+      "rationale": "Kĩgĩko kĩa kũgerania kĩongĩtwo nĩgeetha mbere-nene yoneke"
+    }
+  ],
+  "translation": "Gebi rĩa nyũmba ĩno ya mũthia nĩgũtuĩka nene kũgeri rĩa ya mbere, Yahwe Cebaoti oigĩte; na harĩ kũndũ gũku nĩndĩngatha thayũ, Yahwe Cebaoti oigĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "70e4cc0fe2758aa16c69219e070196cfe7f1430315e7217d532af1ca6b29c48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/haggai\/2\/9-10.1791270425448.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgũtuĩka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gebi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rĩa nyũmba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "ya mũthia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kũgeri"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya mbere"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "na harĩ kũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gũku"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nĩndĩngatha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayũ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:05.452567026Z",
+  "model": "glm-5.3"
+}

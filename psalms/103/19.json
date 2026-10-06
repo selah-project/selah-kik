@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kĩgongo",
+      "rationale": "כסא nĩ kĩandĩro kĩa mwathi kĩarĩ na kanyigi; kĩgongo kĩa ũthamaki nĩ mũhiano wa Gĩkũyũ"
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩkuo",
+      "rationale": "משלה nĩ ciugo itatũhĩte kĩguni kĩmwe harĩ mbaara ĩrĩa ĩrĩ mbere na thutha"
+    }
+  ],
+  "translation": "Yahwe nĩematire ⟨את⟩ kĩgongo kĩake igũrũ-inĩ, na ũthamaki wake harĩ indo ciothe nĩkuo wĩiyũrire.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "92b3081be3ff18b10f62cfdc17a305ea2ab5f40a099954fb3e609276ad567437",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/103\/19-19.1791270460443.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "igũrũ-inĩ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nĩematire"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kĩgongo kĩake"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "ũthamaki wake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "harĩ indo ciothe"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "nĩkuo wĩiyũrire"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:40.453463669Z",
+  "model": "glm-5.3"
+}

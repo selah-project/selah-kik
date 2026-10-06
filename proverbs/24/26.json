@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ \/ ũrĩa",
+      "rationale": "Kĩhibirania kĩtarĩ na kiyuko kĩa 'nĩ' na 'ũrĩa'; Gĩkũyũ gĩkĩhĩtũkĩte"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפתים ישק",
+      "rationale": "Kĩng'Era kĩa mbere kĩa 'matukũ' kĩgĩtũmwo megithũkĩ nĩguo kĩehereria kĩndũ kĩacio — kĩaho kĩayeha gĩtarĩkia"
+    },
+    {
+      "kind": "crux",
+      "subject": "משיב דברים נכחים",
+      "rationale": "Andũ aingĩ a taũri mehĩtia: kuma kuuma 'ũrĩa oigĩte' gĩkĩrũmwo kinya 'ũrĩa woigĩte mciario' — KJV, JPS metĩkĩtie 'kũheana mciario mwega'"
+    }
+  ],
+  "translation": "Matukũ nĩmakwaranĩririo nĩ ⟨ũrĩa⟩ oigĩte mciario ma ndũhĩro.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "64dd5838e92a203dd92d3d1462e6897e9c921ecbd3d469e87aac5b52039a095c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/24\/26-26.1791270538354.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "matukũ"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "nĩmakwaranĩririo"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mciario"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ma ndũhĩro"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:58.357776211Z",
+  "model": "glm-5.3"
+}

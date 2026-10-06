@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 28:26",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ũcio",
+      "rationale": "Gĩkũyũ ithagĩrĩra kĩongerera gĩa kũonania mbere ya mĩciĩ cia ũndũ mũna; Kĩhibirania gĩtarĩ nako"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mbere",
+      "rationale": "מלאכת עבדה — 'icunjĩ cia mĩciĩ ũcio' nĩ gũcokereria kwa mahũthagĩro ga mahiũ marĩa magĩtĩrĩiruo ma thĩinĩ wa ciugo cia kĩrĩkanĩro"
+    }
+  ],
+  "translation": "Na thĩinĩ wa mũthenya wa ibukuri, rĩrĩa mũrehe minaha njerũ kwa Yahwe, thĩinĩ wa mbere cia anywe, kũgeranio gwa ũtheru kũngĩkorwo kwa nyinyi; icunjĩ cia mĩciĩ ũcio ciothe ndĩmũciĩre.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f9ace17c9681d1bd467660ea62034d4dc65f528d8ca0303015ecc0d639f17549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/28\/26-26.1791269567864.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Na thĩinĩ wa mũthenya"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "wa ibukuri"
+    },
+    {
+      "surface": "בהקריבכם",
+      "gloss": "rĩrĩa mũrehe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "njerũ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "בשבעתיכם",
+      "gloss": "thĩinĩ wa mbere cia anywe"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "kũgeranio"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "gwa ũtheru"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kũngĩkorwo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwa nyinyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "icunjĩ ciothe"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "cia mĩciĩ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mũciĩre"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:47.872972761Z",
+  "model": "glm-5.3"
+}

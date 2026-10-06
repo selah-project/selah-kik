@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 3:22",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "itũũra rĩa mũaki",
+      "rationale": "אתונא (itũũra rĩa mũaki, tanũru) — kiugo kĩa Aramaic kĩa mahiga ma mũaki; kwa Gĩkũyũ kĩarahũkĩtwo ta kĩundũ kĩmwe."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחצפה",
+      "rationale": "Kiugo gĩkĩ kĩa Aramaic kĩonekana tanũ o harĩ kĩcunjĩ kĩa Danieri 3:22 — 'kĩagĩrĩru, gĩtarĩ kĩa kũhithio'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הסקו",
+      "rationale": "Nesak 'gũcoka gũcooka\/kwĩhĩtĩka' — JPS 'arĩa maageithĩkĩtie' handũ ha 'arĩa maarutĩte mbere ya'."
+    },
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Copula ciongerwo mwena-inĩ wa ואתונā nĩgetha rĩrĩa-rĩrĩ rĩhonokage."
+    }
+  ],
+  "translation": "Rĩrĩa o ũndũ ũcio wa kĩongo kĩa mũthamaki kĩarĩ gĩkĩgĩrĩru, na itũũra rĩa mũaki rĩarĩ rĩanainuo mũno, ndaka ya mũaki nĩĩhootire andũ arĩa maageithĩkĩtie Shadiraki, Meyicaki na Abedi-Negoo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e85ecfb0af93ab91f04ee0a537d02497466ec9b403f6b33e6355241708e9c53e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/3\/22-22.1791270702337.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ũndũ wa"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "מלת",
+      "gloss": "kĩongo"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kĩa mũthamaki"
+    },
+    {
+      "surface": "מחצפה",
+      "gloss": "kĩagĩrĩru"
+    },
+    {
+      "surface": "ואתונא",
+      "gloss": "na itũũra rĩa mũaki"
+    },
+    {
+      "surface": "אזה",
+      "gloss": "rĩanainuo"
+    },
+    {
+      "surface": "יתירא",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "andũ arĩa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "maageithĩkĩtie"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הסקו",
+      "gloss": "maageithĩkĩtie"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadiraki"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyicaki"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "na Abedi-Negoo"
+    },
+    {
+      "surface": "נגו",
+      "gloss": ""
+    },
+    {
+      "surface": "קטל",
+      "gloss": "nĩĩhootire"
+    },
+    {
+      "surface": "המון",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שביבא",
+      "gloss": "ndaka"
+    },
+    {
+      "surface": "די",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mũaki"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:42.341566454Z",
+  "model": "glm-5.3"
+}

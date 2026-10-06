@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבא חמת",
+      "rationale": "KJV 'as men come to Hamath' vs 'Lebo-hamath' as a place-name; rĩraya nĩ yo ya gũciarĩkia Hamathi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "moani wa Cini nginya Rehobo",
+      "rationale": "Kĩngomi kĩa thĩ kĩonjorithio ni ndemwa ĩrirĩ — mbere na thutha wa gũcunjĩ."
+    }
+  ],
+  "translation": "Magĩrĩo nao makĩrũa igũrũ, makĩthambanĩrĩra ⟨את⟩ thĩ, kuuma moani wa Cini nginya Rehobo, kũinjĩra hamwe na Hamathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "acf0ff49492aef205610f7ff29241c94bfcc2cfbe30569ea025784ae1ca51d32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/13\/21-21.1791269553552.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "makĩrũa igũrũ"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "makĩthambanĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kuuma moani"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Cini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobo"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "kũinjĩra"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamathi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:33.557653567Z",
+  "model": "glm-5.3"
+}

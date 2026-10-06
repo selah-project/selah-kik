@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "erani…mũrigari",
+      "rationale": "Kũinana kwa andũ — kũgeria kwa Andũ-a-Ngai nĩ kũringanĩra kwa mĩrigari, kuuma rũciaro rwa gũthini kũgĩa na rũciaro rwa igũrũ rwa bũrũri."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨theo⟩",
+      "rationale": "Kĩhibirania kĩrĩ kĩungũ kĩa kĩheo; Gĩkũyũ gĩkũruta gĩcunjĩ kĩa gũcoora hĩndĩ ya kũratha kwa mĩrigari kana kĩheo kĩrĩa kĩongeretwo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũrigari",
+      "rationale": "מספר nĩ kũringanĩra kwa ma; mũrigari nĩ gĩcunjĩ kĩa kũringanĩra kwa Gĩkũyũ kĩrĩa kĩhakanĩte na mĩrigari ya andũ."
+    }
+  ],
+  "translation": "Dawidi akĩuga kwa Yowabu na kwa athamaki a andũ: Thieni, erani ⟨את⟩ Yiceraeri kuuma Beeri-Ceba ithũĩro ya Dani, mũrehe ⟨theo⟩ kũrĩ ngĩ, ngĩmenye ⟨את⟩ mũrigari wao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "20ef08b337752d71e4d11efecdf22abdd5ef206afecbdc00142cbc7f76477f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/21\/2-2.1791270829688.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Thieni"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "erani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiceraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "kuuma Beeri-Ceba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beeri-Ceba"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ithũĩro ya"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "mũrehe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kũrĩ ngĩ"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ngĩmenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũrigari wao"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "mũrigari wao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:49.690927361Z",
+  "model": "glm-5.3"
+}

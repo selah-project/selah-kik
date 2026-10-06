@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ithano ngiri ithatu",
+      "rationale": "Ambage nthĩro ĩrĩ menyo na kũrora rwĩmbo — kĩgeranio kĩa mĩhemba ya heikari."
+    },
+    {
+      "kind": "crux",
+      "subject": "האילים",
+      "rationale": "Ta 'miathi mĩthiomi' (pillars\/posts) kana 'matu matiganĩte' (jambs) — andũ methanĩrire na kĩhooto kĩa kwaria hĩndĩ ya kĩrĩranĩro kĩa Ambru 40-43."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מפו ... מפו",
+      "rationale": "Ta 'kuuma harĩ ... kuuma harĩ' — no no tuĩke 'hĩndĩ ĩmwe ... hĩndĩ ĩngĩ' kana 'kũo gũtarĩ ... kũo gũkũ' niĩmbere ya ohere."
+    }
+  ],
+  "translation": "Akĩnjinia nthĩro-inĩ ya heikari, akĩrora ⟨את⟩ miathi ĩrĩa mĩthiomi: ithano ngiri ithatu ginya ithano ngiri ithatu itariũ, na itariũ ya ⟨את⟩ ohere, rĩngi ithano ngiri ithatu itariũ kuuma harĩ, na ithano ngiri ithatu kuuma harĩ kũgũrũkĩra — ũcio nĩyo itariũ ya hema.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7c02c1b0b0116c318ecaf56737d41f5c793d2e79e069465added4d35e836f372",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/41\/1-1.1791270296061.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "akĩnjinia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "akĩrora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miathi ĩrĩa mĩthiomi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "miathi ĩrĩa mĩthiomi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngiri ithatu"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "itariũ"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "kuuma harĩ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngiri ithatu"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "itariũ"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "kuuma harĩ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "itariũ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:56.068900278Z",
+  "model": "glm-5.3"
+}

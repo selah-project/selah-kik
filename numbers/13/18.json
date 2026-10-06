@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the spies",
+      "rationale": "Moce address the twelve men sent to spy, imperatives direct."
+    },
+    {
+      "kind": "measurement",
+      "subject": "spying questions",
+      "rationale": "verse is a list of sizing questions — good\/bad, strong\/weak, few\/many."
+    },
+    {
+      "kind": "substitution",
+      "subject": "marũeha",
+      "rationale": "הרפה is 'slack\/feeble' in body or mind; rendered with Gĩkũyũ 'rũeha' (weak)."
+    }
+  ],
+  "translation": "Na mũrone ⟨את⟩ nthĩ nĩ ĩrĩkũ, na ⟨את⟩ andũ arĩa maikarĩte igũrũ wayo — nĩ mahinya kana marũeha, nĩ makĩrĩ macio kana maingĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "21a458f2f0860cb038dfe4c27804670dd02d920e6b1972ebb1b7c80ee82a3237",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/13\/18-18.1791269484077.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Na mũrone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nthĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nthĩ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩ ĩrĩkũ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ ĩrĩkũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "arĩa maikarĩte"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "igũrũ wayo"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "mahinya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "marũeha"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "makĩrĩ macio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "maingĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:24.083303516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "inywe",
+      "rationale": "Direct address to Judah and Jerusalem, the verse's addressees throughout the speech."
+    },
+    {
+      "kind": "substitution",
+      "subject": "athamaki",
+      "rationale": "עבדים rendered 'athamaki' (servants); kik uses mũrathi for the prophets themselves."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הטיתם אזנכם",
+      "rationale": "Hebrew 'stretch your ear' = pay attention; Gĩkũyũ keeps the bending-of-ear picture with mĩtuũ."
+    }
+  ],
+  "translation": "Na Yahwe nĩatũmĩte kũrĩ inywe ⟨את⟩ arĩa a athamaki ake thehu, agĩĩcooka ũmũthĩ na kũnatũma, na inywe ndĩmũthĩĩrire, na mĩtuũ inywe ndĩmũgetire kũgũthĩrĩria.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d77d3bb997c9204d7a055d03cefc41649ad064315a45595ddb383076523bc159",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/25\/4-4.1791270234672.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "nĩatũmĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kũrĩ inywe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa a athamaki ake thehu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "thehu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "athamaki ake"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "arĩa a"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "agĩĩcooka ũmũthĩ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "na kũnatũma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ndĩmũthĩĩrire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "ndĩmũgetire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩtuũ inywe"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "mĩtuũ inywe"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kũgũthĩrĩria"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:54.690244881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 7:37",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Kĩhibirania kĩtirĩ na kiugo kĩgeranio gĩa 'nĩ' kiumbĩte mũhuro wa 'nĩ minaha'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "cekeri",
+      "rationale": "Kĩhooto kĩa cekeri 130 na 70, kĩgeranio gĩa ũtheru — kĩrutanĩrio kĩa maũndũ"
+    }
+  ],
+  "translation": "Kĩheo gĩake: kĩahu kĩmwe kĩa feza, kĩyĩrĩra cekeri thikũrĩ na ĩthagathi, mũcatho ũmwe kĩa feza, cekeri mũrongo ĩrĩ, na cekeri ya ũtheru; ibiri cĩaĩo cĩĩmara ndano ya coboragwo na mĩthako, nĩ minaha.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "114680d5856caad0fd3c47750e4079fa0951da3bb329a4649f444a10b882a4c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/7\/37-37.1791269471545.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "Kĩheo gĩake"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "kĩahu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kĩa feza"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thikũrĩ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na ĩthagathi"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "kĩyĩrĩra cekeri"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "mũcatho ũmwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kĩa feza"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mũrongo ĩrĩ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "cekeri"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "na cekeri ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ibiri cĩaĩo"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "cĩĩmara"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ndano"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ya coboragwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mĩthako"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "nĩ minaha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:11.550167733Z",
+  "model": "glm-5.3"
+}

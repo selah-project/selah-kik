@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "numbers 7:61",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "cekeri makumi matatũ na kĩmwe kĩa ngiri ĩmwe",
+      "rationale": "Mĩtare ya kĩheo ĩrĩkonerithia: 130 cekeri, 70 cekeri, kwa cekeri ya ũtheru."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minaha",
+      "rationale": "למנחה nĩ minaha — kĩheo kĩa kũringĩra; ti 'igooti' kana 'kĩheo' o kĩrĩa kĩrĩkũ."
+    },
+    {
+      "kind": "addition",
+      "subject": "yo",
+      "rationale": "Kiugo 'yo' kĩongererwo kũonereria minaha nĩ kĩa kĩheo kĩu."
+    }
+  ],
+  "translation": "Kĩheo gĩake: kaara ĩmwe ya cethĩkũ, mũtare wayo cekeri makumi matatũ na kĩmwe kĩa ngiri ĩmwe; kirathi kĩmwe kĩa cethĩkũ, cekeri mũrongo ĩrĩ na ikũmi, kwa cekeri ya ũtheru; ĩrĩ ciayo cĩĩnjĩte ciamata ciatwaranĩtio na mafuta, yo minaha.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "26ce23ccee084453e966f9af46a5d96b8722e9037ad93a8b38b089addb258950",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/7\/61-61.1791269484349.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "kĩheo gĩake"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "kaara"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya cethĩkũ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatũ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na kĩmwe kĩa ngiri ĩmwe"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "mũtare wayo"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "kirathi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kĩa cethĩkũ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "mũrongo ĩrĩ na ikũmi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "cekeri"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "kwa cekeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya ũtheru"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ĩrĩ ciayo"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "cĩĩnjĩte"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ciamata"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ciatwaranĩtio"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "yo minaha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:24.353440435Z",
+  "model": "glm-5.3"
+}

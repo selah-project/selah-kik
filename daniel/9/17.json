@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 9:17",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "copula\/conjunction required by Gĩkũyũ for the imperative chain, Hebrew has waw on והאר only"
+    },
+    {
+      "kind": "substitution",
+      "subject": "waaherithĩtio",
+      "rationale": "השמם 'ruined\/desolate' rendered as 'that was destroyed' — the desolation picture kept"
+    },
+    {
+      "kind": "crux",
+      "subject": "nĩ ũndũ wa Adonai",
+      "rationale": "למען אדני 'for the sake of Adonai' — some read it with what precedes (sanctuary desolate for Adonai's sake), others as ground of the petition"
+    },
+    {
+      "kind": "invitation",
+      "subject": "thigĩrirĩra",
+      "rationale": "imperatives of petition addressed directly to Erohimu"
+    }
+  ],
+  "translation": "Na rĩũ, Erohimu wĩtũ, thigĩrirĩra thabari ya mũtũmito waku na mahoya make, na ũtherie kĩehere gĩaku thĩinĩ wa Micikani waku ũrĩa waaherithĩtio, nĩ ũndũ wa Adonai.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "445f6c447917985df34d0c324e44e55cc7254cafbe2d8c7a3a1e9739fc04382d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/9\/17-17.1791270721371.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Na rĩũ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "thigĩrirĩra"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wĩtũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "thabari ya"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtũmito waku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũ"
+    },
+    {
+      "surface": "תחנוניו",
+      "gloss": "mahoya make"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "na ũtherie"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kĩehere gĩaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "Micikani waku"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "ũrĩa waaherithĩtio"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:01.372223062Z",
+  "model": "glm-5.3"
+}

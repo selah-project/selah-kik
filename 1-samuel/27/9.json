@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "themba",
+      "rationale": "הארץ gĩa mũthemba-inĩ wa kũhahamũra nĩ 'themba' kũgĩa na ũhoro wa kũndũ, ti 'thĩ' yothe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש ואשה",
+      "rationale": "mũndũ\/mũka — Gĩkũyũ gĩtirĩ mũhiano wa ciana-cia-ciugo ũrĩa Kĩhibirania kĩa איש\/אשה kĩrĩ"
+    }
+  ],
+  "translation": "Na Dawidi akĩhahamũra ⟨את⟩ themba, na ndahonokia mũndũ kana mũka, na akĩtua ng'ondu, na ng'ombe, na ndigĩrĩ, ũngamĩra na nguo, akĩcooka akĩũmbũka rĩu Akicĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cebbb2825d6f7600ce948cd60b2285c0186952a7e57dcd0c98efbcea6052f99d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/27\/9-9.1791269802814.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "akĩhahamũra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "themba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "themba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na nda-"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "honokia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "kana mũka"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "akĩtua"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ndigĩrĩ"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ũngamĩra"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩcooka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akĩũmbũka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akicĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:42.816417588Z",
+  "model": "glm-5.3"
+}

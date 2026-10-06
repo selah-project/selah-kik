@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 11:2",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩngakĩranĩra",
+      "rationale": "כרת 'kũreta' — Kĩhibirania kĩuga 'kũreta kĩrĩkanĩro', na Gĩkũyũ kĩrĩkanĩro kĩretwo nĩ kwoigire kĩrĩa kĩrĩ thutha"
+    },
+    {
+      "kind": "crux",
+      "subject": "בזאת אכרת",
+      "rationale": "KJV 'on this condition' irĩgĩrĩirie; Hebrew nĩ ĩũndũrũmanu — 'MWAKI-inĩ ũyũ nĩngakĩranĩra' gũturĩ na 'condition' kana 'treaty' mũthenya ũmwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרת \/ נקר",
+      "rationale": "mũhiano wa mĩena ĩĩrĩ: kũreta kĩrĩkanĩro na kũreta (kũkwũra) iniwe — ciugo igĩrĩ cia 'kũreta' ihĩtĩrĩirie mũgambo wa mbaara"
+    }
+  ],
+  "translation": "Nahaci Mwamoni akiuga macio: Mwaki-inĩ ũyũ nĩngakĩranĩra na inywe, nĩngakwũra iniwe ithuĩ o yĩmwe ya monyũ, ndĩkaiguithia itũũra riembura-rĩu thĩinĩ wa Yiceraeri yothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "46fe6e1cf56c62bd63cd65550578c93a97c7e006b8cce36fd8c9e04303635cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/11\/2-2.1791269770230.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "macio"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahaci"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Mwamoni"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Mwaki-inĩ ũyũ"
+    },
+    {
+      "surface": "אכרת",
+      "gloss": "nĩngakĩranĩra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na inywe"
+    },
+    {
+      "surface": "בנקור",
+      "gloss": "nĩngakwũra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iniwe ithuĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "עין",
+      "gloss": "yĩmwe ya monyũ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ya kũrigo"
+    },
+    {
+      "surface": "ושמתיה",
+      "gloss": "ndĩkaiguithia"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "riembura-rĩu"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:10.231999183Z",
+  "model": "glm-5.3"
+}

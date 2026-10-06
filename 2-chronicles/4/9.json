@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 4:9",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kĩanda",
+      "rationale": "Gĩkũyũ ĩtereta gĩcunjĩ kĩa kĩanda kĩa mahunjĩri; Kĩhibirania kĩrĩ kĩugo kĩmwe gĩa kũgera"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mahunjĩri",
+      "rationale": "כהנים nĩ 'arĩa mahunjĩra' — kĩugo gĩa Gĩkũyũ kĩkiri gĩtarĩ kĩrĩ kĩa maũndũ ma ũthanjĩri"
+    }
+  ],
+  "translation": "Nĩathondekĩte ⟨kĩanda⟩ kĩa mahunjĩri, na kĩanda gĩkũru, na mĩrarĩ ya kĩanda kĩu, na mĩrarĩ yacio nĩĩcingĩtie na ♦cũha.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d7e2d3c6b4a12e0642c6c260631908d32b6de2dc59289f878205399a5ebecbd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/4\/9-9.1791270856085.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nĩathondekĩte"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "kĩanda"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kĩa mahunjĩri"
+    },
+    {
+      "surface": "והעזרה",
+      "gloss": "na kĩanda"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "gĩkũru"
+    },
+    {
+      "surface": "ודלתות",
+      "gloss": "na mĩrarĩ"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ya kĩanda kĩu"
+    },
+    {
+      "surface": "ודלתותיהם",
+      "gloss": "na mĩrarĩ yacio"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "nĩĩcingĩtie"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "cũha"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:16.089175756Z",
+  "model": "glm-5.3"
+}

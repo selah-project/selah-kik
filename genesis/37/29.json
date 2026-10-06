@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקרע את בגדיו",
+      "rationale": "Gĩkũyũ 'kũrarithia nguo' — kũinania nguo nĩ mũgate wa kĩeha wa Kĩhibirania."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבור \/ בבור",
+      "rationale": "Ciaro kĩugo kĩmwe kĩrarĩtwo mbere na gũcooka — mũhiananio wa mahinya ũrĩa wathikĩte kwa Gĩkũyũ."
+    }
+  ],
+  "translation": "Nake Reubeni agĩcooka iyũrĩra ciiaro-inĩ, na rũciarũ nĩ atĩrĩ: Yocerefu ti harĩ ciiaro-inĩ; nĩamokire kũrarithia ⟨את⟩ nguo cake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "964e0a6fbf1a4039647ef66ad2f4aea94f02c1765e5790e595d7682102f3c761",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/37\/29-29.1791269260246.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "agĩcooka"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iyũrĩra"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ciiaro-inĩ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũciarũ nĩ atĩrĩ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti harĩ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocerefu"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ciiaro-inĩ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "nĩamokire kũrarithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguo cake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "nguo cake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:40.250556707Z",
+  "model": "glm-5.3"
+}

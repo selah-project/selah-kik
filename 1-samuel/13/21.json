@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 13:21",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפצירה פים",
+      "rationale": "Crux: פים (pim) nĩ ithimu ya thaahu-iria cekeri; JPS yaona 'gĩtheri kĩa kũinia nĩ pim', KJV yaona pim nĩ 'faili' (kĩhora kĩa kũinia)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פים",
+      "rationale": "Ithimi ĩrĩa ĩĩtagwo pim nĩyonagwo ha ũmwe tu thĩinĩ wa Tanakh, harĩ ino rĩandĩko."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩhooti",
+      "rationale": "דרבן nĩ mũtĩ wa kũhoota ng'ombe thĩinĩ wa gũthii; 'kĩhooti kĩa ng'ombe' nĩgũonania kĩũmbe kĩayo."
+    }
+  ],
+  "translation": "Na gĩtheri kĩa kũinia kwarĩ pim — ya macimbe, na ya mahũmũ, na ya kĩgandi kĩa mĩena ĩtatũ, na ya mĩcando, na ya kũtũngĩra ⟨kĩhooti⟩ kĩa ng'ombe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a133f8a90595bba30f05896a60b39f23705b4efd0ab6dd2651845f2febce73b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/13\/21-21.1791269834155.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וֽהָיְתָ֞ה",
+      "gloss": "kwarĩ"
+    },
+    {
+      "surface": "הַפְּצִירָ֣ה",
+      "gloss": "kũinia"
+    },
+    {
+      "surface": "פִ֗ים",
+      "gloss": "pim"
+    },
+    {
+      "surface": "לַמַּֽחֲרֵשֹׁת֙",
+      "gloss": "ya macimbe"
+    },
+    {
+      "surface": "וְלָ֣אֵתִ֔ים",
+      "gloss": "na ya mahũmũ"
+    },
+    {
+      "surface": "וְלִשְׁלֹ֥שׁ",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "קִלְּשׁ֖וֹן",
+      "gloss": "kĩgandi"
+    },
+    {
+      "surface": "וּלְהַקַּרְדֻּמִּ֑ים",
+      "gloss": "na ya mĩcando"
+    },
+    {
+      "surface": "וּלְהַצִּ֖יב",
+      "gloss": "na kũtũngĩra"
+    },
+    {
+      "surface": "הַדָּרְבָֽן",
+      "gloss": "kĩhooti"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:14.156990352Z",
+  "model": "glm-5.3"
+}

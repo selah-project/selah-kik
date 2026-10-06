@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 28:23",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ake",
+      "rationale": "עבדיו gĩa gĩthithi kĩrĩ na kĩmunyi kĩa kĩguni; Kĩgĩkũyũ kĩrĩkũhoa kĩguni"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויפרצו",
+      "rationale": "parats: 'kũhiũra' kana 'kũnengania' — thautha ĩmwe ya maũndũ matatũ ĩrĩa ĩhikanaga"
+    }
+  ],
+  "translation": "Nĩgekũmena, na akiuga: Ndĩngĩhaũra. Nakwo atumia ake makĩmũnengania, na o mũtumia ũcio, akĩigua mũgambo wao, na akĩyambũra kuuma thĩ, akĩikara harĩa gĩtanda kĩrĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e1d0f36e305d1694ae6b548811b6f16a685c9b31f0839368f9cd11353b111eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/28\/23-23.1791269801848.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "nĩgekũmena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ngĩhaũra"
+    },
+    {
+      "surface": "ויפרצו",
+      "gloss": "makĩmũnengania"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "atumia ake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na o"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũtumia ũcio"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akĩigua"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "mũgambo wao"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akĩyambũra"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "kuuma thĩ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "gĩtanda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:41.850324873Z",
+  "model": "glm-5.3"
+}

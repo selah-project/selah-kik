@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ĩthingu cia ũtheru",
+      "rationale": "המקדש nĩ 'kĩndũ kĩa ũtheru' — KJV 'sanctuary', YLT 'the tabernacle' no hĩndĩ ya kothe"
+    },
+    {
+      "kind": "crux",
+      "subject": "andũ arĩa angĩ",
+      "rationale": "והקימו nĩ andũ arĩa angĩ (Gersoni na Merari) matĩrĩrĩtwo rĩu; JPS yoigaga atĩ Kehathi nokĩhota Micikani"
+    },
+    {
+      "kind": "addition",
+      "subject": "andũ arĩa angĩ",
+      "rationale": "Hebrew nĩ 'nahinya' tu; andũ acio maigana nĩongereirwo nĩgeetha ũhoro utheri"
+    }
+  ],
+  "translation": "Na acio a Kehathi makĩmũkĩra mũgithĩ-inĩ, marĩ hoore wa gũcũnga ĩthingu cia ũtheru; na andũ arĩa angĩ makamũthia ⟨את⟩ Micikani ithenya rĩrĩa reinĩ igũkũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1c505626c913b9dd64b013cabcaf870e311cfc5813f657fdc39fc863895a290f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/10\/21-21.1791269498661.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "makĩmũkĩra mũgithĩ-inĩ"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "acio a Kehathi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "marĩ hoore wa gũcũnga"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ĩthingu cia ũtheru"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "makamũthia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Micikani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ithenya rĩrĩa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "reinĩ igũkũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:38.666852745Z",
+  "model": "glm-5.3"
+}

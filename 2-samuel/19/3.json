@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 19:3",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התשעה",
+      "rationale": "Hebrew 'rescue\/victory' (JPS) vs KJV-family which read here the 'stealing away' verse — English v3 = Hebrew v4; the Hebrew tokens supplied are the victory-turned-mourning verse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kĩeha",
+      "rationale": "לאבל is lamentation\/mourning for the dead; kĩeha renders the grief, the public mourning-rite nuance narrowed."
+    },
+    {
+      "kind": "addition",
+      "subject": "arĩ",
+      "rationale": "נעצב is a stative verb; Gĩkũyũ needs copula 'arĩ' before 'kĩeha'."
+    }
+  ],
+  "translation": "Na ũhote mũthenya-inĩ ũcio ũkaahũtũka nĩkĩeha kwa andũ a othe, nĩ andũ maiguĩte mũthenya-inĩ ũcio magĩtwo: mwathani arĩ kĩeha nĩ mũrũ wake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0a70de7b2ae8d2b7232939a6b28577d64ea4ef1add5014bf9da5d9dbff0bebbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/19\/3-3.1791269919241.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Na"
+    },
+    {
+      "surface": "התשעה",
+      "gloss": "ũhote"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "kĩeha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ a othe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "maiguĩte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ũgwĩtwo"
+    },
+    {
+      "surface": "נעצב",
+      "gloss": "arĩ kĩeha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:39.242117937Z",
+  "model": "glm-5.3"
+}

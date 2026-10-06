@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ciecirĩirie cia ũmũirĩtu",
+      "rationale": "בתולים nĩ kĩhumbugĩ gĩa kĩonekire kĩa ũmũirĩtu, kiũmũthĩ 'thingo cia ũmũirĩtu', ti 'gĩthĩkĩro' kana 'ũira'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ciecirĩirie cia ũmũirĩtu",
+      "rationale": "Ũtara wa ciecirĩirie thĩinĩ wa ciira — kĩhooto kĩa kũonwo mbere ya athuri"
+    },
+    {
+      "kind": "addition",
+      "subject": "nao",
+      "rationale": "Kĩgiri kĩa Gĩkũyũ kĩonjĩte gwatanĩra andũ acio eerĩ arĩa moikarĩte hamwe"
+    }
+  ],
+  "translation": "Nĩcakĩrire ithe wa mũirĩtu na nyina, nao makĩhĩtũkĩra ⟨את⟩ ciecirĩirie cia ũmũirĩtu wa mũirĩtu, makĩngerera kũrĩ athuri a mũciĩ, kũrĩ mũrango.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a55812c43153937cadf32f0127d6e135fecd5c54bce3bfb0eea6e00e49821035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/22\/15-15.1791269677245.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "nĩcakĩrire"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mũirĩtu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na nyina"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "makĩhĩtũkĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciecirĩirie cia ũmũirĩtu wa mũirĩtu"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "ciecirĩirie cia ũmũirĩtu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wa mũirĩtu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "makĩngerera kũrĩ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "athuri a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mũciĩ"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "kũrĩ mũrango"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:37.245958164Z",
+  "model": "glm-5.3"
+}

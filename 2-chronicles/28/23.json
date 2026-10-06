@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 28:23",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעזרים \/ ויעזרוני",
+      "rationale": "root עזר repeated — 'they help them… they will help me' — Ahaz's folly hangs on the echo, kept by repeating moohotera in Gĩkũyũ."
+    },
+    {
+      "kind": "addition",
+      "subject": "acio",
+      "rationale": "pronoun supplied for the relative clause המכים בו, which Hebrew leaves without a relative particle."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ngai",
+      "rationale": "אלהים of Damascus rendered 'ngai' (nini) — gods of the nations, not Erohimu, per the discipline for foreign gods."
+    }
+  ],
+  "translation": "Nĩaretire maithori kwa ngai cia Darmaceki, arĩa mamũkũraga, na akiuga: Tondũ ngai cia athamaki a Aramu nĩcio cĩmoohoteraga ⟨acio⟩, kiao ndĩreta maithori, na ndĩmoohotere; no icao nĩcitũire kũyũ kũmũtũmũgũa, na cia Yiceraeri yothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ce34bc9f063dc80a24f0c4acbcc87071a2497a2aad65f8b34be5d64ab817db15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/28\/23-23.1791270924788.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "nĩaretire maithori"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kwa ngai cia"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Darmaceki"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "arĩa mamũkũraga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tondũ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ngai cia"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nĩcio"
+    },
+    {
+      "surface": "מעזרים",
+      "gloss": "cĩmoohoteraga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "acio"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kiao"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ndĩreta maithori"
+    },
+    {
+      "surface": "ויעזרוני",
+      "gloss": "na ndĩmoohotere"
+    },
+    {
+      "surface": "והם",
+      "gloss": "na icao"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nĩcitũire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũyũ"
+    },
+    {
+      "surface": "להכשילו",
+      "gloss": "kũmũtũmũgũa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri yothe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:24.793791420Z",
+  "model": "glm-5.3"
+}

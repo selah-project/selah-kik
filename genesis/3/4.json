@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kũua-rĩ-kũua ndĩmũkuuaga",
+      "rationale": "Infinitive absolute מות with finite verb תמתון — the doubling for emphasis, 'dying you shall not die'"
+    },
+    {
+      "kind": "you",
+      "subject": "mũka",
+      "rationale": "Thahu ekiuga atĩrĩ na mũka mwene — mahũthagĩro ma gũcookeria"
+    },
+    {
+      "kind": "alternative",
+      "subject": "thahu",
+      "rationale": "הנחש gĩtaũrwo ta 'thahu' (kũrũmĩrĩra) — o ũrĩa wonjorire mũka"
+    }
+  ],
+  "translation": "Nake thahu ekiuga atĩrĩ kũũ mũka: Kũua-rĩ-kũua ndĩmũkuuaga.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7f0b3ff3cfa7116e926f6c1c791f4f24abdad2605ca5d3ab2853ba784e053ca7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/3\/4-4.1791269235662.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nake ekiuga atĩrĩ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "thahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũũ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mũka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ-"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kũua-rĩ-"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "mũkuuaga"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:15.666550427Z",
+  "model": "glm-5.3"
+}

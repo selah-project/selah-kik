@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי אתי",
+      "rationale": "Rhetorical 'nĩ ũũ arĩ hamwe nakwa?' (as YLT\/ASV) vs statement 'and there is none with me' (as KJV\/JPS, reading ואפסי)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אתי",
+      "rationale": "אֵת 'with' (H854) occurs only here in Isaiah 44 — the prompt forces the ⟨את⟩ marker though the sense is the preposition 'with', not the object marker."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאלך \/ ויצרך",
+      "rationale": "Paired participles 'redeemer-you \/ former-you' with matching suffixes; Gĩkũyũ keeps the pair but the suffix rhyme is lost."
+    }
+  ],
+  "translation": "Nĩguo Yahwe oigĩte, mũcuki waku, ũrĩa akũrumbũiya kuuma tumbo-inĩ: Nĩĩwe Yahwe, ũrĩa woima indo ciothe, ũrĩa agatanaria ⟨את⟩ igũrũ o we mwekũrũ, na ũrĩa aracaria ⟨את⟩ thĩ — nĩ ũũ nĩ ũrĩa arĩ hamwe na ⟨את⟩ yakwa?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6972dda4d9d27dc64cd9d1535b0c7d96bba24283d778638850ba5ab80a005b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/44\/24-24.1791270157260.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "mũcuki waku"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "ũrĩa akũrumbũiya"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kuuma tumbo-inĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Nĩĩwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ũrĩa woima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "indo ciothe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ũrĩa agatanaria"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "o we mwekũrũ"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "ũrĩa aracaria"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũũ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yakwa",
+      "marks": "hamwe na Yahwe — 'nĩ ũũ nĩ ũrĩa arĩ hamwe na yakwa?'"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:37.274541870Z",
+  "model": "glm-5.3"
+}

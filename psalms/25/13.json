@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũoyo",
+      "rationale": "נפש nĩ ihũũria\/rũge rwa mũoyo-wa-mwĩrĩ, ti 'mũoyo' wa kũhinga wothe"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "Kĩhirisio kĩa ciũmbe kĩtigĩtwo ta mũharo, kĩandĩkĩtwo ⟨את⟩"
+    }
+  ],
+  "translation": "Mũoyo wake ũgĩkaraga kĩgĩrĩ-inĩ kĩa kĩega, na mbũrũ yake ĩgĩamũkĩra ⟨את⟩ thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5e0c2078776f4100d012978de3d22a7051c75094928827abc4ab5f1f3a1840e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/25\/13-13.1791270470748.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "mũoyo wake"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kĩgĩrĩ-inĩ kĩa kĩega"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "agĩkaraga"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na mbũrũ yake"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "agĩamũkĩra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:50.750671956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "agĩcoka akiuga",
+      "rationale": "לאמר nĩ ĩrongoreirio ta 'akuuga' — 'agĩcoka' nĩonjorerie wa Gĩkũyũ ya mũhiano wa kwarĩria"
+    }
+  ],
+  "translation": "Nĩ ũrĩa Yiceraeri anatumĩte atũmĩa kũrĩ Cihoni, mwathi wa Emori, agĩcoka akiuga:",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "65477475c9bd413d7da4b6ffbbc04f36e12bd6a10eb079aba453ff72f25b7e7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/21\/21-21.1791269560544.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumĩte atũmĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "atũmĩa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Cihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Emori"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "agĩcoka akiuga"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:40.548490135Z",
+  "model": "glm-5.3"
+}

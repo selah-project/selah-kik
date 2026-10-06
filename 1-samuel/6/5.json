@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עפליכם",
+      "rationale": "opeeli: 'tumora' ya mwĩrĩ (KJV emerods) kana 'mĩgũũnda ya gũtũũra' (fortress) — andũ a Filitini maugĩte tumora cia mahĩa."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יָקֵל אֶת יָדוֹ",
+      "rationale": "kiugo gĩa Kĩhibirania 'gũkekeya guoko' — ndĩgũcoke kũhĩa guoko kũno, no kũrũmĩrĩra kũrehe thĩnyo; Kĩkũyũ nĩgũcokĩtie mwĩhianĩre ũcio."
+    },
+    {
+      "kind": "addition",
+      "subject": "egete",
+      "rationale": "Kĩkũyũ kĩhĩtaga kĩongo kĩa kũheana mbere ya 'ehemeri'; Kĩhibirania gĩtarĩ naguo."
+    }
+  ],
+  "translation": "Nĩmũkahĩa mĩhianano ya operi yanyu, na mĩhianano ya mbeba yanyu irĩa cihumithithagia ⟨את⟩ thĩ, nĩmũhahe Erohimu wa Yiceraeri egete ehemeri; angĩkorwo ekekeya ⟨את⟩ guoko wake kuuma igũrũ rĩanyu, na kuuma Erohimu yanyu, na kuuma thĩ yanyu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "21acca8a0c1dd4a6c708724e4c2973a3368b95a5c70aecf887f5af02a336437a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/6\/5-5.1791269777162.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַעֲשִׂיתֶם",
+      "gloss": "nĩmũkahĩa"
+    },
+    {
+      "surface": "צַלְמֵי",
+      "gloss": "mĩhianano ya"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "operi yanyu"
+    },
+    {
+      "surface": "וְצַלְמֵי",
+      "gloss": "na mĩhianano ya"
+    },
+    {
+      "surface": "עַכְבְּרֵיכֶם",
+      "gloss": "mbeba yanyu"
+    },
+    {
+      "surface": "הַמַּשְׁחִיתִם",
+      "gloss": "irĩa cihumithithagia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "וּנְתַתֶּם",
+      "gloss": "nĩmũhahe"
+    },
+    {
+      "surface": "לֵאלֹהֵי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כָּבוֹד",
+      "gloss": "ehemeri"
+    },
+    {
+      "surface": "אוּלַי",
+      "gloss": "angĩkorwo"
+    },
+    {
+      "surface": "יָקֵל",
+      "gloss": "ekekeya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guoko wake"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "guoko wake"
+    },
+    {
+      "surface": "מֵעֲלֵיכֶם",
+      "gloss": "kuuma igũrũ rĩanyu"
+    },
+    {
+      "surface": "וּמֵעַל",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "Erohimu yanyu"
+    },
+    {
+      "surface": "וּמֵעַל",
+      "gloss": "na kuuma"
+    },
+    {
+      "surface": "אַרְצְכֶם",
+      "gloss": "thĩ yanyu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:17.163288998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kuoja kwakwa",
+      "rationale": "Ndũgwo wa kũhooya: thiini wayo nĩ mũhaka ũteithwo."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Maũndũ macio mothe nĩ maagĩrĩirwo kũrĩ Yahwe o mbere ya ngero ĩno (mutongoro 2)."
+    }
+  ],
+  "translation": "Kuoja kwakwa nigukinya mbere ya kwaku; gituru gitu kwaku gikuo kuonje kwakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4dad43f59fb1d309ce51487c6fa1fc50d1cb663331ddb5b2091a3d1f558bc2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/88\/3-4.1791270499217.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "nigukinya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mbere ya kwaku"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kuoja kwakwa"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "gituru"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "gitu kwaku"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "kuonje kwakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:19.236845158Z",
+  "model": "glm-5.3"
+}

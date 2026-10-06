@@ -1,0 +1,163 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 6:8",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩthenya mĩrongo ĩtatũ",
+      "rationale": "Kũana kwa mĩthenya: thegomoni cia kũhĩnga kĩheo nĩ mĩthenya mĩrongo ĩtatũ"
+    },
+    {
+      "kind": "crux",
+      "subject": "להן",
+      "rationale": "Aramaic: 'kwĩrĩ' kana 'nĩthĩ' — ũthomithi wa tondi ũrĩa maũndũ maigana manini nĩgũo maikaraga ta 'kwĩrĩ we mwathi, ti ũrĩa ũngĩ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eroha",
+      "rationale": "Aramaic אלה — ngai (nini); Aramaic ti Kĩhibirania Erohimu, no mũgambo nĩ ũmwe"
+    }
+  ],
+  "translation": "O acarache a ũthamaki, acaganache, acahidarapanache, acabara, na acagavania magĩtũũrania gũcokia kĩrĩkanĩro kĩa mwathi na gũnyitanĩra achũrie, atĩ mũndũ o wothe ũrĩa ũkaĩria kĩheo kũrĩ Eroha o wothe kana mũndũ, na mĩthenya mĩrongo ĩtatũ, kwĩrĩ we mwathi, nĩgũatuũkwo agĩthiurwo hũra ya ntamũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fe78fa87a1b5d20356962a97a8a9d2f0046364e07747d6868c978d5d768992b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/6\/7-8.1791270787333.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתיעטו",
+      "gloss": "magĩtũũrania"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o"
+    },
+    {
+      "surface": "סרכי",
+      "gloss": "acarache"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "a ũthamaki"
+    },
+    {
+      "surface": "סגניא",
+      "gloss": "acaganache"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "acahidarapanache"
+    },
+    {
+      "surface": "הדבריא",
+      "gloss": "acabara"
+    },
+    {
+      "surface": "ופחותא",
+      "gloss": "acagavania"
+    },
+    {
+      "surface": "לקימה",
+      "gloss": "gũcokia"
+    },
+    {
+      "surface": "קים",
+      "gloss": "kĩrĩkanĩro"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kĩa mwathi"
+    },
+    {
+      "surface": "ולתקפה",
+      "gloss": "na gũnyitanĩra"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "achũrie"
+    },
+    {
+      "surface": "די",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "די",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יבעה",
+      "gloss": "ũkaĩria"
+    },
+    {
+      "surface": "בעו",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eroha"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "kana mũndũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na"
+    },
+    {
+      "surface": "יומין",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "תלתין",
+      "gloss": "mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kwĩrĩ"
+    },
+    {
+      "surface": "מנך",
+      "gloss": "wee"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "agĩthiurwo"
+    },
+    {
+      "surface": "לגב",
+      "gloss": "hũra"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "ntamũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:07.342820508Z",
+  "model": "glm-5.3"
+}

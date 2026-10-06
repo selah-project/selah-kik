@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "משלח",
+      "rationale": "נוה משלח — homestead sent away, a rare participial form; rendered 'ũũci mũthonyore'."
+    },
+    {
+      "kind": "crux",
+      "subject": "סעיפיה",
+      "rationale": "'its boughs\/fissures' — some read 'its heights' (סעיפים as branches); literal picture of split branches kept."
+    }
+  ],
+  "translation": "Nĩgũkoruo mucĩ wa mũringo ũĩ mũwekaine, ũũci mũthonyore na mũtiguo ta cĩũrĩ; kũo mũndia-rĩa nĩagĩrĩirie kurĩa, na kũo nĩagĩrĩirie kũikara, na kũmũthia ciatĩ cia kĩambangari kĩayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0f57220803d2f00a6fd6c99b953f12ccbde968fb90b7136cf78ed7252e879562",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/27\/10-12.1791270175087.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkoruo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "wa mũringo"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ũĩ mũwekaine"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "ũũci"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mũthonyore"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "na mũtiguo"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ta cĩũrĩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "agĩrĩirie kurĩa"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mũndia-rĩa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na kũo"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "agĩrĩirie kũikara"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "na kũmũthia"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "ciatĩ cia kĩambangari kĩayo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:55.100014194Z",
+  "model": "glm-5.3"
+}

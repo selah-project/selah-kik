@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 21:27",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "arĩa marathaga mihiano",
+      "rationale": "המשלים nĩ 'arĩa makĩria mihiano' — arĩa marathaga na mihiano, ti 'athi"
+    },
+    {
+      "kind": "crux",
+      "subject": "Ceheboni",
+      "rationale": "buku rĩa metha ikunyita rĩĩtwa na mũgambo wa Kĩhibirania: חשבון 'Ceheboni', סיחון 'Cihoni'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "İĩkai Ceheboni",
+      "rationale": "kiugo kĩa kũhoota — ndũrĩrĩ ĩhootwo kũiyũra Ceheboni"
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio arĩa marathaga mihiano magĩrĩra mauga: İĩkai Ceheboni, ĩthomwo, na ĩthingĩke gũtuũka mocome wa Cihoni.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7c6452797175d35cbb086db84ac425909aae51caa1cc2ca7e80aaab53fc6f6b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/21\/27-27.1791269556070.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ĩhare"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũndũ ũcio"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "magĩrĩra mauga"
+    },
+    {
+      "surface": "המשלים",
+      "gloss": "arĩa marathaga mihiano"
+    },
+    {
+      "surface": "באו",
+      "gloss": "İĩkai"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Ceheboni"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ĩthomwo"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "na ĩthingĩke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mocome"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "wa Cihoni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:36.074069425Z",
+  "model": "glm-5.3"
+}

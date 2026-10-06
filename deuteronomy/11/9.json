@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 11:9",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארץ זבת חלב ודבש",
+      "rationale": "Hibraithania ĩugaga 'thĩ ĩrĩa ĩreraga iria na ũki' — kiugo זבַת (gũcokerethia kũhĩtũka) kĩngĩcotokĩrwo o na mũhiananie wa ũgima wa bũrũri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרעם",
+      "rationale": "Kiugo gĩkoni 'mbĩtũ cia mbaĩ' — kiugo kĩa Hibraithania nĩ 'kũa' (zerа), kĩngĩtaũrwo ta 'kũa kwa mbaĩ'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "תאריכו ימים",
+      "rationale": "Kĩcunjĩ kĩa gũtheereera mĩthenya — kũgeria ngũrũ ya miario thĩ ĩrĩa andũ aekũ."
+    },
+    {
+      "kind": "addition",
+      "subject": "yanyu \/ anyu",
+      "rationale": "Mĩhari ĩrĩa cia Gĩkũyũ ciongererwo kũonania mwĩhia wa 'you' wa Hibraithania iria ĩrĩ mora-inĩ ma ciugo."
+    }
+  ],
+  "translation": "Na ngeetha mĩthenya yanyu ĩgĩtheereere thĩ ĩrĩa Yahwe aarahĩire aca anyu atũhe nao na mbĩtũ cia mbaĩ yao — bũrũri ũhĩtaga iria na ũki.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "df7d536a46a3fac7d3f06b8d63cacbdc46288e2c1e2178582da0dd21b7864cf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/11\/9-9.1791269679580.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Na ngeetha"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "ĩgĩtheereere"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya yanyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "aarahĩire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aca anyu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "atũhe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "na mbĩtũ cia mbaĩ yao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bũrũri"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ũhĩtaga"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "iria"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "na ũki"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:39.580908014Z",
+  "model": "glm-5.3"
+}

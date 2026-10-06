@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 30:29",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כליל",
+      "rationale": "Kiugo gĩkĩ kĩonekana ũguo tu inyahĩ — kĩmenyetaga 'ũgũrũ' kana 'ũhoro wa ma ndũrĩrĩ'; andũ aingĩ a mataũri makĩhania na kĩngeranio 'kana ta hĩndĩ ya'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "igua",
+      "rationale": "צור nĩ cĩrĩa inene ya gũikaragia — kiugo kĩa Yiceraeri 'igua' kĩhũthagĩrwo kũonania Yahwe mũtheri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "cere",
+      "rationale": "בחליל — mũgambo wa kĩĩga kĩa mũthingo kĩrĩa gĩkũragia ngwatanĩro ya kĩũgũria"
+    }
+  ],
+  "translation": "Kĩini nĩgĩkuheanĩ ta hĩndĩ ya ũgũrũ wa kĩũgũria gĩa gũtherio, na gũkeno kwa ngoro, ta ũrĩa oimũkũragia na cere, agĩthii kilima-inĩ wa Yahwe, kũri igua ya Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ebc760f940c635a0302669b227a007054bede31f0356faa5daa6cb8bb76a4b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/30\/29-29.1791270144460.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השיר",
+      "gloss": "kĩini"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgĩkuheanĩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inuĩ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ta hĩndĩ ya ũgũrũ"
+    },
+    {
+      "surface": "התקדש",
+      "gloss": "gĩa gũtherio"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kĩũgũria"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "na gũkeno"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kwa ngoro"
+    },
+    {
+      "surface": "כהולך",
+      "gloss": "ta ũrĩa oimũkũragia"
+    },
+    {
+      "surface": "בחליל",
+      "gloss": "na cere"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "agĩthii"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kilima-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũri"
+    },
+    {
+      "surface": "צור",
+      "gloss": "igua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:24.467145285Z",
+  "model": "glm-5.3"
+}

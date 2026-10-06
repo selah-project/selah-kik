@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 38:18",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩario 20×5",
+      "rationale": "Kũrathi kwa cua: mĩario igĩrĩ-ĩrĩkũ kũongire, ithanthatu kũoorereria"
+    },
+    {
+      "kind": "crux",
+      "subject": "תולעת שני",
+      "rationale": "'Cunyu ya kũmera-mera' (crimson-dyed) — cunyu nĩ kĩndũ gĩa kũmera; andũtaũra mangĩ metĩkĩtia 'kũmera-cunyu' nĩ ũmwe"
+    }
+  ],
+  "translation": "Na cua ya mboco ya kĩgwa kĩu nĩ ya kũcuarania maũndũ: ndathi-irũũru, na kĩondo, na thũci ya cunya-mera-kamwe, na thari ya mũcangi; na mĩario ĩrĩkũ igĩrĩ nĩ yo yaire KĨTHAYO kĩayo, na koorĩrĩria NGERO thayĩrĩrĩ KĨTHAYO njamba, hamwe na kĩgwa kĩu kĩu kĩrĩa mwanya, nĩ ũndũ wa maũndũ mĩena-ĩrĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "76bd4f814101898f24389baa4b565f735eabefcead4ca45e1977863cd564fe26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/38\/17-18.1791269466093.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומסך",
+      "gloss": "Na cua"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya mboco"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya kĩgwa kĩu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "nĩ ya kũcuarania maũndũ"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "ya kũrũmbũiya"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ndathi-irũũru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "na kĩondo-iria"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "na cunyu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya meru-kũmera"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na thari"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ya mũcangi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mĩario ĩrĩkũ igĩrĩ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kĩrathi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ya kuongire"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "na koorereria"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "thayĩrĩrĩ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "itanthatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kĩrathi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "cua icao"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya kĩgwa kĩu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:06.103034628Z",
+  "model": "glm-5.3"
+}

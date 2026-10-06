@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 9:25",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hamwe na ⟨mũthamaki⟩",
+      "rationale": "Kĩhibirania kĩugaga 'na mũthamaki' mwĩrĩ wa mĩariakabũ — kĩonje rio gĩtarĩ kĩu"
+    },
+    {
+      "kind": "crux",
+      "subject": "אריות",
+      "rationale": "אֻרְוָה ĩrĩ 'kĩhumbĩ kĩa kũhĩa nyamu' — thĩinĩ wa 1 Athamaki 5:16 ĩrĩ '40,000'; hakuhĩ nĩ 'macũkũ' kũngĩ nĩ 'mahi moigĩrĩruo'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩtarĩre ĩrĩa mĩarĩ igũrũ",
+      "rationale": "Kũng'etwo kwa macũkũ mana ngiri na andũ enda mahi ngiri ikũmi na igĩrĩ — nĩ kĩũng'etwo kĩa gĩcũjinĩ"
+    }
+  ],
+  "translation": "Na Ceromo arĩ na macũkũ mana ngiri ma mahi na mĩariakabũ, na andũ aarĩ enda mahi ngiri ikũmi na igĩrĩ; na akĩmĩikarĩrĩchia mataarĩ-inĩ ma mĩariakabũ, na kũu hamwe na ⟨mũthamaki⟩, kũu Yerucarayimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "46dbb5877644df71e3603017511bd97f226842b56360ce0d0b76c5338eb44432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/9\/25-26.1791270871666.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na arĩ na"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "macũkũ ma mahi"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "na mĩariakabũ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na igĩrĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "andũ aarĩ enda mahi"
+    },
+    {
+      "surface": "ויניחם",
+      "gloss": "akĩmĩikarĩrĩchia"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "mataarĩ-inĩ ma"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "mĩariakabũ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na kũu hamwe na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "kũu Yerucarayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:31.670721814Z",
+  "model": "glm-5.3"
+}

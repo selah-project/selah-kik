@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 23:4",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפקדו",
+      "rationale": "Paqad: 'be lacking\/missing' (KJV, JPS) vs 'be visited\/punished' — root means to visit or muster."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עוד",
+      "rationale": "'kahĩnda' (a while) renders the continuative adverb 'any more \/ any longer'."
+    }
+  ],
+  "translation": "Na nĩngĩamũkĩrĩra harĩ ao arĩci, nao mĩrĩcĩte; matirĩkũgũa gũtanya kahĩnda, matirĩ kũhootoka, na matirĩ kũhĩa ũthĩnĩ, Yahwe oigĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c3cf314cec2d1baecbb652184679e459930f48ae3601e1e2de6ac4d9732c58ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/23\/4-5.1791270248499.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "nĩngĩamũkĩrĩra"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "harĩ ao"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "arĩci"
+    },
+    {
+      "surface": "ורעום",
+      "gloss": "mĩrĩcĩte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matirĩ"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "kũgũa gũtanya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kahĩnda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "matirĩ"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "kũhootoka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na matirĩ"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "kũhĩa ũthĩnĩ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:08.506512569Z",
+  "model": "glm-5.3"
+}

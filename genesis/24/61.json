@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "genesis 24:61",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ũcio",
+      "rationale": "Kĩgomo kĩa Gĩkũyũ gĩonjeeirwo kũonania mũndũ mũna, Kĩhibirania gĩtarĩ naki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũrutani",
+      "rationale": "העבד nĩ mũtumia; mũrutani nĩ kiugo gĩa Gĩkũyũ kĩhakanĩrire"
+    }
+  ],
+  "translation": "Nĩũciara Ribikah na akena make, magĩnyamba ju ya ngamĩra, magĩthii thutha wa mũndũ ũcio; mũrutani akĩgwata ⟨את⟩ Ribikah, agĩthii.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "13e1d4b553c6a5fd9e8d1fd651463bbd4a1d9caa668390e7665956add3526d6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/24\/61-61.1791269246157.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "nĩũciara"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribikah"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "akena make"
+    },
+    {
+      "surface": "ותרכבנה",
+      "gloss": "magĩnyamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ju ya"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamĩra"
+    },
+    {
+      "surface": "ותלכנה",
+      "gloss": "magĩthii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akĩgwata"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mũrutani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ribikah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribikah"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agĩthii"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:26.161144969Z",
+  "model": "glm-5.3"
+}

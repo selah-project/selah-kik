@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 12:1",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kũci mũtumia",
+      "rationale": "הכשית: Kũci (Ethiopia) kana 'mwarĩ wa Kũci' mũhiano wa Ciabĩrĩria 32:1; na kana nĩ Cipora kana mũtumia ũngĩ — atĩ nĩ wa gũkorwo nĩ warĩ Cipora."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרים",
+      "rationale": "Miriamu etĩkio atĩ nĩwe mũrathi wa maũndũ macio; ndemwa 'ו' ya mbere ĩronagia atĩ nĩwe wa mbere gũratha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kũratha nao",
+      "rationale": "בְּמֹשֶׁה na עַל: 'na Moce' handũ ha 'kuuma Moce'; Iiburia ĩngĩ ĩugaga 'thutha ũhoro wa' — nĩ ũhoro wa kũmena."
+    }
+  ],
+  "translation": "Miriamu na Aharoni makaratha nao Moce, thutha wa mũtumia wa Kũci arĩa aoĩire, nĩgũkorwo mũtumia wa Kũci nĩwo aoĩire.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "078afb5d0c4778e5a3ee1a74aa768c86729fe34ff279edd01988b7fe307b8641",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/12\/1-1.1791269473027.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבר",
+      "gloss": "makaratha"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriamu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "na Aharoni"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "על",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wa Kũci"
+    },
+    {
+      "surface": "הכשית",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aoĩire"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mũtumia"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wa Kũci"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "nĩwo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aoĩire"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:13.032084930Z",
+  "model": "glm-5.3"
+}

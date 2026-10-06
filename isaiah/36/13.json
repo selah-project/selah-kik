@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 36:13",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ũmwo",
+      "rationale": "Rabcake ndamũteithia andũ arĩa maikaraga mũgĩ wa mboco; ndakwihokire kũcooka na mũgambo mũnene wa kĩongojĩ kĩu arĩa makĩigua"
+    }
+  ],
+  "translation": "Nĩrĩo Rabcake agĩikara, agĩkua na mũgambo mũnene wa kĩongojĩ kĩa ayahudi, akiuga atĩrĩ: Ũmwo ⟨את⟩ ũhoro macio mothe mo mũthemba mũnene, mũthemba wa Aciri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "272dd2215ad302f70fc863f23331cef8ff732c0ed95a620576a91cefcb2c4c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/36\/11-13.1791270186248.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "agĩikara"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "caki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "agĩkua"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "kĩongojĩ kĩa ayahudi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ũmwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio mothe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ũhoro macio mothe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthemba"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthemba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aciri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:06.291605775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 7:14",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "makwa",
+      "rationale": "Kiugo kĩa Kĩaramu kĩngĩtie kĩngerekera kĩa gĩcunjĩ kĩa ndarũa; 'wakwa' harĩ Eroha nĩ kuuma kĩongo kĩa אלהך"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבקרא",
+      "rationale": "Kĩaramu בקר: 'kũceeba\/kwĩrora' kana 'kũndũrĩria maũndũ' — bsb na ylt itarĩ na mĩena ĩrĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũthianũ",
+      "rationale": "Kũana kwa mũrĩĩranĩra wa mwathi nĩ kũonererwo hagĩe kĩахарĩ"
+    },
+    {
+      "kind": "you",
+      "subject": "kwenda Ezira",
+      "rationale": "Maandĩko macio nĩ maugaga na mũndũ mũthĩũ (ũthomerwo) — nĩgo kwenda Ezira"
+    }
+  ],
+  "translation": "Nĩgoro nĩũthomerwo kuuma mbere ya mwathi na mũthianũ arĩa mũrĩĩranĩra wake, ũgĩthiĩ kũceeba harĩa Yehudu na Yerucarayimu, thĩinĩ wa watho wa Eroha wakwa, ĩrĩa ĩrĩ moko-inĩ ⟨makwa⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "904c52eaafc23061d9db3802c9ad66d95d809a46e65cf750f7b66f51eecddb9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezra\/7\/14-14.1791270712214.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nĩgoro"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "די",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "na mũthianũ"
+    },
+    {
+      "surface": "יעטהי",
+      "gloss": "arĩa mũrĩĩranĩra wake"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "nĩũthomerwo"
+    },
+    {
+      "surface": "לבקרא",
+      "gloss": "kũceeba"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "יהוד",
+      "gloss": "Yehudu"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "na Yerucarayimu"
+    },
+    {
+      "surface": "בדת",
+      "gloss": "thĩinĩ wa watho"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Eroha wakwa"
+    },
+    {
+      "surface": "די",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "moko-inĩ makwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:52.218791702Z",
+  "model": "glm-5.3"
+}

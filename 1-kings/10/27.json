@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "thĩinĩ wa",
+      "rationale": "Gĩkũyũ ĩhithagĩra kĩegeranio gĩa harĩa, Kĩhibirania ĩtiganĩirwo hĩndĩ ĩmwe na yerayo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ta matumbĩ",
+      "rationale": "כאבנים — kũgereria kwa mũingĩ: feza yahũra ta matumbĩ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתן…נתן",
+      "rationale": "kũgarũra kwa nathan 'kuheana' gũa tũrĩtwĩ — mũthĩge wa gĩcunjĩ kĩa mbere, gĩtakonainio na Gĩkũyũ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩnĩ mũingĩ",
+      "rationale": "kwaranĩria kwa mũingĩ wa ũgima wa bũrũri — kĩhungũ gĩa kũgereria"
+    }
+  ],
+  "translation": "Na mũthamaki akĩheana ⟨את⟩ feza thĩinĩ wa Yerucarayimu ta matumbĩ, na ⟨את⟩ macaarĩ akĩheana ta mĩkũyũ ĩrĩa ĩrĩ thĩiniĩ ya bũrũri wa hasi, mĩnĩ mũingĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4cd1e53761a3686fb22a76a8900eab1fb1385c5bb0b2c00611116d688b545879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/10\/27-27.1791269924664.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akĩheana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feza"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "feza"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "thĩinĩ wa Yerucarayimu"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "ta matumbĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "macaarĩ"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "macaarĩ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akĩheana"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "ta mĩkũyũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "thĩiniĩ wa bũrũri wa hasi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mĩnĩ mũingĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:44.665057818Z",
+  "model": "glm-5.3"
+}

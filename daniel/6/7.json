@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 6:7",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ũkorwo na mũoyo hĩndĩ ciothe",
+      "rationale": "Kiugo kĩa ciana cia thamaki: 'ũkorere hĩndĩ ciothe' — ngumo ya mũthamaki, ti kũciria kwa hĩndĩ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mwathi",
+      "rationale": "Aramaic מלכא: mwathi wa mũndũ, ti Rĩĩtwa"
+    }
+  ],
+  "translation": "Nĩrĩa handũ, acarache arĩa na acahidarapanache arĩa makĩnyitithania hamwe kwa mwathi, na magĩkũga make ũhoro ũrĩkũ: Darayawe mwathi, ũkorwo na mũoyo hĩndĩ ciothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fe78fa87a1b5d20356962a97a8a9d2f0046364e07747d6868c978d5d768992b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/6\/7-8.1791270787333.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "nĩrĩa handũ"
+    },
+    {
+      "surface": "סרכיא",
+      "gloss": "acarache"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "acahidarapanache"
+    },
+    {
+      "surface": "אלן",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "הרגשו",
+      "gloss": "makĩnyitithania hamwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "na magĩkũga ũguo"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "makĩuga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "make"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darayawe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ũkorwo na mũoyo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:07.339988216Z",
+  "model": "glm-5.3"
+}

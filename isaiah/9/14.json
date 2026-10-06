@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הראש\/הזנב",
+      "rationale": "mutwe na mkia — kĩng'anĩrĩro gĩa kũingĩha kwa mbũtũ ya Israeri, mũthemba ũrĩa ũhoro wa thĩinĩ mũno ndũrĩkaga na ciugo cia Kĩgĩkũyũ cia kĩnanda"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשוא פנים",
+      "rationale": "hihi nĩ 'ũrĩa ooyo wake woĩ kũinwo' (mũndũ wa kũheo gĩtĩo) kana 'ũrĩa ooyo waigana-igana'; JPS 'the man of rank'"
+    },
+    {
+      "kind": "crux",
+      "subject": "isaiah 9:14",
+      "rationale": "mũtaratara wa maandĩko: Kĩhibirania gĩa 9:14 (amũrĩru 9:15 gwethe) nĩkĩa kĩandĩkĩtwo ha hinya hĩndĩ ya Kĩhuruta iria-inĩ; KJV irĩa mbere 'the LORD will cut off' nĩ ya rũciaro 13"
+    }
+  ],
+  "translation": "Mũkũrũ na ũrĩa ooyo wake woĩ kũinwo, niwe mutwe; na mũrathi mũregani mbũgĩ, niwe mkia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d4a52da93e3101d55f5e3cf7f86297a98799928233c724f2a59028985cc824c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/9\/14-14.1791270135031.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "mũkũrũ"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "na ũrĩa ooyo wake woĩ kũinwo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ooyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niwe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "na mũrathi"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "mũregani"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mbũgĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "niwe"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "mkia"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:15.034539285Z",
+  "model": "glm-5.3"
+}

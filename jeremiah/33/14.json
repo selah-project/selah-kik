@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ndũ ya \/ wa",
+      "rationale": "Gĩkũyũ ũrenda kĩng'ethanio gĩa gũcokerethia nyũmba; Kĩhibirania ĩrĩ אל na על wogete"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אל ועל",
+      "rationale": "KJV\/BSB batarĩria 'אל' ta 'unto' na 'על' ta 'concerning'; nĩngĩetire makũmbĩ macio mkũmbĩ-kũmwe"
+    }
+  ],
+  "translation": "Rĩrĩ, mĩthenya ĩrakwĩra, Yahwe oigĩte, na nĩngĩimamĩrire ⟨את⟩ kiugo kĩega kĩrĩa nĩngĩarĩirie ndũ ya nyũmba ya Yiceraeri na ya nyũmba ya Yahuda.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "94737674f9ddea6766c5e067508024a484bb678b88fb0a4c824ff2e4d61ee03d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/33\/14-14.1791270222063.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ĩrakwĩra"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "na nĩngĩimamĩrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo kĩega"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kĩega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nĩngĩarĩirie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:42.071084054Z",
+  "model": "glm-5.3"
+}

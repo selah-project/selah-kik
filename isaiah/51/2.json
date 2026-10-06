@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ĩrĩa yakũhanyĩte",
+      "rationale": "תחוללכם kuuma חול — 'kũringa\/kũhanya': andũ magĩrĩirwo kũigua ta 'Sera ĩrĩa yakũhanyĩte' ao 'Sera mũciari wanyu'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ũrora",
+      "rationale": "Kĩhooto kĩa kũrora Abarahamu na Sera — kĩegereria gĩa kwĩhothoria"
+    }
+  ],
+  "translation": "Ũrora harĩ Abarahamu, ithe wanyu, na harĩ Sera, ĩrĩa yakũhanyĩte; nĩgũko ndamwĩtie o mũmwe, ndamũbariki, ndamwongĩre.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0f9a4db4b8483aa235f6f087f122d8c5e3638d3fa4f2d8d3c8a5057d7e9a1acd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/51\/1-3.1791270192902.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Ũrora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ithe wanyu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na harĩa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sera"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "ĩrĩa yakũhanyĩte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o mũmwe"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ndamwĩtie"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "ndamũbariki"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "ndamwongĩre"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:12.927756810Z",
+  "model": "glm-5.3"
+}

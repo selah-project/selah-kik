@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Nĩgũo",
+      "rationale": "Kiugo gĩa kwĩhũthĩria kĩongĩtwo kũgirĩria mũhuro ũrĩa ũrarĩ mbere"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũthĩnjĩri-ngai",
+      "rationale": "הכהנ — mũthĩnjĩri-ngai nĩ mũrĩ wa gĩkĩro kĩa Agĩkũyũ, ti mũthĩnjĩri wa maciaro"
+    },
+    {
+      "kind": "hapax",
+      "subject": "האפוד",
+      "rationale": "efodi — kĩahu gĩa mũthĩnjĩri-ngai, kĩandĩkĩtwo ta rĩĩtwa kĩmwe"
+    }
+  ],
+  "translation": "Nĩgũo ngoro ya mũthĩnjĩri-ngai ĩgeereruo, akanaya ⟨את⟩ efodi na ⟨את⟩ Terafimu na ⟨את⟩ kĩgongona kĩahĩtwo, akanjira gĩtii-inĩ kĩa andũ arĩa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c2d6202583174aba78a3b6a533bbd02bf90564afba1b55c66e38d2fabbf69b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/18\/20-20.1791269771695.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ĩgeereruo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthĩnjĩri-ngai"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akanaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodi"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Terafimu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "Terafimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgongona kĩahĩtwo"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "kĩgongona kĩahĩtwo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akanjira"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gĩtii-inĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ arĩa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:11.696685208Z",
+  "model": "glm-5.3"
+}

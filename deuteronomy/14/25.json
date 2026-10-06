@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וצרת",
+      "rationale": "Heb 'to bind\/cinch tight' — Gĩkũyũ 'ũgĩte' (hold\/carry) gũthutha kũhurũka kwa kũgita mũthenya"
+    },
+    {
+      "kind": "addition",
+      "subject": "mũthenya",
+      "rationale": "kesef ni mũthenya wa kuuma kĩheo, mũgambo ũrĩa ũrĩa wĩrute"
+    }
+  ],
+  "translation": "Nĩũkehethia ⟨את⟩ mbeca-inĩ, ũgĩte mũthenya mũcii-inĩ wakwa, ũgĩthiĩ kũndũ ũrĩa Yahwe Erohimu waku agũcĩarĩria",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "76a0bd8d9751ee9e06f63ec3a3ecc404b169fde62a2e801ad1ede79efefa452e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/14\/25-25.1791269663022.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "nĩũkehethia"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "mbeca-inĩ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ũgĩte"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mũcii-inĩ wakwa"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ũgĩthiĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũndũ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "agũcĩarĩria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "harĩa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:23.022721177Z",
+  "model": "glm-5.3"
+}

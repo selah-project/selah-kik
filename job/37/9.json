@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "arĩranĩ",
+      "rationale": "ממזרים (nyiitwo kuuma mazeri, 'acio arĩranĩ') — ta kĩhũtho: 'mĩthemba ya rũgongo' (KJV 'north') kana gũcokia mũhiano wa kũbararanithia maũndũ (YLT 'scatterings')."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ממזרים",
+      "rationale": "Kiugo gĩkĩ kĩonekana tanakĩ hĩndĩ ĩno yothe thĩinĩ wa kĩrĩndĩ kĩu kĩa mn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cimbicine-inĩ",
+      "rationale": "החדר nĩ 'cimbici wa mũndũ-wa-thĩ'; ta KJV gĩtuĩka 'south' (rũgongo-rwa) — gĩcunjĩ kĩu kĩarĩ kĩũgĩrĩire ndawa ya ma."
+    }
+  ],
+  "translation": "Kuuma cimbicine-inĩ ĩgũũkaga kĩhuho kĩnene, na kuuma arĩranĩ ĩgũũkaga thanda.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8fa732f6cefa97f5d911063d8ab8ab8593115d3119778417f7f12ce072f6801c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/37\/9-9.1791270638889.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kuuma"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "cimbicine-inĩ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ĩgũũkaga"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "kĩhuho kĩnene"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "na kuuma arĩranĩ"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "thanda"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:38.891742762Z",
+  "model": "glm-5.3"
+}

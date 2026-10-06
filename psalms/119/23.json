@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "nĩmaananiirie",
+      "rationale": "ישבו 'sat' — gũkunjĩra ta kĩama kĩa kĩhootania, ti kũinama tu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũhoro wĩgwĩtirĩe",
+      "rationale": "בי 'nakwa' — Kĩhibirania kĩugaga 'in me', ta kũhĩtũkĩra mũndũ"
+    }
+  ],
+  "translation": "Naa, andũ arĩa maathamakeni nĩmaananiirie nakwa, nĩmaugĩte ũhoro wĩgwĩtirĩe; no ũtumĩkani waku nĩerarĩranaga ihoto-inĩ cia miathako yaku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "59549cf70cacf6edfffc80ac0c6e8f12d5834b3e5966fc8b8bf78ab7fb3e7f1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/119\/23-24.1791270593404.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Naa"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nĩmaananiirie"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "andũ arĩa maathamakeni"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "nĩmaugĩte"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ũtumĩkani waku"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "nĩerarĩranaga"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "thĩinĩ wa miathako yaku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:53.409082473Z",
+  "model": "glm-5.3"
+}

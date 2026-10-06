@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 5:2",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruaki",
+      "rationale": "לרוח nĩ ruaki — mũhũmũ\/rũhuho, ũtaũrĩtwo 'kĩamba' ta mũgambo ũrĩa wĩhũthagĩragwo, no ruaki nĩrĩo kiugo kĩmwe gĩa Kĩhibirania."
+    },
+    {
+      "kind": "measurement",
+      "subject": "icunjĩ ya gatatũ",
+      "rationale": "Kuga kwacioukio rĩrĩa gatatũ-rĩ, gatatũ-rĩ, gatatũ-rĩ — kũgawanithia kwa mũhianĩre ũrĩa wonekaga mĩena ĩrĩ ya mbere."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלשית ... השלשית ... והשלשית",
+      "rationale": "Kugarũrũka kwa 'gatatũ' marĩa matatũ no kũgawanithia kwa andũ a Yerucarayimu, kwa andũ arĩa methĩtie macio nĩ kũgĩa na mũhianĩre wa kũigua kĩhooto."
+    },
+    {
+      "kind": "crux",
+      "subject": "סביבותיה",
+      "rationale": "'Nthĩro cia waya ũhoro wake' — nĩgetha kũhiũranithia ngero cia waya kũrĩa mũci ũrĩ, ũrĩa waonekaga ta 'mucĩ wayo' hĩndĩ ya kũringithia Yerucarayimu, no Kĩhibirania nĩ kĩuga 'kũrĩa gĩgĩtũĩka nthĩro cia ũhoro wayo'."
+    }
+  ],
+  "translation": "Icunjĩ ya gatatũ ũtheretĩrĩre na mũaki hakuhĩ wa mucĩ, rĩrĩa mĩthenya ya kũringithia ĩgĩkũrania; nao ũgĩkũara ⟨את⟩ icunjĩ ya gatatũ, ũmũke ngero nthĩro cia waya ũhoro wake; na icunjĩ ya gatatũ ũciarĩrie kĩamba-inĩ; na ngero nĩngĩcokia thutha wao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "97c5daabe449b0d4efd5813f52b8c34d5d6b24a34fe4ec1953d3af688a92ffca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/5\/2-2.1791270292893.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשית",
+      "gloss": "icunjĩ ya gatatũ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "na mũaki"
+    },
+    {
+      "surface": "תבעיר",
+      "gloss": "ũtheretĩrĩre"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakuhĩ wa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "rĩrĩa ... ĩgĩkũrania"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "המצור",
+      "gloss": "ya kũringithia"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "nao ũgĩkũara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icunjĩ ya gatatũ"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "icunjĩ ya gatatũ"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "ũmũke"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngero"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "nthĩro cia waya ũhoro wake"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "na icunjĩ ya gatatũ"
+    },
+    {
+      "surface": "תזרה",
+      "gloss": "ũciarĩrie"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "kĩamba-inĩ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "na ngero"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "nĩngĩcokia"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "thutha wao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:52.898820730Z",
+  "model": "glm-5.3"
+}

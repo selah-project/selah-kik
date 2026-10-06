@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 19:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ndukĩ ya kĩrĩra",
+      "rationale": "בעב הענן nĩ 'gĩtheri kĩa ndukĩ ya kĩrĩra' — 'thĩiniĩ wa kĩrĩra kĩa ndukĩ' nĩ gũtaũra kũrĩ kũmwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "megũkũhoka",
+      "rationale": "יאמינו kuuma אמן — 'gũkũhokia' kũingĩhania kũrenda; kwa Kĩhibirania nĩ 'gũtikĩria, kũmagĩrĩra'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ĩrĩa oigĩte",
+      "rationale": "ciugo cia andũ ĩrĩa Yahwe — gĩcunjĩ kĩa 'ĩrĩa oigĩte' kĩongeretwo nĩgeetha mũhoro ũmenyeke; Kĩhibirania kĩuga 'ciugo cia andũ kũrĩ Yahwe' tu"
+    },
+    {
+      "kind": "you",
+      "subject": "kũrĩ Moce",
+      "rationale": "Yahwe arĩkĩra Moce mũthenya ũcio, mũgambo ũrĩa andũ nao moi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ndukĩ ya kĩrĩra",
+      "rationale": "Yahwe ekũrora thĩinĩ wa kĩrĩra kĩa ndukĩ — ũtheri wa Ngai ũthingĩtwo, andũ moimona tu mbere ya ndukĩ"
+    }
+  ],
+  "translation": "Rĩrĩa ũcio, Yahwe oigĩte kũrĩ Moce: Rĩrĩ, nĩngũrora kũrĩ we ndukĩ-inĩ ya kĩrĩra kĩa mũnene, nĩgeetha andũ megũthĩra hĩndĩ ya kwarayaraya nawe, na ũndũ wa kũngereria nawe, nao me giĩko gĩkĩ megũkũhoka tene na thutha othe. Moce akĩmenyerethia ⟨את⟩ ciugo cia andũ ĩrĩa Yahwe oigĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "567c8915cf379dce8c86bac468c2e945fa39a0dde3d70ce9f9e14ea000bc0b13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/19\/9-11.1791269375658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nĩngũ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kũrora"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "בעב",
+      "gloss": "ndukĩ-inĩ ya kĩrĩra"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "kĩa mũnene"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "megũthĩra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "hĩndĩ ya kwarayaraya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ũndũ wa kũngereria"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "megũkũhoka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tene na thutha othe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akĩmenyerethia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciugo cia andũ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ciugo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "cia andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:35.670672530Z",
+  "model": "glm-5.3"
+}

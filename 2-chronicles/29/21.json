@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 29:21",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "harĩa",
+      "rationale": "Kĩhibirania kĩa המקדש nĩ kĩhandĩ gĩa ũtheru; kiugo kĩa Gĩkũyũ kĩiongererwo kũrĩkia maĩ ma kĩhooto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "matheko",
+      "rationale": "מזבח nĩ kĩgera kĩa kũigĩra thĩ; matheko nĩ kiugo gĩa Gĩkũyũ kĩhĩagĩrwo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũgwanja",
+      "rationale": "Kwandĩkĩrwo kũringana kwa ihĩtwa cia mũgwanja-mũgwanja-ine, kwarĩ na kũrũngwo kwa mũigana"
+    }
+  ],
+  "translation": "Magũciarĩ nĩmaana njorua mũgwanja, na thũ ciĩ njerũ mũgwanja, na ndũrũrũ cia mbũri njerũ mũgwanja, na njamba cia mbũri njerũ mũgwanja, ihĩtwa ya hĩtwa, nĩ ũndũ wa ũthamaki, na ũndũ wa ũtheru-inĩ wa harĩa, na ũndũ wa Yuda; akĩmeera andũ a Aharoni, aciarĩ, makĩrĩgĩrĩria igũrũ wa matheko ma Yahwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "de718ad09581b5d0b26b36bde3c1e9dc2088e90132353aa465df2ca710d54847",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/29\/21-21.1791270927769.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "nĩmaana"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "njorua"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "thũ ciĩ njerũ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "וכבשים",
+      "gloss": "ndũrũrũ cia mbũri njerũ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "וצפירי",
+      "gloss": "njamba cia mbũri njerũ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mbũri njerũ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "hĩtwa ya hĩtwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na nĩ ũndũ wa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ũtheru-inĩ wa harĩa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na nĩ ũndũ wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aciarĩ"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "makĩrĩgĩrĩria"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "matheko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:27.776556841Z",
+  "model": "glm-5.3"
+}

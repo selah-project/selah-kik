@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 23:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩgĩtherio ngombo",
+      "rationale": "ויקם (wayyi qām) nĩ 'nĩĩthingi\/ngombo ĩĩrĩkĩte' — 'kũgĩa ngombo ya mũndũ' gĩtũmĩte kĩanda kĩĩhootana kĩa watho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המכפלה",
+      "rationale": "Makiperia kuuma 'kũmara\/kũringana mbĩrĩcũ ĩrĩ' (double) — mũhianĩre ũrĩa waatũrwo nĩwagarurio makĩria."
+    },
+    {
+      "kind": "measurement",
+      "subject": "gĩcunjĩ kĩa mĩthingo",
+      "rationale": "Kĩhootanĩro gĩa kĩanda kĩoningagia mĩthingo yagĩothe ya kĩanda na iria na mĩtĩ — ũthingu wa kũingĩra mbaara cia gĩũtwa."
+    }
+  ],
+  "translation": "Kĩanda gĩa Efroni kĩrĩa kĩrĩ Makiperia, kĩrĩa kĩrĩ mbere ya Mamire — kĩanda gĩu, na iria ĩrĩ kĩrĩo, na mĩtĩ yothe ĩrĩ kĩanda-inĩ kĩu, ĩrĩ yothe irĩ mĩthingo yake yothe ya kũu na kũu — nĩgĩtherio ngombo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "31370ac8de5e52f6b121883a04f0350c74f0da74ce53d2b4e0f046be42787e73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/23\/17-17.1791269251182.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nĩgĩtherio ngombo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kĩanda"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "במכפלה",
+      "gloss": "Makiperia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamire"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kĩanda gĩu"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "na iria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kĩrĩo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mĩtĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kĩanda-inĩ kĩu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yothe irĩ"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "mĩthingo yake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kũu na kũu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:31.186671337Z",
+  "model": "glm-5.3"
+}

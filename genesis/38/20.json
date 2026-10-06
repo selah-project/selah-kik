@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "translation-corrected",
+      "subject": "הערבון",
+      "rationale": "Kĩratũ kĩa ũteithĩrio nĩ kĩheo kĩa ũteithĩrio gĩa kũheana ta kĩratũ kĩa kũigua kana kwarĩirio kĩũmbe kĩrĩa gĩtariĩ gĩkũrĩombeenĩ, no ti kĩheo kana igooti (D2)"
+    },
+    {
+      "kind": "translation-corrected",
+      "subject": "רעהו",
+      "rationale": "mũrũtarũ nĩ mũndũ mũtagũrwo ũhoro wa mũciĩ nĩguo atanjetere atia nĩhakanĩte, ti atĩa mũthĩnjĩri-Ngai kana mũthamaki (tũrĩ na mbere ya tondi-athi kwa Ngai; gũtirĩ kũrora maũndũ-inĩ ma thutha, watho 4)"
+    },
+    {
+      "kind": "translation-corrected",
+      "subject": "גדי העזים",
+      "rationale": "nĩ mũciĩ ũmwe wa mbũri — nĩmwe ya mbũri cia iyondi-rĩa-irĩ-inĩ, na mbũri ũmwe ti ya kũingĩha; gĩturwa kĩa mũndũ-wa-mbũri-ya-iyondi nĩgĩo kĩa mbere, kana kĩrĩa gĩtũmĩte (tũrĩ na 15 tu, mbere ya metha-inĩ ma Ngai)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מצאה",
+      "rationale": "hebreo nĩ 'kũmanĩte nakĩo\/nĩamũkũũranĩte' — nĩgo andũ meciria makĩrĩ 'nĩkĩana ũhoro' makĩrĩ 'nĩaku kũhota kana kũremwo kũrĩa kwarĩ kĩndũ kĩngĩ' (ta na metha ya 'na ũndũ agĩkũra mũciĩ ũcio')"
+    }
+  ],
+  "translation": "Nĩgo Yahuda athũmĩte ⟨את⟩ mũciĩ wa mbũri cia mbũrĩ cia iyondi-rĩa-irĩ-inĩ moko-inĩ mwa mũrũtarũ wake mũa Adurami, gũcoka kĩratũ kĩa ũteithĩrio kuuma moko-inĩ ma ũmwe wa andũ-a-rũrĩri-rĩu, na ti ũndũ atigĩtwo ao aratũũra arĩa-rĩa-rĩa-rĩa-rĩa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9b543040f1de96c1f4d53022519e1783d025265029cce52cde47e61507bc0849",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/38\/20-20.1791269254101.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "athũmĩte"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũciĩ wa mbũri"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "mũciĩ wa mbũri"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "cia mbũri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mwa mũrũtarũ wake"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "mũa Adurami"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "gũcoka"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "kĩratũ kĩa ũteithĩrio"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kuuma moko-inĩ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ma mũka ũcio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na kũrĩ o na ũmwe"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nĩamũkũũranĩte"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:34.111361984Z",
+  "model": "glm-5.3"
+}

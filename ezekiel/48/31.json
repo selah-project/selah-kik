@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 48:31",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mirango ĩtatũ",
+      "rationale": "Kũringana kwa mirango: ĩtatũ rũrayino-ini, o na rĩĩtwa rĩmwe ng'ania."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ĩgĩtikwo",
+      "rationale": "'al (על) nĩyo 'gwĩtikwo maĩina ma' — ta GW mũhiano wa Kĩhibirania."
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Kĩratini gĩa mboceni 'mũrango wa Reubeni' nĩkĩoheanĩtio gwĩciria na Kĩhibirania gĩtanganĩru."
+    }
+  ],
+  "translation": "Na mirango ya mucĩ nĩyo ĩgĩtikwo maĩina ma mbarĩ cia Yiceraeri: mirango ĩtatũ rũrayino-ini — mũrango wa Reubeni kĩmwe, mũrango wa Yuda kĩmwe, mũrango wa Revi kĩmwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8b1293fe672159fbff32a045e0331fa6d07dc77f8b08f7f5e1e5a45995b82b6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/48\/30-31.1791270444204.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושערי",
+      "gloss": "na mirango ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ĩgĩtikwo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maĩina"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mbarĩ cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mirango"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "rũrayino-ini"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mũrango wa"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mũrango wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mũrango wa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:24.210066011Z",
+  "model": "glm-5.3"
+}

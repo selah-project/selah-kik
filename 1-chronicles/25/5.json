@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 25:5",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "קרן",
+      "rationale": "Kĩrĩma-kenyũ: kũrĩma kwa nyamũ gĩtarĩ kĩa Gĩkũyũ kĩega; nĩ kwatwo ta mũhiananio wa hinya-ũgima, kĩandĩkĩtwo na gũcoka."
+    },
+    {
+      "kind": "crux",
+      "subject": "להרים קרן",
+      "rationale": "'Gũthingithia kĩrĩma' kana 'gũteithia hinya': taũra njĩira nyingĩ cia andũ-arĩkani nĩcio cicokanagia."
+    },
+    {
+      "kind": "hapax-mapping",
+      "subject": "חזה",
+      "rationale": "Mũrora-menoona: mũndũ wona maonũ; hĩndĩ ya mũthamaki nĩ ũteithi wake wa ng'ania, ti 'mũnabii' wa Kĩthwahĩri."
+    },
+    {
+      "kind": "measurement",
+      "subject": "14+3",
+      "rationale": "Kũana kwa ciana: ikũmi na inyanya na cianakũ ithatũ — kũrora maũndũ nĩ kwa mũthingi."
+    }
+  ],
+  "translation": "Aciari aria mothe nĩ ciana cia Heman, mũrora-menoona wa mũthamaki thĩinĩ wa ciugo cia Erohimu, gũthingithia ⟨את⟩ kĩrĩma-kenyũ; na Erohimu nĩahetire Heman ciana ikũmi na inyanya, na cianakũ ithatũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "769fb40cbf8f12adf3dba2d7e9be8e3f967102fea6e486e608862e6080430bdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/25\/5-5.1791270830662.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "acia"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "cia Heman"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "mũrora-menoona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa mũthamaki"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "thĩinĩ wa ciugo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "cia Erohimu"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "gũthingithia"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "kĩrĩma-kenyũ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "na nĩahetire"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "Heman"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ikũmi na inyanya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ĩkũmi-na-inya)"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "na cianakũ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ithatũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:50.666285053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "irĩhu",
+      "rationale": "אף nĩ ihũũ rĩa mũndũ, no Kĩhibirania kĩronagia kĩhooto; 'mũndũ wa irĩhu' ĩtigana mũhiano wa ihũũ."
+    }
+  ],
+  "translation": "Mũndũ wa irĩhu anatigithia mbarari, na mũnyiti kĩhooto kĩa ngoro aneniithia mĩingĩ ya kũhĩtũka.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/29\/21-24.1791270683716.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wa irĩhu"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "anatigithia"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "mbarari"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "na mũnyiti"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kĩhooto kĩa ngoro"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aneniithia mĩingĩ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ya kũhĩtũka"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:23.724646786Z",
+  "model": "glm-5.3"
+}

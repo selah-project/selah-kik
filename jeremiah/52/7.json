@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 52:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ackadi",
+      "rationale": "כשדים — kĩgunĩ kĩa Ackadi; 'Kacadi' nĩguo mũgambo wa Kĩhibirania ũnyiitĩtwo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין החמתים",
+      "rationale": "gĩtoonyero kĩrĩ hagatiya kondeng' ĩrĩ — 'hagati' nĩ mũhiano wa 1 Sam 17 'mũndũ wa hagati-ĩrĩ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "hĩndĩ ya",
+      "rationale": "Kĩgũa kĩongerirwo harĩ לילה (iciĩ)"
+    }
+  ],
+  "translation": "Nĩgũo mucĩ ũciarumwo, andũ othe a mbarũ ya mũingĩ-inĩ makĩĩra thaũ, magĩthiĩ thaĩinĩ kuuma mucĩ-inĩ hĩndĩ ya iciĩ, thĩinĩ wa thabari ya gĩtoonyero kĩrĩa kĩrĩ hagatiya kondeng' ĩrĩ irĩ thĩinĩ wa kĩgunĩ kĩa mwathi — na Ackadi ndũngĩjĩte mucĩ gũkũroĩra — na magĩthiĩ thĩinĩ wa njĩra ya gĩthaku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "92a0c0b4d8de9df2d6bdd94bd5b6c7b1e2848e36c9ff9f92b2f3850f429d263a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/52\/7-8.1791270337723.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבקע",
+      "gloss": "nĩgũo mucĩ ũciarumwo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "mbarũ ya mũingĩ-inĩ"
+    },
+    {
+      "surface": "יברחו",
+      "gloss": "makĩĩra thaũ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "magĩthiĩ thaĩinĩ"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "kuuma mucĩ-inĩ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "hĩndĩ ya iciĩ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "thĩinĩ wa njĩra"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya gĩtoonyero"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kĩrĩa kĩrĩ hagatiya"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "kondeng' ĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa kĩrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "גן",
+      "gloss": "kĩgunĩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kĩa mwathi"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "na Ackadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ndũngĩjĩte"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "gũkũroĩra"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "thĩinĩ wa njĩra"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ya gĩthaku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:37.735669695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 18:17",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "acĩ",
+      "rationale": "Hebrew has plural forms of tribal-collective names; Gĩkũyũ needs a plural word"
+    },
+    {
+      "kind": "crux",
+      "subject": "Akereti na Apereti",
+      "rationale": "הכרתי והפלתי: guard-corps names (maybe Cretans and Philistines) left as names, not as 'life-guardsmen'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hakĩrĩkanĩro-inĩ ha mwathi",
+      "rationale": "ליד המלך literally 'at the hand of the king', an idiom for serving in the king's presence"
+    },
+    {
+      "kind": "crux",
+      "subject": "arĩa mbere",
+      "rationale": "הראשנים: 'the first' — rank (chief officials) vs age (eldest sons); rank kept"
+    }
+  ],
+  "translation": "Na Benajahu mũrũ wa Yehojada aarĩ igũrũ wa ⟨acĩ Akereti na Apereti⟩; na arĩa a mũrũ arĩa macio a Dawidi, arĩa mbere, mahotagĩra hau hakĩrĩkanĩro-inĩ ha mwathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e521c17634f9877c4c711908cd9b1d5b5961892825b05424f8a14564db15574f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/18\/17-17.1791270831196.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Na Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehojada"
+    },
+    {
+      "surface": "על",
+      "gloss": "aarĩ igũrũ wa"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "acĩ Akereti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "na Apereti"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na arĩa a mũrũ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "arĩa mbere"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "hakĩrĩkanĩro-inĩ ha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:51.199114311Z",
+  "model": "glm-5.3"
+}

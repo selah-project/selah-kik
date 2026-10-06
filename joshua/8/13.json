@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 8:13",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקבו",
+      "rationale": "kĩugo kĩa Kĩhibirania nĩ 'ũrĩa wa magũrũ-matarĩ' — thutha wa kĩrĩra; 'liers in wait' cia KJV nĩ gũtaũra kwa maũndũ, ti kiugo kĩu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "העמק",
+      "rationale": "גיא\/עמק nĩ mũrenda mũnene; 'kĩanja' nĩ kĩanja kĩa thĩ, gĩtarĩ kĩuga kĩmwe o ta Kĩhibirania."
+    },
+    {
+      "kind": "measurement",
+      "subject": "rũuhi rwa mweri na rũuhi rwa riũa",
+      "rationale": "Kwandĩko gĩkuonya ũrĩa kĩrĩra kĩaigĩirwo — harĩa kĩrĩ, harĩa thutha wayo ĩrĩ — nĩ kũgeria kwa maheni ma mũcingĩrĩri."
+    }
+  ],
+  "translation": "Nĩmakeerarĩire andũ ⟨את⟩ kĩrĩra gĩothe kĩrĩa kĩrĩ rũuhi rwa mweri wa muciĩ ũcio, na ⟨את⟩ thutha wayo rũuhi rwa riũa rĩa muciĩ ũcio; na Yehocua agĩthiĩ ciro-inĩ ĩcio thagatĩ-inĩ wa kĩanja.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "301f9013cc07cfc48d39695053bc4c5b7dac8da42dbf27b0dca37a277fa768fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/8\/13-13.1791269722655.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "nĩmakeerarĩire"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩra gĩothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gĩothe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kĩrĩra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "rũuhi rwa mweri"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wa muciĩ ũcio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thutha wayo"
+    },
+    {
+      "surface": "עקבו",
+      "gloss": "thutha wayo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rũuhi rwa riũa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "rĩa muciĩ ũcio"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ciro-inĩ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ĩcio"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thagatĩ-inĩ"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "kĩanja"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:22.657799140Z",
+  "model": "glm-5.3"
+}

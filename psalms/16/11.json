@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Hebrew lacks copula between שבע שמחות and את פניך"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mĩena yaku",
+      "rationale": "את פניך literally 'with your face'; Hebrew idiom for presence, rendered as 'mĩena yaku' with the ⟨את⟩ marker kept"
+    }
+  ],
+  "translation": "Nĩũmenyithia wakwa mũkoro wa mĩoyo; koonjoria kwa ngwatanĩro-ya-mbũkĩ ⟨nĩ⟩ harĩ ⟨את⟩ mĩena yaku; mahenia marĩ na ithua ya kwonja yaku, tene na tene.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b200eb6d72d988c1a307082c8973cd46f74ced701b8c49bb366ffa24bdde604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/16\/11-11.1791270487422.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Nĩũmenyithia wakwa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "mũkoro"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mĩoyo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "koonjoria"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ngwatanĩro-ya-mbũkĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩena yaku"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mĩena yaku"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "mahenia"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "na ithua ya kwonja yaku"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "tene na tene"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:07.425423609Z",
+  "model": "glm-5.3"
+}

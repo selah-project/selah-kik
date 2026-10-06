@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ũhoro",
+      "rationale": "Hebrew ogereĩta kiugo kĩa gũtereka kana kĩonekithia; Gĩkũyũ kĩagĩrĩire kiugo kĩngĩ thutha wa nĩtuona"
+    },
+    {
+      "kind": "crux",
+      "subject": "נראה",
+      "rationale": "Nithiũre kana ũthingu: nĩtuona kũrĩkana nĩtũkuona — na ciugo igĩrĩ ciriahĩtwo ta ũthingu na ũrĩa wonetwo"
+    }
+  ],
+  "translation": "Nĩgũkorwa kwawe kũrĩ mũcoko wa maũndũ-marĩũ, mũcienĩ waku nĩtuona ⟨ũhoro⟩ mũcio.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "96f0ab5200442894d765f1e4f5b3273aacec634b4541341730e6c3d1aff72ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/36\/10-10.1791270466007.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mũcoko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa maũndũ-marĩũ"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "mũcienĩ waku"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nĩtuona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mũcio"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:46.011751928Z",
+  "model": "glm-5.3"
+}

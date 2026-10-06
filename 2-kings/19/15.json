@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩwe",
+      "rationale": "copula ya Gĩkũyũ cegeirwo kwa הוא thutha wa אתha"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישב הכרבים",
+      "rationale": "'ũikaraga thĩinĩ wa akerubi' — KJV 'between', YLT 'inhabiting': kuuma o wega nĩkuo ta kũigana"
+    },
+    {
+      "kind": "you",
+      "subject": "kuuga kwa Hizikiyahu",
+      "rationale": "thayo ĩrĩ kũhoya Yahwe wega, Hizikiyahu ndĩmũrutiire"
+    }
+  ],
+  "translation": "Hizikiyahu nĩhoyire mbere ya Yahwe, nao akĩuga: Yahwe, Erohimu wa Yiceraeri, ũrĩa ũikaraga thĩinĩ wa akerubi, wee nĩwe Erohimu, ũmwe tu, wa mabũrũri mothe metha ya thĩ; wee nĩokire ⟨את⟩ igũrũ na ⟨את⟩ thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "265ff33b61fc62640b6f8184326345dac9d43f633d6a8cd6f90e5934470fb3dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/19\/15-15.1791270044132.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "nĩhoyire"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiyahu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nao akĩuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ũrĩa ũikaraga"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "akerubi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ũmwe-tu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa mothe"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mabũrũri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wee"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nĩokire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igũrũ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:44.137127394Z",
+  "model": "glm-5.3"
+}

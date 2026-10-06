@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mũthenya wa",
+      "rationale": "Hebri ĩugaga tu 'ĩna-ikũmi' ya mweri; 'mũthenya' nĩongereirwo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ikũmi na inana",
+      "rationale": "Kũtarania wa mĩthenya na mweri wa mbere wa ngũrano ya Pacaha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cana cia ũndũrĩre",
+      "rationale": "בני הגולה nĩ 'cana cia kũndũrĩtwo' — 'golah' nĩ mbaara ya kũhiũka"
+    }
+  ],
+  "translation": "Na cana cia ũndũrĩre nĩceerekire ⟨את⟩ Pacaha, mũthenya wa ikũmi na inana, mweri-inĩ wa mbere.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2252623d8427b5a45048eac4be8042084b4a4e2ad2e3492314a27d8154e54921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezra\/6\/19-20.1791270767618.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nĩceerekire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "cia ũndũrĩre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pacaha"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pacaha"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "inana"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ikũmi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mweri-inĩ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:47.623969460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Arĩkaria",
+      "rationale": "Hebrew participle has no expressed subject; the-doer (Yahwe, wa ciugo 10–12) nĩ mwagĩrĩirwo nĩ Gĩkũyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "matũũru-make ma igũrũ",
+      "rationale": "מעליותיvw nĩ 'matũũra ma gĩcunjĩ kĩa gũtatu-inĩ kana igũrũ mũno' — kiugo kĩa kĩũmbĩ, ti kĩa watho"
+    }
+  ],
+  "translation": "Arĩkaria kĩrĩma kuuma matũũru-make ma igũrũ; thĩ ĩĩhoora kuuma mĩrũĩ ya mwĩrute waku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c195ce463fcbb6da40c7cd9a90226a4d3296aba1a96a545338583955894a1c43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/104\/13-14.1791270511226.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Arĩkaria"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kĩrĩma"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "matũũru-make ma igũrũ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "kuuma mĩrũĩ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mwĩrute waku"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ĩĩhoora"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:31.230521390Z",
+  "model": "glm-5.3"
+}

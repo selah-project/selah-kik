@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 18:2",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mũno",
+      "rationale": "infinitive absolute יצא before cohortative אצא intensifies — Gĩkũyũ marks emphasis with 'mũno'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "השלשית",
+      "rationale": "the army is divided into counted thirds, one per commander"
+    },
+    {
+      "kind": "you",
+      "subject": "hamwe na nyinyi",
+      "rationale": "the king addresses the troops directly with second-person plural"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביד ×3",
+      "rationale": "threefold repetition of 'under the hand of' gives the verse a marching cadence"
+    }
+  ],
+  "translation": "Dawidi anatumira ⟨את⟩ andũ: gacunjĩ kĩa gatatumwe-inĩ harĩ mkono wa Yoabu, na gacunjĩ kĩa gatatumwe-inĩ harĩ mkono wa Abicai mũrũ wa Ceruyah, mũruware wa Yoabu, na gacunjĩ kĩa gatatumwe-inĩ harĩ mkono wa Itai mũ-Gathi; na mũthamaki akiuga kĩrĩa andũ: Nĩngĩcotoka mũno, nakĩ nĩĩ, hamwe na nyinyi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "43afabe746f2a6648f2de92c4d936200752e38e3dcbfc5600593222efa12a21a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/18\/2-2.1791270990468.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "anatumira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "gacunjĩ kĩa gatatumwe-inĩ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harĩ mkono wa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "na gacunjĩ kĩa gatatumwe-inĩ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harĩ mkono wa"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abicai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Ceruyah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mũruware wa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabu"
+    },
+    {
+      "surface": "והשלשת",
+      "gloss": "na gacunjĩ kĩa gatatumwe-inĩ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "harĩ mkono wa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "mũ-Gathi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kũcotoka"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "nĩngĩcotoka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "hamwe na nyinyi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:30.469397924Z",
+  "model": "glm-5.3"
+}

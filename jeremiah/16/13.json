@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 16:13",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ithieko",
+      "rationale": "חנינה nĩ 'kũheana kĩeha\/kĩguni' — ithieko nĩ kĩuga kĩngĩ wa kĩhũthagĩro"
+    },
+    {
+      "kind": "you",
+      "subject": "Yuda",
+      "rationale": "Yahwe aratumĩra Yuda mwĩhoko ũrĩa wĩ mũthenya na ũgũrũ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְהֵטַלְתִּי",
+      "rationale": "c\/2904: 'kũũrangĩra nja' (cast out) kana 'kũrindũra' (reel\/hurl) — ndemwa ĩrĩa mbeũ ya 'kũingĩra'"
+    }
+  ],
+  "translation": "Nĩngĩtũũra ⟨את⟩ inywe kuuma thĩ ĩno, ngĩthĩ thĩ ĩrĩa inywe na acathe anyu mũtii, na mũkahũra kuo ⟨את⟩ ngai acio mũthenya na ũgũrũ, harĩa ndĩngahuithia inywe ithieko.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "12d1e3f9d1bc176527405aa9ebe479ff6c41bd14ff0441c9928d990f37dab23f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/16\/13-13.1791270244501.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְהֵטַלְתִּי",
+      "gloss": "Nĩngĩtũũra"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "inywe"
+    },
+    {
+      "surface": "מֵעַל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "ĩno"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ngĩthĩ"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יְדַעְתֶּם",
+      "gloss": "mũtii"
+    },
+    {
+      "surface": "אַתֶּם",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "וַאֲבֹתֵיכֶם",
+      "gloss": "na acathe anyu"
+    },
+    {
+      "surface": "וַעֲבַדְתֶּם",
+      "gloss": "na mũkahũra"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ngai acio"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אֲחֵרִים",
+      "gloss": "acio"
+    },
+    {
+      "surface": "יוֹמָם",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "וָלַיְלָה",
+      "gloss": "na ũgũrũ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ndĩngahu"
+    },
+    {
+      "surface": "אֶתֵּן",
+      "gloss": "kũheithia"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "חֲנִינָה",
+      "gloss": "ithieko"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:04.517810958Z",
+  "model": "glm-5.3"
+}

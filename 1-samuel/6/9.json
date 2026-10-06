@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 6:9",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הוא עשה לנו",
+      "rationale": "Hiyo ni 'yeye alitutendea' — watafsiri wengi wanaongeza 'Bwana\/Yahwe' kama fimbo, lakini Kiebrania inasema 'huu' bila jina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגעה",
+      "rationale": "Maana halisi ni 'kugusa\/kutega mkono'; KJV 'smote' ni kupanua zaidi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מקרה",
+      "rationale": "Neno hili (kuaangukia kwa bahati) halipatikani tena katika Tanakh kwa umbo huu — 'kĩrĩndĩ' linashikilia picha hiyo."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Jaribio la Aroni",
+      "rationale": "Mstari huu ni majaribio yaliyofungwa: matokeo yake yatafunua kama ilikuwa mkono wa Mungu au bahati tu."
+    }
+  ],
+  "translation": "Na nĩmũkuona: rĩrĩa kũrĩa kĩa mwena wake kĩana kũenderera Beti-Cemi, nĩwe waitũire itũ ⟨את⟩ ũru ũnene ũyũ; na rĩrĩa tiri ũguo, nĩtũkuona atĩ gĩtwa kĩake kĩtatũrũngire itũ — kĩrĩndĩ nĩkĩo kĩatuĩkire itũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a002af427cea481aca07860822ade2aa7573ad2bdb94e4bfd7e6a9fb0d8f06c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/6\/9-9.1791269800065.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וּרְאִיתֶם",
+      "gloss": "nĩmũkuona"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "גְּבוּלוֹ",
+      "gloss": "mwena wake"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "kĩana kũenderera"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "שֶׁמֶשׁ",
+      "gloss": "Cemi"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "waitũire"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "itũ"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ũru ũnene ũyũ"
+    },
+    {
+      "surface": "הָרָעָה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "הַגְּדוֹלָה",
+      "gloss": "ũnene"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "na rĩrĩa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tiri ũguo"
+    },
+    {
+      "surface": "וְיָדַעְנוּ",
+      "gloss": "nĩtũkuona"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "gĩtwa kĩake"
+    },
+    {
+      "surface": "נָגְעָה",
+      "gloss": "kĩtatũrũngire"
+    },
+    {
+      "surface": "בָּנוּ",
+      "gloss": "itũ"
+    },
+    {
+      "surface": "מִקְרֶה",
+      "gloss": "kĩrĩndĩ"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "nĩkĩo"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "kĩatuĩkire"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "itũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:40.067416460Z",
+  "model": "glm-5.3"
+}

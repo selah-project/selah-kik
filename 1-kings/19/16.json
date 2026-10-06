@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "we",
+      "rationale": "Gĩkũyũ ĩhitithagia kinya gũcunjĩ kĩa ũhoro arĩa Hebrew ndĩtarĩ; kĩingĩrĩrio na ⟨…⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמשח \/ נמשי",
+      "rationale": "Mĩhiano wa Kĩhibirania: mũthemba wa משח (kũnĩra maguta) ũrĩ thĩinĩ wa rĩĩtwa Nimci; ũrĩa ũgima gĩtũmi kwa kuona ciugo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "harĩa ũrĩ we",
+      "rationale": "תחתיך gĩkũgwo 'thĩini waku, harĩa ũkũũmanĩte'; ta 'kwa gũcokia wĩra waku'"
+    }
+  ],
+  "translation": "Na ⟨את⟩ Yehu mũrũ wa Nimci unĩrĩre maguta arĩ mũthamaki wa Yiceraeri, na ⟨את⟩ Elica mũrũ wa Caphati wa Aberi-Mecora unĩrĩre maguta arĩ mũrathi harĩa ũrĩ ⟨we⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "32a029154eba568cd1a6fd5b1b0329691415468ca30ddfb9931e17a9fdad16d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/19\/16-16.1791270049662.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimci"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "unĩrĩre maguta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elica"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elica"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Caphati"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "Aberi"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mecora"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "unĩrĩre maguta"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "harĩa ũrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:49.663668846Z",
+  "model": "glm-5.3"
+}

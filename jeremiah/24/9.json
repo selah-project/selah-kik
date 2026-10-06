@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 24:9",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kĩegero kĩa kũririkanĩka",
+      "rationale": "לזועה: YLT 'trembling', KJV 'removed\/tossed', JPS 'horror' — kũririkanĩka kana gũcegerwo-cegerwo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũhianano",
+      "rationale": "משל nĩ mũhianano\/kiugo kĩa kũhũthagia, ti 'proverb' rĩngĩ rĩa kũhoota"
+    }
+  ],
+  "translation": "Nĩngahetha ⟨arĩo⟩ kuva kĩegero kĩa kũririkanĩka, nĩ ũru, harĩ metha ciothe cia thĩ, kuva ciongerero, na mũhianano, na gũthekanio, na kĩroore, harĩ o mũkoro wothe kũrĩa nĩngahenania ⟨arĩo⟩ uko.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0ba7ba6013bb17d50151e039c98bd0dd671d689e39d43d4b7710a8eb68897d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/24\/9-9.1791270220082.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתים",
+      "gloss": "nĩngahetha"
+    },
+    {
+      "surface": "לזועה",
+      "gloss": "kĩegero kĩa kũririkanĩka"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "nĩ ũru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "metha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cia thĩ"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "ciongerero"
+    },
+    {
+      "surface": "ולמשל",
+      "gloss": "na mũhianano"
+    },
+    {
+      "surface": "לשנינה",
+      "gloss": "na gũthekanio"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "na kĩroore"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "harĩ o"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "mũkoro wothe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "אדיחם",
+      "gloss": "nĩngahenania"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uko"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:40.099548702Z",
+  "model": "glm-5.3"
+}

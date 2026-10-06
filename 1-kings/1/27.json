@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 1:27",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wakwa",
+      "rationale": "אדני nĩ \"mwathi\" wa mũndũ; \"wakwa\" nĩguo mũgambo wa Nathani woneke, kiugo kĩmwe kĩa Kĩhibirania"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kũgĩa⟩",
+      "rationale": "ישב nĩ \"kũgĩa-na-thiriko\/kũikara\" igũrũ rĩa kĩcigĩro; Kĩgĩkũyũ kĩenda \"kũgĩa igũrũ rĩa\" na ndĩrĩ mũrĩrũ wa gũcokereria"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבדיך",
+      "rationale": "kiumwe kana gĩtĩĩo: \"atĩia wakwa\" (KJV\/ASV \"thy servant\" gĩtĩĩo, JPS \"thy servant\" kiumwe wa Nathani we mwene)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נהיה",
+      "rationale": "הָיָה nĩ \"gũtuĩka\/gĩathĩka\" — ti \"gĩtũmĩtwo nĩ\" ta handũ ha Kĩthwahĩri; kiugo kĩrĩa kĩarĩ kũo nĩ \"kiugo kĩu gĩtuĩkĩte kuuma kwa mwathi\""
+    }
+  ],
+  "translation": "Kana kuuma kwa ⟨את⟩ mwathi wakwa mwathi wa themi kiugo kĩu gĩathĩkĩte, na ndũmũĩhũrire ⟨את⟩ atĩia wakwa nĩ ũndũ arĩa agatuĩka ⟨kũgĩa⟩ igũrũ rĩa kĩcigĩro kĩa mwathi wakwa mwathi wa themi thutha wĩwe?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7159d2e7236a4dab50edf15ef24d7d04905d62fe6e629a8253745327b040ef08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/1\/27-27.1791269924907.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuuma kwa ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi wa themi"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "gĩathĩkĩte"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo kĩu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndũ"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "mũĩhũrire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atĩia wakwa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "atĩia wakwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "agatuĩka ⟨kũgĩa⟩ igũrũ rĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kĩcigĩro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi wa themi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wĩwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:44.908151125Z",
+  "model": "glm-5.3"
+}

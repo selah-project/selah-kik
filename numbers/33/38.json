@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 33:38",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי יהוה",
+      "rationale": "'thutha wa kĩugo kĩa Yahwe' — Kihibirania kĩugaga 'kana mũrongo wa Kĩngai'; taũri aingĩ maandĩka 'kana watho wa'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mwarĩ, mweri, mũthenya",
+      "rationale": "Kĩcunjĩ kĩgĩ kĩarĩaria mĩari ya hĩndĩ: mwaka wa 40, mweri wa gatano, mũthenya wa mbere"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכהן",
+      "gloss": "mũthanjari",
+      "rationale": "Kiugo kĩa Kihibirania kĩuga 'mũndũ ũrĩa wĩtigĩrĩra igongona' — mũthanjari nĩ kiugo gĩa mũri ũmwe"
+    }
+  ],
+  "translation": "Nĩrĩrĩrũo Aharoni mũthanjari-inĩ akĩruga agĩthii Horini, kilima-inĩ ĩyo, thutha wa kĩugo kĩa Yahwe, akĩrĩfa kuo, mwarĩ wa mĩrongo inya kwa kũinya kwa ciana cia Yiceraeri kuuma thĩ ya Micirayimu, mweri-inĩ wa gatano, mũthenya-inĩ wa mbere wa mweri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cea422a563d944a7c44e168389c0d591d6c3871147ba4f4955c5e9d507641f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/33\/38-38.1791269599097.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nĩrĩrĩrũo akĩruga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthanjari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "agĩthii"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Horini"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kilima-inĩ ĩyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kĩugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akĩrĩfa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mwarĩ wa"
+    },
+    {
+      "surface": "הארבעים",
+      "gloss": "mĩrongo inya"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "kwa kũinya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuuma thĩ ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mweri-inĩ wa"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "gatano"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mũthenya-inĩ wa mbere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wa mweri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:19.097791682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 1:6",
+  "book": "malachi",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũhootithia",
+      "rationale": "בוז (kũhooria kana kũhootithia) — כבד na בוז nĩmahĩanianĩ maũndũ-inĩ ma gũhoota: Hebrew ĩrĩ mũrũ wa 'kũrĩa kwa thĩ', Gĩkũyũ nĩ kĩega gĩa 'kũhootithia'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד\/כבודי",
+      "rationale": "kĩhũra kĩmwe kĩa 'kũrĩha' (kũhoota) kĩĩgana-rĩra thĩinĩ wa mũhiano ũmwe — gĩkũndũkirwo kĩngĩ-inĩ"
+    },
+    {
+      "kind": "you",
+      "subject": "arĩa mĩarĩge-inĩ",
+      "rationale": "Yahwe akwarĩrĩria mĩarĩge ya Yuda thĩinĩ wa mĩario ĩno"
+    },
+    {
+      "kind": "addition",
+      "subject": "arahĩkagia (wa mũciarũ)",
+      "rationale": "Hebrew yaandĩka kĩng'ang'i kĩa mũciarũ tu (verb irĩ ng'inia); Gĩkũyũ ĩthĩkagira kĩng'ang'i"
+    }
+  ],
+  "translation": "Mũrũ nĩarahĩkagia ithe, na mũciarũ nĩarahĩkagia Adonai wake; na rĩrĩ, nĩwe ithe, he kĩe gũhoota kwakwa? Na nĩrĩ nĩndĩ Adonai, he kĩe kwoo kwakwa? Yahwe Cebaoti oigĩte, atĩrĩ nĩmwe, arĩa mĩarĩge-inĩ, mũhootithia Rĩĩtwa rwakwa. Na mũkauga: Nĩ kĩĩ tũkahootithia ⟨את⟩ Rĩĩtwa rwaku?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6175b3b019d02d432a49a4a56a3a792cd8e32847ef236d9fa47dc34b9d74ade2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/malachi\/1\/6-6.1791270476216.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "arahĩkagia"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "na mũciarũ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai wake"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ithe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "איה",
+      "gloss": "he kĩe"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "gũhoota kwakwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na nĩrĩ"
+    },
+    {
+      "surface": "אדונים",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "he kĩe"
+    },
+    {
+      "surface": "מוראי",
+      "gloss": "kwoo kwakwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nĩmwe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "arĩa mĩarĩge-inĩ"
+    },
+    {
+      "surface": "בוזי",
+      "gloss": "mũhootithia"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Rĩĩtwa rwakwa"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "na mũkauga"
+    },
+    {
+      "surface": "במה",
+      "gloss": "nĩ kĩĩ"
+    },
+    {
+      "surface": "בזינו",
+      "gloss": "tũkahootithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rĩĩtwa rwaku"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Rĩĩtwa rwaku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:56.223392165Z",
+  "model": "glm-5.3"
+}

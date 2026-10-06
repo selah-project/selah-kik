@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Farao",
+      "rationale": "Kwĩrĩgĩrĩra kwa Farao gũtĩrĩ kwa ciugo cia kĩrĩko-nyũmba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובחדר משכבך ועל מטתך",
+      "rationale": "Mĩcĩ ĩrĩ ĩtatũ ĩrĩ kũrĩra-inĩ kwa mũndũ ĩrĩkĩtwo ũgĩe mwanya mũranyi ĩmwe ũrĩa wĩ mandĩko-inĩ ma Kĩhibirania; nĩgwo kwĩrĩgĩrĩra kwa andũ agima"
+    },
+    {
+      "kind": "addition",
+      "subject": "ĩrĩa-ĩmagayithia igũthĩ",
+      "rationale": "Kĩharũro gĩa ũgĩcũgũ gĩtiarĩ thĩinĩ wa ndemwa cia Kĩhibirania; gĩongĩtwo kũonania kĩndũ gĩa mĩcangĩ ĩrĩa-ĩmagayithia igũthĩ"
+    }
+  ],
+  "translation": "Na rũĩ rwa Yeoru rĩgũrahũrĩra ceparidea, na makĩrĩa na makĩnyĩra thĩinĩ wa nyũmba ĩrĩa-iũ, na thĩinĩ wa ciambarĩ cia kũrara ĩrĩa-iũ, na igũrũ wa mũratĩ ũrĩa-iũ, na thĩinĩ wa nyũmba ya acarũ ĩrĩa-iũ, na thĩinĩ wa andũ ĩrĩa-arũ, na thĩinĩ wa itanoru ĩrĩa-iũ, na thĩinĩ wa mĩcangĩ ĩrĩa-ĩmagayithia igũthĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2121797783447dcf0a91815bdbdf4b8d42578055e092621944cd98a6a5de98cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/7\/27-28.1791269387419.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "rĩgũrahũrĩra"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rũĩ rwa Yeoru"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "ceparidea"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "makĩrĩa"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "makĩnyĩra"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "thĩinĩ wa nyũmba ĩrĩa-iũ"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "thĩinĩ wa ciambarĩ"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "cia kũrara ĩrĩa-iũ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "mũratĩ ũrĩa-iũ"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "thĩinĩ wa nyũmba"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "acarũ ĩrĩa-iũ"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "andũ ĩrĩa-arũ"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "itanoru ĩrĩa-iũ"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "mĩcangĩ ĩrĩa-ĩmagayithia igũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:47.431593371Z",
+  "model": "glm-5.3"
+}

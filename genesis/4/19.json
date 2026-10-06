@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ĩrĩ",
+      "rationale": "Gĩkũyũ ĩhoteke gũtwĩka atũmĩre acio o imwe tu — ciugo cia maũndũ macio nĩcongereirwo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Cerah",
+      "rationale": "צלה: shin ĩtuĩkaga c ya Gĩkũyũ, o ũguo na shime rĩa λ — Cerah"
+    }
+  ],
+  "translation": "Nake Lemeki ekoretwo atĩĩre atũmĩre akĩrĩka arĩa ĩrĩ: rĩĩtwa rĩa ĩmwe ĩrĩ Ada, na rĩĩtwa rĩa ya kerĩ ĩrĩ Cerah.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4e98817449e24cdcb5ba2ea1c47d0b392f54ee4ec609dcafe3f4a10232fd86ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/4\/19-19.1791269235221.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ekoretwo atĩĩre atũmĩre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akĩrĩka"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemeki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "arĩa ĩrĩ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "atũmĩre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "rĩa ĩmwe"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "na rĩĩtwa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rĩa ya kerĩ"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Cerah"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:15.228648037Z",
+  "model": "glm-5.3"
+}

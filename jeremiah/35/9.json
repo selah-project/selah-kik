@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ולבלתי",
+      "rationale": "Kiugo gĩa Kĩhibirania kĩa kũgeria 'kana ti' kĩngĩtagwo 'tia kĩndũ'; kĩnyiitwo ta 'ti' ya Gĩkũyũ."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kwa itũ⟩",
+      "rationale": "Kĩonekia kĩa andũ a ngwatiro kĩongĩtwo nĩgũo mũhuro ũmenyeke."
+    }
+  ],
+  "translation": "Na ti kũthũũra ⟨kwa itũ⟩ itũra-icio, tũikare irĩa-inĩ; na ndaarũ, na mũgũnda, na mbego — ti cio tũkoragwo na cio.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "aac4fd3ce362e79ccf549699206b83bca00ddddd75071f64a00a34704d207f6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/35\/9-9.1791270203713.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "kũthũũra"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "itũra"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "tũikare irĩa-inĩ"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "na ndaarũ"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "na mũgũnda"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "na mbego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tũkoragwo na"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwa itũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:23.717298520Z",
+  "model": "glm-5.3"
+}

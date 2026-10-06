@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלפני",
+      "rationale": "'kuuma mbere ya' — literally 'from the face of', Hebrew idiom for presence"
+    },
+    {
+      "kind": "addition",
+      "subject": "ũguo",
+      "rationale": "כאשר rendered as 'ũguo' to carry the comparative 'as\/just as'"
+    }
+  ],
+  "translation": "Moce akĩgota ⟨את⟩ mũthia kuuma mbere ya Yahwe, ũguo Yahwe amwoirĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d51510d463e6821832ada3a0243e7826fba278f0b087b8421f505c225b27d5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/20\/9-9.1791269576809.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akĩgota"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthia"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "mũthia"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "amwoirĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:56.815166658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kĩgaro",
+      "rationale": "כס: 'kĩgaro\/throne' (YLT, JPS) rĩcingĩtwo na 'kũrahuĩ\/oath' (Geneva, ASV, kuuma כסה 'kũrahuĩ') — tondũ ndemwa igĩrĩ cia rĩĩtwa cia יהוה nĩrehetwo, makũria igĩrĩ nĩmaihotwo kũrata ndemwa itatũ cia יהוה"
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Gĩkũyũ ĩrenda copula harĩa Kĩhibirania kĩtarĩ nayo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדר דר",
+      "rationale": "Kwigania kwa 'cianĩ nginya cianĩ' — kiugo kĩmwe kĩugarĩtwo igĩrĩ, gĩtikũoneka thĩinĩ wa gũtaũra"
+    }
+  ],
+  "translation": "Na akĩuga: Nĩ kwĩ ũthĩ igũrũ rĩ kĩgaro kĩa Yah; mbaara ⟨nĩ⟩ ya Yahwe na Amaleki, kuuma cianĩ nginya cianĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b02ae28a7e7fc575e40681deea860d16e788f084292d043988d08bb71bc8a470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/17\/16-16.1791269328163.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ kwĩ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ũthĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩ"
+    },
+    {
+      "surface": "כס",
+      "gloss": "kĩgaro"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mbaara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "na Amaleki"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "kuuma cianĩ"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nginya cianĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:48.167840885Z",
+  "model": "glm-5.3"
+}

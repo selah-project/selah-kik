@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 18:18",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "gorari",
+      "rationale": "Casting the lot is an act of apportioning and deciding — the verse is about measurement by lot."
+    },
+    {
+      "kind": "addition",
+      "subject": "arĩa marĩ na hinya",
+      "rationale": "Gĩkũyũ needs the full phrase for עצומים 'mighty\/numerous ones'."
+    }
+  ],
+  "translation": "Mĩguni — gorari nĩgũcihota, na gatagatĩ ka arĩa marĩ na hinya nĩgĩtigania.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6e4e5dedf217ecfb6a0cb36396652b88b8192e78a0846aabfe649bdc171381f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/18\/18-18.1791270548296.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדינים",
+      "gloss": "mĩguni"
+    },
+    {
+      "surface": "ישבית",
+      "gloss": "nĩgũcihota"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "gorari"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na gatagatĩ ka"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "arĩa marĩ na hinya"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "nĩgĩtigania"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:08.299538404Z",
+  "model": "glm-5.3"
+}

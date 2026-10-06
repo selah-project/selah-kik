@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 40:13",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "Kĩgĩko kĩa Gĩkũyũ kĩongererwo kũhonganĩria 'mũrũ' na rĩĩtwa"
+    }
+  ],
+  "translation": "Na Yohananani mũrũ wa Kareahi, na arutani othe a ngwatiro iria maarĩ irima-inĩ, makĩya kwa Gedarayahu Micirata.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bdc2462957a13e45fd2b8d2c26f6ef266f4a8071d8ee7c6db156413f41fca514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/40\/13-14.1791270267838.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "Na Yohananani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareahi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na othe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "arutani"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "a ngwatiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "irima-inĩ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "makĩya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedarayahu"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Micirata"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:27.863507062Z",
+  "model": "glm-5.3"
+}

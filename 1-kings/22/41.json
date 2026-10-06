@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 22:41",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mwaka wa kĩnai",
+      "rationale": " Accession dating formula synchronizing Jehoshaphat's reign with Ahab's fourth year."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atungatĩire",
+      "rationale": "מלך literally 'became king\/reigned'; inceptive accession sense rendered as 'began to rule'."
+    }
+  ],
+  "translation": "Na Yehocafati mũrũ wa Aca atungatĩire Yuda mwaka-inĩ wa kĩnai wa Ahabi mwathi wa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8f52f9b2ac45b6f4dae768b4559a9622835e4a49123af012a2bf871f5e400658",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/22\/41-42.1791270042666.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהושפט",
+      "gloss": "Na Yehocafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "wa Aca"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "atungatĩire"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka-inĩ wa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kĩnai"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "wa Ahabi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:42.670121355Z",
+  "model": "glm-5.3"
+}

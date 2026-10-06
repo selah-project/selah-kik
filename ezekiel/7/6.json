@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קץ\/הקיץ",
+      "rationale": "Pun on קץ (mũthia) and הקיץ (to wake) — the end has awakened — lost in Gĩkũyũ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨iwe⟩",
+      "rationale": "Pronoun supplied to mark the addressee of אליך"
+    },
+    {
+      "kind": "you",
+      "subject": "to you (o dweller in the land)",
+      "rationale": "אליך direct address; the end awakens against you"
+    }
+  ],
+  "translation": "Mũthia ũkĩya, mũthia ũkĩya; nĩamethithie kũrĩ ⟨iwe⟩; ona, nĩwĩkũra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "98248ee3d55cda948d373f7ed18895415d00a7b564f202c8684779040738ac8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/7\/6-6.1791270271633.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "Mũthia"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nĩwĩkũya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wĩkũya"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "mũthia"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "nĩamethithie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kũrĩ ⟨iwe⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "באה",
+      "gloss": "nĩwĩkũra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:31.640160264Z",
+  "model": "glm-5.3"
+}

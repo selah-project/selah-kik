@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 2:5",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ההבל\/ויהבלו",
+      "rationale": "Kĩhumo kĩmwe: ĩheni na kũhenĩka — kiugo gĩkũrũ gĩa mbere kĩarahũrire gĩa gĩkũrũ gĩa keerĩ, na gĩkũyũ nĩgĩũgĩte ũguo na 'ũheni\/a-ũheni'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה מצאו בי עול",
+      "rationale": "Kĩhooto kĩa mũbũi: 'nĩmaonire ũthũku ũrĩkũ i-inĩ wakwa?' kana o 'maũndũ ma ũthũku manonire' — YLT na JPS itatigana handũ ĩcio."
+    },
+    {
+      "kind": "you",
+      "subject": "Abarahamu\/Yaakobu",
+      "rationale": "Rora thutha wa kwarirĩria (Yeremia 2:4): Yahwe aramũrĩrire nyũmba ya Yaakobu na mĩcirĩ ĩrĩa ya nyũmba ya Yiceraeri."
+    }
+  ],
+  "translation": "Nĩguo Yahwe oigĩte: Ũthũku ũrĩkũ nĩmaonire maitĩkĩirie anyu i-inĩ wakwa, makĩrĩra gwĩthererwo kuuma-inĩ wakwa, magĩthiĩ thutha wa ⟨ש⟩ ũheni, na magĩtuĩka a-ũheni?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2d642bf1546895d69edbe535acc5512f6840319baa4d64d7908cb390333cdc5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/2\/5-5.1791270215511.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "manonire"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "nĩmaonire"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "maitĩkĩirie anyu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i-inĩ wakwa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "Ũthũku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩrĩ"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "makĩrĩra gwĩthererwo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kuuma-inĩ wakwa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "magĩthiĩ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "ההבל",
+      "gloss": "ũheni"
+    },
+    {
+      "surface": "ויהבלו",
+      "gloss": "magĩtuĩka a-ũheni"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:35.515878652Z",
+  "model": "glm-5.3"
+}

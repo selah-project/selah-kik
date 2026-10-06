@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרץ\/שרץ",
+      "rationale": "Noun and verb from one root — 'the creeping thing that creeps' — repetition lost in Gĩkũyũ"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Emphatic pronoun 'it' rendered weakly as 'kĩu'; Hebrew stresses identity with the abomination"
+    }
+  ],
+  "translation": "Na kĩndũ o wothe kĩrĩa kĩnyamĩrĩra igũrũ rĩa thĩ, nĩ kĩũru; kĩndũ kĩu tigwo kĩriwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "568bccfd34bceea2f0d53044870c49909e4e76d6753e1513874d6cf40b725173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/11\/41-41.1791269415561.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Na kĩndũ o wothe"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kĩrĩa kĩnyamĩrĩra"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kĩnyamĩrĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kĩũru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tigwo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kĩriwo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:15.565251699Z",
+  "model": "glm-5.3"
+}

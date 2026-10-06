@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 6:25",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "igũrũ",
+      "rationale": "השמים nĩ mbũrũ ĩrĩ igũrũ; 'igũrũ' ya kĩgogo nĩyo ĩhotorie mũno Kĩgĩkũyũ"
+    },
+    {
+      "kind": "addition",
+      "subject": "arĩa (mbere ya 'thĩ')",
+      "rationale": "Kĩgĩkũyũ kĩhĩtĩkaga kwarĩrĩria harĩa kĩndũ gĩa kũcookerwo kĩrĩ, Hebũrũ ĩrĩ gĩko kĩa wĩra kĩmwe"
+    }
+  ],
+  "translation": "Na we, ũkũhĩrĩrie kuuma igũrũ, ũhore cĩĩthĩ ya andũ au Yiceraeri, ũcookithie ⟨arĩa⟩ thĩ ĩrĩa ũ wahethire arĩa na makũme arĩa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f9fb5ac05ccda437869ba4e21efa150b4d056557c49a937dd9939326e38ff40b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/6\/25-25.1791270847212.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na we"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ũkũhĩrĩrie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "ũhore"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "cĩĩthĩ ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ au"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "והשיבותם",
+      "gloss": "ũcookithie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ ĩrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ũ wahethire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "ולאבתיהם",
+      "gloss": "na makũme arĩa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:07.218026833Z",
+  "model": "glm-5.3"
+}

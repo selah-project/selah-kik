@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Kĩhibirania kĩtirĩ na kĩugo kĩa 'nĩ' — kĩongĩtwo thĩinĩ wa ⟨…⟩ tondũ Gĩkũyũ kĩgĩrĩti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mwathani-inĩ wakwa",
+      "rationale": "מלכי nĩ 'mũthamaki wakwa' — 'Mwathani' nĩ kĩga kĩa Gĩkũyũ kĩhakanĩirie na ũthamaki wa mũthamaki"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועות",
+      "rationale": "Nĩ rũthiomi rwathererie — 'ciĩteerethi' ĩgĩtaũra ũtheri wa ngombo, kana 'mĩhĩtuko' ya tene"
+    }
+  ],
+  "translation": "Na Erohimu nĩ Mwathani-inĩ wakwa kuuma thutha-inĩ wa hĩndĩ ithenya, ũndũarĩ ng'ania wa ciĩteerethi gĩcunjĩ-inĩ kĩa thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2f14f5f83151a470e144381592d2c14b1b5532eeb0326ef74a1b36b593081ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/74\/12-12.1791270454142.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Na Erohimu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mwathani-inĩ wakwa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kuuma thutha-inĩ wa hĩndĩ ithenya"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ũndũarĩ ng'ania wa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ciĩteerethi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gĩcunjĩ-inĩ kĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:34.145898973Z",
+  "model": "glm-5.3"
+}

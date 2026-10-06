@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Harĩ",
+      "rationale": "Kiugo kĩa Gĩkũyũ kĩongĩtwo kũonania atĩ hari andũ acio — Kĩhibirania gĩtarĩ kĩo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ũrĩa wĩ",
+      "rationale": "Ambagĩrĩri ya ũrĩa mũkũrũ ũcio nĩ mũndũ — Kĩhibirania gĩkũngĩĩragia tu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור",
+      "rationale": "Kĩhumbo kĩa 'דור טמא' gĩgĩatĩrĩra mĩhía ĩrĩa ĩrĩ thĩinĩ wa Misheme 30:11-14 — kĩuga kĩmwe kĩarĩkĩra marĩa matatũ"
+    }
+  ],
+  "translation": "Harĩ mũkũrũ ũrĩa wĩ mũtheru thĩinĩ wa maitho make, na thĩna wake ndũkahũngagwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d599154c8888ae31682e1986660d49d2a0e89bf6234e672d4c4d76e21f4a2c6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/30\/12-12.1791270601823.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "mũkũrũ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mũtheru"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "thĩinĩ wa maitho make"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "na thĩna wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũkahũngagwo"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "kũhũnga"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:01.831584930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ene",
+      "rationale": "Kĩhibirania gĩtarĩ na kĩngi kĩa 'ĩrĩa ĩkenĩte'; kĩngĩ kĩonjeerwo nĩgeetha gĩcouke kĩega kĩa Gĩkũyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruaki",
+      "rationale": "רוח nĩ ruaki — kiugo kĩmwe kĩa Roho, rũhuho na mũhũmũ; ti 'mwoyo' wa Kĩthwahĩri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב … לב",
+      "rationale": "Kĩrorano kĩa ngoro na ngoro kĩrĩa kĩrĩtaa mĩena ĩĩrĩ ya mũhianano ũyũ"
+    }
+  ],
+  "translation": "Ngoro ĩrĩa ĩkenĩte nĩahotie ⟨ene⟩; na rĩa thĩna-inĩ wa ngoro, ruaki nĩegũthũkio.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9973592d0b5201c44e8bb556101b8b63a82c3fb95568cc3ba047ae96e20c191c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/15\/13-14.1791270577859.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ĩrĩa ĩkenĩte"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "nĩahotie"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ene"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "rĩa thĩna-inĩ wa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaki"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "nĩegũthũkio"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:37.863298296Z",
+  "model": "glm-5.3"
+}

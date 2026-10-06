@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 14:33",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Nĩ ũndũ ũcio",
+      "rationale": "Kĩũngĩro gĩa gũthoma kĩongĩtwo kuuma vayi ĩrĩa ĩtangĩte"
+    },
+    {
+      "kind": "substitution",
+      "subject": "akĩnyĩmĩra",
+      "rationale": "וישק nĩ 'kũnyĩmĩra' na o kũrĩta kwarĩ mũhianano wa kũgũcithia, ũrĩa Gĩkũyũ kwarĩ na mũhiananio ũngĩ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפיו ארצה",
+      "rationale": "Mũhianano wa kũguna 'hĩndĩ ya maĩ make—thĩ' nĩgũetwo na ciugo itatũ cia Kĩgĩkũyũ"
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio Yowabu akanjia kwa mwathi, akamũhotoria ⟨ye⟩; nĩamwĩtie Abacaromu, nakĩiya kwa mwathi, akĩmũguna amanyĩte thĩ imemem-inĩ make mbere ya mwathi; na mwathi akĩnyĩmĩra Abacaromu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9aeb88b74d87b032d9c9ba11d6d75d2c69e621216c7e2b685000c15dcefbeb0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/14\/33-33.1791269841920.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akanjia"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamũhotoria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ye⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nĩamwĩtie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abacaromu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nakĩiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akĩmũguna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yewe⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "amanyĩte"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "imemem-inĩ make"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akĩnyĩmĩra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Abacaromu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:21.922872674Z",
+  "model": "glm-5.3"
+}

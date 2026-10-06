@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yiceraeri",
+      "rationale": "Rhetorical questions addressed directly to the returnee community"
+    },
+    {
+      "kind": "idiom",
+      "subject": "no maikarage",
+      "rationale": "יחיו 'will they live' — literal question of mortality rendered with habitual Gĩkũyũ 'no maikarage'"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "איה",
+      "rationale": "Rare interrogative 'where?' — archaic particle, kept literal as 'ari he'"
+    }
+  ],
+  "translation": "Avothe anyu, ari he ao? Na marathi acio, no maikarage hĩndĩ ciothe?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "550ec0e151c7b956e5f1f2f26f86d911511dc5ef671e7041bb3e2e1b45a83d14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/zechariah\/1\/5-6.1791270459327.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "avothe anyu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ari he"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "na marathi acio"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "no maikarage"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:39.332168831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "'mwena-inĩ wa guoko' — nĩ mũhiano wa Kĩhibirania ũgĩtaũrwo 'hinya-inĩ wa', ti guoko kwĩhiũ"
+    },
+    {
+      "kind": "you",
+      "subject": "Obadia atĩ Erija",
+      "rationale": "mũgambo ũrĩa ũkũhoreria mũndũ na kũũria kwa mũndũ o mũthemba"
+    }
+  ],
+  "translation": "Naka arĩmũigua atĩa nĩmenete, atĩ nĩwe ũheaga ⟨את⟩ mũtarũ waku magũrũ-inĩ makĩa Ahabu, arĩkia kũmũnyitĩra nyina?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5329f3292743b23b15719c2ba4787eb98279b7979004891b46a4e0d7a4896e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/18\/9-9.1791269924926.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naka arĩmũigua atĩa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "atĩa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nĩmenete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ũheaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũtarũ waku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtarũ waku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "magũrũ-inĩ makĩa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "arĩkia kũmũnyitĩra nyina"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:44.926980402Z",
+  "model": "glm-5.3"
+}

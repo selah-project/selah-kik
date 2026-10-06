@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 5:9",
+  "book": "zechariah",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החסידה",
+      "rationale": "Rĩĩtwa rĩa nyoni rĩgĩa ũguni wa hecedi (tha) — andũ a hĩndĩ ĩyo maakuonie nyoni ĩno ya tha; gĩa kĩgango nĩgĩbatarĩkia."
+    },
+    {
+      "kind": "mystery",
+      "subject": "atumia eerĩ",
+      "rationale": "Kũonekana kwa ciugo kirĩa kĩa ũhoro kĩa ũrutani — atumia a mahũa mateerĩti tangĩmenyeka ndĩrĩ kũgwetwo mahinda-inĩ ma tondurĩ."
+    },
+    {
+      "kind": "hapax",
+      "subject": "החסידה",
+      "rationale": "Kiugo kĩa nyoni ĩno kĩonekana haarĩ mbere gĩtũrukumeni-inĩ tu wa ndamathia-ĩmwe ya Zekaria."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruaki",
+      "rationale": "ורוח nĩ ruaki — mũhũmũ\/rũhuho ũrĩa ũrarũmagĩra mahũa, ti 'mũraĩ' wĩ thingira."
+    }
+  ],
+  "translation": "Nĩĩriithia maitho makwa, nĩnoona, na rĩrĩ, atumia eerĩ nĩmacookire igũrũ, na ruaki mahũa-inĩ mao; nao mahũa mao nĩ mahũa ta mahũa ma nyoni ya hecedi; nĩmakĩĩngania ⟨את⟩ efa hakuhĩ gatagatĩ ya thĩ na ya igũrũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d0fcaeac41a68abbb7b94ee41be90908d206d063d184d027aec06488a97bce10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/zechariah\/5\/9-9.1791270415760.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "nĩĩriithia"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maitho makwa"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "nĩnoona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "atumia"
+    },
+    {
+      "surface": "יוצאות",
+      "gloss": "nĩmacookire igũrũ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "na ruaki"
+    },
+    {
+      "surface": "בכנפיהם",
+      "gloss": "mahũa-inĩ mao"
+    },
+    {
+      "surface": "ולהנה",
+      "gloss": "nao"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mahũa mao"
+    },
+    {
+      "surface": "ככנפי",
+      "gloss": "ta mahũa ma"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "nyoni ya hecedi"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "nĩmakĩĩngania"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:55.765656569Z",
+  "model": "glm-5.3"
+}

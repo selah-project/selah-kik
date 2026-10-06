@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 36:32",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במפגיע",
+      "rationale": "KJV yoona 'igũrũ rĩa mahũa makĩrĩa gatagatĩ' (mũthenya ũkaheanie); ASV\/JPS yona 'nĩguo ũnye kĩndũ kĩrĩa gĩkĩhĩtũkĩtie' (mũgwanja wa kũhĩtũkĩra)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "makũmbĩ merĩ-inĩ",
+      "rationale": "Geneva\/KJV yona 'mahũa' handũ ha makũmbĩ; Kihibirania kiuugĩte makũmbĩ, nĩ makwĩguo"
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩguo ũkĩhĩtũkĩre kĩndũ gĩa kũgwa",
+      "rationale": "Kiugo kĩa thutha kĩa במפגיע kĩrĩa gĩaheanie Kĩgĩkũyũ kĩingĩ kũingĩra harĩa gĩa kĩhĩtũkĩra kĩetagwo"
+    }
+  ],
+  "translation": "Jũ makũmbĩ merĩ-inĩ nĩatekire ⟨ũtheri⟩, na akĩahũrĩra ndagĩka yake, nĩguo ũkĩhĩtũkĩre kĩndũ gĩa kũgwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2d1b3b1b9f3f31d8df0cf07b4eb57c0c03f9ac880ddcce042782cdbea7e423ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/36\/32-32.1791270631301.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "jũ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "makũmbĩ merĩ-inĩ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nĩatekire"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "akĩahũrĩra"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ndagĩka yake"
+    },
+    {
+      "surface": "במפגיע",
+      "gloss": "nĩguo ũkĩhĩtũkĩre kĩndũ gĩa kũgwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:31.304680549Z",
+  "model": "glm-5.3"
+}

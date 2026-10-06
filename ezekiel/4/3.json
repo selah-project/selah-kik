@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nĩ⟩",
+      "rationale": "Kĩgũani kĩa 'nĩ' kĩongĩtwo gĩkundi kĩa rũciĩ na gĩtumbi, kĩrĩa Kĩhibirania kitarĩ nakĩo"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה",
+      "rationale": "Kiugo kĩa kĩmwe kĩa ⟨את⟩ kĩarĩ na kĩguni kĩa-ĩyo; kĩrũmagĩrĩra kĩu nĩgũo kĩothe kĩrutanĩrie"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחבת",
+      "rationale": "Gĩtumbi kĩa kũhĩa: 'iron pan' — gĩcunjĩ kĩa watho wa cairi, ti 'griddle' ya maũndũ manini"
+    },
+    {
+      "kind": "crux",
+      "subject": "והיתה במצור",
+      "rationale": "Andũ aingĩ a taũri metĩkĩrĩaga: mucĩ ũcio ũringĩtwo (ASV\/KJV) kana nĩ gĩtumbi kĩu kĩarĩ gĩkĩringĩrĩra (BSB); YLT nĩyo ĩrĩkĩte mwandĩko kuuma ũrĩa wagwetio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברזל … ברזל",
+      "gloss": "berezeri … rwa berezeri",
+      "rationale": "Kĩngĩcia kĩa berezeri kĩarĩ na mũthemba wa kũigua mũno: gĩtumbi kĩu nĩkĩatuĩkaga rũciĩ rwa kĩndũ kĩmwe — kĩrĩa kĩrĩa kĩamũkĩragia Yahwe kuma gatagatĩ"
+    }
+  ],
+  "translation": "Na nawe, hĩra gĩtumbi kĩa berezeri, na ũikere ⟨את⟩ kĩo ⟨nĩ⟩ rũciĩ rwa berezeri harĩ gatagatĩ kwawe na wa mucĩ ũcio; na ũgĩtie ⟨את⟩ ciĩthe gĩthiĩ kũrĩ ĩyo, na ĩyo ĩtũĩke harĩ kũringithania, na ũringĩre igũrũ rĩa ĩyo; nĩ ⟨nĩ⟩ cĩonjo kĩa nyũmba ya Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6307ba4fb77f133376ea747c5f8ce46414b6f9aacbebcbc472a79ce45da2e471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/4\/3-3.1791270333681.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na nawe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "hĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "gĩtumbi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "kĩa berezeri"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "na ũikere"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ kĩo"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "rũciĩ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rwa berezeri"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "harĩ gatagatĩ kwawe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na wa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mucĩ ũcio"
+    },
+    {
+      "surface": "והכינתה",
+      "gloss": "na ũgĩtie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩthe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ciĩthe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "gĩthiĩ kũrĩ ĩyo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "na ĩyo ĩtũĩke"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "harĩ kũringithania"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "na ũringĩre"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "igũrũ rĩa ĩyo"
+    },
+    {
+      "surface": "אות",
+      "gloss": "cĩonjo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kĩa nyũmba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:33.689047629Z",
+  "model": "glm-5.3"
+}

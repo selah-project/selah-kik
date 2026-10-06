@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 6:29",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וידרשו\/ויבקשו",
+      "rationale": "Paired near-synonymous verbs of searching, a Hebrew doubling for emphasis flattened into two Gĩkũyũ verbs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וידרשו",
+      "rationale": "C\/1875 can also mean 'to seek in worship\/consult'; here plain inquiry after the doer."
+    },
+    {
+      "kind": "measurement",
+      "subject": "investigation",
+      "rationale": "The verse narrates a systematic inquiry and search establishing who did the deed."
+    }
+  ],
+  "translation": "Na makĩuga mũndũ na mũrũ wake-wa-mwĩhoko, Nĩ ũndũ nĩake ũyũ wahotanie? Na makĩĩrora, makĩthondeka, na makĩuga, Gideoni mũrũ wa Yoaci nĩwe wahotanie ũndũ ũyũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f78cfd639ced13013058bc0221ea2857610395160c2e9f9bf0ee743d1a04ff10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/6\/29-29.1791269779168.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na makĩuga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mũrũ wake-wa-mwĩhoko"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩ ũ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wahotanie"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "וידרשו",
+      "gloss": "na makĩĩrora"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "makĩthondeka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "na makĩuga"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoaci"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wahotanie"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ũndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:19.169344091Z",
+  "model": "glm-5.3"
+}

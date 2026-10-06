@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ayo",
+      "rationale": "Hebrew וישבי בה 'and its dwellers in it' — bah carried by pronoun ayo"
+    },
+    {
+      "kind": "crux",
+      "subject": "כיאר",
+      "rationale": "'the one river' (the Nile) — kik yaaro captures single-channel stream; some render generic 'flood'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלה \/ אעלה",
+      "rationale": "Egypt rises (yaaleh) and boasts 'I will rise' (a'aleh) — same verb repeated, rhetorical echo"
+    },
+    {
+      "kind": "you",
+      "subject": "boast of Micirayimu",
+      "rationale": "Egypt speaks in first person — boastful direct speech, no addressee named"
+    }
+  ],
+  "translation": "Micirayimu ĩiyũrũraga ta yaaro, na ta mĩrongo-inĩ mvura ĩigatuũra; na akiuga: Nĩngĩyũra, nĩngĩingata ⟨את⟩ thĩ, nĩngĩhithia ⟨⟨ mucĩ na aciari ayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b9440503a075a2bdbcbde5f5296460884b30faae12d9777a19f5b6e0e7edc012",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/46\/8-8.1791270219292.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ta yaaro"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ĩiyũrũraga"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "na ta mĩrongo-inĩ"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "ĩigatuũra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akiuga"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Nĩngĩyũra"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "nĩngĩingata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "nĩngĩhithia"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mucĩ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "na aciari ayo"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:39.299438614Z",
+  "model": "glm-5.3"
+}

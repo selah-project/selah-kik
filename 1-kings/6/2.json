@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dimensions of the house",
+      "rationale": "Thutha cia nyumba: ama mĩrongo ĩtandatũ na mĩrongo ĩrĩ na mĩrongo ithatũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ama",
+      "rationale": "אמה nĩ kĩngomi kĩa kũpima (kĩo kĩa kĩoko, kuuma ikonomeria ginya ciara), ti 'mother' ta gĩthiomi kĩa Kĩhibirania kĩonanagia"
+    }
+  ],
+  "translation": "Na nyumba ĩrĩa mũthamaki Ceromono onjirie Yahwe — kũraya kwakĩo nĩ ama mĩrongo ĩtandatũ, na ũhari wakĩo nĩ ama mĩrongo ĩrĩ, na mũikũro wakĩo nĩ ama mĩrongo ithatũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d9d4348a0ceab825999f51165c956c6e02e3203f8ee3ecc6a982ca034d5ed854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/6\/2-3.1791269968251.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "onjirie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ceromono"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mĩrongo ĩtandatũ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kũraya kwakĩo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ũhari wakĩo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na mĩrongo ithatũ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "mũikũro wakĩo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:28.252209875Z",
+  "model": "glm-5.3"
+}

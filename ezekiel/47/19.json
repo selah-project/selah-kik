@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 47:19",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wake",
+      "rationale": "Kĩgathũ kĩa gĩcunjĩ kĩa mũrando kĩarĩ na ciugo gĩte kĩnyiitĩrwo 'wake' kũmonekana kwa mũrando"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי מריבות קדש",
+      "rationale": "Mĩena ya kũrerithania ya Kadedi: rĩĩtwa rĩa mahĩtia ma Meriba (Thoka 17:7); taũri nĩmo mehuranaga 'waters of strife' (KJV) na 'Meriboth-kadesh' (rĩĩtwa, JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגב\/תימנה",
+      "rationale": "Ciugo igĩrĩ cia rũraya hamwe — 'neghevi' (mũndũ wa kĩawa) na 'temana' (rũru rwa ũrĩa-irathĩro) — kĩhumo kĩarĩ kĩũgĩ kĩhĩthagĩtwo na Kĩgĩkũyũ kĩmwe 'mathagwa'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ũtheri wa mathagwa",
+      "rationale": "Kĩcunjĩ kĩa kũgeria mũgithima wa thĩ ya gĩtũkũ kĩa heo ya kũhĩthĩra"
+    }
+  ],
+  "translation": "Na ũtheri wa mathagwa, rũraya: kuuma Tamari gĩkĩra mĩena ya Meriboti-Kadedi, mũrando wake gĩkĩra iria inene; na ⟨את⟩ ũtheri wa rũraya, mathagwa-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f29151310cdbcff4049a84431c30f4b2762065305dd4333056cbbd3fadfb04ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/47\/18-19.1791270431213.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "Na ũtheri"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "wa mathagwa"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "rũraya"
+    },
+    {
+      "surface": "מתמר",
+      "gloss": "kuuma Tamari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩra"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mĩena"
+    },
+    {
+      "surface": "מריבות",
+      "gloss": "ya Meriboti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadedi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mũrando wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gĩkĩra"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "inene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ũtheri wa rũraya"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "wa rũraya"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "mathagwa-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:11.223440498Z",
+  "model": "glm-5.3"
+}

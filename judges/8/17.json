@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kĩonjo",
+      "rationale": "מגדל nĩ kĩonjo kĩa kũona kũrĩa kĩrĩa kĩhĩtagĩrĩku — kĩnginya kĩa kũrũmĩrĩra, ti 'minara' ya Kĩthwahĩri."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Kĩgĩkũyũ kĩhĩtĩkaga kĩongerwo 'a' gũtunganĩta ciana cia andũ harĩ 'andũ a gĩcĩgi'."
+    }
+  ],
+  "translation": "Na ⟨את⟩ kĩonjo kĩa Pinueri nĩagĩtua, na akĩthinja ⟨את⟩ andũ a gĩcĩgi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a7142174b84f3b3856c334fdf6a7910b0dcfff0d5f757caac632a48686c7b72f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/8\/17-17.1791269761151.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "kĩonjo kĩa Pinueri"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "kĩonjo"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pinueri"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "nĩagĩtua"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "na akĩthinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a gĩcĩgi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gĩcĩgi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:01.153544055Z",
+  "model": "glm-5.3"
+}

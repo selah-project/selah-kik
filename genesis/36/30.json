@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 36:30",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Kĩhibirania kĩtirĩ kĩgera kĩa 'kũbĩka'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאלפיהם",
+      "rationale": "harĩa itongoria-icio ciao (YLt\/ASV) handũ ha 'thutha wa mbarĩ ciao' (Geneva)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mwerekere",
+      "rationale": "mũhere wa mwerekere wa mbarĩ ũgithiĩ na ũgĩcooka"
+    }
+  ],
+  "translation": "Mũtongoria Dicani, mũtongoria Eceri, mũtongoria Dicani; aci ⟨nĩ⟩ atongoria a a-Cori, ciahũrainie bũrũri-inĩ wa Ceiri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d07a60a7e5efe55122f6391ec8748517872c3ecdb41cccd8017ae90e72aa0e89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/36\/29-30.1791269284630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "Mũtongoria"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Dicani"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mũtongoria"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Eceri"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mũtongoria"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dicani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aci"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "atongoria"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "a a-Cori"
+    },
+    {
+      "surface": "לאלפיהם",
+      "gloss": "ciahũrainie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Ceiri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:04.645407766Z",
+  "model": "glm-5.3"
+}

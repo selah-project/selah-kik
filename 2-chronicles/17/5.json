@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minaha",
+      "rationale": "מנחה nĩ minaha — kiheo\/kĩheo gĩa kũhoya; ti rĩrĩa rĩrĩ kĩheo kĩa thũnai"
+    },
+    {
+      "kind": "addition",
+      "subject": "akĩringithio",
+      "rationale": "ויהי לו nĩ 'nĩgwĩkĩtwo mwĩhotoro wake' — gĩgĩkũnyiitwo ta kĩngeranio kĩa gĩthũkũ"
+    }
+  ],
+  "translation": "Yahwe akĩmageria ⟨את⟩ ũthamaki mũkaru-inĩ wake, na Yehuda yothe nĩĩheere Yehocafati minaha, akĩringithio ũtonga na kũng'etwo mũno.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b2f97ce8343437993f16bc60015215357d7db3eb204a47cb5ec64658f2c9938d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/17\/5-5.1791270931510.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "akĩmageria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũthamaki mũkaru-inĩ wake"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mũkaru-inĩ wake"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "nĩĩheere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minaha"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Yehocafati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akĩringithio"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ũtonga"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "kũng'etwo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mũno"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:31.515142986Z",
+  "model": "glm-5.3"
+}

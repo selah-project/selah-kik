@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלס",
+      "rationale": "Mbandũ ithua: 'gũcĩria' (kũgeria ngoroinĩ) ta KJV, kana 'gũthieŋa mũhĩa ũtheru' ta ASV\/JPS — kĩugo gĩkũruta gũkorerera na gũthieŋa"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kuri mũthomi",
+      "rationale": "Kĩhooto kĩa kũgeria kĩrĩa kĩandĩkitwo nĩ gwĩka — mũhĩa ũrĩa wĩ ihűĩ"
+    }
+  ],
+  "translation": "Ĩcĩirie mũhĩa wa magũrũ maku, na mĩhĩa yaku yothe ĩtikare ĩgĩima.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b83300eab5f0a32aed16a32a85bd8130ae99c3c2ea9a0a3a5888c0f9a217937d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/4\/25-26.1791270562139.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "Ĩcĩirie"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "mũhĩa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "wa magũrũ maku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na yothe"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "mĩhĩa yaku"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ĩtikare ĩgĩima"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:22.145804150Z",
+  "model": "glm-5.3"
+}

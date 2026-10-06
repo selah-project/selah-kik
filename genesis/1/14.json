@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ĩtigithĩkie",
+      "rationale": "Kĩngeranio kĩa gũtheri kĩonjoritwo kana kĩngĩtirwo nĩgũo gĩtũmĩte ng'ania ĩrĩa ĩtigithĩkĩte ĩmenyek'e: 'mũthenya na ũgima' nĩwe ĩtigithĩkĩte."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩthenya na mĩaka",
+      "rationale": "Ciumbi cia maki nĩcio ciumbĩte mahinda — mĩthenya, mĩaka, na mahinda ma kũhĩranĩra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהי ... והיו",
+      "rationale": "Kĩngeranio kĩmwe kĩa 'kũkorũo' kĩarĩhĩririo igũrũ na thĩ marĩa: kahinda gatagatĩ-inĩ gĩa kĩngeranio kĩambĩrĩria na gĩa kũgĩa na kĩguni kĩayo — kahinda gakeni koigana hĩndĩ ĩmwe."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מארת",
+      "rationale": "Kĩngeranio kĩa mĩaki kĩa mwakĩ nĩ kĩrĩa gĩtũmĩte 'mĩaki' ĩratũũra ng'ania ya kahinda koigana mĩena ĩrĩ — mĩthenya mĩrĩ na mĩaka ĩrĩ — ĩrĩa ĩrĩa ĩkoragwo na mweri na riũa."
+    }
+  ],
+  "translation": "Na Erohimu akĩuga: Nĩgũkorũo mĩaki ya mwaki thĩinĩ wa kĩtheru kĩa igũrũ-rĩa-ĩrĩ, ĩtigithĩkie mũthenya na ũgima; na makorũo na tũcũranĩro, na mahinda ma kũhĩranĩra, na mĩthenya, na mĩaka.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "16c8a4adf3a7b836220786b3018dfc46ab5588cc96b34705861f1c447585c328",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/1\/14-14.1791269276822.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Nĩgũkorũo"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "mĩaki ya mwaki"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "thĩinĩ wa kĩtheru"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kĩa igũrũ-rĩa-ĩrĩ"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "ĩtigithĩkie"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gatagatĩ kĩa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na gatagatĩ kĩa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ũgima"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "na makorũo"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "tũcũranĩro"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "mahinda ma kũhĩranĩra"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "mĩaka"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:56.830579091Z",
+  "model": "glm-5.3"
+}

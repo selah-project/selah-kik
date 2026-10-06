@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 36:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "רב שקה",
+      "rationale": "Rabcake nĩ gethagia rĩĩtwa kĩa mũnene wa kĩbũrũri kĩa Aciri; kiugo gĩa kĩheani kĩarĩ thĩinĩ wa kĩongojĩ"
+    },
+    {
+      "kind": "addition",
+      "subject": "tũtekwĩhũra",
+      "rationale": "Kĩngerekea kĩa kũheania andũ a tene kĩarĩ hagũa, makĩrĩra ma kũhũra na kũigua ũhoro"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rũthiomi rwa ayahudi",
+      "rationale": "Kĩongojĩ gĩa ayahudi nĩ kĩongojĩ kĩa rũthiomi rwa Kĩheperi, na andũ arĩa makĩrĩra ayahudi makĩigua kĩugo kĩu"
+    }
+  ],
+  "translation": "Nĩrĩo Elyakimu na Shebena na Yoahi mekũuga atĩrĩ kĩrĩa Rabcake: Ũhoro witũ, ũrire ũcirĩrie na arĩa athũkũ maciarĩirie aramitha, nĩgũkorwo tũtekwĩhũra; na ndũkaŋũcoorie ithũĩ na rũthiomi rwa ayahudi, ithũĩro-inĩ rĩa andũ arĩa makĩrĩra mũgĩ wa mboco, tondũ tũtekwĩhũra ũguo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "272dd2215ad302f70fc863f23331cef8ff732c0ed95a620576a91cefcb2c4c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/36\/11-13.1791270186248.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mekũuga"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakimu"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "Shebena"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "Yoahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "caki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũrire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ũcirĩrie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "arĩa athũkũ maciarĩirie"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "aramitha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "tũtekwĩhũra"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndũkaŋũcoorie"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ŋũcoorie"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ithũĩ"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "rũthiomi rwa ayahudi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ithũĩro-inĩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "על",
+      "gloss": "makĩrĩra"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mũgĩ wa mboco"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:06.273028682Z",
+  "model": "glm-5.3"
+}

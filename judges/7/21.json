@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 7:21",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "garamara",
+      "rationale": "קום gĩtũmĩte 'kũima'; maũndũ macio nĩmakearahĩka nĩgetha gĩkombe kĩarĩ kĩmwe kĩa mahũdra"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויריעו",
+      "rationale": "Rĩrĩa kĩrĩa kĩarĩ kĩrũngĩrĩro kĩrũngĩrĩtwo nĩ 'kũhũra-rora'; kĩngĩ kĩrũngĩrĩtwo nĩ 'kũigua-raa' — ASV ĩrĩ 'they shouted, and put them to flight' na JPS 'shouted, and fled'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויריעו\/ויניסו",
+      "rationale": "Ciarĩa ĩrĩ cia hũdra ĩrĩa ĩrĩ circum cĩa Kĩhibirania — nĩ mũthemba wa kũhikania maũndũ matatũ marĩa Meni arĩ kĩrore"
+    }
+  ],
+  "translation": "Na makĩgaramara mũndũ harĩa wayaguĩrwo, mĩhoko ya kĩamba ĩrĩa ĩngĩ; na kĩamba gĩothe kĩĩnyitithanagĩra-ĩnyitithania, na mahũra matũĩgĩe, na makĩhĩra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4541ee4f446f361c0b3bf2ee931b5aee97546694434d2dc138031044cb3e7070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/7\/21-21.1791269768485.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "Na makĩgaramara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "harĩa wayaguĩrwo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mĩhoko-inĩ ya kĩamba ĩrĩa ĩngĩ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kĩamba-inĩ"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "na kĩĩnyitithanagĩra-ĩnyitithania"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gĩothe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kĩamba"
+    },
+    {
+      "surface": "ויריעו",
+      "gloss": "na mahũra matũĩgĩe"
+    },
+    {
+      "surface": "ויניסו",
+      "gloss": "na makĩhĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:08.487533711Z",
+  "model": "glm-5.3"
+}

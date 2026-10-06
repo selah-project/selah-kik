@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפר\/בוגד",
+      "rationale": "Verbũinĩ ayah mbĩrĩ nĩ ma kũingĩra — כפר (kũingira marĩhi) na בגד (kũingira kana kuũka thũ) — gĩtheri kĩu gĩtiekũonwo kĩngĩkũrũo."
+    },
+    {
+      "kind": "crux",
+      "subject": "kĩhuruto",
+      "rationale": "כפר: 'kĩhuruto' (kiongo kĩa kũhũrũra mũndũ) kana 'kĩguuro' — ta kwa YLT 'atonement'; Kikuyu gĩikarĩte na 'kĩhuruto' ta KJV 'ransom'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũhunyi",
+      "rationale": "בוגד nĩ 'mũndũ ũrĩa ũrĩa ekaga ithaka-inĩ mweri' — kĩhumo kĩa kiugo nĩ kũingira; 'mũhunyi' nĩ kĩongo kĩa Gikuyu kĩrĩa kĩhũthagĩrwo."
+    }
+  ],
+  "translation": "Mũndũ mũwoyo nĩ kĩhuruto kĩa mũcedeki, na mũhunyi agatũrwo handũ ha arĩa mahĩtũku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "de0ad9f1e36e07b23ec342086081de8d17cea610f5221aa5e9ba77341cc87796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/21\/18-18.1791270527515.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "kĩhuruto"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kĩa mũcedeki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mũndũ mũwoyo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "na handũ ha"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "arĩa mahĩtũku"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "mũhunyi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:47.519258177Z",
+  "model": "glm-5.3"
+}

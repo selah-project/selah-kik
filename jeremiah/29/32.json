@@ -1,0 +1,171 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 29:32",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "Kĩng'ania: 'gũciara' kana 'gũcoka kũrĩ ona'; taũri aingĩ manga 'gũteithia' — ũteithanio ũrĩa winyitĩtwo nĩ wĩhokeke"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סרה",
+      "rationale": "'ũtheri' — kiugo gĩa kũgũa kuuma ũrĩa ewe; taũri aingĩ mangĩ 'kũgũa-inĩ'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סרה\/על יהוה",
+      "rationale": "סורר על — kiugo gĩa gũcoka nyuma kuuma Yahwe, kĩonereta mũhiano wa mbũtũ ĩgũa"
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio, nguo Yahwe oigĩte: Ona, ini ndĩnyuithĩkĩria Cemayia mũNehiramu na mbẽ ya wĩra wake; ndakorũo na mũndũ ũikaraga thĩinĩ wa andũ acio, ndakana wega ũrĩa ini ndĩrekĩra andũ akwa, Yahwe oigĩte; nĩgũkorwo agwatĩte ũtheri wa Yahwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9789426e509f307fc0d260f8c5bb44492b2b6ad2abc60c4b34f4d6e9ef5eb538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/29\/31-32.1791270263333.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nĩ ũndũ ũcio"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ona, ini"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ndĩnyuithĩkĩria"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Cemayia"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "mũNehiramu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na kũrĩ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbẽ ya wĩra wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "korũo na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "we"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ũikaraga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ acio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "acio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na ndakana"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ndĩrekĩra"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "andũ akwa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwe oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "agwatĩte"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:23.357033245Z",
+  "model": "glm-5.3"
+}

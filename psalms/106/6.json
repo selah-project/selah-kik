@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטאנו \/ העוינו \/ הרשענו",
+      "rationale": "ciugo igatũrũo-igatũrũo itatũ irĩ mũtugo ũmwe wa kũrirĩra — kũigua kwa mũgambo ũrĩa ndũkonokio na Kĩkũyũ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "twahĩtĩtie",
+      "rationale": "kiugo kĩa kwĩyamba-inĩ kĩrĩa gĩĩtaga ndũrĩrĩ yothe yaikarĩrwo na mahĩtia mao"
+    }
+  ],
+  "translation": "Twahĩtĩtie hamwe na atherũ ithe, twahinyithie, twahĩngĩtie ũru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "03856d4282f497368d0752c7e56d7e9798df11b428c4a52e07726779394318f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/106\/5-6.1791270577789.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Twahĩtĩtie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hamwe na"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atherũ ithe"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "twahinyithie"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "twahĩngĩtie ũru"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:37.795855947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 5:18",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Belshazzar the king",
+      "rationale": "Daniel agĩrĩirie mwathi metha-inĩ: 'Wewe, mwathi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ithee",
+      "rationale": "אבוך kiugĩte 'ita' — Belshazzar aarĩ mũcenjere wa Nebukadnecari, ti mũrũ wake mũgo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ũthamaki\/ũnene\/mcemeri\/kũhootwo",
+      "rationale": "ciugo inya cia ũnene ciongeretwo na mũtheru ũmwe, ndari ya gũtheri kweri."
+    }
+  ],
+  "translation": "Wewe, mwathi, Eroha Mũnene-wa-igũrũ nĩahĩhire Nebukadnecari ithee ũthamaki, na ũnene, na mcemeri, na kũhootwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e13b480e25223f61d96be039feb0118fc518d78395a9d9150b0b4ec9b863d0e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/5\/18-19.1791271034027.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "Wewe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eroha"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "Mũnene-wa-igũrũ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "ורבותא",
+      "gloss": "na-ũnene"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na-mcemeri"
+    },
+    {
+      "surface": "והדרה",
+      "gloss": "na-kũhootwo"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "nĩahĩhire"
+    },
+    {
+      "surface": "לנבכדנצר",
+      "gloss": "Nebukadnecari"
+    },
+    {
+      "surface": "אבוך",
+      "gloss": "ithee"
+    }
+  ],
+  "timestamp": "2026-10-06T07:17:14.028811207Z",
+  "model": "glm-5.3"
+}

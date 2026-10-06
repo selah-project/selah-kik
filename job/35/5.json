@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "we",
+      "rationale": "Gĩkũyũ-inĩ kũrĩ ho kĩbũrũrio kĩa 'kũrĩ ũrĩkũ', ndeto cia Kĩhibirania ti nĩcio ciigĩte mũndũ ũcio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mĩhĩrĩga ya mũkũrũ",
+      "rationale": "שחקים nĩ 'thũnĩ ĩhenanie' kana 'ũtune wa mũkũrũ'; ũtheri wayo ũteyũtwo ta 'mĩhĩrĩga'"
+    },
+    {
+      "kind": "addition",
+      "subject": "rĩa-irĩ",
+      "rationale": "שמים nĩ ciugo igĩrĩ (dual) — gĩcunjĩ kĩa 'rĩa-irĩ' kĩonanjie kũgera kwa dual"
+    }
+  ],
+  "translation": "Rorithĩ igũrũ rĩa-irĩ, ũthĩe; ũrorithĩ mĩhĩrĩga ya mũkũrũ, nĩ ĩrĩ kĩguru kũrĩ ⟨we⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bae058dd131cbbd1107d34c388a7843a0c6d6582c00cbd5f89a16296c88e97a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/35\/5-5.1791270620613.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Rorithĩ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igũrũ rĩa-irĩ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ũthĩe"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "ũrorithĩ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mĩhĩrĩga ya mũkũrũ"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "nĩ ĩrĩ kĩguru"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kũrĩ ⟨we⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:20.617361163Z",
+  "model": "glm-5.3"
+}

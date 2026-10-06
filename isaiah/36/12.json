@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 36:12",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kĩrũmbũya kĩao na mĩrũũra yao",
+      "rationale": "Maũndũ ma kĩgomo nĩ ma kũheania maũndũ ma nyina-inĩ kĩu kĩrĩa gĩtariĩ kĩndũ kĩrĩa kĩrĩ huru, kana gĩkaigĩrĩra mũno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mwathi",
+      "rationale": "Adonai wa mũndũ nĩ mũneno mũkũyũ kana mũtumia, ti rĩĩtwa rĩa Ngai"
+    }
+  ],
+  "translation": "Nĩrĩo Rabcake akiuga atĩrĩ: Nĩkĩ mũnene wakwa nĩndanetere kwa mwathi wanyu na kwa nyinyi, ngĩciria ũhoro ũyũ? Nĩkũrĩ nyinyi arĩa methĩtwo mwaka-inĩ kĩndũ kĩa kũrĩa na kĩa kũnyua kĩu kĩrĩa kĩrĩ ũhoro ũcio?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "272dd2215ad302f70fc863f23331cef8ff732c0ed95a620576a91cefcb2c4c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/36\/11-13.1791270186248.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "caki"
+    },
+    {
+      "surface": "האל",
+      "gloss": "kĩ mũnene wakwa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mwathi wanyu"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "kwa nyinyi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ndanetere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mũnene wakwa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngĩciria ũhoro ũyũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio marĩa moi ng'ania"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "macio"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "marĩa moi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nĩkũrĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "arĩa methĩtwo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "makĩgocora"
+    },
+    {
+      "surface": "על",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mũgĩ wa mboco"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ kĩrũmbũya kĩao"
+    },
+    {
+      "surface": "חראיהם",
+      "gloss": "kĩrũmbũya kĩao"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "kũnyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mĩrũũra yao"
+    },
+    {
+      "surface": "שיניהם",
+      "gloss": "mĩrũũra yao"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "hamwe na nyinyi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:06.281473025Z",
+  "model": "glm-5.3"
+}

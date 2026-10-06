@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "maielĩ",
+      "rationale": "אילים: 'oaks' (KJV\/ASV) vs 'terebinths' (JPS) vs 'idols' (Wycliffe, metonymy for worship under sacred trees)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "honjoka \/ ihũriruo",
+      "rationale": "יבשו is literally 'dry up\/wither', תחפרו 'blush'; both rendered by Gĩkũyũ shame-words, losing the withering image that links to verse 30."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמדתם\/בחרתם",
+      "rationale": "Parallel pair 'desired\/chosen' with repeated אשר structure — the chiastic symmetry of shame matched to object is kept but the sound-pair is lost."
+    },
+    {
+      "kind": "addition",
+      "subject": "arĩa mwerethire \/ arĩa mĩathire",
+      "rationale": "Relative clauses fronted for clarity; Hebrew word order places the verb after the noun."
+    }
+  ],
+  "translation": "Nĩgũkorwo nĩmahonjoka nĩ ⟨arĩa mwerethire⟩ maielĩ, na maihũriruo nĩ ⟨arĩa mĩathire⟩ marũithĩro.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7e65a00ff7c3ab17bd4654ea0ee168d0397ae3c59309a5c68af9afa122deecfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/1\/29-29.1791270057443.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "nĩmahonjoka"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "maielĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "mwerethire"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "maihũriruo"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "marũithĩro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "mĩathire"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:57.443961598Z",
+  "model": "glm-5.3"
+}

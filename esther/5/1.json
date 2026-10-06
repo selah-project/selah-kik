@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 5:1",
+  "book": "esther",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nguo cia ũthamaki",
+      "rationale": "מלכות nĩ 'ũthamaki' wiki; YLT nĩyo iuga 'putteth on royalty' — kĩgĩkũyo nguo nĩcio ciigĩrĩirwo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכות",
+      "rationale": "Kiugo gĩkĩ gĩkarũmagĩrĩra metha-inĩ ithano: nguo, kĩgongona, nyũmba — mũhiano wa ũthamaki ũrĩa ũgũa Gĩkũyũ-inĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũthenya wa gatatũ",
+      "rationale": "Kũringana kwa mĩthenya ya kũthora rũhĩhĩ rwĩrĩ Kĩam 4:16"
+    }
+  ],
+  "translation": "Na nĩgũkuire mũthenya wa gatatũ, Eciteri aĩringĩra nguo cia ũthamaki, akĩmirikira kĩambĩrĩria-inĩ kĩa nyũmba ya mwathi, hakuhĩ na nyũmba ya mwathi; na mwathi aarĩ akiikara kĩgongona-inĩ gĩa ũthamaki wake, nyũmba ya ũthamaki-inĩ, hakuhĩ na mũrarangioni wa nyũmba.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "38a296339d09140f9db0851680b1a49f29d0722b09329ec953a54c9ef7b852c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/esther\/5\/1-1.1791270701426.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na nĩgũkuire"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya wa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "gatatũ"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "aĩringĩra"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eciteri"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "nguo cia ũthamaki"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "akĩmirikira"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kĩambĩrĩria-inĩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kĩa nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ya ndani"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mwathi"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "na mwathi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "aarĩ akiikara"
+    },
+    {
+      "surface": "על",
+      "gloss": "-inĩ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kĩgongona"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "gĩa ũthamaki wake"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ũthamaki-inĩ"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "hakuhĩ na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrarangioni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa nyũmba"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:41.430590360Z",
+  "model": "glm-5.3"
+}

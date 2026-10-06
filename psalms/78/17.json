@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Eriyoni mũnene",
+      "rationale": "עליון nĩ rĩĩtwa rĩa Kĩhibirania rĩgĩa kũrendwo ta Eriyoni, ti 'Mũnene Mũno' wiki"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחטא לו",
+      "rationale": "'gũciara ha ya we' — Kĩhibirania kĩugaga 'gũciara kwa wake', ciugo igĩrĩ cia mbaara ya mbere irĩ kĩgeranio kĩa njĩra ĩmwe"
+    }
+  ],
+  "translation": "Na makĩongerera o na bata gũciara ha ya we, mahakanĩra Eriyoni mũnene thĩinĩ wa gĩthaka.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a705cbe337c4ca5657bccd443759c295b561f4eda2c4d5410585ae6735ecc149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/78\/17-17.1791270466974.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "Na makĩongerera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "o na bata"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "gũciara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ha ya we"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "mahakanĩra"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eriyoni mũnene"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "thĩinĩ wa gĩthaka"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:46.977180803Z",
+  "model": "glm-5.3"
+}

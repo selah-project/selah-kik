@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 19:21",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ראשון",
+      "rationale": "Cimei nĩamenyete atĩ nĩwe wa mbere gũtherema nyũmba ya Yocefu yothe — kĩharo kĩa mũthemba ũrĩa ũrĩ kũingĩha."
+    },
+    {
+      "kind": "you",
+      "subject": "Dawidi",
+      "rationale": "Cimei ongororia mũgambo wake kwa mwathani moke thutha wa mũndũ ũcio, na mahinda manini kwĩigua atĩ nĩwe mũthingo wa mbere."
+    },
+    {
+      "kind": "crux",
+      "subject": "בית יוסף",
+      "rationale": "Cimei nĩamenyete atĩ nyũmba ya Yocefu nĩigũrũ kĩrĩa kĩa Biniyamini (Cimei nĩ mũndũ wa mũciĩ wa Biniyamini) — o na ũguo nĩakĩhoota atĩ nĩwe mũthemba wa mĩciĩ yothe ya rũrĩrĩ."
+    }
+  ],
+  "translation": "Nĩgũkorwo mũtumia waku nĩamenyete atĩ nĩngĩhingĩte mwolo; na rĩrĩ, nĩnjĩkĩte mũthenyu ũyũ, mũthemba wa nyũmba ya Yocefu yothe, gũtherema gũtuũkana na Mwathi wakwa mwathani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "73e7cd6611600aa58af03ec6745652ca18ee1bc386112215ac878117e111ad37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/19\/18-21.1791270014804.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nĩamenyete"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumia waku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩngĩ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nĩngĩhingĩte mwolo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rĩrĩ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nĩnjĩkĩte"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenyu ũyũ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "mũthemba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wa yothe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yocefu"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "gũtherema"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gũtuũkana na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathani"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:14.808611739Z",
+  "model": "glm-5.3"
+}

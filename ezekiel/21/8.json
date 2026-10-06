@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 21:8",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cembĩ",
+      "rationale": "חרב nĩ kĩhembe gĩa kũnjinia — 'cembĩ' ĩyũrĩtwo ta kĩguũ kĩa kũnjinia"
+    },
+    {
+      "kind": "crux",
+      "subject": "muhonyo",
+      "rationale": "תערה ĩngĩ ta 'kĩhembe' kana 'muhonyo wa kĩhembe'; kĩhingo kĩa muhonyo kĩrĩ kĩegeranio"
+    },
+    {
+      "kind": "you",
+      "subject": "kũndũ kwĩa Yiceraeri",
+      "rationale": "Yahwe arĩ na ũhoro na bũrũri wa Yiceraeri mwĩhoko"
+    }
+  ],
+  "translation": "Na ũũgĩte kũndũ kwĩa Yiceraeri: Nĩguo Yahwe oigĩte: Ũraĩ nawe, na nĩngĩhũra cembĩ yanjĩ kuuma muhonyo wake, na nĩngĩcinjira kuma harĩ we mũcedeki na mũmeni.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7b04d42c71d5c98c89e4eb8eaf9e5ff796df4f7eca23ee730e361e776ba4f33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/21\/8-8.1791270281114.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "na ũũgĩte"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "kũndũ kwĩa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ũraĩ nawe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "na nĩngĩhũra"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "cembĩ yanjĩ"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "kuuma muhonyo wake"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "na nĩngĩcinjira"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuma harĩ we"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mũcedeki"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "na mũmeni"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:41.121983465Z",
+  "model": "glm-5.3"
+}

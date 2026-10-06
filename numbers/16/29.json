@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 16:29",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "פקד nĩ 'kũnyĩrĩrwo' thĩinĩ wa maũndũ marĩa megũkorwo me hinya — kũonwo, kũhitanio, kũthingithania; taũri aingĩ mũhĩrĩga ũyũ wa ciugo matarĩ o ta kĩmwe."
+    },
+    {
+      "kind": "you",
+      "subject": "kũrira andũ",
+      "rationale": "Moce akorĩrĩ na kwaraya hĩndĩ ya mũtwe ũyũ andũ maingĩ marĩa mahĩtia."
+    }
+  ],
+  "translation": "Ĩ arĩa arĩa macio amaũtũte ta kũu kwĩnyĩte andũ aohole, na kũnyĩrĩrwo kwa andũ aohole nĩguo kĩũrũkaga harĩ ao, ndio Yahwe nĩndĩtũmĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e37dceae0b8b488bffdf73585ea92cf18946763828b703155f5cfed0bf68cd18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/16\/29-30.1791269653297.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ĩ"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "ta kũu kwĩnyĩte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aohole"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "ימתון",
+      "gloss": "arĩa macio amaũtũte"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "arĩa macio"
+    },
+    {
+      "surface": "ופקדת",
+      "gloss": "na kũnyĩrĩrwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aohole"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "nĩguo kĩũrũkaga"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "harĩ ao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "nĩndĩtũmĩte"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:13.301349903Z",
+  "model": "glm-5.3"
+}

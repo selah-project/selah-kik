@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא לנו...לא לנו",
+      "rationale": "Kũrĩnganĩrwa kwĩhĩtia kuonekanite (tiri ithuĩ... tiri ithuĩ) — kĩguni kĩa mũhoro gĩtigithĩkĩire."
+    },
+    {
+      "kind": "addition",
+      "subject": "no",
+      "rationale": "Kĩngeranio gĩa kwaranĩria kĩhongore (תן nĩ kĩhooto kĩa kũheera) — Kĩhibirania kĩayarĩrire ha gĩkundĩ kĩu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gwĩtĩkĩra gwaku",
+      "rationale": "אמת nĩ 'ũgĩkĩro\/gwĩtĩkĩka' — 'kwĩria' ti ũrĩa Kĩhibirania kiugĩte mũno."
+    },
+    {
+      "kind": "invitation",
+      "subject": "mabataro ma Yahwe",
+      "rationale": "Mwandĩko ũyũ nĩ mahoya manjĩrĩirie magĩrĩirie Yahwe — kũhootana kwa gũthomwo ndũrĩrĩ-inĩ."
+    }
+  ],
+  "translation": "Tiri ithuĩ, Yahwe, tiri ithuĩ, no rĩĩtwa rwaku he utaũku, nĩ ũndũ wa hecedi waku na wa gwĩtĩkĩra gwaku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b06d30c2e2b930f1debaf9369f415982b5668e4a632fdd566ddef959e9da0d37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/115\/1-1.1791270538962.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ithuĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "rĩĩtwa rwaku"
+    },
+    {
+      "surface": "תן",
+      "gloss": "he"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "utaũku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hecedi waku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ wa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "gwĩtĩkĩra gwaku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:58.966256296Z",
+  "model": "glm-5.3"
+}

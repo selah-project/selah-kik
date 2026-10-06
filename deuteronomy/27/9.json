@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הסכת",
+      "rationale": "Rĩĩtwa rĩa 'thiihara rĩngĩ' nĩ kũonania kĩguni kĩa kũiguithia thiĩ hatĩe mbere ya kũigĩra; Kĩhibirania kĩugaga 'ĩkĩra na ũtheri'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yiceraeri",
+      "rationale": "Kwarĩ o kũheania Yiceraeri ũhoro ũrĩa wa kũigĩra na kũyumbũria wa tondikĩ."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Thiihara rĩngĩ, ũigĩrĩe",
+      "rationale": "Cioimbũra nĩcio itũmaga mũthomi akanjia mawĩra ma kĩrĩkanĩro."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mũndũ kwa Yahwe",
+      "rationale": "Kĩrĩkanĩro gĩa Kĩhibirania kĩugaga 'nĩwatũire mũndũ kwa Yahwe'; gĩa kĩhĩtĩka nĩgũo 'wĩ mũndũ', no gĩteretere kĩa ũhoro nĩkĩu."
+    }
+  ],
+  "translation": "Moce na akahani a Ariũ nĩmaugire kwa Yiceraeri othe, magĩrĩra: Thiihara rĩngĩ, Yiceraeri, ũigĩrĩe; ũmũthĩ nĩwatũire mũndũ kwa Yahwe Erohimu waku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "64957f817635be069d352d961d6ce4488f81f273be54969de6165041c08e50b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/27\/9-9.1791269704545.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nĩmaugire"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "akahani"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a Ariũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "magĩrĩra"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Thiihara rĩngĩ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ũigĩrĩe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "nĩwatũire"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kwa Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:04.545712466Z",
+  "model": "glm-5.3"
+}

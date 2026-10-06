@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 13:35",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mwathi",
+      "rationale": "המלך nĩ mwathi wa mũndũ, ti Rĩĩtwa rĩa Ngai; 'mwathi' nĩ kĩega harĩa kĩrĩa kĩhootanĩtia na mũthamaki."
+    },
+    {
+      "kind": "elision",
+      "subject": "כדבר עבדך",
+      "rationale": "Kiugo kĩa Kĩhibirania 'gĩthimo kĩa mũtumĩre waku' kĩrutĩtwo 'ũrĩa mũtumĩre waku woigĩte' — mano nĩmahĩtia."
+    }
+  ],
+  "translation": "Na Yonadabu akĩuga kwa mwathi: Ũtuĩka! Aana a mwathi maĩkũrire; ũrĩa mũtumĩre waku woigĩte, nĩguo gwĩkĩte.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "273484c2f843630ed93d4445b53c6fd5d5c4d872cf9b000fcbaeff2fd2d1a9ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/13\/35-35.1791269842856.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ũtuĩka!"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Aana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mwathi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "maĩkũrire"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ũrĩa woigĩte"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumĩre waku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nĩguo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gwĩkĩte"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:22.857264298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census total of Yuda",
+      "rationale": "Kũbarua kwa mũciĩ wa Yuda — 76,500."
+    }
+  ],
+  "translation": "Ici nĩ mĩhĩrĩga ya Yuda arĩa moobore, nĩ magana matatũ na mĩrongo ĩrĩ na ithano, ngiri irĩ na mĩrongo ĩrĩ, magana matano.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f766c4f72c86fedfbfe3b2dfda94fa539af41abb8d2d18ac834061f6ed6718af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/26\/22-22.1791269558712.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mĩhĩrĩga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "arĩa moobore"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "matatũ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mĩrongo ĩrĩ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngiri ĩrĩ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana matano"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:38.716068597Z",
+  "model": "glm-5.3"
+}

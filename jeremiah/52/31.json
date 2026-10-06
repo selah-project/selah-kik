@@ -1,0 +1,166 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 52:31",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את ראש",
+      "rationale": "'gũhūrũra mutwi' nĩ mũhiano wa Kĩhibirania ũugaga 'kũhoota, kũhonokia' — ta Mbarithi 6:26."
+    },
+    {
+      "kind": "crux",
+      "subject": "mwaka wa mĩathīre",
+      "rationale": "KJV\/ASV emanyaria 'mwaka wa mbere wa mĩathīre yakĩa'; Kĩhibirania kĩu kĩrĩ o 'בשנת מלכתו' — 'mwaka-inĩ wa mĩathīre yakĩa'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩaka mĩrongo ĩtatũ na mũrũngiwa",
+      "rationale": "Kĩcunjĩ kĩa gũtarĩria mĩaka, mweri na mũthenya — kĩrĩkanĩro kĩa hĩndĩ ya maũndũ."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הכליא",
+      "rationale": "Kiugo kĩa nyũmba ya kũhereeria kĩonekana hakuhĩ gĩkũrũ-inĩ kĩa Kĩhibirania; 'kũhereeria' nĩ gĩtaũra kĩa mũhianĩre."
+    }
+  ],
+  "translation": "Nĩkĩguũka mĩaka mĩrongo ĩtatũ na mũrũngiwa wa kũndũngatirwo kwa Yehoyakini mũthamaki wa Yehuda, mweri wa gĩkũmĩrĩ-inĩ, mweri-inĩ ũcio thaa ya mĩrongo ĩrirĩ na ithano, Ewi-Merodaki mũthamaki wa Babeli, mwaka-inĩ wa mĩathīre yakĩa, ũrahūririe ⟨את⟩ mutwi wa Yehoyakini mũthamaki wa Yehuda, namo ũmũthondeke ⟨את⟩ ĩwe kuuma nyũmba ya kũhereeria.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e62c5431f981fd6c73360794b507ff968c93c9c85831a081bd64642ffd7717bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/52\/31-31.1791270335259.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nĩkĩguũka"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "mĩrongo ĩtatũ-inĩ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "na mũrũngiwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "wa kũndũngatirwo"
+    },
+    {
+      "surface": "יהויכן",
+      "gloss": "Yehoyakini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "gĩkũmĩrĩ-inĩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ĩrĩ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mweri"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "mĩrongo ĩrirĩ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na ithano"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mweri ũcio"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ũrahūririe"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "Ewi"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "Merodaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "mwaka-inĩ"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "wa mĩathīre yakĩa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutwi wa Yehoyakini"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwi"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "namo ũmũthondeke"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ĩwe",
+      "marks": "ĩwe kuuma nyũmba ya kũhereeria"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kuuma nyũmba"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "ya kũhereeria"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:35.274167231Z",
+  "model": "glm-5.3"
+}

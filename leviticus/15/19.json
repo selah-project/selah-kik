@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 15:19",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩthenya mũgwanja",
+      "rationale": "Kũringana kwa mĩthenya ya mũgwanja nĩkuo kũrahukĩtie ũtheru wa mũka ũcio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבה\/זבה",
+      "rationale": "Kiugo kĩa kũingĩha kĩrarĩkaria kanitha-inĩ kĩmwe — koigana kwacio nĩgũtuĩka thaaka thĩinĩ wa kĩgooco"
+    }
+  ],
+  "translation": "Na mũka rĩrĩa ekũingĩha thing'u — thing'u ĩrĩkũingĩha mwĩrĩ-inĩ wake — nĩekũoneka thiiri-inĩ yake mĩthenya mũgwanja; na wona ũrĩa ũmũkorerera nĩekũorwo ndĩtheru nginya ũthĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f58b8536231e0cc32552b96fb3644f576ed7ef09cc430dfaf02c321c4e2d4a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/15\/17-19.1791269547261.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "na mũka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekũingĩha"
+    },
+    {
+      "surface": "זבה",
+      "gloss": "kũingĩha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "thing'u"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ĩrĩkũingĩha"
+    },
+    {
+      "surface": "זבה",
+      "gloss": "kũingĩha"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "mwĩrĩ-inĩ wake"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "mũgwanja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekũoneka"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "thiiri-inĩ yake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na wona"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ũrĩa ũmũkorerera"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kũu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nĩekũorwo ndĩtheru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ũthĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:27.263685174Z",
+  "model": "glm-5.3"
+}

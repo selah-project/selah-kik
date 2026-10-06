@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 13:13",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידם",
+      "rationale": "Hebrew 'upon their hand' rendered as 'igũrũ rĩa moko mao' (under their hand\/charge)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכהן",
+      "rationale": "Rendered mũthabari (one officiating\/serving at the sanctuary), keeping the office not a title."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta arĩa",
+      "rationale": "Hebrew נחשבו is passive 'were reckoned'; the comparative ta supplied for Gĩkũyũ flow."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ועליהם",
+      "rationale": "Read distributively 'and upon them was the duty' rather than 'over them'."
+    }
+  ],
+  "translation": "Nĩndĩĩhattanĩire athiaigĩri kũrũa macukuru ma mahĩtia: Ceremija mũthabari, na Cadoki mũandĩki, na Fedaja wa arĩa a Levi; na igũrũ rĩa moko mao Hanana mũrũ wa Cakuri, mũrũ wa Matanja; nĩgũkorwo nĩmaarerithanio ta arĩa maheiro-theri, na mahĩtia mao nĩkuo kũgawanira arũa-ao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cad43ac680647c204efb387de35b148b17752e85b6f05903f31279875db95eaf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nehemiah\/13\/13-13.1791270843774.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואוצרה",
+      "gloss": "nĩndĩĩhattanĩire athiaigĩri"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrũa"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "macukuru ma mahĩtia"
+    },
+    {
+      "surface": "שלמיה",
+      "gloss": "Ceremija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũthabari"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "na Cadoki"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "mũandĩki"
+    },
+    {
+      "surface": "ופדיה",
+      "gloss": "na Fedaja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "aría a Levi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na igũrũ rĩa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "moko mao"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Cakuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "maheiro-theri"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "nĩmaarerithanio"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "na mahĩtia mao"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "kũgawanira"
+    },
+    {
+      "surface": "לאחיהם",
+      "gloss": "arũa-ao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:03.780890984Z",
+  "model": "glm-5.3"
+}

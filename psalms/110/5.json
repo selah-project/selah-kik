@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wĩrũ",
+      "rationale": "א׷ף nĩ irĩri\/nĩthĩ; wĩrũ nĩ wonjoria wa kanithari-inĩ, ta ũthingu wa mũndũ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Adonai arĩ harĩ ũrĩa-rĩu",
+      "rationale": "Ta KJV\/BSB: Adonai nĩwe mũthiĩrĩri hĩndĩ ya kwĩhoka; ta YLT: Adonai nĩagweteteka kuuma harĩ ũrĩa-rĩu"
+    },
+    {
+      "kind": "addition",
+      "subject": "harĩ",
+      "rationale": "Kĩgani kĩa Gĩkũyũ kĩrĩa kĩonereria kũhana kwa thĩnĩ, kĩongĩtwo"
+    }
+  ],
+  "translation": "Adonai arĩ harĩ ũrĩa-rĩu wa kwo-rĩu-rĩ; nĩagweteteka athamaki thĩinĩ wa mũthenya wĩrũ wake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "63d56b4f8f5d71e278694fd7274a326dc500a1cda62d31b12db898d85977dcda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/110\/5-5.1791270525581.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ũrĩa-rĩu wa kwo-rĩu-rĩ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "nĩagweteteka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "thĩinĩ wa mũthenya"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "wĩrũ wake"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "athamaki"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:45.585373255Z",
+  "model": "glm-5.3"
+}

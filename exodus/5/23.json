@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nĩahunjirie",
+      "rationale": "הרע: andũ make oigaga 'Farao nĩahunjirie' (Geneva, KJV); Ibrania ĩrĩ kuuga 'we [Yahwe] nĩahunjirie' — Moce ekũrire Yahwe mwĩhoke."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הצל\/הצלת",
+      "rationale": "kũhũrithia koorio rũgiri-inĩ rwaguo — infinitive na kĩri kĩa nginyo, mũhiano wa Gĩkũyũ ũgĩtaũrwo na 'ũndũ ũngĩ'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũndũ-wa-thĩ",
+      "rationale": "לעם nĩ 'andũ maũndũ-inĩ ma kũiguithania'; kĩrĩkanĩro kĩa kĩhũthĩro kĩmwe kĩarĩ kĩngĩ."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Moce arĩkaria Yahwe mwĩhoke wa ma."
+    }
+  ],
+  "translation": "Na kuuma rĩrĩa ndĩkũrire kwa Farao ngĩrĩkaria Rĩĩtwa rĩaku, nĩahunjirie ũru mũndũ-wa-thĩ ũyũ, na kũhũrithia ũndũ ũngĩ nĩ ũndũ ndũkahũrithia ⟨⟨את⟩⟩ andũ aku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c4894410d75eb13a60d32b55d4cc8f9efb64ac1a2e91185bf11b94b19d3f9bc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/5\/23-23.1791269337264.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "na kuuma rĩrĩa"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndĩkũrire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngĩrĩkaria"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Rĩĩtwa rĩaku"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nĩahunjirie ũru"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mũndũ-wa-thĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "na kũhũrithia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nĩ tĩĩ"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "ndũkahũrithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ aku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ aku"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:57.266558950Z",
+  "model": "glm-5.3"
+}

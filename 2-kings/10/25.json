@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 10:25",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Kĩhibirania kĩugaga 'kanua gwa cegũ' — kĩgeranio gĩa kũhĩa kwa cegũ; gĩatũũrwo ta kĩmwe nĩgeetha kĩoneke."
+    },
+    {
+      "kind": "crux",
+      "subject": "עיר בית הבעל",
+      "rationale": "'Gĩciaro kĩa nyũmba ya Baari' kana 'kĩhingo kĩa thutha kĩa nyũmba ya Baari' (BSB); עיר ti 'gĩciaro' wiki no kĩhingo kĩa tonyanĩrio."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨arĩa herĩ ndani⟩",
+      "rationale": "Kĩhibirania gĩtirĩ kĩuga kĩndũ ũguo — Yehu ndaagĩrĩiruo atĩrĩ; ĩngeretwo nĩgeetha ũhoro oneke."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלשים",
+      "rationale": "Kiugo kĩonanagia 'arĩa maarĩ gĩkundi kĩa gatatũ' — athĩnjĩri a Yehu aria mĩena ĩtatũ; kiugo kĩa gĩthomo gĩaikenio."
+    }
+  ],
+  "translation": "Rĩrĩa Yehu arĩkĩtie gwĩka igooti rĩa kũhiũha, akĩuga ũrĩa arĩ mahiũhagia na ũrĩa arĩ mathatũ-rĩa: İthĩrai mũcenje ⟨arĩa herĩ ndani⟩, mũndũ ndakearĩrĩra kũira; namũcenjirie na kanua gwa cegũ, arĩa mahiũhagia na arĩa mathatũ-rĩa namatũũrĩirie magĩthĩra gĩciaro-inĩ kĩa nyũmba ya Baari.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "74345314d9e9f2a6f95e47f6a24918356305c5fc10b4d37e0bbde427bff89388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/10\/25-25.1791270055736.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "arĩkĩtie"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "gwĩka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "igooti rĩa kũhiũha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "לרצים",
+      "gloss": "ũrĩa arĩ mahiũhagia"
+    },
+    {
+      "surface": "ולשלשים",
+      "gloss": "na ũrĩa arĩ mathatũ-rĩa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ithĩrai"
+    },
+    {
+      "surface": "הכום",
+      "gloss": "mũcenje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nda"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kearĩrĩra kũira"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "namũcenjirie"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na kanua"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gwa cegũ"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "namatũũrĩirie"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "arĩa mahiũhagia"
+    },
+    {
+      "surface": "והשלשים",
+      "gloss": "na arĩa mathatũ-rĩa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "magĩthĩra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩciaro-inĩ kĩa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "gĩciaro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baari"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:55.736910468Z",
+  "model": "glm-5.3"
+}

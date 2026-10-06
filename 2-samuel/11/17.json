@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "arĩa makũrũomwo",
+      "rationale": "Hebrew 'fell of the people' has no explicit 'some'; supplied as a bracketed relative phrase"
+    },
+    {
+      "kind": "substitution",
+      "subject": "athĩnjĩri",
+      "rationale": "עבדי is 'servants' (atumia); 'athĩnjĩri' is an alternative reading — 'atumia a Dawidi' is closer"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפל מן העם",
+      "rationale": "'and (some) of the people fell' — the verb נפל (fall) does double duty for casualties, softened in most versions"
+    }
+  ],
+  "translation": "Andũ a tũũĩ nĩmaciĩrĩkũire, makĩrĩta ⟨את⟩ Ũyabu; akiumbe andũ arĩa makũrũomwo, kuuma athĩnjĩri a Dawidi; na Ũriya Mũhiti nĩakuwo na ũwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "aee4762bafee3b1b97409336d222fce286a07b7b277bd9d26fe8a40de4eebdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/11\/17-17.1791269813380.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "nĩmaciĩrĩkũire"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tũũĩ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "makĩrĩta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ũyabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ũyabu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "akiumbe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "athĩnjĩri a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nĩakuwo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ũriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mũhiti"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:53.381849617Z",
+  "model": "glm-5.3"
+}

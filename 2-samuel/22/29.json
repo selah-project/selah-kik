@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ciumbe-inĩ cia kĩndũ kĩingĩ",
+      "rationale": "חשכי nĩ ciumbe-inĩ (kĩndũ gĩa kĩumbe) ciagwetetwo ta 'ciumbe njerũ'"
+    }
+  ],
+  "translation": "Nĩgũkorwo Wee nĩwe ũtheri wakwa, Yahwe, na Yahwe nĩakumĩrĩria ciumbe-inĩ cia kĩndũ kĩingĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5dc7b97adecde13848a346239f2ecda8b30fdc5e71cf47f8015c62b150f9d36a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/22\/29-30.1791269953943.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "ũtheri wakwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "nĩakumĩrĩria"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "ciumbe-inĩ cia kĩndũ kĩingĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:13.946857930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 36:29",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "amahĩĩrũ",
+      "rationale": "תואמם\/תמים nĩ 'kũtuĩka mahĩĩrũ' — maũndũ maberĩ monanĩte; ciuge cia Kĩthwahĩri 'coupled\/entire' nĩcionanĩte mũhianĩre ti ũhoro wa kĩonekoro"
+    },
+    {
+      "kind": "measurement",
+      "subject": "itũĩrĩ \/ makũndũ matũ",
+      "rationale": "Kĩhooto kĩa kũigura kwa mbere nĩkĩgeretwo: itũĩrĩ na makũndũ matũ"
+    }
+  ],
+  "translation": "Na nĩmaatuĩkire amahĩĩrũ thĩ; na hamwe nĩmahĩĩrũkĩte igũrũ rĩakĩo, harĩ ndaraca ĩmwe; akĩdogora ũguo itũĩrĩ, harĩ makũndũ matũ matũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "93adff16f1fd9e0214e0730f56a503377e89a045af3e96b4b9bea4f23c050042",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/36\/29-29.1791269400009.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "nĩmaatuĩkire"
+    },
+    {
+      "surface": "תואמם",
+      "gloss": "amahĩĩrũ"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "nĩmahĩĩrũkĩte"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mahĩĩrũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "igũrũ rĩakĩo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ndaraca ĩmwe"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "⟨ĩmwe⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akĩdogora"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "itũĩrĩ"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "matũ"
+    },
+    {
+      "surface": "המקצעת",
+      "gloss": "makũndũ matũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:00.013165814Z",
+  "model": "glm-5.3"
+}

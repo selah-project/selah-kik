@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 2:10",
+  "book": "haggai",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mũthenya na mweri na mwaka",
+      "rationale": "Kĩcunjĩ gĩa kũbara mũthenya, mweri, na mwaka wa ũtuairo wa kiugo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũrathi",
+      "rationale": "הנביא — kiugo kĩa Gĩkũyũ gĩkiri kĩa 'נביא', ti 'mũnabii'"
+    }
+  ],
+  "translation": "Mũthenya wa mirongo ĩrĩ na inya, wa mweri wa kenda, mwaka wa kerĩ wa Dariyavu, kiugo kĩa Yahwe kĩgĩkĩra Hagai mũrathi, kĩugĩte:",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "70e4cc0fe2758aa16c69219e070196cfe7f1430315e7217d532af1ca6b29c48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/haggai\/2\/9-10.1791270425448.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעשרים",
+      "gloss": "wa mirongo ĩrĩ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "na inya"
+    },
+    {
+      "surface": "לתשיעי",
+      "gloss": "wa mweri wa kenda"
+    },
+    {
+      "surface": "bשנת",
+      "gloss": "mwaka wa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kerĩ"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "wa Dariyavu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kĩgĩkĩra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩrĩ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hagai"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kĩugĩte"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:05.454709718Z",
+  "model": "glm-5.3"
+}

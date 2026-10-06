@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/נצר",
+      "rationale": "Verba igĩrĩ igetwo 'kũrora' na 'kũrindithia' — gĩcunjĩ kĩa kũhaanĩrĩria kwĩvirĩ, ta thaa ya mawathi matatũ."
+    },
+    {
+      "kind": "crux",
+      "subject": "מזמה",
+      "rationale": "Rĩrĩa kiugo gĩkũhĩta ũtheri kana gĩakinya ũru — 'mĩhang'o ĩtheru' gĩtigĩrĩire kwa ũhoro ũyũ wa Mishemi."
+    }
+  ],
+  "translation": "Mĩhang'o ĩtheru nĩgũkũrora igũrũ rĩaku; ũgĩ nĩgũkũrindithia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c7a97778ebfabf23b7971b087d9943b85e7ee9ceac18fde1cca23a66fa2c602f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/2\/11-11.1791270545438.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "mĩhang'o ĩtheru"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "nĩgũkũrora"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "nĩgũkũrindithia"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:05.441449850Z",
+  "model": "glm-5.3"
+}

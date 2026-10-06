@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matukũ ma maitho",
+      "rationale": "עפעפים nĩ ngothi irĩa ihumbagĩra maitho — 'matukũ' nĩ kũhũthĩra ciugo cia Gĩkũyũ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יישרו",
+      "rationale": "Kĩugo kĩa gũtherema kĩgayũkanĩte na cedeki na mũhĩa ũtheru thĩinĩ wa Mĩthagani 4"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kuri mũthomi",
+      "rationale": "Njĩra ĩyo ĩtigwo nĩ mwĩhoke Mĩthagani 4 — mahűtia macrokagia mũhĩa ũtheru"
+    }
+  ],
+  "translation": "Maitho maku matũrire thayari mbere yakwĩ, na matukũ ma maitho maku mathikĩrire thayari ⟨mbere yakwĩ⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b83300eab5f0a32aed16a32a85bd8130ae99c3c2ea9a0a3a5888c0f9a217937d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/4\/25-26.1791270562139.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "maitho maku"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "thayari"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "matũrire"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "matukũ ma maitho maku"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "mathikĩrire thayari"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "mbere yakwĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:22.143440251Z",
+  "model": "glm-5.3"
+}

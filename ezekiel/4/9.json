@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 4:9",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩthenya mia ĩtatũ na mwanya ĩkenda",
+      "rationale": "Kũrora mĩthenya — 390 — nĩ kĩgero kĩa mũratha wa Ezekeieri."
+    },
+    {
+      "kind": "you",
+      "subject": "Ezekeieri",
+      "rationale": "Erohimu arĩkĩra mũrathi we mwene na kĩhooto."
+    }
+  ],
+  "translation": "Na nĩwe, hĩrĩra wĩkĩra bũgũri na mbembe ya mbari na puri na arathi na dahani na kicemi; nĩũkĩre ⟨את⟩ icio kĩndũ-inĩ kĩmwe, nĩũkaige ⟨את⟩ icio wĩkĩra kũgĩa mũgate — mũruta wa mĩthenya ĩrĩa nĩwe ũgũikaraga igũrũ rĩa ruo rwaku: mĩthenya mia ĩtatũ na mwanya ĩkenda ndũrĩrĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9c5b50e16f913adb63b929436fdc3a1c1a075d331261033d2b314d1ae848b322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/4\/9-10.1791270361350.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Na nĩwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "hĩrĩra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩkĩra"
+    },
+    {
+      "surface": "חטין",
+      "gloss": "bũgũri"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "na mbembe ya mbari"
+    },
+    {
+      "surface": "ופול",
+      "gloss": "na puri"
+    },
+    {
+      "surface": "ועדשים",
+      "gloss": "na arathi"
+    },
+    {
+      "surface": "ודחן",
+      "gloss": "na dahani"
+    },
+    {
+      "surface": "וכסמים",
+      "gloss": "na kicemi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "nĩũkĩre"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "icio (mbegu icio"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "kĩndũ-inĩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kĩmwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "nĩũkaige"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "icio"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wĩkĩra"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "kũgĩa mũgate"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mũruta"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wa mĩthenya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "שוכב",
+      "gloss": "ũgũikaraga"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "ruo rwaku"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ĩtatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mia"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "na mwanya ĩkenda"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mĩthenya"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:01.355034127Z",
+  "model": "glm-5.3"
+}

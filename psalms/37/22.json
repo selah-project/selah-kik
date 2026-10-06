@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Erohimu",
+      "rationale": "מברכיו\/ומקלליו nĩ mĩhiano ĩcirainĩ — 'wake' ndĩmũrĩkĩtie; Gĩkũyũ ĩhũthagĩra Erohimu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maciotagwo",
+      "rationale": "יכרתו nĩ 'kũcinwo' — kĩũmbe kĩa gũcinwa kĩhanaine na kũhithio wa kĩndũ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מברכיו\/ומקלליו",
+      "rationale": "baraka na cũraũrana ciũmĩte mũrĩ ũmwe — mĩhiano ya ũrĩa ũrĩa wĩ ihoto-inĩ ĩmwe"
+    }
+  ],
+  "translation": "Nĩgũkorũo arĩa Erohimu amabarĩkĩra makagathĩra ⟨thĩ⟩; na arĩa amacũraĩra maciotagwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "507237ee8936e1ff3bf97c66e6913fe970e6e49efa11ff31538ec207139d768d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/37\/22-22.1791270479480.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorũo"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "arĩa amabarĩkĩra"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "makagathĩra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "na arĩa amacũraĩra"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "maciotagwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:59.483305168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tiroci",
+      "rationale": "תירוש ni macerũ ma mbũece marĩa namaũkĩte, ti mcũrũe wa kũrũngĩrwo; taũri aingĩ makĩhooka ta wĩnĩ wa mũthenya ũcio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ndũkakoma mafuta",
+      "rationale": "סוך ni kũkaanga kana gũcoka mafuta mwĩrĩ-inĩ; kĩgemo kĩa gĩcunjĩ kĩmwe gĩakĩĩrĩra 'kũinwo'."
+    }
+  ],
+  "translation": "Nĩwe ũkahũra, no ndũkahũranĩa; nĩwe ũkadereka zeitu, no ndũkakoma mafuta; na tiroci, no ndũkunywa mcũrũe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2d31ed59419bda93654de66e7e25bda72c084e2d618efa7b2648d6731f38b546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/micah\/6\/15-15.1791270381577.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ũkahũra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ndũkahũranĩa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ũkadereka"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeitu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "ndũkakoma"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "na tiroci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ndũkunywa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mcũrũe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:21.581553250Z",
+  "model": "glm-5.3"
+}

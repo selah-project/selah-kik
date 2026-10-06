@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 29:37",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "במספרם",
+      "rationale": "kũringana mũigana wa iheo — ciugo cia kũaria kimũerũ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨thĩ⟩",
+      "rationale": "Kĩgĩko kĩa Kĩhibirania לְ kĩrĩa Kĩgĩkũyũ gĩakenagĩrĩra ciugo cia kũonera"
+    }
+  ],
+  "translation": "Minaha yao na nithari ciao, ya ⟨thĩ⟩ ng'ombe, ya ⟨thĩ⟩ thabibu, na ya ⟨thĩ⟩ kurũ, ihikanĩte na mũigana wao, ta ciira wahota:",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8e52b18f631b90472872b6b55745f3eae3cb334af5d9eeb8583ece60f740913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/29\/37-37.1791269583280.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנחתם",
+      "gloss": "minaha yao"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "na nithari ciao"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "ya ng'ombe"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ya thabibu"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "na ya kurũ"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "na mũigana wao"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ta ciira wahota"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:03.284262252Z",
+  "model": "glm-5.3"
+}

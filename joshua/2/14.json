@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 2:14",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mĩoyo",
+      "rationale": "נפשנו nĩ hũnya wa mũoyo\/mwĩrĩ wa kũhema, ti 'roho' ya Kĩthwahĩri"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נפשנו תחתיכם למות",
+      "rationale": "Kĩngeranio kĩa Kĩhibirania: 'moyo witũ nyuũkĩte inyanu gũkua' — mboni ya kũhĩa kũonekanaga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד ואמת",
+      "rationale": "Mũhiano ũrĩa ũgeretwo hamwe, hecedi na ũma — mũhiano wa kĩrĩkanĩro"
+    }
+  ],
+  "translation": "Andi aria arĩa akiugĩria atĩrĩ: mĩoyo yitũ nĩyanyuũkĩte gũkua, nginya mũhũrũkie ⟨את⟩ ũhoro witũ ũyũ; na ikũgĩa, rĩrĩa Yahwe agĩtũhe ⟨את⟩ thĩ ĩno, nĩtũkahĩca hecedi na ũma naguo we.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6397c288233e08d3b91568e982e62d954a57bce79790139b88cbffced61be49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/2\/14-14.1791269678142.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nĩmaugĩte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andi"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mĩoyo yitũ"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "nyuũkĩte inyanu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "gũkua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tĩ"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "mũhũrũkie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ũhoro witũ ũyũ"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ũhoro witũ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na ikũgĩa"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "rĩrĩa... agĩtũhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "itũ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ ĩno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩno"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "nĩtũkahĩca"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "naguo we"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hecedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ũma"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:38.142808209Z",
+  "model": "glm-5.3"
+}

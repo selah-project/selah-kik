@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ũtheri",
+      "rationale": "אור nĩ 'ũtheri'; KJV na JPS moigire 'ciuũa' (mũthenya) — na rĩrĩ, Heb gĩtirĩ 'mũthenya' ha kĩnya kĩu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mweri ũthiaga",
+      "rationale": "'mweri ũthiaga' — mweri ndũthiagĩ; Heb nĩ kũonania mweri oimaga igũrũ rĩrĩa rĩngĩcinia, ũgĩa wa kwo nĩ wa kũiguithia mweri ta Ngai"
+    },
+    {
+      "kind": "secret",
+      "subject": "kũamũkiriria kwa ihĩtũkũ",
+      "rationale": "mohoro maya makoretwo na kũonania gũtigana kwa mahĩtia ma kũamũkiriria ngai cia thĩ (kwĩhoya mweri na mũthenya) — ta thutha ũcio thĩinĩ wa 31:27"
+    }
+  ],
+  "translation": "Rĩ nĩngĩonire ũtheri rĩrĩa ũraihagĩra, na mweri wa kĩgĩrĩkiro ũthiaga;",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "56f367953abb5639d01bd8d43f99db75b4601e844b304ef879d38174e8967a2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/31\/25-26.1791270660974.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nĩngĩonire"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ũtheri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "ũraihagĩra"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "na mweri"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "wa kĩgĩrĩkiro"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ũthiaga"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:00.979853241Z",
+  "model": "glm-5.3"
+}

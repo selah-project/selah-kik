@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 33:17",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סכת\/סכות",
+      "rationale": "Place-name Succoth ('booths') echoes the booths Jacob made for his cattle; the etiological pun is preserved."
+    }
+  ],
+  "translation": "Nake Yaakobu akĩambĩra akĩgũcokoera Sukothi, akĩmũcokia nĩ ĩmwe ayakarĩra hĩndĩ ĩgĩrĩ nake agĩciaruta mĩhungi yake arĩcio iria cĩagĩrĩire mĩcingĩire ĩhanaine nacio, rĩrĩa kĩundũ kĩu kĩa kĩambĩrĩria kĩarĩ kĩmwe kĩrĩa kĩngĩhota kũiguũrana na Mwathani wa mĩcingĩ ng'ania andũ a tene, na nĩ ũndũ wa kũigua ũhoro ũcio wothe nĩmetĩkĩtie andũ arĩa makwatiire ya Kuuga kwa Ũthagũ wa Mwathani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6b398eb42a5a9a1f952a70be4a96af193b1a74e865f2c49b344d38423d4a9f41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/33\/17-17.1791269271376.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "nĩ Yaakobu"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "nĩathamĩre"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "Sukothi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "na akayayakarĩra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "ולמקנהו",
+      "gloss": "na ng'ombe ciake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩarĩirie"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "mĩcingĩire"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wa ũguo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "atũmĩrirwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kĩundũ kĩu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukothi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:51.382010924Z",
+  "model": "glm-5.3"
+}

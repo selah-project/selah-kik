@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩgetagwo",
+      "rationale": "Hebrew qal passive יקרא has no copula; Gĩkũyũ passive needs nĩ"
+    }
+  ],
+  "translation": "Mũciarũ-inĩ wa ngoro ⟨nĩ⟩getagwo mũthaguro; na ũthakwa wa milenyo ũngĩrĩtia ũrutani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a2a26b2926c5a6c9d78f47c4d95bc9e829814a7a6e93bf4af424907c3800658b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/16\/21-24.1791270602088.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "mũciarũ-inĩ wa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngoro"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nĩgetagwo"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "mũthaguro"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "na ũthakwa wa"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "milenyo"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ũngĩrĩtia"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ũrutani"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:02.108967788Z",
+  "model": "glm-5.3"
+}

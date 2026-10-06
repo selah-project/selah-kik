@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאג\/יירא — דבר\/ינבא",
+      "rationale": "Rũriri rwa mĩroro ĩrĩ: kũrĩga kwa sĩmba na gweteka, kwenda kwa Adonai Yahwe na kũratha — gĩcunjĩ gĩa mbere gĩa v. 7 kĩonekaga gĩaĩrũra."
+    },
+    {
+      "kind": "invitation",
+      "subject": "andũ a Ngai arĩa mamũthikĩra",
+      "rationale": "Ithaanĩrio igĩrĩ cĩugaga na mbaara ĩcokeirie mũhaka wa wonji — hĩndĩ ciothe arĩa mathikĩrire Amoci."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ינבא",
+      "rationale": "Ta KJV 'who can but prophesy' — gĩcunjĩ gĩa gũthoma na ndũrathĩke kana ũndũ ũngĩhota kũhĩnga kũratha."
+    }
+  ],
+  "translation": "Sĩmba yaarĩga, ndũragweteka atĩa? Adonai Yahwe arotire, ndũrangĩratha atĩa?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "45bd6a660fcb99ba929f400df7707393eec5d829bb512fc86864d9e875cefe26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/amos\/3\/8-8.1791270393260.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "sĩmba"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "yaarĩga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndũragweteka atĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "gweteka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "arotire"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndũrangĩratha atĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ-"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "kũratha"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:33.263862767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 13:4",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mũndũ ũcio",
+      "rationale": "תפשהו nĩ 'mũnyitani ⟨mũndũ ũcio⟩' — kiugo gĩa kĩndũ gĩa gũkuo kĩandĩkĩtwo o kĩa Kĩhibirania ĩngĩ."
+    },
+    {
+      "kind": "elision",
+      "subject": "בית אל",
+      "rationale": "Rĩĩtwa rĩmwe — Betheeri; kiugo gĩa gĩthia kĩgloss gitĩrĩ."
+    }
+  ],
+  "translation": "Ndũkũgĩka, thutha wa mũthamaki kuigua ⟨את⟩ kĩrĩra kĩa mũndũ wa Erohimu, kĩrĩa oigĩtie kũng'ũra mũgiro wa Betheeri, Yarobohamu nĩarotĩte ⟨את⟩ moko make kuuma igũrũ rĩa mũgiro, akiuga: Mũnyitani ⟨mũndũ ũcio⟩! Moko make arĩa oorotie kũmũ nĩmakambĩrĩkĩte, ndangĩhota kũgĩcookerera kũrĩa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "aaa6cdb4a2266f63b05db7ac04e6ba3fc77e26ac42edbb3a95d6a51fdc48ba25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/13\/1-4.1791270027233.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndũkũgĩka"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "thutha wa kuigua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩrĩra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩrĩra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oigĩtie"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũng'ũra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mũgiro wa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Betheeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nĩarotĩte"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobohamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko make"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma igũrũ rĩa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mũgiro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "תפשהו",
+      "gloss": "Mũnyitani"
+    },
+    {
+      "surface": "ותיבש",
+      "gloss": "nĩmakambĩrĩkĩte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko make"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "oorotie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kũmũ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ndangĩhota"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "kũgĩcookerera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:27.240920440Z",
+  "model": "glm-5.3"
+}

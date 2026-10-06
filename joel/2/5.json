@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 2:5",
+  "book": "joel",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כקול…כקול…כעם",
+      "rationale": "Mbere ĩrĩ ĩrĩtaga 'ta' ĩigana rĩrĩrĩ, mũgogoro wa mĩgambo ũrĩa ũtarĩkia kũonwo mũno thĩinĩ wa Gĩkũyũ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אכלה (ũriaga)",
+      "rationale": "Kĩhibirania kĩugaga 'mũrito ũrĩa ũriaga ũcũrũi' — kĩũgĩ kĩa kũrĩa, ti 'gũtherũka' kially."
+    },
+    {
+      "kind": "crux",
+      "subject": "עצום",
+      "rationale": "Andũ a hinya kana andũ a mũingĩ — kiugo gĩkoniĩ hinya na mũingĩ o gĩtwekanye."
+    }
+  ],
+  "translation": "Ta mũgambo wa magari ma mahi, igũrũ wa mĩtĩtĩ ya maiga, makĩhũrũra; ta mũgambo wa kana ka mũrito gũterũkĩra ũcũrũi, ta andũ arĩ a hinya mĩingĩ, amarĩtwo mĩtaratara ya ita.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "27f7d8a304b6a4df0b2c9375f4cdc44dbdab787cc1d4b90eb3c4cee3b0c59aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joel\/2\/5-5.1791270418907.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקול",
+      "gloss": "ta mũgambo wa"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "magari ma mahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mĩtĩtĩ ya"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "maiga"
+    },
+    {
+      "surface": "ירקדון",
+      "gloss": "makĩhũrũra"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ta mũgambo wa"
+    },
+    {
+      "surface": "להב",
+      "gloss": "kana ka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũrito"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "gũterũkĩra"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ũcũrũi"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "ta andũ"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "arĩ a hinya mĩingĩ"
+    },
+    {
+      "surface": "ערוך",
+      "gloss": "amarĩtwo mĩtaratara"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ya ita"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:58.912149434Z",
+  "model": "glm-5.3"
+}

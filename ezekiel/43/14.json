@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 43:14",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kĩhingo",
+      "rationale": "העזרה ('enclosure\/border') nĩ gũtaũrwo 'kĩhingo' — watho wa kũingĩha wa altari, ti kĩũndũ kĩa kũingĩha kwa nyũmba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "thiinĩ",
+      "rationale": "חיק nĩ 'thingira\/bosom'; KJV 'bottom', YLT 'centre' — thiinĩ wa thĩ nĩ mũhianĩre wa 'bosom of the earth'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ama igĩrĩ na ama inya",
+      "rationale": "Kĩcunjĩ kĩa kũgeria mbere ya altari: ama igĩrĩ na ama inya na ũrĩa wa ama ĩmwe."
+    },
+    {
+      "kind": "elision",
+      "subject": "האמה",
+      "rationale": "Kĩingĩro kĩa Kĩhibirania kĩa mwanya kĩarĩkĩtie — Gĩkũyũ gĩtirĩ ndemwa cia kĩingĩro."
+    }
+  ],
+  "translation": "Na kuuma thiinĩ wa thĩ gĩkĩro kĩhingo gĩa thutha nĩ ama igĩrĩ, na ũrĩa wake nĩ ama ĩmwe; na kuuma kĩhingo gĩa mũnini gĩkĩro kĩhingo gĩa nene nĩ ama inya, na ũrĩa wake nĩ ama.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "25f986800024761cef42809e7356e6fa84f752642665d7ae837b6a376e432bd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/43\/14-14.1791270413334.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחיק",
+      "gloss": "Na kuuma thiinĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa thĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩro"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "kĩhingo"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "gĩa thutha"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "igĩrĩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na ũrĩa wake"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "ומהעזרה",
+      "gloss": "na kuuma kĩhingo"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "gĩa mũnini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gĩkĩro"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "kĩhingo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "gĩa nene"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inya"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na ũrĩa wake"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ama"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:53.340018767Z",
+  "model": "glm-5.3"
+}

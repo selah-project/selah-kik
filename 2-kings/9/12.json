@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩngwatĩire maguta",
+      "rationale": "משח nĩ 'kũratũka maguta'; Gĩkũyũ ndĩna ciugo cĩa kĩheo kĩa mwathani, o nagwo kĩhumo kĩa kiugo kĩarĩkĩtwo nĩ kĩu kĩa kĩrĩa kĩarĩ kuo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כזאת וכזאת",
+      "rationale": "Ũguo na ũguo — ndũmĩrĩri ĩrĩa ĩrĩkagĩra na kĩrĩa kĩrĩ kuo, ĩrĩa ĩrĩkĩtwo na kĩrĩa kĩrĩ kuo — nĩ kĩngumba kĩa kĩguni kĩrĩa kĩarĩ na mũgambo mũkũranu."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe → Yehu",
+      "rationale": "Ũhoro ũyũ nĩ ũrĩa Yahwe ũrĩkĩtie Yehu na ndũmĩrĩri ya mũrathi, ũrĩa Yehu ũrĩkĩtie ũgĩthĩ."
+    }
+  ],
+  "translation": "Na makĩuga: Nĩ ũhoro wa kĩhĩa; ngũrĩranĩ na thingu. Nake akiuga atĩrĩ: Nĩakĩambĩte atĩrĩ ũguo na ũguo, na kuuga: Ũguo niakĩugĩte Yahwe: Nĩ nĩngwatĩire maguta, ngwatuĩra mwathĩ wa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "880933acaa89eb18c64dbec9f719b85cf427ed7e0b4ff32cb573a9c4f2b47ea9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/9\/11-12.1791270112466.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "na makĩuga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ũhoro wa kĩhĩa"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ngũrĩranĩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na thingu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "itũ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nake akiuga"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "na ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "niakĩambĩte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kuuga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "niakĩugĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "nĩ nĩngwatĩire maguta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngwatuĩra mwathĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:52.476683737Z",
+  "model": "glm-5.3"
+}

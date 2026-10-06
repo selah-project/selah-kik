@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 13:20",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לב תשיתי את לבבך",
+      "rationale": "'gũthaca ngoro' handũ ha kĩngere kĩa Kĩhibirania kĩa gũcokia nguo igũrũ rĩngĩ kĩa kũrora kĩndũ mũno"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושממה",
+      "rationale": "c\/8076 nĩ 'kũgima, kũoroorwo'; yakũngĩrĩro ta 'arorete mũthenji' nĩ yo mũhiano ũrĩa ũhota kwa mũndũ ũrĩ muoyo"
+    },
+    {
+      "kind": "you",
+      "subject": "to Tamara",
+      "rationale": "Abicaruamu arĩkia mwarĩ wa nyina wake Tamara mwanya wa kũigua"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל תשיתי",
+      "rationale": "kiugo kĩa kũgirĩri kĩgĩtwo 'ndũkahote' — ndemwa cia Kĩgĩkũyũ itirĩ mũgambo wa 'al' wa Kĩhibirania"
+    }
+  ],
+  "translation": "Na Abicaruamu mũrũ wa nyina wake akĩmũũrĩra: kana Aminoni mũrũ wa nyina waku arĩ na we? Na rĩũmwe ũcio, mwarĩ wa nyina wakwa, ihirũra; nĩwe mũrũ wa nyina waku; ndũkahote ⟨את⟩ ngoro yaku handũ ha kĩndũ gĩkĩ. Nacio Tamara aikarĩte arorete mũthenji mũciĩ-inĩ wa Abicaruamu mũrũ wa nyina wake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "91bce73f40700fbd88f305511551619324e994014f3903aa0faa3f8ad018f267",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/13\/20-20.1791269868835.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũrĩra"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kũrĩa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abicaruamu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mũrũ wa nyina wake"
+    },
+    {
+      "surface": "האמינון",
+      "gloss": "Aminoni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wa nyina waku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na we"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "na rĩũmwe ũcio"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mwarĩ wa nyina wakwa"
+    },
+    {
+      "surface": "החרישי",
+      "gloss": "ihirũra"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wa nyina waku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תשיתי",
+      "gloss": "ũkahote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoro yaku"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngoro yaku"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "handũ ha kĩndũ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "gĩkĩ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "aikarĩte"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "arorete mũthenji"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mũciĩ-inĩ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "wa Abicaruamu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mũrũ wa nyina wake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:48.838376229Z",
+  "model": "glm-5.3"
+}

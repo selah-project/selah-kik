@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rũgamma-rũgĩa",
+      "rationale": "ענן nĩ rũgamma-rũgĩa rũnene rũrĩa rũgũikarĩga igũrũ, ti rũgamma rwa kawaida"
+    },
+    {
+      "kind": "addition",
+      "subject": "waturutũkaga",
+      "rationale": "Gĩkũyũ ĩhũthagĩra mũhuro ũmwe wa 'mwĩrĩ' wa moĩ kana wa kũinũkia; Hebrew nĩ פתח o yothe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Micikani",
+      "glossary": "משכן — Micikani, ti 'hema' (D2)"
+    }
+  ],
+  "translation": "Nĩarĩkũonekana Yahwe Micikanani-inĩ mũrĩtigiti-inĩ wa rũgamma-rũgĩa, na mũrĩtigiti wa rũgamma-rũgĩa ũikarĩte harĩa mwĩrĩ wa Micikani waturutũkaga.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "007abe2094a48d616f13594be452285b5ce9b9631c6ede3ec7dc9fd18dd019e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/31\/15-15.1791269689983.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nĩarĩkũonekana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "Micikanani-inĩ"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "mũrĩtigiti-inĩ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wa rũgamma-rũgĩa"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "na ũikarĩte"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "mũrĩtigiti"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wa rũgamma-rũgĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mwĩrĩ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wa Micikani"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:49.985153878Z",
+  "model": "glm-5.3"
+}

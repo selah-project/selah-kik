@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũoyo",
+      "rationale": "נפש nĩ mũoyo\/mũhũmũ — tho ya kũhema, ti 'roho' ya Kĩthwahĩri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "gũciũrania kwa infinitive absolute — 'arĩkũte, ndarĩkũka' — gwĩtĩkia gwa maũndũ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחלליה",
+      "rationale": "חלל mũtheru-inĩ: kũtherethia Cabati; ciugo ihũthagĩkaga hamwe"
+    },
+    {
+      "kind": "you",
+      "subject": "kwa Yiceraeri",
+      "rationale": "ndũmĩrĩri ĩrĩa ĩheetwo andũ a Yiceraeri kũringana na thimo 13"
+    }
+  ],
+  "translation": "Na mũthenya-inĩ ũcio nĩmũciarithie ⟨את⟩ Cabati, nĩgũkorwo nĩ ũtheru mwĩrũa; arĩa mamacikũrũka-rĩ, arĩkũte kuuma hakuhĩ mũno na rũru. Ndio nĩguo mũigire mũthenya ũcio ũrĩa ũtheru, na mũthĩ njamba-inĩ cia mũciĩ mũnene.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "dacabeb7183bcf06dad23b9c4cfd5f79553f60847d7bfd4f6dc56c5c0174bda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/31\/14-14.1791269399789.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nĩmũcirithie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yĩo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mwĩrũa"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "wĩ mũciotherethie"
+    },
+    {
+      "surface": "מות",
+      "gloss": "arĩkũte"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ndarĩkũka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mũndũ"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "ũkaacia"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yĩ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ndemwa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "nĩgecibitĩka"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "mũoyo ũcio"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kuma thĩinĩ"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "andũ ayo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:59.795568557Z",
+  "model": "glm-5.3"
+}

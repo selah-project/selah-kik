@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מחלציך",
+      "rationale": "thũ (loins) nĩ kĩguni kĩa ngumo na gĩcunjĩ kĩa mbũtũ; ta 'out of thy loins' ya Kĩgĩrĩki."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "kiugo gĩa kuongerera magegania (emphatic) kĩũngĩtwo ta 'nĩwe'."
+    },
+    {
+      "kind": "you",
+      "subject": "Abarahamu",
+      "rationale": "Yahwe akũrĩkĩra Dawidi moke-inĩ ma kũhĩa nyũmba."
+    }
+  ],
+  "translation": "No we wĩra, nĩwe ndũgĩkomwo hĩndĩ ĩno ũkahĩa nyũmba; no mũrũ waku, ũrĩa ũgatuĩka kuuma thũ-inĩ waku, nĩwe ũkahĩa nyũmba ya rĩĩtwa rwakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b6938c4ca0c8e7aaa38440394f2c243259e4006f3b042aeeb0f1d412ea0c3975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/6\/9-10.1791270863362.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "no we wĩra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũgĩkomwo"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ũkahĩa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mũrũ waku"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "ũrĩa ũgatuĩka"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "kuuma thũ-inĩ waku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ũkahĩa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ya rĩĩtwa rwakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:23.367891749Z",
+  "model": "glm-5.3"
+}

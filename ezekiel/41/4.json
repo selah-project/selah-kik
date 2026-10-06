@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "heikari ya ndani",
+      "rationale": "Ũgĩrĩ na kũraya guciĩtwo amaha makũmi mbiri na makũmi mbiri."
+    },
+    {
+      "kind": "you",
+      "subject": "Yezekiari",
+      "rationale": "Mũndũ ũrĩa wonekaga akĩmũũra Yezekiari ũthĩũ-nĩ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũtheru wa mĩtheru",
+      "rationale": "Kĩhibirania nĩ 'theru wa athɛru' — kĩumanĩte na mũrĩ ũmwe wa קדש, ũtheru."
+    }
+  ],
+  "translation": "Nĩamĩtire ⟨את⟩ kũraya kwaguo, amaha makũmi mbiri, na ũgĩrĩ wake, amaha makũmi mbiri, mbere ya heikari; akĩmũũra atĩrĩ: ũyũ nĩ ũtheru wa mĩtheru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a307f6ef0a34067aadd5cf5acef08c671079ce3a9554f2cd49c7bfe91be8f6b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/41\/4-5.1791270348359.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "nĩamĩtire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kũraya kwaguo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kũraya kwaguo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi mbiri"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amaha"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na ũgĩrĩ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makũmi mbiri"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kũonereru kwa"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmũũra atĩrĩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwa iĩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "wa mĩtheru"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:48.366323539Z",
+  "model": "glm-5.3"
+}

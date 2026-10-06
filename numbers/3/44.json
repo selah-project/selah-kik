@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 3,
+  "translation": "Na Yahwe akanaria Moce na kũmũgoera,",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1295fe7d3ad14ddb1c5acdc1a9feb0aafba40689adefcdf729af8025657583ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/3\/43-44.1791269518272.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akanaria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na kũmũgoera"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:58.274818884Z",
+  "model": "glm-5.3"
+}

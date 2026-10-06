@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 43:14",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בריחים",
+      "rationale": "Andũ aingĩ a taũri mehĩte-agĩrĩirwo: 'arĩa marũngũũka' (kuuma b-r-ĥ, kũrũngũũka) kana 'miriĩta' cia mbũrũri (bərīaĥ) — KJV 'nobles', YLT 'bars'"
+    },
+    {
+      "kind": "crux",
+      "subject": "רנתם",
+      "rationale": "Rĩnaha rĩa Akacudi: kũhana kwa gũkenyo kana kũhuranĩra kwa mahĩtia — ĩrĩa nyiitĩtwo nĩyo ya magũrũ-mabũrũri"
+    },
+    {
+      "kind": "you",
+      "subject": "kĩgunĩ kĩa Yiceraeri",
+      "rationale": "Yahwe akarĩkũra arĩkũria andũ ake a Yuda ahĩtĩte ndũrĩrĩ ya Akacudi"
+    }
+  ],
+  "translation": "Nĩguo Yahwe oigĩte, Mũcakairie wanyu, Mũtheru wa Yiceraeri: Nĩrĩgũanyu nĩndarũmbũiya Baberu, na nĩngaruthithia arĩa marũngũũka othe, na Akacudi marĩhana ngarawa-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8815534165c93b55a2a72924f72f4eba1938ab0e8310836d3b9d014edc56eb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/43\/13-14.1791270169761.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nĩguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גאלכם",
+      "gloss": "Mũcakairie wanyu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mũtheru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "Nĩrĩgũanyu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nĩndarũmbũiya"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Baberu"
+    },
+    {
+      "surface": "והורדתי",
+      "gloss": "na nĩngaruthithia"
+    },
+    {
+      "surface": "בריחים",
+      "gloss": "arĩa marũngũũka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "othe"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "na Akacudi"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ngarawa-inĩ"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "marĩhana"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:49.784351044Z",
+  "model": "glm-5.3"
+}

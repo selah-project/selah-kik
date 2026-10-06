@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 15:3",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nayo",
+      "rationale": "Hebreeni nĩ ĩrĩ kiugo kĩa gũcokeria 'na' gĩa mbere ya ciugo cia ng'eno ciothe; Gĩkũyũ gĩcokanagia na 'nayo'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩhari ya mboco",
+      "rationale": "Andĩko macio nĩ ma kũringa mboco ya mũgũnda wa Yuda — kũringana kwa kũndũ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויצא",
+      "rationale": "'yaaheana mwena' kana 'yaatũũra' — ng'eno ĩrĩa ĩtũũraga nĩ mboco, ti mũndũ"
+    }
+  ],
+  "translation": "Nayo yaatũire\/ng'iĩĩrĩ ĩgĩtũũra harĩa mbocoinĩ ya mwena wa ceceni, ĩgĩthiĩ igũrũ rĩra rĩa Ngoci cia Acarabimu, ĩgĩcohia Cina, ĩgĩcoka ĩgĩthiĩ igũrũ kuuma ceceni nginya Kadeci Barunea, ĩgĩcohia Hercoroni, ĩgĩcoka ĩgĩthiĩ igũrũ nginya Adara, ĩgĩtherera kũingĩra Karekaa:",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0268a5d53f53028ad03bf2718e262215bede9010a5cc03ad4f8fd5074e35ec5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/15\/3-3.1791269713347.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nayo yaatũire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "mwena wa ceceni"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "rĩra rĩa"
+    },
+    {
+      "surface": "עקרבים",
+      "gloss": "Ngoci cia Acarabimu"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "nayo ĩgĩcohia"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "Cina"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "nayo ĩgĩthiĩ igũrũ"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "kuuma ceceni"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "nginya Kadeci"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barunea"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "nayo ĩgĩcohia"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hercoroni"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "nayo ĩgĩthiĩ igũrũ"
+    },
+    {
+      "surface": "אדרה",
+      "gloss": "nginya Adara"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "nayo ĩgĩtherera kũingĩra"
+    },
+    {
+      "surface": "הקרקעה",
+      "gloss": "Karekaa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:13.347973675Z",
+  "model": "glm-5.3"
+}

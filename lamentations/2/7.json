@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 2:7",
+  "book": "lamentations",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כְּיוֹם מוֹעֵד",
+      "rationale": "Ambiguous: 'as on the day of an appointed feast' — a shout of joy — versus 'as on the day of battle assembly'; most render feast, the bitter irony of festival noise now cries of destruction."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נָאַר",
+      "rationale": "Rare verb; 'abhorred\/spurned' — a near-synonym of זנח in the parallel line, rendered with distinct Gĩkũyũ verbs to keep the parallelism."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זנח\/נאר",
+      "rationale": "Paired synonyms in parallel couplets — rejected\/abhorred — reinforcing the abandonment of altar and sanctuary; parallelism kept in Gĩkũyũ."
+    }
+  ],
+  "translation": "Adonai nĩarehetie mbirarũ yake, nĩanenyetie hema yake theru; nĩatĩĩirie mĩgongo ya macabari make muoko-inĩ wa mũmenethani; nĩmahonire mũgambo hema-inĩ ya Yahwe ta ũmũthĩ wa kĩrore kĩgeranio.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "60dc93be7219707792a09040ea8142ed963b3429a40c43a4750e45b614713e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/lamentations\/2\/7-7.1791270646608.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "nĩarehetie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "mbirarũ yake"
+    },
+    {
+      "surface": "נאר",
+      "gloss": "nĩanenyetie"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "hema yake theru"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "nĩatĩĩirie"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "muoko-inĩ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mũmenethani"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mĩgongo"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ya macabari make"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nĩmahonire"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "hema-inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ta ũmũthĩ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wa kĩrore kĩgeranio"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:46.612791258Z",
+  "model": "glm-5.3"
+}

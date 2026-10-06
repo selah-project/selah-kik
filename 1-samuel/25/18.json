@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 25:18",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "סאים",
+      "rationale": "Ithano cia ciothimari (sea) — kĩheo gĩa mbembe kĩagerĩtwo na kĩng'atho kĩa Heburũ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iciotherũ",
+      "rationale": "עשוות gĩtikũugaga 'therũ' kĩanjũrũ; kiugaga 'iciumĩte' — iciotherũ nĩ kĩũgũ kĩahotwo gũkĩgeria."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cibere cia nzũhi ihumũkĩte",
+      "rationale": "צמקים nĩ cibere cia nzũhi ciomũkĩte ihumũkĩte — mũhiano ũrĩa ũngĩĩta 'matũũa' wiki nĩguo ũnyihĩre."
+    }
+  ],
+  "translation": "Abigairi agĩhĩhĩra, akĩamũkũra mikate magana mairũ, na mahũru matũ ma waini, na ng'ondu ithano iciotherũ, na mĩcaro ithano ya mbembe yarũranũ, na cibere cia nzũhi ihumũkĩte mĩrongo ikũmi, na matũũa ma kũndũ magana mairũ, na agĩcithoma mbũi-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "605a1f74fa569cef9be8c97c68045c0a99c63b5137f80c88b1135ed72ad9ab41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/25\/18-18.1791269848382.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "agĩhĩhĩra"
+    },
+    {
+      "surface": "אבוגיל",
+      "gloss": "Abigairi"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akĩamũkũra"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "magana mairũ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "matũ"
+    },
+    {
+      "surface": "נבלי",
+      "gloss": "mahũru"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "עשוות",
+      "gloss": "iciotherũ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "mĩcaro"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "mbembe yarũranũ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "mĩrongo ikũmi"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "cibere cia nzũhi ihumũkĩte"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "magana mairũ"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "matũũa ma kũndũ"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "agĩcithoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "mbũi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:28.383703590Z",
+  "model": "glm-5.3"
+}

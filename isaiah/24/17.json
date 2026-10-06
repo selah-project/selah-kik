@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד ופחת ופח",
+      "rationale": "Triple paronomasia — pachad\/pachat\/pach, fear\/pit\/snare differing by one letter each — untranslatable; the Gĩkũyũ must paraphrase and the sound-chain is lost"
+    },
+    {
+      "kind": "you",
+      "subject": "ũcie thĩ",
+      "rationale": "Direct address to the inhabitant of the earth"
+    }
+  ],
+  "translation": "Kũgwatĩra kwa mbere, na hondore, na mũrathe, irĩ igũrũ rĩaku, we ũcie thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "944525b610f77d9b64627b4c6b02f135d8b168a0bfa10617c49f04fd040fa17d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/24\/17-17.1791270117858.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "kũgwatĩra kwa mbere"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "na hondore"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "na mũrathe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "igũrũ rĩaku"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ũcie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:57.868595919Z",
+  "model": "glm-5.3"
+}

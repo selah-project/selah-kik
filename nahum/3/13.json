@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 3:13",
+  "book": "nahum",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "andũ aku nĩmarĩ ake",
+      "rationale": "'Ũrĩa andũ baku nĩ ake' nĩ kĩgunĩ kĩa Kĩhibirania kĩugaga atĩ ahiũ nĩmahota, ti atĩ nĩ ake marĩ na mũoyo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתוח \/ נפתחו",
+      "rationale": "Kũrigana kwa mbere na thutha kwa kĩugo kĩmwe kĩa kũathia — mũthia ũrĩa wa igũrũ ũteyereĩte mweri ũrĩa wa mbere"
+    }
+  ],
+  "translation": "Rĩrĩ, andũ aku thĩinĩ waku nĩmarĩ ake; itĩra cia thĩ yaku nĩcio athirwo harbĩ mbere ya arĩa makũmena; mũaki nĩrarĩa minyurũ cyaku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "10ed4058f0b572180027bc03771b4ec462b28fa87aeab8ea3f1ec3ef1e7529a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nahum\/3\/13-13.1791270376090.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ aku"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "arĩ ake"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "thĩinĩ waku"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "arĩa makũmena"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "kũathia harbĩ"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "nĩcĩathirwo"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "itĩra cia"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "thĩ yaku"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "nĩrarĩa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mũaki"
+    },
+    {
+      "surface": "בריחיך",
+      "gloss": "minyurũ cyaku"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:16.094731716Z",
+  "model": "glm-5.3"
+}

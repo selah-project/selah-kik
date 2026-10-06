@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 18:19",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "cia andũ",
+      "rationale": "Hebree inĩ ciĩra cia andũ; 'andũ' no ciengeretio kũonania ũrĩa hihi"
+    }
+  ],
+  "translation": "Rĩu ũigie rĩngi ciugo ciakwa, nĩngakũhe ndũmĩrĩri, na Erohimu arĩ hamwe nawe. Weeye ũkorwo wĩ mũonereeria wa andũ ũrĩ mbere ya Erohimu, na ũrorete ⟨את⟩ ciĩra cia andũ kwa Erohimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "450f91e5c38d94dc8a41d68eede92e222ce0c68c4c98b095129741e05d663c96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/18\/19-20.1791269354092.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "rĩu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ũigie"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ciugo ciakwa"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "nĩngakũhe ndũmĩrĩri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ũkorwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "weeye"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mũonereeria wa andũ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ũrorete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "weeye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciĩra cia andũ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ciĩra cia andũ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:14.105652089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויחרימו \/ חרמה",
+      "rationale": "gĩcigo kĩa Horma kĩĩhĩrĩrirwo nĩ kĩugo kĩa kũhingithia — gũtarũka kĩngometana nĩ Gĩkũyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "magĩhingithia yenywe ĩhinge",
+      "rationale": "ויחרימו nĩ kũgĩra kĩndũ kĩhingwo kĩrĩkani kĩu nĩ Yahwe; 'kũhithio o hamwe' nĩ taũra rĩa gũtheri rĩa kĩndũ gĩa gũtaũra"
+    },
+    {
+      "kind": "crux",
+      "subject": "Cefata",
+      "rationale": "צפת: mabũrũri maingĩ maandĩka 'Zephath' kana 'Sephar' (Kĩlatini); mũgambo wa Kĩhibirania nĩ 'Tcefath'"
+    }
+  ],
+  "translation": "Nĩ Yahuda agĩthiĩ ⟨את⟩ hamwe na Cimeoni mũrũwaniwake, magĩhithia ⟨את⟩ Kenani ũrĩa aikarĩte Cefata, nao magĩhingithia yenywe ĩhinge ⟨את⟩-yo; rĩĩtwa rĩa gĩcigo kĩu nĩragĩtwo Horma.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d33d00d929f40f3ad0f478d01610f0bc57eeaa3865d16d03b9e5d51a10bd91ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/judges\/1\/17-17.1791269792590.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "agĩthiĩ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ hamwe na",
+      "marks": "Cimeoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeoni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũwaniwake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "magĩhithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ũrĩa aikarĩte"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Cefata"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "magĩhingithia yenywe ĩhinge"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩-yo",
+      "marks": "Cefata"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nĩragĩtwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩĩtwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "rĩĩtwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "rĩa gĩcigo kĩu"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:32.591334567Z",
+  "model": "glm-5.3"
+}

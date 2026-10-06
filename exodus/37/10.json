@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "meza",
+      "rationale": "Ũndũ ũcio nĩ wa kũigeria: ũraihũ, ũrũguru, na kĩooro wa meza mĩguoko-inĩ ĩrĩ kũgeragera."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũguoko",
+      "rationale": "אַמָּה nĩ kĩngeranio kĩa guoko kũuma ciigwa; nĩgũo gĩtaũro kĩa 'mũguoko' kĩnyitĩte mũgambo wa kĩngeranio kĩu."
+    }
+  ],
+  "translation": "Na akĩria nĩonjoria ⟨את⟩ meza ya mĩti ya cithati — mĩguoko ithatũ nĩyo ũraihũ wayo, na mũguoko ũmwe nĩwo ũrũguru wayo, na mũguoko ũmwe na igĩrĩ nĩwo kĩooro kayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a600a129234eee8ff21a63fac129d242994d0b8e381ffc9b55a7755180edbef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/37\/10-11.1791269455598.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akĩria nĩonjoria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meza"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mĩti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya cithati"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "mĩguoko ithatũ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ũraihũ wayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na mũguoko ũmwe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ũrũguru wayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "na mũguoko ũmwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "na igĩrĩ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kĩooro kayo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:55.604119667Z",
+  "model": "glm-5.3"
+}

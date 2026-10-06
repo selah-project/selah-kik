@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 47:1",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩgo",
+      "rationale": "Kiugo kĩa ũhoro kĩongĩtwo thutha wa כĩ, kinya Gĩkũyũ kĩrĩkĩte kĩhootanie"
+    },
+    {
+      "kind": "substitution",
+      "subject": "harĩa riua rĩamũkĩra",
+      "rationale": "kwarĩ: 'harĩa riua rĩamũkĩra' nĩguo taũra ya 'kwarĩ-inĩ' ũrĩa Kĩhibirania kĩrĩ"
+    }
+  ],
+  "translation": "Nĩakĩcookerithia kĩhungicio-inĩ kĩa nyũmba, na rũraĩ, maĩ maikũũra thĩiniĩ wa mboco kĩa nyũmba, harĩa riua rĩamũkĩra, nĩgo nyũmba ĩrĩonĩte harĩa riua rĩamũkĩra; na maĩ makĩikũrũka thĩiniĩ wa kĩegũrũ kĩa nyũmba kĩa ũtheri, mwena wa mũhũro, kĩheo-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "602cf245fe46e611e70cf6322761cbd73ace0945acf266af065c10b245716106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/47\/1-1.1791270434243.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבני",
+      "gloss": "nĩakĩcookerithia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kĩhungicio"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "na rũraĩ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "maikũũra"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "thĩiniĩ"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "harĩa riua rĩamũkĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ĩrĩonĩte harĩa riua rĩamũkĩra"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "na maĩ"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "makĩikũrũka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "thĩiniĩ"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "kĩegũrũ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kĩa ũtheri"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "mwena wa mũhũro"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "kĩheo-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:14.248599029Z",
+  "model": "glm-5.3"
+}

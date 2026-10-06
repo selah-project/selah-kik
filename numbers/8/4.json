@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 8:4",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cianja",
+      "rationale": "ירך literally 'thigh'; here rendered 'cianja' (base\/shaft) — KJV 'shaft', JPS\/ASV 'base', YLT keeps 'thigh'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gwataũkĩtio",
+      "rationale": "מקשה is hammered\/repoussé work, a single craft term; rendered 'kĩahiuo' (that which is hammered), shape kept"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Menorah",
+      "rationale": "verse dimensions the lampstand from base to blossom, a craft specification"
+    }
+  ],
+  "translation": "Na ũyũ nĩguo gwataũkĩtio kwa Menorah: kĩahiuo kĩa dahabu, kinya cianja yayo, kinya ithũa rayo, nĩ kĩahiuo kĩo; ta kĩonererio kĩa ũrĩa Yahwe aerekire ⟨את⟩ Moce, nĩagĩire ũguo ⟨את⟩ Menorah.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e80053a8b2f1eebc8e52203518424312f934c32d48cabfb0b9cbf626e6ba9c94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/8\/4-4.1791269500054.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "na ũyũ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gwataũkĩtio"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kwa Menorah"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kĩahiuo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "cianja yayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kinya"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "ithũa rayo"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kĩahiuo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩkĩo"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ta kĩonererio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩa ũrĩa"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "aerekire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩagĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menorah"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:40.057697538Z",
+  "model": "glm-5.3"
+}

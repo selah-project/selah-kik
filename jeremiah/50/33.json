@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 50:33",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עשוקים",
+      "rationale": "Kĩhibirania kĩgĩtũũra 'aria mahĩtwo' — kiugo kĩmwe kĩa gũhĩtia, gĩtigĩtwo gĩkwetagwo me nĩguo gĩhote kũigua."
+    },
+    {
+      "kind": "elision",
+      "subject": "בם",
+      "rationale": "Ndarĩĩki ĩrĩa ĩrĩ thĩinĩ wa kiugo kĩngĩ kĩa Kĩgĩkũyũ, ndĩongagĩrĩragĩa o ĩmwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "שביהם",
+      "rationale": "Aingĩ a mũtaũri meugĩte 'aria maacokire nao thĩinĩ wa gũcwa'; aingĩ ĩngĩ meugĩte 'arĩa maatumĩte mahĩtũkĩrio' — ũndũ ũcio nĩ wa gũcoka, ti wa kũhĩtũkĩra."
+    }
+  ],
+  "translation": "Nguo ĩno Yahwe Cebaoti oigĩte: Abarĩa mahĩtwo nĩ arĩa mahĩtwo, ari a Yiceraeri na ari a Yehuda hamwe, na arĩa moothe macokire nao thĩinĩ wa gũcwa nĩmahotanie ciero ciarĩo hanini ũndũcio; makĩrĩĩra kũmaturuta.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9318fc0b31efb643cbe1fa2dbf4e11792b40d1ceb7f9f0b0cdcd13e7938e439b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/50\/33-33.1791270226158.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nguo ĩno"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cebaoti"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "mahĩtwo nĩ arĩa mahĩtwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "na ari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na arĩa moothe"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "macokire nao thĩinĩ wa gũcwa"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "mahotanie ciero ciarĩo hanini ũndũcio"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ciarĩo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "makĩrĩĩra"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "kũmaturuta"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:46.169955022Z",
+  "model": "glm-5.3"
+}

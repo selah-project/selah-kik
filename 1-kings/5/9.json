@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 5:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gũkũrũka kwa ngoro",
+      "rationale": "רחב לב mbere nĩ 'gũkũrũka kwa ngoro' — handũ hagu ciatũrwo ta 'ũmenyo mũnene'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רחב לב",
+      "rationale": "Kĩhibirania 'ngoro ya gũkũrũka' nĩ kĩuga kĩa ũmenyo mũnene; nĩkwatĩtwo na kĩguo kĩayo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחב לב",
+      "rationale": "שפה ti 'mũthia wa iria' o gĩothe — nĩ 'rũrũĩ', na tondirĩ ũndũ wa gũtũũra rũrũĩ rwa iria ndukarutwo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חול",
+      "rationale": "חול kuuma gũciengĩra (kuhũrũka) — ithambo iria ihũragĩtwo; ũhoro ũyu ndũonekana na Gĩkũyũ."
+    }
+  ],
+  "translation": "Na Erohimu nĩamũheire Ceromo ũgĩ na ũmenyo mũingĩ mũno, na gũkũrũka kwa ngoro ta ithambo arĩa erĩ rũrũĩ-inĩ rwa iria.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f7102c0f816512916b1fb05ecc325f002a62699b2c911ad113a8fecf48764106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/5\/9-9.1791269913924.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nĩamũheire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ũgĩ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Ceromo"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mũingĩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mũno"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na gũkũrũka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kwa ngoro"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "ta ithambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "על",
+      "gloss": "erĩ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rũrũĩ-inĩ rwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "iria"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:33.927943414Z",
+  "model": "glm-5.3"
+}

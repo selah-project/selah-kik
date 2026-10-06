@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 5:17",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mia ũmwe na mirongo ĩtano",
+      "rationale": "Kũandĩkwa kwa andũ 150 arĩa maarĩ mecenĩ ya Nehemia — kũgeria ng'ania."
+    },
+    {
+      "kind": "addition",
+      "subject": "hamwe na",
+      "rationale": "Kĩhaba-inĩ, andũ a mbere na arĩa makĩũca nĩ makũinĩkĩtwo hamwe; kĩugo kĩngĩ kĩonjeitere kuuma mũhiano wa makũini ma Kĩhibirania."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mecenĩ yakwa",
+      "rationale": "שלחני nĩ 'meceni yakwa' kĩngĩ kĩugwo 'riria rĩa mecenĩ' — kĩuma kĩa kĩrĩra kĩngĩkoragwo na kĩa kũriria."
+    }
+  ],
+  "translation": "Na ayahudĩ arĩa maarĩ na mĩgenyo na athaki, andũ mia ũmwe na mirongo ĩtano, hamwe na arĩa makĩũca kũrĩ ithũĩ kuuma kũrĩ ndũrĩrĩ iria ikuhĩrĩtie ithũĩ, othe makĩrĩ mecenĩ yakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "95e0f5066b2f2c9a55675069e49563af2520a2cac6ffb4a728d8a51a290c1a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nehemiah\/5\/17-17.1791270744771.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיהודים",
+      "gloss": "na ayahudĩ"
+    },
+    {
+      "surface": "והסגנים",
+      "gloss": "arĩa maarĩ na mĩgenyo na athaki"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mia ũmwe"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na mirongo ĩtano"
+    },
+    {
+      "surface": "איש",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "והבאים",
+      "gloss": "hamwe na arĩa makĩũca"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kũrĩ ithũĩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma kũrĩ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ndũrĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "סביבתינו",
+      "gloss": "ikuhĩrĩtie ithũĩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mecenĩ yakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:24.775491647Z",
+  "model": "glm-5.3"
+}

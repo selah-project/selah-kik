@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד יהוה",
+      "rationale": "Mũcĩĩrĩre wa Yahwe — kĩhumbĩ kĩa thĩinĩ kĩa bata, gĩa andũ arĩa mengĩtaa ndĩmanaqwo"
+    },
+    {
+      "kind": "crux",
+      "subject": "דברי",
+      "rationale": "Ndemwa ici itaagĩtwo ha kĩugo 'kĩwanyu' (kiugo kĩa Yahwe kĩayoigire) kana 'kĩake'; taũri aingĩ magĩtua 'my word' — Kik 'maũndũ make' nĩ ya kũonekera kwa mothomo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וירא וישמע",
+      "rationale": "No itaũrwo ta maũndũ manini o mbere: 'nĩgeetha aone na aguĩe' — kĩtheri kĩrĩa kĩrĩ kũngĩhandwo thutha wa mũndũ mũthenya wa mũcĩĩrĩre"
+    }
+  ],
+  "translation": "Nĩ nĩũ ũrĩkũ ũyũmirĩirie thĩinĩ wa mũcĩĩrĩre wa Yahwe, na akĩona na akĩigua ⟨את⟩ kiugo kĩake? Nĩũ ũrĩkũ warĩ gũtikĩra maũndũ make, na akĩigua?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9a6cc4fddbfdb3b1597e2c0238463c91f06458bc222322a559162b205b970fa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/23\/17-18.1791270256777.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũ ũrĩkũ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ũyũmirĩirie"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "thĩinĩ wa mũcĩĩrĩre wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "na akĩona"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na akĩigua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiugo kĩake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kiugo kĩake"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũ ũrĩkũ"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "warĩ gũtikĩra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maũndũ make"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "na akĩigua"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:16.786520981Z",
+  "model": "glm-5.3"
+}

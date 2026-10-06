@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 29:31",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kahora",
+      "rationale": "שקר nĩ 'kiugo gĩa kahora', gĩtaũro kĩmwe gĩa kĩng'ania"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ũwe⟩",
+      "rationale": "Kĩgwa kĩa ואני לא שלחתיv kĩrenda kĩongerwo thĩinĩ wa gĩtaũro kĩa Gĩkũyũ"
+    },
+    {
+      "kind": "you",
+      "subject": "andũ acio arĩa ahiũtwo",
+      "rationale": "Watho ũrĩ ũhoro ũthiĩ kũrĩ aciũrũwo a Baberu"
+    }
+  ],
+  "translation": "Tũmĩra andũ acio arĩa ahiũtwo, ũugire: Nguo Yahwe oigĩte kũrĩ Cemayia mũNehiramu, nĩ ũndũ Cemayia arathĩtie nyinyi, na ini ndĩnatũmire ⟨ũwe⟩, na nĩwe watũmĩte nyinyi kũigĩrĩra kahora.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9789426e509f307fc0d260f8c5bb44492b2b6ad2abc60c4b34f4d6e9ef5eb538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/29\/31-32.1791270263333.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "tũmĩra"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "andũ acio othe"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "arĩa ahiũtwo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ũugire"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nguo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Cemayia"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "mũNehiramu"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "arathĩtie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Cemayia"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩna-"
+    },
+    {
+      "surface": "שלחתיו",
+      "gloss": "tũmire"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "nĩwe watũmĩte kũigĩrĩra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nyinyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kahora"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:23.348411629Z",
+  "model": "glm-5.3"
+}

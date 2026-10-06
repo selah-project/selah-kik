@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mohoro ma inĩ",
+      "rationale": "Kĩgĩrĩro kĩa ciugo kĩongirwo kana aya arĩ, nĩgetha mũhoro ũmenyekere ũrĩa ũhoro ũrĩ ũgĩkũra."
+    },
+    {
+      "kind": "crux",
+      "subject": "תכזבי",
+      "rationale": "KJV\/JPS itua 'walie' hatarĩ kiugo kĩa kuongerera; hihi hihi 'you would fail' (JPS)."
+    }
+  ],
+  "translation": "Na ⟨את⟩ nĩũ ũrĩa wagĩtĩnĩtie na gwĩtĩnagĩra, nĩgũkorwo ⟨את⟩ warĩ mũũrarĩti? Inĩ nĩndĩetekerie, mohoro ma inĩ ndũĩhota thĩinĩ wa ngombo yaku. Nĩrĩ inĩ njĩthĩagĩrĩra, na ⟨את⟩ kuma thutha wa ihinda rĩnene, ndĩũngĩtĩnĩra?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/57\/9-12.1791270221483.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nĩũ ũrĩa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nĩũ ũrĩa"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "wagĩtĩnĩtie"
+    },
+    {
+      "surface": "ו",
+      "gloss": "na"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "gwĩtĩnagĩra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "⟨את⟩ warĩ mũũrarĩti"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩",
+      "marks": "inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "etekerie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ĩhatire"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngombo yaku"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nĩrĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "njĩthĩagĩrĩra"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "⟨את⟩ kuma thutha wa ihinda rĩnene"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩",
+      "marks": "inĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ngĩtĩnĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:41.547076428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 24:41",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũithia",
+      "rationale": "מאלה nĩ kĩhooto gĩa kũhĩtiga hinya, kiugo 'kũhotorwo' kĩnyitagwo kuma gĩcunjĩ kĩa mbere na kĩa mĩthia"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "rationale": "gĩcunjĩ kĩa igĩrĩ kĩa Kĩhibirania kĩa 'kũhe nĩwe' kĩngĩhĩtagwo thutha wa ndũmĩrĩri-inĩ"
+    },
+    {
+      "kind": "crux",
+      "subject": "yithagĩrĩrie",
+      "rationale": "KJV 'give not thee' ĩrĩ na 'kana nĩwe'; ASV\/JPS 'give her not' — ciugo cia Kĩhibirania tiarĩ na kĩrĩa gĩkũheirwo"
+    }
+  ],
+  "translation": "Rĩrĩa ũgĩka mũthenya ũcio nĩũkahotorwo mũithia wakwa rĩrĩa ũgĩkũũga kũndũ kwĩ mũciĩ wakwa; na arĩa makũte ndmakũhe ⟨kĩo⟩, nĩũkahotorwo mũithia wakwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2bc2b995b8e4653eabc14083ef178d89043e6475a662c99b8c6ed36b460fe304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/24\/41-41.1791269241142.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "rĩrĩa ũgĩka mũthenya ũcio"
+    },
+    {
+      "surface": "תנקה",
+      "gloss": "nĩũkahotorwo"
+    },
+    {
+      "surface": "מאלתי",
+      "gloss": "mũithia wakwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ũgĩkũũga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũndũ kwĩ"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "mũciĩ wakwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na arĩa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nd"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "makũhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kĩo⟩"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "nĩũkahotorwo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ũhotori"
+    },
+    {
+      "surface": "מאלתי",
+      "gloss": "mũithia wakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:21.146750610Z",
+  "model": "glm-5.3"
+}

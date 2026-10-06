@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 7:43",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Gĩkũyũ ĩrĩhĩragia copula ũrĩa Kĩhibirania kĩtarĩ nakĩo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩgima",
+      "rationale": "Kĩheo gĩkĩonania mĩgima ya cekeri: 130 na 70, kwa cekeri wa ũtheru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minaha",
+      "rationale": "minaha nĩrĩa kwagĩrĩwo handũ ha 'kĩheo' kana 'igooti' — kiugo kĩa Kĩhibirania kĩmwe"
+    }
+  ],
+  "translation": "Kĩheo gĩake nĩ ĩmwe kaarati ya reabu, mũgima wayo nĩ cekeri thĩngũ na ĩgĩrĩ na mĩrongo ĩtatũ, na mũciranjĩ ũmwe wa reabu, cekeri ĩrũnganũ na ikũmi, kwa mũgima wa cekeri wa ũtheru; io igĩrĩ nĩ ĩiyũrĩtwo cota ĩthondekwo na mafuta, itherekĩtwo minaha.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "14d53265ba3aa4caecef20425ba9ed676073d8c07110c86f588d7be09d34cbc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/7\/43-43.1791269492982.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "Kĩheo gĩake"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "kaarati"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "reabu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "thĩngũ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na ĩgĩrĩ na mĩrongo ĩtatũ"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "mũgima wayo"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "mũciranjĩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "reabu"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ĩrũnganũ na ikũmi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "cekeri"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "kwa mũgima wa cekeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "io igĩrĩ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ĩiyũrĩtwo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "cota"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ĩthondekwo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "minaha"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:32.987349503Z",
+  "model": "glm-5.3"
+}

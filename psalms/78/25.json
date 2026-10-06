@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "abirim",
+      "rationale": "אַבִּירִים: 'arĩa me hinya' (mighty ones) atĩrĩ 'amaraaika' (angels, KJV\/Geneva) kana 'a-ngurũ' (bulls) — rĩrĩa kĩrathimene gĩa Kĩhibirania kiugaga 'hinya'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lechem abirim",
+      "rationale": "Mamario ma Kĩhũrani nĩmo magĩtie rĩĩtwa rĩa mana mbere ya Sigimoini (mān hu) — ũguo ndũonekana mũno thĩinĩ wa Gĩkũyũ."
+    }
+  ],
+  "translation": "Mũndũ nĩarĩrĩa iro cia arĩa me hinya; akĩrĩhĩra kũo iro igĩrĩ kũhĩa kũmĩna.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f93ba86288388ebaf811f8246948572e23408b5bcb4bd62f27447dccaa9345f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/78\/25-25.1791270459325.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "iro"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "arĩa me hinya"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nĩarĩrĩa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "iro"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akĩrĩhĩra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kũhĩa kũmĩna"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:39.329379845Z",
+  "model": "glm-5.3"
+}

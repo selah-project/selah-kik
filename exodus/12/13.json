@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 12:13",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kwa Yiceraeri",
+      "rationale": "Yahwe akoraghanĩria andũ ake arĩa aa Micirayimu mĩthenya ĩyo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ופסחתי \/ Paca",
+      "rationale": "Kĩugo kĩa פסח (kũgĩathara) nĩko gotumĩtie rĩĩtwa rĩa emba ya Paca; mũhiano ũrĩa ũrarĩkitagia Gĩkũyũ ndunonagwo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגף",
+      "rationale": "Kĩugo gĩa Kĩhibirania kĩugaga 'kũtheremera kĩngũ' — kĩrĩgĩtũũka 'kĩrimũ' ti mũhiano ũrĩa ũrarĩ mũno mĩena yothe."
+    }
+  ],
+  "translation": "Na ng'erero nĩgĩtuĩke kĩrĩta gĩanyu irĩ tho nyinyi irĩa mũikaraga kuo; na rĩrĩa ndĩkũona ⟨את⟩ ng'erero, ndĩkũgĩathara, na gũtirĩ kĩrimũ kĩrĩkũigana mwena wanyu kĩrĩa gĩhoota, rĩrĩa ndĩgũroora bũrũri-inĩ wa Micirayimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f0f24cb48d30457cd4cbda7b9766fe14870d00a97a58c5e39863bcaa552588b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/12\/13-13.1791269330357.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nĩgĩtuĩke"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ng'erero"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gĩanyu"
+    },
+    {
+      "surface": "לאת",
+      "gloss": "kĩrĩta"
+    },
+    {
+      "surface": "על",
+      "gloss": "irĩ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nyinyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "irĩa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "mũ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "ndĩkũona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ng'erero"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ng'erero"
+    },
+    {
+      "surface": "ופסחתי",
+      "gloss": "ndĩkũgĩathara"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "irĩ-inĩ yanyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na gũtirĩ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kĩrĩkũigana"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mwena wanyu"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kĩrimũ"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "kĩrĩa gĩhoota"
+    },
+    {
+      "surface": "בהכתי",
+      "gloss": "rĩrĩa ndĩgũroora"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:50.361935982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרב-style heights שפיים",
+      "rationale": "שפי = mboco iria itarĩ gĩkũndĩ; 'thigwe' ciugeitwo no ciheane maũndũ matarĩ kuo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעו \/ מרעיתם",
+      "rationale": "mũri ũmwe wa kũrĩa-rĩa (רעה) hamwe na ciara — ũgu ũrĩa mũhiano wa Kĩhibirania ũonekaga."
+    },
+    {
+      "kind": "elision",
+      "subject": "הגלו",
+      "rationale": "'wahũranio' — גלה ĩgĩrĩirwo kuugia ũndũ wa kũhũrania, ti ũrĩa wonekaga o rũgano rwa kĩndũ."
+    }
+  ],
+  "translation": "Kuugia arĩa methetwo: Ithũkĩra; na arĩa mũthing'u-inĩ: Ũrĩa wahũranio agĩonekana. Harĩ macanjini magaragũra, na thĩinĩ wa mboco ciothe ciara ciao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "55e77d2d71f605e1e636e504b149ce706d5e29460d2dbe3f4b2894e321d9624e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/49\/9-10.1791270177460.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Kuugia"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "arĩa methetwo"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Ithũkĩra"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "mũthing'u-inĩ"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "wahũranio"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "macanjini"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "magaragũra"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "na thĩinĩ wa ciothe"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "mboco"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ciara ciao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:57.474358229Z",
+  "model": "glm-5.3"
+}

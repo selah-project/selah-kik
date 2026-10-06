@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 16:30",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בריאה\/יברא",
+      "rationale": "Kĩndũ kĩa kĩmwe-kĩrũ nĩkuo kĩheanwo na kũheanwo kwa Yahwe — kĩugo kĩmwe kĩarahũkĩte, gĩtihoteka mũno thĩinĩ wa Gĩkũyũ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "פצתה האדמה את פיה",
+      "rationale": "Thĩ 'yagũrũkĩte iroto wayo' — ciugo cia Kĩhibirania nĩ cia kĩũndũ-gĩrũ, no cĩĩhotosrĩtwo ta maũndũ ma nyũmba-njũru."
+    },
+    {
+      "kind": "crux",
+      "subject": "חיים שאלה",
+      "rationale": "Mĩhang'o makĩtherema Ceori na miyũre — KJV 'kĩgima'; Ceori ti 'kũherithio kwa thutha', nĩ kũndũ kwa arĩa makuũ."
+    }
+  ],
+  "translation": "Na ĩ Yahwe atheĩre kĩndũ kĩa kĩmwe-kĩrũ, na thĩ yagũrũkĩte ⟨את⟩ iroto wayo, iramemera ⟨את⟩ arĩa ao na ⟨את⟩ wona o ũrĩa mmarĩ, makĩtherema kuya Ceori na miyũre, nĩmũkũmenya atĩ andũ arĩa macio o menete ⟨את⟩ Yahwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e37dceae0b8b488bffdf73585ea92cf18946763828b703155f5cfed0bf68cd18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/16\/29-30.1791269653297.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Na ĩ"
+    },
+    {
+      "surface": "בריאה",
+      "gloss": "kĩndũ kĩa kĩmwe-kĩrũ"
+    },
+    {
+      "surface": "יברא",
+      "gloss": "atheĩre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופצתה",
+      "gloss": "yagũrũkĩte"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iroto wayo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "iroto wayo"
+    },
+    {
+      "surface": "ובלעה",
+      "gloss": "iramemera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ arĩa ao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "wona o ũrĩa mmarĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mmarĩ"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "makĩtherema"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "na miyũre"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "Ceori"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "nĩmũkũmenya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "o menete"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "arĩa macio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:13.304399492Z",
+  "model": "glm-5.3"
+}

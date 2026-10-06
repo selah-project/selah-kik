@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 3:13",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לי ולך",
+      "rationale": "Kĩugo kĩa Kĩhibirania 'nĩkĩ nĩkĩrĩ ithuĩ na we' — nĩkĩhĩhĩra atĩ mũndũ ũmwe ti wa mwĩrĩ na ũngĩ; nĩkĩtaũrwo nĩ kĩrũmĩrĩro rĩa ngombo."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל כי",
+      "rationale": "'Ndũkaage; nĩ...' — KJV 'Nay, for'; andĩkie angĩ magĩtaũra 'Ndũkĩthĩĩ' kana 'Acaĩ'; 'כי' nĩonetwo ta kĩrũmĩrĩro kana kĩhooto."
+    },
+    {
+      "kind": "you",
+      "subject": "Elicaia akĩrĩria mũthamaki wa Yiceraeri",
+      "rationale": "Kwarĩ koonya mũthamaki wa Yiceraeri mwĩrĩ ta mũndũ ũrĩa ũcookerĩtio mbaara ya Moabu."
+    }
+  ],
+  "translation": "Elicaia akĩrĩria mũthamaki wa Yiceraeri atĩrĩ: Nĩkĩ nĩkĩrĩ gacunjĩ gĩa kwĩ ⟨na⟩ we? Thĩĩ kũrĩ arathi a ithe waku na kũrĩ arathi a nyina waku. Ndũkaage; nĩ Yahwe oirĩ matatũ mcio mathamaki makũhe ⟨את⟩ macio moko-inĩ wa Moabu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "117ffafb6f5a9c5ee20c2819cee3559c7de5c09361e581965ce130fa4bfcb0cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/3\/13-13.1791270063427.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩrĩria"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicaia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩkĩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwĩ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "na ⟨we⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "thĩĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "arathi a"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ithe waku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũrĩ"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "arathi a"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nyina waku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "amũrirĩria"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndũkaage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oirĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "matatũ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mathamaki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "mcio"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "akũhe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "moko-inĩ wa Moabu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "moko-inĩ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wa Moabu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:03.429681966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 14:34",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ceraati",
+      "rationale": "צרעת nĩ mũrimũ wa gĩcunjĩ kĩa ithũĩro, ndĩ tago ya 'mĩhĩa wa nyũmba' ta BSB"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְנָתַתִּי",
+      "rationale": "'nĩngĩhĩtithia' (nĩngĩthia) kana 'nĩndĩhĩtithia' (nĩndĩĩthia) — KJV\/JPS 'I put' itũkĩte ngero ya thutha, YLT 'I have put' nĩ ya thutha"
+    },
+    {
+      "kind": "addition",
+      "subject": "ĩ",
+      "rationale": "kiugo gĩa kwarĩrĩria kĩongĩtwo harĩ אל, Kĩgĩkũyũ gĩkĩhĩtũkaga kwarĩrĩria"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũnyĩrĩri",
+      "rationale": "kiugo kĩa gũcokia kĩheo gĩa bũrũri gĩa kũnyĩrĩra, kĩrĩa kĩrĩga kĩa watho wa gũcoka na kũiga"
+    }
+  ],
+  "translation": "Rĩrĩa mũingĩra bũrũri-inĩ wa Kenani, ũrĩa nĩngũhe inywe nĩgũo mũnyĩrĩre, na nĩndĩhĩtithia nĩgũa wa ceraati nyũmba-inĩ ya bũrũri wĩ mũnyĩrĩri wanyu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1f42e98c218bf870dbec35cc0d3eb0b08ae954fec8cc0abee77fa166f3a55d15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/14\/34-34.1791270999330.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "mũingĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bũrũri-inĩ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "wa Kenani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nĩngũ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "he"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "nĩgũo mũnyĩrĩre"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "na nĩndĩhĩtithia"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nĩgũa"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "wa ceraati"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nyũmba-inĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wa bũrũri"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "wĩ mũnyĩrĩri wanyu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:39.334506048Z",
+  "model": "glm-5.3"
+}

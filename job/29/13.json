@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 29:13",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ũrĩa warĩ ahũũrage",
+      "rationale": "אֹבֵד rĩtwa rĩa mũthũũri — 'ũrĩa warĩ ohaani' kana 'ũrĩa wa hinya ũgĩyendera'; gĩtaũra kĩa 'wahũũragio' nĩ kĩnyiitanĩria na ma"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ארנן",
+      "rationale": "Hiphil: 'nĩndĩteithirie ngoro ya mũka-wa-mũthũũrũ nĩguo yĩimbe' — kĩugo kĩa Kĩhibirania kĩroromoka ta kũimba kwa kũgũkĩra"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ארנן",
+      "rationale": "Gĩtaũra kerĩ: 'nĩngĩteithia ngoro ya mũka-wa-mũthũũrũ ndũrĩrĩ-inĩ ciayo' — riika rĩa Hiphil rĩkoragwo na mĩena ĩĩrĩ"
+    }
+  ],
+  "translation": "Kĩbariki kĩa ũrĩa warĩ ahũũrage kĩĩgai igũrũ rwĩtwa, na nĩngĩteithia ngoro ya mũka-wa-mũthũũrũ nĩguo yĩimbe na kũgũkĩra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d72d1b5f13185c6737ce18ffac940c84c51d577c3a925cb5d49522d44ace5ae7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/29\/13-13.1791270607203.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "kĩbariki"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ũrĩa warĩ ahũũrage"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "igũrũ rwĩtwa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kĩĩgai"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "na ngoro"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ya mũka-wa-mũthũũrũ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "nĩngĩteithia nĩguo yĩimbe na kũgũkĩra"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:07.207501429Z",
+  "model": "glm-5.3"
+}

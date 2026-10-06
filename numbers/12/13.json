@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Moce agayonjora Yahwe thĩinĩ wa kũhura Miriama"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נא ... נא",
+      "rationale": "kwiyamera kũriũkĩra kũrĩa igũrũ-rĩ, kwarahũkĩte ndũgũ ya Kĩhibirania"
+    }
+  ],
+  "translation": "Moce akĩhuranira kwa Yahwe, akiuga: Ere, ndakũhoya, hũra ⟨ayo⟩, ndakũhoya.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0af1fc4fbb044b9f4a5cb6414e5294a7b502b9a682d5fd9a4d954d17cde1e5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/12\/13-13.1791269483602.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akĩhuranira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakũhoya"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "hũra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakũhoya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ayo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:51:23.606506391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 28:25",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mũmwe \/ mĩrundanya",
+      "rationale": "Kanitha wa mũciaro ũmwe na mĩciaro mĩrundanya — kũkanithia kwa mũndũ-andũ na guo kwa mahenia gwa Kĩhibirania."
+    },
+    {
+      "kind": "you",
+      "subject": "Amwirĩtwo",
+      "rationale": "Matukũ ma ndũrĩrĩ aka marĩ maũmbũrone kũrĩ Yiceraeri, mwĩhoko ũrĩa ũrĩ mbere — 'wĩ' wa kĩnandũ nĩguo mũndũ-a-ndũrĩrĩ wothe."
+    },
+    {
+      "kind": "crux",
+      "subject": "לזעוה",
+      "rationale": "Hapax-rĩa-rĩu: 'ũgũtũgĩra kana kũigwatithia' — JPS 'horror', KJV 'removed\/tossed' — gĩkuũ gĩa kwĩhoka nĩ kũigwatithia nĩgũo kĩhootanie na rũciaro rwa kĩhibirania."
+    }
+  ],
+  "translation": "Yahwe agakũheithia ⟨ũhooreri⟩ mbere ya arĩa mamenete aku: mũciaro-inĩ mũmwe ũkayũrũa kũrĩ macaria, na mĩciaro mĩrundanya-inĩ ũkahũira thiambĩrĩria nake; na ũkaigua ũrĩa andũ megwatithĩkia, kwa mĩcamango yothe ya thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2eb6c0abc1d763979f0d7951808b2aa39157bb5008c4b013d9ce14418e3c196c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/28\/25-26.1791269741919.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתנך",
+      "gloss": "agakũheithia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ũthaguro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "arĩa mamenete aku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "mũciaro-inĩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mũmwe"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ũkayũrũa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ macaria"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "na mĩrundanya-inĩ"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "mĩciaro"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ũkahũira"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "thiambĩrĩria nake"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ũkaigua"
+    },
+    {
+      "surface": "לזעוה",
+      "gloss": "ũrĩa andũ megwatithĩkia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mĩcamango yothe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:41.920706343Z",
+  "model": "glm-5.3"
+}

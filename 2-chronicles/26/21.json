@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 26:21",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "החפשות",
+      "rationale": "Kiugo gĩkĩ gĩtuĩka gĩa thĩinĩ wa Tanakh gĩkĩga tu harĩ-inĩ; kĩgoro kĩayo kĩrarĩirie — 'nyumba ya kũikarerwo' nĩ kwĩrigĩrĩria kũigua kwayo."
+    },
+    {
+      "kind": "crux",
+      "subject": "החפשות",
+      "rationale": "Atũri mari mbere: 'nyumba ya kũikarerwo' (ya mũrarua gĩthingo-inĩ) handũ ha 'nyumba ya mahiũri' kana 'nyumba ya kũhonokĩa' — maũndũ mothe nĩ magĩtie mwandĩkĩre wa Kĩhibirania."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרע … מצרע",
+      "rationale": "Kiugo gĩa 'gũtarua' kĩrarĩkiririo gerĩa mbere na gĩa gĩa keerĩ thutha wa החפשות — kĩhumĩrĩro kĩrĩa gĩtatũkĩte Gĩkũyũ-inĩ."
+    }
+  ],
+  "translation": "Nĩ ũgũ Uziahu mũthamaki nĩatuĩkite mũrarua nginya mũthenya wa gũkua kwake, na akĩikara nyumbainĩ ya kũikarerwo ⟨arĩ mũrarua⟩, nĩgũkorwo nĩagatuanĩtwo na nyumba ya Yahwe; na Yothamu mũrũ wake nĩwe warĩ igũrũ rĩa nyumba ya mũthamaki, arĩkĩria ciira cia ⟨את⟩ andũ a thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "6d67922c45b02635cfaae723eaef901bd298986fc3c0978ecd3c5bbebae6ba02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/26\/21-21.1791270943256.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nĩ ũgũ"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "nĩatuĩkite mũrarua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "wa gũkua kwake"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akĩikara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumbainĩ"
+    },
+    {
+      "surface": "החפשות",
+      "gloss": "ya kũikarerwo"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "arĩ mũrarua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "nĩagatuanĩtwo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na nyumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "Yothamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mũrũ wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mũthamaki"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "arĩkĩria ciira cia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ a thĩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:43.261779624Z",
+  "model": "glm-5.3"
+}

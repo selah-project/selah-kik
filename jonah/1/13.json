@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nĩmahinyĩrire",
+      "rationale": "חתר gĩkũyũ-inĩ 'to force a passage' na rũhiũ, ta mũthiĩri, no Hebrew nĩ 'kũhĩnya handũ he hoho' — kĩrĩa kihoto kana mũthiĩri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הולך וסער",
+      "rationale": "Hebrew nĩ 'gũthiĩ na gũtetereka' — ciugo igĩrĩ ciumanĩte, kĩrĩa kĩuonania kĩngombere kĩiyũrĩtĩka na hinya"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrew 'el' nĩ kuuma 'kana gũkinya', nĩĩgwo ta ⟨את⟩ marker ya kĩndũ gĩa kucookerwo"
+    }
+  ],
+  "translation": "No andũ arĩa maarĩ ngũkĩ-inĩ nĩmahinyĩrire kũcookia ⟨את⟩ ngũkĩ thĩ-inĩ ya kũma, no matihebana nĩgũkĩ ngombere kĩarĩ kĩiyũrĩtĩka na kũtetereka kĩrĩa kĩrĩ igũrũ rĩao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9827ee452d3a065fbee55ada8e03c7deb101a12ffe07c8cd693bac935bdca9b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jonah\/1\/13-13.1791270372708.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "nĩmahinyĩrire"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "andũ arĩa maarĩ ngũkĩ-inĩ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kũcookia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩",
+      "marks": "ngũkĩ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "thĩ-inĩ ya kũma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "no"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "matihebana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkĩ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ngombere"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kĩarĩ kĩiyũrĩtĩka"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "na gũtetereka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kĩrĩa kĩrĩ igũrũ rĩao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:06:12.712844797Z",
+  "model": "glm-5.3"
+}

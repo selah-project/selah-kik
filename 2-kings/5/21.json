@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 5:21",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השלום",
+      "rationale": "Kĩngĩabania kĩa Kĩhibirania kĩoigaga 'ni thĩ?' — kĩrendwo ta kũũria kwa mũthemba wa ũhoro wa mũndũ, ti kiugo kĩa 'thĩ' kinya kinya."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המרכבה",
+      "gloss": "gĩari-inĩ — rora",
+      "rationale": "המרכבה nĩ gĩari kĩa ita rĩngĩ; 'gĩari' nĩgũo gĩhikanĩtie mũno."
+    },
+    {
+      "kind": "you",
+      "subject": "Naamani",
+      "rationale": "Kĩgunĩgi kĩa Gehaci nĩkĩũrĩtwo Naamani mwĩhĩthia: 'No thĩ?'"
+    }
+  ],
+  "translation": "Na Gehaci agĩcoka thutha wa Naamani; rĩrĩa Naamani aonire mũndũ agĩcoka-inĩ na magũrũ, ahingũrire kuuma gĩari-inĩ kĩa mahiũhĩtie nawe, na aũmbĩrĩria kũmũũria: No thĩ?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ba0d9f70f36c4a93a57967e102a34c46ba204b86ea39f0b33c04e9d930d9c5db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/5\/21-21.1791270029658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "agĩcoka"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Gehaci"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamani"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "aonire"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamani"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "agĩcoka-inĩ na magũrũ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "thutha wayo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ahingũrire"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "gĩari-inĩ"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kĩa mahiũhĩtie nawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aũmbĩrĩria kũmũũria"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "No thĩ?"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:29.660815404Z",
+  "model": "glm-5.3"
+}

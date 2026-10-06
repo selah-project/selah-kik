@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 35:13",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויריצו",
+      "rationale": "'ran\/hasted' — KJV 'divided speedily' vs ASV\/JPS 'carried quickly'; the Hebrew verb is simply 'they ran', target keeps haste-of-carrying."
+    },
+    {
+      "kind": "elision",
+      "subject": "כמשפט",
+      "rationale": "noun 'according-to-the-verdict\/ordinance' rendered with verb ciahĩtũkĩte to keep Gĩkũyũ grammar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשלו",
+      "rationale": "literal 'they boiled' — Pesa itself was roasted (v.13a per Deut 16:7), only the holy offerings were boiled; gloss keeps cooking-sense one root with ויבשלו."
+    }
+  ],
+  "translation": "Nĩgekũtheria ⟨את⟩ Pesa mũaki-inĩ ta ciira ciahĩtũkĩte, na mahewa ma ũtheru nĩmagatherio nyungu-inĩ, na mapathi-inĩ, na mbati-inĩ, na magĩcokerithia na ũtheri kũrĩ ciana ciothe cia andũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "152f6b4356eb53eb5e039180c05e23214588c729ecf1cb2b76701673d8b4fec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/35\/13-13.1791270906645.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבשלו",
+      "gloss": "nĩgekũtheria"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mũaki-inĩ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ta ciira ciahĩtũkĩte"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "na mahewa ma ũtheru"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "nĩmagatherio"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "nyungu-inĩ"
+    },
+    {
+      "surface": "ובדודים",
+      "gloss": "na mapathi-inĩ"
+    },
+    {
+      "surface": "ובצלחות",
+      "gloss": "na mbati-inĩ"
+    },
+    {
+      "surface": "ויריצו",
+      "gloss": "magĩcokerithia na ũtheri"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana ciothe cia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:15:06.650879811Z",
+  "model": "glm-5.3"
+}

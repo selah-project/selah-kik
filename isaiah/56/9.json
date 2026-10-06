@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ithomai",
+      "rationale": "Verse summons the beasts with an imperative — an ironic call to devour, addressed to the wild animals"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתיו",
+      "rationale": "No ⟨את⟩ token in this verse; אתיו is the verb 'come', not the direct-object marker"
+    },
+    {
+      "kind": "you",
+      "subject": "nyamu cia rĩa",
+      "rationale": "Direct address: the beasts of the field and forest are the summoned addressees"
+    }
+  ],
+  "translation": "Nyamu cia rĩa ciothe, ithomai kũria ⟨את⟩ nyamu ciothe irĩ mwanda-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "cb97b0e54bf68048f50ea40dbc33ac53a381ea3d47af07e5c485daaa55abbf17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/56\/9-9.1791270132075.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "cia rĩa"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ithomai"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kũria"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "nyamu"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "mwanda-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:12.079170029Z",
+  "model": "glm-5.3"
+}

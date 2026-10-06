@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 21:17",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פי שנים",
+      "rationale": "'mũrĩo wa eerĩ' (kanua ka eerĩ) — ciugo igĩrĩ Hebrew kĩuga 'gĩcunjĩ kĩa mbĩrĩ ĩmbĩrĩ'; mũhiano ũrĩa ũteyonyetwo ũgĩa mũthemba wa ibiri"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הבכרה",
+      "rationale": "Kĩugo kĩa ũmũmoneyi kĩonekana hakuhĩ o harĩi na theŋini ya Duteronomi 21:17"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũrĩo wa eerĩ",
+      "rationale": "Kĩheo gĩa mbĩrĩ ĩmbĩrĩ — kũgeria ng'ania wa kũgũcokia kwa mũmoneyi nĩkuonekaga"
+    }
+  ],
+  "translation": "No athome ⟨את⟩ mũmoneyi, mũrĩo wa arĩa amenetwo, nĩguo amũhe mũrĩo wa eerĩ thĩinĩ wa o ũrĩa ũthokire nakĩo; nĩwe mbere ya hinya wake; ciira wa kũmũmoneyi nĩ wake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1b067365b715ae3809b57fb0cb71e6c4457f2da4b56a8c11159fa21fb5a482b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/21\/17-17.1791269680565.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũmoneyi"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "mũmoneyi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrĩo"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "arĩa amenetwo"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "athome"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kũhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mũrĩo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "eerĩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thĩinĩ wa o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ũthokire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nakĩo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mbere"
+    },
+    {
+      "surface": "אנו",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "הבכרה",
+      "gloss": "kũmũmoneyi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:40.565733182Z",
+  "model": "glm-5.3"
+}

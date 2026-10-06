@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nĩ⟩",
+      "rationale": "Aramaic pile-up אנתה מלכא מלך מלכיא lacks a copula; Gĩkũyũ needs nĩ to say 'thou art'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכא מלך מלכיא",
+      "rationale": "threefold repetition of 'king' (king-of-kings-of-kings) — the Aramaic stacking is flattened to two terms in Gĩkũyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eroha",
+      "rationale": "Aramaic אלה (God) rendered with the Hebrew-sound form per the Names discipline, not the common word Ngai"
+    },
+    {
+      "kind": "you",
+      "subject": "Nebukadinecari",
+      "rationale": "Daniel addresses the king directly — second-person declaration of the dream's meaning"
+    },
+    {
+      "kind": "alternative",
+      "subject": "די",
+      "rationale": "rendered 'nĩrĩrĩa' (that\/because); some versions make it 'unto whom', tying the gifts to the king rather than grounding the title"
+    }
+  ],
+  "translation": "We mwathi, ⟨nĩ⟩we mũthamaki wa aathamaki, nĩrĩrĩa Eroha wa igũrũ nĩakuheire kũrĩ-we ũthamaki, hinya, na kĩhooto, na kũgoocwo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ebc494ea87ca0b9c8297e8d96fb73ec55fd53b4a5ea2f38e6e2d6ae215da0ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/daniel\/2\/37-37.1791270734582.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "We"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "wa aathamaki"
+    },
+    {
+      "surface": "די",
+      "gloss": "nĩrĩrĩa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eroha"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "wa igũrũ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "ũthamaki"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "hinya"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "na kĩhooto"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "na kũgoocwo"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "nĩakuheire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kũrĩ-we"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:14.583216694Z",
+  "model": "glm-5.3"
+}

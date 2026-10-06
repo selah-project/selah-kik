@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 36:35",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekeleti",
+      "rationale": "תכלת nĩ mũthingu wa kĩoco kĩa njaĩ (cerulean), kwihitwo ta 'blue' nĩ mĩtaũri"
+    },
+    {
+      "kind": "elision",
+      "subject": "ותולעת שני",
+      "rationale": "Kĩhibirania kugĩte 'tũtũ' na 'cairũ' ciugo igĩrĩ; Gĩkũyũ ndĩgũtaũra kĩuga-inĩ kĩmwe"
+    }
+  ],
+  "translation": "Na akoria ⟨את⟩ thigithi ya tekeleti, na arugamani, na nguo ya tumani ya cairũ, na sheshi maŝzari; ndunya wa mũciari nĩakuĩte ⟨את⟩ yayo na akirubi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c38ab63e59f7f16c4d5842cf24cc0d7f13e63e95e1f7df06d0a20d56017fb025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/36\/35-36.1791269436253.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akoria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thigithi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "thigithi"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekeleti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "arugamani"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tũtumanĩ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cairũ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sheshi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "maŝzari"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ndunya"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wa mũciari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nĩakuĩte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "akirubi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "akirubi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:36.258507951Z",
+  "model": "glm-5.3"
+}

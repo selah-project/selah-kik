@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinya-inĩ",
+      "rationale": "בחמה nĩ 'hĩnya\/űtheri' — gĩkũyũ kĩ tarĩ kiugo kĩmwe kĩa 'hinya mũnene'; nĩĩtwo ta 'hinya-inĩ'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה...כלה",
+      "rationale": "Kũrugamwo kwa kiugo 'mũthie naguo' kwahĩtirio ka mbere na ka keerĩ — mũhianĩre ũrĩa ũgĩtagwo repetition, ndũnyitikĩragia kik"
+    },
+    {
+      "kind": "alternative",
+      "subject": "to the ends of the earth",
+      "rationale": "לאפסי הארץ no ĩtuĩke 'gĩtĩ kĩa thĩ' kana 'mĩhĩa ya thĩ' — 'gĩtĩ-inĩ kĩa thĩ yothe' nĩgũo kĩege gũkũria"
+    }
+  ],
+  "translation": "Mũthie naguo hinya-inĩ, mũthie naguo ũngĩkoruo ti arĩa; na amenyage atĩ Erohimu ndũthamakĩra Yaakobu-inĩ, gĩtĩ-inĩ kĩa thĩ yothe. Cerah.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9d3cec20b572d90a0d53510bb3cfc40c1138c2b46569c352f0528b2a726ab2f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/59\/14-14.1791270484657.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "mũthie naguo"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "hinya-inĩ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mũthie naguo"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "ũngĩkoruo ti arĩa"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "na amenyage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ndũthamakĩra"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakobu-inĩ"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "gĩtĩ-inĩ kĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ yothe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cerah"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:04.663676435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 6:10",
+  "book": "nehemiah",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצור",
+      "rationale": "'shut up\/confined' — nĩahehirwo thĩinĩ wa nyũmba yake (BSB) kana 'restrained' (YLT); KJV\/JPS gĩtahĩra o kĩmwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ההיכל",
+      "rationale": "heikari — kĩandĩkĩro kĩmwe kwa Kihibirania, kĩuma kĩugo kĩa hema kĩnene kana heikari; ti 'templo' ya Kĩthwahĩri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באים להרגך",
+      "rationale": "Kiugo gĩkoniecokia merẽ ĩrĩ — 'nĩmarĩ kũũmbũkĩra gũkuua we' — kĩriganĩro gĩa kũigua mũciĩ ũrĩa ciamũkĩte Cehemia."
+    },
+    {
+      "kind": "addition",
+      "subject": "we",
+      "rationale": "Ndereti ya kũgeria ⟨we⟩ nĩongerwo thutha wa gũkuua — Kĩgĩkũyũ kĩarĩ kĩhũthĩre nd ũrĩa Kihibirania kĩguyaga."
+    }
+  ],
+  "translation": "Nĩndĩĩrire nyũmba ya Cemaija mũrũ wa Deraija, mũrũ wa Mehetaberi, na we nĩahehirwo, na akĩmeera: Nĩtũhokane nyũmba ya Erohimu, thĩinĩ wa heikari, na tũciarie irĩgia cia heikari, nĩgoro nĩmarĩ kũũmbũkĩra gũkuua ⟨we⟩ — na hĩndĩ ya ũgima nĩmarĩ kũũmbũkĩra gũkuua ⟨we⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f1ca513dd6cfccb32ad909dca7c76a8e20840db7ea72dde0a7037cd2a3506097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/nehemiah\/6\/10-10.1791270755936.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nĩndĩ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndĩĩrire"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Cemaija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Deraija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "Mehetaberi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "na we"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "nĩahehirwo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩmeera"
+    },
+    {
+      "surface": "נועד",
+      "gloss": "nĩtũhokane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kũrĩ⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "gatagatĩ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikari"
+    },
+    {
+      "surface": "ונסגרה",
+      "gloss": "tũciarie"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "irĩgia"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "cia heikari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgoro"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nĩmarĩ kũũmbũkĩra"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "gũkuua we"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "na hĩndĩ ya ũgima"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nĩmarĩ kũũmbũkĩra"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "gũkuua we"
+    }
+  ],
+  "timestamp": "2026-10-06T07:12:35.942449684Z",
+  "model": "glm-5.3"
+}

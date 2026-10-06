@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "numbers 7:85",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "cekeri",
+      "rationale": "Kũrora maũndũ manini: cekeri 130 rũa ĩmwe, 70 rũa ĩngĩ, na ng'iri ĩgĩrĩ na igana inya ci cohort."
+    },
+    {
+      "kind": "elision",
+      "subject": "cekeri (mĩrongo mũgwanja)",
+      "rationale": "Kiugo 'cekeri' kĩarĩ kĩngĩetwo hakuhĩ na 'mĩrongo mũgwanja' nĩ gũcooka kwa maheni ma 84, no kĩarĩ kĩoyo kĩmwe kĩa kuuga kũrĩ ha kĩrĩa kĩandĩkĩtwo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũtheru",
+      "rationale": "הקדש nĩ 'kĩndũ kĩa ũtheru' — 'cekeri ya ũtheru' nĩ yĩhoketwo, ti 'cekeri ya hegi' ya kũonereria."
+    }
+  ],
+  "translation": "Mĩrongo ĩtatu na igana rũa rĩmwe ya fetha, na mĩrongo mũgwanja rũa rĩmwe; fetha ya indo ciothe, ng'iri ĩgĩrĩ na igana inya, cekeri-inĩ ya ũtheru.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "42c6aac3a9900ba5170f609bae4881c912e15e67fa7977b514060bf7423a923c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/7\/84-85.1791269539580.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשים",
+      "gloss": "mĩrongo ĩtatu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na igana"
+    },
+    {
+      "surface": "הקערה",
+      "gloss": "rũa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "rĩmwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fetha"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na mĩrongo mũgwanja"
+    },
+    {
+      "surface": "המזרק",
+      "gloss": "rũa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rĩmwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fetha"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "indo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ng'iri ĩgĩrĩ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na inya"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "igana"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "cekeri-inĩ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:19.583082988Z",
+  "model": "glm-5.3"
+}

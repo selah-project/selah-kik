@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Shoshannim",
+      "rationale": "שושנים: 'marũa-matheru' (lilies) ta kĩng'etũ kĩa mwĩgiro kana linĩ ya thiomi; no gũkorwo nĩ gwĩĩra kĩa ngita."
+    },
+    {
+      "kind": "hapax",
+      "subject": "Shoshannim",
+      "rationale": "Kĩng'etũ kĩa thiomi kĩonekanaga tu thĩinĩ wa maũndũ marĩa marĩ mũthemba ũcio wa Nyimbo cia Ngai."
+    }
+  ],
+  "translation": "Kũrĩ mũcũrania, ciarĩ igũrũ rĩa marũa-matheru, kĩrĩa kĩa Dawidi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "22704d7d9f58531a0c02eed09cd304d17098aef3f103b9687553ef3c039e521b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/69\/1-2.1791270498541.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kũrĩ mũcũrania"
+    },
+    {
+      "surface": "על",
+      "gloss": "ciarĩ igũrũ rĩa"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "marũa-matheru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kĩrĩa kĩa Dawidi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:18.545015077Z",
+  "model": "glm-5.3"
+}

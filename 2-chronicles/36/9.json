@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 36:9",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חדשים \/ ימים",
+      "rationale": "Gĩgikũyũ kĩhũthagĩra mweri na mũthenya hamwe na namba ĩmwe, o ũrĩa Kihibirania kĩhũthagĩra — ciugo itigana kurũngwo kaundos."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩaka ĩnana · mĩthenya mithatũ ya mweri na ikũmi",
+      "rationale": "Kĩhooto kĩa arĩa moi mathĩna ma ũthurio wa mwathani."
+    },
+    {
+      "kind": "crux",
+      "subject": "mĩka ĩnana",
+      "rationale": "2Maathani 36:9 kiuuga 'thamananya', o na Kiambĩrĩria 24:8 (2Am 36:9 LXX na BSB) kiuuga 'thamananya na ithano' — manugo meganĩte maatiganĩirwo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "thĩinĩ wa maitho ma Yahwe",
+      "rationale": "'Bene-inĩ ma itho' nĩ kĩũro gĩa Gĩthurani kĩugaga 'kanaoneka mwĩhoko wa Yahwe'."
+    }
+  ],
+  "translation": "Mwana wa mĩaka ĩnana Yehoyakini arĩ okiũrũkia, na mĩthenya mithatũ-inĩ ya mweri na ikũmi akĩũrũkia Yerucarayimu, na akĩgĩra ũru thĩinĩ wa maitho ma Yahwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "521a708503898d854f83011cad5cfa0c470b5f8828b1079cc897aab65c0ddefc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/36\/9-9.1791270983257.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ĩnana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakini"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "arĩ okiũrũkia"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na mĩthenya mithatũ-inĩ ya mweri"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": ""
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "na ikũmi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akĩũrũkia"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucarayimu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "na akĩgĩra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "thĩinĩ wa maitho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:23.258395964Z",
+  "model": "glm-5.3"
+}

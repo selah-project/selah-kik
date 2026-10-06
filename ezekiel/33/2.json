@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 33:2",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũirani",
+      "rationale": "צפה nĩ gũtegerera kũona kũrũmagĩra — 'mũirani' ĩtigana gĩcunjĩ kĩa kũona kũrũmagĩra"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Mũrũ wa mũndũ",
+      "rationale": "בן אדם — Gĩkũyũ gĩtikarĩ na mũhiano ũmwe; 'mũrũ wa mũndũ' nĩ kũiga maciaro me mũndũku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם \/ הארץ",
+      "rationale": "Kwĩrũgama kwa 'mũthingu wa thĩ' handũ hamwe — kũrũgamĩrĩra kwa ndemwa ndunaonanaga na ithoni"
+    }
+  ],
+  "translation": "Mũrũ wa mũndũ, rora na ciana cia andũ aku, ũme na oro nao: Thĩ — rĩrĩa ndĩcooka nĩngĩhĩtũkĩria narĩa ceci, arĩa mũthingu, ũmwe wa macokio mao, nambaria arĩ ⟨ao⟩ mũirani wao:",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fa7faa1e7e38a05a1fe593bde35bdfef203231aae076f3b3708ee3bc11779d7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/33\/2-2.1791270283965.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mũrũ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa mũndũ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "andũ aku"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ũme na oro"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Thĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ndĩcooka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nĩngĩhĩtũkĩria narĩa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mũthingu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ũmwe"
+    },
+    {
+      "surface": "מקציהם",
+      "gloss": "wa macokio mao"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "nambaria"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mũndũ ũmwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "arĩ ⟨ao⟩"
+    },
+    {
+      "surface": "לצפה",
+      "gloss": "mũirani wao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:43.976876604Z",
+  "model": "glm-5.3"
+}

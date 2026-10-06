@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 40:14",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũoyo",
+      "rationale": "נפש nĩ ũhoro wa mũhũmũ\/ngombo ya mũoyo, ti 'mũoyo' o wothe wa Gĩthwahĩri"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הכות נפש",
+      "rationale": "kũhĩa ngoro — ciugo cia Kĩhibirania kũringa mũoyo; kĩũgai kĩatumĩtwo ta 'gũkũrwo mũoyo'"
+    },
+    {
+      "kind": "you",
+      "subject": "Gedarayahu",
+      "rationale": "Yohananani na arutani makĩreera Gedarayahu mũmwe ũcio, na kĩĩro kĩa arĩa mamenete"
+    }
+  ],
+  "translation": "Makĩmũĩra atĩĩrĩ: Nĩũĩrĩ na maũndũ ma bũrũri atĩ Baarici, mũthamaki wa aana a Amoni, nĩatũmire ⟨את⟩ Yicimaeli mũrũ wa Netanayaha agũkũhĩrĩra ⟨mũoyo waku⟩? No Gedarayahu mũrũ wa Ahikamu ndaiguithiekia na-o.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "bdc2462957a13e45fd2b8d2c26f6ef266f4a8071d8ee7c6db156413f41fca514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/40\/13-14.1791270267838.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Makĩmũĩra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "atĩĩrĩ"
+    },
+    {
+      "surface": "הידע",
+      "gloss": "Nĩũĩrĩ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "na maũndũ ma bũrũri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "בעליס",
+      "gloss": "Baarici"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa aana a"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nĩatũmire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yicimaeli"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yicimaeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanayaha"
+    },
+    {
+      "surface": "להכתך",
+      "gloss": "agũkũhĩrĩra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mũoyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "No"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "ndaiguithiekia"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na-o"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedarayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikamu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:27.871168144Z",
+  "model": "glm-5.3"
+}

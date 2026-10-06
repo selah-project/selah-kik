@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הגוים",
+      "rationale": "gũcookereria: 'ndũrĩrĩ iria ingĩ' — ciugo cia andũ a mbere, ti kĩhumo kĩa gĩikaro"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "ũrĩa mũhoro ũrĩa ũkoniĩ ndũrĩrĩ no ũndũ wa kũgeria"
+    }
+  ],
+  "translation": "Ũrĩa waarĩ ũhoro wa Yahwe ũkĩya kwa Yeremiayahu mũrathi, wothe ci-njarũa-inĩ cia ndũrĩrĩ;",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9218efe4a8a24bd57a555d3e3746720dc3480f66b8eefd10fbe1a8bbc1135982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/46\/1-1.1791270201452.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ũrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waarĩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ũhoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ũkĩya kwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ci-njarũa-inĩ cia ndũrĩrĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:21.463592892Z",
+  "model": "glm-5.3"
+}

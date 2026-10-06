@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "igũrũ\/thĩ — thĩ\/igũrũ",
+      "rationale": "Hebrew reverses the order: heavens-earth at creation, earth-heavens at making; the chiastic inversion is kept but the sound-play is lost in Gĩkũyũ."
+    },
+    {
+      "kind": "crux",
+      "subject": "mũthenya ũmwe",
+      "rationale": "ביום 'in the day' — singular though creation spans days; some read it as 'when', others literally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mĩtaratara",
+      "rationale": "תולדות literally 'generations\/descents' — rendered as 'account\/origins' as most versions do."
+    },
+    {
+      "kind": "addition",
+      "subject": "wa mũthenya",
+      "rationale": "עשות is an infinitive construct bound to יהוה אלהים; Gĩkũyũ needs a finite verb with subject prefix."
+    }
+  ],
+  "translation": "Ici nĩ mĩtaratara ya igũrũ na ya thĩ rĩrĩa cionbirwo, mũthenya ũrĩa Yahwe Erohimu akĩthondeka thĩ na igũrũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9501505b20f111cfe35fc1dc4abe323dc1875ee7421f8e3c673bdcf70f45ca2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/2\/4-4.1791269264244.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "mĩtaratara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya igũrũ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "na ya thĩ"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "rĩrĩa cionbirwo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya ũrĩa"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "akĩthondeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "na igũrũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:44.252146869Z",
+  "model": "glm-5.3"
+}

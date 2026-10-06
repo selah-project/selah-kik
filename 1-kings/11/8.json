@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ngai ciaro",
+      "rationale": "אלהיהן handũ ĩngĩ nĩ Erohimu, no hĩndĩ ĩcio ngai cia ndũrĩrĩ ĩrĩ ciahũthĩkaga kiugo *ngai* (nini), ta mwĩhiano wa Thama 32:8."
+    },
+    {
+      "kind": "addition",
+      "subject": "irĩ",
+      "rationale": "Gĩkũyũ ĩhũthagĩra kiugo kĩa kũonereria kĩrĩa ciahunĩru nĩ cĩiyũru kĩndũ; Kĩhibirania kĩtarĩ nako."
+    }
+  ],
+  "translation": "Na nĩguo akĩreera kũrĩ o acaarĩ arĩake arĩa mwerũ, irĩ icenjagia minjĩra na ithinjagia kũrĩ ngai ciaro.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4522e8edfcdb0cd7cc3e1957b360d134f293be18618bc6d4dfc313af4f8ccc40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/11\/8-8.1791269918181.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Na nĩguo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akĩreera"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kũrĩ o"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "acaarĩ arĩake"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "arĩa mwerũ"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "icenjagia minjĩra"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "na ithinjagia"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "kũrĩ ngai ciaro"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:38.181815893Z",
+  "model": "glm-5.3"
+}

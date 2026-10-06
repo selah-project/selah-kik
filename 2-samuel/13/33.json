@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 13:33",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל לבו ישם",
+      "rationale": "Kĩgero kĩa Kĩhibirania 'gũciara kĩndũ ngoro-inĩ' — gĩtaũrwo ta 'gũtiega ngoro-inĩ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי אם",
+      "rationale": "Ĩrĩ ciugo icio hamwe nĩĩ tuĩka 'no ũmwe tu' — Ammoni we mũno tu"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Yonadabu arĩkĩrĩra mũthamaki Dawidi mwĩhoko wake"
+    }
+  ],
+  "translation": "Rĩrĩ, mwathi wakwa mũthamaki atiegie kĩndũ kĩu ngoro-inĩ yake, akiuga atĩrĩ: Aana arĩa marĩ a mũthamaki othe maarĩkũe; ntĩkamwe Ammoni we mũno ayrĩ nĩakuu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "182d90e298af87a6719b1809c3000abfc4434f7e6f97d18bc830071d7ac8e267",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/13\/33-33.1791269806831.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Rĩrĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atiegie"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "atiegie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngoro-inĩ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ngoro yake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ kĩu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akiuga atĩrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Aana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a mũthamaki"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maarĩkũe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntĩkamwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ntĩkamwe"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "we mũno ayrĩ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nĩakuu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:56:46.834014126Z",
+  "model": "glm-5.3"
+}

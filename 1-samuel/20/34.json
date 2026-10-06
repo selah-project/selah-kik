@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 20:34",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בחרי אף",
+      "rationale": "Mũhuro wĩ ndeto: 'kwenja wa irĩgĩrĩro rĩa meng' — ndetoe cia gĩcigĩrĩri kĩa Kĩhibirania kĩrĩa kĩrĩa kĩonanĩtie na riika rĩa hinya rĩa thĩnĩ ngombo cia andũ, kana njohere cia mũndũ nĩgetha kũonania mĩena ĩrĩ: kĩrĩa kĩarĩ thĩnĩ na kĩrĩa kĩarĩ igũrũ."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל דוד",
+      "rationale": "Kĩratha kĩa 'ĩhĩdũrĩkie' nĩkĩarĩ thĩinĩ wa mũndũ mũthemba wa 'nĩarĩ mũneno', no ndekanĩtie na ũndũ wa kũhĩtũka ũrĩa ũtikoranagia na mĩena yothe ya mbũtũ ya mwĩhoko."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נעצב",
+      "rationale": "Kĩraturo gĩkoni kĩngĩ: nĩgeetha kwarĩ ũthuthuria wa kĩndũ gĩthondekwo na moko (kana gĩkũrio), kĩrĩa kĩngĩhootana na mũndũ mũthemba wa kĩrĩra kĩa mũthenya ũcio wa kĩrĩkanĩro."
+    }
+  ],
+  "translation": "Nake Yonathani akĩimĩra kuuma harĩ meza-inĩ mũthenya ũrĩa kerĩ wa mwerũ, mũhĩa wa kwenjerera, ndaarĩkĩra irio iyio mũthenya ũcio, nĩgũkorwo nĩarĩ mwega-inĩ wa mũneno kuuma rĩrĩa aria me igũrũ ya ngombo cia andũ, nĩ thutha wa kũigua ũhoro wa ũthaka wa rũciaro rwaani nĩ mũndũ moige atĩrĩ, nĩ acio acio aria maigana ũhoro ũcio makĩuga atĩ ndaaigua; no nĩ ndaamenete nĩ ũndũ wa Dawidi, nĩgũkorwo ithe wake nĩamũhirĩirie.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "94451eaac945f0b9a8faadd2c58deedb1eacc1aa865970f0688348fb2a38bb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/20\/34-34.1791269868676.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akĩimĩra"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuuma harĩ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meza-inĩ"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "mũhĩa wa kwenjerera"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mũhĩa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aarĩkĩra irio"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "wa mwerũ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ũrĩa kerĩ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mĩrio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "נעצב",
+      "gloss": "nĩarĩ mũneno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ĩhĩdũrĩkie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "הכלמו",
+      "gloss": "nĩamũhirĩirie"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ithe wake"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:48.679811729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 44:26",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני האיש",
+      "rationale": "'kuona ũthīri wa mũndũ' — thĩinĩ wa Kĩhibirania 'kuona thīri' nĩ kũonana na mũndũ mwene; Kĩgĩkũyũ kĩhĩthagia 'kuona ũthīri'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הקטן",
+      "rationale": "'mũnini' — riita 'mũnini-inũ' kana 'ũrĩa mũnini mũno'; KJV 'youngest', BSB 'younger'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתנו…אתנו",
+      "rationale": "kĩhumo kĩmwe gĩathĩkĩte aria mahena: mũnini arĩ ⟨את⟩ na ithuĩ \/ atarĩ ⟨את⟩ na ithuĩ — kĩngeranio gĩtarĩkia na kwarahukana."
+    }
+  ],
+  "translation": "Ndĩ twarehe twii: Tũtikwenda kũtherema; rĩrĩa mũrũ-wa-nyina witũ mũnini arĩ ⟨את⟩ na ithuĩ, nĩtũtherema; nĩ tũtikwenda kuona ũthīri wa mũndũ ũcio, na mũrũ-wa-nyina witũ mũnini atarĩ ⟨את⟩ na ithuĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "b9b99c9153474764ea31843b3e8de51b2810e7f322ed981186fbc5a14e4dd0bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/44\/26-26.1791269347790.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "twarehe twii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tũtikwenda"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "tũtikwenda"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "kũtherema"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mũrũ-wa-nyina witũ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mũnini"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ na ithuĩ",
+      "marks": "mũrũ-wa-nyina witũ mũnini"
+    },
+    {
+      "surface": "וירדנו",
+      "gloss": "nĩtũtherama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tũtikwenda"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "tũtikwenda"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ũthīri"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mũndũ ũcio"
+    },
+    {
+      "surface": "ואחינו",
+      "gloss": "mũrũ-wa-nyina witũ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mũnini"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "atarĩ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ na ithuĩ",
+      "marks": "mũrũ-wa-nyina witũ mũnini"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:07.794466716Z",
+  "model": "glm-5.3"
+}

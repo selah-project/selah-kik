@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "arĩini-ĩrĩ-inĩ",
+      "rationale": "בנחלה nĩ kĩheo kĩa mũciĩ gĩa kũhiũrwo-rĩu, ti 'kĩrĩkanĩro'; arĩini-ĩrĩ nĩ kiugo kĩa Gĩkũyũ kĩhĩtie mũno"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ĩgũkũũrwo",
+      "rationale": "תפל 'gũkũra' — kĩngomi kĩa kũhĩa kĩheo kĩa thĩ nĩ njũra; kũũrwo nĩkuo kwoherekĩte"
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩ kuuga",
+      "rationale": "כי ĩthingatĩtwo ta kĩhumo kĩa ũrogi wa kĩugo kĩrĩa gĩkũhĩ"
+    }
+  ],
+  "translation": "Rugamĩrĩra ⟨את⟩ ciana cia Yiceraeri, ũme na ũme na maũndũ macio marĩa: nĩ kuuga mũngiingatĩra thĩ-inĩ ya Kenani, ndũĩ ndĩ ĩgũkũũrwo nĩguo ĩtuĩke arĩini-ĩrĩ-inĩ yanyu, thĩ ya Kenani mĩcingĩrĩro yayo yothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "f543e17f7441789918bc775962363e8d9afacd4a949d0dd4ec24cc6a2cec8264",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/34\/2-2.1791269571934.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Rugamĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ciana cia Yiceraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ũme na ũme na maũndũ macio marĩa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kũrwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ kuuga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "inywe"
+    },
+    {
+      "surface": "באים",
+      "gloss": "mũngiingatĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩ-inĩ ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ndũĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ ĩrĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "marĩa"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ĩgũkũũrwo nĩguo ĩtuĩke arĩini-ĩrĩ-inĩ yanyu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yanyu"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "arĩini-ĩrĩ-inĩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "mĩcingĩrĩro yayo yothe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:52:51.939334705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 21:37",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "thũkũ",
+      "rationale": "Hebrew לא תזכרי lacks 'again'; Gĩkũyũ needs 'thũkũ' (again) for the negative future sense"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא תזכרי",
+      "rationale": "literal 'you (f.sg.) shall not be remembered', rendered 'ndũngakegwo' — the feminine singular addresses Ammon as a woman"
+    }
+  ],
+  "translation": "Kĩrathĩro cia mwaki ndũgakorwo; thakame yaku ĩgakorwo gatagatĩ-inĩ ka thĩ; ndũngakegwo thũkũ; nĩgũkorwo inĩ Yahwe ndĩarire.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1dae85b6a4b36da4122b25b01a2124369163b40f45b9a57f07887e4e15acae7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/21\/37-37.1791270277410.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאש",
+      "gloss": "kĩrathĩro cia mwaki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ndũgakorwo"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "kĩrathĩro"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "thakame yaku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ĩgakorwo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gatagatĩ-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ka thĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndũ"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "ngakegwo thũkũ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "inĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndĩarire"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:37.421714121Z",
+  "model": "glm-5.3"
+}

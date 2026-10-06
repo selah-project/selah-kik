@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 40:21",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kĩingo kĩa mũranga",
+      "rationale": "Thutha wa ciana cia kũingiha maũndũ: matara matatu kuumaHandũ hamwe na matatu kuumaHandũ haja, na mirongo itano na mirongo iiri cibiti."
+    },
+    {
+      "kind": "addition",
+      "subject": "nĩciarĩ",
+      "rationale": "Gĩkũyũ kĩa codi ya 'היה' ĩrĩ mũgambo wa 'nĩ-'; Kĩhibirania nĩ kĩa 'nĩ- wijĩte' rĩrĩa rĩtarĩ na codi ya 'nĩ-'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ותאו (ta'ū)",
+      "rationale": "Rĩĩtwa rĩa 'c\/8372' rĩa Heburania rĩa 'תָּא' rĩonekanaga mũno mĩrongo-inĩ ya Ezekeerĩ (40-41); ta: 'cũni' rĩa 'chambers' ya ndũrĩrĩ ĩngĩ."
+    }
+  ],
+  "translation": "Na matara make nĩmathathari kũu-inĩ ũmwe, na thathari kũu-inĩ ũngĩ; na miri yayo na irindĩ rĩayo nĩciarĩ ta kĩingo kĩa mũrango wa mbere: urenda wayo ama mirongo ithano, na ũgĩrĩru wayo ama ithano na mirongo ĩrĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "69eb37ef7532b135d3721c8eaf10a2f87349d0eec339f2c83ca0c9e9575624da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/40\/21-21.1791270314777.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאו",
+      "gloss": "na matara"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "thathari"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "kũu-inĩ ũmwe"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na thathari"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "kũu-inĩ ũngĩ"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "na miri yayo"
+    },
+    {
+      "surface": "ואלמו",
+      "gloss": "na irindĩ rĩayo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩciarĩ"
+    },
+    {
+      "surface": "כמדת",
+      "gloss": "ta kĩingo kĩa"
+    },
+    {
+      "surface": "השער",
+      "gloss": "mũrango"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mirongo ithano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "urenda wayo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "na ũgĩrĩru wayo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mirongo ĩrĩ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:14.786617914Z",
+  "model": "glm-5.3"
+}

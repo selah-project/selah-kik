@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 26:1",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rĩrĩa",
+      "rationale": "כי hamwe na והיה nĩcirutanĩtio harĩ kĩgua kĩmwe kĩa Gĩkũyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ngũracĩri",
+      "rationale": "נחלה nĩ 'kĩrũndi kĩa gũciara' — kĩheo gĩa thĩĩ; 'ngũracĩri' ĩhũthagĩrwo nĩgeetha kĩndũ kĩrĩa kĩheanĩtwo kĩingĩ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירשתה",
+      "rationale": "yarash: 'gũcokia ciana' kana 'kũhĩtũka' — ndandũrĩtie kĩrĩa kĩarĩ kuo mbere"
+    }
+  ],
+  "translation": "Na nĩgũkorwo ũkĩinjĩra thĩ-inĩ ĩrĩa Yahwe Erohimu waku akuhe ngũracĩri, na ũkĩĩyihakĩra hoo na ũikaragĩra iyoo:",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "25e3d860b29049f0bc5d2bd2dc759e93212a1e0898e7bb5b07918524a3f746ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/26\/1-1.1791269674915.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rĩrĩa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ũkĩinjĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ĩrĩa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akuhe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ngũracĩri"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "na ũkĩĩyihakĩra hoo"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "na ũikaragĩra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iyoo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:34.916484946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 1:9",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Zochereth",
+      "rationale": "הזחלת 'the stone of Zoheleth' (the-slipping-stone) rĩĩtwa rĩtigagĩrwo rĩgĩtaũrwo; mũgambo wa Kĩhibirania ũcirĩtwo nĩ `ש → c`."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מריא",
+      "rationale": "ciarĩirio — 'stall-fed' (ng'ombe iria ciarĩirio), ti 'irĩ mũgima' wiki."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זֹחֶלֶת",
+      "rationale": "Zochereth ĩonekana Tanakh-inĩ yothe hamwe ino tu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kũringana kwa kũigana",
+      "rationale": "Kũigana kwa andũ a mwathi arĩa aĩthĩrwo nĩ Adoniyahu nĩ kwerekaga kana kĩama kĩake gĩa gũcoka ũthamaka."
+    }
+  ],
+  "translation": "Nake Adoniyahu anyitithĩkĩrĩra ng'ondu, na ng'ombe, na ng'ombe iria ciarĩirio, harĩ kahĩri ga Zochereth, kĩrĩa gĩtũũkĩte hote ya Eini-Rogeri; akamũithĩra ⟨את⟩ ariĩa arĩa itonga rĩake ari, ciana cia mwathi, na andũ aothe a Yeruda, atumia a mwathi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ea4b737b7873b6cd37ba798d265318db911b52e7d5f80a42eb465de0e146021f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/1\/9-9.1791269941195.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "anyitithĩkĩrĩra"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ng'ondu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na ng'ombe"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "na ng'ombe iria ciarĩirio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kahĩri ga"
+    },
+    {
+      "surface": "הזחלת",
+      "gloss": "Zochereth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "gĩtũũkĩte hote ya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eini-"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Rogeri"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akamũithĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ariĩa arĩa itonga rĩake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ariĩa arĩa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "itonga rĩake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana cia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "na andũ aothe a"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "andũ a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeruda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "atumia a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mwathi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:01.197149366Z",
+  "model": "glm-5.3"
+}

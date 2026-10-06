@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 19:51",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "gĩcunjĩ kĩa Gĩkũyũ kĩonjorerie ciugo cia rĩtwa cia andũ aiyũ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gũcatia",
+      "rationale": "מחלק nĩ 'gũcana na njĩra ya kũgocara' — kiugo kĩa kuga kũgocara kwarehirwo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kũgocara kwa ithiro",
+      "rationale": "mũciaririe wa gũcatia thĩ na ciugo — mũthingu wa kũana kwĩmi"
+    }
+  ],
+  "translation": "Ici nĩ ithiro, iria Ereazari mũcerithi, na Yehocua mũrũ wa Nuni, na acaũ a mĩtugo ya mbarĩ cia ciana cia Yiceraeri, macerete na ciugo cia kũgocara, Ciroho, mbere ya Yahwe, kũrĩ mũrugito wa hema ya kũhiũrania; na maihĩtie gũcatia ⟨את⟩ thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8939c6f4ef87a83749c8541b9a0b786918cadda2520b157784aaa6cd2ee1bc09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/19\/51-51.1791269727402.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ici"
+    },
+    {
+      "surface": "הנחלת",
+      "gloss": "ithiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "macerete"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ereazari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mũcerithi"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "na Yehocua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "wa Nuni"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "na acaũ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ya mĩtugo ya mbarĩ"
+    },
+    {
+      "surface": "למטות",
+      "gloss": "cia mĩtugo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cia ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cia Yiceraeri"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "na ciugo cia kũgocara"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Ciroho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kũrĩ mũrugito"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiũrania"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "na maihĩtie"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "gũcatia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:27.405118581Z",
+  "model": "glm-5.3"
+}

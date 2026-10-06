@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "kĩharĩro (gĩcunjĩ kĩa thĩinĩ wa ciatũa) kana 'kĩrĩa gĩkarihithagia' (mercy seat) — JPS 'ark-cover' vs KJV 'mercy seat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tenti",
+      "rationale": "אהל nĩ 'tenti'; 'tabernacle' nĩ kiugo gĩa Kĩthwahĩri gĩtagĩrĩkũ."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũtaratara wa maũndũ",
+      "rationale": "Kĩrũkanĩro kĩa ngombo cia thĩinĩ wa Macikani — kũandĩkwo kwa kĩrũmberũ, kũonania mũthingi wa kĩndũ gĩothe kĩa gũtungata."
+    }
+  ],
+  "translation": "⟨את⟩ Tenti ya kũhiranwo, na ⟨את⟩ ciatũa cia ũira, na ⟨את⟩ kĩharĩro kĩrĩa kĩrĩ igũrũ rĩake, na ⟨את⟩ indo ciothe cia tenti.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9fc7ca538ef00ae1c7ec37454e77cdba5021605781ac91663dc2c942d1a3d9e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/31\/7-7.1791269430020.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tenti ya kũhiranwo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kũhiranwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ciatũa cia ũira"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ciatũa"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "cia ũira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "kĩharĩro"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kĩharĩro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kĩrĩ igũrũ rĩake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "indo ciothe cia tenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "cia tenti"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:30.028115266Z",
+  "model": "glm-5.3"
+}

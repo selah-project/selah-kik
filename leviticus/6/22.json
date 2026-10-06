@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "theru wa atheru",
+      "rationale": "קדש קדשים — kurikania kwa kiugo kĩmwe nĩgeetha kĩuge 'ũtheru mũno kĩrĩa kĩa ithuiru'."
+    }
+  ],
+  "translation": "Mũthuri wothe harĩ akahani nĩarĩrĩarĩa ⟨את⟩ ⟨ayo⟩; nĩ ũtheru wa atheru ⟨nĩũguo⟩.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4ff6a27efe4bf20019e913991a809ae477b9807efd1b38a7765db4257cbd76d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/leviticus\/6\/22-23.1791269452366.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mũthuri"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "harĩ akahani"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nĩarĩrĩarĩa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ayo (minaha ĩrĩa yaarĩrĩriuo)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wa atheru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩũguo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:52.372752680Z",
+  "model": "glm-5.3"
+}

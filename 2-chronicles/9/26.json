@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנהר",
+      "rationale": "Kĩhibirania kĩugaga tu 'rũĩ ũcio' — nĩ Euperati (1 Athamaki 5:1), no rĩĩtwa ti rĩa thĩinĩ wa kiugo kĩu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mĩtara ĩrĩa ĩrĩ igũrũ",
+      "rationale": "Mĩtara ya ũthamaki: kuuma rũĩ ng'etho gĩkũro kĩa Aperethi na gĩkĩrĩro kĩa Micirayimu"
+    }
+  ],
+  "translation": "Na we akĩthamakĩra athamaki othe, kuuma rũĩ ũcio ng'etho gĩkũro kĩa thĩ ya Aperethi, na gĩkĩrĩro kĩa Micirayimu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "46dbb5877644df71e3603017511bd97f226842b56360ce0d0b76c5338eb44432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-chronicles\/9\/25-26.1791270871666.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na we akĩ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "thamakĩra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "athamaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "rũĩ ũcio"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ng'etho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Aperethi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na gĩkĩrĩro kĩa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gĩkĩrĩro"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micirayimu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:14:31.673898173Z",
+  "model": "glm-5.3"
+}

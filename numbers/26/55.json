@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "kik",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨the⟩",
+      "rationale": "Gĩkũyũ ĩkoragwo na kĩheereri kĩa ũthomo kana Kĩhibirania kĩtarĩ na kĩo hakĩo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גורל\/יחלק",
+      "rationale": "gorari (kĩaa) na kũgocoka thinga njĩrahĩrie kĩa kĩaa kĩu; mũhiananio ũrĩa ũrĩ thĩinĩ wa Kĩhibirania nĩ onekaga hatarĩ kĩguni kĩnini"
+    },
+    {
+      "kind": "measurement",
+      "subject": "gorari",
+      "rationale": "Ũgocoki wa thĩ nĩguo kũringanĩria kĩheo kĩa mĩrĩĩ ĩrĩa ĩrathiĩ igũrũ thĩ"
+    }
+  ],
+  "translation": "No o gorari-inĩ ⟨the⟩ thĩ ĩgocokagwo ⟨את⟩; ciugo cia matũ cia athathe ao nĩcioragwo igũrũ thĩ ĩyo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8f16a8e812ad86715319a779346823bf61a99358d6835238d9071110a8fc9839",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/numbers\/26\/55-55.1791269585678.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "no o"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "gorari-inĩ"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ĩgocokagwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thĩ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "ciugo cia"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "matũ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "athathe ao"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "nĩcioragwo igũrũ thĩ ĩyo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:53:05.682510742Z",
+  "model": "glm-5.3"
+}

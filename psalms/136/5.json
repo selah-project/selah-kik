@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hecedi",
+      "rationale": "חסד nĩ hecedi, ti 'tha' wiki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "igũrũ",
+      "rationale": "השמים nĩ gũyeri (dual), 'igũrũ-rĩa-ĩrĩ' — gĩcunjĩ kĩa mbere kĩimenyekana"
+    }
+  ],
+  "translation": "Ũrĩa ombĩte igũrũ na ũmenyo, nĩgũkorwo hecedi wakwe hĩndĩ ciothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9afb4ad0e24ab71ee6d92a57e3fbb608fe8163fc5b4f8b3fb0be81ebb5be6e58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/136\/5-6.1791270562648.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ũrĩa ombĩte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igũrũ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "na ũmenyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wakwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:22.651603664Z",
+  "model": "glm-5.3"
+}

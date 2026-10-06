@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 25:1",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩwo",
+      "rationale": "Gĩkũyũ nĩienda mũgathani wa 'nĩ' ũrĩa Kĩhibirania gĩtarĩ nakĩo thĩinĩ wa haciaro 'ũcio nĩwo mwaka'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mwaka wa kĩna \/ mwaka wa mbere",
+      "rationale": "Mũhano ũyũ nĩ wa kũbarira ndũngũ: mwaka wa kĩna wa Yehoyakimu ndũringanĩtwo na mwaka wa mbere wa Nebukadreacari"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kũrigĩrĩra",
+      "rationale": "Kĩhibirania על thĩinĩ wa haciaro ĩrĩa ya mbere nĩ 'igũrũ rĩa \/ kwa' — kũrigĩrĩra nĩ gũtaũra kwa 'concerning' kĩrĩa hagwatanĩtio"
+    }
+  ],
+  "translation": "Kiugo kĩrĩa kĩaarĩkĩire kwa Yeremiayahu, kũrigĩrĩra andũ othe a Yehuda, mwaka-inĩ wa kĩna wa Yehoyakimu mũrũ wa Yociyahu mwathani wa Yehuda; ũcio ⟨nĩwo⟩ mwaka wa mbere wa Nebukadreacari mwathani wa Baberi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c93f3831e0962c3bb493bfa22c1fa9067c859e7a6c7499842e62bd08a6297798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/25\/1-1.1791270210795.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kĩaarĩkĩire"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiayahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kũrigĩrĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "othe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mwaka-inĩ"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "wa kĩna"
+    },
+    {
+      "surface": "ליהויקים",
+      "gloss": "wa Yehoyakimu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "wa Yociyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "הראשנית",
+      "gloss": "wa mbere"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "wa Nebukadreacari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mwathani"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Baberi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:30.809759268Z",
+  "model": "glm-5.3"
+}

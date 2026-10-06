@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 9:28",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ithemba cia ũtũũro",
+      "rationale": "כלי העבודה nĩ 'ithemba cia wĩra\/wa ũtũũro' — maũndũ marĩa maatũũragwo nao hamwe na ng'ombe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "במספר…ובמספר · יביאום…יוציאום",
+      "rationale": "Kwagĩrĩrĩa kũingĩhana: mũtarũkwa mũrũ na mũrũ, kũcunga na kũhĩtũkia — mganũ ũrĩa ũrarĩrĩria ũtũũro wa themba"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mũtarũkwa",
+      "rationale": "Kĩndũ kĩu gĩgĩcũngagwo na gĩgĩhĩtũkagwo na mũtarũkwa, nĩgeetha kĩrĩkanĩro kĩa kũmeera kĩikarĩe"
+    },
+    {
+      "kind": "elision",
+      "subject": "יביאום\/יוציאום",
+      "rationale": "Ndemwa ya gũkonia -ום (acio) ndĩonanagwa ikĩgwetwo gwatĩ, nĩgeetha mũgambo ũthiũ"
+    }
+  ],
+  "translation": "Na kuuma ithũĩ-inĩ ciao, arĩa maarĩ igũrũ rĩa ithemba cia ũtũũro; nĩ magĩkĩra nĩmacũngĩtwo na mũtarũkwa, na mahĩtũkĩtwo na mũtarũkwa.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9e0ab62ecfd93bdcd10d6385e62e9c69ff9179dc5b0126d78827a5742161db2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/9\/28-28.1791270833617.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "kuuma ithũĩ-inĩ ciao"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ithemba"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "ũtũũro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ magĩkĩra"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na mũtarũkwa"
+    },
+    {
+      "surface": "יביאום",
+      "gloss": "macũngĩtwo"
+    },
+    {
+      "surface": "ובמספר",
+      "gloss": "na mũtarũkwa"
+    },
+    {
+      "surface": "יוציאום",
+      "gloss": "mahĩtũkĩtwo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:53.620721993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 18:19",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "ciugo cia kũhooria cia Kĩhibirania; Kĩgĩkũyũ kĩrenga mũgambo ũcio wa kũhoa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Rabi-Cake",
+      "rationale": "rĩtwa rĩa mũnene wa Acuri rĩti ũtaũrwo two; רב שקה nĩ itanya rĩa Kĩacuri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבטחון\/בטחת",
+      "rationale": "kĩhumo kĩmwe kĩa kũyokia kũugarũra ha kana; gĩthomi kĩa Kĩgĩkũyũ kĩonekanga makĩria"
+    },
+    {
+      "kind": "you",
+      "subject": "Hizikiahu",
+      "rationale": "Rabi-Cake augaga mohoro make mothe na Hizikiahu mathĩna-inĩ"
+    }
+  ],
+  "translation": "Rabi-Cake akiuga aria andũ arĩa: Mwĩhokecie na Hizikiahu, arĩuga o ta ũndũ ũrĩa: Mũthamaki mũnene, mũthamaki wa Acuri, arĩuga: Nĩ ũhoko ũrĩkũ ũrĩa wĩyokiekete ũrĩa?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "c905d63cc0c26205c92758235e035b1547613da170db1a97c0ba2a2d1daa03bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/18\/19-19.1791270037432.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "aria andũ arĩa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rabi"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Cake"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mwĩhokecie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "o ta ũndũ ũrĩa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "arĩuga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acuri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nĩ ũhoko ũrĩkũ"
+    },
+    {
+      "surface": "הבטחון",
+      "gloss": "ũrĩa wĩyokiekete"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "wĩyokiekete"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:37.435624811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "Kwugworarĩ 'kĩro kĩa kĩro' — kũrigicĩrĩria kwa mĩhĩrĩga Mbĩrũranĩ nĩgeetha kuonania kũgĩga kwa thutha."
+    },
+    {
+      "kind": "addition",
+      "subject": "arĩa makĩnyiita ng'etho",
+      "rationale": "והם nĩ 'arĩa me' gũthithĩ; andũ arĩa magĩte ng'etho maonyitio kũringana na maũndũ manini."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלפני משה",
+      "rationale": "Mbĩrũranĩ nĩye 'kuuma thutha wa Moce' — ciugo cia ngero ici nĩciigana ta cia Kĩthwahĩri 'kuuma mbere ya'."
+    }
+  ],
+  "translation": "Ndakinyirire kuuma thutha wa Moce ⟨את⟩ theruma yothe iarĩa ciana cia Yiceraeri ciarĩ cia kũneenere ng'etho ya utungata wa ũtheru, ya gwĩka ⟨את⟩ ⟨yayo⟩; na arĩa makĩnyiita ng'etho makĩneenerea kũrĩ we hĩndĩ ĩngĩ nedaba kĩro kĩa kĩro.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "77417514e9ae18d3f9158c585b87d2bd26a9c5743086406cd2dbef2dafb5c1ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/36\/3-4.1791269454985.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ndakinyirire"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kuuma thutha wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "theruma yothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yothe"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "theruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ciarĩ cia kũneenere"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "ng'etho ya"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "utungata"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ũtheru"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ya gwĩka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨yayo⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "arĩa makĩnyiita ng'etho"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "makĩneenerea"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hĩndĩ ĩngĩ"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nedaba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩro"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kĩa kĩro"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:54.992936282Z",
+  "model": "glm-5.3"
+}

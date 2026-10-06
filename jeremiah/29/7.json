@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "kik",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×3",
+      "rationale": "Shalom marĩ itatũ: thayoma ya mucii, thayoma yayo-inĩ, thayoma nĩmũnyu — mũhianĩre ũrĩa ũtarĩ kĩgũinĩ."
+    },
+    {
+      "kind": "you",
+      "subject": "arĩa macengerwo Babironi",
+      "rationale": "Mahoya ma toro makorerorwo acage a Yahwe arĩa machengerwo icunjĩ-inĩ kĩa Micirayimu rũciĩ."
+    },
+    {
+      "kind": "invitation",
+      "subject": "thayomani · mũgere mahoya",
+      "rationale": "Mahitere manji matatũ macio nĩ mahoya makorerorwo acage a-inĩ kwa ngeretha ya Yahwe."
+    }
+  ],
+  "translation": "Thayomani ⟨את⟩ thayoma ya mucii ũrĩa nĩngĩmũcengereria ⟨את⟩ nĩmwe kũhĩra, mũgere mahoya ithĩna yayo kũrĩ Yahwe; nĩ thamani yayo-inĩ nĩmũge thayoma.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9148bfe74d2d48e7caf52734659e88473d8fedb4d907c4f34ce50ff0bc3bdac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/jeremiah\/29\/7-7.1791270198115.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "thayomani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thayoma ya mucii"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayoma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mucii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "nĩngĩmũcengereria"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nĩmwe",
+      "marks": "nĩmwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kũhĩra"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "mũgere mahoya"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ithĩna yayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩ"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "thayoma yayo-inĩ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩmũge"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nĩmũnyu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thayoma"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:18.125956933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 18:36",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ũthĩũ",
+      "rationale": "Hebrew text here ya mbere ti na 'evening' yonekire, no kĩhooto kĩa gĩcunjĩ kĩingĩ kĩa kĩhooto kĩrĩa kĩyuĩ nĩ andũ a meciria"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minaha",
+      "rationale": "מנחה irĩtagwo minaha, ti kĩheo kana igooti"
+    },
+    {
+      "kind": "you",
+      "subject": "kwa Yahwe",
+      "rationale": "Eriyahu agĩrĩra Yahwe na mũgambo wa kũmũruta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבריך\/הדברים",
+      "rationale": "ciugo ciao na macio ma ciugo — mũhiano wa gũcookeria davar, ũrĩa wathira kĩngĩre gĩa Gĩkũyũ"
+    }
+  ],
+  "translation": "Na nĩkĩiguũthio minaha ya ũthĩũ, Eriyahu mũrathi akĩyũrũkĩra, na akĩuga: Yahwe, Erohimu wa Abarahamu, wa Yicaki na wa Yiceraeri, ũmũmenage ũmũthĩ atĩ nĩwe Erohimu thĩinĩ wa Yiceraeri, na atĩ nĩwe ndĩ mũtumĩre waku, na na ciugo ciao nĩnakĩire ⟨את⟩ macio mothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e7cdebf388009faf6523543bb2c45e7d7a4c301fc55fd481b890ff2b360d3634",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/18\/36-36.1791270987696.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "na nĩkĩiguũthio"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "rĩa kũiguũthio"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minaha ya ũthĩũ"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "akĩyũrũkĩra"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mũrathi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "na akĩuga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abarahamu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yicaki"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "na wa Yiceraeri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ũmũmenage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "atĩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "thĩinĩ wa Yiceraeri"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "na nĩwe ndĩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mũtumĩre waku"
+    },
+    {
+      "surface": "ובדבריך",
+      "gloss": "na na ciugo ciao"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nĩnakĩire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macio mothe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "macio"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "macio"
+    }
+  ],
+  "timestamp": "2026-10-06T07:16:27.696919185Z",
+  "model": "glm-5.3"
+}

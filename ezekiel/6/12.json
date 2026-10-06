@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 6:12",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב\/רעב\/דבר",
+      "rationale": "Ndemwa ithatũ cia kĩrĩgĩrĩra (cembe, mbembe, ndwari) nĩ ci mbere-inĩ ya Yiceraeri na megwĩka na thĩinĩ wa kĩrathimo; kĩrathimo kĩu kĩa gĩcunjĩ kĩa moko mawe ndũkĩgarũrũkaga na kĩrĩa kĩrĩa kĩu kĩrĩkĩte kũgeria gĩa ũgima."
+    },
+    {
+      "kind": "crux",
+      "subject": "והנצור",
+      "rationale": "Kĩrathimo kĩu kĩa gĩcunjĩ kĩa moko mawe: 'arĩa maamũrĩtwo' (KJV\/JPS kuuma kĩrathimo nāṣar, kũrĩa kũingĩha kĩndũ) na 'arĩa maathĩ magĩrĩire' (na kĩrathimo kĩa gĩcunjĩ kĩa gũtheria kĩrĩa kĩrĩa kĩrĩkĩte); magegemete methĩe nĩme kũgeria ũkũgeria ũrĩa mothomagia."
+    }
+  ],
+  "translation": "Arĩa marĩ kwerũ nĩmegemenethie kũgeria ũkũgeria-inĩ ũrĩa magegemete methĩe-inĩ ũgakua, arĩa maarĩ hakuhĩ nĩmegwĩka nĩgũkua nĩ cembe, arĩa magĩrĩire na arĩa maathĩ kĩambĩrĩria-inĩ kĩa Yiceraeri-inĩ kana arĩa mamũrĩ nĩ kĩrathimo gĩake kĩa moko mawe-inĩ ciao makwĩya cekeke-inĩ ũgakua; Yahwe arĩkũ kwarĩria moko make-inĩ makwĩya arĩa mamũrĩ nĩ kĩrathimo kĩake kĩa moko mawe-inĩ cia magegemete methĩe na makwĩya cekeke-inĩ moko mawe ciao magegemete methĩe-inĩ kĩrĩa kĩu gĩa kĩrĩgĩrĩra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "38d7c21580a932bb493646c993a31e35a1758ca61ca93e260a816983eeafaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/6\/11-12.1791270322834.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחוק",
+      "gloss": "arĩa marĩ kwerũ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nĩmegumenethie kũgeria ũkũgeria-inĩ ũrĩa magegemete methĩe-inĩ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ũgakua"
+    },
+    {
+      "surface": "והקרוב",
+      "gloss": "arĩa maarĩ hakuhĩ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nĩmegwĩka nĩgũkua nĩ cembe"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "nĩmegwĩka nĩ cembe"
+    },
+    {
+      "surface": "והנשאר",
+      "gloss": "arĩa magĩrĩire"
+    },
+    {
+      "surface": "והנצור",
+      "gloss": "na arĩa maathĩ makwĩya cekeke-inĩ"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "nĩ mbembe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ũgakua"
+    },
+    {
+      "surface": "וכליתי",
+      "gloss": "Yahwe arĩkũ kwarĩria moko make-inĩ makwĩya arĩa mamũrĩ nĩ kĩrathimo kĩake"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "nĩ kĩrĩgĩrĩra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "magegemete methĩe-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:05:22.844573940Z",
+  "model": "glm-5.3"
+}

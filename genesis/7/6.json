@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mĩrongo ĩtandatũ thĩinĩ wa magana",
+      "rationale": "Noaki's age is counted precisely: six hundred years."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mbaara",
+      "rationale": "המבול (deluge\/flood) rendered as 'mbaara ya mai'; Gĩkũyũ lacks a single-word flood term."
+    },
+    {
+      "kind": "addition",
+      "subject": "ĩguukire",
+      "rationale": "היה rendered with an event verb 'nĩĩguukire' (came to be) rather than plain copula, since הָיָה here is emphatic 'came to pass'."
+    }
+  ],
+  "translation": "Noaki arĩ mũrũ wa mĩrongo ĩtandatũ thĩinĩ wa magana, na mbaara ya mai nĩĩguukire igũrũ rĩa thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "83b492b8a012480075d0b5fe44195c0d2fbbd649a2bc326fade09729cb4e9901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/7\/6-6.1791269262054.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Noaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ wa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ĩtandatũ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mĩaka"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "na mbaara"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nĩĩguukire"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wa mai"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ rĩa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:42.058821671Z",
+  "model": "glm-5.3"
+}

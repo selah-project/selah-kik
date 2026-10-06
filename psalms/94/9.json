@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא ... ישמע",
+      "rationale": "rĩngrĩrio rĩa Kĩhibirania rĩtaũrwo o rĩngĩ ta ndangĩigua — 'ndĩngĩhota kũigua ha?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נטע\/יצר",
+      "rationale": "kũmera na kũumbĩrĩra — mũhiano wa kũgeria ngombo ĩrĩ, mũthemba ũrĩa ũgĩte mwĩhoko mũingĩ kwa mũthomi wa Gĩkũyũ"
+    },
+    {
+      "kind": "you",
+      "subject": "andũ arĩa me maũhoro-inĩ",
+      "rationale": "mbere ya ngumo ĩrĩa ĩrĩ Kĩhubura 94:8, ciugoo ici nĩcirutanĩtio na arĩa mahota"
+    }
+  ],
+  "translation": "Arĩa oimerete gũtherema, ndangĩigua? Arĩa oyumbĩte riso, ndangĩona?",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2205b8530cc4cb41bd2c4aaa1c7c37527fcef1dd4e0accd018b7214b6a64e278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/94\/9-10.1791270502249.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "oimerete"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "gũtherema"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "igua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "oyumbĩte"
+    },
+    {
+      "surface": "עין",
+      "gloss": "riso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ndangĩ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:22.254417256Z",
+  "model": "glm-5.3"
+}

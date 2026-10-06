@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 33:9",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ake",
+      "rationale": "Hebrea ĩtarĩ na mũthomi wa ũrĩa oigĩte 'ודבר' — ciĩrwo nyingĩ ciongerera 'Bwana', Kĩrĩa Kihebrea kĩugĩte nĩ mũrũgũko ũngĩ tu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mũthomi wa 'agĩarĩria'",
+      "rationale": "No aiĩrwo nĩ mũcoco wa ira ũngĩarĩria — mũhiano ũrĩa ũtũũagwo nĩ Kĩhebrea kĩrĩa kĩtarĩ kĩmwerũ"
+    }
+  ],
+  "translation": "Na ngĩkũra kũina, rĩrĩa Moce akĩingĩra thĩinĩ wa hema, mũcoco wa ira ũngĩrũgũka, na ũngĩmara mwerĩ-inĩ wa hema, na ⟨ake⟩ agĩarĩria na Moce.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fad3f5570991b1f8e9a1e78e3256c7ace9aaf9814bdbff0f9cac905bada9f77d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/33\/9-9.1791269430643.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ngĩkũra kũina"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "rĩrĩa akĩingĩra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "thĩinĩ wa hema"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ũngĩrũgũka"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "mũcoco"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wa ira"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ũngĩmara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mwerĩ-inĩ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wa hema"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "agĩarĩria"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:30.654638228Z",
+  "model": "glm-5.3"
+}

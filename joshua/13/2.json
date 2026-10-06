@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nĩ",
+      "rationale": "Gĩkũyũ ĩhota copula ĩrĩa Kĩhibirania kitarĩ nayo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ĩrĩkĩte kũigwo",
+      "rationale": "הנשארת gĩtirĩ kiugo kĩmwe kĩa Gĩkũyũ; ĩteithĩtwo na ciugo igĩrĩ"
+    },
+    {
+      "kind": "crux",
+      "subject": "maciaro",
+      "rationale": "גלילות: 'matũũra matatũ' (circuits\/regions) handũ ha 'mĩena' kana 'mathabari'"
+    }
+  ],
+  "translation": "Yo nĩythĩ ĩrĩa ĩrĩkĩte kũigwo: maciaro mothe ao Mwa-ericari, na athomi othe a Gecuri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5bbc4e7db983075dd056bf096bc16c4ffb0c2b43e118eb13f5354616719202c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/13\/2-2.1791269698405.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nĩythĩ"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ĩrĩa ĩrĩkĩte kũigwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mothe"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "maciaro"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ao Mwa-ericari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na athomi othe"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "a Gecuri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:58.407299194Z",
+  "model": "glm-5.3"
+}

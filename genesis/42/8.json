@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויכר \/ הכרהו",
+      "rationale": "Mũrũmĩrĩria ũrĩa mwerũ ũgĩa na mwanya: mũmwe ũkĩmenya — ũngĩ mũtukamenya — mũrirũ ũmwe, magũrũ mataratũ"
+    }
+  ],
+  "translation": "Yucefu amamenyete ⟨את⟩ arĩa a ithe, ao ndĩmamamenyetaga we.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8903152af5bfa243771e74ee745ef5b64062102cfb8648ac442efd4bcc0f8a09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/42\/6-8.1791269320106.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "amamenyete"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yucefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arĩa a ithe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arĩa a ithe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mamamenyetaga we"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:40.121305345Z",
+  "model": "glm-5.3"
+}

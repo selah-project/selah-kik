@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 14:14",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלא אחרי",
+      "rationale": "Hebrew idiom 'filled after' = followed wholly; rendered 'ũiyũũrire thutha wa' (followed fully behind)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לנחלה",
+      "rationale": "'kĩrĩgĩrĩro' (inheritance) for לנחלה, the inherited-portion term."
+    }
+  ],
+  "translation": "Nĩ ũndũ ũcio Heburoni nĩĩtuĩkĩte kĩrĩgĩrĩro kia Kerebi mwana wa Yefune, mũ-Kenazi, nginya ũmũthĩ ũyũ, nĩ wee ũiyũũrire thutha wa Yahwe, Erohimu wa Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a7cc904eb8739aade9e424f590fa658c4a96e2d1d81839e8486e20ce13dac8e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/14\/14-14.1791269706244.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nĩĩtuĩkĩte"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Heburoni"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kia Kerebi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "wa Yefune"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "mũ-Kenazi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "kĩrĩgĩrĩro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ũmũthĩ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nĩ wee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ũiyũũrire"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:06.244869241Z",
+  "model": "glm-5.3"
+}

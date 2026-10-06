@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya",
+      "rationale": "Gĩkũyũ ĩhĩtũkagira kiugo kĩa kũhĩmanĩria thĩinĩ wa mbaara ĩrĩa ĩtarĩ thĩinĩ wa Kĩhibirania"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hema",
+      "rationale": "האהל nĩ hema, no Micikani nĩ kiugo gĩa משכׅן gwĩtuĩka — makwa okire hema yĩmwe"
+    }
+  ],
+  "translation": "Na makwa na ciana ciacio maarĩ thĩinĩ wa marĩgi wa nyũmba ya Yahwe, nyũmba ya hema, harĩ mĩrĩta ya kũikenia.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "7543d810c823b9bc2102f134f33f8af1bec18a05bce4e28ecc2d4f96b9df7dac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/9\/23-23.1791270838050.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "na makwa"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "na ciana ciacio"
+    },
+    {
+      "surface": "על",
+      "gloss": "maarĩ thĩinĩ wa"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "marĩgi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wa nyũmba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyũmba ya"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "harĩ mĩrĩta ya kũikenia"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:58.053289583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 34:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Qaati, Kipodi, Yanocupi, Oreri",
+      "rationale": "Mariĩtwa ma inyoni ici nĩ me mĩhari: pelican\/cormorant, bittern\/hedgehog\/porcupine, heron\/owl, raven — mũtaũri o wothe nĩonanĩte atĩrĩa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו ובהו",
+      "rationale": "Tohu na bohu nĩ cio icunjĩ cia Kĩambĩrĩria 1:2; Icaki nĩagĩrĩirio na Edomu ũgũa ũrĩa warĩ thĩ ya mbere — maũndũ manini magĩcoke kuuma mbere ya ũthoma, na gĩkũyũ gĩtarĩ na mũhiano wa ndemwa icio."
+    },
+    {
+      "kind": "measurement",
+      "subject": "קו ואבני",
+      "rationale": "Ũthiiri na mairĩngĩ nĩ ithiomi cia kũgereria kũingĩra nyũmba — nĩguo kũgereria kwa gũtherithia Edomu gĩkuũkitio."
+    },
+    {
+      "kind": "addition",
+      "subject": "mũndũ",
+      "rationale": "Kĩhibirania gĩtarĩ na mũciĩ wa nĩahathĩte; gĩcunjĩ kĩmwe kĩngĩtarĩ kĩa Kĩgĩkũyũ kĩongetio thĩinĩ wa ⟨…⟩."
+    }
+  ],
+  "translation": "Na nĩcĩmũthamĩkĩrire Qaati na Kipodi, na Yanocupi na Oreri nĩciikaragĩra ho; na ⟨mũndũ⟩ nĩahathĩte igũrũ rĩake ũthiiri wa ũgũa, na mairĩngĩ ma gũtheri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "fd9272417902e74c469ab0e78936ba192f6326de52c59c60f8f0485a949c398a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/34\/11-11.1791270133324.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירשוה",
+      "gloss": "nĩcĩmũthamĩkĩrire"
+    },
+    {
+      "surface": "קאת",
+      "gloss": "Qaati"
+    },
+    {
+      "surface": "וקפוד",
+      "gloss": "na Kipodi"
+    },
+    {
+      "surface": "וינשוף",
+      "gloss": "na Yanocupi"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "na Oreri"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "nĩciikaragĩra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "nĩahathĩte"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "igũrũ rĩake"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ũthiiri"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ũgũa"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "na mairĩngĩ"
+    },
+    {
+      "surface": "בהו",
+      "gloss": "gũtheri"
+    }
+  ],
+  "timestamp": "2026-10-06T07:02:13.328484888Z",
+  "model": "glm-5.3"
+}

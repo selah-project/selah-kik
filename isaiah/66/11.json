@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 66:11",
+  "book": "isaiah",
+  "lang": "kik",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũingĩre",
+      "rationale": "מזיז nĩ 'mĩena-yende ya mbele' — gĩcunjĩ kĩa kĩũmbe kĩrĩa kĩhĩtaga mũbewa; taũrĩtwo ta 'mũingĩre'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תינקו \/ תמצו",
+      "rationale": "mĩgambo ĩrĩ ya kũnyua (yanak\/matsats) ĩrĩkaganĩrĩru rũgano-inĩ rwa kũnyua rwĩgwĩrĩ two thutha wa thangũ ya Yerucarayimu"
+    },
+    {
+      "kind": "you",
+      "subject": "arĩa metĩkĩtie Yerucarayimu",
+      "rationale": "mũhoro ũrĩa ũthagĩtwo nakĩo nĩ andũ arĩa mahota Yerucarayimu (66:10)"
+    }
+  ],
+  "translation": "Nĩgeetha mũnyue na mũthoore kuuma mbele cia kũhoota kwake, nĩgeetha mũnyuure na mũkenie mũingĩre-inĩ wa ũgooci wake.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e5a4bedff673c463184a39de2d04799d234322720e2cfb3e3d377555d5e8ed88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/isaiah\/66\/11-12.1791270193069.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תינקו",
+      "gloss": "mũnyue"
+    },
+    {
+      "surface": "ושבעתם",
+      "gloss": "na mũthoore"
+    },
+    {
+      "surface": "משד",
+      "gloss": "kuuma mbele"
+    },
+    {
+      "surface": "תנחמיה",
+      "gloss": "cia kũhoota kwake"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nĩgeetha"
+    },
+    {
+      "surface": "תמצו",
+      "gloss": "mũnyuure"
+    },
+    {
+      "surface": "והתענגתם",
+      "gloss": "na mũkenie"
+    },
+    {
+      "surface": "מזיז",
+      "gloss": "mũingĩre-inĩ"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "wa ũgooci wake"
+    }
+  ],
+  "timestamp": "2026-10-06T07:03:13.090703399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 4:12",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mĩrĩma",
+      "rationale": "גללים nĩ mahũra ma kũrĩma (bowels of dried dung); 'kĩrĩma kĩumĩte kwa mũndũ' nĩ kĩrũnganĩru kwa צאת"
+    },
+    {
+      "kind": "you",
+      "subject": "kwa Ezekieri",
+      "rationale": "Watho ũyũ ũrĩhĩtwo Ezekieri mwene, mũhakaSign wa Yerucarayimu"
+    }
+  ],
+  "translation": "Na ugati wa mbembe ndũrirĩra, na ũcio mĩrĩma-inĩ ya kĩrĩma kĩumĩte kwa mũndũ ndũkaũmbũa mbere ya metho mao.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "8f0e9efccba7c72bfa08fe5de48402a506c1a12839ce95091c1e1a4ba2c3171b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/4\/12-12.1791270277191.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועגת",
+      "gloss": "na ugati"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "wa mbembe"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "ndũrirĩra"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "na ũcio"
+    },
+    {
+      "surface": "בגללי",
+      "gloss": "mĩrĩma-inĩ"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kĩrĩma kĩumĩte"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kwa mũndũ"
+    },
+    {
+      "surface": "תעגנה",
+      "gloss": "ndũkaũmbũa"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "mbere ya metho mao"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:37.197253716Z",
+  "model": "glm-5.3"
+}

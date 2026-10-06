@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 13:29",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "athũni",
+      "rationale": "נערי nĩ 'arĩa ari ainĩ' (young men); athũni nĩ mũhiano wa mũthingu, ta taũri ingĩ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "magĩiyũra",
+      "rationale": "וינסו gũtikuo 'magĩiyũra' no 'magĩthii na mbere na mwĩhoko' — kũiyũra nĩ gũkũrũmĩra kwa hinya"
+    }
+  ],
+  "translation": "Na athũni a Abucaromu makĩĩra Amnoni o ũrĩa Abucaromu aawathĩte; nao ciana ciothe cia mũthamaki magĩikĩra, magĩrĩa, mũndũ o mũndũ igũrũ wa mũri wake, magĩiyũra.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "004fb9fe9c0901cdf40455fd92c6c006d423fd6ddf06eb4ed5b349b1a4c1baa4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/13\/29-29.1791269843340.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "makĩĩra"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "athũni"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abucaromu"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "kũ Amnoni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "o ũrĩa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aawathĩte"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abucaromu"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "magĩikĩra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ciana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "cia mũthamaki"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "magĩrĩa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o mũndũ"
+    },
+    {
+      "surface": "על",
+      "gloss": "igũrũ wa"
+    },
+    {
+      "surface": "פרדו",
+      "gloss": "mũri wake"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "magĩiyũra"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:23.341576425Z",
+  "model": "glm-5.3"
+}

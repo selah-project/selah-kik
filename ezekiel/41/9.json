@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 41:9",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ithano ama",
+      "rationale": "Ũturithi wa nyũmba ya Yahwe: kĩanda kĩa mũrũgongo kĩgeranio na ithano ama."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנח",
+      "rationale": "Verbo ĩgoonekaga ta 'kũnaga'; KJV 'that which was left' vs LXX 'galerĩ' — tondũ ũhoro nĩ wa kĩndũ gĩa thutha wa gũturũka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mũrũgongo",
+      "rationale": "צלע nĩ 'riibũ\/rũgongo rwa thĩ' — kĩhumo kĩa kĩũga kĩa 'nyũmba-ya-marũgongo' kĩrarĩrĩria mũigana wa kũingĩha nyũmba."
+    }
+  ],
+  "translation": "Ũrĩa kĩanda kĩa mũrũgongo ũrĩa wĩ mbere ya nyũmba, kũrĩ ng'o, nĩ ithano ama; na ũrĩa mũnagwo nĩnyũmba ya marũgongo matũũrainĩ ⟨arĩa makũrĩ⟩ nyũmba yayo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "5e4966a989817e0001938796e901927be006677f05ea0ef547465e6d8552a00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/41\/9-9.1791270281398.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "kĩanda"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "kĩanda kĩa mũrũgongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "wa mũrũgongo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ ng'o"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "kũrĩ ng'o"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ithano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "na ũrĩa"
+    },
+    {
+      "surface": "מנח",
+      "gloss": "mũnagwo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nyũmba"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "marũgongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "matũũrainĩ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nyũmba yayo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:04:41.402828584Z",
+  "model": "glm-5.3"
+}

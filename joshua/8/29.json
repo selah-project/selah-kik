@@ -1,0 +1,175 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 8:29",
+  "book": "joshua",
+  "lang": "kik",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũthingu",
+      "rationale": "נבלה nĩ mũthingu wa mũndũ kana nyamu warĩ ũrĩa wĩ mbere wa gũthĩnjwo — 'carcass', ti 'body' ya mũndũ mũyitu"
+    },
+    {
+      "kind": "addition",
+      "subject": "wake \/ rwake",
+      "rationale": "Gĩkũyũ ĩhitũkagira ciugo cia kũonania mwene; Kĩhibirania kĩa mwambĩrie kĩtarĩ nacio"
+    },
+    {
+      "kind": "crux",
+      "subject": "תלה",
+      "rationale": "'nĩamuũmĩte thĩinĩ wa mũtĩ' — kũũma kana kũinĩra: ta Deut 21:22, watho wa kũmanĩria mũthĩnjĩrwo-inĩ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rũũinge rwa mahiga",
+      "rationale": "kũringa rũũinge nĩ kũingĩha kwa mahiga ma kũririkana, rũrĩ rwĩkĩire 'nginya mũthenya ũyũ'"
+    }
+  ],
+  "translation": "Na ⟨את⟩ mũthamaki wa Hayi nĩamuũmĩte thĩinĩ wa mũtĩ nginya thutha wa ũgikũro, na riũa rĩgĩkũra, Yehocua anaheana watho, na mũthingu wake ũmĩtwo thĩ kuuma mũtĩ-inĩ, na makĩũmanaũkia kũrĩ mũrano wa geta ra ũmũciĩ, na magĩkũũringa rũũinge rwa mahiga nene igũrũ rwake, ruo rwĩkĩire nginya mũthenya ũyũ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0fff7d9306733ff771684d21d47a8ad064a46168c590f2db08e1384fe5a019d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/joshua\/8\/29-29.1791269696518.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Na ⟨את⟩",
+      "marks": "mũthamaki wa Hayi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "העי",
+      "gloss": "wa Hayi"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "nĩamuũmĩte"
+    },
+    {
+      "surface": "על",
+      "gloss": "thĩinĩ wa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mũtĩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "thutha wa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ũgikũro"
+    },
+    {
+      "surface": "וכבוא",
+      "gloss": "na rĩgĩkũra"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "anaheana watho"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "וירידו",
+      "gloss": "na mũthingu wake ũmĩtwo thĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũthingu wake"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "mũthingu wake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuuma"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mũtĩ-inĩ"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "na makĩũmanaũkia"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "mũrano wa geta ra ũmũciĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mũrano"
+    },
+    {
+      "surface": "שער",
+      "gloss": "wa geta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ra ũmũciĩ"
+    },
+    {
+      "surface": "ויקימו",
+      "gloss": "na magĩkũũringa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "igũrũ rwake"
+    },
+    {
+      "surface": "גל",
+      "gloss": "rũũinge"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rwa mahiga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nginya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ũyũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:56.523432597Z",
+  "model": "glm-5.3"
+}

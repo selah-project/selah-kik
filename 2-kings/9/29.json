@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mwaka wa ikũmi na ũmwe",
+      "rationale": "Kũandĩka kwa hĩndĩ ya kinyanjĩrĩra kĩa athamaki — kũgeria njĩra ya mwaka."
+    },
+    {
+      "kind": "crux",
+      "subject": "mwaka wa ikũmi na ũmwe",
+      "rationale": "Kwiyiringanĩria na 2-Athamaki 8:25 ũrĩa wonekaga na 'mwaka wa gĩkũmĩrĩ na ithano' — hihi nĩ kũrũngwo kwa andũ mathomaga ma thutha."
+    }
+  ],
+  "translation": "Na hĩndĩ ya mwaka wa ikũmi na ũmwe wa Yoramu, mũrũ wa Ahabu, Ahaziahu agĩtua mwathi wa Yucuta.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "e3dd78cbf00f40b9c3269caaa67fcdd78af82754b0656ed9b5ac5c0303025f9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/9\/29-29.1791270025056.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Na hĩndĩ ya mwaka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wa ũmwe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "wa ikũmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mwaka"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "wa Yoramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũrũ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "wa Ahabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agĩtua mwathi"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yucuta"
+    }
+  ],
+  "timestamp": "2026-10-06T07:00:25.058274828Z",
+  "model": "glm-5.3"
+}

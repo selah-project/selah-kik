@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 35:7",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ere-Beti-Eri",
+      "rationale": "אֵל בֵּית־אֵל: 'Ngai wa Beti-Eri' (KJV, JPS) kana 'kũo kwa Beti-Eri' — thutha wa mũhiano wa 28:19."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nĩmoonĩtwo",
+      "rationale": "נגלו nĩ 'kũbuaruo\/kũonekana' — kĩbumbo kĩarĩrio gĩatũĩka kĩonekero."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuuma thĩinĩ wa mũrũ wa nyina",
+      "rationale": "מפני אחיw nĩ 'kuuma keengo-inĩ kwa mũrũ wa nyina' — 'thĩinĩ wa' nĩgũcohania 'enara'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל \/ אליו \/ בית אל",
+      "rationale": "Ere ('ngai') na אליו ('kũrĩ iro') na Beti-Eri ciugwo na mĩgambo ĩmwe — mũhianano ũtaũragwo thutha wa rĩĩtwa Ere-Beti-Eri."
+    },
+    {
+      "kind": "addition",
+      "subject": "iro",
+      "rationale": "Gĩkũyũ ĩrehithĩria kĩgĩrĩĩro gĩa kũrĩra hĩngĩci ya 'he' — נגלו ĩreka mũndũ warĩ na ũrĩa anamũkĩtie."
+    }
+  ],
+  "translation": "Akĩongorerera kũo itĩrĩra rĩa cahĩra, na akĩĩgetha kĩndũ kĩu Ere-Beti-Eri; nĩgũkorwo kũo Erohimu nĩmoonĩtwo kũrĩ iro, rĩrĩa acokire kuuma thĩinĩ wa mũrũ wa nyina.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "47f67d9f37a21cf2342f855b9197838c3b364f661ef0cb59fb7d6616f1c4e6b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/35\/7-7.1791269264613.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akĩongorerera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "itĩrĩra rĩa cahĩra"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akĩĩgetha"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "kĩndũ kĩu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ere"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kũo"
+    },
+    {
+      "surface": "נגלו",
+      "gloss": "nĩmoonĩtwo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũrĩ iro"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "rĩrĩa acokire"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kuuma thĩinĩ wa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mũrũ wa nyina"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:44.619059394Z",
+  "model": "glm-5.3"
+}

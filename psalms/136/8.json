@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "kik",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "riũa",
+      "rationale": "השמש nĩ riũa; kĩandĩkĩro gĩa Kĩhibirania kĩrĩ mũgambo mũtheru wa 'm' gũoya o bũrũri-inĩ wa andũ a thiini"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hĩndĩ ciothe",
+      "rationale": "לעול׬ 'kinya tene na tene' nĩgwetetwo ta hĩndĩ ciothe; hecedi nĩ yo ciugo ya Kĩhibirania ya חסד"
+    },
+    {
+      "kind": "addition",
+      "subject": "wake",
+      "rationale": "Hebrew nĩ na חסדו -o ya gũcooka; wake nĩguo kĩhooto kĩa wĩra ũcio"
+    }
+  ],
+  "translation": "⟨את⟩ riũa rĩrĩa hiũrahĩrie, riothe mũthenya; nĩgũko hecedi wake ũikaraga hĩndĩ ciothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "75a38df64e76e9e75eeb98d560d9ed3ff2c14d4616ece89c7b8eb06749125cbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/psalms\/136\/8-8.1791270521469.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riũa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "riũa rĩrĩa hiũrahĩrie"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "riothe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya-inĩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hĩndĩ ciothe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hecedi wake"
+    }
+  ],
+  "timestamp": "2026-10-06T07:08:41.473541138Z",
+  "model": "glm-5.3"
+}

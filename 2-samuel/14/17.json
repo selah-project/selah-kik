@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 14:17",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "למנוחה",
+      "rationale": "thutha 'kiugo' nĩ kuuga kiugo gĩahũcirage kũheana kũhotorwo, ti kũhotorwo kwa mũthamaki mwene"
+    }
+  ],
+  "translation": "Mũthenji wakwa akiuga: Kiugo gĩa mwathi wakwa, mũthamaki, gĩkahũcirie kũhotorwo, nĩgũkorwo ta mũrungani wa Erohimu no ũguo nĩ mwathi wakwa mũthamaki gũthoma kĩĩga kĩega na kĩoru; na Yahwe Erohimu waku arĩ hamwe nawe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "54c0930c22f77379fbf8a1c5116574efa8d4cdaf098eb5062ab2fdc34f824328",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/14\/17-19.1791269900371.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "mũthenji wakwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "gĩkahũcirie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nakũ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kiugo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "למנוחה",
+      "gloss": "kũhotorwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgũkorwo"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "ta mũrungani"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Erohimu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no ũguo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mwathi wakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "gũthoma"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kĩĩga kĩega"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "na kĩoru"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "na Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu waku"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "arĩ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hamwe nawe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:20.376464089Z",
+  "model": "glm-5.3"
+}

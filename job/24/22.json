@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 24:22",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "agĩtherithia",
+      "rationale": "ומשך nĩ 'gũcũthia': nĩ Ngai ũrĩa ũcũthia ahaũ nĩ hĩnya wake (ASV\/BSB), kana mũndũ-wa-thũ ũrĩa ũcũthia ahaũ (KJV\/JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "arĩa mamarĩ hinya",
+      "rationale": "אבירים no ĩtuĩke 'ng'ombe iria ihinya' kana 'atumiri a Ngai' — kĩongo kĩrĩa kĩa mũndũ nĩkĩrĩ kĩhũte"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ndaahokĩtie mũoyo-inĩ",
+      "rationale": "gũcookerana na YLT 'hatirĩ mũndũ ũrĩa ũhokĩtie mũoyo' — ũhoro wĩ mĩena ĩĩrĩ, ndũmĩrĩri-inĩ na mũndũ-inĩ"
+    }
+  ],
+  "translation": "Na agĩtherithia arĩa mamarĩ hinya nĩ hĩnya wake; agĩrĩmũkĩte, na we ndaahokĩtie mũoyo-inĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "dad75c2bf68215785b7948e1b252ae866eaf6f51ce5d004f5aab702460aab21a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/24\/21-22.1791270666846.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשך",
+      "gloss": "na agĩtherithia"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "arĩa mamarĩ hinya"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "nĩ hĩnya wake"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "agĩrĩmũkĩte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na... ti"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "gũhokĩtia"
+    },
+    {
+      "surface": "בחיין",
+      "gloss": "mũoyo-inĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:06.853526984Z",
+  "model": "glm-5.3"
+}

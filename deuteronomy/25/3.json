@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "kik",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "arĩitiniĩ",
+      "rationale": "Ũtarati wa mahũthagĩro mana ũrĩa watho ũgĩteithagia — nĩ kĩgeranio gĩa ũhoro wa maũndũ."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונקלה",
+      "rationale": "Gĩthũngũ 'seem vile\/vilely esteemed' — Kĩhibirania nĩkuuga 'mũndũ atũũke mũnini', kwao nĩkuuga 'aheanwo thĩ'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסיף … יסיף",
+      "rationale": "Kĩugo kĩmwe gĩcookerio iro: 'ndaongereere … arĩ oongire' — kĩraya kĩa Kĩhibirania gĩtarĩ gĩa Kĩgĩkũyũ."
+    }
+  ],
+  "translation": "Arĩitiniĩ ĩkũmũrie, ndaongereere; no arĩ oongire kũmũrũŋa orenda ithenya rĩu na minyamaro nĩiyo, na mũrũ wanyu aheanwo thĩ mbere ya macho maku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "af550626ce3c0dbff5ea9cbb1826ea2092e1a9798395158f99c4fb0e9fe06add",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/deuteronomy\/25\/3-3.1791269664103.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Arĩitiniĩ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ĩkũmũrie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndaongereere"
+    },
+    {
+      "surface": "פן",
+      "gloss": "no"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "arĩ oongire"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "kũmũrũŋa"
+    },
+    {
+      "surface": "על",
+      "gloss": "orenda"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ithenya rĩu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "minyamaro nĩiyo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nĩiyo"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "aheanwo thĩ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mũrũ wanyu"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "mbere ya macho maku"
+    }
+  ],
+  "timestamp": "2026-10-06T06:54:24.104084843Z",
+  "model": "glm-5.3"
+}

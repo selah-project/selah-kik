@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 20:2",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Haligwo",
+      "rationale": "חלילה maũndũ ma kũhiũrwo; ihoya rĩa Kĩhibirania rĩtaũrwo ta 'Haligwo' — kĩũmũ gĩa kwo kĩarĩkĩte."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ũkahotithia",
+      "rationale": "תמות nĩ 'ũkuakuĩte'; 'ũkahotithia' nĩ mũhiano wa gũthiĩ mbere ya wĩra wa Ngai."
+    },
+    {
+      "kind": "you",
+      "subject": "Dawidi",
+      "rationale": "Yonatani arĩkũrataũra Dawidi mwaki-inĩ wa kũmũrĩa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kĩndũ kĩnene\/kĩnini",
+      "rationale": "דבר גדול\/דבר קטן — mũreru wĩraya ũrĩa ũtarĩ thĩinĩ wa taũra rĩu."
+    }
+  ],
+  "translation": "Nakĩ oigire ⟨nake⟩ atĩrĩ: Haligwo, ndarĩ ũndũ ũrĩa ũkahotithia! Ndũkuakũĩte. Rora, ithe wakwa ndaingagĩra kĩndũ kĩnene kana kĩnini ata akĩnyiitĩrĩra ⟨gĩgakĩra⟩ rĩngĩ cia ⟨את⟩ ngũinĩ yanyu; na nĩ ũkĩrĩkĩ ithe wakwa aigĩrĩire kũnyiira ⟨את⟩ kĩndũ kĩu kwandĩ? Kĩu ti ũguo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "128e4f769502e70c674f7d03abafdc56de49ca3c9f71b4102f6d82ca64f15f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/20\/2-2.1791269844870.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nakĩ oigire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨nake⟩"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Haligwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ũkahotithia"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Rora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "handũ ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ndaingagĩra"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kĩnene"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kĩndũ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kĩnini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ata"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "akĩnyiitĩrĩra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rĩngĩ cia ngũinĩ yanyu"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ngũinĩ yanyu"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "na nĩ ũkĩrĩkĩ"
+    },
+    {
+      "surface": "יסתיר",
+      "gloss": "aigĩrĩire kũnyiira"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwandĩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩndũ kĩu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kĩndũ kĩu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kĩu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ũguo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:57:24.873238654Z",
+  "model": "glm-5.3"
+}

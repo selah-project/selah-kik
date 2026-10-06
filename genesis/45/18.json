@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mbura",
+      "rationale": "חלב nĩ 'mafuta-mĩnĩ'; 'mbura ya thĩ' nĩ mũhiano wa kĩmwe — kĩega kĩa thĩ kĩrĩa kĩa mĩnĩ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mwe⟩",
+      "rationale": "Kĩgĩko kĩa gũcokia kĩrĩa kĩmwe kĩrĩa Kĩhibirania kĩtarĩ naco thĩinĩ wa ũira wa kwĩruta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתיכם",
+      "rationale": "בית nĩ 'nyũmba' na 'mbarĩ' hamwe — 'nyũmba cinyu' ĩikaraga na mĩena ĩĩrĩ"
+    }
+  ],
+  "translation": "Mũthenyere ⟨mwe⟩ ⟨את⟩ ithe wanyu na ⟨את⟩ nyũmba cinyu, mũkĩũmbũkĩra kwakwa, nĩngũheana ⟨ĩmwe⟩ ⟨את⟩ wega wa thĩ ya Micirayimu, mũciie ⟨את⟩ mbura ya thĩ.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "9b161719a8f5e1cd24bb29dd05dbede232a3a5fa3e7247396549d60d5f374c3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/45\/18-18.1791269308957.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "mũthenyere ⟨mwe⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithe wanyu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ithe wanyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "nyũmba cinyu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "nyũmba cinyu"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mũkĩũmbũkĩra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwakwa"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "nĩngũheana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ĩmwe⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wega wa thĩ ya Micirayimu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wega"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "thĩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Micirayimu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mũciie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbura ya thĩ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mbura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya thĩ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:48:28.962720366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thiri",
+      "rationale": "כסף nĩ 'thiri' (silver) — harĩa andũ a Kĩthwahĩri magweta 'cekeri' (shekel) nĩ kĩndũ kĩngĩ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לו",
+      "rationale": "לו no gũtheri 'wake' (wa mwathi wa boro) kana 'wacio' (wa mwathi wa nyamu) — maandĩko matabanaine; nĩngĩathĩrire 'waku' ta JPS"
+    }
+  ],
+  "translation": "Mwathi wa boro arathikĩrire ⟨את⟩ thiri, ahe mwathi wacio, na ũrĩa waathĩkĩte nĩgũtuĩka waku.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "ebdca69432d257cc6cc183652e511f0f8ba3abf6daca1b6030f152c6f8d300b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/21\/34-34.1791269356368.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "mwathi"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "wa boro"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "arathikĩrire"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "thiri"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ahe"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "mwathi wacio"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "na ũrĩa waathĩkĩte"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nĩgũtuĩka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "waku"
+    }
+  ],
+  "timestamp": "2026-10-06T06:49:16.376269164Z",
+  "model": "glm-5.3"
+}

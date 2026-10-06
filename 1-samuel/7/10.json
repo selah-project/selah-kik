@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "kik",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירעם \/ בקול גדול",
+      "rationale": "רעם nĩ kũreranĩrĩria kwa ngurani — kiugo kĩmwe kĩonanagia mũgambo mũnini na gũtindicĩria mwĩhoko wa Afericithimu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהמם",
+      "rationale": "'gũtĩingĩhania\/kũheana gũtinyigĩrĩria' — hiuma gĩcunjĩ kĩa kũhũmũka kwa mĩrĩma."
+    }
+  ],
+  "translation": "Na rĩrĩa Semueri arĩ kuongererera kĩheo gĩa kũniinio, na Afericithimu makĩyũra ũthĩnjĩ-inĩ wa Yiceraeri, Yahwe nĩareanĩrĩrie mũgambo mũnini mũcio mũthenya, ihinda rĩa Afericithimu, akĩinamithia, na magũtuũkwo mbere ya Yiceraeri.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a92de88acf864fb972e6fa85fbf950bd079bf882f7e944e7d0c3989cb178e4bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-samuel\/7\/10-11.1791269757301.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Na rĩrĩa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semueri"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "arĩ kuongererera"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "kĩheo gĩa kũniinio"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "na Afericithimu"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "makĩyũra"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ũthĩnjĩ-inĩ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "akĩreranĩrĩria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mũgambo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mũnini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mũthenya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "mũcio"
+    },
+    {
+      "surface": "על",
+      "gloss": "ihinda rĩa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Afericithimu"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "akĩinamithia"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "magũtuũkwo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mbere ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiceraeri"
+    }
+  ],
+  "timestamp": "2026-10-06T06:55:57.302453987Z",
+  "model": "glm-5.3"
+}

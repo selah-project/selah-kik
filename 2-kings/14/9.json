@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 14:9",
+  "book": "2-kings",
+  "lang": "kik",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nyamu cia mũgũnda",
+      "rationale": "חית השדה singular ya kwaria kĩngĩgia (ng'ombe\/nduriri imwe) no KJV 'a beast' yaheana rimwe; JPS 'beasts' atĩrĩ na maingĩ — gĩcenji gĩkũhĩ nĩ mũthemba wa gũcooka."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kĩgũcũ na mũcathamũ",
+      "rationale": "Uuge wa keero ũrĩa Yehoaci ahoragia Amaciyahu ta kĩgũcũ kĩng'etwo na mũcathamũ — fable ya Kĩhibirania, kũgerwo nĩ gĩthimo kĩa ũthamaki."
+    },
+    {
+      "kind": "addition",
+      "subject": "ũhoro ũyũ",
+      "rationale": "לאמר irutagwo rora-rora ĩigĩrũa na 'kũuga' gĩa kĩambĩrĩria; kĩongerwo naguo gũcunjĩ-inĩ kĩa mbere gĩa kũhoreria kĩgunĩ kĩa ũhoro."
+    }
+  ],
+  "translation": "Na Yehoaci mũthamaki wa Yiceraeri atumĩra Amaciyahu mũthamaki wa Yehuda ũhoro ũyũ: Kĩgũcũ gĩarĩirie Lebanoni kĩatumĩra kĩ mũcathamũ wa Lebanoni, kĩũga atĩrĩ: He ⟨את⟩ mũritũ wakwa nĩmũka wa mũrũ wakwa; na nyamu cia mũgũnda iria iciĩ Lebanoni ciacokire itanyanyũithia ⟨את⟩ kĩgũcũ kĩu.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "4f2b70174effad0ee4518139e24cbca61d6b98b5d370354a0a5732c93bb72ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-kings\/14\/9-9.1791270062920.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atumĩra"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoaci"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yiceraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amaciyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ũhoro ũyũ"
+    },
+    {
+      "surface": "החוח",
+      "gloss": "Kĩgũcũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gĩarĩirie"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kĩatumĩra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kĩ"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "mũcathamũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "Lebanoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kĩũga"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "He"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mũritũ wakwa"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "mũritũ wakwa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mũrũ wakwa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nĩmũka"
+    },
+    {
+      "surface": "ותעבר",
+      "gloss": "ciacokire"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyamu cia"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mũgũnda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iria"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "iciĩ Lebanoni"
+    },
+    {
+      "surface": "ותרמס",
+      "gloss": "itanyanyũithia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kĩgũcũ kĩu"
+    },
+    {
+      "surface": "החוח",
+      "gloss": "kĩgũcũ kĩu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:01:02.922956214Z",
+  "model": "glm-5.3"
+}

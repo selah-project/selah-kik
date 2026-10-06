@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinya wakwa",
+      "rationale": "חילי gĩkundi kĩmwe kĩa maũndũ marĩa mataratũ: hinya, ngwatanĩro ya andũ, arũmbi — 'arũmbi wakwa' no ũngĩgĩrĩra kũgerwo"
+    }
+  ],
+  "translation": "Rĩ nĩngĩikarĩte nĩ gũkeno nĩgetha hinya wakwa warĩ mũnene, kana nĩgetha moko wakwa nĩhootire mĩngĩ;",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "56f367953abb5639d01bd8d43f99db75b4601e844b304ef879d38174e8967a2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/31\/25-26.1791270660974.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "rĩ"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "nĩngĩikarĩte nĩ gũkeno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nĩgetha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mũnene"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "hinya wakwa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kana nĩgetha"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mĩngĩ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nĩhootire"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moko wakwa"
+    }
+  ],
+  "timestamp": "2026-10-06T07:11:00.977704890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 21:17",
+  "book": "1-chronicles",
+  "lang": "kik",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mũrimũ mũnene",
+      "rationale": "מגפה nĩ mwarũ wa andũ mĩingĩ — 'mũrimũ mũnene' nĩ gũtaũra kũrĩ mũno, ta kũgũa kwa andũ mĩingĩ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתי\/הרעותי",
+      "rationale": "infinitive absolute והרע הרעותי — ciugo igĩrĩ ciumanĩte, kwarahũkra kwa Gĩkũyũ gũthĩnjĩrwo nĩ kĩhoto"
+    },
+    {
+      "kind": "addition",
+      "subject": "ndakũhoya",
+      "rationale": "נא nĩ kiugo gĩa kũhoya gĩa Kĩhibirania, kĩngĩcirĩtwo ta 'ndakũhoya' kana 'mũthenya ũyũ'"
+    },
+    {
+      "kind": "you",
+      "subject": "kwa Yahwe",
+      "rationale": "Dawindi agĩrĩrĩra Yahwe moongo-inĩ — mũhoreri wa mũthĩnjĩri-ngai"
+    }
+  ],
+  "translation": "Dawidi akĩuga kwa Erohimu: Nĩĩ ndĩ oigĩte kũbararia ⟨את⟩ andũ? Nĩĩ mwarĩ ndĩmenete, na nĩĩ mwarĩ ndĩrekire ũru; arĩa ndũrũme ici, mwerũ mehĩtie? Yahwe Erohimu wakwa, ndakũhoya, ĩgũrũ rĩaku ĩgĩkorerethaĩrĩme na nyũmba ya ithe wakwa, no ti kwa andũ ako, ndĩkagĩrwo nĩ mũrimũ mũnene.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a60fee708bccfcc672928a74e1ba62d3a479975a70615453c7af3b76d85682e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-chronicles\/21\/17-17.1791270839813.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nĩĩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndĩ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "oigĩte"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "kũbararia"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "andũ",
+      "marks": null
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nĩĩ mwarĩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nĩwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndĩmenete"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרעותי",
+      "gloss": "ndĩrekire ũru"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "arĩa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ndũrũme ici"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mwerũ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mehĩtie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wakwa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ĩgĩkoreretha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndakũhoya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ĩgũrũ rĩaku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ĩrĩme"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "na nyũmba ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ithe wakwa"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "andũ ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "no ti"
+    },
+    {
+      "surface": "למגפה",
+      "gloss": "kũgĩrwo nĩ mũrimũ mũnene"
+    }
+  ],
+  "timestamp": "2026-10-06T07:13:59.819023027Z",
+  "model": "glm-5.3"
+}

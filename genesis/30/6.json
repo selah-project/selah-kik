@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 30:6",
+  "book": "genesis",
+  "lang": "kik",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דנני\/דן",
+      "rationale": "kiugo gĩa kũingĩtha ciira (דנני) kĩrũnganĩte na rĩĩtwa Dani — mũhiano ũrĩa wonagwo kinya na gĩthũngũ"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "gloss_ha_kik": "nĩgoke na ciugo cia kũheo 'heo' harĩa mũciari wothe woĩra wandũ ũrĩa wahetwo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨thĩinĩ wakwa⟩",
+      "rationale": "דנני nĩ 'anĩingĩthĩtie ciira' — kĩongo kĩa wandũ kĩonđerwo thĩinĩ wa ⟨…⟩"
+    }
+  ],
+  "translation": "Raheri akiuga: Erohimu aneengĩtie ciira ⟨thĩinĩ wakwa⟩, na ooka agĩthĩikĩrĩria mũgambo wakwa, akĩheo mũciari; nĩ ũndũ ũcio akĩũhoro rĩĩtwa rĩake Dani.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "1f1c219e862c5614025d4f8ca2a021a22a7f405f771037acacc032ff325f16c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/genesis\/30\/6-6.1791269251652.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akiuga"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raheri"
+    },
+    {
+      "surface": "דנני",
+      "gloss": "aneengĩtie ciira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "na ooka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "agĩthĩikĩrĩria"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "mũgambo wakwa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akĩheo"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": "mũciari"
+    },
+    {
+      "surface": "על",
+      "gloss": "nĩ ũndũ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ũcio"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "akĩũhoro"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rĩĩtwa rĩake"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    }
+  ],
+  "timestamp": "2026-10-06T06:47:31.657093079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 18:5",
+  "book": "1-kings",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nyamũ-ĩrĩ (peredi)",
+      "rationale": "פרד nĩ mũgati wa ndigari na ngamĩra; Gĩkũyũ gĩtirĩ kiugo kĩmwe, nĩgeetho kĩngeretwo na kĩmwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "kana ĩmwe",
+      "rationale": "Hebrew wĩra 'tũrendĩ kũcinia kuuma nyamũ' — kĩng'ethanio kĩongiretwo nĩgũkorwo maũndũ magegani"
+    },
+    {
+      "kind": "you",
+      "subject": "Obadayahu",
+      "rationale": "Akabu arĩ kũhootana mũndũ-te Akabu nĩ Obadayahu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kũhĩra macũrũrũ nthũĩ ciothe",
+      "rationale": "Ūhoro wa kũringanĩra na kũkorwo macombo mahotaga kũhinga ndigari"
+    }
+  ],
+  "translation": "Akabu akĩuga atĩrĩ nĩ Obadayahu: Ũthii thĩ-inĩ ũkĩhĩra macũrũrũ ma mai mathiote na nthũĩ cia mai ciothe; na ũngĩhota tũkona macombo, tugĩcũrania ndigari na ngamĩra ya nyamũ-ĩrĩ, nĩgetha tũrehirie kũcinia nyamũ kana ĩmwe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "d28d3ac92e08906009735152d2efe772b25826e3b5a6b1d6fdeb12577ab206ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/1-kings\/18\/5-5.1791269918984.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akĩuga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadayahu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ũthii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "thĩ-inĩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "thiote"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "macũrũrũ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "maĩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na kũrĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ciothe"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "nthũĩ cia mai"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "na ũngĩhota"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tũkona"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "macombo"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "na tugĩcũrania"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ndigari"
+    },
+    {
+      "surface": "ופרד",
+      "gloss": "na nyamũ-ĩrĩ (peredi)"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "na tũrendĩ"
+    },
+    {
+      "surface": "נכרית",
+      "gloss": "kũcinia"
+    },
+    {
+      "surface": "מהבהמה",
+      "gloss": "nyamũ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:58:38.985045387Z",
+  "model": "glm-5.3"
+}

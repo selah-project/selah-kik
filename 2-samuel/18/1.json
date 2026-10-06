@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "kik",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akĩrora",
+      "rationale": "פקד nĩ 'kũroora\/kũcokora' mũthemba wa kũbaria andũ — mũtambo wa ng'endo, ti kũbaria tu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ngiri na magana",
+      "rationale": "Kwahũthĩra kwa ariĩ (אלפים, מאות) kwarĩa mũthemba wa kĩngomi kĩa andũ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את + ו (H854 'hamwe na') — ĩrĩa ĩhũthagĩwo ta 'hamwe na we', ĩngĩarĩria na ⟨את⟩"
+    }
+  ],
+  "translation": "Dawidi akĩrora ⟨את⟩ andũ arĩa ⟨את⟩ aarĩ hamwe na we, akĩmaikaria igũrũ wa ao athamaki a ngiri na athamaki a magana.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "08091ea0ddc4daadec9d13a7b8e75fb181a236c7be6fba266b8c204454eb3e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/2-samuel\/18\/1-2.1791269976617.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "akĩrora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andũ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "andũ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aría"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aarĩ hamwe na we"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akĩmaikaria"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "igũrũ wa ao"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "athamaki a"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngiri"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "na athamaki a"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "magana"
+    }
+  ],
+  "timestamp": "2026-10-06T06:59:36.620765854Z",
+  "model": "glm-5.3"
+}

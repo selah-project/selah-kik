@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 45:13",
+  "book": "ezekiel",
+  "lang": "kik",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "icunjĩ rĩa gatandatũ rĩa efa",
+      "rationale": "Verse fixes grain tribute quantities in efa and homeri measures."
+    },
+    {
+      "kind": "crux",
+      "subject": "ששית",
+      "rationale": "'A sixth (part)' as fraction vs ordinal 'sixth'; KJV\/ASV read a sixth of an ephah per homer."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרומה \/ תרימו",
+      "rationale": "Same root רום: 'the offering \/ that you lift up' — pun lost in Gĩkũyũ."
+    }
+  ],
+  "translation": "Ũyũ nĩyo kĩheo kĩrĩa mũraruta: icunjĩ rĩa gatandatũ rĩa efa ĩmwe kuuma homeri ya ngano, na icunjĩ rĩa gatandatũ rĩa efa ĩmwe mũrakĩheana kuuma homeri ya mũgenyo.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "0fb299557cbba672b33dccb3c70b2c9157b91ec029041318ff7fd0e19e2a5b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/ezekiel\/45\/13-14.1791270439297.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ũyũ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "kĩheo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kĩrĩa"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "mũraruta"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "icunjĩ-rĩa-gatandatũ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "homeri"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "וששיתם",
+      "gloss": "na-icunjĩ-rĩa-gatandatũ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "homeri"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mũgenyo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:07:19.303045469Z",
+  "model": "glm-5.3"
+}

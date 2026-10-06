@@ -1,0 +1,177 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 42:11",
+  "book": "job",
+  "lang": "kik",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kerĩita",
+      "rationale": "קשיטה nĩ ciiũmbũ cirĩa ciigĩrĩirwo igathĩkwo: 'igota rĩa thahi', 'kẽra', 'rwamba rwa mbeca' — ylt nĩĩigaga 'kesitah'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ngurũ",
+      "rationale": "נזם nĩ ngurũ ĩthondekagwo igũrũ rĩa ndũrĩ, ti kũgĩka kwa gĩtũ kĩmwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינדו\/וינחמו",
+      "rationale": "ũgĩ wa 'nud' (kũtigoona) na 'naḥam' (kũtherithia) ũkoragwo hamwe — mĩhĩrĩga ĩĩrĩ ya kũigua na mũthĩnjĩri wa maũndũ macio ti ma Gĩkũyũ"
+    },
+    {
+      "kind": "hapax-kind",
+      "subject": "kerĩita",
+      "rationale": "קשיטה ĩrĩkũ igũrũ thĩinĩ wa Kĩam 33:19 na Yocũa 24:32 o ũguo — kiugo gĩa gĩcunjĩ kĩu kĩuonanagia na kũgũra kw'a thĩ"
+    }
+  ],
+  "translation": "Nĩmacookire kũmũũkĩra macio o arĩa aarĩ a arũa-awe, o aarĩa a arĩ aci-awe, o aarĩa amũmenaga thutha-inĩ; makamenya ⟨את⟩ ngate hamwe nake nyũmba-inĩ yakwa, makamũtigoona, makamũtherithia ⟨את⟩ harĩ ũru wothe ūrĩa Yahwe nĩamũreherire. Hakuhĩ nake-rĩ, mũndũ o wothe nĩamũheere kerĩita ĩmwe, na mũndũ o wothe ngurũ ĩmwe ya ndahi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "a5631871aba39b370c9175090a8628885e53b078137d24956b4ff53baff68ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/job\/42\/11-11.1791270641764.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nĩmacookire kũmũũkĩra macio"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kũmũũkĩra macio nĩwe ndare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o wothe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arĩa aarĩ a arũa-awe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "אחיתיו",
+      "gloss": "arĩa aarĩ a aci-awe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na o wothe"
+    },
+    {
+      "surface": "ידעיו",
+      "gloss": "arĩa aarĩ amũmenaga"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "thutha-inĩ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "makamenya ngate"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hamwe nake"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ngate"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "nyũmba-inĩ yakwa"
+    },
+    {
+      "surface": "וינדו",
+      "gloss": "makamũtigoona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "וינחמו",
+      "gloss": "makamũtherithia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kwa Yobu o mwĩhokeku"
+    },
+    {
+      "surface": "על",
+      "gloss": "harĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ũru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ūrĩa"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "nĩamũreherire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "makamuheere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kũrĩ we"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mũndũ o wothe"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "kerĩita"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ĩmwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "na mũndũ o wothe"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "ngurũ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya ndahi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ĩmwe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:10:41.774543354Z",
+  "model": "glm-5.3"
+}

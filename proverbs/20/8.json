@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "kik",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מזרה",
+      "rationale": "Kiugo kĩugaga ũthĩnga wa mboco — kũrũranithania — kĩngĩcirwo 'kũheanĩrĩria ũru'; kĩhooto kĩa kũratha nĩ kĩonekaga ta ũthĩnga."
+    },
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Kĩgani kĩa 'na' (instrumental) kĩongĩtwo gĩkundi-inĩ kĩa maitho, kĩrĩa Kĩhibirania gĩtarĩ nakĩo mwĩrigo ũrĩaonekaine."
+    }
+  ],
+  "translation": "Mũthamaki ũcĩĩrĩtie thigari-inĩ ya ciira, akarũranithania na maitho make ũru wothe.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "2a93697c9693c2fbb8b38bf130d47dddda5fb3edfd82e816a1f6af09fe1bcaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/proverbs\/20\/8-8.1791270555969.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mũthamaki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ũcĩĩrĩtie"
+    },
+    {
+      "surface": "על",
+      "gloss": "thigari-inĩ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "thigari"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ciira"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "akarũranithania"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na maitho make"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wothe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ũru"
+    }
+  ],
+  "timestamp": "2026-10-06T07:09:15.972359063Z",
+  "model": "glm-5.3"
+}

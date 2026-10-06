@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 33:7",
+  "book": "exodus",
+  "lang": "kik",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na-rĩ",
+      "rationale": "והיה nĩ kĩng'ania gĩa kũhĩhĩrĩria ũhoro, ti kiugo kĩrĩa kĩa ũhoro wa kĩĩga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המחנה \/ אהל מועד",
+      "rationale": "mĩthero ĩrĩmĩrĩire — gĩkũmbi ratũratũ na Ohoro wa Moedi ratũratũ — mũhianĩre ũrĩa ũthagũrũkĩte kĩnĩ kĩa mbaara ya kĩrĩra"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקח",
+      "rationale": "imperfect ya tene: 'agatĩrĩa mĩthenya ĩyo yothe' (ASV\/JPS) wĩgie 'agatinya' wa kĩmwe kĩa hĩndĩ ĩmwe"
+    }
+  ],
+  "translation": "Nao Moce agatinya ⟨את⟩ ohoro, akahinga kwe kwa ng'etũ ya gĩkũmbi, kũrĩ kure na gĩkũmbi, akĩruta rĩĩtwa kwe Ũrĩa Ohoro wa Moedi; na-rĩ, o mũndũ o wothe arĩkĩraga Yahwe nĩakuuma akĩthii kũrĩ Ohoro wa Moedi, ũrĩa arĩ kwa ng'etũ ya gĩkũmbi.",
+  "provenance": {
+    "system-sha256": "895e851dbc399b52eb0d56f5480d156f6f75bae8bf0488bb80dadc353337851d",
+    "user-sha256": "432d2351f1b8022e4831f361a8e7c38e438c4a1879b03855f2ca72b52d273385",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kik\/exodus\/33\/7-7.1791269441890.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Nao Moce"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "agatinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohoro"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ohoro"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "akahinga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kwa ng'etũ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "gĩkũmbi"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "kũrĩ kure"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "gĩkũmbi"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "akĩruta rĩĩtwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohoro"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wa Moedi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "na-rĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mũndũ o wothe"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "arĩkĩraga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nĩakuuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akĩthii kũrĩ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohoro"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wa Moedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ũrĩa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kwa ng'etũ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "gĩkũmbi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:50:41.895570636Z",
+  "model": "glm-5.3"
+}
