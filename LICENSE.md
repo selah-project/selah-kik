@@ -19,7 +19,7 @@ International (CC BY-SA 4.0)**.
 ## No ũrũmĩrĩre maũndũ maya
 
 - **Gĩtĩo** — uga kũrĩa wĩra ũyũ uumĩte (**Selah**,
-  https://selahproject.com), heana mũhari wa rũtha rũrũ, na uga kana nĩ
+  https://s33k3r.com), heana mũhari wa rũtha rũrũ, na uga kana nĩ
   ũgarũrĩte kĩndũ.
 - **Kũheana o ũguo** — ũrĩa ũgarũrĩte kana ũgaakĩte igũrũ rĩa wĩra ũyũ ũheane
   na rũtha o rũrũ.

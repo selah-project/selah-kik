@@ -143,7 +143,7 @@ Nĩkĩo tũkũbataraga.
   mĩthomere mĩingĩ, kana ũtarĩ na ma.
 - Hingũra **pull request** harĩa ihĩtia rĩonekaga wega na kiugo kĩrĩa kĩagĩrĩire
   nĩkĩmenyekete.
-- Mahĩtia ma kompyuta, kana maũndũ ma akaunti: https://selahproject.com/support
+- Mahĩtia ma kompyuta, kana maũndũ ma akaunti: https://s33k3r.com/learn/support
 
 Andĩka **ibuku, gĩcunjĩ na mũhari**, **kiugo kĩa Kĩhibirania** ũngĩkorwo
 nĩũkĩũĩ, kiugo kĩrĩa kĩrĩ ho rĩu, na kiugo kĩrĩa ũgwĩciiria nĩkĩo kĩagĩrĩire —

@@ -109,10 +109,10 @@ na mwene; rũtha rũrũ rũnyiitaga ũtaũri tu.
 
 ## Selah
 
-- Thiomi cia Selah: https://selahproject.com/learn/languages/index.md
-- Ũrĩa ũtaũri ũthondekagwo: https://selahproject.com/learn/data-sources/selah-renderings.md
-- Kĩhibirania kĩrĩa ũtaũri ũyũ wĩhocete (OSHB / WLC 4.20): https://selahproject.com/learn/data-sources/oshb-wlc.md
-- Gũteithia wĩra ũyũ: https://selahproject.com/support
+- Thiomi cia Selah: https://s33k3r.com/learn/languages/index
+- Ũrĩa ũtaũri ũthondekagwo: https://s33k3r.com/learn/data-sources/selah-renderings
+- Kĩhibirania kĩrĩa ũtaũri ũyũ wĩhocete (OSHB / WLC 4.20): https://s33k3r.com/learn/data-sources/oshb-wlc
+- Gũteithia wĩra ũyũ: https://s33k3r.com/learn/support
 
 ---
 
